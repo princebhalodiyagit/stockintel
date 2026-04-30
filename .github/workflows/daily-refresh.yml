@@ -16,7 +16,7 @@ jobs:
       - name: Install dependencies
         run: pip install yfinance requests beautifulsoup4 pandas
       - name: Run data collection
-        working-directory: ./stockintel
+        working-directory: ./stockintel/stockintel
         run: python run_all_github.py
       - name: Commit and push updated data
         working-directory: ./stockintel
