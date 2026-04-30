@@ -16,8 +16,10 @@ jobs:
       - name: Install dependencies
         run: pip install yfinance requests beautifulsoup4 pandas
       - name: Run data collection
+        working-directory: ./stockintel
         run: python run_all_github.py
       - name: Commit and push updated data
+        working-directory: ./stockintel
         run: |
           git config user.email "stockintel@auto.com"
           git config user.name "StockIntel Bot"
