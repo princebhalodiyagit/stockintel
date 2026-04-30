@@ -15,14 +15,12 @@ jobs:
           python-version: "3.11"
       - name: Install dependencies
         run: pip install yfinance requests beautifulsoup4 pandas
-      - name: Show files
-        run: ls -la && ls -la stockintel/
       - name: Run data collection
-        run: cd stockintel && python run_all_github.py
+        run: python run_all_github.py
       - name: Commit and push
         run: |
           git config user.email "stockintel@auto.com"
           git config user.name "StockIntel Bot"
-          git add stockintel/data/
+          git add data/
           git diff --staged --quiet || git commit -m "Auto-refresh: $(date '+%Y-%m-%d')"
           git push
