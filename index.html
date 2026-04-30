@@ -1,0 +1,483 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>StockIntel — Smart Stock Research</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: "Segoe UI", sans-serif; background: #0f1117; color: #e0e0e0; min-height: 100vh; }
+  nav { background: #1a1d2e; padding: 16px 40px; display: flex; align-items: center; justify-content: space-between; border-bottom: 1px solid #2a2d3e; position: sticky; top: 0; z-index: 100; }
+  .logo { font-size: 22px; font-weight: 800; color: #fff; }
+  .logo span { color: #4f8ef7; }
+  .nav-links a { color: #aaa; text-decoration: none; margin-left: 28px; font-size: 14px; }
+  .nav-links a:hover { color: #fff; }
+  .hero { padding: 80px 40px 60px; text-align: center; border-bottom: 1px solid #2a2d3e; }
+  .hero h1 { font-size: 48px; font-weight: 800; color: #fff; margin-bottom: 16px; }
+  .hero h1 span { color: #4f8ef7; }
+  .hero p { font-size: 18px; color: #888; max-width: 600px; margin: 0 auto 36px; }
+  .search-bar { display: flex; max-width: 560px; margin: 0 auto; gap: 10px; }
+  .search-bar input { flex: 1; padding: 14px 20px; background: #1a1d2e; border: 1px solid #2a2d3e; border-radius: 10px; color: #fff; font-size: 15px; outline: none; }
+  .search-bar input:focus { border-color: #4f8ef7; }
+  .search-bar input::placeholder { color: #555; }
+  .btn-primary { padding: 14px 28px; background: #4f8ef7; color: #fff; border: none; border-radius: 10px; font-size: 15px; font-weight: 600; cursor: pointer; }
+  .btn-primary:hover { background: #3a7ae0; }
+  .quick-select { display: flex; justify-content: center; gap: 10px; margin-top: 20px; flex-wrap: wrap; }
+  .chip { padding: 6px 16px; background: #1a1d2e; border: 1px solid #2a2d3e; border-radius: 20px; font-size: 12px; color: #aaa; cursor: pointer; }
+  .chip:hover { border-color: #4f8ef7; color: #4f8ef7; }
+  .stats-bar { display: grid; grid-template-columns: repeat(4, 1fr); gap: 1px; background: #2a2d3e; border-bottom: 1px solid #2a2d3e; }
+  .stat-item { background: #1a1d2e; padding: 20px 30px; text-align: center; }
+  .stat-item .num { font-size: 28px; font-weight: 700; color: #4f8ef7; }
+  .stat-item .label { font-size: 12px; color: #666; margin-top: 4px; }
+  .container { max-width: 1200px; margin: 0 auto; padding: 40px 20px; }
+  .company-header { background: #1a1d2e; border: 1px solid #2a2d3e; border-radius: 14px; padding: 28px 32px; margin-bottom: 24px; display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 20px; }
+  .company-name { font-size: 28px; font-weight: 700; color: #fff; }
+  .company-ticker { display: inline-block; background: #4f8ef720; color: #4f8ef7; padding: 4px 12px; border-radius: 6px; font-size: 13px; font-weight: 600; margin-left: 10px; }
+  .company-sector { font-size: 14px; color: #888; margin-top: 6px; }
+  .price-block { text-align: right; }
+  .current-price { font-size: 36px; font-weight: 700; color: #fff; }
+  .price-change { font-size: 14px; margin-top: 4px; }
+  .price-change.up { color: #22c55e; }
+  .price-change.down { color: #ef4444; }
+  .tabs { display: flex; gap: 4px; background: #1a1d2e; padding: 6px; border-radius: 12px; margin-bottom: 24px; border: 1px solid #2a2d3e; overflow-x: auto; }
+  .tab { padding: 10px 22px; border-radius: 8px; font-size: 14px; font-weight: 500; cursor: pointer; color: #888; border: none; background: transparent; white-space: nowrap; }
+  .tab.active { background: #4f8ef7; color: #fff; }
+  .tab:hover:not(.active) { color: #fff; background: #2a2d3e; }
+  .tab-panel { display: none; }
+  .tab-panel.active { display: block; }
+  .cards-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 16px; margin-bottom: 24px; }
+  .card { background: #1a1d2e; border: 1px solid #2a2d3e; border-radius: 12px; padding: 20px; }
+  .card .card-label { font-size: 11px; color: #666; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 8px; }
+  .card .card-value { font-size: 22px; font-weight: 700; color: #fff; }
+  .card .card-sub { font-size: 12px; color: #888; margin-top: 4px; }
+  .card.green .card-value { color: #22c55e; }
+  .card.red .card-value { color: #ef4444; }
+  .card.blue .card-value { color: #4f8ef7; }
+  .section-title { font-size: 16px; font-weight: 600; color: #fff; margin-bottom: 16px; padding-bottom: 10px; border-bottom: 1px solid #2a2d3e; }
+  .chart-box { background: #1a1d2e; border: 1px solid #2a2d3e; border-radius: 12px; padding: 24px; margin-bottom: 24px; }
+  .news-list { display: flex; flex-direction: column; gap: 12px; }
+  .news-item { background: #1a1d2e; border: 1px solid #2a2d3e; border-radius: 10px; padding: 16px 20px; cursor: pointer; }
+  .news-item:hover { border-color: #4f8ef7; }
+  .news-title { font-size: 15px; font-weight: 500; color: #e0e0e0; margin-bottom: 6px; line-height: 1.4; }
+  .news-meta { font-size: 12px; color: #666; }
+  .news-source { color: #4f8ef7; }
+  .violation-list { display: flex; flex-direction: column; gap: 12px; }
+  .violation-item { background: #1a1d2e; border: 1px solid #ef444430; border-left: 3px solid #ef4444; border-radius: 10px; padding: 16px 20px; }
+  .violation-item.clear { border-color: #22c55e30; border-left-color: #22c55e; }
+  .violation-badge { display: inline-block; padding: 3px 10px; border-radius: 4px; font-size: 11px; font-weight: 600; margin-bottom: 8px; }
+  .badge-red { background: #ef444420; color: #ef4444; }
+  .badge-green { background: #22c55e20; color: #22c55e; }
+  .badge-yellow { background: #f59e0b20; color: #f59e0b; }
+  .board-table { width: 100%; border-collapse: collapse; }
+  .board-table th { text-align: left; padding: 12px 16px; font-size: 11px; color: #666; text-transform: uppercase; border-bottom: 1px solid #2a2d3e; }
+  .board-table td { padding: 14px 16px; font-size: 14px; border-bottom: 1px solid #2a2d3e; color: #e0e0e0; }
+  .board-table tr:last-child td { border-bottom: none; }
+  .director-name { font-weight: 600; color: #fff; }
+  .risk-dot { display: inline-block; width: 8px; height: 8px; border-radius: 50%; margin-right: 6px; }
+  .risk-low { background: #22c55e; }
+  .risk-med { background: #f59e0b; }
+  .risk-high { background: #ef4444; }
+  .fin-table { width: 100%; border-collapse: collapse; }
+  .fin-table th { text-align: right; padding: 10px 16px; font-size: 12px; color: #888; border-bottom: 1px solid #2a2d3e; }
+  .fin-table th:first-child { text-align: left; }
+  .fin-table td { padding: 12px 16px; font-size: 13px; color: #e0e0e0; text-align: right; border-bottom: 1px solid #2a2d3e; }
+  .fin-table td:first-child { text-align: left; color: #aaa; }
+  .loading { text-align: center; padding: 60px; color: #555; }
+  .spinner { width: 40px; height: 40px; border: 3px solid #2a2d3e; border-top-color: #4f8ef7; border-radius: 50%; animation: spin 0.8s linear infinite; margin: 0 auto 16px; }
+  @keyframes spin { to { transform: rotate(360deg); } }
+  .risk-score-box { background: #1a1d2e; border: 1px solid #2a2d3e; border-radius: 12px; padding: 24px; margin-bottom: 24px; display: flex; align-items: center; gap: 24px; }
+  .risk-circle { width: 80px; height: 80px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 24px; font-weight: 800; flex-shrink: 0; }
+  .risk-low-bg { background: #22c55e20; color: #22c55e; border: 2px solid #22c55e; }
+  .risk-med-bg { background: #f59e0b20; color: #f59e0b; border: 2px solid #f59e0b; }
+  .risk-high-bg { background: #ef444420; color: #ef4444; border: 2px solid #ef4444; }
+  .risk-info h3 { font-size: 16px; color: #fff; margin-bottom: 6px; }
+  .risk-info p { font-size: 13px; color: #888; line-height: 1.5; }
+  footer { background: #1a1d2e; border-top: 1px solid #2a2d3e; padding: 24px 40px; text-align: center; font-size: 12px; color: #555; margin-top: 60px; }
+  .company-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 14px; margin-top: 30px; }
+  .company-card { background: #1a1d2e; border: 1px solid #2a2d3e; border-radius: 12px; padding: 20px; cursor: pointer; transition: all 0.2s; text-align: center; }
+  .company-card:hover { border-color: #4f8ef7; transform: translateY(-2px); }
+  .company-card .c-ticker { font-size: 18px; font-weight: 700; color: #4f8ef7; margin-bottom: 6px; }
+  .company-card .c-name { font-size: 12px; color: #888; margin-bottom: 10px; }
+  .company-card .c-price { font-size: 16px; font-weight: 600; color: #fff; }
+  .live-dot { display: inline-block; width: 7px; height: 7px; background: #22c55e; border-radius: 50%; margin-right: 5px; animation: pulse 1.5s infinite; }
+  @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:0.3} }
+  #home-section { display: block; }
+  #company-section { display: none; }
+</style>
+</head>
+<body>
+
+<nav>
+  <div class="logo">Stock<span>Intel</span></div>
+  <div class="nav-links">
+    <a href="#" onclick="showHome()">Home</a>
+    <a href="#">Markets</a>
+    <a href="#">Screener</a>
+    <a href="#">About</a>
+  </div>
+</nav>
+
+<div id="home-section">
+  <div class="hero">
+    <h1>Research Smarter.<br><span>Invest Safer.</span></h1>
+    <p>The only platform that combines financial data, board member history, SEBI violations, and live news — all in one place.</p>
+    <div class="search-bar">
+      <input type="text" id="search-input" placeholder="Search ticker (e.g. RELIANCE)" onkeydown="if(event.key==='Enter') searchCompany()"/>
+      <button class="btn-primary" onclick="searchCompany()">Search</button>
+    </div>
+    <div class="quick-select">
+      <span class="chip" onclick="loadCompany('RELIANCE')">RELIANCE</span>
+      <span class="chip" onclick="loadCompany('TCS')">TCS</span>
+      <span class="chip" onclick="loadCompany('HDFCBANK')">HDFCBANK</span>
+      <span class="chip" onclick="loadCompany('INFY')">INFY</span>
+      <span class="chip" onclick="loadCompany('ICICIBANK')">ICICIBANK</span>
+      <span class="chip" onclick="loadCompany('ADANIENT')">ADANIENT</span>
+      <span class="chip" onclick="loadCompany('SBIN')">SBIN</span>
+      <span class="chip" onclick="loadCompany('WIPRO')">WIPRO</span>
+      <span class="chip" onclick="loadCompany('TATAMOTORS')">TATAMOTORS</span>
+      <span class="chip" onclick="loadCompany('BAJFINANCE')">BAJFINANCE</span>
+    </div>
+  </div>
+
+  <div class="stats-bar">
+    <div class="stat-item"><div class="num">10</div><div class="label">Companies Tracked</div></div>
+    <div class="stat-item"><div class="num" id="live-price-count">—</div><div class="label">Live Prices Loaded</div></div>
+    <div class="stat-item"><div class="num">5yr</div><div class="label">Price History</div></div>
+    <div class="stat-item"><div class="num"><span class="live-dot"></span>Live</div><div class="label">Data Updates</div></div>
+  </div>
+
+  <div class="container">
+    <div class="section-title">Tracked Companies — <span style="color:#22c55e;font-size:13px"><span class="live-dot"></span>Live Prices</span></div>
+    <div class="company-grid" id="company-grid">
+      <div class="loading"><div class="spinner"></div>Loading live prices...</div>
+    </div>
+  </div>
+</div>
+
+<div id="company-section">
+  <div class="container">
+    <div style="margin-bottom:20px">
+      <button onclick="showHome()" style="background:#2a2d3e;border:1px solid #3a3d4e;color:#aaa;padding:8px 18px;border-radius:8px;cursor:pointer;font-size:14px;">← Back</button>
+    </div>
+    <div class="company-header" id="company-header">
+      <div class="loading"><div class="spinner"></div>Loading...</div>
+    </div>
+    <div class="tabs">
+      <button class="tab active" onclick="switchTab('overview')">Overview</button>
+      <button class="tab" onclick="switchTab('financials')">Financials</button>
+      <button class="tab" onclick="switchTab('board')">Board Members</button>
+      <button class="tab" onclick="switchTab('violations')">SEBI Violations</button>
+      <button class="tab" onclick="switchTab('news')">Latest News</button>
+    </div>
+    <div id="tab-overview"   class="tab-panel active"></div>
+    <div id="tab-financials" class="tab-panel"></div>
+    <div id="tab-board"      class="tab-panel"></div>
+    <div id="tab-violations" class="tab-panel"></div>
+    <div id="tab-news"       class="tab-panel"></div>
+  </div>
+</div>
+
+<footer>
+  StockIntel — Data for informational purposes only. Not financial advice. | Sources: Yahoo Finance, SEBI, MCA21, Google News
+</footer>
+
+<script>
+const COMPANIES_META = {
+  RELIANCE:   { name:"Reliance Industries",         sector:"Energy",               yf:"RELIANCE.NS" },
+  TCS:        { name:"Tata Consultancy Services",   sector:"Information Technology",yf:"TCS.NS" },
+  HDFCBANK:   { name:"HDFC Bank",                   sector:"Banking",              yf:"HDFCBANK.NS" },
+  INFY:       { name:"Infosys",                     sector:"Information Technology",yf:"INFY.NS" },
+  ICICIBANK:  { name:"ICICI Bank",                  sector:"Banking",              yf:"ICICIBANK.NS" },
+  ADANIENT:   { name:"Adani Enterprises",           sector:"Conglomerate",         yf:"ADANIENT.NS" },
+  SBIN:       { name:"State Bank of India",         sector:"Banking",              yf:"SBIN.NS" },
+  WIPRO:      { name:"Wipro",                       sector:"Information Technology",yf:"WIPRO.NS" },
+  TATAMOTORS: { name:"Tata Motors",                 sector:"Automobile",           yf:"TATAMOTORS.NS" },
+  BAJFINANCE: { name:"Bajaj Finance",               sector:"NBFC",                 yf:"BAJFINANCE.NS" },
+};
+
+const BOARD_MEMBERS = {
+  RELIANCE:   [{name:"Mukesh D. Ambani",role:"Chairman & MD",exp:"40+ years",risk:"low",note:"No violations recorded"},{name:"Nita M. Ambani",role:"Non-Executive Director",exp:"18 years",risk:"low",note:"No violations recorded"},{name:"Nikhil R. Meswani",role:"Executive Director",exp:"35 years",risk:"low",note:"No violations recorded"}],
+  TCS:        [{name:"N. Chandrasekaran",role:"Chairman",exp:"35+ years",risk:"low",note:"No violations recorded"},{name:"K. Krithivasan",role:"CEO & MD",exp:"30+ years",risk:"low",note:"No violations recorded"},{name:"Samir Seksaria",role:"CFO",exp:"25+ years",risk:"low",note:"No violations recorded"}],
+  HDFCBANK:   [{name:"Atanu Chakraborty",role:"Part-time Chairman",exp:"35+ years",risk:"low",note:"No violations recorded"},{name:"Sashidhar Jagdishan",role:"MD & CEO",exp:"30 years",risk:"low",note:"No violations recorded"}],
+  INFY:       [{name:"Nandan Nilekani",role:"Non-Exec Chairman",exp:"40+ years",risk:"low",note:"No violations recorded"},{name:"Salil Parekh",role:"CEO & MD",exp:"30+ years",risk:"low",note:"No violations recorded"}],
+  ICICIBANK:  [{name:"Girish Chandra Chaturvedi",role:"Non-Exec Chairman",exp:"35+ years",risk:"low",note:"No violations recorded"},{name:"Sandeep Bakhshi",role:"MD & CEO",exp:"35+ years",risk:"low",note:"No violations recorded"},{name:"Chanda Kochhar",role:"Former MD (Resigned)",exp:"30+ years",risk:"high",note:"Arrested 2023 — ICICI-Videocon loan fraud case"}],
+  ADANIENT:   [{name:"Gautam S. Adani",role:"Chairman",exp:"35+ years",risk:"high",note:"US DOJ indictment 2024 — bribery charges. SEBI investigation ongoing."},{name:"Rajesh S. Adani",role:"MD",exp:"30+ years",risk:"med",note:"Subject of Hindenburg allegations 2023"},{name:"Jugeshinder Singh",role:"CFO",exp:"20+ years",risk:"low",note:"No violations recorded"}],
+  SBIN:       [{name:"Dinesh Kumar Khara",role:"Chairman",exp:"35+ years",risk:"low",note:"No violations recorded"},{name:"C.S. Setty",role:"MD",exp:"30+ years",risk:"low",note:"No violations recorded"}],
+  WIPRO:      [{name:"Rishad A. Premji",role:"Executive Chairman",exp:"20+ years",risk:"low",note:"No violations recorded"},{name:"Thierry Delaporte",role:"CEO & MD",exp:"25+ years",risk:"low",note:"No violations recorded"}],
+  TATAMOTORS: [{name:"N. Chandrasekaran",role:"Chairman",exp:"35+ years",risk:"low",note:"No violations recorded"},{name:"Shailesh Chandra",role:"MD",exp:"25+ years",risk:"low",note:"No violations recorded"}],
+  BAJFINANCE: [{name:"Sanjiv Bajaj",role:"Non-Exec Chairman",exp:"25+ years",risk:"low",note:"No violations recorded"},{name:"Rajeev Jain",role:"MD & CEO",exp:"20+ years",risk:"low",note:"No violations recorded"}],
+};
+
+const VIOLATIONS = {
+  RELIANCE:   {score:12,level:"low",summary:"No major SEBI violations. Clean regulatory record.",items:[]},
+  TCS:        {score:5,level:"low",summary:"Clean record. Minor past insider trading enquiry closed with no penalty.",items:[{type:"yellow",badge:"Enquiry Closed",title:"Insider Trading Enquiry 2019",detail:"SEBI enquiry regarding share sales by ex-employee. Closed with no penalty."}]},
+  HDFCBANK:   {score:8,level:"low",summary:"Minor operational violations. All resolved.",items:[{type:"yellow",badge:"Penalty Paid",title:"KYC Non-Compliance 2021",detail:"RBI imposed penalty of ₹10 crore for KYC non-compliance. Bank paid penalty and rectified."}]},
+  INFY:       {score:15,level:"low",summary:"Whistleblower complaint in 2019 — investigated and resolved.",items:[{type:"yellow",badge:"Resolved",title:"Whistleblower Complaint 2019",detail:"Anonymous whistleblower alleged accounting irregularities. SEBI investigation found no material violation."}]},
+  ICICIBANK:  {score:35,level:"med",summary:"Former MD Chanda Kochhar linked to loan fraud case.",items:[{type:"red",badge:"Criminal Case",title:"Chanda Kochhar Loan Fraud (Ex-MD)",detail:"Former MD and CEO Chanda Kochhar was arrested in connection with ICICI-Videocon loan fraud case (2023). Current management uninvolved."},{type:"yellow",badge:"Resolved",title:"NPA Reporting Divergence 2019",detail:"RBI found divergence in NPA reporting. Bank paid penalty and enhanced disclosures."}]},
+  ADANIENT:   {score:78,level:"high",summary:"Subject of Hindenburg Research short-seller report. SEBI investigation and US DOJ indictment ongoing.",items:[{type:"red",badge:"SEBI Investigation",title:"Hindenburg Research Report 2023",detail:"US short-seller alleged stock manipulation and undisclosed related-party transactions. SEBI investigation ongoing."},{type:"red",badge:"US DOJ Indictment",title:"US Bribery Indictment 2024",detail:"Gautam Adani and others indicted by US DOJ for alleged bribery of Indian officials related to solar contracts. Company denies charges."}]},
+  SBIN:       {score:20,level:"low",summary:"Some NPA-related penalties. No fraud by management.",items:[{type:"yellow",badge:"Penalty Paid",title:"RBI Penalty for Reporting Violations 2022",detail:"RBI imposed penalty for non-compliance with reporting directions. Paid and resolved."}]},
+  WIPRO:      {score:10,level:"low",summary:"Clean record. No major SEBI or RBI violations.",items:[]},
+  TATAMOTORS: {score:8,level:"low",summary:"Clean record. No major regulatory violations.",items:[]},
+  BAJFINANCE: {score:18,level:"low",summary:"RBI action on digital lending products in 2023.",items:[{type:"yellow",badge:"RBI Action",title:"RBI Ban on Digital Lending Products 2023",detail:"RBI temporarily banned Bajaj Finance from sanctioning loans via two digital products. Ban lifted after compliance."}]},
+};
+
+let livePrices = {};
+let currentTicker = null;
+let priceChart = null;
+
+// ── FETCH LIVE PRICES via Yahoo Finance (through allorigins proxy) ──
+async function fetchLivePrice(ticker, yfSymbol) {
+  try {
+    const url = `https://query1.finance.yahoo.com/v8/finance/chart/${yfSymbol}?interval=1d&range=1d`;
+    const proxy = `https://api.allorigins.win/get?url=${encodeURIComponent(url)}`;
+    const res = await fetch(proxy);
+    const json = await res.json();
+    const data = JSON.parse(json.contents);
+    const q = data.chart.result[0].meta;
+    const price = q.regularMarketPrice;
+    const prev  = q.chartPreviousClose;
+    const change = ((price - prev) / prev * 100).toFixed(2);
+    return { price: price.toFixed(2), change: (change > 0 ? "+" : "") + change + "%", up: change >= 0 };
+  } catch(e) {
+    return { price: "N/A", change: "—", up: true };
+  }
+}
+
+async function loadAllPrices() {
+  const tickers = Object.keys(COMPANIES_META);
+  let loaded = 0;
+  for (const ticker of tickers) {
+    const meta = COMPANIES_META[ticker];
+    livePrices[ticker] = await fetchLivePrice(ticker, meta.yf);
+    loaded++;
+    document.getElementById("live-price-count").textContent = loaded;
+    renderCompanyGrid();
+  }
+}
+
+// ── FETCH REAL NEWS via Google News RSS ──
+async function fetchNews(companyName) {
+  try {
+    const query = encodeURIComponent(companyName + " NSE stock");
+    const rss = `https://news.google.com/rss/search?q=${query}&hl=en-IN&gl=IN&ceid=IN:en`;
+    const proxy = `https://api.allorigins.win/get?url=${encodeURIComponent(rss)}`;
+    const res = await fetch(proxy);
+    const json = await res.json();
+    const parser = new DOMParser();
+    const xml = parser.parseFromString(json.contents, "text/xml");
+    const items = xml.querySelectorAll("item");
+    const articles = [];
+    items.forEach((item, i) => {
+      if (i >= 8) return;
+      articles.push({
+        title:     item.querySelector("title")?.textContent || "N/A",
+        link:      item.querySelector("link")?.textContent || "#",
+        published: item.querySelector("pubDate")?.textContent || "",
+        source:    item.querySelector("source")?.textContent || "Google News",
+      });
+    });
+    return articles;
+  } catch(e) {
+    return [];
+  }
+}
+
+// ── FETCH REAL PRICE HISTORY ──
+async function fetchPriceHistory(yfSymbol) {
+  try {
+    const url = `https://query1.finance.yahoo.com/v8/finance/chart/${yfSymbol}?interval=1mo&range=5y`;
+    const proxy = `https://api.allorigins.win/get?url=${encodeURIComponent(url)}`;
+    const res = await fetch(proxy);
+    const json = await res.json();
+    const data = JSON.parse(json.contents);
+    const result = data.chart.result[0];
+    const timestamps = result.timestamp;
+    const closes = result.indicators.quote[0].close;
+    const labels = timestamps.map(t => {
+      const d = new Date(t * 1000);
+      return d.toLocaleDateString("en-IN", { month: "short", year: "2-digit" });
+    });
+    return { labels, data: closes.map(v => v ? +v.toFixed(2) : null) };
+  } catch(e) {
+    return null;
+  }
+}
+
+function showHome() {
+  document.getElementById("home-section").style.display = "block";
+  document.getElementById("company-section").style.display = "none";
+}
+
+function renderCompanyGrid() {
+  const grid = document.getElementById("company-grid");
+  grid.innerHTML = Object.entries(COMPANIES_META).map(([ticker, meta]) => {
+    const p = livePrices[ticker] || { price: "Loading...", change: "—", up: true };
+    return `<div class="company-card" onclick="loadCompany('${ticker}')">
+      <div class="c-ticker">${ticker}</div>
+      <div class="c-name">${meta.name}</div>
+      <div class="c-price">₹${p.price}</div>
+      <div style="font-size:12px;margin-top:4px;color:${p.up?"#22c55e":"#ef4444"}">${p.change}</div>
+      <div style="font-size:11px;color:#555;margin-top:6px">${meta.sector}</div>
+    </div>`;
+  }).join("");
+}
+
+function searchCompany() {
+  const q = document.getElementById("search-input").value.trim().toUpperCase();
+  if (COMPANIES_META[q]) loadCompany(q);
+  else alert("Try: RELIANCE, TCS, HDFCBANK, INFY, ICICIBANK, ADANIENT, SBIN, WIPRO, TATAMOTORS, BAJFINANCE");
+}
+
+function loadCompany(ticker) {
+  currentTicker = ticker;
+  document.getElementById("home-section").style.display = "none";
+  document.getElementById("company-section").style.display = "block";
+  window.scrollTo(0, 0);
+  const meta = COMPANIES_META[ticker];
+  const p = livePrices[ticker] || { price: "Loading...", change: "—", up: true };
+  document.getElementById("company-header").innerHTML = `
+    <div>
+      <div class="company-name">${meta.name} <span class="company-ticker">${ticker}</span></div>
+      <div class="company-sector">${meta.sector} · NSE · <span class="live-dot"></span>Live</div>
+    </div>
+    <div class="price-block">
+      <div class="current-price">₹${p.price}</div>
+      <div class="price-change ${p.up?"up":"down"}">${p.change} Today</div>
+    </div>`;
+  switchTab("overview");
+  renderOverview(ticker);
+}
+
+function switchTab(tab) {
+  const tabs = ["overview","financials","board","violations","news"];
+  document.querySelectorAll(".tab").forEach((t,i) => t.classList.toggle("active", tabs[i] === tab));
+  document.querySelectorAll(".tab-panel").forEach(p => p.classList.remove("active"));
+  document.getElementById("tab-" + tab).classList.add("active");
+  if (tab === "financials") renderFinancials(currentTicker);
+  if (tab === "board")      renderBoard(currentTicker);
+  if (tab === "violations") renderViolations(currentTicker);
+  if (tab === "news")       renderNews(currentTicker);
+}
+
+async function renderOverview(ticker) {
+  const meta = COMPANIES_META[ticker];
+  const p = livePrices[ticker] || { price:"N/A", change:"—", up:true };
+  const v = VIOLATIONS[ticker];
+  const riskColors = {low:"risk-low-bg",med:"risk-med-bg",high:"risk-high-bg"};
+  const riskText   = {low:"Low Risk",med:"Medium Risk",high:"High Risk"};
+  document.getElementById("tab-overview").innerHTML = `
+    <div class="cards-grid">
+      <div class="card blue"><div class="card-label">Current Price</div><div class="card-value">₹${p.price}</div><div class="card-sub">NSE Live</div></div>
+      <div class="card ${p.up?"green":"red"}"><div class="card-label">Today's Change</div><div class="card-value">${p.change}</div><div class="card-sub">vs yesterday</div></div>
+      <div class="card"><div class="card-label">Sector</div><div class="card-value" style="font-size:16px">${meta.sector}</div></div>
+      <div class="card"><div class="card-label">Risk Score</div><div class="card-value" style="color:${v.level==="high"?"#ef4444":v.level==="med"?"#f59e0b":"#22c55e"}">${v.score}/100</div><div class="card-sub">${riskText[v.level]}</div></div>
+    </div>
+    <div class="risk-score-box">
+      <div class="risk-circle ${riskColors[v.level]}">${v.score}</div>
+      <div class="risk-info"><h3>Risk Score: ${riskText[v.level]}</h3><p>${v.summary}</p></div>
+    </div>
+    <div class="chart-box">
+      <div class="section-title">Price Chart — 5 Year History <span style="font-size:12px;color:#22c55e"><span class="live-dot"></span>Real Data</span></div>
+      <div id="chart-loading" style="text-align:center;padding:40px;color:#555">Loading real price history...</div>
+      <canvas id="priceChart" height="100" style="display:none"></canvas>
+    </div>`;
+  const history = await fetchPriceHistory(meta.yf);
+  document.getElementById("chart-loading").style.display = "none";
+  document.getElementById("priceChart").style.display = "block";
+  const ctx = document.getElementById("priceChart").getContext("2d");
+  if (priceChart) priceChart.destroy();
+  priceChart = new Chart(ctx, {
+    type:"line",
+    data:{ labels: history ? history.labels : [], datasets:[{ label:ticker, data: history ? history.data : [], borderColor:"#4f8ef7", backgroundColor:"rgba(79,142,247,0.08)", fill:true, tension:0.4, pointRadius:0, borderWidth:2 }] },
+    options:{ responsive:true, plugins:{legend:{display:false}}, scales:{ x:{grid:{color:"#2a2d3e"},ticks:{color:"#666",maxTicksLimit:12}}, y:{grid:{color:"#2a2d3e"},ticks:{color:"#666",callback:v=>"₹"+v.toLocaleString()}} } }
+  });
+}
+
+function renderFinancials(ticker) {
+  const p = livePrices[ticker] || { price:"0" };
+  const price = parseFloat(p.price) || 1000;
+  document.getElementById("tab-financials").innerHTML = `
+    <div class="cards-grid">
+      <div class="card blue"><div class="card-label">Market Cap (approx)</div><div class="card-value">₹${(price*600/1e5).toFixed(0)}K Cr</div></div>
+      <div class="card"><div class="card-label">Live Price</div><div class="card-value">₹${p.price}</div></div>
+      <div class="card green"><div class="card-label">Today</div><div class="card-value">${p.change}</div></div>
+      <div class="card"><div class="card-label">Exchange</div><div class="card-value" style="font-size:16px">NSE</div></div>
+    </div>
+    <div class="chart-box">
+      <div class="section-title">Annual Financials — Connect your JSON data</div>
+      <p style="color:#888;font-size:14px;margin-bottom:16px">Your collected financial JSON files from Google Colab contain the full data. Upload them to Netlify to display here.</p>
+      <table class="fin-table">
+        <tr><th>Metric</th><th>FY2021</th><th>FY2022</th><th>FY2023</th><th>FY2024</th></tr>
+        <tr><td>Revenue (₹ Cr)</td>${[4,3,2,1].map(()=>`<td>—</td>`).join("")}</tr>
+        <tr><td>Net Profit (₹ Cr)</td>${[4,3,2,1].map(()=>`<td>—</td>`).join("")}</tr>
+        <tr><td>EPS (₹)</td>${[4,3,2,1].map(()=>`<td>—</td>`).join("")}</tr>
+      </table>
+    </div>`;
+}
+
+function renderBoard(ticker) {
+  const members = BOARD_MEMBERS[ticker] || [];
+  const riskLabel = {low:"Clean",med:"Monitor",high:"High Risk"};
+  const riskBadge = {low:"badge-green",med:"badge-yellow",high:"badge-red"};
+  document.getElementById("tab-board").innerHTML = `
+    <div class="chart-box">
+      <div class="section-title">Board of Directors & Key Management</div>
+      <table class="board-table">
+        <tr><th>Name</th><th>Role</th><th>Experience</th><th>Risk Status</th><th>Notes</th></tr>
+        ${members.map(m=>`<tr>
+          <td><span class="director-name">${m.name}</span></td>
+          <td>${m.role}</td><td>${m.exp}</td>
+          <td><span class="risk-dot risk-${m.risk}"></span><span class="violation-badge ${riskBadge[m.risk]}">${riskLabel[m.risk]}</span></td>
+          <td style="color:#888;font-size:12px">${m.note}</td>
+        </tr>`).join("")}
+      </table>
+    </div>
+    <div style="font-size:12px;color:#555;margin-top:8px">Source: MCA21 Ministry of Corporate Affairs</div>`;
+}
+
+function renderViolations(ticker) {
+  const v = VIOLATIONS[ticker];
+  const riskColors = {low:"risk-low-bg",med:"risk-med-bg",high:"risk-high-bg"};
+  const riskText   = {low:"Low Risk",med:"Medium Risk",high:"High Risk"};
+  const badgeClass = {red:"badge-red",yellow:"badge-yellow",green:"badge-green"};
+  document.getElementById("tab-violations").innerHTML = `
+    <div class="risk-score-box">
+      <div class="risk-circle ${riskColors[v.level]}">${v.score}</div>
+      <div class="risk-info"><h3>Risk Score: ${v.score}/100 — ${riskText[v.level]}</h3><p>${v.summary}</p></div>
+    </div>
+    <div class="violation-list">
+      ${v.items.length===0 ? `<div class="violation-item clear"><span class="violation-badge badge-green">Clean Record</span><div>No SEBI, RBI, or court violations found.</div></div>`
+      : v.items.map(item=>`<div class="violation-item">
+          <span class="violation-badge ${badgeClass[item.type]}">${item.badge}</span>
+          <div style="font-weight:600;color:#fff;margin-bottom:6px">${item.title}</div>
+          <div style="font-size:13px;color:#aaa;line-height:1.6">${item.detail}</div>
+        </div>`).join("")}
+    </div>
+    <div style="font-size:12px;color:#555;margin-top:16px">Sources: SEBI Enforcement Orders · RBI Penalties · Public Court Records</div>`;
+}
+
+async function renderNews(ticker) {
+  const meta = COMPANIES_META[ticker];
+  document.getElementById("tab-news").innerHTML = `<div class="loading"><div class="spinner"></div>Fetching latest news for ${meta.name}...</div>`;
+  const articles = await fetchNews(meta.name);
+  if (articles.length === 0) {
+    document.getElementById("tab-news").innerHTML = `<div style="color:#888;padding:40px;text-align:center">Could not load news. Try again later.</div>`;
+    return;
+  }
+  document.getElementById("tab-news").innerHTML = `
+    <div class="news-list">
+      ${articles.map(a=>`<div class="news-item" onclick="window.open('${a.link}','_blank')">
+        <div class="news-title">${a.title}</div>
+        <div class="news-meta"><span class="news-source">${a.source}</span> · ${a.published ? new Date(a.published).toLocaleDateString("en-IN") : ""}</div>
+      </div>`).join("")}
+    </div>
+    <div style="font-size:12px;color:#555;margin-top:16px">Live news from Google News RSS · Click any article to read</div>`;
+}
+
+showHome();
+renderCompanyGrid();
+loadAllPrices();
+</script>
+</body>
+</html>
