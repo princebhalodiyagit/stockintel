@@ -125,7 +125,7 @@
     <h1>Research Smarter.<br><span>Invest Safer.</span></h1>
     <p>Financial data, board member history, SEBI violations and live news — all in one place.</p>
     <div class="search-bar">
-      <input type="text" id="search-input" placeholder="Search company name or ticker..." onkeydown="if(event.key==='Enter') searchCompany()"/>
+      <input type="text" id="search-input" placeholder="Search by name (e.g. Reliance) or ticker (e.g. RELIANCE)" onkeydown="if(event.key==='Enter') searchCompany()"/>
       <button class="btn-primary" onclick="searchCompany()">Search</button>
     </div>
     <div class="filters">
@@ -394,16 +394,42 @@ function showHome() {
 
 function searchCompany() {
   const q = document.getElementById("search-input").value.trim().toUpperCase();
-  if (TICKERS.includes(q)) {
-    loadCompany(q);
-  } else {
-    const match = TICKERS.find(t => {
-      const name = (companyData[t]?.company_info?.name || "").toUpperCase();
-      return name.includes(q);
-    });
-    if (match) loadCompany(match);
-    else alert("Company not found. Try a ticker like RELIANCE, TCS, HDFCBANK...");
+  
+  // Exact ticker match first
+  if (TICKERS.includes(q)) { loadCompany(q); return; }
+  
+  // Search by company name
+  const matches = TICKERS.filter(t => {
+    const name = (companyData[t]?.company_info?.name || t).toUpperCase();
+    return name.includes(q) || t.includes(q);
+  });
+  
+  if (matches.length === 1) { loadCompany(matches[0]); return; }
+  
+  if (matches.length > 1) {
+    showSearchResults(matches, q);
+    return;
   }
+  
+  alert("No company found matching: " + q);
+}
+
+function showSearchResults(matches, query) {
+  document.getElementById("home-section").style.display = "block";
+  document.getElementById("grid-title").textContent = `Search results for "${query}" (${matches.length} found)`;
+  const grid = document.getElementById("company-grid");
+  grid.innerHTML = matches.slice(0, 50).map(ticker => {
+    const p = livePrices[ticker] || { price: "...", change: "—", up: true };
+    const name = companyData[ticker]?.company_info?.name || ticker;
+    const sector = SECTOR_MAP[ticker] || companyData[ticker]?.company_info?.sector || "Other";
+    return `<div class="company-card" onclick="loadCompany('${ticker}')">
+      <div class="c-ticker">${ticker}</div>
+      <div class="c-name">${name}</div>
+      <div class="c-price">₹${p.price}</div>
+      <div class="c-change" style="color:${p.up?"#22c55e":"#ef4444"}">${p.change}</div>
+      <div class="c-sector">${sector}</div>
+    </div>`;
+  }).join("");
 }
 
 async function loadCompany(ticker) {
