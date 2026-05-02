@@ -17,6 +17,8 @@ jobs:
         run: pip install yfinance requests beautifulsoup4 pandas
       - name: Run data collection
         run: python run_all_github.py
+        - name: Generate tickers list
+        run: python generate_tickers.py
       - name: Commit and push
         run: |
           git config user.email "stockintel@auto.com"
