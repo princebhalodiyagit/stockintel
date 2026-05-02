@@ -534,23 +534,61 @@ async function renderFinancials(ticker) {
     </div>`;
 }
 
-function renderBoard(ticker) {
-  const members = BOARD[ticker] || [{name:"Data coming soon",role:"—",exp:"—",risk:"low",note:"Board data will be added in next update"}];
-  const riskLabel = {low:"Clean",med:"Monitor",high:"High Risk"};
-  const riskBadge = {low:"badge-green",med:"badge-yellow",high:"badge-red"};
+async function renderBoard(ticker) {
+  document.getElementById("tab-board").innerHTML = `<div class="loading"><div class="spinner"></div>Loading board members...</div>`;
+  
+  // Try to load from collected JSON file first
+  let directors = [];
+  try {
+    const res = await fetch(`data/directors/${ticker}_directors.json`);
+    if (res.ok) {
+      const data = await res.json();
+      directors = data.directors || [];
+    }
+  } catch(e) {}
+  
+  // Fall back to hardcoded data if JSON not available
+  if (directors.length === 0 && BOARD[ticker]) {
+    directors = BOARD[ticker].map(m => ({
+      name: m.name, role: m.role, age: "N/A", total_pay: "N/A"
+    }));
+  }
+
+  if (directors.length === 0) {
+    document.getElementById("tab-board").innerHTML = `
+      <div class="chart-box">
+        <div class="section-title">Board of Directors</div>
+        <p style="color:#888;padding:20px">Director data will be available after next data refresh.</p>
+      </div>`;
+    return;
+  }
+
+  // Check violations for risk flagging
+  const v = VIOLATIONS[ticker];
+  const highRiskNames = v ? v.items.map(i => i.title.toLowerCase()) : [];
+
   document.getElementById("tab-board").innerHTML = `
     <div class="chart-box">
-      <div class="section-title">Board of Directors</div>
+      <div class="section-title">Board of Directors & Key Management (${directors.length} members)</div>
       <table class="board-table">
-        <tr><th>Name</th><th>Role</th><th>Experience</th><th>Status</th><th>Notes</th></tr>
-        ${members.map(m=>`<tr>
-          <td><span class="director-name">${m.name}</span></td>
-          <td>${m.role}</td><td>${m.exp}</td>
-          <td><span class="risk-dot risk-${m.risk}"></span><span class="violation-badge ${riskBadge[m.risk]}">${riskLabel[m.risk]}</span></td>
-          <td style="color:#888;font-size:12px">${m.note}</td>
-        </tr>`).join("")}
+        <tr><th>Name</th><th>Role</th><th>Age</th><th>Annual Pay</th><th>Risk Status</th></tr>
+        ${directors.map(d => {
+          const isHighRisk = highRiskNames.some(n => d.name.toLowerCase().includes(n.split(" ")[0].toLowerCase()));
+          const riskLevel = isHighRisk ? "high" : "low";
+          const riskBadge = isHighRisk ? "badge-red" : "badge-green";
+          const riskLabel = isHighRisk ? "Review" : "Clean";
+          const pay = d.total_pay !== "N/A" && d.total_pay ? "₹" + parseInt(d.total_pay).toLocaleString() : "Not disclosed";
+          return `<tr>
+            <td><span class="director-name">${d.name}</span></td>
+            <td style="color:#aaa;font-size:13px">${d.role}</td>
+            <td style="color:#888">${d.age !== "N/A" ? d.age : "—"}</td>
+            <td style="color:#888;font-size:12px">${pay}</td>
+            <td><span class="risk-dot risk-${riskLevel}"></span><span class="violation-badge ${riskBadge}">${riskLabel}</span></td>
+          </tr>`;
+        }).join("")}
       </table>
-    </div>`;
+    </div>
+    <div style="font-size:11px;color:#555;margin-top:8px">Source: Yahoo Finance · MCA21 · Last updated: ${new Date().toLocaleDateString("en-IN")}</div>`;
 }
 
 function renderViolations(ticker) {
