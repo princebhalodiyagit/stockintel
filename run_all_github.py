@@ -6,6 +6,7 @@ from datetime import datetime
 
 os.makedirs("data/financials", exist_ok=True)
 os.makedirs("data/news", exist_ok=True)
+os.makedirs("data/directors", exist_ok=True)
 
 COMPANIES = [
   {
@@ -10755,11 +10756,43 @@ def collect_news(company):
     except Exception as e:
         print(f"  Failed news {company['ticker']}: {e}")
 
+
+def collect_directors(company):
+    try:
+        stock = yf.Ticker(company["yf"])
+        info = stock.info
+        officers = info.get("companyOfficers", [])
+        directors = []
+        for o in officers:
+            pay = o.get("totalPay", "N/A")
+            if isinstance(pay, dict):
+                pay = pay.get("raw", "N/A")
+            directors.append({
+                "name":      o.get("name", "N/A"),
+                "role":      o.get("title", "N/A"),
+                "age":       o.get("age", "N/A"),
+                "year_born": o.get("yearBorn", "N/A"),
+                "total_pay": pay,
+            })
+        data = {
+            "ticker":       company["ticker"],
+            "company":      company["name"],
+            "collected_at": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+            "directors":    directors
+        }
+        os.makedirs("data/directors", exist_ok=True)
+        with open(f"data/directors/{company['ticker']}_directors.json", "w") as f:
+            json.dump(data, f, indent=2, default=str)
+        print(f"  Directors saved {company['ticker']} ({len(directors)} found)")
+    except Exception as e:
+        print(f"  Failed directors {company['ticker']}: {e}")
+
 print(f"Starting data collection for {len(COMPANIES)} companies...")
 for i, company in enumerate(COMPANIES, 1):
     print(f"[{i}/{len(COMPANIES)}] {company['ticker']}")
     collect_financials(company)
     collect_news(company)
+    collect_directors(company)
     time.sleep(0.5)
 
 print("\nAll done!")
