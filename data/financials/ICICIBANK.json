@@ -1,9 +1,10 @@
 {
   "ticker": "ICICIBANK",
-  "collected_at": "2026-05-02 08:29:59",
+  "collected_at": "2026-05-02 09:04:15",
   "company_info": {
     "name": "ICICI Bank Limited",
     "sector": "Financial Services",
+    "industry": "Banks - Regional",
     "market_cap": 9070600781824,
     "current_price": 1265.7,
     "pe_ratio": 16.923384,
@@ -14,6 +15,7 @@
     "net_income": 542076993536,
     "eps": 74.79,
     "52_week_high": 1500.0,
-    "52_week_low": 1187.6
+    "52_week_low": 1187.6,
+    "dividend_yield": 0.87
   }
 }

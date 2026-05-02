@@ -1,9 +1,10 @@
 {
   "ticker": "ADANIENT",
-  "collected_at": "2026-05-02 08:30:02",
+  "collected_at": "2026-05-02 09:04:17",
   "company_info": {
     "name": "Adani Enterprises Limited",
     "sector": "Energy",
+    "industry": "Thermal Coal",
     "market_cap": 3304661188608,
     "current_price": 2410.5,
     "pe_ratio": 32.70692,
@@ -14,6 +15,7 @@
     "net_income": 132484399104,
     "eps": 73.7,
     "52_week_high": 2695.0,
-    "52_week_low": 1753.0
+    "52_week_low": 1753.0,
+    "dividend_yield": 0.05
   }
 }

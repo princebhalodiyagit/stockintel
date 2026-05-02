@@ -1,9 +1,10 @@
 {
   "ticker": "TATAMOTORS",
-  "collected_at": "2026-05-02 08:30:10",
+  "collected_at": "2026-05-02 09:04:22",
   "company_info": {
     "name": "N/A",
     "sector": "N/A",
+    "industry": "N/A",
     "market_cap": "N/A",
     "current_price": "N/A",
     "pe_ratio": "N/A",
@@ -14,6 +15,7 @@
     "net_income": "N/A",
     "eps": "N/A",
     "52_week_high": "N/A",
-    "52_week_low": "N/A"
+    "52_week_low": "N/A",
+    "dividend_yield": "N/A"
   }
 }

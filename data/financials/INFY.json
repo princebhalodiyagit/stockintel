@@ -1,9 +1,10 @@
 {
   "ticker": "INFY",
-  "collected_at": "2026-05-02 08:29:57",
+  "collected_at": "2026-05-02 09:04:14",
   "company_info": {
     "name": "Infosys Limited",
     "sector": "Technology",
+    "industry": "Information Technology Services",
     "market_cap": 4785555111936,
     "current_price": 1182.6,
     "pe_ratio": 15.611881,
@@ -14,6 +15,7 @@
     "net_income": 3312999936,
     "eps": 75.75,
     "52_week_high": 1728.0,
-    "52_week_low": 1149.8
+    "52_week_low": 1149.8,
+    "dividend_yield": 4.06
   }
 }
