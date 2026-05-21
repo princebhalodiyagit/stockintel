@@ -262,7 +262,7 @@ let currentFilter = "ALL";
 async function loadCompanyData(ticker) {
   if (companyData[ticker]) return companyData[ticker];
   try {
-    const res = await fetch(`data/financials/${ticker}.json`);
+    const res = await fetch(`https://stockintel-in.netlify.app/data/financials/${ticker}.json`);
     if (!res.ok) return null;
     const data = await res.json();
     companyData[ticker] = data;
@@ -538,7 +538,7 @@ async function renderBoard(ticker) {
   document.getElementById("tab-board").innerHTML = '<div class="loading"><div class="spinner"></div>Loading board members...</div>';
   let directors = [];
   try {
-    const res = await fetch("data/directors/" + ticker + "_directors.json");
+    const res = await fetch("https://stockintel-in.netlify.app/data/directors/" + ticker + "_directors.json");
     if (res.ok) {
       const d = await res.json();
       directors = d.directors || [];
