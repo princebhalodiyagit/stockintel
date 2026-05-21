@@ -272,21 +272,36 @@ async function loadCompanyData(ticker) {
 
 // ── Fetch live price ──
 async function fetchLivePrice(ticker, yfSymbol) {
-  try {
-    const url = `https://query1.finance.yahoo.com/v8/finance/chart/${yfSymbol}?interval=1d&range=1d`;
-    const proxy = `https://api.allorigins.win/get?url=${encodeURIComponent(url)}`;
-    const res = await fetch(proxy);
-    const json = await res.json();
-    const data = JSON.parse(json.contents);
-    const q = data.chart.result[0].meta;
-    const price = q.regularMarketPrice;
-    const prev = q.chartPreviousClose;
-    const change = ((price - prev) / prev * 100).toFixed(2);
-    return { price: price.toFixed(2), change: (change >= 0 ? "+" : "") + change + "%", up: change >= 0 };
-  } catch(e) {
-    return { price: "N/A", change: "—", up: true };
+  const proxies = [
+    url => `https://corsproxy.io/?${encodeURIComponent(url)}`,
+    url => `https://api.allorigins.win/get?url=${encodeURIComponent(url)}`,
+    url => `https://thingproxy.freeboard.io/fetch/${url}`,
+  ];
+  const url = `https://query1.finance.yahoo.com/v8/finance/chart/${yfSymbol}?interval=1d&range=1d`;
+  for (const makeProxy of proxies) {
+    try {
+      const res = await fetch(makeProxy(url), {signal: AbortSignal.timeout(6000)});
+      const json = await res.json();
+      const raw = json.contents ? JSON.parse(json.contents) : json;
+      const q = raw.chart.result[0].meta;
+      const price = q.regularMarketPrice;
+      const prev = q.chartPreviousClose || q.previousClose;
+      const change = prev ? ((price - prev) / prev * 100).toFixed(2) : "0.00";
+      return {price: price.toFixed(2), change: (change>=0?"+":"")+change+"%", up: change>=0};
+    } catch(e) { continue; }
   }
+  // Final fallback — use stored JSON price from GitHub
+  try {
+    const res = await fetch(`https://stockintel-in.netlify.app/data/financials/${ticker}.json`);
+    if (res.ok) {
+      const d = await res.json();
+      const price = d.company_info?.current_price;
+      if (price && price !== "N/A") return {price: parseFloat(price).toFixed(2), change: "Delayed", up: true};
+    }
+  } catch(e) {}
+  return {price: "N/A", change: "—", up: true};
 }
+
 
 async function fetchPriceHistory(yfSymbol) {
   try {
