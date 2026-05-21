@@ -1,0 +1,42 @@
+{
+  "ticker": "BHAGERIA",
+  "company": "Bhageria Industries Limited",
+  "collected_at": "2026-05-21 05:06:19",
+  "directors": [
+    {
+      "name": "Mr. Suresh Kumar Keshavdeo Bhageria",
+      "role": "Executive Chairman",
+      "age": 70,
+      "year_born": 1955,
+      "total_pay": 10800000
+    },
+    {
+      "name": "Mr. Vinodkumar Keshadev Bhageria B.Com",
+      "role": "MD & Executive Director",
+      "age": 69,
+      "year_born": 1956,
+      "total_pay": 1050000
+    },
+    {
+      "name": "Mr. Vikas Suresh Bhageria",
+      "role": "Joint MD & Whole Time Director",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": 9000000
+    },
+    {
+      "name": "Mr. Rakesh L. Kachhadiya",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Deepa Mahavir Prasad Toshniwal",
+      "role": "Whole-Time Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
+}

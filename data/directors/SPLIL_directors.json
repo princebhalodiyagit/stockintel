@@ -1,0 +1,35 @@
+{
+  "ticker": "SPLIL",
+  "company": "SPL Industries Limited",
+  "collected_at": "2026-05-21 05:31:39",
+  "directors": [
+    {
+      "name": "Mr. Mukesh Kumar Aggarwal",
+      "role": "MD, CEO & Chairman of the Board",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": 50000000
+    },
+    {
+      "name": "Ms. Shashi  Agarwal",
+      "role": "Whole-Time Director",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": 3050000
+    },
+    {
+      "name": "Ms. Komal  Adlakha",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vishal  Srivastava",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 720000
+    }
+  ]
+}

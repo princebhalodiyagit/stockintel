@@ -1,0 +1,35 @@
+{
+  "ticker": "VASWANI",
+  "company": "Vaswani Industries Limited",
+  "collected_at": "2026-05-21 05:35:42",
+  "directors": [
+    {
+      "name": "Mr. Yashwant Ravi Vaswani",
+      "role": "Whole Time Director",
+      "age": 40,
+      "year_born": 1985,
+      "total_pay": 9640000
+    },
+    {
+      "name": "Mr. Kushal  Vaswani",
+      "role": "CFO & COO of Industry",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Sakshi  Agrawal",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pawan Kumar Jha",
+      "role": "Executive Director",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": 659000
+    }
+  ]
+}

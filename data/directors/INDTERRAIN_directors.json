@@ -1,0 +1,35 @@
+{
+  "ticker": "INDTERRAIN",
+  "company": "Indian Terrain Fashions Limited",
+  "collected_at": "2026-05-21 05:16:37",
+  "directors": [
+    {
+      "name": "Mr. Venkatesh  Rajagopal",
+      "role": "Executive Chairman",
+      "age": 68,
+      "year_born": 1957,
+      "total_pay": 9639000
+    },
+    {
+      "name": "Mr. Charath Ram Narsimhan",
+      "role": "MD, CEO & Director",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": 7228000
+    },
+    {
+      "name": "Mr. Sheikh  Sahenawaz",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sainath  Sundaram",
+      "role": "Company Secretary, Compliance Managerial Personnel & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
+}

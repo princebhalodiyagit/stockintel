@@ -1,0 +1,42 @@
+{
+  "ticker": "SBC",
+  "company": "SBC Exports Limited",
+  "collected_at": "2026-05-21 05:29:32",
+  "directors": [
+    {
+      "name": "Mr. Govindji  Gupta",
+      "role": "Chairman & MD",
+      "age": 44,
+      "year_born": 1981,
+      "total_pay": 1800000
+    },
+    {
+      "name": "Ms. Deepika  Gupta",
+      "role": "Whole-Time Director",
+      "age": 40,
+      "year_born": 1985,
+      "total_pay": 996000
+    },
+    {
+      "name": "Mr. Mukesh  Bhatt",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 452000
+    },
+    {
+      "name": "Mr. Hari Om Sharma",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 756000
+    },
+    {
+      "name": "Mr. Asim Kumar Mandal",
+      "role": "Company Secretary",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
+}

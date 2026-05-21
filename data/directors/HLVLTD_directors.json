@@ -1,0 +1,28 @@
+{
+  "ticker": "HLVLTD",
+  "company": "HLV LIMITED",
+  "collected_at": "2026-05-21 05:15:14",
+  "directors": [
+    {
+      "name": "Mr. Vivek Krishnan Nair B.A. (Hons)",
+      "role": "MD & Chairman",
+      "age": 73,
+      "year_born": 1952,
+      "total_pay": 12000000
+    },
+    {
+      "name": "Mr. Dinesh Krishnan Nair B.Com.",
+      "role": "MD & Co-Chairman",
+      "age": 70,
+      "year_born": 1955,
+      "total_pay": 12000000
+    },
+    {
+      "name": "Mr. Umesh  Dombe",
+      "role": "Chief Financial Officer",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": 3885120
+    }
+  ]
+}

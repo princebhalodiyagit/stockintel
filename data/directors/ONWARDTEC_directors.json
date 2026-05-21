@@ -1,0 +1,35 @@
+{
+  "ticker": "ONWARDTEC",
+  "company": "Onward Technologies Limited",
+  "collected_at": "2026-05-21 05:24:47",
+  "directors": [
+    {
+      "name": "Mr. Harish Shantital Mehta",
+      "role": "Founder & Executive Chairman",
+      "age": 78,
+      "year_born": 1947,
+      "total_pay": 37200000
+    },
+    {
+      "name": "Mr. Jigar Harish Mehta",
+      "role": "MD & Executive Director",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": 38440000
+    },
+    {
+      "name": "Mr. Pawan Kumar Nathani",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 4880000
+    },
+    {
+      "name": "Mr. Aakash  Joshi",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
+}

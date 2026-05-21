@@ -1,0 +1,35 @@
+{
+  "ticker": "INNOVANA",
+  "company": "Innovana Thinklabs Limited",
+  "collected_at": "2026-05-21 05:16:45",
+  "directors": [
+    {
+      "name": "Mr. Chandan  Garg",
+      "role": "Chairman & MD",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": 5000000
+    },
+    {
+      "name": "Mr. Sanjeev  Mittal",
+      "role": "Chief Financial Officer",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vasu Ajay Anand",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kapil  Garg",
+      "role": "Whole-Time Director",
+      "age": 41,
+      "year_born": 1984,
+      "total_pay": 5700000
+    }
+  ]
+}

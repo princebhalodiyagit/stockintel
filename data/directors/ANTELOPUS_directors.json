@@ -1,0 +1,35 @@
+{
+  "ticker": "ANTELOPUS",
+  "company": "Antelopus Selan Energy Limited",
+  "collected_at": "2026-05-21 05:03:39",
+  "directors": [
+    {
+      "name": "Mr. Suniti Kumar Bhat",
+      "role": "MD & Chairman",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": 50000000
+    },
+    {
+      "name": "Mr. Siva Kumar Pothepalli",
+      "role": "Whole time Director",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": 50000000
+    },
+    {
+      "name": "Mr. Raajeev  Tirupati",
+      "role": "Chief Financial Officer & Chief Risk Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Yogita  Rohilla",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
+}

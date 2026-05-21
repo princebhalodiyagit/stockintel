@@ -1,0 +1,77 @@
+{
+  "ticker": "MAJESAUT",
+  "company": "Majestic Auto Limited",
+  "collected_at": "2026-05-21 05:21:01",
+  "directors": [
+    {
+      "name": "Mr. Mahesh Chander Munjal",
+      "role": "Chairman & MD",
+      "age": 71,
+      "year_born": 1954,
+      "total_pay": 32532000
+    },
+    {
+      "name": "Mr. Aayush  Munjal",
+      "role": "Joint MD & Whole Time Director",
+      "age": 38,
+      "year_born": 1987,
+      "total_pay": 15837000
+    },
+    {
+      "name": "Mr. Ajay  Kumar",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Nishant  Sharma",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Brajesh Kumar Prasad",
+      "role": "Assistant Manager",
+      "age": 34,
+      "year_born": 1991,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Deepak  Thapak",
+      "role": "Manager-IT",
+      "age": 40,
+      "year_born": 1985,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Rampal  Singh",
+      "role": "Accounts Officer",
+      "age": 40,
+      "year_born": 1985,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Madan  Lal",
+      "role": "Deputy Manager",
+      "age": 67,
+      "year_born": 1958,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Raj Kumar Thakur",
+      "role": "Assistant Manager",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Hari  Pal",
+      "role": "Security",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    }
+  ]
+}

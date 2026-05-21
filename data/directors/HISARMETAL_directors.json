@@ -1,0 +1,35 @@
+{
+  "ticker": "HISARMETAL",
+  "company": "Hisar Metal Industries Limited",
+  "collected_at": "2026-05-21 05:15:10",
+  "directors": [
+    {
+      "name": "Mr. Abhiram  Tayal",
+      "role": "MD & Executive Director",
+      "age": 72,
+      "year_born": 1953,
+      "total_pay": 1521600
+    },
+    {
+      "name": "Mr. Radhey Shyam Bansal",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vishesh Kumar Chugh",
+      "role": "GM of Finance, Compliance Officer & Company Secretary",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Karan Dev Tayal",
+      "role": "Whole-Time Director",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": 4521600
+    }
+  ]
+}

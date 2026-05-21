@@ -1,0 +1,35 @@
+{
+  "ticker": "STYLAMIND",
+  "company": "Stylam Industries Limited",
+  "collected_at": "2026-05-21 05:32:10",
+  "directors": [
+    {
+      "name": "Mr. Jagdish Rai Gupta M.D.",
+      "role": "MD & Director",
+      "age": 69,
+      "year_born": 1956,
+      "total_pay": 30000000
+    },
+    {
+      "name": "Mr. Kishan  Nagpal",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Dhiraj  Kheriwal",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manit  Gupta",
+      "role": "Whole Time Director",
+      "age": 37,
+      "year_born": 1988,
+      "total_pay": 14400000
+    }
+  ]
+}

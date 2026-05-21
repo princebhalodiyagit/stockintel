@@ -1,0 +1,28 @@
+{
+  "ticker": "GLOBAL",
+  "company": "Global Education Limited",
+  "collected_at": "2026-05-21 05:13:01",
+  "directors": [
+    {
+      "name": "Mr. Aditya Praneet Bhandari",
+      "role": "Whole-Time Director",
+      "age": 35,
+      "year_born": 1990,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Hemant Kumar Daga",
+      "role": "CFO & Director",
+      "age": 39,
+      "year_born": 1986,
+      "total_pay": 1344000
+    },
+    {
+      "name": "Ms. Preeti  Pacheriwala C.S.",
+      "role": "Compliance Officer & Company Secretary",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 1390000
+    }
+  ]
+}

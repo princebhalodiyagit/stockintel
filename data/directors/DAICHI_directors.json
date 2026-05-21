@@ -1,0 +1,35 @@
+{
+  "ticker": "DAICHI",
+  "company": "Dai-Ichi Karkaria Limited",
+  "collected_at": "2026-05-21 05:09:11",
+  "directors": [
+    {
+      "name": "Ms. Shernaz Firoze Vakil",
+      "role": "Chairperson",
+      "age": 74,
+      "year_born": 1951,
+      "total_pay": 33912296
+    },
+    {
+      "name": "Ms. Meher Firoze Vakil Taff",
+      "role": "MD & Director",
+      "age": 38,
+      "year_born": 1987,
+      "total_pay": 31233215
+    },
+    {
+      "name": "Mr. Farokh P. Gandhi",
+      "role": "Chief Financial Officer",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ankit Parimal Shah",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
+}

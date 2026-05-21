@@ -1,0 +1,35 @@
+{
+  "ticker": "SHYAMCENT",
+  "company": "Shyam Century Ferrous Limited",
+  "collected_at": "2026-05-21 05:30:38",
+  "directors": [
+    {
+      "name": "Mr. Aditya Vimalkumar Agrawal",
+      "role": "MD & Non-Independent Executive Director",
+      "age": 36,
+      "year_born": 1989,
+      "total_pay": 5625000
+    },
+    {
+      "name": "Mr. Uday Bahadur Chetri",
+      "role": "Chief Financial Officer",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Ritu  Agarwal",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 36,
+      "year_born": 1989,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kailash Chandra Biswal",
+      "role": "AGM of Production",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": "N/A"
+    }
+  ]
+}

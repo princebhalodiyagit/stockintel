@@ -1,0 +1,42 @@
+{
+  "ticker": "TASTYBITE",
+  "company": "Tasty Bite Eatables Limited",
+  "collected_at": "2026-05-21 05:33:15",
+  "directors": [
+    {
+      "name": "Mr. Dilen Bharat Gandhi",
+      "role": "Managing Director",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": 45580000
+    },
+    {
+      "name": "Mr. Naresh Kumar Chitlangia",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 13800000
+    },
+    {
+      "name": "Mr. Vimal  Tank",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 3790000
+    },
+    {
+      "name": "Mr. Shashank  Shekhar",
+      "role": "Wholetime Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 25399500
+    },
+    {
+      "name": "Ms. Vidhu  Arora",
+      "role": "Chief Human Resource Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
+}

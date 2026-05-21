@@ -1,0 +1,35 @@
+{
+  "ticker": "NIBE",
+  "company": "NIBE Limited",
+  "collected_at": "2026-05-21 05:23:49",
+  "directors": [
+    {
+      "name": "Mr. Ganesh Ramesh Nibe",
+      "role": "MD & Chairman",
+      "age": 44,
+      "year_born": 1981,
+      "total_pay": 8266000
+    },
+    {
+      "name": "Mr. Balakrishnan Govind Swamy",
+      "role": "Chief Technical Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 4448000
+    },
+    {
+      "name": "Ms. Komal P Bhagat",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 915000
+    },
+    {
+      "name": "Mr. Prakash Hari Khose",
+      "role": "Chief Executive Officer",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    }
+  ]
+}

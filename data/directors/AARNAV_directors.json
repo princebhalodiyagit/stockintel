@@ -1,0 +1,42 @@
+{
+  "ticker": "AARNAV",
+  "company": "Aarnav Fashions Limited",
+  "collected_at": "2026-05-21 05:01:42",
+  "directors": [
+    {
+      "name": "Mr. Champalal Gopiram Agarwal",
+      "role": "Executive Chairman of the Board & Whole-Time Director",
+      "age": 74,
+      "year_born": 1951,
+      "total_pay": 3600000
+    },
+    {
+      "name": "Mr. Sumit Champalal Agarwal",
+      "role": "MD & Executive Director",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": 3600000
+    },
+    {
+      "name": "Mr. Radhakishan  Lekharam Sharma",
+      "role": "Chief Financial Officer",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Milee Chandresh Kamdar",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Devendra  Chhajed",
+      "role": "Purchase Head",
+      "age": 75,
+      "year_born": 1950,
+      "total_pay": "N/A"
+    }
+  ]
+}

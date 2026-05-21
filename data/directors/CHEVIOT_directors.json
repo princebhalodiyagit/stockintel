@@ -1,0 +1,56 @@
+{
+  "ticker": "CHEVIOT",
+  "company": "Cheviot Company Limited",
+  "collected_at": "2026-05-21 05:08:09",
+  "directors": [
+    {
+      "name": "Mr. Harsh Vardhan Kanoria",
+      "role": "Chairman, MD & CEO",
+      "age": 69,
+      "year_born": 1956,
+      "total_pay": 24644000
+    },
+    {
+      "name": "Mr. Utkarsh  Kanoria",
+      "role": "Whole Time Director",
+      "age": 32,
+      "year_born": 1993,
+      "total_pay": 24355000
+    },
+    {
+      "name": "Mr. Abhishek  Murarka",
+      "role": "Wholetime Director",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": 5676000
+    },
+    {
+      "name": "Mr. Madhup Kumar Patni",
+      "role": "Chief Financial Officer",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": 3559000
+    },
+    {
+      "name": "Mr. Aditya  Banerjee",
+      "role": "Compliance Officer & Company Secretary",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 1740000
+    },
+    {
+      "name": "Mr. Debdas  Mazumdar",
+      "role": "President of Works",
+      "age": 71,
+      "year_born": 1954,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Satarupa  Banerjee",
+      "role": "Chief General Manager",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    }
+  ]
+}

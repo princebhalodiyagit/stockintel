@@ -1,0 +1,35 @@
+{
+  "ticker": "KOTHARIPRO",
+  "company": "Kothari Products Limited",
+  "collected_at": "2026-05-21 05:19:26",
+  "directors": [
+    {
+      "name": "Mr. Deepak  Kothari",
+      "role": "Chairman & MD",
+      "age": 74,
+      "year_born": 1951,
+      "total_pay": 4589082
+    },
+    {
+      "name": "Mr. Anurag  Tandon",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Raj Kumar Gupta",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mitesh  Kothari",
+      "role": "Executive Director of Production & Executive Director",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": 5273890
+    }
+  ]
+}

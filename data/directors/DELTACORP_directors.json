@@ -1,0 +1,42 @@
+{
+  "ticker": "DELTACORP",
+  "company": "Delta Corp Limited",
+  "collected_at": "2026-05-21 05:09:42",
+  "directors": [
+    {
+      "name": "Mr. Ashish Kiran Kapadia",
+      "role": "MD & Executive Director",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": 33100000
+    },
+    {
+      "name": "Mr. Anil  Malani",
+      "role": "President & CFO",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Dilip Narendra Vaidya",
+      "role": "VP of Secretarial, Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manoj  Jain",
+      "role": "Chief Operating Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Anjali Jaydev Mody",
+      "role": "President of Projects for Design & Execution",
+      "age": 39,
+      "year_born": 1986,
+      "total_pay": "N/A"
+    }
+  ]
+}

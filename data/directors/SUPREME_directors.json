@@ -1,0 +1,35 @@
+{
+  "ticker": "SUPREME",
+  "company": "Supreme Holdings & Hospitality (India) Limited",
+  "collected_at": "2026-05-21 05:32:36",
+  "directors": [
+    {
+      "name": "Mr. Vidip Vinod Jatia",
+      "role": "Executive Chairman, MD & CFO",
+      "age": 33,
+      "year_born": 1992,
+      "total_pay": 3000000
+    },
+    {
+      "name": "Ms. Namita Prateek Jatia",
+      "role": "Whole Time Director",
+      "age": 38,
+      "year_born": 1987,
+      "total_pay": 3000000
+    },
+    {
+      "name": "Mr. Anil  Shende",
+      "role": "Manager of Accounts & Purchases",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rohan Ramesh Chinchkar",
+      "role": "Compliance Officer & Company Secretary",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
+}

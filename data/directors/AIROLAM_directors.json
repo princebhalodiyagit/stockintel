@@ -1,0 +1,35 @@
+{
+  "ticker": "AIROLAM",
+  "company": "Airo Lam limited",
+  "collected_at": "2026-05-21 05:02:52",
+  "directors": [
+    {
+      "name": "Mr. Pravinkumarbhai Nathalalbhai Patel",
+      "role": "Chairman & MD",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Keyaben Mahendrabhai Patel",
+      "role": "Chief Financial Officer",
+      "age": 30,
+      "year_born": 1995,
+      "total_pay": 480000
+    },
+    {
+      "name": "Mr. Chintan Kamleshbhai Mehuriya",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 216000
+    },
+    {
+      "name": "Mr. Sureshkumarbhai Hansarajbhai Patel",
+      "role": "Whole-Time Director",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": "N/A"
+    }
+  ]
+}

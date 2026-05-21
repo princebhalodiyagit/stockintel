@@ -1,0 +1,49 @@
+{
+  "ticker": "SURAJLTD",
+  "company": "Suraj Limited",
+  "collected_at": "2026-05-21 05:32:40",
+  "directors": [
+    {
+      "name": "Mr. Ashokkumar Tarachand Shah",
+      "role": "Chairman & CFO",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": 9120000
+    },
+    {
+      "name": "Mr. Kunal Tarachand Shah",
+      "role": "MD, CEO & Executive Director",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": 7800000
+    },
+    {
+      "name": "Mr. Gunvantkumar Tarachand Shah",
+      "role": "Vice Chairman & Whole Time Director",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": 6720000
+    },
+    {
+      "name": "Ms. Rashmi  Lakhani",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Shilpa Mangaldas Patel",
+      "role": "Whole Time Director",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": 2115000
+    },
+    {
+      "name": "Mr. Rajesh  Pillai",
+      "role": "Senior Manager of Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
+}

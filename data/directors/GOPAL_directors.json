@@ -1,0 +1,56 @@
+{
+  "ticker": "GOPAL",
+  "company": "Gopal Snacks Limited",
+  "collected_at": "2026-05-21 05:13:32",
+  "directors": [
+    {
+      "name": "Mr. Bipinbhai Vithalbhai Hadvani",
+      "role": "Chairman & MD",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": 20000000
+    },
+    {
+      "name": "Mr. Raj Bipinbhai Hadvani",
+      "role": "CEO & Whole-Time Director",
+      "age": 31,
+      "year_born": 1994,
+      "total_pay": 10000000
+    },
+    {
+      "name": "Mr. Mayurbhai Popatbhai Gangani C.S.",
+      "role": "Head Legal & Compliance & Company Secretary",
+      "age": 39,
+      "year_born": 1986,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Dakshaben Bipinbhai Hadvani",
+      "role": "Executive Director",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": 20000000
+    },
+    {
+      "name": "Mr. Rigan Hasmukhrai Raithatha",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Shivangi  Hadvani",
+      "role": "Chief of Staff",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Naveen  Gupta",
+      "role": "Chief Business Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
+}

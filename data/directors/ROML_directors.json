@@ -1,0 +1,49 @@
+{
+  "ticker": "ROML",
+  "company": "Raj Oil Mills Limited",
+  "collected_at": "2026-05-21 05:28:19",
+  "directors": [
+    {
+      "name": "Mr. Parvez Shafee Ahmed Shaikh",
+      "role": "Whole-Time Executive Chairman",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": 3240000
+    },
+    {
+      "name": "Mr. Atikurraheman Daudbhai Mukhi",
+      "role": "MD & Director",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": 3240000
+    },
+    {
+      "name": "Mr. Sanjay Kumar Samantray",
+      "role": "Chief Financial Officer",
+      "age": 44,
+      "year_born": 1981,
+      "total_pay": 4742000
+    },
+    {
+      "name": "Ms. Priya  Pandey",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 1036000
+    },
+    {
+      "name": "Mr. Tabrez Shafiahmed Shaikh",
+      "role": "Whole Time Executive Director",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": 3240000
+    },
+    {
+      "name": "Mr. Amir Atikurrehman Mukhi",
+      "role": "Whole-Time Executive Director",
+      "age": 28,
+      "year_born": 1997,
+      "total_pay": 3240000
+    }
+  ]
+}

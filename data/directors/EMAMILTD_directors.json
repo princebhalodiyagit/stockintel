@@ -1,0 +1,77 @@
+{
+  "ticker": "EMAMILTD",
+  "company": "Emami Limited",
+  "collected_at": "2026-05-21 05:11:01",
+  "directors": [
+    {
+      "name": "Mr. Radhe Shyam Goenka B.Com., L.L.B., M.Com. LLB",
+      "role": "Founder & Non-Executive Chairman",
+      "age": 78,
+      "year_born": 1947,
+      "total_pay": 1100000
+    },
+    {
+      "name": "Mr. Harsha Vardhan Agarwal B.Com.",
+      "role": "MD & Vice Chairman",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": 85572000
+    },
+    {
+      "name": "Mr. Mohan  Goenka B.Com., M.B.A.",
+      "role": "Vice Chairman & Whole Time Director",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": 85572000
+    },
+    {
+      "name": "Mr. Radhe Shyam Agarwal F.C.A., FCS, L.L.B., M.Com",
+      "role": "Founder & Chairman Emeritus",
+      "age": 79,
+      "year_born": 1946,
+      "total_pay": 200000
+    },
+    {
+      "name": "Mr. Sushil Kumar Goenka B.Com.",
+      "role": "Whole-Time Director",
+      "age": 69,
+      "year_born": 1956,
+      "total_pay": 50616000
+    },
+    {
+      "name": "Mr. Prashant  Goenka B.Com., M.B.A.",
+      "role": "Whole-Time Director",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": 48400000
+    },
+    {
+      "name": "Ms. Priti A. Sureka B.A.",
+      "role": "Whole Time Director",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": 48400000
+    },
+    {
+      "name": "Mr. Naresh Hiralal Bhansali F.C.A.",
+      "role": "CEO of Finance, Strategy & Business Development and CFO",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": 29718000
+    },
+    {
+      "name": "Mr. Sanjay  Madan",
+      "role": "President of Operations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajesh  Sharma",
+      "role": "President of Finance & Investor Relations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
+}

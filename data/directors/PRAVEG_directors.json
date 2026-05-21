@@ -1,0 +1,35 @@
+{
+  "ticker": "PRAVEG",
+  "company": "Praveg Limited",
+  "collected_at": "2026-05-21 05:26:33",
+  "directors": [
+    {
+      "name": "Dr. Vishnukumar Vitthaldas Patel",
+      "role": "MD & Chairman",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": 20000
+    },
+    {
+      "name": "Mr. Dharmendra Kumar Manilal Soni",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 1821000
+    },
+    {
+      "name": "Mr. Alpeshkumar Parshottambhai Patel",
+      "role": "Executive Director of Operations & Executive Director",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": 4356800
+    },
+    {
+      "name": "Mr. Mukesh Kumar Sohanram Chaudhary",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 1563000
+    }
+  ]
+}

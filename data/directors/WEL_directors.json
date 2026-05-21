@@ -1,0 +1,56 @@
+{
+  "ticker": "WEL",
+  "company": "Wonder Electricals Limited",
+  "collected_at": "2026-05-21 05:36:39",
+  "directors": [
+    {
+      "name": "Mr. Harsh Kumar Anand",
+      "role": "Executive Chairman",
+      "age": 76,
+      "year_born": 1949,
+      "total_pay": 1920000
+    },
+    {
+      "name": "Mr. Yogesh  Sahni",
+      "role": "Executive Director & MD",
+      "age": 67,
+      "year_born": 1958,
+      "total_pay": 1920000
+    },
+    {
+      "name": "Mr. Yogesh  Anand",
+      "role": "CFO & Director",
+      "age": 71,
+      "year_born": 1954,
+      "total_pay": 1920000
+    },
+    {
+      "name": "Mr. Dhruv Kumar Jha",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 662315
+    },
+    {
+      "name": "Mr. Jatin  Anand",
+      "role": "Whole Time Director",
+      "age": 42,
+      "year_born": 1983,
+      "total_pay": 2400000
+    },
+    {
+      "name": "Mr. Siddhant  Sahni",
+      "role": "Whole Time Director",
+      "age": 38,
+      "year_born": 1987,
+      "total_pay": 2400000
+    },
+    {
+      "name": "Mr. Karan  Anand",
+      "role": "Whole Time Director",
+      "age": 41,
+      "year_born": 1984,
+      "total_pay": 2400000
+    }
+  ]
+}

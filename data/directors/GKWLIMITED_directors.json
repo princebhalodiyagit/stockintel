@@ -1,0 +1,28 @@
+{
+  "ticker": "GKWLIMITED",
+  "company": "GKW Limited",
+  "collected_at": "2026-05-21 05:12:57",
+  "directors": [
+    {
+      "name": "Mr. Amitabha  Chakrabarti A.C.A., B.Com (Hons), M.Com",
+      "role": "Whole time Director & CFO",
+      "age": 69,
+      "year_born": 1956,
+      "total_pay": 6162000
+    },
+    {
+      "name": "Mr. Amitava  Ghosh",
+      "role": "Vice President of Construction & Administration",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Raju  Shaw",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 36,
+      "year_born": 1989,
+      "total_pay": "N/A"
+    }
+  ]
+}

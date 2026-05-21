@@ -1,0 +1,49 @@
+{
+  "ticker": "STEELCITY",
+  "company": "Steel City Securities Limited",
+  "collected_at": "2026-05-21 05:32:01",
+  "directors": [
+    {
+      "name": "Mr. Kamireddy  Satyanarayana",
+      "role": "Executive Chairman",
+      "age": 74,
+      "year_born": 1951,
+      "total_pay": 4200000
+    },
+    {
+      "name": "Mr. Satish Kumar Arya",
+      "role": "MD, CEO & Executive Director",
+      "age": 65,
+      "year_born": 1960,
+      "total_pay": 3850000
+    },
+    {
+      "name": "Mr. Naraharasetti  Ramu",
+      "role": "Chief Financial Officer",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Movva  Srividya",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 36,
+      "year_born": 1989,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Tentu Venkata Srikanth",
+      "role": "Director of IT & Whole-Time Director",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": 2700000
+    },
+    {
+      "name": "Mr. Mediboyena  Murali",
+      "role": "General Manager of Operations",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "ticker": "FEDDERSHOL",
+  "company": "Fedders Holding Limited",
+  "collected_at": "2026-05-21 05:11:47",
+  "directors": [
+    {
+      "name": "Mr. Vishal  Singhal",
+      "role": "Chairman & Whole Time Director",
+      "age": 32,
+      "year_born": 1993,
+      "total_pay": 1200000
+    },
+    {
+      "name": "Mr. Bijay Kumar Pathak",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Sakshi  Goel",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 34,
+      "year_born": 1991,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Alok  Nautiyal",
+      "role": "Senior Manager of Marketing",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mansiz Kumar Shukla",
+      "role": "Manager of Sales",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": "N/A"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "ticker": "DSFCL",
+  "company": "DCM Shriram Fine Chemicals Limited",
+  "collected_at": "2026-05-21 05:10:27",
+  "directors": [
+    {
+      "name": "Mr. Akshay  Dhar",
+      "role": "MD & Director",
+      "age": 40,
+      "year_born": 1985,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Kokila  Arora",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Sandeep  Bajaj",
+      "role": "Executive Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Urvashi  Tilakdhar",
+      "role": "Senior MD & Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
+}

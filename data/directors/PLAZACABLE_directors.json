@@ -1,0 +1,49 @@
+{
+  "ticker": "PLAZACABLE",
+  "company": "Plaza Wires Limited",
+  "collected_at": "2026-05-21 05:26:03",
+  "directors": [
+    {
+      "name": "Mr. Sanjay  Gupta",
+      "role": "MD & Chairman",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 4200000
+    },
+    {
+      "name": "Mr. Ajay Kumar Batla",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Bhavika  Kapil",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Sonia  Gupta",
+      "role": "Executive Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 3600000
+    },
+    {
+      "name": "Mr. Abhishek  Gupta",
+      "role": "Executive Director",
+      "age": 34,
+      "year_born": 1991,
+      "total_pay": 3000000
+    },
+    {
+      "name": "Mr. Aditya  Gupta",
+      "role": "Whole time Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 3000000
+    }
+  ]
+}

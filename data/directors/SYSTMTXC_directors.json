@@ -1,0 +1,35 @@
+{
+  "ticker": "SYSTMTXC",
+  "company": "Systematix Corporate Services Limited",
+  "collected_at": "2026-05-21 05:33:03",
+  "directors": [
+    {
+      "name": "Mr. Nikhil  Khandelwal",
+      "role": "MD & Chairman",
+      "age": 41,
+      "year_born": 1984,
+      "total_pay": 4620000
+    },
+    {
+      "name": "Mr. Anil Lalchand Bhagchandani",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 3984000
+    },
+    {
+      "name": "Mr. Divyesh Bharat Badiyani",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 870000
+    },
+    {
+      "name": "Ms. Priyanka  Khandelwal",
+      "role": "Whole Time Director",
+      "age": 40,
+      "year_born": 1985,
+      "total_pay": 1330000
+    }
+  ]
+}

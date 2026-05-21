@@ -1,0 +1,42 @@
+{
+  "ticker": "ENTERO",
+  "company": "Entero Healthcare Solutions Limited",
+  "collected_at": "2026-05-21 05:11:15",
+  "directors": [
+    {
+      "name": "Mr. Prabhat  Agrawal",
+      "role": "Co-Founder, CEO, MD & Director",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": 43762671
+    },
+    {
+      "name": "Mr. Prem  Sethi",
+      "role": "Co-Founder, COO & Whole-time Director",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": 23870550
+    },
+    {
+      "name": "Ms. Sanu Vishal Kapoor",
+      "role": "VP of Legal and General Counsel, Company Secretary & Compliance Officer",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Balakrishnan Natesan Kaushik",
+      "role": "Group Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Abhitesh  Kumar",
+      "role": "Chief Growth Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
+}

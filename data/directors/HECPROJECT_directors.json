@@ -1,0 +1,42 @@
+{
+  "ticker": "HECPROJECT",
+  "company": "HEC Infra Projects Limited",
+  "collected_at": "2026-05-21 05:14:44",
+  "directors": [
+    {
+      "name": "Mr. Gaurang Parmananddas Shah",
+      "role": "Chairman & MD",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": 1850000
+    },
+    {
+      "name": "Mr. Arvindkumar H. Patel",
+      "role": "Chief Financial Officer",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": 705000
+    },
+    {
+      "name": "Ms. Khushi Rajendra Bhatt",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 352000
+    },
+    {
+      "name": "Ms. Rupal Gaurang Shah",
+      "role": "Promoter & Whole-Time Executive Director",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": 2880000
+    },
+    {
+      "name": "Mr. Rahul Gaurang Shah",
+      "role": "Executive Director",
+      "age": 33,
+      "year_born": 1992,
+      "total_pay": 1317000
+    }
+  ]
+}

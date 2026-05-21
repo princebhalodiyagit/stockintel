@@ -1,0 +1,35 @@
+{
+  "ticker": "STOVEKRAFT",
+  "company": "Stove Kraft Limited",
+  "collected_at": "2026-05-21 05:32:07",
+  "directors": [
+    {
+      "name": "Mr. Rajendra J. Gandhi",
+      "role": "MD & Executive Director",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": 14871483
+    },
+    {
+      "name": "Mr. Ramakrishna  Pendyala",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Neha  Gandhi",
+      "role": "CTO & Executive Director",
+      "age": 32,
+      "year_born": 1993,
+      "total_pay": 6108812
+    },
+    {
+      "name": "Mr. Shrinivas P. Harapanahalli",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
+}

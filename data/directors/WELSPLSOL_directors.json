@@ -1,0 +1,35 @@
+{
+  "ticker": "WELSPLSOL",
+  "company": "Welspun Specialty Solutions Limited",
+  "collected_at": "2026-05-21 05:36:43",
+  "directors": [
+    {
+      "name": "Mr. Anuj  Burakia",
+      "role": "CEO & Whole Time Executive Director",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": 24922287
+    },
+    {
+      "name": "Mr. Navin  Agarwal",
+      "role": "Chief Financial Officer",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": 2800000
+    },
+    {
+      "name": "Mr. Gouri Shankar Roy",
+      "role": "Chief Operating Officer",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anoop  Rathi",
+      "role": "VP and Head of Sales & Marketing",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    }
+  ]
+}

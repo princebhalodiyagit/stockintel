@@ -1,0 +1,35 @@
+{
+  "ticker": "LOVABLE",
+  "company": "Lovable Lingerie Limited",
+  "collected_at": "2026-05-21 05:20:31",
+  "directors": [
+    {
+      "name": "Mr. Lattupalli Vinay Reddy",
+      "role": "Chairman & MD",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajshekara  Talapachery",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sunil Kumar Bansal",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Prakash  Ramanna",
+      "role": "General Manager of Sales & Marketing",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": "N/A"
+    }
+  ]
+}

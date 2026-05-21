@@ -1,0 +1,35 @@
+{
+  "ticker": "SILGO",
+  "company": "Silgo Retail Limited",
+  "collected_at": "2026-05-21 05:30:49",
+  "directors": [
+    {
+      "name": "Mr. Nitin  Jain",
+      "role": "Chairman & MD",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": 2400000
+    },
+    {
+      "name": "Mr. Trilok Chand Saini",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Tripti  Sharma C.S.",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Anjana  Jain",
+      "role": "Whole-Time Director",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": "N/A"
+    }
+  ]
+}

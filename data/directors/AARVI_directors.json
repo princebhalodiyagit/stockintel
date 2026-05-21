@@ -1,0 +1,28 @@
+{
+  "ticker": "AARVI",
+  "company": "Aarvi Encon Limited",
+  "collected_at": "2026-05-21 05:01:49",
+  "directors": [
+    {
+      "name": "Mr. Virendra Dalpatram Sanghavi",
+      "role": "MD & Founding Director",
+      "age": 83,
+      "year_born": 1942,
+      "total_pay": 16800000
+    },
+    {
+      "name": "Mr. Jaydev Virendra Sanghavi",
+      "role": "CFO & Executive Director",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": 16800000
+    },
+    {
+      "name": "Ms. Leela Soban Singh Bisht",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
+}

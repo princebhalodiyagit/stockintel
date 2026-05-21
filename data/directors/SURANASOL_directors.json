@@ -1,0 +1,35 @@
+{
+  "ticker": "SURANASOL",
+  "company": "Surana Solar Limited",
+  "collected_at": "2026-05-21 05:32:42",
+  "directors": [
+    {
+      "name": "Mr. Baunakar  Shekarnath",
+      "role": "Whole-Time Director",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": 329070
+    },
+    {
+      "name": "Mr. Anicode Ganeshan Srinath",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 321000
+    },
+    {
+      "name": "Mr. Manish  Surana",
+      "role": "Director of Technical & Non-Executive Director",
+      "age": 39,
+      "year_born": 1986,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mohammed Hafiz Mansoor",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
+}

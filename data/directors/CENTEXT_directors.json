@@ -1,0 +1,35 @@
+{
+  "ticker": "CENTEXT",
+  "company": "Century Extrusions Limited",
+  "collected_at": "2026-05-21 05:07:51",
+  "directors": [
+    {
+      "name": "Mr. Shivanshu  Jhunjhunwala",
+      "role": "MD & Executive Chairman",
+      "age": 32,
+      "year_born": 1993,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. G. V. Khedkar",
+      "role": "President",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Nitesh Kumar Kyal",
+      "role": "Chief Financial Officer",
+      "age": 38,
+      "year_born": 1987,
+      "total_pay": 945670
+    },
+    {
+      "name": "Mr. Rajan  Singh",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
+}

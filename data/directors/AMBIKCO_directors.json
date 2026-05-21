@@ -1,0 +1,35 @@
+{
+  "ticker": "AMBIKCO",
+  "company": "Ambika Cotton Mills Limited",
+  "collected_at": "2026-05-21 05:03:24",
+  "directors": [
+    {
+      "name": "Mr. Puthan Veedu Chandran",
+      "role": "Chairman & MD",
+      "age": 75,
+      "year_born": 1950,
+      "total_pay": 2525000
+    },
+    {
+      "name": "Mr. M.  Vijayakumar",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Radheshyam  Padia",
+      "role": "Compliance Officer & Company Secretary",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. G.  Veerakumar",
+      "role": "General Manager of Admin",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
+}

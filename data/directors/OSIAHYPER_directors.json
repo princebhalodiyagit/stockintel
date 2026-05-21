@@ -1,0 +1,35 @@
+{
+  "ticker": "OSIAHYPER",
+  "company": "Osia Hyper Retail Limited",
+  "collected_at": "2026-05-21 05:25:04",
+  "directors": [
+    {
+      "name": "Mr. Dhirendra Gautamkumar Chopra",
+      "role": "MD & Director",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": 14400000
+    },
+    {
+      "name": "Ms. Kavita Chopra Dhirendrakumar",
+      "role": "Executive Director",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": 14400000
+    },
+    {
+      "name": "Mr. Samir Babubhai Chunara",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Neha  Sharma",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
+}

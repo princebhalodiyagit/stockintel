@@ -1,0 +1,35 @@
+{
+  "ticker": "SINCLAIR",
+  "company": "Sinclairs Hotels Limited",
+  "collected_at": "2026-05-21 05:30:54",
+  "directors": [
+    {
+      "name": "Mr. Navin Chand Suchanti B.Sc (Hons), Ph.D.",
+      "role": "Chairman & CEO",
+      "age": 72,
+      "year_born": 1953,
+      "total_pay": 35000
+    },
+    {
+      "name": "Mr. B. L. Soni",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Swajib  Chatterjee",
+      "role": "COO & Manager",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Dipak Kumar Shaw",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
+}

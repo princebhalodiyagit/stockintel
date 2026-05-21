@@ -1,0 +1,70 @@
+{
+  "ticker": "LINC",
+  "company": "Linc Limited",
+  "collected_at": "2026-05-21 05:20:20",
+  "directors": [
+    {
+      "name": "Mr. Deepak  Jalan B.Com",
+      "role": "MD & Chairman",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": 21120000
+    },
+    {
+      "name": "Mr. Narayan Kumar Dujari",
+      "role": "CFO, Director of Finance & Executive Director",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": 2506501
+    },
+    {
+      "name": "Mr. Dipankar  De",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rohit Deepak Jalan",
+      "role": "Director of Sales & Marketing and Whole-Time Director",
+      "age": 35,
+      "year_born": 1990,
+      "total_pay": 10080000
+    },
+    {
+      "name": "Mr. Aloke  Jalan B.Com",
+      "role": "Whole-Time Director",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": 15096000
+    },
+    {
+      "name": "Shivam  Nathani",
+      "role": "Deputy General Manager of Finance & Accounts",
+      "age": 36,
+      "year_born": 1989,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "V. J. Ganesh",
+      "role": "Deputy General Manager of Technical",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Hitesh  Singla",
+      "role": "Head of Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sachin  Bhatnagar",
+      "role": "President of Export Sales",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
+}

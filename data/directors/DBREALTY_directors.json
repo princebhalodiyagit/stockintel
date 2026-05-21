@@ -1,0 +1,70 @@
+{
+  "ticker": "DBREALTY",
+  "company": "Valor Estate Limited",
+  "collected_at": "2026-05-21 05:09:23",
+  "directors": [
+    {
+      "name": "Mr. Vinod Kumar Goenka",
+      "role": "Executive Non-Independent Chairman & MD",
+      "age": 66,
+      "year_born": 1959,
+      "total_pay": 14229250
+    },
+    {
+      "name": "Mr. Shahid Usman Balwa B.Com.",
+      "role": "Executive Vice Non-Independent Chairman & MD",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": 27882250
+    },
+    {
+      "name": "Mr. Nabil Yusuf Patel",
+      "role": "Director of Sales & Marketing and Executive Non Independent Director",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": 8092070
+    },
+    {
+      "name": "Mr. Rahul  Pandit",
+      "role": "President & Executive Director",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Atul  Bhatnagar",
+      "role": "Chief Financial Officer",
+      "age": 42,
+      "year_born": 1983,
+      "total_pay": 594845
+    },
+    {
+      "name": "Mr. Rajiv B. Agarwal",
+      "role": "Chief Operating Officer",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Satish  Agarwal",
+      "role": "General Manager of Accounts",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jignesh Hasmukhlal Shah",
+      "role": "VP, Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Faizan  Pasha",
+      "role": "Senior Vice President of Sales & Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
+}

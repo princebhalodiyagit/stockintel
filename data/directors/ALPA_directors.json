@@ -1,0 +1,56 @@
+{
+  "ticker": "ALPA",
+  "company": "Alpa Laboratories Limited",
+  "collected_at": "2026-05-21 05:03:17",
+  "directors": [
+    {
+      "name": "Mr. Mahendra Singh Chawla",
+      "role": "Chairman of the Board",
+      "age": 83,
+      "year_born": 1942,
+      "total_pay": 8400000
+    },
+    {
+      "name": "Mr. Paresh  Chawla",
+      "role": "MD & Director",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": 8400000
+    },
+    {
+      "name": "Mr. Bakulesh Chandulal Shah",
+      "role": "Chief Financial Officer",
+      "age": 64,
+      "year_born": 1961,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pravin C. Shah",
+      "role": "Executive Whole-Time Director",
+      "age": 77,
+      "year_born": 1948,
+      "total_pay": 5244000
+    },
+    {
+      "name": "Mr. Shitul  Shah",
+      "role": "Whole Time Director",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": 3900000
+    },
+    {
+      "name": "Mr. Vitthal  Kothana",
+      "role": "Executive Whole-Time Director",
+      "age": 68,
+      "year_born": 1957,
+      "total_pay": 300000
+    },
+    {
+      "name": "Ms. Yashoda  Patidar",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
+}

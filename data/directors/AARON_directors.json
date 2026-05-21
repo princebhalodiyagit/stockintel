@@ -1,0 +1,35 @@
+{
+  "ticker": "AARON",
+  "company": "Aaron Industries Limited",
+  "collected_at": "2026-05-21 05:01:43",
+  "directors": [
+    {
+      "name": "Mr. Amar Chinubhai Doshi",
+      "role": "Founder, Executive Chairman & MD",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Monish Amarbhai Doshi",
+      "role": "CFO & Executive Director",
+      "age": 37,
+      "year_born": 1988,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Nitinkumar  Maniya",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 768000
+    },
+    {
+      "name": "Mr. Karan Amar Doshi",
+      "role": "Executive Whole Time Director",
+      "age": 39,
+      "year_born": 1986,
+      "total_pay": "N/A"
+    }
+  ]
+}

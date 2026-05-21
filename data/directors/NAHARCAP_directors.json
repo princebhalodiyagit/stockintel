@@ -1,0 +1,35 @@
+{
+  "ticker": "NAHARCAP",
+  "company": "Nahar Capital and Financial Services Limited",
+  "collected_at": "2026-05-21 05:23:04",
+  "directors": [
+    {
+      "name": "Mr. Dinesh P. Oswal B.Com.",
+      "role": "MD & Executive Director",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": 52812000
+    },
+    {
+      "name": "Mr. Hans Raj Kapoor C.A.",
+      "role": "Chief Financial Officer",
+      "age": 67,
+      "year_born": 1958,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Anjali  Modgil C.S.",
+      "role": "Compliance Officer & Company Secretary",
+      "age": 37,
+      "year_born": 1988,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sunil  Kapoor",
+      "role": "Assistant Manager of Personnel",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": "N/A"
+    }
+  ]
+}

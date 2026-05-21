@@ -1,0 +1,35 @@
+{
+  "ticker": "GATECHDVR",
+  "company": "GACM Technologies Limited",
+  "collected_at": "2026-05-21 05:12:33",
+  "directors": [
+    {
+      "name": "Mr. Jonna Venkata Tirupati Rao",
+      "role": "MD & Executive Director",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": 12000000
+    },
+    {
+      "name": "Mr. Narendra Babu Mugatha",
+      "role": "CFO & Executive Director",
+      "age": 44,
+      "year_born": 1981,
+      "total_pay": 1040680
+    },
+    {
+      "name": "Ms. Sujata Suresh Jain",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 1372690
+    },
+    {
+      "name": "Mr. Srinivas  Maya",
+      "role": "Whole Time Director",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": 2893270
+    }
+  ]
+}

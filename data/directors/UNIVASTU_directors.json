@@ -1,0 +1,35 @@
+{
+  "ticker": "UNIVASTU",
+  "company": "Univastu India Limited",
+  "collected_at": "2026-05-21 05:35:22",
+  "directors": [
+    {
+      "name": "Mr. Pradeep Kishan Khandagale",
+      "role": "Chairman & MD",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": 4200000
+    },
+    {
+      "name": "Mr. Girish Arvind Deshmukh",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Sakshi  Tiwari",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 37,
+      "year_born": 1988,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Narendra Dharma Bhagatkar",
+      "role": "Whole-time Director",
+      "age": 66,
+      "year_born": 1959,
+      "total_pay": 2400000
+    }
+  ]
+}

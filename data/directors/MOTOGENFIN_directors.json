@@ -1,0 +1,35 @@
+{
+  "ticker": "MOTOGENFIN",
+  "company": "The Motor & General Finance Limited",
+  "collected_at": "2026-05-21 05:22:39",
+  "directors": [
+    {
+      "name": "Mr. Rajiv  Gupta B.E. (IIT, Delhi)",
+      "role": "Chairman, MD & CEO",
+      "age": 79,
+      "year_born": 1946,
+      "total_pay": 3151885
+    },
+    {
+      "name": "Mr. Maharaj Krishna Madan",
+      "role": "VP, CFO, Company Secretary & Compliance Officer",
+      "age": 81,
+      "year_born": 1944,
+      "total_pay": 1622616
+    },
+    {
+      "name": "Mr. Arun  Mitter",
+      "role": "Executive Director",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": 3208800
+    },
+    {
+      "name": "Ms. Arti  Gupta",
+      "role": "Joint MD & Director",
+      "age": 72,
+      "year_born": 1953,
+      "total_pay": 3016792
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "ticker": "NARMADA",
+  "company": "Narmada Agrobase Limited",
+  "collected_at": "2026-05-21 05:23:08",
+  "directors": [
+    {
+      "name": "Mr. Neerajkumar Sureshchandra Agrawal",
+      "role": "Executive Non-Independent Chairman, MD & CFO",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": 900000
+    },
+    {
+      "name": "Mr. Suresh Chandra Kalyanmal Gupta",
+      "role": "Whole Time Non-Independent Executive Director",
+      "age": 73,
+      "year_born": 1952,
+      "total_pay": 900000
+    },
+    {
+      "name": "Mr. Dushyant  Makwana",
+      "role": "Accounts Head",
+      "age": 34,
+      "year_born": 1991,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Nidhi  Jain C.S.",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 37,
+      "year_born": 1988,
+      "total_pay": "N/A"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "ticker": "LAOPALA",
+  "company": "La Opala RG Limited",
+  "collected_at": "2026-05-21 05:20:03",
+  "directors": [
+    {
+      "name": "Mr. Sushil Kumar Jhunjhunwala",
+      "role": "Executive Chairman",
+      "age": 75,
+      "year_born": 1950,
+      "total_pay": 36329000
+    },
+    {
+      "name": "Mr. Ajit  Jhunjhunwala",
+      "role": "Vice Chairman & MD",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": 55565000
+    },
+    {
+      "name": "Ms. Nidhi  Jhunjhunwala",
+      "role": "Senior Manager of Product Development & Executive Director",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": 12039000
+    },
+    {
+      "name": "Mr. Alok  Pandey",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 3719000
+    },
+    {
+      "name": "Mr. Jit  Roy Choudhury",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
+}

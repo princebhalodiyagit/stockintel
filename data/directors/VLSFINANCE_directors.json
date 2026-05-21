@@ -1,0 +1,35 @@
+{
+  "ticker": "VLSFINANCE",
+  "company": "VLS Finance Limited",
+  "collected_at": "2026-05-21 05:36:16",
+  "directors": [
+    {
+      "name": "Mr. Suresh Kumar Agarwal",
+      "role": "MD & Executive Director",
+      "age": 74,
+      "year_born": 1951,
+      "total_pay": 5857000
+    },
+    {
+      "name": "Mr. Kishan Kumar Soni FCA, FCS",
+      "role": "Director of Finance, CFO & Executive Director",
+      "age": 72,
+      "year_born": 1953,
+      "total_pay": 5610000
+    },
+    {
+      "name": "Mr. Harsh  Consul",
+      "role": "Compliance Officer & Company Secretary",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Keshav  Tandan",
+      "role": "Executive Director",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": 6692000
+    }
+  ]
+}

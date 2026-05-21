@@ -1,0 +1,28 @@
+{
+  "ticker": "RRIL",
+  "company": "RRIL Limited",
+  "collected_at": "2026-05-21 05:28:31",
+  "directors": [
+    {
+      "name": "Mr. Ratanchand Deshmal Jain",
+      "role": "Chairman & MD",
+      "age": 68,
+      "year_born": 1957,
+      "total_pay": 3000000
+    },
+    {
+      "name": "Mr. Rishit Deepak Shah",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 900000
+    },
+    {
+      "name": "Mr. Sunil Ramyagya Giri",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 835280
+    }
+  ]
+}

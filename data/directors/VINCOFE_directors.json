@@ -1,0 +1,35 @@
+{
+  "ticker": "VINCOFE",
+  "company": "Vintage Coffee And Beverages Limited",
+  "collected_at": "2026-05-21 05:36:05",
+  "directors": [
+    {
+      "name": "Mr. Balakrishna  Tati",
+      "role": "Chairman & MD",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": 10250000
+    },
+    {
+      "name": "Mr. Yarkali Kranthi Kumar",
+      "role": "Chief Financial Officer",
+      "age": 41,
+      "year_born": 1984,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Prachi  Karwa",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 21,
+      "year_born": 2004,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. N.  Sudharshan",
+      "role": "Assistant Manager",
+      "age": 38,
+      "year_born": 1987,
+      "total_pay": "N/A"
+    }
+  ]
+}

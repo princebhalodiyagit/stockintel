@@ -1,0 +1,35 @@
+{
+  "ticker": "ARENTERP",
+  "company": "Rajdarshan Industries Limited",
+  "collected_at": "2026-05-21 05:04:01",
+  "directors": [
+    {
+      "name": "Mr. Devendra  Sharma M.Com",
+      "role": "CEO, MD & Executive Director",
+      "age": 70,
+      "year_born": 1955,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Karan Mal Murdia",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Kalp Shri Vaya",
+      "role": "Compliance Officer & Company Secretary",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Aruna  Doshi",
+      "role": "Whole Time Director",
+      "age": 70,
+      "year_born": 1955,
+      "total_pay": 650000
+    }
+  ]
+}

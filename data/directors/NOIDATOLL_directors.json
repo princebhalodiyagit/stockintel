@@ -1,0 +1,28 @@
+{
+  "ticker": "NOIDATOLL",
+  "company": "Noida Toll Bridge Company Limited",
+  "collected_at": "2026-05-21 05:24:11",
+  "directors": [
+    {
+      "name": "Mr. Dheeraj  Kumar",
+      "role": "CEO & Executive Director",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": 3884678
+    },
+    {
+      "name": "Mr. Amit  Agarwal",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 947014
+    },
+    {
+      "name": "Mr. Gagan  Singhal ACS",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 43,
+      "year_born": 1982,
+      "total_pay": 1256046
+    }
+  ]
+}

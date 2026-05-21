@@ -1,0 +1,35 @@
+{
+  "ticker": "JGCHEM",
+  "company": "J.G.Chemicals Limited",
+  "collected_at": "2026-05-21 05:17:43",
+  "directors": [
+    {
+      "name": "Mr. Suresh Kumar Jhunjhunwala",
+      "role": "Executive Chairman",
+      "age": 72,
+      "year_born": 1953,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anirudh  Jhunjhunwala",
+      "role": "CEO, MD & Executive Director",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": 16130000
+    },
+    {
+      "name": "Mr. Anuj  Jhunjhunwala",
+      "role": "CFO & Whole-Time Director",
+      "age": 42,
+      "year_born": 1983,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Swati  Poddar",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
+}

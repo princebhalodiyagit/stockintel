@@ -1,0 +1,28 @@
+{
+  "ticker": "AVONMORE",
+  "company": "Avonmore Capital & Management Services Limited",
+  "collected_at": "2026-05-21 05:05:05",
+  "directors": [
+    {
+      "name": "Mr. Ashok Kumar Gupta FCS",
+      "role": "MD & Executive Director",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Shakti  Singh",
+      "role": "Chief Financial Officer",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": 1423000
+    },
+    {
+      "name": "Ms. Sonal  Gupta",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 31,
+      "year_born": 1994,
+      "total_pay": "N/A"
+    }
+  ]
+}

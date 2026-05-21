@@ -1,0 +1,56 @@
+{
+  "ticker": "ARCHIES",
+  "company": "Archies Limited",
+  "collected_at": "2026-05-21 05:03:59",
+  "directors": [
+    {
+      "name": "Mr. Anil  Moolchandani",
+      "role": "Chairman & MD",
+      "age": 72,
+      "year_born": 1953,
+      "total_pay": 600000
+    },
+    {
+      "name": "Ms. Chiranjivi  Ramuka",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 2215440
+    },
+    {
+      "name": "Mr. Varun  Moolchandani",
+      "role": "Executive Director",
+      "age": 44,
+      "year_born": 1981,
+      "total_pay": 2340000
+    },
+    {
+      "name": "Mr. Umesh  Mathur",
+      "role": "Chief Operating Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Amarjit  Singh",
+      "role": "Head of HR & Admin",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Karan  Moolchandani",
+      "role": "Head of Purchase",
+      "age": 40,
+      "year_born": 1985,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. .  Hanisha",
+      "role": "Executive Director",
+      "age": 38,
+      "year_born": 1987,
+      "total_pay": "N/A"
+    }
+  ]
+}

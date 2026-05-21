@@ -1,0 +1,28 @@
+{
+  "ticker": "AGROPHOS",
+  "company": "Agro Phos India Limited",
+  "collected_at": "2026-05-21 05:02:44",
+  "directors": [
+    {
+      "name": "Mr. Raj Kumar Gupta",
+      "role": "Chairperson & MD",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": 4050000
+    },
+    {
+      "name": "Mr. Vishnu Kant Gupta",
+      "role": "CFO & Whole Time Director",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": 2386000
+    },
+    {
+      "name": "Ms. Reena  Saluja C.S.",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 489000
+    }
+  ]
+}

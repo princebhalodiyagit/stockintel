@@ -1,0 +1,28 @@
+{
+  "ticker": "ELCIDIN",
+  "company": "EL CID Investments Limited",
+  "collected_at": "2026-05-21 05:10:50",
+  "directors": [
+    {
+      "name": "Ms. Amrita Amar Vakil",
+      "role": "Whole Time Director",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": 20000
+    },
+    {
+      "name": "Mr. Ayush Abhay Dolani",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Shraddha  Manjrekar",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
+}

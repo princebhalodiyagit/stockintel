@@ -1,0 +1,28 @@
+{
+  "ticker": "TCC",
+  "company": "TCC Concept Limited",
+  "collected_at": "2026-05-21 05:33:29",
+  "directors": [
+    {
+      "name": "Mr. Umesh Kumar Sahay",
+      "role": "MD & Chairman",
+      "age": 42,
+      "year_born": 1983,
+      "total_pay": 6000000
+    },
+    {
+      "name": "Mr. Rahul Jashvant Shah",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Isha  Arora",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "ticker": "SONAL",
+  "company": "Sonal Mercantile Limited",
+  "collected_at": "2026-05-21 05:31:25",
+  "directors": [
+    {
+      "name": "Mr. Rohit  Saraogi",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 600000
+    },
+    {
+      "name": "Mr. Akshay  Khare",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 31,
+      "year_born": 1994,
+      "total_pay": 555000
+    },
+    {
+      "name": "Mr. Vikram  Goyal",
+      "role": "Chairman & Whole Time Director",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    }
+  ]
+}

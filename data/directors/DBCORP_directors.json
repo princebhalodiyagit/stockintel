@@ -1,0 +1,77 @@
+{
+  "ticker": "DBCORP",
+  "company": "D.B.Corp Limited",
+  "collected_at": "2026-05-21 05:09:20",
+  "directors": [
+    {
+      "name": "Mr. Sudhir  Agarwal",
+      "role": "MD & Executive Director",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": 31281252
+    },
+    {
+      "name": "Mr. Rakesh  Goswami",
+      "role": "Chief Operating Officer - Operations",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Kaacon  Sethi",
+      "role": "Chief Corp Marketing Officer - Corporate Sales",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pawan  Agarwal",
+      "role": "Deputy MD & Executive Non-Independent Director",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": 25166668
+    },
+    {
+      "name": "Mr. Pathik Paresh Shah B.E.",
+      "role": "Chief Executive Officer of DB Digital",
+      "age": 35,
+      "year_born": 1990,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Paresh  Goel B.E.",
+      "role": "Chief Technical Officer of DB Digital",
+      "age": 44,
+      "year_born": 1981,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Lalit  Jain",
+      "role": "CFO & Senior Executive of Accounts",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ripu Daman Bhatnagar B.E., DCA",
+      "role": "Chief Technology Officer",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Prasoon Kumar Pandey",
+      "role": "Head of Investor Relations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Om Prakash Pandey",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 42,
+      "year_born": 1983,
+      "total_pay": "N/A"
+    }
+  ]
+}

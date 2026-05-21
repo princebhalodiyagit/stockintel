@@ -1,0 +1,35 @@
+{
+  "ticker": "GREENPOWER",
+  "company": "Orient Green Power Company Limited",
+  "collected_at": "2026-05-21 05:13:49",
+  "directors": [
+    {
+      "name": "Mr. Thyagarajan  Shivaraman B.Tech, M.S.",
+      "role": "CEO, MD & Director",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": 10000000
+    },
+    {
+      "name": "Ms. Jagathpathi  Kotteswari",
+      "role": "Chief Financial Officer",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": 6200000
+    },
+    {
+      "name": "Mr. R.  Kannan",
+      "role": "Chief Operating Officer",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. G. Srinivasa Ramanujan",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "ticker": "PICCADIL",
+  "company": "Piccadily Agro Industries Limited",
+  "collected_at": "2026-05-21 05:25:48",
+  "directors": [
+    {
+      "name": "Mr. Harvinder Singh Chopra",
+      "role": "MD & Executive Director",
+      "age": 65,
+      "year_born": 1960,
+      "total_pay": 14283000
+    },
+    {
+      "name": "Mr. Natwar  Aggarwal",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Niraj Kumar Sehgal",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Dharmendra Kumar Batra",
+      "role": "Whole Time Director",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": 7770000
+    }
+  ]
+}

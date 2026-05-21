@@ -1,0 +1,49 @@
+{
+  "ticker": "SIKKO",
+  "company": "Sikko Industries Limited",
+  "collected_at": "2026-05-21 05:30:47",
+  "directors": [
+    {
+      "name": "Mr. Ghanshyambhai Mohanbhai Kumbhani",
+      "role": "Chairman",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": 12000000
+    },
+    {
+      "name": "Mr. Jayantibhai Mohanbhai Kumbhani",
+      "role": "MD & Executive Non-Independent Director",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": 12000000
+    },
+    {
+      "name": "Ms. Alpaben Jayantibhai Kumbhani",
+      "role": "Executive Director",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": 8400000
+    },
+    {
+      "name": "Mr. Mukesh Vasantlal Shah",
+      "role": "Chief Finance Officer",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vishal  Mistry",
+      "role": "Account Manager",
+      "age": 41,
+      "year_born": 1984,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Dhruvitkumar Pareshbhai Mandliya C.S.",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
+}

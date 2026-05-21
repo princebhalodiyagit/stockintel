@@ -1,0 +1,35 @@
+{
+  "ticker": "PAR",
+  "company": "Par Drugs And Chemicals Limited",
+  "collected_at": "2026-05-21 05:25:16",
+  "directors": [
+    {
+      "name": "Mr. Falgun Vallabhbhai Savani",
+      "role": "Chairman of the Board & MD",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": 5220000
+    },
+    {
+      "name": "Mr. Jignesh Vallabhbhai Savani",
+      "role": "CEO & Executive Director",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": 5190000
+    },
+    {
+      "name": "Mr. Chintan Pratapbhai Chauhan",
+      "role": "Chief Financial Officer",
+      "age": 42,
+      "year_born": 1983,
+      "total_pay": 677000
+    },
+    {
+      "name": "Mr. Sanket Bhupendrabhai Trivedi",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 35,
+      "year_born": 1990,
+      "total_pay": 729000
+    }
+  ]
+}

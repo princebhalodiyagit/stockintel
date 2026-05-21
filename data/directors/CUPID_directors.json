@@ -1,0 +1,70 @@
+{
+  "ticker": "CUPID",
+  "company": "Cupid Limited",
+  "collected_at": "2026-05-21 05:09:05",
+  "directors": [
+    {
+      "name": "Mr. Aditya Kumar Halwasiya",
+      "role": "MD & Executive Chairman",
+      "age": 31,
+      "year_born": 1994,
+      "total_pay": 10952000
+    },
+    {
+      "name": "Mr. Narendra Madhukar Joshi",
+      "role": "CFO & Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 1521000
+    },
+    {
+      "name": "Mr. Saurabh Vishwas Karmase",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 34,
+      "year_born": 1991,
+      "total_pay": 2003000
+    },
+    {
+      "name": "Mr. Durgesh  Garg",
+      "role": "Chief Operating Officer",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pawan Murarilal Bansal",
+      "role": "Senior Marketing Manager",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": 575000
+    },
+    {
+      "name": "Mr. Ajay Kumar Halwasiya",
+      "role": "Executive Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Babu  Iyer",
+      "role": "Senior General Manager Production & Projects",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Dhrubajyoti  Goswami",
+      "role": "Business Head",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. .  Nithyananda",
+      "role": "DGM of Operations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
+}

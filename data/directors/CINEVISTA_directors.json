@@ -1,0 +1,42 @@
+{
+  "ticker": "CINEVISTA",
+  "company": "Cinevista Limited",
+  "collected_at": "2026-05-21 05:08:18",
+  "directors": [
+    {
+      "name": "Mr. Prem Krishen Malhotra S.S.C.",
+      "role": "Chairman of the Board",
+      "age": 72,
+      "year_born": 1953,
+      "total_pay": 6300000
+    },
+    {
+      "name": "Mr. Sunil Vishnu Mehta B.Com",
+      "role": "Vice Chairman, CEO & MD",
+      "age": 71,
+      "year_born": 1954,
+      "total_pay": 6300000
+    },
+    {
+      "name": "Mr. Vijay Singh Phoolka",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Pamma  Mehta",
+      "role": "Administrative, Creative & Public Relations Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Kilpa M. Shah Goradia",
+      "role": "Compliance Officer & Company Secretary",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 800000
+    }
+  ]
+}

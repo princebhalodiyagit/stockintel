@@ -1,0 +1,35 @@
+{
+  "ticker": "ARCHIDPLY",
+  "company": "Archidply Industries Limited",
+  "collected_at": "2026-05-21 05:03:58",
+  "directors": [
+    {
+      "name": "Mr. Deen Dayal Daga B.A., LL.B",
+      "role": "Executive Chairman",
+      "age": 82,
+      "year_born": 1943,
+      "total_pay": 3840000
+    },
+    {
+      "name": "Mr. Rajiv D. Daga B.E.",
+      "role": "MD, CEO & Executive Director",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": 7260000
+    },
+    {
+      "name": "Mr. Anil  Sureka",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Atul Krishna Pandey",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 599000
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "ticker": "KRISHANA",
+  "company": "Krishana Phoschem Limited",
+  "collected_at": "2026-05-21 05:19:38",
+  "directors": [
+    {
+      "name": "Mr. Praveen  Ostwal",
+      "role": "MD & Director",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sunil  Kothari",
+      "role": "CFO & Whole-Time Director",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": 1583000
+    },
+    {
+      "name": "Mr. Anil  Sharma",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 194000
+    },
+    {
+      "name": "Mr. Anil Kumar Dubey",
+      "role": "Chief Operating Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
+}

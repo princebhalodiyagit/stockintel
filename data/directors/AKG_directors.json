@@ -1,0 +1,28 @@
+{
+  "ticker": "AKG",
+  "company": "Akg Exim Limited",
+  "collected_at": "2026-05-21 05:02:59",
+  "directors": [
+    {
+      "name": "Ms. Mahima  Goel",
+      "role": "MD & Chairperson",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": 2580000
+    },
+    {
+      "name": "Mr. Rahul  Bajaj",
+      "role": "CFO & Executive Director",
+      "age": 36,
+      "year_born": 1989,
+      "total_pay": 804000
+    },
+    {
+      "name": "Ms. Reeta  Tuteja",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "ticker": "KEEPLEARN",
+  "company": "DSJ Keep Learning Limited",
+  "collected_at": "2026-05-21 05:18:49",
+  "directors": [
+    {
+      "name": "Mr. Sanjay Vijaysingh Padode",
+      "role": "Executive Chairman",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pranav Sanjay Padode",
+      "role": "MD & CEO",
+      "age": 29,
+      "year_born": 1996,
+      "total_pay": 2100000
+    },
+    {
+      "name": "Mr. Jaiprakash Laxmandas Gangwani",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 1268000
+    },
+    {
+      "name": "Ms. Nidhi  Mishra",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
+}

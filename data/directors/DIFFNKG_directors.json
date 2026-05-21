@@ -1,0 +1,42 @@
+{
+  "ticker": "DIFFNKG",
+  "company": "Diffusion Engineers Limited",
+  "collected_at": "2026-05-21 05:10:00",
+  "directors": [
+    {
+      "name": "Mr. Prashant N. Garg",
+      "role": "Chairman & MD",
+      "age": 42,
+      "year_born": 1983,
+      "total_pay": 24000000
+    },
+    {
+      "name": "Mr. Abhishek  Mehta",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Chanchal Rajesh Jaiswal",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manoj Kumar Srivastava",
+      "role": "Senior Vice President of Sales & Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ganesh  Khangar",
+      "role": "General Manager of Production",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": "N/A"
+    }
+  ]
+}

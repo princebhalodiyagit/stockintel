@@ -1,0 +1,28 @@
+{
+  "ticker": "SHRADHA",
+  "company": "Shradha Realty Limited",
+  "collected_at": "2026-05-21 05:30:26",
+  "directors": [
+    {
+      "name": "Mr. Nitesh Vinaykumar Sanklecha",
+      "role": "MD, CFO & Director",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": 1800000
+    },
+    {
+      "name": "Mr. Shrikant  Huddar",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sunil Gyanchand Raisoni",
+      "role": "Whole-Time Director",
+      "age": 70,
+      "year_born": 1955,
+      "total_pay": 1600000
+    }
+  ]
+}

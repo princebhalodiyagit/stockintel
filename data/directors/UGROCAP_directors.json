@@ -1,0 +1,35 @@
+{
+  "ticker": "UGROCAP",
+  "company": "Ugro Capital Limited",
+  "collected_at": "2026-05-21 05:35:06",
+  "directors": [
+    {
+      "name": "Mr. Shachindra  Nath",
+      "role": "Founder, Vice Chairman & MD",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": 75885000
+    },
+    {
+      "name": "Ms. Shilpa  Bhatter",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 12794000
+    },
+    {
+      "name": "Mr. Satish Kumar Chelladurai",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 5237000
+    },
+    {
+      "name": "Mr. Satyabrata  Mohapatra",
+      "role": "Chief Operations Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
+}

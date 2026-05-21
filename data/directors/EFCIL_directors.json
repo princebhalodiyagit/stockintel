@@ -1,0 +1,35 @@
+{
+  "ticker": "EFCIL",
+  "company": "EFC (I) Limited",
+  "collected_at": "2026-05-21 05:10:40",
+  "directors": [
+    {
+      "name": "Mr. Umesh Kumar Sahay",
+      "role": "Chairman & MD",
+      "age": 42,
+      "year_born": 1983,
+      "total_pay": 9000000
+    },
+    {
+      "name": "Mr. Nikhil Dilipbhai Bhuta",
+      "role": "Whole-Time Director",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": 3600000
+    },
+    {
+      "name": "Mr. Uday Tushar Vora",
+      "role": "CFO & Director",
+      "age": 35,
+      "year_born": 1990,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Aman Kumar Gupta",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 30,
+      "year_born": 1995,
+      "total_pay": "N/A"
+    }
+  ]
+}

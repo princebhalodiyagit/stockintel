@@ -1,0 +1,42 @@
+{
+  "ticker": "LLOYDSENT",
+  "company": "Lloyds Enterprises Limited",
+  "collected_at": "2026-05-21 05:20:24",
+  "directors": [
+    {
+      "name": "Mr. Babulal Kesar Deo Agarwal B.Com., LL.B.",
+      "role": "Chairman & MD",
+      "age": 79,
+      "year_born": 1946,
+      "total_pay": 9000012
+    },
+    {
+      "name": "Mr. Viresh Shankar Sohoni",
+      "role": "Chief Financial Officer",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Pranjal Pramod Mahapure",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajesh Rajnarayan Gupta B.Com.",
+      "role": "Executive Non-Independent Director",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": 30000
+    },
+    {
+      "name": "Nandakumar  Patkar",
+      "role": "Manager of Accounts",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    }
+  ]
+}

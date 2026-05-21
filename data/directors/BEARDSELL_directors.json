@@ -1,0 +1,42 @@
+{
+  "ticker": "BEARDSELL",
+  "company": "Beardsell Limited",
+  "collected_at": "2026-05-21 05:06:03",
+  "directors": [
+    {
+      "name": "Mr. Amrith  Anumolu",
+      "role": "MD & Executive Director",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": 4835440
+    },
+    {
+      "name": "Ms. Jayasree  Anumolu",
+      "role": "Whole-Time Director",
+      "age": 71,
+      "year_born": 1954,
+      "total_pay": 6666000
+    },
+    {
+      "name": "Mr. Vinjamoore Varadhan Sridharan",
+      "role": "Chief Financial Officer",
+      "age": 72,
+      "year_born": 1953,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. M. E. Chandran",
+      "role": "Chief Operating Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kanhu Charan Sahu",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": "N/A"
+    }
+  ]
+}

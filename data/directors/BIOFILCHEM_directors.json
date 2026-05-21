@@ -1,0 +1,42 @@
+{
+  "ticker": "BIOFILCHEM",
+  "company": "Biofil Chemicals & Pharmaceuticals Limited",
+  "collected_at": "2026-05-21 05:06:36",
+  "directors": [
+    {
+      "name": "Mr. Ketan  Shah",
+      "role": "MD & Chairman",
+      "age": 64,
+      "year_born": 1961,
+      "total_pay": 1740000
+    },
+    {
+      "name": "Mr. Pavan Singh Rajput",
+      "role": "Chief Financial Officer",
+      "age": 34,
+      "year_born": 1991,
+      "total_pay": 300000
+    },
+    {
+      "name": "Joseph  Chacko",
+      "role": "Head of Administration",
+      "age": 64,
+      "year_born": 1961,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Apoorv  Jain",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Vinayak  Bhopte",
+      "role": "Chief Chemist",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "ticker": "AUSOMENT",
+  "company": "Ausom Enterprise Limited",
+  "collected_at": "2026-05-21 05:04:57",
+  "directors": [
+    {
+      "name": "Mr. Kishor Pranjivandas Mandalia",
+      "role": "MD, CEO & Executive Director",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": 9500
+    },
+    {
+      "name": "Mr. Rupesh Harivadan Shah",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 821000
+    },
+    {
+      "name": "Mr. Ravikumar Ramnarayan Pasi C.S.",
+      "role": "Compliance Officer & Company Secretary",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 1285000
+    }
+  ]
+}

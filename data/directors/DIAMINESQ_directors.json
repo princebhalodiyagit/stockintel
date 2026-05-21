@@ -1,0 +1,35 @@
+{
+  "ticker": "DIAMINESQ",
+  "company": "Diamines & Chemicals Limited",
+  "collected_at": "2026-05-21 05:09:57",
+  "directors": [
+    {
+      "name": "Mr. Amit Mahendra Mehta",
+      "role": "Executive Chairman & CEO",
+      "age": 71,
+      "year_born": 1954,
+      "total_pay": 6420000
+    },
+    {
+      "name": "Mr. Tanmay  Godiawala",
+      "role": "Executive Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 3264000
+    },
+    {
+      "name": "Mr. Dipen  Ruparelia",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 1461756
+    },
+    {
+      "name": "Ms. Hemaxi Vinayakrao Pawar",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 262562
+    }
+  ]
+}

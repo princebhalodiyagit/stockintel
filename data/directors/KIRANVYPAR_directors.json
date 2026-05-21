@@ -1,0 +1,49 @@
+{
+  "ticker": "KIRANVYPAR",
+  "company": "Kiran Vyapar Limited",
+  "collected_at": "2026-05-21 05:19:04",
+  "directors": [
+    {
+      "name": "Mr. Lakshmi Niwas Bangur",
+      "role": "MD & Chairman of the Board",
+      "age": 76,
+      "year_born": 1949,
+      "total_pay": 770000
+    },
+    {
+      "name": "Mr. Amit  Mehta",
+      "role": "Group President & Non-Executive Director",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": 450000
+    },
+    {
+      "name": "Mr. Ajay  Sonthalia",
+      "role": "Chief Financial Officer",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vikask Kr Bajoria",
+      "role": "Chief Executive of Investment",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pradip Kumar Ojha",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sumit Kumar Mallawat",
+      "role": "General Manager of Finance & Accounts",
+      "age": 42,
+      "year_born": 1983,
+      "total_pay": "N/A"
+    }
+  ]
+}

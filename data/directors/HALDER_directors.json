@@ -1,0 +1,28 @@
+{
+  "ticker": "HALDER",
+  "company": "Halder Venture Limited",
+  "collected_at": "2026-05-21 05:14:18",
+  "directors": [
+    {
+      "name": "Mr. Keshab Kumar Halder",
+      "role": "Chairman & MD",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": 18246000
+    },
+    {
+      "name": "Mr. Mrinal  Debnath",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 2000000
+    },
+    {
+      "name": "Ms. Ayanti  Sen",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 763000
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "ticker": "BTML",
+  "company": "Bodhi Tree Multimedia Limited",
+  "collected_at": "2026-05-21 05:07:16",
+  "directors": [
+    {
+      "name": "Mr. Mautik Ajit Tolia",
+      "role": "MD, CEO & Chairman",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": 3600000
+    },
+    {
+      "name": "Mr. Sukesh Devdas Motwani",
+      "role": "Whole-Time Director & Promoter",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": 3600000
+    },
+    {
+      "name": "Mr. Ravindra Bhavanishankar Bhatt",
+      "role": "Chief Financial Officer",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": 1335000
+    },
+    {
+      "name": "Ms. Nirali Haresh Shah",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sudip  Roy",
+      "role": "Group Chief Revenue Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
+}

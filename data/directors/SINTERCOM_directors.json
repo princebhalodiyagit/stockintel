@@ -1,0 +1,35 @@
+{
+  "ticker": "SINTERCOM",
+  "company": "Sintercom India Limited",
+  "collected_at": "2026-05-21 05:30:57",
+  "directors": [
+    {
+      "name": "Mr. Jignesh Vasantrai Raval",
+      "role": "CEO, MD & Director",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": 18356000
+    },
+    {
+      "name": "Mr. Pankaj  Bhatawadekar",
+      "role": "CFO & COO",
+      "age": 44,
+      "year_born": 1981,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Kusum  Anjana",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Samir  Gupta",
+      "role": "Head Sales & Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
+}

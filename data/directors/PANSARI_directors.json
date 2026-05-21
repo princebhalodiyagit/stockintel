@@ -1,0 +1,35 @@
+{
+  "ticker": "PANSARI",
+  "company": "Pansari Developers Limited",
+  "collected_at": "2026-05-21 05:25:15",
+  "directors": [
+    {
+      "name": "Mr. Mahesh Kumar Agarwal",
+      "role": "MD & Chairman",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Kavita  Agarwal",
+      "role": "Chief Financial Officer",
+      "age": 35,
+      "year_born": 1990,
+      "total_pay": 2045000
+    },
+    {
+      "name": "Ms. Rajshree  Somani",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 788400
+    },
+    {
+      "name": "Mr. Ankit  Agarwal",
+      "role": "Whole-Time Director",
+      "age": 34,
+      "year_born": 1991,
+      "total_pay": 2500000
+    }
+  ]
+}

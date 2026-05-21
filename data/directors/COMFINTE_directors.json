@@ -1,0 +1,35 @@
+{
+  "ticker": "COMFINTE",
+  "company": "Comfort Intech Limited",
+  "collected_at": "2026-05-21 05:08:34",
+  "directors": [
+    {
+      "name": "Mr. Anil Beniprasad Agrawal ACS, FCA, M.Com",
+      "role": "CEO & Director",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kailash Karanidan Purohit",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Apeksha Santosh Kadam",
+      "role": "Executive Woman Director",
+      "age": 43,
+      "year_born": 1982,
+      "total_pay": 60000
+    },
+    {
+      "name": "Mr. Omkar M. Mistry",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
+}

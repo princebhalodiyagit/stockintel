@@ -1,0 +1,49 @@
+{
+  "ticker": "BETA",
+  "company": "Beta Drugs Limited",
+  "collected_at": "2026-05-21 05:06:15",
+  "directors": [
+    {
+      "name": "Mr. Rahul  Batra",
+      "role": "Chairman & MD",
+      "age": 42,
+      "year_born": 1983,
+      "total_pay": 15100000
+    },
+    {
+      "name": "Mr. Varun  Batra",
+      "role": "Joint MD & Whole Time Director",
+      "age": 40,
+      "year_born": 1985,
+      "total_pay": 15100000
+    },
+    {
+      "name": "Mr. Nipun  Arora",
+      "role": "Chief Financial Officer",
+      "age": 41,
+      "year_born": 1984,
+      "total_pay": 3817541
+    },
+    {
+      "name": "Ms. Rajni  Brar",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 39,
+      "year_born": 1986,
+      "total_pay": 989834
+    },
+    {
+      "name": "Mr. Balwant  Singh",
+      "role": "Whole Time Director",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": 3261560
+    },
+    {
+      "name": "Mr. Ashutosh  Shukla",
+      "role": "VP of Sales & Marketing and Whole Time Director",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": 4707038
+    }
+  ]
+}

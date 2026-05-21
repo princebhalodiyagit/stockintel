@@ -1,0 +1,42 @@
+{
+  "ticker": "AHLADA",
+  "company": "Ahlada Engineers Limited",
+  "collected_at": "2026-05-21 05:02:46",
+  "directors": [
+    {
+      "name": "Mr. Chedepudi Suresh Mohan Reddy",
+      "role": "Founder, Chairman & MD",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": 16800000
+    },
+    {
+      "name": "Ms. Chedepudi  Ahlada",
+      "role": "CFO & Whole-Time Director",
+      "age": 27,
+      "year_born": 1998,
+      "total_pay": 1800000
+    },
+    {
+      "name": "Mr. Chedepudi Akarsh Reddy",
+      "role": "Whole Time Director",
+      "age": 25,
+      "year_born": 2000,
+      "total_pay": 2532800
+    },
+    {
+      "name": "Mr. Maddiboyina  Kotaiah",
+      "role": "Senior Vice President of Operations",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Garikapati  Shyam Krishna",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
+}

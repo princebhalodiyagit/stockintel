@@ -1,0 +1,35 @@
+{
+  "ticker": "DNAMEDIA",
+  "company": "Diligent Media Corporation Limited",
+  "collected_at": "2026-05-21 05:10:12",
+  "directors": [
+    {
+      "name": "Mr. Nagendra  Bhandari",
+      "role": "CFO, Executive Director of Finance & Whole Time Director",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": 1334000
+    },
+    {
+      "name": "Ms. Jyoti  Upadhyay",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 34,
+      "year_born": 1991,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Riddhima  Kanetkar",
+      "role": "Chief Sub Editor",
+      "age": 30,
+      "year_born": 1995,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Neha  Dubey",
+      "role": "Chief Sub Editor",
+      "age": 34,
+      "year_born": 1991,
+      "total_pay": "N/A"
+    }
+  ]
+}

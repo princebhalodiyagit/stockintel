@@ -1,0 +1,42 @@
+{
+  "ticker": "BANARBEADS",
+  "company": "Banaras Beads Limited",
+  "collected_at": "2026-05-21 05:05:41",
+  "directors": [
+    {
+      "name": "Mr. Ashok Kumar Kanhaiyalal Gupta",
+      "role": "Chairman & MD",
+      "age": 77,
+      "year_born": 1948,
+      "total_pay": 2800000
+    },
+    {
+      "name": "Mr. Siddharth  Gupta",
+      "role": "CEO, MD, BR Head & Director",
+      "age": 42,
+      "year_born": 1983,
+      "total_pay": 2900000
+    },
+    {
+      "name": "Mr. Vinay Kumar Piyush",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 520000
+    },
+    {
+      "name": "Mr. Ramesh Kumar Singh",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 1051000
+    },
+    {
+      "name": "Ms. Shivani  Gupta",
+      "role": "Vice President",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
+}

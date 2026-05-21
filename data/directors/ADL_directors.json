@@ -1,0 +1,28 @@
+{
+  "ticker": "ADL",
+  "company": "Archidply Decor Limited",
+  "collected_at": "2026-05-21 05:02:19",
+  "directors": [
+    {
+      "name": "Mr. Shyam D. Daga B.Com",
+      "role": "Chairman, MD & CEO",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": 5000000
+    },
+    {
+      "name": "Mr. Raju Ram Prajapat",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 1231000
+    },
+    {
+      "name": "Mr. Siva Kiran Mavoori",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 240000
+    }
+  ]
+}

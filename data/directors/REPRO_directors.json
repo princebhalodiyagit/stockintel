@@ -1,0 +1,70 @@
+{
+  "ticker": "REPRO",
+  "company": "Repro India Limited",
+  "collected_at": "2026-05-21 05:27:59",
+  "directors": [
+    {
+      "name": "Mr. Vinod Inderjit Vohra",
+      "role": "Executive Chairman of the Board",
+      "age": 73,
+      "year_born": 1952,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sanjeev Inderjit Vohra",
+      "role": "MD & Executive Director",
+      "age": 68,
+      "year_born": 1957,
+      "total_pay": 8692000
+    },
+    {
+      "name": "Mr. Abhinav  Vohra",
+      "role": "Chief Financial officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Almina Banu Abubakar Shaikh",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 36,
+      "year_born": 1989,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mukesh Rajnikant Dhruve",
+      "role": "Executive Director",
+      "age": 65,
+      "year_born": 1960,
+      "total_pay": 6039000
+    },
+    {
+      "name": "Mr. Rajeev Inderjit Vohra",
+      "role": "Executive Director",
+      "age": 65,
+      "year_born": 1960,
+      "total_pay": 6039000
+    },
+    {
+      "name": "Shobhit  Verma",
+      "role": "Segment Head of Supply Chain Management & Operations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sandeep Bharam Bir Dua",
+      "role": "Segment Head of Sales & Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mukul Mahavirprasad Agrawal",
+      "role": "Executive",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
+}

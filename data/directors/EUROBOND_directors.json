@@ -1,0 +1,42 @@
+{
+  "ticker": "EUROBOND",
+  "company": "Euro Panel Products Limited",
+  "collected_at": "2026-05-21 05:11:31",
+  "directors": [
+    {
+      "name": "Mr. Rajesh Nanalal Shah",
+      "role": "Chairman & MD",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": 14400000
+    },
+    {
+      "name": "Mr. Divyam Rajesh Shah",
+      "role": "CFO & Whole-Time Director",
+      "age": 32,
+      "year_born": 1993,
+      "total_pay": 6900000
+    },
+    {
+      "name": "Ms. Sonal Dharmin Desai",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 30,
+      "year_born": 1995,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rahul  Gada",
+      "role": "Chief Operating Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Krishna Rajesh Shah",
+      "role": "Executive Director",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "ticker": "GUJRAFFIA",
+  "company": "Gujarat Raffia Industries Limited",
+  "collected_at": "2026-05-21 05:14:10",
+  "directors": [
+    {
+      "name": "Mr. Pradeep Ratanlal Bhutoria",
+      "role": "Chairman & MD",
+      "age": 66,
+      "year_born": 1959,
+      "total_pay": 1800000
+    },
+    {
+      "name": "Ms. Sushma Pradeep Bhutoria",
+      "role": "Whole Time Director",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": 1020000
+    },
+    {
+      "name": "Mr. Abhishek Pradeepkumar Bhutoria",
+      "role": "Executive Director",
+      "age": 35,
+      "year_born": 1990,
+      "total_pay": 900000
+    },
+    {
+      "name": "Mr. Rishi  Jaithlia C.S.",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
+}

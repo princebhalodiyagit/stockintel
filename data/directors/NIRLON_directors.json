@@ -1,0 +1,28 @@
+{
+  "ticker": "NIRLON",
+  "company": "Nirlon Limited",
+  "collected_at": "2026-05-21 05:24:01",
+  "directors": [
+    {
+      "name": "Mr. Rahul Virenchee Sagar B.A.",
+      "role": "CEO & Executive Director",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": 30368000
+    },
+    {
+      "name": "Mr. Manish B. Parikh",
+      "role": "CFO & VP of Finance",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": 10413969
+    },
+    {
+      "name": "Mr. Jasmin K. Bhavsar",
+      "role": "Company Secretary, VP of Legal & Compliance Officer",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": 15074617
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "ticker": "SHANTI",
+  "company": "Shanti Overseas (India) Limited",
+  "collected_at": "2026-05-21 05:30:09",
+  "directors": [
+    {
+      "name": "Mr. Ayush  Kacholia",
+      "role": "Chairman & MD",
+      "age": 38,
+      "year_born": 1987,
+      "total_pay": 3000000
+    },
+    {
+      "name": "Ms. Karuna  Kacholia",
+      "role": "CFO & Additional Whole-Time Director",
+      "age": 38,
+      "year_born": 1987,
+      "total_pay": 1738818
+    },
+    {
+      "name": "Ms. Ramita  Otwani",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 36,
+      "year_born": 1989,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pankaj  Agrawal",
+      "role": "Sr. Accountant",
+      "age": 34,
+      "year_born": 1991,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Swati  Puranik",
+      "role": "Marketing Manager",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajesh Singh Chouhan",
+      "role": "H.R. Manager",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": "N/A"
+    }
+  ]
+}

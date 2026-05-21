@@ -1,0 +1,42 @@
+{
+  "ticker": "KLBRENG-B",
+  "company": "Kilburn Engineering Limited",
+  "collected_at": "2026-05-21 05:19:13",
+  "directors": [
+    {
+      "name": "Mr. Ranjit Pamo Lala",
+      "role": "MD & Director",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": 13885452
+    },
+    {
+      "name": "Mr. Anil Somshekar Karnad",
+      "role": "Whole Time Director of Operations",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": 10188664
+    },
+    {
+      "name": "Mr. Sachin Jaibal Vijayakar",
+      "role": "GM of Finance & CFO",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": 1957000
+    },
+    {
+      "name": "Mr. Abhijit Shevantilal Mehta",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Maqsood R. Kazi",
+      "role": "President of Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
+}

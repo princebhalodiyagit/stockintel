@@ -1,0 +1,35 @@
+{
+  "ticker": "HPIL",
+  "company": "Hindprakash Industries Limited",
+  "collected_at": "2026-05-21 05:15:24",
+  "directors": [
+    {
+      "name": "Mr. Sanjay Prakash Mangal",
+      "role": "MD & Executive Director",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": 1639000
+    },
+    {
+      "name": "Mr. Hetal Kishorbhai Shah",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 736000
+    },
+    {
+      "name": "Mr. Utsav Himanshu Trivedi",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 30,
+      "year_born": 1995,
+      "total_pay": 286000
+    },
+    {
+      "name": "Mr. Santosh Narayan Nambiar",
+      "role": "Whole-Time Director",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    }
+  ]
+}

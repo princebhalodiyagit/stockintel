@@ -1,0 +1,35 @@
+{
+  "ticker": "HONAUT",
+  "company": "Honeywell Automation India Limited",
+  "collected_at": "2026-05-21 05:15:21",
+  "directors": [
+    {
+      "name": "Mr. Atul Vinayak Pai",
+      "role": "MD & Director",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": 44520000
+    },
+    {
+      "name": "Ms. Indu  Daryani",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mahesh  Joshi",
+      "role": "Head of Human Resources",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. K. L. Shashikant",
+      "role": "Commercial Head of Environmental & Energy Solutions",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    }
+  ]
+}

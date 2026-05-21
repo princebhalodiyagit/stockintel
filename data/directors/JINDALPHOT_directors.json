@@ -1,0 +1,28 @@
+{
+  "ticker": "JINDALPHOT",
+  "company": "Jindal Photo Limited",
+  "collected_at": "2026-05-21 05:17:44",
+  "directors": [
+    {
+      "name": "Mr. Manoj Kumar Rastogi",
+      "role": "MD & Director",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": 16500
+    },
+    {
+      "name": "Mr. Awadhesh Kumar Jha",
+      "role": "Chief Financial Officer",
+      "age": 43,
+      "year_born": 1982,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Mukta  Sharma",
+      "role": "Company Secretary & Compliance officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "ticker": "NGIL",
+  "company": "Nakoda Group of Industries Limited",
+  "collected_at": "2026-05-21 05:23:45",
+  "directors": [
+    {
+      "name": "Mr. Pravin Navalchand Choudhary",
+      "role": "Chairman & MD",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Sakshi  Tiwari",
+      "role": "Chief Financial Officer",
+      "age": 37,
+      "year_born": 1988,
+      "total_pay": 447000
+    },
+    {
+      "name": "Mr. Jayesh Pravin Choudhary",
+      "role": "Whole Time Director",
+      "age": 38,
+      "year_born": 1987,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Apurv Avinash Hirde",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
+}

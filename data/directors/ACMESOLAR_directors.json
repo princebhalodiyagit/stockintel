@@ -1,0 +1,77 @@
+{
+  "ticker": "ACMESOLAR",
+  "company": "Acme Solar Holdings Limited",
+  "collected_at": "2026-05-21 05:02:10",
+  "directors": [
+    {
+      "name": "Mr. Manoj Kumar Upadhyay",
+      "role": "Chairman & MD",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": 50000000
+    },
+    {
+      "name": "Mr. Nikhil  Dhingra",
+      "role": "CEO & Whole-Time Director",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": 104900000
+    },
+    {
+      "name": "Mr. Shashi  Shekhar IAS",
+      "role": "Vice Chairman",
+      "age": 69,
+      "year_born": 1956,
+      "total_pay": 17360000
+    },
+    {
+      "name": "Mr. Ashutosh  Singh",
+      "role": "VP of Operations & Maintenance and O&M Head",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajesh  Sodhi",
+      "role": "Assistant VP, Company Secretary & Compliance Officer",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Amit  Maheshwari",
+      "role": "Executive Vice President of Legal",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rishi Kumar Mishra",
+      "role": "Senior Vice President of Engineering & Strategic Procurement",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Atma  Godara",
+      "role": "Vice President of Human Resources",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Tushar  Goyal",
+      "role": "Vice President of Regulatory",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Gopalji  Mehrotra",
+      "role": "Group Chief Human Resources Officer",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
+    }
+  ]
+}

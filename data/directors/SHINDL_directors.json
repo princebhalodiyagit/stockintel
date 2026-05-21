@@ -1,0 +1,42 @@
+{
+  "ticker": "SHINDL",
+  "company": "Sharat Industries Limited",
+  "collected_at": "2026-05-21 05:30:20",
+  "directors": [
+    {
+      "name": "Mr. Prasad Reddy Sabbella",
+      "role": "Chairman & MD",
+      "age": 69,
+      "year_born": 1956,
+      "total_pay": 7200000
+    },
+    {
+      "name": "Mr. Balasubramanian  R",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 2399760
+    },
+    {
+      "name": "Mr. Ganesan  Nilakantan",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 1800000
+    },
+    {
+      "name": "Mr. Sharat Reddy Sabbella",
+      "role": "Whole Time Executive Director",
+      "age": 36,
+      "year_born": 1989,
+      "total_pay": 6000000
+    },
+    {
+      "name": "Ms. Sabbella Devaki Reddy",
+      "role": "Chief Administrative Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
+}

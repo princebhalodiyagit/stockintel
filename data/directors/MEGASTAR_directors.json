@@ -1,0 +1,42 @@
+{
+  "ticker": "MEGASTAR",
+  "company": "Megastar Foods Limited",
+  "collected_at": "2026-05-21 05:21:52",
+  "directors": [
+    {
+      "name": "Mr. Vikas  Goel",
+      "role": "Chairman & MD",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": 9339000
+    },
+    {
+      "name": "Ms. Manisha  Gupta",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 1431000
+    },
+    {
+      "name": "Mr. Vikas  Gupta",
+      "role": "Director of Operation & Director",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": 9339000
+    },
+    {
+      "name": "Mr. Mudit  Goyal",
+      "role": "Whole Time Director",
+      "age": 32,
+      "year_born": 1993,
+      "total_pay": 7839000
+    },
+    {
+      "name": "Mr. Shiva  Chouhan",
+      "role": "Manager of Marketing, Sales & Supply Chain Management",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
+}

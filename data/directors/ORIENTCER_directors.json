@@ -1,0 +1,28 @@
+{
+  "ticker": "ORIENTCER",
+  "company": "ORIENT CERATECH LIMITED",
+  "collected_at": "2026-05-21 05:24:56",
+  "directors": [
+    {
+      "name": "Mr. Manan Chetan Shah",
+      "role": "MD & Director",
+      "age": 33,
+      "year_born": 1992,
+      "total_pay": 10025117
+    },
+    {
+      "name": "Mr. Manubhai  Rathod",
+      "role": "Whole-Time Director of Operations",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": 4813376
+    },
+    {
+      "name": "Mr. Vikash  Khemka",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
+}

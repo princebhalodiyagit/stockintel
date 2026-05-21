@@ -1,0 +1,35 @@
+{
+  "ticker": "LATTEYS",
+  "company": "Latteys Industries Limited",
+  "collected_at": "2026-05-21 05:20:05",
+  "directors": [
+    {
+      "name": "Mr. Kapoor Chand Garg",
+      "role": "Chairman & MD",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sumit  Goel",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 420000
+    },
+    {
+      "name": "Ms. Sonika  Jain",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 34,
+      "year_born": 1991,
+      "total_pay": 606000
+    },
+    {
+      "name": "Mr. Pawan  Garg",
+      "role": "Head of Marketing Department & Whole-Time Director",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": "N/A"
+    }
+  ]
+}

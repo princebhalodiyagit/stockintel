@@ -1,0 +1,35 @@
+{
+  "ticker": "NELCAST",
+  "company": "Nelcast Limited",
+  "collected_at": "2026-05-21 05:23:32",
+  "directors": [
+    {
+      "name": "Mr. P.  Deepak",
+      "role": "MD, CEO & Non-Independent Director",
+      "age": 40,
+      "year_born": 1985,
+      "total_pay": 18223000
+    },
+    {
+      "name": "Mr. Sri Kalathi Sivakumar",
+      "role": "Group CFO, Company Secretary & Compliance Officer",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": 5707000
+    },
+    {
+      "name": "Ms. S.  Sreesha",
+      "role": "Vice President of Operations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. V. P. Prem Kumar",
+      "role": "Director of Marketing",
+      "age": 68,
+      "year_born": 1957,
+      "total_pay": "N/A"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "ticker": "SAGARDEEP",
+  "company": "Sagardeep Alloys Limited",
+  "collected_at": "2026-05-21 05:28:53",
+  "directors": [
+    {
+      "name": "Mr. Satishkumar Asamal Mehta",
+      "role": "Chairman & MD",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": 2400000
+    },
+    {
+      "name": "Ms. Anuja  Jain",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 382000
+    },
+    {
+      "name": "Mr. Shashwat  Shah",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Ami Rajeshkumar Doshi",
+      "role": "Chief Investor Relations Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 180000
+    }
+  ]
+}

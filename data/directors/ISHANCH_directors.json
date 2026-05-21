@@ -1,0 +1,42 @@
+{
+  "ticker": "ISHANCH",
+  "company": "Ishan Dyes and Chemicals Limited",
+  "collected_at": "2026-05-21 05:17:14",
+  "directors": [
+    {
+      "name": "Mr. Piyushbhai Natvarlal Patel",
+      "role": "Chairman & MD",
+      "age": 70,
+      "year_born": 1955,
+      "total_pay": 6559904
+    },
+    {
+      "name": "Mr. Shrinal Piyushbhai Patel",
+      "role": "CEO & Whole Time Director",
+      "age": 40,
+      "year_born": 1985,
+      "total_pay": 1949308
+    },
+    {
+      "name": "Mr. Chintan Prakashbhai Pancholi",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Mirali Hemantbhai Patel",
+      "role": "Executive Director",
+      "age": 36,
+      "year_born": 1989,
+      "total_pay": 509862
+    },
+    {
+      "name": "Mr. Amit  Shah",
+      "role": "Chief Chemist",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
+}
