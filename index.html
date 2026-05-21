@@ -248,7 +248,7 @@ async function fetchNews(name) {
 // ── MAIN INIT: load all companies from JSON ──
 async function init() {
   try {
-    const res = await fetch(BASE + '/data/companies.json');
+    const res = await fetch('./data/companies.json');
     ALL_COMPANIES = await res.json();
     document.getElementById('total-co').textContent = ALL_COMPANIES.length;
     console.log('Loaded', ALL_COMPANIES.length, 'companies');
@@ -329,7 +329,7 @@ async function loadCompany(ticker) {
   // Load full data from JSON
   let info = {};
   try {
-    const res = await fetch(BASE + '/data/financials/' + ticker + '.json');
+    const res = await fetch('./data/financials/' + ticker + '.json');
     if (res.ok) { const d = await res.json(); info = d.company_info || {}; }
   } catch(e) {}
 
@@ -419,7 +419,7 @@ async function renderOverview(ticker, info, meta) {
 async function renderFinancials(ticker) {
   let info = {};
   try {
-    const res = await fetch(BASE + '/data/financials/' + ticker + '.json');
+    const res = await fetch('./data/financials/' + ticker + '.json');
     if (res.ok) { const d = await res.json(); info = d.company_info || {}; }
   } catch(e) {}
   const fmt = val => (val && val!=='N/A') ? val : '—';
@@ -450,7 +450,7 @@ async function renderBoard(ticker) {
   document.getElementById('tab-board').innerHTML = '<div class="loading"><div class="spinner"></div>Loading board members...</div>';
   let directors = [];
   try {
-    const res = await fetch(BASE + '/data/directors/' + ticker + '_directors.json');
+    const res = await fetch('./data/directors/' + ticker + '_directors.json');
     if (res.ok) { const d = await res.json(); directors = d.directors || []; }
   } catch(e) {}
   if (!directors.length) {
