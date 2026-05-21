@@ -631,6 +631,52 @@ async function renderNews(ticker) {
 showHome();
 renderCompanyGrid();
 loadAllPrices();
+
+// ── Load all 2138 companies dynamically ──
+async function loadAllCompanies() {
+  try {
+    const res = await fetch('https://princebhalodiyagit.github.io/stockintel/data/companies.json');
+    if (!res.ok) throw new Error('failed');
+    const companies = await res.json();
+    companies.forEach(c => {
+      if (!META[c.ticker]) {
+        META[c.ticker] = {
+          name:   c.name   || c.ticker,
+          sector: c.sector || 'Other',
+          yf:     c.ticker + '.NS'
+        };
+        if (c.price && c.price !== 'N/A') {
+          prices[c.ticker] = {
+            price:  parseFloat(c.price).toFixed(2),
+            change: 'Delayed',
+            up:     true
+          };
+        }
+      }
+    });
+    // Re-render grid with all companies
+    const grid = document.getElementById('company-grid');
+    if (grid) {
+      grid.innerHTML = Object.entries(META).map(([ticker, m]) => {
+        const p = prices[ticker] || {price:'...', change:'--', up:true};
+        return `<div class="company-card" onclick="loadCompany('${ticker}')">
+          <div class="c-ticker">${ticker}</div>
+          <div class="c-name">${m.name}</div>
+          <div class="c-price">Rs.${p.price}</div>
+          <div class="c-change" style="color:${p.up?'#22c55e':'#ef4444'}">${p.change}</div>
+          <div class="c-sector">${m.sector}</div>
+        </div>`;
+      }).join('');
+    }
+    const el = document.getElementById('total-companies') || document.getElementById('loaded-count');
+    if (el) el.textContent = Object.keys(META).length;
+    console.log('Loaded ' + companies.length + ' companies from JSON');
+  } catch(e) {
+    console.log('loadAllCompanies error:', e);
+  }
+}
+
+loadAllCompanies();
 </script>
 </body>
 </html>
