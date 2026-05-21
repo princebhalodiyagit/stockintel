@@ -3,158 +3,134 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>StockIntel — Smart Stock Research</title>
+<title>StockIntel</title>
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <style>
-  * { margin: 0; padding: 0; box-sizing: border-box; }
-  body { font-family: "Segoe UI", sans-serif; background: #0f1117; color: #e0e0e0; min-height: 100vh; }
-  nav { background: #1a1d2e; padding: 16px 40px; display: flex; align-items: center; justify-content: space-between; border-bottom: 1px solid #2a2d3e; position: sticky; top: 0; z-index: 100; }
-  .logo { font-size: 22px; font-weight: 800; color: #fff; }
-  .logo span { color: #4f8ef7; }
-  .nav-links a { color: #aaa; text-decoration: none; margin-left: 28px; font-size: 14px; }
-  .nav-links a:hover { color: #fff; }
-  .hero { padding: 60px 40px 40px; text-align: center; border-bottom: 1px solid #2a2d3e; }
-  .hero h1 { font-size: 42px; font-weight: 800; color: #fff; margin-bottom: 12px; }
-  .hero h1 span { color: #4f8ef7; }
-  .hero p { font-size: 16px; color: #888; max-width: 600px; margin: 0 auto 28px; }
-  .search-bar { display: flex; max-width: 560px; margin: 0 auto 16px; gap: 10px; }
-  .search-bar input { flex: 1; padding: 14px 20px; background: #1a1d2e; border: 1px solid #2a2d3e; border-radius: 10px; color: #fff; font-size: 15px; outline: none; }
-  .search-bar input:focus { border-color: #4f8ef7; }
-  .search-bar input::placeholder { color: #555; }
-  .btn-primary { padding: 14px 28px; background: #4f8ef7; color: #fff; border: none; border-radius: 10px; font-size: 15px; font-weight: 600; cursor: pointer; }
-  .btn-primary:hover { background: #3a7ae0; }
-  .filters { display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-top: 16px; }
-  .filter-btn { padding: 7px 18px; background: #1a1d2e; border: 1px solid #2a2d3e; border-radius: 20px; font-size: 13px; color: #aaa; cursor: pointer; transition: all 0.2s; }
-  .filter-btn:hover, .filter-btn.active { border-color: #4f8ef7; color: #4f8ef7; background: #4f8ef710; }
-  .stats-bar { display: grid; grid-template-columns: repeat(4, 1fr); gap: 1px; background: #2a2d3e; border-bottom: 1px solid #2a2d3e; }
-  .stat-item { background: #1a1d2e; padding: 18px 30px; text-align: center; }
-  .stat-item .num { font-size: 26px; font-weight: 700; color: #4f8ef7; }
-  .stat-item .label { font-size: 12px; color: #666; margin-top: 4px; }
-  .container { max-width: 1300px; margin: 0 auto; padding: 32px 20px; }
-  .section-title { font-size: 16px; font-weight: 600; color: #fff; margin-bottom: 16px; padding-bottom: 10px; border-bottom: 1px solid #2a2d3e; display: flex; justify-content: space-between; align-items: center; }
-  .company-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 12px; margin-top: 16px; }
-  .company-card { background: #1a1d2e; border: 1px solid #2a2d3e; border-radius: 12px; padding: 16px; cursor: pointer; transition: all 0.2s; text-align: center; }
-  .company-card:hover { border-color: #4f8ef7; transform: translateY(-2px); }
-  .company-card .c-ticker { font-size: 16px; font-weight: 700; color: #4f8ef7; margin-bottom: 4px; }
-  .company-card .c-name { font-size: 11px; color: #888; margin-bottom: 8px; line-height: 1.3; }
-  .company-card .c-price { font-size: 15px; font-weight: 600; color: #fff; }
-  .company-card .c-change { font-size: 12px; margin-top: 3px; }
-  .company-card .c-sector { font-size: 10px; color: #555; margin-top: 5px; }
-  .live-dot { display: inline-block; width: 6px; height: 6px; background: #22c55e; border-radius: 50%; margin-right: 4px; animation: pulse 1.5s infinite; }
-  @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:0.3} }
-  .loading { text-align: center; padding: 60px; color: #555; }
-  .spinner { width: 36px; height: 36px; border: 3px solid #2a2d3e; border-top-color: #4f8ef7; border-radius: 50%; animation: spin 0.8s linear infinite; margin: 0 auto 12px; }
-  @keyframes spin { to { transform: rotate(360deg); } }
-  .company-header { background: #1a1d2e; border: 1px solid #2a2d3e; border-radius: 14px; padding: 24px 28px; margin-bottom: 20px; display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 16px; }
-  .company-name { font-size: 26px; font-weight: 700; color: #fff; }
-  .company-ticker-badge { display: inline-block; background: #4f8ef720; color: #4f8ef7; padding: 3px 10px; border-radius: 6px; font-size: 12px; font-weight: 600; margin-left: 8px; }
-  .company-sector-label { font-size: 13px; color: #888; margin-top: 5px; }
-  .price-block { text-align: right; }
-  .current-price { font-size: 32px; font-weight: 700; color: #fff; }
-  .price-change { font-size: 13px; margin-top: 3px; }
-  .price-change.up { color: #22c55e; }
-  .price-change.down { color: #ef4444; }
-  .tabs { display: flex; gap: 4px; background: #1a1d2e; padding: 5px; border-radius: 12px; margin-bottom: 20px; border: 1px solid #2a2d3e; overflow-x: auto; }
-  .tab { padding: 9px 20px; border-radius: 8px; font-size: 13px; font-weight: 500; cursor: pointer; color: #888; border: none; background: transparent; white-space: nowrap; }
-  .tab.active { background: #4f8ef7; color: #fff; }
-  .tab:hover:not(.active) { color: #fff; background: #2a2d3e; }
-  .tab-panel { display: none; }
-  .tab-panel.active { display: block; }
-  .cards-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 14px; margin-bottom: 20px; }
-  .card { background: #1a1d2e; border: 1px solid #2a2d3e; border-radius: 12px; padding: 18px; }
-  .card .card-label { font-size: 11px; color: #666; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 6px; }
-  .card .card-value { font-size: 20px; font-weight: 700; color: #fff; }
-  .card .card-sub { font-size: 11px; color: #888; margin-top: 3px; }
-  .card.green .card-value { color: #22c55e; }
-  .card.red .card-value { color: #ef4444; }
-  .card.blue .card-value { color: #4f8ef7; }
-  .chart-box { background: #1a1d2e; border: 1px solid #2a2d3e; border-radius: 12px; padding: 20px; margin-bottom: 20px; }
-  .chart-box .section-title { border: none; margin-bottom: 12px; padding-bottom: 8px; border-bottom: 1px solid #2a2d3e; }
-  .news-list { display: flex; flex-direction: column; gap: 10px; }
-  .news-item { background: #1a1d2e; border: 1px solid #2a2d3e; border-radius: 10px; padding: 14px 18px; cursor: pointer; }
-  .news-item:hover { border-color: #4f8ef7; }
-  .news-title { font-size: 14px; font-weight: 500; color: #e0e0e0; margin-bottom: 5px; line-height: 1.4; }
-  .news-meta { font-size: 11px; color: #666; }
-  .news-source { color: #4f8ef7; }
-  .violation-list { display: flex; flex-direction: column; gap: 10px; }
-  .violation-item { background: #1a1d2e; border: 1px solid #ef444430; border-left: 3px solid #ef4444; border-radius: 10px; padding: 14px 18px; }
-  .violation-item.clear { border-color: #22c55e30; border-left-color: #22c55e; }
-  .violation-badge { display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: 11px; font-weight: 600; margin-bottom: 6px; }
-  .badge-red { background: #ef444420; color: #ef4444; }
-  .badge-green { background: #22c55e20; color: #22c55e; }
-  .badge-yellow { background: #f59e0b20; color: #f59e0b; }
-  .board-table { width: 100%; border-collapse: collapse; }
-  .board-table th { text-align: left; padding: 10px 14px; font-size: 11px; color: #666; text-transform: uppercase; border-bottom: 1px solid #2a2d3e; }
-  .board-table td { padding: 12px 14px; font-size: 13px; border-bottom: 1px solid #2a2d3e; color: #e0e0e0; }
-  .board-table tr:last-child td { border-bottom: none; }
-  .director-name { font-weight: 600; color: #fff; }
-  .risk-dot { display: inline-block; width: 7px; height: 7px; border-radius: 50%; margin-right: 5px; }
-  .risk-low { background: #22c55e; }
-  .risk-med { background: #f59e0b; }
-  .risk-high { background: #ef4444; }
-  .risk-score-box { background: #1a1d2e; border: 1px solid #2a2d3e; border-radius: 12px; padding: 20px; margin-bottom: 20px; display: flex; align-items: center; gap: 20px; }
-  .risk-circle { width: 72px; height: 72px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 22px; font-weight: 800; flex-shrink: 0; }
-  .risk-low-bg { background: #22c55e20; color: #22c55e; border: 2px solid #22c55e; }
-  .risk-med-bg { background: #f59e0b20; color: #f59e0b; border: 2px solid #f59e0b; }
-  .risk-high-bg { background: #ef444420; color: #ef4444; border: 2px solid #ef4444; }
-  .risk-info h3 { font-size: 15px; color: #fff; margin-bottom: 5px; }
-  .risk-info p { font-size: 13px; color: #888; line-height: 1.5; }
-  footer { background: #1a1d2e; border-top: 1px solid #2a2d3e; padding: 20px 40px; text-align: center; font-size: 12px; color: #555; margin-top: 60px; }
-  #home-section { display: block; }
-  #company-section { display: none; }
-  .fin-table { width: 100%; border-collapse: collapse; }
-  .fin-table th { text-align: right; padding: 10px 14px; font-size: 12px; color: #888; border-bottom: 1px solid #2a2d3e; }
-  .fin-table th:first-child { text-align: left; }
-  .fin-table td { padding: 11px 14px; font-size: 13px; color: #e0e0e0; text-align: right; border-bottom: 1px solid #2a2d3e; }
-  .fin-table td:first-child { text-align: left; color: #aaa; }
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:"Segoe UI",sans-serif;background:#0f1117;color:#e0e0e0;min-height:100vh}
+nav{background:#1a1d2e;padding:16px 40px;display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid #2a2d3e;position:sticky;top:0;z-index:100}
+.logo{font-size:22px;font-weight:800;color:#fff}.logo span{color:#4f8ef7}
+.hero{padding:60px 40px 40px;text-align:center;border-bottom:1px solid #2a2d3e}
+.hero h1{font-size:42px;font-weight:800;color:#fff;margin-bottom:12px}.hero h1 span{color:#4f8ef7}
+.hero p{font-size:16px;color:#888;max-width:580px;margin:0 auto 28px}
+.search-bar{display:flex;max-width:540px;margin:0 auto;gap:10px}
+.search-bar input{flex:1;padding:13px 18px;background:#1a1d2e;border:1px solid #2a2d3e;border-radius:10px;color:#fff;font-size:15px;outline:none}
+.search-bar input:focus{border-color:#4f8ef7}
+.search-bar input::placeholder{color:#555}
+.btn{padding:13px 26px;background:#4f8ef7;color:#fff;border:none;border-radius:10px;font-size:15px;font-weight:600;cursor:pointer}
+.btn:hover{background:#3a7ae0}
+.filters{display:flex;justify-content:center;gap:8px;margin-top:16px;flex-wrap:wrap}
+.filter-btn{padding:6px 14px;background:#1a1d2e;border:1px solid #2a2d3e;border-radius:20px;font-size:12px;color:#aaa;cursor:pointer}
+.filter-btn.active,.filter-btn:hover{border-color:#4f8ef7;color:#4f8ef7}
+.stats-bar{display:grid;grid-template-columns:repeat(4,1fr);gap:1px;background:#2a2d3e;border-bottom:1px solid #2a2d3e}
+.stat-item{background:#1a1d2e;padding:18px 24px;text-align:center}
+.stat-item .num{font-size:26px;font-weight:700;color:#4f8ef7}
+.stat-item .lbl{font-size:11px;color:#666;margin-top:4px}
+.container{max-width:1300px;margin:0 auto;padding:32px 20px}
+.section-title{font-size:15px;font-weight:600;color:#fff;margin-bottom:14px;padding-bottom:8px;border-bottom:1px solid #2a2d3e;display:flex;justify-content:space-between}
+.company-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:12px;margin-top:16px}
+.company-card{background:#1a1d2e;border:1px solid #2a2d3e;border-radius:12px;padding:16px;cursor:pointer;transition:all .2s;text-align:center}
+.company-card:hover{border-color:#4f8ef7;transform:translateY(-2px)}
+.c-ticker{font-size:15px;font-weight:700;color:#4f8ef7;margin-bottom:4px}
+.c-name{font-size:11px;color:#888;margin-bottom:8px;line-height:1.3;height:28px;overflow:hidden}
+.c-price{font-size:15px;font-weight:600;color:#fff}
+.c-change{font-size:11px;margin-top:3px}
+.c-sector{font-size:10px;color:#555;margin-top:4px}
+.live-dot{display:inline-block;width:6px;height:6px;background:#22c55e;border-radius:50%;margin-right:4px;animation:pulse 1.5s infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}
+.loading{text-align:center;padding:60px;color:#555}
+.spinner{width:36px;height:36px;border:3px solid #2a2d3e;border-top-color:#4f8ef7;border-radius:50%;animation:spin .8s linear infinite;margin:0 auto 14px}
+@keyframes spin{to{transform:rotate(360deg)}}
+.company-header{background:#1a1d2e;border:1px solid #2a2d3e;border-radius:14px;padding:24px 28px;margin-bottom:20px;display:flex;justify-content:space-between;align-items:flex-start;flex-wrap:wrap;gap:16px}
+.co-name{font-size:24px;font-weight:700;color:#fff}
+.co-badge{display:inline-block;background:#4f8ef720;color:#4f8ef7;padding:3px 10px;border-radius:5px;font-size:12px;margin-left:8px}
+.co-sector{font-size:13px;color:#888;margin-top:5px}
+.price-block{text-align:right}
+.cur-price{font-size:32px;font-weight:700;color:#fff}
+.price-chg{font-size:13px;margin-top:3px}
+.up{color:#22c55e}.down{color:#ef4444}
+.tabs{display:flex;gap:3px;background:#1a1d2e;padding:5px;border-radius:10px;margin-bottom:20px;border:1px solid #2a2d3e;overflow-x:auto}
+.tab{padding:9px 18px;border-radius:7px;font-size:13px;font-weight:500;cursor:pointer;color:#888;border:none;background:transparent;white-space:nowrap}
+.tab.active{background:#4f8ef7;color:#fff}
+.tab:hover:not(.active){color:#fff;background:#2a2d3e}
+.tab-panel{display:none}.tab-panel.active{display:block}
+.cards-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:14px;margin-bottom:20px}
+.card{background:#1a1d2e;border:1px solid #2a2d3e;border-radius:12px;padding:18px}
+.card .lbl{font-size:11px;color:#666;text-transform:uppercase;letter-spacing:.5px;margin-bottom:6px}
+.card .val{font-size:20px;font-weight:700;color:#fff}
+.card.green .val{color:#22c55e}.card.red .val{color:#ef4444}.card.blue .val{color:#4f8ef7}
+.chart-box{background:#1a1d2e;border:1px solid #2a2d3e;border-radius:12px;padding:20px;margin-bottom:20px}
+.chart-box .section-title{border:none;padding-bottom:8px;border-bottom:1px solid #2a2d3e}
+.news-list{display:flex;flex-direction:column;gap:10px}
+.news-item{background:#1a1d2e;border:1px solid #2a2d3e;border-radius:10px;padding:14px 18px;cursor:pointer}
+.news-item:hover{border-color:#4f8ef7}
+.news-title{font-size:14px;font-weight:500;color:#e0e0e0;margin-bottom:5px;line-height:1.4}
+.news-meta{font-size:11px;color:#666}.news-source{color:#4f8ef7}
+.viol-item{background:#1a1d2e;border:1px solid #ef444430;border-left:3px solid #ef4444;border-radius:10px;padding:14px 18px;margin-bottom:10px}
+.viol-item.clear{border-color:#22c55e30;border-left-color:#22c55e}
+.badge{display:inline-block;padding:3px 9px;border-radius:4px;font-size:11px;font-weight:600;margin-bottom:7px}
+.badge-red{background:#ef444420;color:#ef4444}.badge-green{background:#22c55e20;color:#22c55e}.badge-yellow{background:#f59e0b20;color:#f59e0b}
+.board-table{width:100%;border-collapse:collapse}
+.board-table th{text-align:left;padding:10px 14px;font-size:11px;color:#666;text-transform:uppercase;border-bottom:1px solid #2a2d3e}
+.board-table td{padding:12px 14px;font-size:13px;border-bottom:1px solid #2a2d3e;color:#e0e0e0}
+.board-table tr:last-child td{border-bottom:none}
+.dir-name{font-weight:600;color:#fff}
+.rdot{display:inline-block;width:7px;height:7px;border-radius:50%;margin-right:5px}
+.risk-low{background:#22c55e}.risk-high{background:#ef4444}
+.fin-table{width:100%;border-collapse:collapse}
+.fin-table th{text-align:right;padding:9px 14px;font-size:11px;color:#888;border-bottom:1px solid #2a2d3e}
+.fin-table th:first-child{text-align:left}
+.fin-table td{padding:10px 14px;font-size:12px;color:#e0e0e0;text-align:right;border-bottom:1px solid #2a2d3e}
+.fin-table td:first-child{text-align:left;color:#aaa}
+.risk-box{background:#1a1d2e;border:1px solid #2a2d3e;border-radius:12px;padding:20px;margin-bottom:20px;display:flex;align-items:center;gap:20px}
+.risk-circle{width:70px;height:70px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:22px;font-weight:800;flex-shrink:0}
+.rl-bg{background:#22c55e20;color:#22c55e;border:2px solid #22c55e}
+.rm-bg{background:#f59e0b20;color:#f59e0b;border:2px solid #f59e0b}
+.rh-bg{background:#ef444420;color:#ef4444;border:2px solid #ef4444}
+.risk-info h3{font-size:15px;color:#fff;margin-bottom:5px}
+.risk-info p{font-size:12px;color:#888;line-height:1.5}
+footer{background:#1a1d2e;border-top:1px solid #2a2d3e;padding:20px 40px;text-align:center;font-size:11px;color:#555;margin-top:50px}
+#home-section{display:block}#company-section{display:none}
 </style>
 </head>
 <body>
-
 <nav>
   <div class="logo">Stock<span>Intel</span></div>
-  <div class="nav-links">
-    <a href="#" onclick="showHome()">Home</a>
-    <a href="#">Markets</a>
-    <a href="#">About</a>
+  <div style="display:flex;align-items:center;gap:20px">
+    <input type="text" id="nav-search" placeholder="Search company or ticker..." style="padding:8px 14px;background:#2a2d3e;border:1px solid #3a3d4e;border-radius:8px;color:#fff;font-size:13px;outline:none;width:260px" onkeydown="if(event.key==='Enter')searchCompany()"/>
+    <button class="btn" style="padding:8px 16px;font-size:13px" onclick="searchCompany()">Search</button>
   </div>
 </nav>
 
 <div id="home-section">
   <div class="hero">
     <h1>Research Smarter.<br><span>Invest Safer.</span></h1>
-    <p>Financial data, board member history, SEBI violations and live news — all in one place.</p>
-    <div class="search-bar">
-      <input type="text" id="search-input" placeholder="Search by name (e.g. Reliance) or ticker (e.g. RELIANCE)" onkeydown="if(event.key==='Enter') searchCompany()"/>
-      <button class="btn-primary" onclick="searchCompany()">Search</button>
-    </div>
+    <p>Financial data, board member history, SEBI violations and live news for every NSE company.</p>
     <div class="filters">
-      <span class="filter-btn active" onclick="filterSector('ALL', this)">All</span>
-      <span class="filter-btn" onclick="filterSector('Banking', this)">Banking</span>
-      <span class="filter-btn" onclick="filterSector('IT', this)">IT</span>
-      <span class="filter-btn" onclick="filterSector('Energy', this)">Energy</span>
-      <span class="filter-btn" onclick="filterSector('Pharma', this)">Pharma</span>
-      <span class="filter-btn" onclick="filterSector('Auto', this)">Auto</span>
-      <span class="filter-btn" onclick="filterSector('FMCG', this)">FMCG</span>
-      <span class="filter-btn" onclick="filterSector('Metal', this)">Metal</span>
-      <span class="filter-btn" onclick="filterSector('Infra', this)">Infra</span>
+      <span class="filter-btn active" onclick="filterBy('ALL',this)">All</span>
+      <span class="filter-btn" onclick="filterBy('Banking',this)">Banking</span>
+      <span class="filter-btn" onclick="filterBy('Information Technology',this)">IT</span>
+      <span class="filter-btn" onclick="filterBy('Energy',this)">Energy</span>
+      <span class="filter-btn" onclick="filterBy('Healthcare',this)">Pharma</span>
+      <span class="filter-btn" onclick="filterBy('Consumer Cyclical',this)">Auto</span>
+      <span class="filter-btn" onclick="filterBy('Consumer Defensive',this)">FMCG</span>
+      <span class="filter-btn" onclick="filterBy('Basic Materials',this)">Metal</span>
+      <span class="filter-btn" onclick="filterBy('Industrials',this)">Infra</span>
     </div>
   </div>
-
   <div class="stats-bar">
-    <div class="stat-item"><div class="num" id="total-companies">—</div><div class="label">Companies Tracked</div></div>
-    <div class="stat-item"><div class="num" id="prices-loaded">—</div><div class="label">Live Prices Loaded</div></div>
-    <div class="stat-item"><div class="num">5yr</div><div class="label">Price History</div></div>
-    <div class="stat-item"><div class="num"><span class="live-dot"></span>Live</div><div class="label">Auto-Updated Daily</div></div>
+    <div class="stat-item"><div class="num" id="total-co">—</div><div class="lbl">Companies</div></div>
+    <div class="stat-item"><div class="num" id="showing-co">—</div><div class="lbl">Showing</div></div>
+    <div class="stat-item"><div class="num">5yr</div><div class="lbl">Price History</div></div>
+    <div class="stat-item"><div class="num"><span class="live-dot"></span>Live</div><div class="lbl">Daily Updated</div></div>
   </div>
-
   <div class="container">
     <div class="section-title">
-      <span id="grid-title">All Companies</span>
-      <span style="font-size:12px;color:#22c55e"><span class="live-dot"></span>Live Prices</span>
+      <span id="grid-label">Loading companies...</span>
+      <span style="font-size:12px;color:#22c55e"><span class="live-dot"></span>Prices from daily refresh</span>
     </div>
     <div class="company-grid" id="company-grid">
-      <div class="loading"><div class="spinner"></div>Loading companies...</div>
+      <div class="loading"><div class="spinner"></div>Loading all NSE companies...</div>
     </div>
   </div>
 </div>
@@ -162,9 +138,9 @@
 <div id="company-section">
   <div class="container">
     <div style="margin-bottom:16px">
-      <button onclick="showHome()" style="background:#2a2d3e;border:1px solid #3a3d4e;color:#aaa;padding:7px 16px;border-radius:8px;cursor:pointer;font-size:13px;">← Back</button>
+      <button onclick="showHome()" style="background:#2a2d3e;border:1px solid #3a3d4e;color:#aaa;padding:7px 16px;border-radius:8px;cursor:pointer;font-size:13px">← Back</button>
     </div>
-    <div class="company-header" id="company-header"></div>
+    <div class="company-header" id="co-header"></div>
     <div class="tabs">
       <button class="tab active" onclick="switchTab('overview')">Overview</button>
       <button class="tab" onclick="switchTab('financials')">Financials</button>
@@ -172,511 +148,367 @@
       <button class="tab" onclick="switchTab('violations')">SEBI Violations</button>
       <button class="tab" onclick="switchTab('news')">Latest News</button>
     </div>
-    <div id="tab-overview"   class="tab-panel active"></div>
+    <div id="tab-overview" class="tab-panel active"></div>
     <div id="tab-financials" class="tab-panel"></div>
-    <div id="tab-board"      class="tab-panel"></div>
+    <div id="tab-board" class="tab-panel"></div>
     <div id="tab-violations" class="tab-panel"></div>
-    <div id="tab-news"       class="tab-panel"></div>
+    <div id="tab-news" class="tab-panel"></div>
   </div>
 </div>
 
-<footer>StockIntel — For informational purposes only. Not financial advice. | Sources: Yahoo Finance, SEBI, MCA21, Google News</footer>
+<footer>StockIntel — For informational purposes only. Not financial advice. | Yahoo Finance · SEBI · MCA21 · Google News</footer>
 
 <script>
-// ── Auto-discover companies from JSON files ──
-const TICKERS = [
-  "RELIANCE","TCS","HDFCBANK","INFY","ICICIBANK","ADANIENT","SBIN","WIPRO","TATAMOTORS","BAJFINANCE",
-  "HINDUNILVR","BHARTIARTL","KOTAKBANK","AXISBANK","LT","SUNPHARMA","MARUTI","TITAN","ULTRACEMCO",
-  "ASIANPAINT","HCLTECH","ITC","POWERGRID","NTPC","TATASTEEL","JSWSTEEL","ONGC","COALINDIA",
-  "BAJAJAUTO","HEROMOTOCO","DIVISLAB","DRREDDY","CIPLA","EICHERMOT","MM","TECHM","NESTLEIND",
-  "BRITANNIA","ADANIPORTS","ADANIGREEN","HINDALCO","GRASIM","INDUSINDBK","BAJAJFINSV","SBILIFE",
-  "HDFCLIFE","TATACONSUM","PIDILITIND","HAVELLS","SIEMENS"
-];
-
-const SECTOR_MAP = {
-  RELIANCE:"Energy", TCS:"IT", HDFCBANK:"Banking", INFY:"IT", ICICIBANK:"Banking",
-  ADANIENT:"Infra", SBIN:"Banking", WIPRO:"IT", TATAMOTORS:"Auto", BAJFINANCE:"Banking",
-  HINDUNILVR:"FMCG", BHARTIARTL:"Telecom", KOTAKBANK:"Banking", AXISBANK:"Banking",
-  LT:"Infra", SUNPHARMA:"Pharma", MARUTI:"Auto", TITAN:"Consumer", ULTRACEMCO:"Infra",
-  ASIANPAINT:"FMCG", HCLTECH:"IT", ITC:"FMCG", POWERGRID:"Energy", NTPC:"Energy",
-  TATASTEEL:"Metal", JSWSTEEL:"Metal", ONGC:"Energy", COALINDIA:"Energy",
-  BAJAJAUTO:"Auto", HEROMOTOCO:"Auto", DIVISLAB:"Pharma", DRREDDY:"Pharma",
-  CIPLA:"Pharma", EICHERMOT:"Auto", MM:"Auto", TECHM:"IT", NESTLEIND:"FMCG",
-  BRITANNIA:"FMCG", ADANIPORTS:"Infra", ADANIGREEN:"Energy", HINDALCO:"Metal",
-  GRASIM:"Infra", INDUSINDBK:"Banking", BAJAJFINSV:"Banking", SBILIFE:"Insurance",
-  HDFCLIFE:"Insurance", TATACONSUM:"FMCG", PIDILITIND:"Chemical", HAVELLS:"Consumer",
-  SIEMENS:"Infra"
-};
-
-const YF_MAP = {
-  RELIANCE:"RELIANCE.NS", TCS:"TCS.NS", HDFCBANK:"HDFCBANK.NS", INFY:"INFY.NS",
-  ICICIBANK:"ICICIBANK.NS", ADANIENT:"ADANIENT.NS", SBIN:"SBIN.NS", WIPRO:"WIPRO.NS",
-  TATAMOTORS:"TATAMOTORS.NS", BAJFINANCE:"BAJFINANCE.NS", HINDUNILVR:"HINDUNILVR.NS",
-  BHARTIARTL:"BHARTIARTL.NS", KOTAKBANK:"KOTAKBANK.NS", AXISBANK:"AXISBANK.NS",
-  LT:"LT.NS", SUNPHARMA:"SUNPHARMA.NS", MARUTI:"MARUTI.NS", TITAN:"TITAN.NS",
-  ULTRACEMCO:"ULTRACEMCO.NS", ASIANPAINT:"ASIANPAINT.NS", HCLTECH:"HCLTECH.NS",
-  ITC:"ITC.NS", POWERGRID:"POWERGRID.NS", NTPC:"NTPC.NS", TATASTEEL:"TATASTEEL.NS",
-  JSWSTEEL:"JSWSTEEL.NS", ONGC:"ONGC.NS", COALINDIA:"COALINDIA.NS",
-  BAJAJAUTO:"BAJAJ-AUTO.NS", HEROMOTOCO:"HEROMOTOCO.NS", DIVISLAB:"DIVISLAB.NS",
-  DRREDDY:"DRREDDY.NS", CIPLA:"CIPLA.NS", EICHERMOT:"EICHERMOT.NS", MM:"M&M.NS",
-  TECHM:"TECHM.NS", NESTLEIND:"NESTLEIND.NS", BRITANNIA:"BRITANNIA.NS",
-  ADANIPORTS:"ADANIPORTS.NS", ADANIGREEN:"ADANIGREEN.NS", HINDALCO:"HINDALCO.NS",
-  GRASIM:"GRASIM.NS", INDUSINDBK:"INDUSINDBK.NS", BAJAJFINSV:"BAJAJFINSV.NS",
-  SBILIFE:"SBILIFE.NS", HDFCLIFE:"HDFCLIFE.NS", TATACONSUM:"TATACONSUM.NS",
-  PIDILITIND:"PIDILITIND.NS", HAVELLS:"HAVELLS.NS", SIEMENS:"SIEMENS.NS"
-};
+const BASE = 'https://princebhalodiyagit.github.io/stockintel';
 
 const VIOLATIONS = {
   RELIANCE:{score:12,level:"low",summary:"No major SEBI violations.",items:[]},
   TCS:{score:5,level:"low",summary:"Clean record.",items:[]},
-  HDFCBANK:{score:8,level:"low",summary:"Minor RBI penalty 2021, resolved.",items:[{type:"yellow",badge:"Resolved",title:"KYC Non-Compliance 2021",detail:"RBI penalty of ₹10 crore. Paid and resolved."}]},
-  INFY:{score:15,level:"low",summary:"Whistleblower complaint 2019, resolved.",items:[{type:"yellow",badge:"Resolved",title:"Whistleblower Complaint 2019",detail:"No material violation found by SEBI."}]},
-  ICICIBANK:{score:35,level:"med",summary:"Former MD Chanda Kochhar linked to loan fraud.",items:[{type:"red",badge:"Criminal Case",title:"Chanda Kochhar Loan Fraud",detail:"Former MD arrested 2023 in ICICI-Videocon case. Current management uninvolved."}]},
-  ADANIENT:{score:78,level:"high",summary:"Hindenburg report + US DOJ indictment ongoing.",items:[{type:"red",badge:"SEBI Investigation",title:"Hindenburg Report 2023",detail:"Alleged stock manipulation and undisclosed related-party transactions."},{type:"red",badge:"US DOJ Indictment",title:"US Bribery Indictment 2024",detail:"Gautam Adani indicted for alleged bribery. Company denies charges."}]},
+  HDFCBANK:{score:8,level:"low",summary:"Minor RBI penalty 2021, resolved.",items:[{type:"yellow",badge:"Resolved",title:"KYC Non-Compliance 2021",detail:"RBI penalty of Rs.10 crore. Resolved."}]},
+  INFY:{score:15,level:"low",summary:"Whistleblower complaint 2019, resolved.",items:[{type:"yellow",badge:"Resolved",title:"Whistleblower 2019",detail:"No material violation found by SEBI."}]},
+  ICICIBANK:{score:35,level:"med",summary:"Former MD Chanda Kochhar arrested in loan fraud.",items:[{type:"red",badge:"Criminal Case",title:"Chanda Kochhar Loan Fraud",detail:"Former MD arrested 2023. Current management uninvolved."}]},
+  ADANIENT:{score:78,level:"high",summary:"Hindenburg report + US DOJ indictment ongoing.",items:[{type:"red",badge:"SEBI Investigation",title:"Hindenburg Report 2023",detail:"Alleged stock manipulation."},{type:"red",badge:"US DOJ Indictment",title:"US Bribery Indictment 2024",detail:"Gautam Adani indicted. Company denies charges."}]},
   SBIN:{score:20,level:"low",summary:"Minor RBI penalties, no management fraud.",items:[]},
   WIPRO:{score:10,level:"low",summary:"Clean record.",items:[]},
   TATAMOTORS:{score:8,level:"low",summary:"Clean record.",items:[]},
   BAJFINANCE:{score:18,level:"low",summary:"RBI action on digital lending 2023, resolved.",items:[{type:"yellow",badge:"Resolved",title:"RBI Digital Lending Ban 2023",detail:"Temporary ban lifted after compliance."}]},
 };
 
-const BOARD = {
-  RELIANCE:[{name:"Mukesh D. Ambani",role:"Chairman & MD",exp:"40+ yrs",risk:"low",note:"No violations"},{name:"Nita M. Ambani",role:"Non-Exec Director",exp:"18 yrs",risk:"low",note:"No violations"}],
-  TCS:[{name:"N. Chandrasekaran",role:"Chairman",exp:"35+ yrs",risk:"low",note:"No violations"},{name:"K. Krithivasan",role:"CEO & MD",exp:"30+ yrs",risk:"low",note:"No violations"}],
-  HDFCBANK:[{name:"Atanu Chakraborty",role:"Chairman",exp:"35+ yrs",risk:"low",note:"No violations"},{name:"Sashidhar Jagdishan",role:"MD & CEO",exp:"30 yrs",risk:"low",note:"No violations"}],
-  INFY:[{name:"Nandan Nilekani",role:"Chairman",exp:"40+ yrs",risk:"low",note:"No violations"},{name:"Salil Parekh",role:"CEO & MD",exp:"30+ yrs",risk:"low",note:"No violations"}],
-  ICICIBANK:[{name:"Sandeep Bakhshi",role:"MD & CEO",exp:"35+ yrs",risk:"low",note:"No violations"},{name:"Chanda Kochhar",role:"Former MD (Resigned)",exp:"30+ yrs",risk:"high",note:"Arrested 2023 — loan fraud case"}],
-  ADANIENT:[{name:"Gautam S. Adani",role:"Chairman",exp:"35+ yrs",risk:"high",note:"US DOJ indictment 2024"},{name:"Rajesh S. Adani",role:"MD",exp:"30+ yrs",risk:"med",note:"Hindenburg allegations 2023"}],
-  SBIN:[{name:"Dinesh Kumar Khara",role:"Chairman",exp:"35+ yrs",risk:"low",note:"No violations"}],
-  WIPRO:[{name:"Rishad A. Premji",role:"Exec Chairman",exp:"20+ yrs",risk:"low",note:"No violations"}],
-  TATAMOTORS:[{name:"N. Chandrasekaran",role:"Chairman",exp:"35+ yrs",risk:"low",note:"No violations"}],
-  BAJFINANCE:[{name:"Sanjiv Bajaj",role:"Chairman",exp:"25+ yrs",risk:"low",note:"No violations"},{name:"Rajeev Jain",role:"MD & CEO",exp:"20+ yrs",risk:"low",note:"No violations"}],
-};
-
-let companyData = {};
-let livePrices = {};
+// ── State ──
+let ALL_COMPANIES = [];   // loaded from companies.json
+let currentFilter = 'ALL';
 let currentTicker = null;
 let priceChart = null;
-let currentFilter = "ALL";
 
-// ── Load company data from JSON files ──
-async function loadCompanyData(ticker) {
-  if (companyData[ticker]) return companyData[ticker];
-  try {
-    const res = await fetch(`https://princebhalodiyagit.github.io/stockintel/data/financials/${ticker}.json`);
-    if (!res.ok) return null;
-    const data = await res.json();
-    companyData[ticker] = data;
-    return data;
-  } catch(e) { return null; }
-}
-
-// ── Fetch live price ──
-async function fetchLivePrice(ticker, yfSymbol) {
+// ── Fetch helpers ──
+async function fetchWithProxy(url) {
   const proxies = [
-    url => `https://corsproxy.io/?${encodeURIComponent(url)}`,
-    url => `https://api.allorigins.win/get?url=${encodeURIComponent(url)}`,
-    url => `https://thingproxy.freeboard.io/fetch/${url}`,
+    u => `https://corsproxy.io/?${encodeURIComponent(u)}`,
+    u => `https://api.allorigins.win/get?url=${encodeURIComponent(u)}`,
   ];
-  const url = `https://query1.finance.yahoo.com/v8/finance/chart/${yfSymbol}?interval=1d&range=1d`;
-  for (const makeProxy of proxies) {
+  for (const p of proxies) {
     try {
-      const res = await fetch(makeProxy(url), {signal: AbortSignal.timeout(6000)});
+      const res = await fetch(p(url), {signal: AbortSignal.timeout(7000)});
       const json = await res.json();
       const raw = json.contents ? JSON.parse(json.contents) : json;
-      const q = raw.chart.result[0].meta;
-      const price = q.regularMarketPrice;
-      const prev = q.chartPreviousClose || q.previousClose;
-      const change = prev ? ((price - prev) / prev * 100).toFixed(2) : "0.00";
-      return {price: price.toFixed(2), change: (change>=0?"+":"")+change+"%", up: change>=0};
+      return raw;
     } catch(e) { continue; }
   }
-  // Final fallback — use stored JSON price from GitHub
-  try {
-    const res = await fetch(`https://princebhalodiyagit.github.io/stockintel/data/financials/${ticker}.json`);
-    if (res.ok) {
-      const d = await res.json();
-      const price = d.company_info?.current_price;
-      if (price && price !== "N/A") return {price: parseFloat(price).toFixed(2), change: "Delayed", up: true};
-    }
-  } catch(e) {}
-  return {price: "N/A", change: "—", up: true};
+  return null;
 }
 
-
-async function fetchPriceHistory(yfSymbol) {
+async function fetchLivePrice(ticker, yf) {
   try {
-    const url = `https://query1.finance.yahoo.com/v8/finance/chart/${yfSymbol}?interval=1mo&range=5y`;
-    const proxy = `https://api.allorigins.win/get?url=${encodeURIComponent(url)}`;
-    const res = await fetch(proxy);
-    const json = await res.json();
-    const data = JSON.parse(json.contents);
+    const url = `https://query1.finance.yahoo.com/v8/finance/chart/${yf}?interval=1d&range=1d`;
+    const data = await fetchWithProxy(url);
+    if (!data) throw new Error('failed');
+    const meta = data.chart.result[0].meta;
+    const price = meta.regularMarketPrice;
+    const prev = meta.chartPreviousClose || meta.previousClose;
+    const chg = prev ? ((price-prev)/prev*100).toFixed(2) : "0.00";
+    return {price: price.toFixed(2), change: (chg>=0?"+":"")+chg+"%", up: chg>=0};
+  } catch(e) {
+    return null;
+  }
+}
+
+async function fetchHistory(yf) {
+  try {
+    const url = `https://query1.finance.yahoo.com/v8/finance/chart/${yf}?interval=1mo&range=5y`;
+    const data = await fetchWithProxy(url);
+    if (!data) return null;
     const result = data.chart.result[0];
-    const labels = result.timestamp.map(t => {
-      const d = new Date(t * 1000);
-      return d.toLocaleDateString("en-IN", { month: "short", year: "2-digit" });
-    });
-    return { labels, data: result.indicators.quote[0].close.map(v => v ? +v.toFixed(2) : null) };
+    const labels = result.timestamp.map(t => new Date(t*1000).toLocaleDateString("en-IN",{month:"short",year:"2-digit"}));
+    return {labels, data: result.indicators.quote[0].close.map(v => v?+v.toFixed(2):null)};
   } catch(e) { return null; }
 }
 
-async function fetchNews(companyName) {
+async function fetchNews(name) {
   try {
-    const query = encodeURIComponent(companyName + " NSE stock");
-    const rss = `https://news.google.com/rss/search?q=${query}&hl=en-IN&gl=IN&ceid=IN:en`;
-    const proxy = `https://api.allorigins.win/get?url=${encodeURIComponent(rss)}`;
-    const res = await fetch(proxy);
-    const json = await res.json();
-    const xml = new DOMParser().parseFromString(json.contents, "text/xml");
+    const q = encodeURIComponent(name + " NSE stock India");
+    const rss = `https://news.google.com/rss/search?q=${q}&hl=en-IN&gl=IN&ceid=IN:en`;
+    const data = await fetchWithProxy(rss);
+    if (!data) return [];
+    const xml = new DOMParser().parseFromString(typeof data==="string"?data:JSON.stringify(data), "text/xml");
     const items = xml.querySelectorAll("item");
     const articles = [];
-    items.forEach((item, i) => {
-      if (i >= 8) return;
+    items.forEach((item,i) => {
+      if(i>=8) return;
       articles.push({
-        title: item.querySelector("title")?.textContent || "N/A",
-        link: item.querySelector("link")?.textContent || "#",
-        published: item.querySelector("pubDate")?.textContent || "",
-        source: item.querySelector("source")?.textContent || "Google News",
+        title: item.querySelector("title")?.textContent||"",
+        link:  item.querySelector("link")?.textContent||"#",
+        published: item.querySelector("pubDate")?.textContent||"",
+        source: item.querySelector("source")?.textContent||"Google News",
       });
     });
     return articles;
   } catch(e) { return []; }
 }
 
-function filterSector(sector, btn) {
+// ── MAIN INIT: load all companies from JSON ──
+async function init() {
+  try {
+    const res = await fetch(BASE + '/data/companies.json');
+    ALL_COMPANIES = await res.json();
+    document.getElementById('total-co').textContent = ALL_COMPANIES.length;
+    console.log('Loaded', ALL_COMPANIES.length, 'companies');
+    renderGrid();
+  } catch(e) {
+    console.error('Failed to load companies.json:', e);
+    document.getElementById('company-grid').innerHTML = '<div style="color:#ef4444;padding:40px;text-align:center">Failed to load companies. Please refresh.</div>';
+  }
+}
+
+function getFiltered() {
+  if (currentFilter === 'ALL') return ALL_COMPANIES;
+  return ALL_COMPANIES.filter(c => (c.sector||'').includes(currentFilter));
+}
+
+function filterBy(sector, btn) {
   currentFilter = sector;
-  document.querySelectorAll(".filter-btn").forEach(b => b.classList.remove("active"));
-  btn.classList.add("active");
-  document.getElementById("grid-title").textContent = sector === "ALL" ? "All Companies" : sector + " Sector";
-  renderCompanyGrid();
+  document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  renderGrid();
 }
 
-function getFilteredTickers() {
-  if (currentFilter === "ALL") return TICKERS;
-  return TICKERS.filter(t => {
-    const sector = SECTOR_MAP[t] || "";
-    if (currentFilter === "Banking") return ["Banking","Insurance","NBFC"].includes(sector);
-    if (currentFilter === "IT") return sector === "IT";
-    if (currentFilter === "Energy") return sector === "Energy";
-    if (currentFilter === "Pharma") return sector === "Pharma";
-    if (currentFilter === "Auto") return sector === "Auto";
-    if (currentFilter === "FMCG") return sector === "FMCG";
-    if (currentFilter === "Metal") return sector === "Metal";
-    if (currentFilter === "Infra") return ["Infra","Construction"].includes(sector);
-    return true;
-  });
-}
+function renderGrid() {
+  const list = getFiltered();
+  document.getElementById('showing-co').textContent = list.length;
+  document.getElementById('grid-label').textContent = currentFilter === 'ALL'
+    ? `All ${list.length} NSE Companies`
+    : `${currentFilter} — ${list.length} companies`;
 
-function renderCompanyGrid() {
-  const tickers = getFilteredTickers();
-  const grid = document.getElementById("company-grid");
-  grid.innerHTML = tickers.map(ticker => {
-    const p = livePrices[ticker] || { price: "...", change: "—", up: true };
-    const sector = SECTOR_MAP[ticker] || "Other";
-    const name = companyData[ticker]?.company_info?.name || ticker;
-    return `<div class="company-card" onclick="loadCompany('${ticker}')">
-      <div class="c-ticker">${ticker}</div>
-      <div class="c-name">${name}</div>
-      <div class="c-price">₹${p.price}</div>
-      <div class="c-change" style="color:${p.up?"#22c55e":"#ef4444"}">${p.change}</div>
-      <div class="c-sector">${sector}</div>
+  document.getElementById('company-grid').innerHTML = list.map(c => {
+    const price = c.price && c.price !== 'N/A' ? 'Rs.' + parseFloat(c.price).toFixed(2) : 'N/A';
+    return `<div class="company-card" onclick="loadCompany('${c.ticker}')">
+      <div class="c-ticker">${c.ticker}</div>
+      <div class="c-name">${c.name}</div>
+      <div class="c-price">${price}</div>
+      <div class="c-change" style="color:#888">Delayed</div>
+      <div class="c-sector">${c.sector||'Other'}</div>
     </div>`;
-  }).join("");
-  document.getElementById("total-companies").textContent = TICKERS.length;
-}
-
-async function loadAllPrices() {
-  let loaded = 0;
-  // Load company names first from JSON
-  for (const ticker of TICKERS) {
-    loadCompanyData(ticker);
-  }
-  // Load prices in batches of 5
-  for (let i = 0; i < TICKERS.length; i += 5) {
-    const batch = TICKERS.slice(i, i + 5);
-    await Promise.all(batch.map(async ticker => {
-      livePrices[ticker] = await fetchLivePrice(ticker, YF_MAP[ticker]);
-      loaded++;
-      document.getElementById("prices-loaded").textContent = loaded;
-      renderCompanyGrid();
-    }));
-  }
+  }).join('');
 }
 
 function showHome() {
-  document.getElementById("home-section").style.display = "block";
-  document.getElementById("company-section").style.display = "none";
+  document.getElementById('home-section').style.display = 'block';
+  document.getElementById('company-section').style.display = 'none';
 }
 
 function searchCompany() {
-  const q = document.getElementById("search-input").value.trim().toUpperCase();
-  
-  // Exact ticker match first
-  if (TICKERS.includes(q)) { loadCompany(q); return; }
-  
-  // Search by company name
-  const matches = TICKERS.filter(t => {
-    const name = (companyData[t]?.company_info?.name || t).toUpperCase();
-    return name.includes(q) || t.includes(q);
-  });
-  
-  if (matches.length === 1) { loadCompany(matches[0]); return; }
-  
+  const q = document.getElementById('nav-search').value.trim().toUpperCase();
+  const exact = ALL_COMPANIES.find(c => c.ticker === q);
+  if (exact) { loadCompany(exact.ticker); return; }
+  const matches = ALL_COMPANIES.filter(c =>
+    c.ticker.includes(q) || (c.name||'').toUpperCase().includes(q)
+  );
+  if (matches.length === 1) { loadCompany(matches[0].ticker); return; }
   if (matches.length > 1) {
-    showSearchResults(matches, q);
+    document.getElementById('home-section').style.display = 'block';
+    document.getElementById('company-section').style.display = 'none';
+    document.getElementById('grid-label').textContent = `Search: "${q}" — ${matches.length} results`;
+    document.getElementById('showing-co').textContent = matches.length;
+    document.getElementById('company-grid').innerHTML = matches.map(c => `
+      <div class="company-card" onclick="loadCompany('${c.ticker}')">
+        <div class="c-ticker">${c.ticker}</div>
+        <div class="c-name">${c.name}</div>
+        <div class="c-price">${c.price && c.price!=='N/A' ? 'Rs.'+parseFloat(c.price).toFixed(2) : 'N/A'}</div>
+        <div class="c-sector">${c.sector||'Other'}</div>
+      </div>`).join('');
     return;
   }
-  
-  alert("No company found matching: " + q);
-}
-
-function showSearchResults(matches, query) {
-  document.getElementById("home-section").style.display = "block";
-  document.getElementById("grid-title").textContent = `Search results for "${query}" (${matches.length} found)`;
-  const grid = document.getElementById("company-grid");
-  grid.innerHTML = matches.slice(0, 50).map(ticker => {
-    const p = livePrices[ticker] || { price: "...", change: "—", up: true };
-    const name = companyData[ticker]?.company_info?.name || ticker;
-    const sector = SECTOR_MAP[ticker] || companyData[ticker]?.company_info?.sector || "Other";
-    return `<div class="company-card" onclick="loadCompany('${ticker}')">
-      <div class="c-ticker">${ticker}</div>
-      <div class="c-name">${name}</div>
-      <div class="c-price">₹${p.price}</div>
-      <div class="c-change" style="color:${p.up?"#22c55e":"#ef4444"}">${p.change}</div>
-      <div class="c-sector">${sector}</div>
-    </div>`;
-  }).join("");
+  alert('No company found for: ' + q);
 }
 
 async function loadCompany(ticker) {
   currentTicker = ticker;
-  document.getElementById("home-section").style.display = "none";
-  document.getElementById("company-section").style.display = "block";
-  window.scrollTo(0, 0);
+  document.getElementById('home-section').style.display = 'none';
+  document.getElementById('company-section').style.display = 'block';
+  window.scrollTo(0,0);
 
-  const data = await loadCompanyData(ticker);
-  const info = data?.company_info || {};
-  const p = livePrices[ticker] || { price: "Loading...", change: "—", up: true };
-  const name = info.name || ticker;
-  const sector = info.sector || SECTOR_MAP[ticker] || "N/A";
+  // Load full data from JSON
+  let info = {};
+  try {
+    const res = await fetch(BASE + '/data/financials/' + ticker + '.json');
+    if (res.ok) { const d = await res.json(); info = d.company_info || {}; }
+  } catch(e) {}
 
-  document.getElementById("company-header").innerHTML = `
+  const meta = ALL_COMPANIES.find(c => c.ticker === ticker) || {name:ticker, sector:'N/A'};
+  const name = info.name || meta.name || ticker;
+  const sector = info.sector || meta.sector || 'N/A';
+  const storedPrice = info.current_price || meta.price || 'N/A';
+
+  document.getElementById('co-header').innerHTML = `
     <div>
-      <div class="company-name">${name} <span class="company-ticker-badge">${ticker}</span></div>
-      <div class="company-sector-label">${sector} · NSE · <span class="live-dot"></span>Live</div>
+      <div class="co-name">${name}<span class="co-badge">${ticker}</span></div>
+      <div class="co-sector">${sector} · NSE · <span class="live-dot"></span>Daily Refresh</div>
     </div>
     <div class="price-block">
-      <div class="current-price">₹${p.price}</div>
-      <div class="price-change ${p.up?"up":"down"}">${p.change} Today</div>
+      <div class="cur-price" id="live-price">Rs.${storedPrice !== 'N/A' ? parseFloat(storedPrice).toFixed(2) : 'N/A'}</div>
+      <div class="price-chg up" id="live-chg">Loading live...</div>
     </div>`;
 
-  switchTab("overview");
-  renderOverview(ticker, info, p);
+  // Fetch live price in background
+  fetchLivePrice(ticker, ticker + '.NS').then(p => {
+    if (p) {
+      document.getElementById('live-price').textContent = 'Rs.' + p.price;
+      const chgEl = document.getElementById('live-chg');
+      if (chgEl) { chgEl.textContent = p.change + ' Today'; chgEl.className = 'price-chg ' + (p.up?'up':'down'); }
+    }
+  });
+
+  switchTab('overview');
+  renderOverview(ticker, info, meta);
 }
 
 function switchTab(tab) {
-  const tabs = ["overview","financials","board","violations","news"];
-  document.querySelectorAll(".tab").forEach((t,i) => t.classList.toggle("active", tabs[i] === tab));
-  document.querySelectorAll(".tab-panel").forEach(p => p.classList.remove("active"));
-  document.getElementById("tab-" + tab).classList.add("active");
-  if (tab === "financials") renderFinancials(currentTicker);
-  if (tab === "board")      renderBoard(currentTicker);
-  if (tab === "violations") renderViolations(currentTicker);
-  if (tab === "news")       renderNews(currentTicker);
+  const names = ['overview','financials','board','violations','news'];
+  document.querySelectorAll('.tab').forEach((t,i) => t.classList.toggle('active', names[i]===tab));
+  document.querySelectorAll('.tab-panel').forEach(p => p.classList.remove('active'));
+  document.getElementById('tab-'+tab).classList.add('active');
+  if(tab==='financials') renderFinancials(currentTicker);
+  if(tab==='board')      renderBoard(currentTicker);
+  if(tab==='violations') renderViolations(currentTicker);
+  if(tab==='news')       renderNews(currentTicker);
 }
 
-async function renderOverview(ticker, info, p) {
+async function renderOverview(ticker, info, meta) {
   const v = VIOLATIONS[ticker] || {score:10,level:"low",summary:"No violations recorded.",items:[]};
-  const riskColors = {low:"risk-low-bg",med:"risk-med-bg",high:"risk-high-bg"};
-  const riskText = {low:"Low Risk",med:"Medium Risk",high:"High Risk"};
-  document.getElementById("tab-overview").innerHTML = `
+  const rc = {low:"rl-bg",med:"rm-bg",high:"rh-bg"};
+  const rt = {low:"Low Risk",med:"Medium Risk",high:"High Risk"};
+  const fmt = val => (val && val!=='N/A') ? val : '—';
+  const fmtPct = val => (val && val!=='N/A') ? (parseFloat(val)*100).toFixed(1)+'%' : '—';
+  const fmtCr = val => (val && val!=='N/A') ? 'Rs.'+(parseInt(val)/1e7).toFixed(0)+' Cr' : '—';
+
+  document.getElementById('tab-overview').innerHTML = `
     <div class="cards-grid">
-      <div class="card blue"><div class="card-label">Live Price</div><div class="card-value">₹${p.price}</div><div class="card-sub">NSE</div></div>
-      <div class="card ${p.up?"green":"red"}"><div class="card-label">Today's Change</div><div class="card-value">${p.change}</div></div>
-      <div class="card"><div class="card-label">P/E Ratio</div><div class="card-value">${info.pe_ratio !== "N/A" ? parseFloat(info.pe_ratio).toFixed(1) : "N/A"}</div></div>
-      <div class="card"><div class="card-label">Risk Score</div><div class="card-value" style="color:${v.level==="high"?"#ef4444":v.level==="med"?"#f59e0b":"#22c55e"}">${v.score}/100</div><div class="card-sub">${riskText[v.level]}</div></div>
-      <div class="card"><div class="card-label">Market Cap</div><div class="card-value" style="font-size:15px">${info.market_cap !== "N/A" ? "₹"+(info.market_cap/1e7).toFixed(0)+"Cr" : "N/A"}</div></div>
-      <div class="card green"><div class="card-label">ROE</div><div class="card-value">${info.roe !== "N/A" ? (parseFloat(info.roe)*100).toFixed(1)+"%" : "N/A"}</div></div>
-      <div class="card"><div class="card-label">52W High</div><div class="card-value" style="font-size:15px">₹${info["52_week_high"] || "N/A"}</div></div>
-      <div class="card"><div class="card-label">52W Low</div><div class="card-value" style="font-size:15px">₹${info["52_week_low"] || "N/A"}</div></div>
+      <div class="card blue"><div class="lbl">Price</div><div class="val">${info.current_price && info.current_price!=='N/A' ? 'Rs.'+parseFloat(info.current_price).toFixed(2) : '—'}</div></div>
+      <div class="card"><div class="lbl">P/E Ratio</div><div class="val">${info.pe_ratio && info.pe_ratio!=='N/A' ? parseFloat(info.pe_ratio).toFixed(1) : '—'}</div></div>
+      <div class="card green"><div class="lbl">ROE</div><div class="val">${fmtPct(info.roe)}</div></div>
+      <div class="card"><div class="lbl">Risk Score</div><div class="val" style="color:${v.level==='high'?'#ef4444':v.level==='med'?'#f59e0b':'#22c55e'}">${v.score}/100</div></div>
+      <div class="card"><div class="lbl">Market Cap</div><div class="val" style="font-size:14px">${fmtCr(info.market_cap)}</div></div>
+      <div class="card"><div class="lbl">52W High</div><div class="val" style="font-size:15px">${fmt(info['52_week_high'])}</div></div>
+      <div class="card"><div class="lbl">52W Low</div><div class="val" style="font-size:15px">${fmt(info['52_week_low'])}</div></div>
+      <div class="card"><div class="lbl">EPS</div><div class="val" style="font-size:15px">${fmt(info.eps)}</div></div>
     </div>
-    <div class="risk-score-box">
-      <div class="risk-circle ${riskColors[v.level]}">${v.score}</div>
-      <div class="risk-info"><h3>Risk Score: ${riskText[v.level]}</h3><p>${v.summary}</p></div>
+    <div class="risk-box">
+      <div class="risk-circle ${rc[v.level]}">${v.score}</div>
+      <div class="risk-info"><h3>${rt[v.level]}</h3><p>${v.summary}</p></div>
     </div>
     <div class="chart-box">
-      <div class="section-title">5 Year Price Chart <span style="font-size:11px;color:#22c55e"><span class="live-dot"></span>Real Data</span></div>
-      <div id="chart-loading" style="text-align:center;padding:30px;color:#555">Loading chart...</div>
+      <div class="section-title">5 Year Price Chart</div>
+      <div id="chart-load" style="text-align:center;padding:30px;color:#555">Loading chart...</div>
       <canvas id="priceChart" height="90" style="display:none"></canvas>
     </div>`;
 
-  const history = await fetchPriceHistory(YF_MAP[ticker]);
-  document.getElementById("chart-loading").style.display = "none";
-  document.getElementById("priceChart").style.display = "block";
-  const ctx = document.getElementById("priceChart").getContext("2d");
+  const hist = await fetchHistory(ticker + '.NS');
+  document.getElementById('chart-load').style.display = 'none';
+  const canvas = document.getElementById('priceChart');
+  canvas.style.display = 'block';
   if (priceChart) priceChart.destroy();
-  priceChart = new Chart(ctx, {
-    type:"line",
-    data:{ labels: history?.labels||[], datasets:[{ label:ticker, data:history?.data||[], borderColor:"#4f8ef7", backgroundColor:"rgba(79,142,247,0.08)", fill:true, tension:0.4, pointRadius:0, borderWidth:2 }] },
-    options:{ responsive:true, plugins:{legend:{display:false}}, scales:{ x:{grid:{color:"#2a2d3e"},ticks:{color:"#666",maxTicksLimit:12}}, y:{grid:{color:"#2a2d3e"},ticks:{color:"#666",callback:v=>"₹"+v.toLocaleString()}} } }
+  priceChart = new Chart(canvas.getContext('2d'), {
+    type:'line',
+    data:{labels:hist?hist.labels:[],datasets:[{label:ticker,data:hist?hist.data:[],borderColor:'#4f8ef7',backgroundColor:'rgba(79,142,247,0.07)',fill:true,tension:0.4,pointRadius:0,borderWidth:2}]},
+    options:{responsive:true,plugins:{legend:{display:false}},scales:{
+      x:{grid:{color:'#2a2d3e'},ticks:{color:'#666',maxTicksLimit:12}},
+      y:{grid:{color:'#2a2d3e'},ticks:{color:'#666',callback:v=>'Rs.'+v.toLocaleString()}}
+    }}
   });
 }
 
 async function renderFinancials(ticker) {
-  const data = await loadCompanyData(ticker);
-  const info = data?.company_info || {};
-  const p = livePrices[ticker] || {price:"N/A",change:"—",up:true};
-  document.getElementById("tab-financials").innerHTML = `
-    <div class="cards-grid">
-      <div class="card blue"><div class="card-label">Current Price</div><div class="card-value">₹${p.price}</div></div>
-      <div class="card"><div class="card-label">P/E Ratio</div><div class="card-value">${info.pe_ratio !== "N/A" ? parseFloat(info.pe_ratio||0).toFixed(1) : "N/A"}</div></div>
-      <div class="card"><div class="card-label">P/B Ratio</div><div class="card-value">${info.pb_ratio !== "N/A" ? parseFloat(info.pb_ratio||0).toFixed(2) : "N/A"}</div></div>
-      <div class="card green"><div class="card-label">ROE</div><div class="card-value">${info.roe !== "N/A" ? (parseFloat(info.roe||0)*100).toFixed(1)+"%" : "N/A"}</div></div>
-      <div class="card"><div class="card-label">Debt/Equity</div><div class="card-value">${info.debt_to_equity !== "N/A" ? parseFloat(info.debt_to_equity||0).toFixed(2) : "N/A"}</div></div>
-      <div class="card"><div class="card-label">EPS</div><div class="card-value">${info.eps !== "N/A" ? "₹"+parseFloat(info.eps||0).toFixed(2) : "N/A"}</div></div>
-    </div>
+  let info = {};
+  try {
+    const res = await fetch(BASE + '/data/financials/' + ticker + '.json');
+    if (res.ok) { const d = await res.json(); info = d.company_info || {}; }
+  } catch(e) {}
+  const fmt = val => (val && val!=='N/A') ? val : '—';
+  const fmtPct = val => (val && val!=='N/A') ? (parseFloat(val)*100).toFixed(2)+'%' : '—';
+  const fmtCr = val => (val && val!=='N/A') ? 'Rs.'+(parseInt(val)/1e7).toFixed(0)+' Cr' : '—';
+  document.getElementById('tab-financials').innerHTML = `
     <div class="chart-box">
-      <div class="section-title">Key Metrics from Latest Filing</div>
+      <div class="section-title">Key Financial Metrics</div>
       <table class="fin-table">
-        <tr><th style="text-align:left">Metric</th><th>Value</th><th>Source</th></tr>
-        <tr><td>Revenue</td><td>${info.revenue !== "N/A" ? "₹"+(parseInt(info.revenue||0)/1e7).toFixed(0)+" Cr" : "N/A"}</td><td>Yahoo Finance</td></tr>
-        <tr><td>Net Income</td><td>${info.net_income !== "N/A" ? "₹"+(parseInt(info.net_income||0)/1e7).toFixed(0)+" Cr" : "N/A"}</td><td>Yahoo Finance</td></tr>
-        <tr><td>Market Cap</td><td>${info.market_cap !== "N/A" ? "₹"+(parseInt(info.market_cap||0)/1e7).toFixed(0)+" Cr" : "N/A"}</td><td>Live</td></tr>
-        <tr><td>52 Week High</td><td>₹${info["52_week_high"] || "N/A"}</td><td>NSE</td></tr>
-        <tr><td>52 Week Low</td><td>₹${info["52_week_low"] || "N/A"}</td><td>NSE</td></tr>
-        <tr><td>Dividend Yield</td><td>${info.dividend_yield !== "N/A" ? (parseFloat(info.dividend_yield||0)*100).toFixed(2)+"%" : "N/A"}</td><td>Yahoo Finance</td></tr>
-        <tr><td>Data Last Updated</td><td colspan="2" style="color:#666">${data?.collected_at || "N/A"}</td></tr>
+        <tr><th style="text-align:left">Metric</th><th>Value</th></tr>
+        <tr><td>Current Price</td><td>${info.current_price && info.current_price!=='N/A' ? 'Rs.'+parseFloat(info.current_price).toFixed(2) : '—'}</td></tr>
+        <tr><td>Market Cap</td><td>${fmtCr(info.market_cap)}</td></tr>
+        <tr><td>Revenue</td><td>${fmtCr(info.revenue)}</td></tr>
+        <tr><td>Net Income</td><td>${fmtCr(info.net_income)}</td></tr>
+        <tr><td>EPS</td><td>${fmt(info.eps)}</td></tr>
+        <tr><td>P/E Ratio</td><td>${info.pe_ratio && info.pe_ratio!=='N/A' ? parseFloat(info.pe_ratio).toFixed(2) : '—'}</td></tr>
+        <tr><td>P/B Ratio</td><td>${info.pb_ratio && info.pb_ratio!=='N/A' ? parseFloat(info.pb_ratio).toFixed(2) : '—'}</td></tr>
+        <tr><td>ROE</td><td>${fmtPct(info.roe)}</td></tr>
+        <tr><td>Debt/Equity</td><td>${fmt(info.debt_to_equity)}</td></tr>
+        <tr><td>52 Week High</td><td>${fmt(info['52_week_high'])}</td></tr>
+        <tr><td>52 Week Low</td><td>${fmt(info['52_week_low'])}</td></tr>
+        <tr><td>Dividend Yield</td><td>${fmtPct(info.dividend_yield)}</td></tr>
       </table>
     </div>`;
 }
 
 async function renderBoard(ticker) {
-  document.getElementById("tab-board").innerHTML = '<div class="loading"><div class="spinner"></div>Loading board members...</div>';
+  document.getElementById('tab-board').innerHTML = '<div class="loading"><div class="spinner"></div>Loading board members...</div>';
   let directors = [];
   try {
-    const res = await fetch("https://princebhalodiyagit.github.io/stockintel/data/directors/" + ticker + "_directors.json");
-    if (res.ok) {
-      const d = await res.json();
-      directors = d.directors || [];
-    }
+    const res = await fetch(BASE + '/data/directors/' + ticker + '_directors.json');
+    if (res.ok) { const d = await res.json(); directors = d.directors || []; }
   } catch(e) {}
-
-  if (directors.length === 0 && BOARD[ticker]) {
-    directors = BOARD[ticker].map(m => ({name:m.name, role:m.role, age:"N/A", total_pay:"N/A"}));
-  }
-
-  if (directors.length === 0) {
-    document.getElementById("tab-board").innerHTML = '<div class="chart-box"><p style="color:#888;padding:20px">No director data yet. Run GitHub Actions.</p></div>';
+  if (!directors.length) {
+    document.getElementById('tab-board').innerHTML = '<div class="chart-box"><p style="color:#888;padding:20px">No director data available yet.</p></div>';
     return;
   }
-
   const v = VIOLATIONS[ticker];
   const flagged = v ? v.items.map(i => i.title.toLowerCase()) : [];
-  let rows = "";
-  directors.forEach(d => {
-    const isRisk = flagged.some(f => f.split(" ")[0].length > 3 && d.name.toLowerCase().includes(f.split(" ")[0].toLowerCase()));
-    const pay = (d.total_pay && d.total_pay !== "N/A") ? "Rs." + parseInt(d.total_pay).toLocaleString("en-IN") : "Not disclosed";
-    rows += "<tr><td><span class='dir-name'>" + d.name + "</span></td><td style='color:#aaa;font-size:13px'>" + d.role + "</td><td style='color:#888'>" + (d.age && d.age !== "N/A" ? d.age : "--") + "</td><td style='color:#888;font-size:12px'>" + pay + "</td><td><span class='rdot risk-" + (isRisk?"high":"low") + "'></span><span class='badge " + (isRisk?"badge-red":"badge-green") + "'>" + (isRisk?"Review":"Clean") + "</span></td></tr>";
-  });
-
-  document.getElementById("tab-board").innerHTML =
-    "<div class='chart-box'><div class='section-title'>Board of Directors -- " + directors.length + " members</div>" +
-    "<table class='board-table'><tr><th>Name</th><th>Designation</th><th>Age</th><th>Annual Pay</th><th>Status</th></tr>" +
-    rows + "</table></div>" +
-    "<div style='font-size:11px;color:#555;margin-top:8px'>Source: Yahoo Finance / MCA21</div>";
+  document.getElementById('tab-board').innerHTML = `
+    <div class="chart-box">
+      <div class="section-title">Board of Directors — ${directors.length} members</div>
+      <table class="board-table">
+        <tr><th>Name</th><th>Role</th><th>Age</th><th>Annual Pay</th><th>Status</th></tr>
+        ${directors.map(d => {
+          const isRisk = flagged.some(f => f.split(' ')[0].length>3 && d.name.toLowerCase().includes(f.split(' ')[0].toLowerCase()));
+          const pay = (d.total_pay && d.total_pay!=='N/A') ? 'Rs.'+parseInt(d.total_pay).toLocaleString('en-IN') : 'Not disclosed';
+          return '<tr><td><span class="dir-name">'+d.name+'</span></td><td style="color:#aaa;font-size:12px">'+d.role+'</td><td style="color:#888">'+(d.age&&d.age!=='N/A'?d.age:'—')+'</td><td style="color:#888;font-size:12px">'+pay+'</td><td><span class="rdot risk-'+(isRisk?'high':'low')+'"></span><span class="badge '+(isRisk?'badge-red':'badge-green')+'">'+(isRisk?'Review':'Clean')+'</span></td></tr>';
+        }).join('')}
+      </table>
+    </div>
+    <div style="font-size:11px;color:#555;margin-top:8px">Source: Yahoo Finance / MCA21</div>`;
 }
 
-
 function renderViolations(ticker) {
-  const v = VIOLATIONS[ticker] || {score:10,level:"low",summary:"No violations recorded.",items:[]};
-  const riskColors = {low:"risk-low-bg",med:"risk-med-bg",high:"risk-high-bg"};
-  const riskText = {low:"Low Risk",med:"Medium Risk",high:"High Risk"};
-  const badgeClass = {red:"badge-red",yellow:"badge-yellow",green:"badge-green"};
-  document.getElementById("tab-violations").innerHTML = `
-    <div class="risk-score-box">
-      <div class="risk-circle ${riskColors[v.level]}">${v.score}</div>
-      <div class="risk-info"><h3>${v.score}/100 — ${riskText[v.level]}</h3><p>${v.summary}</p></div>
+  const v = VIOLATIONS[ticker] || {score:10,level:'low',summary:'No violations recorded.',items:[]};
+  const rc = {low:'rl-bg',med:'rm-bg',high:'rh-bg'};
+  const rt = {low:'Low Risk',med:'Medium Risk',high:'High Risk'};
+  const bc = {red:'badge-red',yellow:'badge-yellow',green:'badge-green'};
+  document.getElementById('tab-violations').innerHTML = `
+    <div class="risk-box">
+      <div class="risk-circle ${rc[v.level]}">${v.score}</div>
+      <div class="risk-info"><h3>${v.score}/100 — ${rt[v.level]}</h3><p>${v.summary}</p></div>
     </div>
-    <div class="violation-list">
-      ${v.items.length===0
-        ? `<div class="violation-item clear"><span class="violation-badge badge-green">Clean Record</span><div>No SEBI, RBI or court violations found.</div></div>`
-        : v.items.map(item=>`<div class="violation-item">
-            <span class="violation-badge ${badgeClass[item.type]}">${item.badge}</span>
-            <div style="font-weight:600;color:#fff;margin-bottom:5px">${item.title}</div>
-            <div style="font-size:13px;color:#aaa;line-height:1.5">${item.detail}</div>
-          </div>`).join("")}
-    </div>
-    <div style="font-size:11px;color:#555;margin-top:12px">Sources: SEBI Enforcement Orders · RBI Penalties · Public Court Records</div>`;
+    ${v.items.length===0
+      ? '<div class="viol-item clear"><span class="badge badge-green">Clean Record</span><div>No SEBI, RBI or court violations found.</div></div>'
+      : v.items.map(i=>'<div class="viol-item"><span class="badge '+bc[i.type]+'">'+i.badge+'</span><div style="font-weight:600;color:#fff;margin-bottom:5px">'+i.title+'</div><div style="font-size:12px;color:#aaa;line-height:1.5">'+i.detail+'</div></div>').join('')}
+    <div style="font-size:11px;color:#555;margin-top:14px">Sources: SEBI Enforcement Orders · RBI Penalties · Public Court Records</div>`;
 }
 
 async function renderNews(ticker) {
-  const data = await loadCompanyData(ticker);
-  const name = data?.company_info?.name || ticker;
-  document.getElementById("tab-news").innerHTML = `<div class="loading"><div class="spinner"></div>Loading news for ${name}...</div>`;
+  const meta = ALL_COMPANIES.find(c => c.ticker === ticker);
+  const name = meta ? meta.name : ticker;
+  document.getElementById('tab-news').innerHTML = '<div class="loading"><div class="spinner"></div>Loading news...</div>';
   const articles = await fetchNews(name);
   if (!articles.length) {
-    document.getElementById("tab-news").innerHTML = `<div style="color:#888;padding:40px;text-align:center">Could not load news. Try again later.</div>`;
+    document.getElementById('tab-news').innerHTML = '<div style="color:#888;padding:40px;text-align:center">Could not load news. Try again.</div>';
     return;
   }
-  document.getElementById("tab-news").innerHTML = `
+  document.getElementById('tab-news').innerHTML = `
     <div class="news-list">
-      ${articles.map(a=>`<div class="news-item" onclick="window.open('${a.link}','_blank')">
-        <div class="news-title">${a.title}</div>
-        <div class="news-meta"><span class="news-source">${a.source}</span> · ${a.published ? new Date(a.published).toLocaleDateString("en-IN") : ""}</div>
-      </div>`).join("")}
+      ${articles.map(a=>'<div class="news-item" onclick="window.open(''+a.link+'','_blank')"><div class="news-title">'+a.title+'</div><div class="news-meta"><span class="news-source">'+a.source+'</span> · '+(a.published?new Date(a.published).toLocaleDateString('en-IN'):' ')+'</div></div>').join('')}
     </div>
-    <div style="font-size:11px;color:#555;margin-top:12px">Live from Google News · Click to read full article</div>`;
+    <div style="font-size:11px;color:#555;margin-top:12px">Live from Google News</div>`;
 }
 
-// ── Init ──
+// ── Start ──
 showHome();
-renderCompanyGrid();
-loadAllPrices();
-
-// ── Load all 2138 companies dynamically ──
-async function loadAllCompanies() {
-  try {
-    const res = await fetch('https://princebhalodiyagit.github.io/stockintel/data/companies.json');
-    if (!res.ok) throw new Error('failed');
-    const companies = await res.json();
-    companies.forEach(c => {
-      if (!META[c.ticker]) {
-        META[c.ticker] = {
-          name:   c.name   || c.ticker,
-          sector: c.sector || 'Other',
-          yf:     c.ticker + '.NS'
-        };
-        if (c.price && c.price !== 'N/A') {
-          prices[c.ticker] = {
-            price:  parseFloat(c.price).toFixed(2),
-            change: 'Delayed',
-            up:     true
-          };
-        }
-      }
-    });
-    // Re-render grid with all companies
-    const grid = document.getElementById('company-grid');
-    if (grid) {
-      grid.innerHTML = Object.entries(META).map(([ticker, m]) => {
-        const p = prices[ticker] || {price:'...', change:'--', up:true};
-        return `<div class="company-card" onclick="loadCompany('${ticker}')">
-          <div class="c-ticker">${ticker}</div>
-          <div class="c-name">${m.name}</div>
-          <div class="c-price">Rs.${p.price}</div>
-          <div class="c-change" style="color:${p.up?'#22c55e':'#ef4444'}">${p.change}</div>
-          <div class="c-sector">${m.sector}</div>
-        </div>`;
-      }).join('');
-    }
-    const el = document.getElementById('total-companies') || document.getElementById('loaded-count');
-    if (el) el.textContent = Object.keys(META).length;
-    console.log('Loaded ' + companies.length + ' companies from JSON');
-  } catch(e) {
-    console.log('loadAllCompanies error:', e);
-  }
-}
-
-loadAllCompanies();
+init();
 </script>
 </body>
 </html>
