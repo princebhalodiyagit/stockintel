@@ -1,14 +1,14 @@
 {
   "ticker": "NCC",
-  "collected_at": "2026-05-21 05:23:22",
+  "collected_at": "2026-05-22 06:05:13",
   "company_info": {
     "name": "NCC Limited",
     "sector": "Industrials",
     "industry": "Engineering & Construction",
-    "market_cap": 94208385024,
-    "current_price": 150.05,
-    "pe_ratio": 13.932219,
-    "pb_ratio": 1.2524519,
+    "market_cap": 91816288256,
+    "current_price": 146.24,
+    "pe_ratio": 13.578459,
+    "pb_ratio": 1.2206503,
     "roe": 0.093219995,
     "debt_to_equity": 43.056,
     "revenue": 209443995648,
@@ -16,6 +16,6 @@
     "eps": 10.77,
     "52_week_high": 242.15,
     "52_week_low": 130.0,
-    "dividend_yield": 1.5
+    "dividend_yield": 1.49
   }
 }

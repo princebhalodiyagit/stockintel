@@ -1,14 +1,14 @@
 {
   "ticker": "JMFINANCIL",
-  "collected_at": "2026-05-21 05:18:00",
+  "collected_at": "2026-05-22 05:58:42",
   "company_info": {
     "name": "JM Financial Limited",
     "sector": "Financial Services",
     "industry": "Capital Markets",
-    "market_cap": 124713623552,
-    "current_price": 130.39,
-    "pe_ratio": 10.178766,
-    "pb_ratio": 1.2128174,
+    "market_cap": 123422392320,
+    "current_price": 129.04,
+    "pe_ratio": 10.0733795,
+    "pb_ratio": 1.2002604,
     "roe": "N/A",
     "debt_to_equity": 104.102,
     "revenue": 34987601920,
@@ -16,6 +16,6 @@
     "eps": 12.81,
     "52_week_high": 199.8,
     "52_week_low": 112.0,
-    "dividend_yield": 3.28
+    "dividend_yield": 3.24
   }
 }

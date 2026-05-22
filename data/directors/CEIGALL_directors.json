@@ -1,7 +1,7 @@
 {
   "ticker": "CEIGALL",
   "company": "Ceigall India Limited",
-  "collected_at": "2026-05-21 05:07:45",
+  "collected_at": "2026-05-22 05:46:04",
   "directors": [
     {
       "name": "Mr. Kapil  Aggarwal",
@@ -30,13 +30,6 @@
       "age": 42,
       "year_born": 1983,
       "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Chitwon  Wason",
-      "role": "Whole Time Director",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 495951
     },
     {
       "name": "Mr. A.  Saravanan",
@@ -71,6 +64,13 @@
       "role": "General Manager of Human Resources",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Avneet  Luthra",
+      "role": "Vice President of Procurement",
+      "age": 45,
+      "year_born": 1980,
       "total_pay": "N/A"
     }
   ]

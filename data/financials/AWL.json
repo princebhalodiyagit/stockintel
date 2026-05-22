@@ -1,14 +1,14 @@
 {
   "ticker": "AWL",
-  "collected_at": "2026-05-21 05:05:10",
+  "collected_at": "2026-05-22 05:42:44",
   "company_info": {
     "name": "AWL Agri Business Limited",
     "sector": "Consumer Defensive",
     "industry": "Packaged Foods",
-    "market_cap": 257073512448,
-    "current_price": 198.7,
-    "pe_ratio": 24.68323,
-    "pb_ratio": 2.4595845,
+    "market_cap": 254757666816,
+    "current_price": 196.91,
+    "pe_ratio": 24.460869,
+    "pb_ratio": 2.4374273,
     "roe": 0.10519,
     "debt_to_equity": 10.621,
     "revenue": 747306680320,
@@ -16,6 +16,6 @@
     "eps": 8.05,
     "52_week_high": 286.0,
     "52_week_low": 171.19,
-    "dividend_yield": 0.51
+    "dividend_yield": 0.5
   }
 }

@@ -1,21 +1,21 @@
 {
   "ticker": "APOLLO",
-  "collected_at": "2026-05-21 05:03:50",
+  "collected_at": "2026-05-22 05:40:58",
   "company_info": {
     "name": "Apollo Micro Systems Limited",
     "sector": "Industrials",
     "industry": "Aerospace & Defense",
-    "market_cap": 131113050112,
-    "current_price": 366.95,
-    "pe_ratio": 116.86306,
-    "pb_ratio": 11.371595,
-    "roe": "N/A",
-    "debt_to_equity": 33.483,
-    "revenue": 7728344064,
-    "net_income": 893041984,
-    "eps": 3.14,
+    "market_cap": 126182236160,
+    "current_price": 353.15,
+    "pe_ratio": 111.756325,
+    "pb_ratio": 10.943939,
+    "roe": 0.1121,
+    "debt_to_equity": 41.527,
+    "revenue": 9105973248,
+    "net_income": 1129201024,
+    "eps": 3.16,
     "52_week_high": 377.7,
     "52_week_low": 135.5,
-    "dividend_yield": 0.08
+    "dividend_yield": 0.07
   }
 }

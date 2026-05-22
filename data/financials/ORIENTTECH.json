@@ -1,14 +1,14 @@
 {
   "ticker": "ORIENTTECH",
-  "collected_at": "2026-05-21 05:25:01",
+  "collected_at": "2026-05-22 06:07:12",
   "company_info": {
     "name": "Orient Technologies Limited",
     "sector": "Technology",
     "industry": "Information Technology Services",
-    "market_cap": 12555402240,
-    "current_price": 274.1,
-    "pe_ratio": 59.07328,
-    "pb_ratio": 3.5282154,
+    "market_cap": 12390500352,
+    "current_price": 270.5,
+    "pe_ratio": 58.297417,
+    "pb_ratio": 3.4818761,
     "roe": "N/A",
     "debt_to_equity": 6.129,
     "revenue": 9461533696,
@@ -16,6 +16,6 @@
     "eps": 4.64,
     "52_week_high": 466.72726,
     "52_week_low": 220.8,
-    "dividend_yield": 1.0
+    "dividend_yield": "N/A"
   }
 }

@@ -1,14 +1,14 @@
 {
   "ticker": "MASFIN",
-  "collected_at": "2026-05-21 05:21:30",
+  "collected_at": "2026-05-22 06:02:55",
   "company_info": {
     "name": "MAS Financial Services Limited",
     "sector": "Financial Services",
     "industry": "Credit Services",
-    "market_cap": 56141672448,
-    "current_price": 309.4,
-    "pe_ratio": 15.114802,
-    "pb_ratio": 1.8852978,
+    "market_cap": 55170895872,
+    "current_price": 304.05,
+    "pe_ratio": 14.853444,
+    "pb_ratio": 1.8526981,
     "roe": 0.13217,
     "debt_to_equity": 339.79,
     "revenue": 10955799552,
@@ -16,6 +16,6 @@
     "eps": 20.47,
     "52_week_high": 358.85,
     "52_week_low": 277.35,
-    "dividend_yield": 0.63
+    "dividend_yield": 0.64
   }
 }

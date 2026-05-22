@@ -1,14 +1,14 @@
 {
   "ticker": "AGARIND",
-  "collected_at": "2026-05-21 05:02:38",
+  "collected_at": "2026-05-22 05:39:24",
   "company_info": {
     "name": "Agarwal Industrial Corporation Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals",
-    "market_cap": 6199256064,
-    "current_price": 414.45,
-    "pe_ratio": 10.6242,
-    "pb_ratio": 0.94382167,
+    "market_cap": 6186541568,
+    "current_price": 413.6,
+    "pe_ratio": 10.60241,
+    "pb_ratio": 0.94188595,
     "roe": "N/A",
     "debt_to_equity": 63.478,
     "revenue": 20702846976,
@@ -16,6 +16,6 @@
     "eps": 39.01,
     "52_week_high": 1081.0,
     "52_week_low": 360.0,
-    "dividend_yield": 0.82
+    "dividend_yield": 0.8
   }
 }

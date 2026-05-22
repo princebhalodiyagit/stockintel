@@ -1,14 +1,14 @@
 {
   "ticker": "FCL",
-  "collected_at": "2026-05-21 05:11:45",
+  "collected_at": "2026-05-22 05:51:07",
   "company_info": {
     "name": "Fineotex Chemical Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals",
-    "market_cap": 37764763648,
-    "current_price": 32.43,
-    "pe_ratio": 36.852272,
-    "pb_ratio": 3.0568385,
+    "market_cap": 37555150848,
+    "current_price": 32.25,
+    "pe_ratio": 36.647728,
+    "pb_ratio": 3.0398717,
     "roe": 0.14895001,
     "debt_to_equity": 0.872,
     "revenue": 8052956160,
@@ -16,6 +16,6 @@
     "eps": 0.88,
     "52_week_high": 35.8,
     "52_week_low": 19.1,
-    "dividend_yield": 0.47
+    "dividend_yield": 0.51
   }
 }

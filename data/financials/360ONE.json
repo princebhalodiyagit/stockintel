@@ -1,14 +1,14 @@
 {
   "ticker": "360ONE",
-  "collected_at": "2026-05-21 05:01:32",
+  "collected_at": "2026-05-22 05:37:58",
   "company_info": {
     "name": "360 One Wam Limited",
     "sector": "Financial Services",
     "industry": "Asset Management",
-    "market_cap": 455578877952,
-    "current_price": 1121.3,
-    "pe_ratio": 38.348156,
-    "pb_ratio": 4.6232886,
+    "market_cap": 450053210112,
+    "current_price": 1107.7,
+    "pe_ratio": 37.883034,
+    "pb_ratio": 4.567213,
     "roe": 0.14392,
     "debt_to_equity": 161.977,
     "revenue": 44772601856,
@@ -16,6 +16,6 @@
     "eps": 29.24,
     "52_week_high": 1273.8,
     "52_week_low": 906.05,
-    "dividend_yield": 1.63
+    "dividend_yield": 1.62
   }
 }
