@@ -1,7 +1,7 @@
 {
   "ticker": "ULTRACEMCO",
   "company": "UltraTech Cement Limited",
-  "collected_at": "2026-05-22 06:19:31",
+  "collected_at": "2026-05-23 05:35:27",
   "directors": [
     {
       "name": "Mr. Kailash Chandra Jhanwar B.Com, C.S (Inter), FCA",
@@ -9,13 +9,6 @@
       "age": 68,
       "year_born": 1957,
       "total_pay": 230306380
-    },
-    {
-      "name": "Mr. Atul  Daga",
-      "role": "Chief Financial Officer",
-      "age": 60,
-      "year_born": 1965,
-      "total_pay": 31657799
     },
     {
       "name": "Mr. Vivek  Agrawal B.Tech., M.B.A.",
@@ -71,6 +64,13 @@
       "role": "Group Executive President of Corporate Communication & CSR",
       "age": 80,
       "year_born": 1945,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Chandrashekhar  Chavan",
+      "role": "Chief Human Resources Officer",
+      "age": 53,
+      "year_born": 1972,
       "total_pay": "N/A"
     }
   ]

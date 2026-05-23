@@ -1,15 +1,8 @@
 {
   "ticker": "SAIL",
   "company": "Steel Authority of India Limited",
-  "collected_at": "2026-05-22 06:12:00",
+  "collected_at": "2026-05-23 05:29:16",
   "directors": [
-    {
-      "name": "Mr. Krishna Kumar Singh",
-      "role": "MD, Director of Personnel & Executive Chairman",
-      "age": 58,
-      "year_born": 1967,
-      "total_pay": 8527088
-    },
     {
       "name": "Mr. Alok  Verma",
       "role": "Director In-charge of Rourkela Steel Plant & Whole Time Director",
@@ -69,6 +62,13 @@
     {
       "name": "Ms. Sunita  Singh",
       "role": "Chief General Manager of PP & C",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Atish Chandra Sarkar",
+      "role": "Chief General Manager of In-Charge Services",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

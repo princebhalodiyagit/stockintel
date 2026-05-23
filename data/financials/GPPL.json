@@ -1,14 +1,14 @@
 {
   "ticker": "GPPL",
-  "collected_at": "2026-05-22 05:53:22",
+  "collected_at": "2026-05-23 05:13:51",
   "company_info": {
     "name": "Gujarat Pipavav Port Limited",
     "sector": "Industrials",
     "industry": "Marine Shipping",
-    "market_cap": 73922207744,
-    "current_price": 152.85,
-    "pe_ratio": 15.239284,
-    "pb_ratio": 3.0851989,
+    "market_cap": 73636864000,
+    "current_price": 152.26,
+    "pe_ratio": 15.180458,
+    "pb_ratio": 3.0732899,
     "roe": "N/A",
     "debt_to_equity": 2.111,
     "revenue": 10979120128,
@@ -16,6 +16,6 @@
     "eps": 10.03,
     "52_week_high": 200.09,
     "52_week_low": 141.55,
-    "dividend_yield": 7.03
+    "dividend_yield": 7.09
   }
 }

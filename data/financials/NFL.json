@@ -1,14 +1,14 @@
 {
   "ticker": "NFL",
-  "collected_at": "2026-05-22 06:05:38",
+  "collected_at": "2026-05-23 05:23:55",
   "company_info": {
     "name": "National Fertilizers Limited",
     "sector": "Basic Materials",
     "industry": "Agricultural Inputs",
-    "market_cap": 37617553408,
-    "current_price": 76.68,
-    "pe_ratio": 19.314861,
-    "pb_ratio": 1.4667737,
+    "market_cap": 37465473024,
+    "current_price": 76.37,
+    "pe_ratio": 19.236776,
+    "pb_ratio": 1.460844,
     "roe": "N/A",
     "debt_to_equity": 176.918,
     "revenue": 216234999808,
@@ -16,6 +16,6 @@
     "eps": 3.97,
     "52_week_high": 112.2,
     "52_week_low": 63.35,
-    "dividend_yield": 2.08
+    "dividend_yield": 2.04
   }
 }

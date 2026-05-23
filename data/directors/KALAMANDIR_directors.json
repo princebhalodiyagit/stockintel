@@ -1,15 +1,8 @@
 {
   "ticker": "KALAMANDIR",
   "company": "Sai Silks (Kalamandir) Limited",
-  "collected_at": "2026-05-22 05:59:17",
+  "collected_at": "2026-05-23 05:18:38",
   "directors": [
-    {
-      "name": "Mr. Chalavadi Naga Kanaka Durga Prasad",
-      "role": "MD & Director",
-      "age": 56,
-      "year_born": 1969,
-      "total_pay": 50000000
-    },
     {
       "name": "Mr. Konduri Venkata Lakshmi Narasimha Sarma",
       "role": "Chief Financial Officer",
@@ -25,41 +18,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Annam Kalyan Srinivas",
-      "role": "Whole Time Director",
-      "age": 51,
-      "year_born": 1974,
-      "total_pay": 19900000
-    },
-    {
-      "name": "Mr. Chalavadi Doodeswara Kanaka Durga Rao",
-      "role": "Whole Time Director",
-      "age": 55,
-      "year_born": 1970,
-      "total_pay": 3900000
-    },
-    {
-      "name": "Mr. Annam Venkata Rajesh",
-      "role": "Senior Vice President of Business Operations",
-      "age": 45,
-      "year_born": 1980,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Chakradhar  Boorlagadda",
-      "role": "Head of Sourcing & Strategy",
-      "age": 49,
-      "year_born": 1976,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Rachamadugu Balaji Bharadwaj",
-      "role": "Senior Vice President (IT & E-Commerce)",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Sunil  Tammana",
       "role": "General Manager of Admin",
       "age": 53,
@@ -72,6 +30,20 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 1000000
+    },
+    {
+      "name": "Ms. Kalpana L. Dhulipudi",
+      "role": "Manager of Human Resources",
+      "age": 40,
+      "year_born": 1985,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Boorlagadda Harish Kumar",
+      "role": "Head of Operations for Bengaluru",
+      "age": 44,
+      "year_born": 1981,
+      "total_pay": "N/A"
     }
   ]
 }

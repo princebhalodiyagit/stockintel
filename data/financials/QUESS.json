@@ -1,14 +1,14 @@
 {
   "ticker": "QUESS",
-  "collected_at": "2026-05-22 06:09:43",
+  "collected_at": "2026-05-23 05:27:18",
   "company_info": {
     "name": "Quess Corp Limited",
     "sector": "Industrials",
     "industry": "Staffing & Employment Services",
-    "market_cap": 30429272064,
-    "current_price": 203.77,
-    "pe_ratio": 13.7311325,
-    "pb_ratio": 2.6055212,
+    "market_cap": 30275461120,
+    "current_price": 202.74,
+    "pe_ratio": 13.661725,
+    "pb_ratio": 2.5923512,
     "roe": 0.19714001,
     "debt_to_equity": 10.656,
     "revenue": 153051873280,
@@ -16,6 +16,6 @@
     "eps": 14.84,
     "52_week_high": 335.15,
     "52_week_low": 166.3,
-    "dividend_yield": 4.96
+    "dividend_yield": 4.93
   }
 }
