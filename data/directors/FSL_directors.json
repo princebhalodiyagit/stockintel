@@ -1,7 +1,7 @@
 {
   "ticker": "FSL",
   "company": "Firstsource Solutions Limited",
-  "collected_at": "2026-05-23 05:12:31",
+  "collected_at": "2026-05-24 05:44:59",
   "directors": [
     {
       "name": "Mr. Ritesh Mohan Idnani",
@@ -51,6 +51,27 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 2910000
+    },
+    {
+      "name": "Madhavi  Behl",
+      "role": "VP of Corporate Communications",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Aniket  Maindarkar",
+      "role": "Chief Marketing Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Shamita  Mukherjee",
+      "role": "Chief Human Resources Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

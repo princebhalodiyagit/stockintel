@@ -1,7 +1,7 @@
 {
   "ticker": "SURYAROSNI",
   "company": "Surya Roshni Limited",
-  "collected_at": "2026-05-23 05:33:06",
+  "collected_at": "2026-05-24 06:05:26",
   "directors": [
     {
       "name": "Mr. Jai Prakash Agarwal B.Com.",
@@ -46,6 +46,13 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Ms. Puja  Surya",
+      "role": "Whole time Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 14438670
+    },
+    {
       "name": "Mr. Sushil  Singhal",
       "role": "Chief General Manager of Investor Relations",
       "age": 50,
@@ -64,13 +71,6 @@
       "role": "Sr. Vice President of CL",
       "age": 47,
       "year_born": 1978,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Vasu Mitra Pandey",
-      "role": "COO of Lighting & CEO of Lighting",
-      "age": "N/A",
-      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

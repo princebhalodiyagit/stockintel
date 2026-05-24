@@ -1,8 +1,22 @@
 {
   "ticker": "UEL",
   "company": "Ujaas Energy Limited",
-  "collected_at": "2026-05-23 05:35:20",
+  "collected_at": "2026-05-24 06:07:43",
   "directors": [
+    {
+      "name": "Mr. Anurag Shyamsunder Mundra",
+      "role": "CFO & Wholetime Director",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": 1680000
+    },
+    {
+      "name": "Mr. Vikalp Shyamsunder Mundra",
+      "role": "Executive Director",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
     {
       "name": "Mr. Rajesh  Mehta",
       "role": "General Manager of Operations",

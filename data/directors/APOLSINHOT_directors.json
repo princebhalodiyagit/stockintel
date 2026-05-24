@@ -1,13 +1,48 @@
 {
   "ticker": "APOLSINHOT",
   "company": "Apollo Sindoori Hotels Limited",
-  "collected_at": "2026-05-23 05:04:11",
+  "collected_at": "2026-05-24 05:36:42",
   "directors": [
     {
       "name": "Ms. Sucharitha P. Reddy",
       "role": "MD & Executive Director",
       "age": 87,
       "year_born": 1938,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. M. Subramanian P. Meyyappan",
+      "role": "Chief Financial Officer",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": 3527055
+    },
+    {
+      "name": "Mr. S. T. Nithyanandam",
+      "role": "Chief Operating Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. N.  Suresh",
+      "role": "Vice President of Administration",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. N A Madhavi",
+      "role": "Company Secretary & Compliance officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Sangeeta  Bhuwalka",
+      "role": "Vice President of Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

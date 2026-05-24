@@ -1,7 +1,7 @@
 {
   "ticker": "PFC",
   "company": "Power Finance Corporation Limited",
-  "collected_at": "2026-05-23 05:25:50",
+  "collected_at": "2026-05-24 05:58:20",
   "directors": [
     {
       "name": "Ms. Parminder  Chopra",
@@ -9,6 +9,55 @@
       "age": 58,
       "year_born": 1967,
       "total_pay": 9100573
+    },
+    {
+      "name": "Mr. Manoj  Sharma",
+      "role": "Director of Commercial & Director",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": 8661666
+    },
+    {
+      "name": "Mr. Rajesh Kumar Agarwal",
+      "role": "Director of Finance & Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pawan  Kumar",
+      "role": "Executive Director & Chief Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "S. S. Rao",
+      "role": "Head of The Public Relations Department",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Milind Madhusudan Dafade",
+      "role": "Head of Internal Audit & Chief General Manager",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Vinita  Narera",
+      "role": "Chief Vigilance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manish Kumar Agarwal",
+      "role": "GM & Company Secretary",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

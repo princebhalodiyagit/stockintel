@@ -1,7 +1,7 @@
 {
   "ticker": "SYSTMTXC",
   "company": "Systematix Corporate Services Limited",
-  "collected_at": "2026-05-23 05:33:23",
+  "collected_at": "2026-05-24 06:05:44",
   "directors": [
     {
       "name": "Mr. Nikhil  Khandelwal",
@@ -30,6 +30,48 @@
       "age": 40,
       "year_born": 1985,
       "total_pay": 1330000
+    },
+    {
+      "name": "Ms. Rupam Lal Das",
+      "role": "Joint Managing Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ankur  Rajoria",
+      "role": "Director of Investment Banking",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Mitali  Chitnis",
+      "role": "Group Chief HR Officer & Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Amit  Kumar",
+      "role": "Director & Head of Merchant Banking",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Partha  Sengupta",
+      "role": "Joint Managing Director & CEO - Private Wealth Business",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Bhaskar  Hazra",
+      "role": "Joint Managing Director & CEO - Private Wealth Business",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

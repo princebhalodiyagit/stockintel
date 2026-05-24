@@ -1,7 +1,7 @@
 {
   "ticker": "TRAVELFOOD",
   "company": "Travel Food Services Limited",
-  "collected_at": "2026-05-23 05:34:56",
+  "collected_at": "2026-05-24 06:07:16",
   "directors": [
     {
       "name": "Mr. Varun  Kapur",
@@ -27,6 +27,41 @@
     {
       "name": "Ms. Neeta Arvind Singh",
       "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Karan  Kapur",
+      "role": "Non-Executive Director",
+      "age": 38,
+      "year_born": 1987,
+      "total_pay": 700000
+    },
+    {
+      "name": "Mr. Venu Madhav Singaraju",
+      "role": "Vice President of Information Technology",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Darpan Sevanti Mehta",
+      "role": "Vice President of Business Development",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manish Jitendra Thakkar",
+      "role": "Head of Supply Chain & Procurement",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajeev Girdhar Panjwani",
+      "role": "Head of ARAYA Lounges",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

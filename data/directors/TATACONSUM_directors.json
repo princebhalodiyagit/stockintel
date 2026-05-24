@@ -1,7 +1,7 @@
 {
   "ticker": "TATACONSUM",
   "company": "TATA CONSUMER PRODUCTS LIMITED",
-  "collected_at": "2026-05-23 05:33:39",
+  "collected_at": "2026-05-24 06:05:59",
   "directors": [
     {
       "name": "Mr. Sunil Alaric D'Souza",
@@ -23,6 +23,13 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 7409000
+    },
+    {
+      "name": "Mr. Sivakumar  Sivasankaran",
+      "role": "Senior VP & Group Finance Controller & CFO of India",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 23425000
     },
     {
       "name": "Mr. Punit  Gupta",
@@ -64,13 +71,6 @@
       "role": "Global CHRO & Sustainability Officer",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Upendra  Raina",
-      "role": "Head of Global Projects",
-      "age": 66,
-      "year_born": 1959,
       "total_pay": "N/A"
     }
   ]

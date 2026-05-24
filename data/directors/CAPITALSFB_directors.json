@@ -1,7 +1,7 @@
 {
   "ticker": "CAPITALSFB",
   "company": "Capital Small Finance Bank Limited",
-  "collected_at": "2026-05-23 05:07:47",
+  "collected_at": "2026-05-24 05:40:17",
   "directors": [
     {
       "name": "Mr. Sarvjit Singh Samra",
@@ -53,11 +53,25 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Sahil  Vijay",
-      "role": "Chief Treasury Officer",
+      "name": "Mr. Raghav  Aggarwal",
+      "role": "Chief Credit Officer (Branch Banking)",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": 12139313
+      "total_pay": 2490000
+    },
+    {
+      "name": "Mr. Anuraj K. Bhardwaj",
+      "role": "Chief Credit Officer (Alternate Banking)",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kamal  Tandon",
+      "role": "Regional Business Head",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

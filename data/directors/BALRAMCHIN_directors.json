@@ -1,7 +1,7 @@
 {
   "ticker": "BALRAMCHIN",
   "company": "Balrampur Chini Mills Limited",
-  "collected_at": "2026-05-23 05:05:56",
+  "collected_at": "2026-05-24 05:38:27",
   "directors": [
     {
       "name": "Mr. Vivek K. Saraogi",
@@ -23,6 +23,13 @@
       "age": 34,
       "year_born": 1991,
       "total_pay": 6944000
+    },
+    {
+      "name": "Mr. Pramod  Patwari",
+      "role": "Senior General Manager of Finance & Accounts",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Vinay  Khanna",
@@ -64,13 +71,6 @@
       "role": "President of Taxation & Strategy",
       "age": 52,
       "year_born": 1973,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Rama Shanker Prasad",
-      "role": "Unit Head of Tulsipur",
-      "age": "N/A",
-      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

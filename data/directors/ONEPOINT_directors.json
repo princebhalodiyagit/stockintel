@@ -1,7 +1,7 @@
 {
   "ticker": "ONEPOINT",
   "company": "One Point One Solutions Limited",
-  "collected_at": "2026-05-23 05:24:55",
+  "collected_at": "2026-05-24 05:57:25",
   "directors": [
     {
       "name": "Mr. Akshay  Chhabra",
@@ -16,6 +16,20 @@
       "age": 48,
       "year_born": 1977,
       "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pritesh Sanjay Sonawane",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 38,
+      "year_born": 1987,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Akashanand Arun Karnik",
+      "role": "Whole-Time Director & CEO of Global Business",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": 10000395
     },
     {
       "name": "Mr. Nitin  Mahajan",
@@ -39,6 +53,13 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Ms. Khyati  Shah",
+      "role": "Head of Marketing & Corporate Communications",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Manish  Maniar",
       "role": "Chief Sales Officer of India",
       "age": "N/A",
@@ -48,27 +69,6 @@
     {
       "name": "Mr. Tony Jacob Joseph",
       "role": "Chief Human Resources Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Abhijeet  Dutta",
-      "role": "National Head BFS",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ms. Sridevi  C.P",
-      "role": "Head of Quality & Process Excellence",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Vikas  Talikoti",
-      "role": "National Head of Insurance",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

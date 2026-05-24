@@ -1,7 +1,7 @@
 {
   "ticker": "AFSL",
   "company": "Abans Financial Services Limited",
-  "collected_at": "2026-05-23 05:02:56",
+  "collected_at": "2026-05-24 05:35:27",
   "directors": [
     {
       "name": "Mr. Chintan  Mehta",
@@ -9,6 +9,69 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 30000000
+    },
+    {
+      "name": "Mr. Abhishek Pradeepkumar Bansal",
+      "role": "Chairman & MD",
+      "age": 38,
+      "year_born": 1987,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Saurav  Garg",
+      "role": "Head of Global Operations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Bhavik  Thakkar",
+      "role": "Head of Investment Management",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Dhrumil  Shah",
+      "role": "Vice President of Accounts & Compliance",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Shivshankar  Singh",
+      "role": "EVP & Chief Technology Officer & Information Technology",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Bhargavi  Halapeti",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Gaurav  Verma",
+      "role": "Head of Human Resource",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mahesh Kumar Cheruveedu",
+      "role": "Head of Banking Services",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mayank  Mundhra",
+      "role": "Head of Risk Management",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

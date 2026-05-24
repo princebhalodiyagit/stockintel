@@ -1,7 +1,7 @@
 {
   "ticker": "NFL",
   "company": "National Fertilizers Limited",
-  "collected_at": "2026-05-23 05:23:55",
+  "collected_at": "2026-05-24 05:56:25",
   "directors": [
     {
       "name": "Dr. U.  Saravanan",
@@ -9,6 +9,69 @@
       "age": 58,
       "year_born": 1967,
       "total_pay": 6464000
+    },
+    {
+      "name": "Mr. Ashok  Jha",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": 3119000
+    },
+    {
+      "name": "Mr. Mahesh Chander Gupta",
+      "role": "Director of Marketing & Director",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": 5426225
+    },
+    {
+      "name": "Mr. Arvind  Kumar",
+      "role": "Director of Finance & Director",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. J.  Ramesh",
+      "role": "Executive Director of Finance & Accounting",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. B. V. Vittal",
+      "role": "Executive Director of Human Resources & Chief GM of Human Resources",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anil  Motsara",
+      "role": "Executive Director of Information Technology",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vinay Kumar Gupta",
+      "role": "Executive Director & Head of Vijaipur Unit",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Tarun Kumar Batra",
+      "role": "Chief General Manager & Head of Bathinda Unit",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Megh Nath Goyal",
+      "role": "Director-Technical, Executive Director & Head of Nangal Unit",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

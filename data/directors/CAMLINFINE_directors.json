@@ -1,7 +1,7 @@
 {
   "ticker": "CAMLINFINE",
   "company": "Camlin Fine Sciences Limited",
-  "collected_at": "2026-05-23 05:07:38",
+  "collected_at": "2026-05-24 05:40:08",
   "directors": [
     {
       "name": "Mr. Ashish Subhash Dandekar",
@@ -9,6 +9,13 @@
       "age": 61,
       "year_born": 1964,
       "total_pay": 28216000
+    },
+    {
+      "name": "Mr. Nirmal Vinod Momaya",
+      "role": "MD & Director",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": 24556000
     },
     {
       "name": "Mr. Arjun Sudhakar Dukane",

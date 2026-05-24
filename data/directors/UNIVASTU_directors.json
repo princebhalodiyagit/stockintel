@@ -1,7 +1,7 @@
 {
   "ticker": "UNIVASTU",
   "company": "Univastu India Limited",
-  "collected_at": "2026-05-23 05:35:41",
+  "collected_at": "2026-05-24 06:08:04",
   "directors": [
     {
       "name": "Mr. Pradeep Kishan Khandagale",
@@ -30,6 +30,20 @@
       "age": 66,
       "year_born": 1959,
       "total_pay": 2400000
+    },
+    {
+      "name": "Brigadier Pravin  Shinde",
+      "role": "Chief Operating Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Chetan  Bhutada",
+      "role": "General Manager - Accounts",
+      "age": 39,
+      "year_born": 1986,
+      "total_pay": "N/A"
     }
   ]
 }

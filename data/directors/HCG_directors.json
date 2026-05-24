@@ -1,27 +1,76 @@
 {
   "ticker": "HCG",
   "company": "Healthcare Global Enterprises Limited",
-  "collected_at": "2026-05-23 05:14:49",
+  "collected_at": "2026-05-24 05:47:18",
   "directors": [
     {
-      "name": "Shailesh  Guntu",
-      "role": "CEO of Milann & Director of Healthcare Services-HCG",
-      "age": 39,
-      "year_born": 1986,
-      "total_pay": "N/A"
+      "name": "Ms. Sunu Manuel Abey",
+      "role": "Compliance Officer & Company Secretary",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 5840000
     },
     {
-      "name": "Mr. Lakshman  TL",
-      "role": "CEO of Milann Fertility & Birthing Hospitals",
+      "name": "Dr. Manish  Mattoo",
+      "role": "CEO, Interim CFO & Executive Director",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. A.  Sadasivam",
-      "role": "Executive Director of Operations",
-      "age": 69,
-      "year_born": 1956,
+      "name": "V.  Venkataramanan",
+      "role": "Senior Vice President of Finance & Accounts",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pankaj  Gautam",
+      "role": "Chief Technology & Security Officer and Chief Information Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Romiya  Das",
+      "role": "Public Relation Manager",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ashutosh  Kumar",
+      "role": "Vice President of Strategic Planning & Corporate Development",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manu Shankar Das",
+      "role": "Chief Marketing Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Deepti Gautam Tewari",
+      "role": "Chief Human Resource Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Naveen Ramachandra Nagar",
+      "role": "Head of Clinical Strategy",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Surinder  Dang",
+      "role": "Chief Operating Officer of Regional",
+      "age": 59,
+      "year_born": 1966,
       "total_pay": "N/A"
     }
   ]

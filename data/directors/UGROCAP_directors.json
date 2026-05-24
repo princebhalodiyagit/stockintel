@@ -1,8 +1,15 @@
 {
   "ticker": "UGROCAP",
   "company": "Ugro Capital Limited",
-  "collected_at": "2026-05-23 05:35:25",
+  "collected_at": "2026-05-24 06:07:48",
   "directors": [
+    {
+      "name": "Mr. Anuj  Pandey",
+      "role": "Chief Executive Officer",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": 28052000
+    },
     {
       "name": "Mr. Shachindra  Nath",
       "role": "Founder, Vice Chairman & MD",
@@ -27,6 +34,41 @@
     {
       "name": "Mr. Satyabrata  Mohapatra",
       "role": "Chief Operations Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rahul  Sekar",
+      "role": "Chief Technology & Product Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Ritu Prakash Singh",
+      "role": "Senior Economist & Head of Investor Relations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sunil  Lotke",
+      "role": "Chief Legal & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Harsh  Shah",
+      "role": "Head of Marketing & Corporate Communications",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Rajni  Khurana",
+      "role": "Chief People Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

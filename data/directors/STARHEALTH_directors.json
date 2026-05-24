@@ -1,7 +1,7 @@
 {
   "ticker": "STARHEALTH",
   "company": "Star Health and Allied Insurance Company Limited",
-  "collected_at": "2026-05-23 05:32:16",
+  "collected_at": "2026-05-24 06:04:36",
   "directors": [
     {
       "name": "Mr. Anand Shankar Roy",
@@ -9,6 +9,13 @@
       "age": 50,
       "year_born": 1975,
       "total_pay": 91900000
+    },
+    {
+      "name": "Mr. Nilesh Ashok Kambli",
+      "role": "Chief Financial Officer",
+      "age": 44,
+      "year_born": 1981,
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Aneesh  Srivastava",
@@ -64,13 +71,6 @@
       "role": "Chief Human Resources Officer",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Pradipta  Chandra Tripathy",
-      "role": "Senior Vice President",
-      "age": 74,
-      "year_born": 1951,
       "total_pay": "N/A"
     }
   ]

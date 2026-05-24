@@ -1,7 +1,7 @@
 {
   "ticker": "KFINTECH",
   "company": "Kfin Technologies Limited",
-  "collected_at": "2026-05-23 05:19:05",
+  "collected_at": "2026-05-24 05:51:35",
   "directors": [
     {
       "name": "Mr. Venkata Satya Naga Sreekanth Nadella",
@@ -20,6 +20,13 @@
     {
       "name": "Mr. Nazish Hussain Mir",
       "role": "Chief Technology Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ram  Gattani",
+      "role": "Head of Investor Relations",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
@@ -62,13 +69,6 @@
     {
       "name": "Ms. Hanisha  Vadlamani",
       "role": "Chief Branding Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Senthil  Gunasekaran",
-      "role": "Chief Business Development Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

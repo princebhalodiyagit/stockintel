@@ -1,7 +1,7 @@
 {
   "ticker": "CNL",
   "company": "Creative Newtech Limited",
-  "collected_at": "2026-05-23 05:08:40",
+  "collected_at": "2026-05-24 05:41:11",
   "directors": [
     {
       "name": "Mr. Ketan Chhaganlal Patel",
@@ -22,6 +22,34 @@
       "role": "Company Secretary & Compliance Officer",
       "age": 37,
       "year_born": 1988,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ajit  Thakur",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Upendra  Singh",
+      "role": "Vice President of Sales",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Nidhi  Patel",
+      "role": "Head of Strategy & Business Transformation",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Surya  Narayanen",
+      "role": "Head of Strategy",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

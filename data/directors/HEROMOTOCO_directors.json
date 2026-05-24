@@ -1,7 +1,7 @@
 {
   "ticker": "HEROMOTOCO",
   "company": "Hero MotoCorp Limited",
-  "collected_at": "2026-05-23 05:15:05",
+  "collected_at": "2026-05-24 05:47:34",
   "directors": [
     {
       "name": "Dr. Pawan Kant Munjal B.E. (Mech.)",
@@ -15,6 +15,27 @@
       "role": "Chief Financial Officer",
       "age": 56,
       "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Harshavardhan Madhav Chitale",
+      "role": "Chief Executive Officer",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Surender Kumar Chhabra F.C.A., M.Com.",
+      "role": "Vice President of Corporate Finance",
+      "age": 69,
+      "year_born": 1956,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sachin  Agrawal",
+      "role": "Chief Technology Officer",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
@@ -50,27 +71,6 @@
       "role": "Chief Human Resources Officer",
       "age": 46,
       "year_born": 1979,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Sanjay  Bhan",
-      "role": "Executive Vice President of Global Business, Global Product Planning and Market Insights",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Rajesh  Mukhija",
-      "role": "National Head of Service & CRM and Asst. VP",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Mukesh  Goyal",
-      "role": "Deputy Head of Plant Operations",
-      "age": "N/A",
-      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

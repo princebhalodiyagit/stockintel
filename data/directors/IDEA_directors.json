@@ -1,7 +1,7 @@
 {
   "ticker": "IDEA",
   "company": "Vodafone Idea Limited",
-  "collected_at": "2026-05-23 05:15:57",
+  "collected_at": "2026-05-24 05:48:26",
   "directors": [
     {
       "name": "Mr. Abhijit  Kishore",
@@ -11,10 +11,24 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. Tejas  Mehta",
+      "role": "Chief Financial Officer",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Jagbir  Singh M.Sc., MBA",
       "role": "Chief Technology Officer",
       "age": 60,
       "year_born": 1965,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pankaj  Kapdeo",
+      "role": "General Counsel, Company Secretary & Compliance Officer",
+      "age": 59,
+      "year_born": 1966,
       "total_pay": "N/A"
     },
     {
@@ -43,6 +57,20 @@
       "role": "Chief Operating Officer of Andhra Pradesh",
       "age": 66,
       "year_born": 1959,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajesh  Naik",
+      "role": "Chief Operating Officer of Madhya Pradesh & Chattisgarh",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajinder  Singh",
+      "role": "Executive Vice President",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

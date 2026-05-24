@@ -1,7 +1,7 @@
 {
   "ticker": "STYLEBAAZA",
   "company": "Baazar Style Retail Limited",
-  "collected_at": "2026-05-23 05:32:31",
+  "collected_at": "2026-05-24 06:04:51",
   "directors": [
     {
       "name": "Mr. Rohit  Kedia",
@@ -25,6 +25,13 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. Abinash  Singh",
+      "role": "Head of Legal & Compliance, Grievance Officer, Chief Compliance Officer and Company Secretary",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Bhagwan  Prasad",
       "role": "Whole Time Director",
       "age": 54,
@@ -43,6 +50,27 @@
       "role": "Chief Marketing Officer",
       "age": 36,
       "year_born": 1989,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Avishek  Prasad",
+      "role": "Head of General Merchandise",
+      "age": 30,
+      "year_born": 1995,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Dipti  Agarwal",
+      "role": "Chief Risk Officer",
+      "age": 37,
+      "year_born": 1988,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pradeep  Jajoria",
+      "role": "Head of Category Planning",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

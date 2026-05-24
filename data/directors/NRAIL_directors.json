@@ -1,7 +1,7 @@
 {
   "ticker": "NRAIL",
   "company": "N R Agarwal Industries Limited",
-  "collected_at": "2026-05-23 05:24:28",
+  "collected_at": "2026-05-24 05:56:58",
   "directors": [
     {
       "name": "Mr. Rajendra Nagin Agarwal BE-Electrical, MBA",
@@ -9,6 +9,13 @@
       "age": 65,
       "year_born": 1960,
       "total_pay": 57354727
+    },
+    {
+      "name": "Mr. Rohan Rajendra Agarwal",
+      "role": "CEO, COO & GM of Marketing, Deputy MD and Director",
+      "age": 33,
+      "year_born": 1992,
+      "total_pay": 24453508
     },
     {
       "name": "Mr. Praveen Kumar Mundra C.S.",
@@ -29,6 +36,13 @@
       "role": "Whole Time Director",
       "age": 58,
       "year_born": 1967,
+      "total_pay": 24453508
+    },
+    {
+      "name": "Mr. Raunak Rajendra Agarwal",
+      "role": "Deputy MD & Director",
+      "age": 37,
+      "year_born": 1988,
       "total_pay": 24453508
     },
     {
@@ -55,13 +69,6 @@
     {
       "name": "Mr. Joshua  Madhuker",
       "role": "President of Corporate Affairs",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Aditya  Sharma",
-      "role": "Vice President of Sales & Marketing (Writing & Printing)",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

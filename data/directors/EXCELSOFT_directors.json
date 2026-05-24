@@ -1,7 +1,7 @@
 {
   "ticker": "EXCELSOFT",
   "company": "Excelsoft Technologies Limited",
-  "collected_at": "2026-05-23 05:11:54",
+  "collected_at": "2026-05-24 05:44:23",
   "directors": [
     {
       "name": "Mr. Dhananjaya  Sudhanva",
@@ -43,6 +43,13 @@
       "role": "Chief Sales Officer",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Shruthi  Sudhanva",
+      "role": "Chief People Officer & Executive Director",
+      "age": 35,
+      "year_born": 1990,
       "total_pay": "N/A"
     },
     {

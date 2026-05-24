@@ -1,7 +1,7 @@
 {
   "ticker": "CROWN",
   "company": "Crown Lifters Limited",
-  "collected_at": "2026-05-23 05:09:14",
+  "collected_at": "2026-05-24 05:41:45",
   "directors": [
     {
       "name": "Mr. Karim Kamruddin Jaria",
@@ -9,6 +9,13 @@
       "age": 50,
       "year_born": 1975,
       "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Nizar Nooruddin Rajwani",
+      "role": "Chief Financial Officer & Director",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": 8000
     },
     {
       "name": "Ms. Pooja Baban Shirke",

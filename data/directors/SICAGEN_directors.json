@@ -1,15 +1,8 @@
 {
   "ticker": "SICAGEN",
   "company": "Sicagen India Limited",
-  "collected_at": "2026-05-23 05:31:02",
+  "collected_at": "2026-05-24 06:03:20",
   "directors": [
-    {
-      "name": "Mr. Nandakumar  Varma",
-      "role": "VP & Whole-Time Director",
-      "age": 56,
-      "year_born": 1969,
-      "total_pay": 5218000
-    },
     {
       "name": "Ms. Ankita  Jain",
       "role": "Company Secretary & Compliance Officer",
@@ -71,6 +64,13 @@
       "role": "Branch Sales Manager",
       "age": 52,
       "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Kotasthane Kedar Dinesh",
+      "role": "Manager",
+      "age": 40,
+      "year_born": 1985,
       "total_pay": "N/A"
     }
   ]

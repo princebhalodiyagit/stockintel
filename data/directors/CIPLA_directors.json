@@ -1,13 +1,20 @@
 {
   "ticker": "CIPLA",
   "company": "Cipla Limited",
-  "collected_at": "2026-05-23 05:08:34",
+  "collected_at": "2026-05-24 05:41:05",
   "directors": [
     {
       "name": "Mr. Achin  Gupta",
       "role": "MD, Global CEO & Additional Director",
       "age": 49,
       "year_born": 1976,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sushrut  Kulkarni",
+      "role": "President & Global Chief Integrated Product Development and Member of the Management Council",
+      "age": 55,
+      "year_born": 1970,
       "total_pay": "N/A"
     },
     {
@@ -20,6 +27,48 @@
     {
       "name": "Mr. Dinesh Ramniranjan Jain",
       "role": "Senior VP & Head of Corporate Finance",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pradeep  Bhadauria",
+      "role": "Global Chief Scientific Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Sneha  Hiranandani B Com",
+      "role": "Chief Information Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Diksha  Maheshwari",
+      "role": "Head of Investor Relations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajendra Kumar Chopra",
+      "role": "Compliance Officer & Company Secretary",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 15300000
+    },
+    {
+      "name": "Ms. Meera  Vanjari",
+      "role": "Global General Counsel",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Heena  Kanal",
+      "role": "Senior Vice-President of Corporate Communications",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

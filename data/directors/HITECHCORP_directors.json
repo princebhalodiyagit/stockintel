@@ -1,7 +1,7 @@
 {
   "ticker": "HITECHCORP",
   "company": "Hitech Corporation Limited",
-  "collected_at": "2026-05-23 05:15:27",
+  "collected_at": "2026-05-24 05:47:55",
   "directors": [
     {
       "name": "Mr. Malav Ashwin Dani",
@@ -16,6 +16,48 @@
       "age": 58,
       "year_born": 1967,
       "total_pay": 4269088
+    },
+    {
+      "name": "Mr. Ravi G. Balasubramanian",
+      "role": "President",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Mugdha Amol Khare",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. V.S.R.  Anjaneyulu",
+      "role": "Vice President of Technology Centre",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Raghavendra  Prasad",
+      "role": "General Manager of HR & IR",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Hetali Harish Mehta",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 31,
+      "year_born": 1994,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Amit  Arvindkumar Panchal",
+      "role": "Head of Operations All Plant",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

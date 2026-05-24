@@ -1,8 +1,15 @@
 {
   "ticker": "STANLEY",
   "company": "Stanley Lifestyles Limited",
-  "collected_at": "2026-05-23 05:32:13",
+  "collected_at": "2026-05-24 06:04:33",
   "directors": [
+    {
+      "name": "Mr. Sunil  Suresh",
+      "role": "MD & Chairman",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": 19000000
+    },
     {
       "name": "Ms. Shubha  Sunil",
       "role": "Whole Time Director",

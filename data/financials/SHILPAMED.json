@@ -1,6 +1,6 @@
 {
   "ticker": "SHILPAMED",
-  "collected_at": "2026-05-23 05:30:39",
+  "collected_at": "2026-05-24 06:02:59",
   "company_info": {
     "name": "Shilpa Medicare Limited",
     "sector": "Healthcare",
@@ -9,13 +9,13 @@
     "current_price": 490.25,
     "pe_ratio": 39.37751,
     "pb_ratio": 3.9396179,
-    "roe": "N/A",
-    "debt_to_equity": 24.328,
-    "revenue": 14334576640,
-    "net_income": 1500436992,
+    "roe": 0.09822,
+    "debt_to_equity": 25.465,
+    "revenue": 15487099904,
+    "net_income": 2433299968,
     "eps": 12.45,
     "52_week_high": 518.55,
     "52_week_low": 259.5,
-    "dividend_yield": 0.11
+    "dividend_yield": 0.1
   }
 }

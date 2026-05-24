@@ -1,8 +1,15 @@
 {
   "ticker": "HAL",
   "company": "Hindustan Aeronautics Limited",
-  "collected_at": "2026-05-23 05:14:33",
+  "collected_at": "2026-05-24 05:47:01",
   "directors": [
+    {
+      "name": "Dr. Barenya  Senapati",
+      "role": "CFO, Director of Finance & Director",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": 5200000
+    },
     {
       "name": "Mr. K.  Ravi",
       "role": "Director of Operations & Director",
@@ -62,13 +69,6 @@
     {
       "name": "Mr. R. V. Huliraj",
       "role": "Chief Designer of ARDL",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Jayakrishnan  S. B.Tech.",
-      "role": "Chief Executive Officer of Bangalore Complex",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

@@ -1,8 +1,15 @@
 {
   "ticker": "UNITDSPR",
   "company": "United Spirits Limited",
-  "collected_at": "2026-05-23 05:35:37",
+  "collected_at": "2026-05-24 06:08:00",
   "directors": [
+    {
+      "name": "Mr. Praveen  Someshwar",
+      "role": "MD, CEO & Director",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
+    },
     {
       "name": "Mr. Pradeep  Jain",
       "role": "CFO & Executive Whole-time Director",
@@ -64,13 +71,6 @@
       "role": "Interim General Counsel",
       "age": 61,
       "year_born": 1964,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Anant  Swarup",
-      "role": "Senior General Manager of Sales",
-      "age": 48,
-      "year_born": 1977,
       "total_pay": "N/A"
     }
   ]

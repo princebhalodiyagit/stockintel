@@ -1,7 +1,7 @@
 {
   "ticker": "SIS",
   "company": "SIS LIMITED",
-  "collected_at": "2026-05-23 05:31:20",
+  "collected_at": "2026-05-24 06:03:39",
   "directors": [
     {
       "name": "Mr. Rituraj Kishore Sinha",
@@ -9,6 +9,13 @@
       "age": 45,
       "year_born": 1980,
       "total_pay": 15732004
+    },
+    {
+      "name": "Mr. Arvind Kumar Prasad",
+      "role": "Whole Time Director & Director of Finance",
+      "age": 69,
+      "year_born": 1956,
+      "total_pay": 7596996
     },
     {
       "name": "Ms. PushpaLatha  Katkuri",
@@ -64,13 +71,6 @@
       "role": "Chief Executive Officer of Facility Management",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Vinod K. Advani",
-      "role": "Executive Vice President",
-      "age": 54,
-      "year_born": 1971,
       "total_pay": "N/A"
     }
   ]

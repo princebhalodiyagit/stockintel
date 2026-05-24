@@ -1,7 +1,7 @@
 {
   "ticker": "SHRADHA",
   "company": "Shradha Realty Limited",
-  "collected_at": "2026-05-23 05:30:46",
+  "collected_at": "2026-05-24 06:03:06",
   "directors": [
     {
       "name": "Mr. Nitesh Vinaykumar Sanklecha",
@@ -23,6 +23,13 @@
       "age": 70,
       "year_born": 1955,
       "total_pay": 1600000
+    },
+    {
+      "name": "Mr. Shreyas Sunil Raisoni",
+      "role": "Whole Time Director",
+      "age": 30,
+      "year_born": 1995,
+      "total_pay": "N/A"
     }
   ]
 }

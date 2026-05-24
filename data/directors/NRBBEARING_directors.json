@@ -1,7 +1,7 @@
 {
   "ticker": "NRBBEARING",
   "company": "NRB Bearing Limited",
-  "collected_at": "2026-05-23 05:24:29",
+  "collected_at": "2026-05-24 05:56:58",
   "directors": [
     {
       "name": "Ms. Harshbeena Sahney Zaveri A.B(USA), B.Com, CA, CPA",
@@ -9,6 +9,13 @@
       "age": 65,
       "year_born": 1960,
       "total_pay": 33494394
+    },
+    {
+      "name": "Dr. Vineet  Goel",
+      "role": "Chief Financial Officer",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
     },
     {
       "name": "Dr. Saravanan  Muthiah",
@@ -62,13 +69,6 @@
     {
       "name": "Dr. Shreekant  Singhi",
       "role": "Senior Vice President of Personnel",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ms. Dhara  Dhedhi",
-      "role": "Financial Controller",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

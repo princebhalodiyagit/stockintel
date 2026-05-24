@@ -1,7 +1,7 @@
 {
   "ticker": "IKIO",
   "company": "IKIO Technologies Limited",
-  "collected_at": "2026-05-23 05:16:13",
+  "collected_at": "2026-05-24 05:48:42",
   "directors": [
     {
       "name": "Mr. Sanjeet  Singh",
@@ -50,6 +50,27 @@
       "role": "Corporate Head of HR & Admin",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manoj  Chetal",
+      "role": "Plant Head of LED Lighting Division",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kozhuppakalam Gopi Siju",
+      "role": "Operation Head of LED Lighting Division",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Praveen Kumar Saini",
+      "role": "Research & Development Head",
+      "age": 39,
+      "year_born": 1986,
       "total_pay": "N/A"
     }
   ]

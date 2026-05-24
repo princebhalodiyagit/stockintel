@@ -1,7 +1,7 @@
 {
   "ticker": "MPSLTD",
   "company": "MPS Limited",
-  "collected_at": "2026-05-23 05:22:52",
+  "collected_at": "2026-05-24 05:55:22",
   "directors": [
     {
       "name": "Mr. Rahul  Arora",
@@ -62,6 +62,13 @@
     {
       "name": "Evgenyia  Grebenyuk",
       "role": "Head of Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sukhwant  Singh",
+      "role": "Chief Delivery Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

@@ -1,7 +1,7 @@
 {
   "ticker": "TEJASNET",
   "company": "Tejas Networks Limited",
-  "collected_at": "2026-05-23 05:34:03",
+  "collected_at": "2026-05-24 06:06:23",
   "directors": [
     {
       "name": "Mr. Arnob  Roy",
@@ -16,6 +16,13 @@
       "age": 59,
       "year_born": 1966,
       "total_pay": 23300000
+    },
+    {
+      "name": "Mr. AVS  Prasad",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Preetham  Uthaiah",
@@ -57,6 +64,13 @@
       "role": "Chief Strategy & Business Officer",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Vivek  Shenoy",
+      "role": "Vice President",
+      "age": 54,
+      "year_born": 1971,
       "total_pay": "N/A"
     }
   ]

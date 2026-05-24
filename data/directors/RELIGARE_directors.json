@@ -1,7 +1,7 @@
 {
   "ticker": "RELIGARE",
   "company": "Religare Enterprises Limited",
-  "collected_at": "2026-05-23 05:28:10",
+  "collected_at": "2026-05-24 06:00:34",
   "directors": [
     {
       "name": "Mr. Pratul  Gupta",
@@ -32,6 +32,13 @@
       "total_pay": 10908023
     },
     {
+      "name": "Mr. Babu Rao Priya",
+      "role": "Group General Counsel & Group Chief Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Rajiv Ranjay Sarkar",
       "role": "Senior Vice President of PR & Marketing",
       "age": "N/A",
@@ -51,6 +58,20 @@
       "age": 37,
       "year_born": 1988,
       "total_pay": 12899657
+    },
+    {
+      "name": "Mr. Arjun  Lamba",
+      "role": "Whole Time Executive Director",
+      "age": 43,
+      "year_born": 1982,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pankaj Mahesh Kumar Rathi",
+      "role": "CFO & Executive Director of Religare Housing Development Finance Corporation Limited",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }
