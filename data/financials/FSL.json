@@ -1,14 +1,14 @@
 {
   "ticker": "FSL",
-  "collected_at": "2026-05-25 06:08:05",
+  "collected_at": "2026-05-26 05:48:09",
   "company_info": {
     "name": "Firstsource Solutions Limited",
     "sector": "Technology",
     "industry": "Information Technology Services",
-    "market_cap": 193362378752,
-    "current_price": 280.09,
-    "pe_ratio": 29.298115,
-    "pb_ratio": 4.429701,
+    "market_cap": 191519129600,
+    "current_price": 277.42,
+    "pe_ratio": 29.01883,
+    "pb_ratio": 4.3874745,
     "roe": 0.159,
     "debt_to_equity": 66.635,
     "revenue": 95563939840,
@@ -16,6 +16,6 @@
     "eps": 9.56,
     "52_week_high": 403.8,
     "52_week_low": 202.0,
-    "dividend_yield": 2.05
+    "dividend_yield": 1.96
   }
 }

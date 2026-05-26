@@ -1,14 +1,14 @@
 {
   "ticker": "AEROENTER",
-  "collected_at": "2026-05-25 05:58:29",
+  "collected_at": "2026-05-26 05:38:32",
   "company_info": {
     "name": "Aeroflex Enterprises Limited",
     "sector": "Basic Materials",
     "industry": "Steel",
-    "market_cap": 11181844480,
-    "current_price": 98.88,
-    "pe_ratio": 17.408451,
-    "pb_ratio": 1.3555046,
+    "market_cap": 11127564288,
+    "current_price": 98.4,
+    "pe_ratio": 17.323944,
+    "pb_ratio": 1.3489246,
     "roe": 0.09559,
     "debt_to_equity": 4.218,
     "revenue": 7260977152,
@@ -16,6 +16,6 @@
     "eps": 5.68,
     "52_week_high": 114.8,
     "52_week_low": 62.2,
-    "dividend_yield": 0.3
+    "dividend_yield": 0.31
   }
 }

@@ -1,14 +1,14 @@
 {
   "ticker": "VEDL",
-  "collected_at": "2026-05-25 06:31:26",
+  "collected_at": "2026-05-26 06:11:22",
   "company_info": {
     "name": "Vedanta Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining",
-    "market_cap": 1298151374848,
-    "current_price": 332.5,
-    "pe_ratio": 18.520891,
-    "pb_ratio": 3.2299278,
+    "market_cap": 1350866173952,
+    "current_price": 345.95,
+    "pe_ratio": 19.27298,
+    "pb_ratio": 3.3610873,
     "roe": 0.20403999,
     "debt_to_equity": 48.044,
     "revenue": 766720016384,
@@ -16,6 +16,6 @@
     "eps": 17.95,
     "52_week_high": 795.0,
     "52_week_low": 268.7,
-    "dividend_yield": 10.3
+    "dividend_yield": 10.23
   }
 }

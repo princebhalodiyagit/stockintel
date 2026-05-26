@@ -1,7 +1,7 @@
 {
   "ticker": "GMRP&UI",
   "company": "GMR Power and Urban Infra Limited",
-  "collected_at": "2026-05-25 06:09:01",
+  "collected_at": "2026-05-26 05:49:05",
   "directors": [
     {
       "name": "Mr. Srinivas  Bommidala",
@@ -22,6 +22,20 @@
       "role": "Executive Director",
       "age": 71,
       "year_born": 1954,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Gunuputi Subba Rao",
+      "role": "Executive Director",
+      "age": 73,
+      "year_born": 1952,
+      "total_pay": 12764103
+    },
+    {
+      "name": "Mr. Vimal  Prakash",
+      "role": "Company Secretary &  Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

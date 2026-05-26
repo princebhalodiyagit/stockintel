@@ -1,14 +1,14 @@
 {
   "ticker": "JINDRILL",
-  "collected_at": "2026-05-25 06:13:31",
+  "collected_at": "2026-05-26 05:53:33",
   "company_info": {
     "name": "Jindal Drilling & Industries Limited",
     "sector": "Energy",
     "industry": "Oil & Gas Equipment & Services",
-    "market_cap": 18482698240,
-    "current_price": 637.75,
-    "pe_ratio": 7.804087,
-    "pb_ratio": 1.0153185,
+    "market_cap": 18274035712,
+    "current_price": 630.55,
+    "pe_ratio": 7.715981,
+    "pb_ratio": 1.003856,
     "roe": 0.12358,
     "debt_to_equity": 5.119,
     "revenue": 10423400448,
@@ -16,6 +16,6 @@
     "eps": 81.72,
     "52_week_high": 759.9,
     "52_week_low": 440.1,
-    "dividend_yield": 0.15
+    "dividend_yield": 0.16
   }
 }

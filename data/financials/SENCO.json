@@ -1,14 +1,14 @@
 {
   "ticker": "SENCO",
-  "collected_at": "2026-05-25 06:25:34",
+  "collected_at": "2026-05-26 06:05:33",
   "company_info": {
     "name": "Senco Gold Limited",
     "sector": "Consumer Cyclical",
     "industry": "Luxury Goods",
-    "market_cap": 58433056768,
-    "current_price": 356.65,
-    "pe_ratio": 12.143343,
-    "pb_ratio": 2.7708504,
+    "market_cap": 58023460864,
+    "current_price": 354.15,
+    "pe_ratio": 12.058222,
+    "pb_ratio": 2.7514277,
     "roe": "N/A",
     "debt_to_equity": 116.632,
     "revenue": 78110826496,
@@ -16,6 +16,6 @@
     "eps": 29.37,
     "52_week_high": 404.85,
     "52_week_low": 276.0,
-    "dividend_yield": 0.5
+    "dividend_yield": 0.49
   }
 }

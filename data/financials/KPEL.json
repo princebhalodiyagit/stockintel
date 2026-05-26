@@ -1,14 +1,14 @@
 {
   "ticker": "KPEL",
-  "collected_at": "2026-05-25 06:15:12",
+  "collected_at": "2026-05-26 05:55:14",
   "company_info": {
     "name": "K.P. Energy Limited",
     "sector": "Industrials",
     "industry": "Engineering & Construction",
-    "market_cap": 24990183424,
-    "current_price": 369.7,
-    "pe_ratio": 13.774218,
-    "pb_ratio": 4.7629476,
+    "market_cap": 25483632640,
+    "current_price": 377.0,
+    "pe_ratio": 14.0462,
+    "pb_ratio": 4.8569956,
     "roe": 0.43485,
     "debt_to_equity": 100.154,
     "revenue": 14970906624,
@@ -16,6 +16,6 @@
     "eps": 26.84,
     "52_week_high": 583.7,
     "52_week_low": 237.9,
-    "dividend_yield": 0.21
+    "dividend_yield": 0.2
   }
 }

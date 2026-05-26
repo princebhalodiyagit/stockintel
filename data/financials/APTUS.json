@@ -1,14 +1,14 @@
 {
   "ticker": "APTUS",
-  "collected_at": "2026-05-25 05:59:52",
+  "collected_at": "2026-05-26 05:39:56",
   "company_info": {
     "name": "Aptus Value Housing Finance India Limited",
     "sector": "Financial Services",
     "industry": "Mortgage Finance",
-    "market_cap": 132796973056,
-    "current_price": 265.2,
-    "pe_ratio": 14.068966,
-    "pb_ratio": 2.6200874,
+    "market_cap": 132571635712,
+    "current_price": 264.75,
+    "pe_ratio": 14.045093,
+    "pb_ratio": 2.6156414,
     "roe": 0.20113,
     "debt_to_equity": 156.2,
     "revenue": 15355290624,
@@ -16,6 +16,6 @@
     "eps": 18.85,
     "52_week_high": 364.0,
     "52_week_low": 193.03,
-    "dividend_yield": 1.92
+    "dividend_yield": 1.9
   }
 }

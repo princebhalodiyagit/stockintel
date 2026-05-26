@@ -1,21 +1,21 @@
 {
   "ticker": "ERIS",
-  "collected_at": "2026-05-25 06:07:13",
+  "collected_at": "2026-05-26 05:47:17",
   "company_info": {
     "name": "Eris Lifesciences Limited",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - Specialty & Generic",
-    "market_cap": 187647787008,
-    "current_price": 1354.2,
-    "pe_ratio": 29.900639,
-    "pb_ratio": 5.96982,
-    "roe": "N/A",
-    "debt_to_equity": 68.185,
-    "revenue": 30652000256,
-    "net_income": 4310300160,
-    "eps": 45.29,
+    "market_cap": 187329085440,
+    "current_price": 1351.9,
+    "pe_ratio": 29.902678,
+    "pb_ratio": 5.959681,
+    "roe": 0.18068,
+    "debt_to_equity": 60.545,
+    "revenue": 31148900352,
+    "net_income": 6195200000,
+    "eps": 45.21,
     "52_week_high": 1910.0,
     "52_week_low": 1200.0,
-    "dividend_yield": 0.99
+    "dividend_yield": 1.07
   }
 }

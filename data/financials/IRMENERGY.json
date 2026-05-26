@@ -1,14 +1,14 @@
 {
   "ticker": "IRMENERGY",
-  "collected_at": "2026-05-25 06:12:54",
+  "collected_at": "2026-05-26 05:52:57",
   "company_info": {
     "name": "IRM Energy Limited",
     "sector": "Utilities",
     "industry": "Utilities - Regulated Gas",
-    "market_cap": 11433067520,
-    "current_price": 278.45,
-    "pe_ratio": 21.501932,
-    "pb_ratio": 1.1773785,
+    "market_cap": 11184655360,
+    "current_price": 272.4,
+    "pe_ratio": 21.034748,
+    "pb_ratio": 1.151797,
     "roe": 0.054619998,
     "debt_to_equity": 7.333,
     "revenue": 11854100480,
@@ -16,6 +16,6 @@
     "eps": 12.95,
     "52_week_high": 393.0,
     "52_week_low": 165.4,
-    "dividend_yield": 0.54
+    "dividend_yield": 0.55
   }
 }

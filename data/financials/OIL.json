@@ -1,14 +1,14 @@
 {
   "ticker": "OIL",
-  "collected_at": "2026-05-25 06:20:17",
+  "collected_at": "2026-05-26 06:00:17",
   "company_info": {
     "name": "Oil India Limited",
     "sector": "Energy",
     "industry": "Oil & Gas Integrated",
-    "market_cap": 791832625152,
-    "current_price": 486.8,
-    "pe_ratio": 11.966568,
-    "pb_ratio": 1.365046,
+    "market_cap": 802405548032,
+    "current_price": 493.3,
+    "pe_ratio": 12.126351,
+    "pb_ratio": 1.3832728,
     "roe": 0.12743,
     "debt_to_equity": 58.741,
     "revenue": 339461308416,
@@ -16,6 +16,6 @@
     "eps": 40.68,
     "52_week_high": 531.0,
     "52_week_low": 384.6,
-    "dividend_yield": 3.8
+    "dividend_yield": 3.94
   }
 }
