@@ -1,14 +1,14 @@
 {
   "ticker": "HDBFS",
-  "collected_at": "2026-05-26 05:50:30",
+  "collected_at": "2026-05-27 06:05:33",
   "company_info": {
     "name": "HDB Financial Services Limited",
     "sector": "Financial Services",
     "industry": "Credit Services",
-    "market_cap": 573685366784,
-    "current_price": 692.5,
-    "pe_ratio": 22.432781,
-    "pb_ratio": 2.782622,
+    "market_cap": 560969023488,
+    "current_price": 677.15,
+    "pe_ratio": 21.935535,
+    "pb_ratio": 2.7209423,
     "roe": 0.13945,
     "debt_to_equity": 480.236,
     "revenue": 87947001856,
@@ -16,6 +16,6 @@
     "eps": 30.87,
     "52_week_high": 891.9,
     "52_week_low": 555.3,
-    "dividend_yield": 0.6
+    "dividend_yield": 0.59
   }
 }

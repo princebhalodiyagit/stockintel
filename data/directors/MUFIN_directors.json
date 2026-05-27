@@ -1,7 +1,7 @@
 {
   "ticker": "MUFIN",
   "company": "Mufin Green Finance Limited",
-  "collected_at": "2026-05-26 05:58:34",
+  "collected_at": "2026-05-27 06:14:41",
   "directors": [
     {
       "name": "Mr. Kapil  Garg",
@@ -16,6 +16,41 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 2547000
+    },
+    {
+      "name": "Mr. Mayank Pratap Singh",
+      "role": "Chief Secretary & Compliance Officer",
+      "age": 31,
+      "year_born": 1994,
+      "total_pay": 1483000
+    },
+    {
+      "name": "Ms. Savita  Bhogra",
+      "role": "Operation Head",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pulkit  Mittal",
+      "role": "Group HR Head",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Madhur  Goel",
+      "role": "Head Credit",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Deepak  Bansal",
+      "role": "Information Technology Head",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

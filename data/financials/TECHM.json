@@ -1,14 +1,14 @@
 {
   "ticker": "TECHM",
-  "collected_at": "2026-05-26 06:09:15",
+  "collected_at": "2026-05-27 06:26:51",
   "company_info": {
     "name": "Tech Mahindra Limited",
     "sector": "Technology",
     "industry": "Information Technology Services",
-    "market_cap": 1279863291904,
-    "current_price": 1445.0,
-    "pe_ratio": 26.699926,
-    "pb_ratio": 4.655554,
+    "market_cap": 1292263358464,
+    "current_price": 1459.0,
+    "pe_ratio": 26.95861,
+    "pb_ratio": 4.7006593,
     "roe": 0.16608,
     "debt_to_equity": 7.269,
     "revenue": 568153997312,
@@ -16,6 +16,6 @@
     "eps": 54.12,
     "52_week_high": 1854.0,
     "52_week_low": 1304.1,
-    "dividend_yield": 3.55
+    "dividend_yield": 3.5
   }
 }

@@ -1,14 +1,14 @@
 {
   "ticker": "NIITLTD",
-  "collected_at": "2026-05-26 05:59:36",
+  "collected_at": "2026-05-27 06:15:51",
   "company_info": {
     "name": "NIIT Limited",
     "sector": "Consumer Defensive",
     "industry": "Education & Training Services",
-    "market_cap": 9376841728,
-    "current_price": 68.75,
-    "pe_ratio": 171.875,
-    "pb_ratio": 0.8871311,
+    "market_cap": 9259954176,
+    "current_price": 67.83,
+    "pe_ratio": 169.575,
+    "pb_ratio": 0.8752597,
     "roe": 0.00569,
     "debt_to_equity": 0.65,
     "revenue": 4567320064,
@@ -16,6 +16,6 @@
     "eps": 0.4,
     "52_week_high": 145.9,
     "52_week_low": 49.0,
-    "dividend_yield": 1.45
+    "dividend_yield": 1.47
   }
 }

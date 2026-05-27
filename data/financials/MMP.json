@@ -1,21 +1,21 @@
 {
   "ticker": "MMP",
-  "collected_at": "2026-05-26 05:58:01",
+  "collected_at": "2026-05-27 06:14:03",
   "company_info": {
     "name": "MMP Industries Limited",
     "sector": "Basic Materials",
     "industry": "Aluminum",
-    "market_cap": 7265146880,
-    "current_price": 286.0,
-    "pe_ratio": 30.425533,
-    "pb_ratio": 2.264862,
-    "roe": "N/A",
-    "debt_to_equity": 53.99,
-    "revenue": 7974474240,
-    "net_income": 238792000,
+    "market_cap": 7239744512,
+    "current_price": 285.0,
+    "pe_ratio": 30.31915,
+    "pb_ratio": 2.256943,
+    "roe": 0.09257,
+    "debt_to_equity": 53.253,
+    "revenue": 8253366784,
+    "net_income": 310092992,
     "eps": 9.4,
     "52_week_high": 319.98,
     "52_week_low": 185.2,
-    "dividend_yield": 0.7
+    "dividend_yield": 0.71
   }
 }

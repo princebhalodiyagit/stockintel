@@ -1,14 +1,14 @@
 {
   "ticker": "MALLCOM",
-  "collected_at": "2026-05-26 05:56:46",
+  "collected_at": "2026-05-27 06:12:40",
   "company_info": {
     "name": "Mallcom (India) Limited",
     "sector": "Industrials",
     "industry": "Security & Protection Services",
-    "market_cap": 6272448000,
-    "current_price": 1005.2,
-    "pe_ratio": 11.719716,
-    "pb_ratio": 2.011438,
+    "market_cap": 6302400000,
+    "current_price": 1010.0,
+    "pe_ratio": 11.77568,
+    "pb_ratio": 2.0210428,
     "roe": "N/A",
     "debt_to_equity": 36.932,
     "revenue": 5304870912,
@@ -16,6 +16,6 @@
     "eps": 85.77,
     "52_week_high": 1520.0,
     "52_week_low": 929.0,
-    "dividend_yield": 0.29
+    "dividend_yield": 0.3
   }
 }

@@ -1,7 +1,7 @@
 {
   "ticker": "EPACK",
   "company": "EPACK Durable Limited",
-  "collected_at": "2026-05-26 05:47:13",
+  "collected_at": "2026-05-27 06:01:48",
   "directors": [
     {
       "name": "Mr. Bajrang Lal Bothra",
@@ -16,6 +16,41 @@
       "age": 50,
       "year_born": 1975,
       "total_pay": 13198000
+    },
+    {
+      "name": "Mr. Rajesh Kumar Mittal",
+      "role": "Vice President & CFO",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mohammad Lateef Choudhary",
+      "role": "Chief Operating Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mohammed  Kaishulla",
+      "role": "Chief Information Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sumedh  Singh",
+      "role": "Assistant Vice President of Human Resource (HR Head)",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Maneesh  Bahuguna",
+      "role": "Senior Vice President (R&D & Sourcing)",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
     }
   ]
 }

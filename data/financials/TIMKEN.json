@@ -1,14 +1,14 @@
 {
   "ticker": "TIMKEN",
-  "collected_at": "2026-05-26 06:09:49",
+  "collected_at": "2026-05-27 06:27:30",
   "company_info": {
     "name": "Timken India Limited",
     "sector": "Industrials",
     "industry": "Tools & Accessories",
-    "market_cap": 274397954048,
-    "current_price": 3648.0,
-    "pe_ratio": 66.27907,
-    "pb_ratio": 9.917193,
+    "market_cap": 273104191488,
+    "current_price": 3630.8,
+    "pe_ratio": 65.96657,
+    "pb_ratio": 9.870435,
     "roe": 0.14407,
     "debt_to_equity": 0.5,
     "revenue": 35080900608,
@@ -16,6 +16,6 @@
     "eps": 55.04,
     "52_week_high": 3775.0,
     "52_week_low": 2800.5,
-    "dividend_yield": 0.99
+    "dividend_yield": 1.0
   }
 }
