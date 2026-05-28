@@ -1,14 +1,14 @@
 {
   "ticker": "GREENPLY",
-  "collected_at": "2026-05-27 06:04:38",
+  "collected_at": "2026-05-28 05:59:10",
   "company_info": {
     "name": "Greenply Industries Limited",
     "sector": "Basic Materials",
     "industry": "Lumber & Wood Production",
-    "market_cap": 32218484736,
-    "current_price": 257.95,
-    "pe_ratio": 35.926186,
-    "pb_ratio": 3.5713794,
+    "market_cap": 31937454080,
+    "current_price": 255.7,
+    "pe_ratio": 35.612812,
+    "pb_ratio": 3.5402274,
     "roe": 0.10536,
     "debt_to_equity": 57.505,
     "revenue": 27390355456,
@@ -16,6 +16,6 @@
     "eps": 7.18,
     "52_week_high": 351.95,
     "52_week_low": 176.42,
-    "dividend_yield": 0.19
+    "dividend_yield": 0.2
   }
 }

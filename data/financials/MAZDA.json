@@ -1,21 +1,21 @@
 {
   "ticker": "MAZDA",
-  "collected_at": "2026-05-27 06:13:21",
+  "collected_at": "2026-05-28 06:06:52",
   "company_info": {
     "name": "Mazda Limited",
     "sector": "Industrials",
     "industry": "Specialty Industrial Machinery",
-    "market_cap": 4132959744,
-    "current_price": 206.39,
-    "pe_ratio": 15.436799,
-    "pb_ratio": 1.755017,
-    "roe": "N/A",
+    "market_cap": 4179217408,
+    "current_price": 208.7,
+    "pe_ratio": 15.609573,
+    "pb_ratio": 1.7746599,
+    "roe": 0.1148,
     "debt_to_equity": "N/A",
-    "revenue": 2006480000,
-    "net_income": 267764000,
+    "revenue": 2191068928,
+    "net_income": 275087008,
     "eps": 13.37,
     "52_week_high": 337.77,
     "52_week_low": 159.2,
-    "dividend_yield": 1.65
+    "dividend_yield": 1.73
   }
 }

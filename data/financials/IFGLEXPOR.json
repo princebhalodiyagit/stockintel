@@ -1,14 +1,14 @@
 {
   "ticker": "IFGLEXPOR",
-  "collected_at": "2026-05-27 06:06:53",
+  "collected_at": "2026-05-28 06:01:09",
   "company_info": {
     "name": "IFGL Refractories Limited",
     "sector": "Basic Materials",
     "industry": "Building Materials",
-    "market_cap": 12694487040,
-    "current_price": 176.12,
-    "pe_ratio": 44.03,
-    "pb_ratio": 1.116068,
+    "market_cap": 12469602304,
+    "current_price": 173.0,
+    "pe_ratio": 43.25,
+    "pb_ratio": 1.0962967,
     "roe": "N/A",
     "debt_to_equity": 19.053,
     "revenue": 18598072320,
@@ -16,6 +16,6 @@
     "eps": 4.0,
     "52_week_high": 338.0,
     "52_week_low": 119.68,
-    "dividend_yield": 4.01
+    "dividend_yield": 4.03
   }
 }

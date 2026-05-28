@@ -1,15 +1,8 @@
 {
   "ticker": "URJA",
   "company": "Urja Global Limited",
-  "collected_at": "2026-05-27 06:28:56",
+  "collected_at": "2026-05-28 06:20:39",
   "directors": [
-    {
-      "name": "Mr. Sushil Kumar Dubey",
-      "role": "Chief Executive Officer",
-      "age": 56,
-      "year_born": 1969,
-      "total_pay": "N/A"
-    },
     {
       "name": "Mr. Yogesh Kumar Goyal",
       "role": "Whole Time Director",
@@ -71,6 +64,13 @@
       "role": "Marketing Manager",
       "age": 32,
       "year_born": 1993,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mahesh  Pandian",
+      "role": "Procurement Head",
+      "age": 50,
+      "year_born": 1975,
       "total_pay": "N/A"
     }
   ]

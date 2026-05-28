@@ -1,14 +1,14 @@
 {
   "ticker": "IOLCP",
-  "collected_at": "2026-05-27 06:08:10",
+  "collected_at": "2026-05-28 06:02:14",
   "company_info": {
     "name": "IOL Chemicals and Pharmaceuticals Limited",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - Specialty & Generic",
-    "market_cap": 38863040512,
-    "current_price": 132.4,
-    "pe_ratio": 28.230276,
-    "pb_ratio": 2.2213273,
+    "market_cap": 38452105216,
+    "current_price": 131.0,
+    "pe_ratio": 27.93177,
+    "pb_ratio": 2.197839,
     "roe": 0.07896,
     "debt_to_equity": 7.529,
     "revenue": 23190599680,
@@ -16,6 +16,6 @@
     "eps": 4.69,
     "52_week_high": 138.9,
     "52_week_low": 67.19,
-    "dividend_yield": 0.73
+    "dividend_yield": 0.76
   }
 }

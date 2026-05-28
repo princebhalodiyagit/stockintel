@@ -1,14 +1,14 @@
 {
   "ticker": "RICOAUTO",
-  "collected_at": "2026-05-27 06:20:36",
+  "collected_at": "2026-05-28 06:13:19",
   "company_info": {
     "name": "Rico Auto Industries Limited",
     "sector": "Consumer Cyclical",
     "industry": "Auto Parts",
-    "market_cap": 16832158720,
-    "current_price": 124.42,
-    "pe_ratio": 32.401043,
-    "pb_ratio": 2.186259,
+    "market_cap": 16761810944,
+    "current_price": 123.9,
+    "pe_ratio": 32.265625,
+    "pb_ratio": 2.1771219,
     "roe": "N/A",
     "debt_to_equity": 91.352,
     "revenue": 23455000576,
@@ -16,6 +16,6 @@
     "eps": 3.84,
     "52_week_high": 142.4,
     "52_week_low": 65.73,
-    "dividend_yield": 0.42
+    "dividend_yield": 0.4
   }
 }

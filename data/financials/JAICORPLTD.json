@@ -1,14 +1,14 @@
 {
   "ticker": "JAICORPLTD",
-  "collected_at": "2026-05-27 06:08:41",
+  "collected_at": "2026-05-28 06:02:43",
   "company_info": {
     "name": "Jai Corp Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals",
-    "market_cap": 20920195072,
-    "current_price": 119.2,
-    "pe_ratio": 12.150866,
-    "pb_ratio": 1.4310583,
+    "market_cap": 20885094400,
+    "current_price": 119.0,
+    "pe_ratio": 12.130479,
+    "pb_ratio": 1.4286572,
     "roe": "N/A",
     "debt_to_equity": 0.063,
     "revenue": 6630488064,
@@ -16,6 +16,6 @@
     "eps": 9.81,
     "52_week_high": 178.24,
     "52_week_low": 88.0,
-    "dividend_yield": 0.43
+    "dividend_yield": 0.42
   }
 }

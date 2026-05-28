@@ -1,14 +1,14 @@
 {
   "ticker": "AGROPHOS",
-  "collected_at": "2026-05-27 05:52:11",
+  "collected_at": "2026-05-28 05:48:15",
   "company_info": {
     "name": "Agro Phos (India) Limited",
     "sector": "Basic Materials",
     "industry": "Agricultural Inputs",
-    "market_cap": 692969280,
-    "current_price": 34.18,
-    "pe_ratio": 13.782258,
-    "pb_ratio": 0.9872906,
+    "market_cap": 689319936,
+    "current_price": 34.0,
+    "pe_ratio": 13.709678,
+    "pb_ratio": 0.9820913,
     "roe": "N/A",
     "debt_to_equity": 37.092,
     "revenue": 1573698048,
@@ -16,6 +16,6 @@
     "eps": 2.48,
     "52_week_high": 47.6,
     "52_week_low": 23.9,
-    "dividend_yield": 2.88
+    "dividend_yield": 2.96
   }
 }
