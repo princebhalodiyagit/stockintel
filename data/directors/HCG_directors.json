@@ -1,7 +1,7 @@
 {
   "ticker": "HCG",
   "company": "Healthcare Global Enterprises Limited",
-  "collected_at": "2026-05-28 05:59:55",
+  "collected_at": "2026-05-29 06:01:22",
   "directors": [
     {
       "name": "Ms. Sunu Manuel Abey",
@@ -9,13 +9,6 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 5840000
-    },
-    {
-      "name": "Dr. Manish  Mattoo",
-      "role": "CEO, Interim CFO & Executive Director",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
     },
     {
       "name": "V.  Venkataramanan",
@@ -71,6 +64,13 @@
       "role": "Chief Operating Officer of Regional",
       "age": 59,
       "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Madan Kumar Sampath",
+      "role": "Chief Supply Chain Officer",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "ticker": "WELSPUNLIV",
   "company": "Welspun Living Limited",
-  "collected_at": "2026-05-28 06:21:57",
+  "collected_at": "2026-05-29 06:24:19",
   "directors": [
     {
       "name": "Ms. Dipali Balkrishan Goenka",
@@ -46,13 +46,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Ashok Kumar Joshi",
-      "role": "Head of Business Operations",
-      "age": 65,
-      "year_born": 1960,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Mukesh  Savlani",
       "role": "Chief Executive Officer of International Flooring Business",
       "age": "N/A",
@@ -71,6 +64,13 @@
       "role": "Head of Internal Audit",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ruchi  Ahuja",
+      "role": "Senior Vice President",
+      "age": 46,
+      "year_born": 1979,
       "total_pay": "N/A"
     }
   ]

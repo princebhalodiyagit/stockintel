@@ -1,7 +1,7 @@
 {
   "ticker": "SHEMAROO",
   "company": "Shemaroo Entertainment Limited",
-  "collected_at": "2026-05-28 06:15:30",
+  "collected_at": "2026-05-29 06:17:38",
   "directors": [
     {
       "name": "Mr. Raman Hirji Maroo",
@@ -16,27 +16,6 @@
       "age": 55,
       "year_born": 1970,
       "total_pay": 22000000
-    },
-    {
-      "name": "Mr. Amit M. Haria",
-      "role": "Chief Financial Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Atul Hirji Maru",
-      "role": "Joint MD & Executive Director",
-      "age": 64,
-      "year_born": 1961,
-      "total_pay": 9000000
-    },
-    {
-      "name": "Mr. Jai Buddhichand Maroo",
-      "role": "Director of Center of Excellence & Executive Director",
-      "age": 52,
-      "year_born": 1973,
-      "total_pay": 9000000
     },
     {
       "name": "Mr. Arghya  Chakravarty",
@@ -72,6 +51,27 @@
       "age": 63,
       "year_born": 1962,
       "total_pay": 15040000
+    },
+    {
+      "name": "Mr. Hemant  Karani",
+      "role": "Senior Vice-President of Studio Division",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": 5540000
+    },
+    {
+      "name": "Mr. Bipin  Dharod",
+      "role": "Senior Vice President of Physical Sales & Distribution",
+      "age": 65,
+      "year_born": 1960,
+      "total_pay": 3505000
+    },
+    {
+      "name": "Mr. Ketan  Maru",
+      "role": "Senior Vice President of Film Production Division",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": 3800000
     }
   ]
 }
