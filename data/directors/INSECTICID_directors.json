@@ -1,7 +1,7 @@
 {
   "ticker": "INSECTICID",
   "company": "Insecticides (India) Limited",
-  "collected_at": "2026-05-29 06:03:40",
+  "collected_at": "2026-05-30 05:24:59",
   "directors": [
     {
       "name": "Mr. Hari Chand Aggarwal",
@@ -32,25 +32,11 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Ms. Nikunj  Aggarwal",
-      "role": "Whole-Time Director",
-      "age": 52,
-      "year_born": 1973,
-      "total_pay": 5128000
-    },
-    {
       "name": "Mr. Anil Kumar Goyal",
       "role": "Whole-time Director",
       "age": 60,
       "year_born": 1965,
       "total_pay": 1550000
-    },
-    {
-      "name": "Mr. Sanskar  Aggarwal",
-      "role": "Executive Vice President",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
     },
     {
       "name": "Mr. Devendra Kumar Ray",
@@ -71,6 +57,13 @@
       "role": "Senior Manager of Human Resources",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Srikant S. Satwe",
+      "role": "Head of International Business",
+      "age": 61,
+      "year_born": 1964,
       "total_pay": "N/A"
     }
   ]

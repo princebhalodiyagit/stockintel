@@ -1,14 +1,14 @@
 {
   "ticker": "EPIGRAL",
-  "collected_at": "2026-05-29 05:57:59",
+  "collected_at": "2026-05-30 05:19:33",
   "company_info": {
     "name": "Epigral Limited",
     "sector": "Basic Materials",
     "industry": "Chemicals",
-    "market_cap": 51075026944,
-    "current_price": 1183.9,
-    "pe_ratio": 15.383316,
-    "pb_ratio": 2.4314055,
+    "market_cap": 50082779136,
+    "current_price": 1160.9,
+    "pe_ratio": 15.08446,
+    "pb_ratio": 2.3841698,
     "roe": 0.16092,
     "debt_to_equity": 25.751,
     "revenue": 25271799808,
@@ -16,6 +16,6 @@
     "eps": 76.96,
     "52_week_high": 2114.0,
     "52_week_low": 807.0,
-    "dividend_yield": 0.41
+    "dividend_yield": 0.43
   }
 }

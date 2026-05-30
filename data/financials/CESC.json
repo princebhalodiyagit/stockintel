@@ -1,14 +1,14 @@
 {
   "ticker": "CESC",
-  "collected_at": "2026-05-29 05:54:30",
+  "collected_at": "2026-05-30 05:16:11",
   "company_info": {
     "name": "CESC Limited",
     "sector": "Utilities",
     "industry": "Utilities - Regulated Electric",
-    "market_cap": 244899135488,
-    "current_price": 184.75,
-    "pe_ratio": 15.871993,
-    "pb_ratio": 1.924379,
+    "market_cap": 241373118464,
+    "current_price": 182.09,
+    "pe_ratio": 15.64347,
+    "pb_ratio": 1.896672,
     "roe": 0.12547,
     "debt_to_equity": 164.311,
     "revenue": 185700007936,
@@ -16,6 +16,6 @@
     "eps": 11.64,
     "52_week_high": 204.5,
     "52_week_low": 138.12,
-    "dividend_yield": 3.23
+    "dividend_yield": 3.3
   }
 }

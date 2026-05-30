@@ -1,14 +1,14 @@
 {
   "ticker": "CANFINHOME",
-  "collected_at": "2026-05-29 05:53:58",
+  "collected_at": "2026-05-30 05:15:40",
   "company_info": {
     "name": "Can Fin Homes Limited",
     "sector": "Financial Services",
     "industry": "Mortgage Finance",
-    "market_cap": 110111809536,
-    "current_price": 826.95,
-    "pe_ratio": 10.140405,
-    "pb_ratio": 1.8412263,
+    "market_cap": 110471323648,
+    "current_price": 829.65,
+    "pe_ratio": 10.173513,
+    "pb_ratio": 1.8472381,
     "roe": 0.19655001,
     "debt_to_equity": 637.09,
     "revenue": 16134180864,
@@ -16,6 +16,6 @@
     "eps": 81.55,
     "52_week_high": 971.5,
     "52_week_low": 708.6,
-    "dividend_yield": 1.68
+    "dividend_yield": 1.69
   }
 }

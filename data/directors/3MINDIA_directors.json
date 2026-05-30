@@ -1,15 +1,8 @@
 {
   "ticker": "3MINDIA",
   "company": "3M India Limited",
-  "collected_at": "2026-05-29 05:47:54",
+  "collected_at": "2026-05-30 05:09:53",
   "directors": [
-    {
-      "name": "Mr. Ramesh  Ramadurai",
-      "role": "MD & Director",
-      "age": 63,
-      "year_born": 1962,
-      "total_pay": 46504316
-    },
     {
       "name": "Ms. Priya  Menon",
       "role": "General Counsel",
@@ -39,13 +32,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Jayanand Vasudeorao Kaginalkar",
-      "role": "Executive Whole-time Director",
-      "age": 60,
-      "year_born": 1965,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Ashutosh  Shirodkar",
       "role": "Head of Safety & Industrial Business",
       "age": 54,
@@ -71,6 +57,13 @@
       "role": "Divisional Sales Manager of Automotive After Market Division",
       "age": 47,
       "year_born": 1978,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Radhika  Anne",
+      "role": "Divisional Sales Manager of Medical Solutions Division",
+      "age": 50,
+      "year_born": 1975,
       "total_pay": "N/A"
     }
   ]

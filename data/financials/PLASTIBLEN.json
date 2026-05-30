@@ -1,14 +1,14 @@
 {
   "ticker": "PLASTIBLEN",
-  "collected_at": "2026-05-29 06:13:12",
+  "collected_at": "2026-05-30 05:34:11",
   "company_info": {
     "name": "Plastiblends India Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals",
-    "market_cap": 4580856320,
-    "current_price": 176.26,
-    "pe_ratio": 12.483003,
-    "pb_ratio": 1.0182083,
+    "market_cap": 4470662144,
+    "current_price": 172.02,
+    "pe_ratio": 12.18272,
+    "pb_ratio": 0.9937149,
     "roe": 0.08371,
     "debt_to_equity": 4.968,
     "revenue": 7886580224,
@@ -16,6 +16,6 @@
     "eps": 14.12,
     "52_week_high": 230.0,
     "52_week_low": 121.01,
-    "dividend_yield": 1.41
+    "dividend_yield": 1.45
   }
 }

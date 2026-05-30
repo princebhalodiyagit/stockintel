@@ -1,14 +1,14 @@
 {
   "ticker": "AARTECH",
-  "collected_at": "2026-05-29 05:48:02",
+  "collected_at": "2026-05-30 05:10:01",
   "company_info": {
     "name": "Aartech Solonics Limited",
     "sector": "Industrials",
     "industry": "Electrical Equipment & Parts",
-    "market_cap": 1375657216,
-    "current_price": 43.3,
-    "pe_ratio": 78.72727,
-    "pb_ratio": 4.0649643,
+    "market_cap": 1335944320,
+    "current_price": 42.05,
+    "pe_ratio": 76.454544,
+    "pb_ratio": 3.9476151,
     "roe": 0.11931,
     "debt_to_equity": 16.02,
     "revenue": 421932992,
@@ -16,6 +16,6 @@
     "eps": 0.55,
     "52_week_high": 76.79,
     "52_week_low": 33.51,
-    "dividend_yield": 0.29
+    "dividend_yield": 0.3
   }
 }

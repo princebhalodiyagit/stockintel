@@ -1,7 +1,7 @@
 {
   "ticker": "KIMS",
   "company": "Krishna Institute of Medical Sciences Limited",
-  "collected_at": "2026-05-29 06:05:57",
+  "collected_at": "2026-05-30 05:27:09",
   "directors": [
     {
       "name": "Dr. Bhaskara Rao Bollineni",
@@ -37,20 +37,6 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 1000000
-    },
-    {
-      "name": "Mr. Sreenath Pocha Reddy CA, LLB",
-      "role": "Cluster Head for the Karnataka cluster",
-      "age": 51,
-      "year_born": 1974,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Dr. Nitish  Shetty",
-      "role": "CEO for KIMS Bangalore Cluster",
-      "age": 53,
-      "year_born": 1972,
-      "total_pay": "N/A"
     }
   ]
 }

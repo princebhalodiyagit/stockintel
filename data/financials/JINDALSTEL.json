@@ -1,14 +1,14 @@
 {
   "ticker": "JINDALSTEL",
-  "collected_at": "2026-05-29 06:04:38",
+  "collected_at": "2026-05-30 05:25:54",
   "company_info": {
     "name": "Jindal Steel Limited",
     "sector": "Basic Materials",
     "industry": "Steel",
-    "market_cap": 1232178118656,
-    "current_price": 1211.0,
-    "pe_ratio": 36.60822,
-    "pb_ratio": 2.4803631,
+    "market_cap": 1228311625728,
+    "current_price": 1207.2,
+    "pe_ratio": 36.493347,
+    "pb_ratio": 2.4725797,
     "roe": 0.067719996,
     "debt_to_equity": 43.613,
     "revenue": 532249214976,
@@ -16,6 +16,6 @@
     "eps": 33.08,
     "52_week_high": 1306.2,
     "52_week_low": 882.65,
-    "dividend_yield": 0.16
+    "dividend_yield": 0.17
   }
 }

@@ -1,14 +1,14 @@
 {
   "ticker": "JWL",
-  "collected_at": "2026-05-29 06:05:16",
+  "collected_at": "2026-05-30 05:26:30",
   "company_info": {
     "name": "Jupiter Wagons Limited",
     "sector": "Industrials",
     "industry": "Railroads",
-    "market_cap": 127783747584,
-    "current_price": 299.0,
-    "pe_ratio": 51.64076,
-    "pb_ratio": 4.5346317,
+    "market_cap": 124257943552,
+    "current_price": 290.75,
+    "pe_ratio": 50.21589,
+    "pb_ratio": 4.4095125,
     "roe": "N/A",
     "debt_to_equity": 26.721,
     "revenue": 31801001984,
@@ -16,6 +16,6 @@
     "eps": 5.79,
     "52_week_high": 418.95,
     "52_week_low": 235.65,
-    "dividend_yield": 0.67
+    "dividend_yield": 0.69
   }
 }

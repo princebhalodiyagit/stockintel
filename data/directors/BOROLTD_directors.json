@@ -1,15 +1,8 @@
 {
   "ticker": "BOROLTD",
   "company": "Borosil Limited",
-  "collected_at": "2026-05-29 05:53:31",
+  "collected_at": "2026-05-30 05:15:15",
   "directors": [
-    {
-      "name": "Mr. Shreevar  Kheruka",
-      "role": "MD, CEO & Vice Chairman of the Board",
-      "age": 43,
-      "year_born": 1982,
-      "total_pay": 155027000
-    },
     {
       "name": "Mr. Anand Mahendra Sultania",
       "role": "Chief Financial Officer",
@@ -23,48 +16,6 @@
       "age": 55,
       "year_born": 1970,
       "total_pay": 19420000
-    },
-    {
-      "name": "Mr. Manoj Kumar Singh",
-      "role": "Associate Vice President of Operations",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Dhaval  Patel",
-      "role": "Investor Relations Executive",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Mandar Anil Chandrachud",
-      "role": "Vice President of Legal",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Bhaunik  Shah",
-      "role": "Company Secretary & Compliance Officer and Nodal Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ms. Sweta  Kochar",
-      "role": "Chief Human Resource Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Rituraj  Sharma",
-      "role": "President of Consumer Products",
-      "age": 56,
-      "year_born": 1969,
-      "total_pay": 30000
     }
   ]
 }

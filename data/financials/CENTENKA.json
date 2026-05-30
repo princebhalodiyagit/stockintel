@@ -1,14 +1,14 @@
 {
   "ticker": "CENTENKA",
-  "collected_at": "2026-05-29 05:54:23",
+  "collected_at": "2026-05-30 05:16:04",
   "company_info": {
     "name": "Century Enka Limited",
     "sector": "Consumer Cyclical",
     "industry": "Textile Manufacturing",
-    "market_cap": 10707879936,
-    "current_price": 490.05,
-    "pe_ratio": 10.620936,
-    "pb_ratio": 0.715901,
+    "market_cap": 10646699008,
+    "current_price": 487.25,
+    "pe_ratio": 10.560251,
+    "pb_ratio": 0.7118106,
     "roe": 0.06922,
     "debt_to_equity": 1.482,
     "revenue": 17054100480,
@@ -16,6 +16,6 @@
     "eps": 46.14,
     "52_week_high": 577.6,
     "52_week_low": 371.2,
-    "dividend_yield": 2.03
+    "dividend_yield": 2.05
   }
 }

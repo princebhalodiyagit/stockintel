@@ -1,14 +1,14 @@
 {
   "ticker": "BIRLACORPN",
-  "collected_at": "2026-05-29 05:53:07",
+  "collected_at": "2026-05-30 05:14:52",
   "company_info": {
     "name": "Birla Corporation Limited",
     "sector": "Basic Materials",
     "industry": "Building Materials",
-    "market_cap": 77051543552,
-    "current_price": 1000.6,
-    "pe_ratio": 13.828081,
-    "pb_ratio": 1.0462401,
+    "market_cap": 76797427712,
+    "current_price": 997.3,
+    "pe_ratio": 13.782476,
+    "pb_ratio": 1.0427896,
     "roe": 0.07755,
     "debt_to_equity": 46.04,
     "revenue": 96556097536,
@@ -16,6 +16,6 @@
     "eps": 72.36,
     "52_week_high": 1535.3,
     "52_week_low": 769.6,
-    "dividend_yield": 0.99
+    "dividend_yield": 1.0
   }
 }

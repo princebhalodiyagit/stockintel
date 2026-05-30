@@ -1,14 +1,14 @@
 {
   "ticker": "ORIENTELEC",
-  "collected_at": "2026-05-29 06:12:05",
+  "collected_at": "2026-05-30 05:33:07",
   "company_info": {
     "name": "Orient Electric Limited",
     "sector": "Consumer Cyclical",
     "industry": "Furnishings, Fixtures & Appliances",
-    "market_cap": 40369143808,
-    "current_price": 189.18,
-    "pe_ratio": 42.227676,
-    "pb_ratio": 5.30436,
+    "market_cap": 40211234816,
+    "current_price": 188.44,
+    "pe_ratio": 42.0625,
+    "pb_ratio": 5.2836113,
     "roe": 0.13179,
     "debt_to_equity": 12.281,
     "revenue": 33263900672,
@@ -16,6 +16,6 @@
     "eps": 4.48,
     "52_week_high": 232.45,
     "52_week_low": 149.05,
-    "dividend_yield": 0.78
+    "dividend_yield": 0.8
   }
 }

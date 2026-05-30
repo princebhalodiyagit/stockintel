@@ -1,14 +1,14 @@
 {
   "ticker": "RAMCOCEM",
-  "collected_at": "2026-05-29 06:14:41",
+  "collected_at": "2026-05-30 05:35:37",
   "company_info": {
     "name": "The Ramco Cements Limited",
     "sector": "Basic Materials",
     "industry": "Building Materials",
-    "market_cap": 207074820096,
-    "current_price": 876.35,
-    "pe_ratio": 29.6766,
-    "pb_ratio": 2.7415407,
+    "market_cap": 205857931264,
+    "current_price": 871.2,
+    "pe_ratio": 29.502201,
+    "pb_ratio": 2.5424025,
     "roe": 0.08996,
     "debt_to_equity": 47.827,
     "revenue": 90287603712,
@@ -16,6 +16,6 @@
     "eps": 29.53,
     "52_week_high": 1214.5,
     "52_week_low": 860.1,
-    "dividend_yield": 0.28
+    "dividend_yield": 0.29
   }
 }

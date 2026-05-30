@@ -1,14 +1,14 @@
 {
   "ticker": "IDBI",
-  "collected_at": "2026-05-29 06:02:30",
+  "collected_at": "2026-05-30 05:23:53",
   "company_info": {
     "name": "IDBI Bank Limited",
     "sector": "Financial Services",
     "industry": "Banks - Regional",
-    "market_cap": 812881608704,
-    "current_price": 75.6,
-    "pe_ratio": 8.749999,
-    "pb_ratio": 1.1855848,
+    "market_cap": 793849888768,
+    "current_price": 73.83,
+    "pe_ratio": 8.545138,
+    "pb_ratio": 1.1578271,
     "roe": 0.14152999,
     "debt_to_equity": "N/A",
     "revenue": 212330692608,
@@ -16,6 +16,6 @@
     "eps": 8.64,
     "52_week_high": 118.38,
     "52_week_low": 61.01,
-    "dividend_yield": 2.86
+    "dividend_yield": 2.84
   }
 }

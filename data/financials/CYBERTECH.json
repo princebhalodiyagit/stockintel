@@ -1,14 +1,14 @@
 {
   "ticker": "CYBERTECH",
-  "collected_at": "2026-05-29 05:55:41",
+  "collected_at": "2026-05-30 05:17:20",
   "company_info": {
     "name": "CyberTech Systems and Software Limited",
     "sector": "Technology",
     "industry": "Information Technology Services",
-    "market_cap": 4568103424,
-    "current_price": 146.74,
-    "pe_ratio": 15.050257,
-    "pb_ratio": 2.15196,
+    "market_cap": 4367622144,
+    "current_price": 140.3,
+    "pe_ratio": 14.389744,
+    "pb_ratio": 2.0575166,
     "roe": 0.13231,
     "debt_to_equity": 3.889,
     "revenue": 2371523072,
@@ -16,6 +16,6 @@
     "eps": 9.75,
     "52_week_high": 274.8,
     "52_week_low": 95.3,
-    "dividend_yield": 2.65
+    "dividend_yield": 2.85
   }
 }

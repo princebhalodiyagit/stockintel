@@ -1,14 +1,14 @@
 {
   "ticker": "CGCL",
-  "collected_at": "2026-05-29 05:54:32",
+  "collected_at": "2026-05-30 05:16:13",
   "company_info": {
     "name": "Capri Global Capital Limited",
     "sector": "Financial Services",
     "industry": "Credit Services",
-    "market_cap": 190920212480,
-    "current_price": 198.43,
-    "pe_ratio": 19.607706,
-    "pb_ratio": 2.6557186,
+    "market_cap": 190852857856,
+    "current_price": 198.36,
+    "pe_ratio": 19.60079,
+    "pb_ratio": 2.6547818,
     "roe": 0.16496,
     "debt_to_equity": 334.728,
     "revenue": 28226539520,
@@ -16,6 +16,6 @@
     "eps": 10.12,
     "52_week_high": 214.0,
     "52_week_low": 150.51,
-    "dividend_yield": 0.11
+    "dividend_yield": 0.1
   }
 }

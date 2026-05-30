@@ -1,14 +1,14 @@
 {
   "ticker": "POWERGRID",
-  "collected_at": "2026-05-29 06:13:31",
+  "collected_at": "2026-05-30 05:34:31",
   "company_info": {
     "name": "Power Grid Corporation of India Limited",
     "sector": "Utilities",
     "industry": "Utilities - Regulated Electric",
-    "market_cap": 2749723574272,
-    "current_price": 295.65,
-    "pe_ratio": 14.70164,
-    "pb_ratio": 2.7351952,
+    "market_cap": 2702290452480,
+    "current_price": 290.55,
+    "pe_ratio": 14.448034,
+    "pb_ratio": 2.6880126,
     "roe": 0.16492,
     "debt_to_equity": 150.993,
     "revenue": 467328696320,
@@ -16,6 +16,6 @@
     "eps": 20.11,
     "52_week_high": 324.95,
     "52_week_low": 250.0,
-    "dividend_yield": 4.08
+    "dividend_yield": 4.22
   }
 }

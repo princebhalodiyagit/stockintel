@@ -1,14 +1,14 @@
 {
   "ticker": "VLSFINANCE",
-  "collected_at": "2026-05-29 06:23:49",
+  "collected_at": "2026-05-30 05:44:26",
   "company_info": {
     "name": "VLS Finance Limited",
     "sector": "Financial Services",
     "industry": "Capital Markets",
-    "market_cap": 7154335232,
-    "current_price": 228.0,
-    "pe_ratio": 13.571429,
-    "pb_ratio": 0.29947436,
+    "market_cap": 7192930816,
+    "current_price": 229.23,
+    "pe_ratio": 13.644643,
+    "pb_ratio": 0.30108994,
     "roe": 0.00949,
     "debt_to_equity": 0.014,
     "revenue": 479305984,
@@ -16,6 +16,6 @@
     "eps": 16.8,
     "52_week_high": 339.0,
     "52_week_low": 198.81,
-    "dividend_yield": 0.67
+    "dividend_yield": 0.65
   }
 }

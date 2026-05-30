@@ -1,14 +1,14 @@
 {
   "ticker": "GESHIP",
-  "collected_at": "2026-05-29 05:59:27",
+  "collected_at": "2026-05-30 05:20:57",
   "company_info": {
     "name": "The Great Eastern Shipping Company Limited",
     "sector": "Industrials",
     "industry": "Marine Shipping",
-    "market_cap": 203300454400,
-    "current_price": 1424.5,
-    "pe_ratio": 6.9230394,
-    "pb_ratio": 1.1985685,
+    "market_cap": 202572333056,
+    "current_price": 1418.9,
+    "pe_ratio": 6.898245,
+    "pb_ratio": 1.1942759,
     "roe": 0.18849,
     "debt_to_equity": 6.409,
     "revenue": 54090899456,
@@ -16,6 +16,6 @@
     "eps": 205.69,
     "52_week_high": 1798.0,
     "52_week_low": 913.1,
-    "dividend_yield": 3.1
+    "dividend_yield": 3.3
   }
 }

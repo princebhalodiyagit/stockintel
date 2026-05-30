@@ -1,14 +1,14 @@
 {
   "ticker": "PIRAMALFIN",
-  "collected_at": "2026-05-29 06:13:08",
+  "collected_at": "2026-05-30 05:34:07",
   "company_info": {
     "name": "Piramal Finance Limited",
     "sector": "Financial Services",
     "industry": "Credit Services",
-    "market_cap": 445523525632,
-    "current_price": 1971.3,
-    "pe_ratio": 29.809467,
-    "pb_ratio": 1.5845394,
+    "market_cap": 435466305536,
+    "current_price": 1926.8,
+    "pe_ratio": 29.13655,
+    "pb_ratio": 1.5487701,
     "roe": 0.06717,
     "debt_to_equity": 283.736,
     "revenue": 51960000512,
@@ -16,6 +16,6 @@
     "eps": 66.13,
     "52_week_high": 2073.2,
     "52_week_low": 1260.0,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.57
   }
 }
