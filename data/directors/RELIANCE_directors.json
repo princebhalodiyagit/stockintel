@@ -1,7 +1,7 @@
 {
   "ticker": "RELIANCE",
   "company": "Reliance Industries Limited",
-  "collected_at": "2026-05-30 05:36:04",
+  "collected_at": "2026-05-31 06:25:08",
   "directors": [
     {
       "name": "Mr. Mukesh Dhirubhai Ambani",
@@ -32,6 +32,13 @@
       "total_pay": 205800000
     },
     {
+      "name": "Mr. Anant Mukesh Ambani",
+      "role": "Whole-Time Director",
+      "age": 30,
+      "year_born": 1995,
+      "total_pay": 123900000
+    },
+    {
       "name": "Ms. Parul  Sharma",
       "role": "Group President",
       "age": "N/A",
@@ -46,6 +53,13 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. Mahesh  Marve",
+      "role": "Head of Research & Technology",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Hemen Kanu Modi",
       "role": "Vice President of Investor Relations",
       "age": "N/A",
@@ -55,20 +69,6 @@
     {
       "name": "Ms. Savithri  Parekh",
       "role": "Company Secretary & Compliance Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Rohit  Bansal",
-      "role": "Group Head of Communications",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ms. Gayatri  Yadav",
-      "role": "Group Chief Marketing Officer & Executive VP of Strategic Initiatives",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

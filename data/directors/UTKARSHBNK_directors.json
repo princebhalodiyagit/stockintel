@@ -1,7 +1,7 @@
 {
   "ticker": "UTKARSHBNK",
   "company": "Utkarsh Small Finance Bank Limited",
-  "collected_at": "2026-05-30 05:43:39",
+  "collected_at": "2026-05-31 06:34:20",
   "directors": [
     {
       "name": "Mr. Govind  Singh",
@@ -41,6 +41,34 @@
     {
       "name": "Mr. Ritesh  Kumar",
       "role": "Chief Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Dhara Manoj Vyas",
+      "role": "Chief Human Resources Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Amit  Acharya",
+      "role": "Chief Risk Officer",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Sourabh  Ghosh",
+      "role": "Head of Consumer Banking",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Virender  Sharma",
+      "role": "Head of Micro Banking",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

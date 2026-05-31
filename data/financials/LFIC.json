@@ -1,6 +1,6 @@
 {
   "ticker": "LFIC",
-  "collected_at": "2026-05-30 05:28:21",
+  "collected_at": "2026-05-31 06:15:59",
   "company_info": {
     "name": "Lakshmi Finance & Industrial Corporation Limited",
     "sector": "Financial Services",
@@ -9,13 +9,13 @@
     "current_price": 145.38,
     "pe_ratio": 35.807884,
     "pb_ratio": 0.7213278,
-    "roe": "N/A",
+    "roe": -0.012309999,
     "debt_to_equity": "N/A",
-    "revenue": 55904000,
-    "net_income": 12136000,
+    "revenue": 70167000,
+    "net_income": -7146000,
     "eps": 4.06,
     "52_week_high": 250.5,
     "52_week_low": 111.0,
-    "dividend_yield": 1.98
+    "dividend_yield": 2.06
   }
 }

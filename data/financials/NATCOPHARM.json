@@ -1,6 +1,6 @@
 {
   "ticker": "NATCOPHARM",
-  "collected_at": "2026-05-30 05:31:20",
+  "collected_at": "2026-05-31 06:19:33",
   "company_info": {
     "name": "NATCO Pharma Limited",
     "sector": "Healthcare",
@@ -9,13 +9,13 @@
     "current_price": 1015.9,
     "pe_ratio": 12.820546,
     "pb_ratio": 2.1038353,
-    "roe": "N/A",
-    "debt_to_equity": 3.012,
-    "revenue": 45625999360,
-    "net_income": 15571999744,
+    "roe": 0.16853,
+    "debt_to_equity": 7.742,
+    "revenue": 43759001600,
+    "net_income": 14184999936,
     "eps": 79.24,
     "52_week_high": 1226.8,
     "52_week_low": 789.0,
-    "dividend_yield": 0.55
+    "dividend_yield": 0.64
   }
 }

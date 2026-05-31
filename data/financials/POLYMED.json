@@ -1,6 +1,6 @@
 {
   "ticker": "POLYMED",
-  "collected_at": "2026-05-30 05:34:27",
+  "collected_at": "2026-05-31 06:23:14",
   "company_info": {
     "name": "Poly Medicure Limited",
     "sector": "Healthcare",
@@ -9,13 +9,13 @@
     "current_price": 1349.7,
     "pe_ratio": 42.55044,
     "pb_ratio": 4.687923,
-    "roe": "N/A",
-    "debt_to_equity": 8.169,
-    "revenue": 17815760896,
-    "net_income": 3476819968,
+    "roe": 0.10845,
+    "debt_to_equity": 11.227,
+    "revenue": 18752591872,
+    "net_income": 3221395968,
     "eps": 31.72,
     "52_week_high": 2316.6,
     "52_week_low": 1182.0,
-    "dividend_yield": 0.22
+    "dividend_yield": 0.26
   }
 }

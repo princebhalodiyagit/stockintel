@@ -1,13 +1,27 @@
 {
   "ticker": "TMCV",
   "company": "Tata Motors Limited",
-  "collected_at": "2026-05-30 05:42:29",
+  "collected_at": "2026-05-31 06:32:56",
   "directors": [
     {
       "name": "Ms. Sneha  Gavankar",
       "role": "Chief Investor Relations Officer",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sudipto Kumar Das",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Girish Arun Wagh",
+      "role": "Executive Director",
+      "age": 55,
+      "year_born": 1970,
       "total_pay": "N/A"
     }
   ]

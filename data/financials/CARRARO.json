@@ -1,6 +1,6 @@
 {
   "ticker": "CARRARO",
-  "collected_at": "2026-05-30 05:15:49",
+  "collected_at": "2026-05-31 06:01:03",
   "company_info": {
     "name": "Carraro India Limited",
     "sector": "Consumer Cyclical",
@@ -9,13 +9,13 @@
     "current_price": 543.55,
     "pe_ratio": 23.69442,
     "pb_ratio": 6.2675123,
-    "roe": "N/A",
-    "debt_to_equity": 37.201,
-    "revenue": 20930410496,
-    "net_income": 1125939968,
+    "roe": 0.25534,
+    "debt_to_equity": 27.433,
+    "revenue": 22554910720,
+    "net_income": 1305570048,
     "eps": 22.94,
     "52_week_high": 667.55,
     "52_week_low": 401.05,
-    "dividend_yield": 0.75
+    "dividend_yield": 0.84
   }
 }

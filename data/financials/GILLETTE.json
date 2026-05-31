@@ -1,6 +1,6 @@
 {
   "ticker": "GILLETTE",
-  "collected_at": "2026-05-30 05:21:06",
+  "collected_at": "2026-05-31 06:07:20",
   "company_info": {
     "name": "Gillette India Limited",
     "sector": "Consumer Defensive",
@@ -9,13 +9,13 @@
     "current_price": 8016.5,
     "pe_ratio": 49.01859,
     "pb_ratio": 22.471357,
-    "roe": "N/A",
+    "roe": 0.66443,
     "debt_to_equity": 0.002,
-    "revenue": 30749999104,
-    "net_income": 6204800000,
+    "revenue": 30995300352,
+    "net_income": 6543099904,
     "eps": 163.54,
     "52_week_high": 11500.0,
     "52_week_low": 7206.0,
-    "dividend_yield": 2.18
+    "dividend_yield": 2.25
   }
 }

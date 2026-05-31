@@ -1,7 +1,7 @@
 {
   "ticker": "BALPHARMA",
   "company": "Bal Pharma Limited",
-  "collected_at": "2026-05-30 05:13:54",
+  "collected_at": "2026-05-31 05:58:42",
   "directors": [
     {
       "name": "Mr. Shailesh Dheerajmal Siroya",
@@ -39,6 +39,13 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. M. L. Shreepada",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. D. L. Bhat",
       "role": "Assistant Vice President of Sales & Marketing",
       "age": 62,
@@ -64,13 +71,6 @@
       "role": "General Manager of Purchase",
       "age": 49,
       "year_born": 1976,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ramachandrappa  B. N.",
-      "role": "Assistant General Manager",
-      "age": 50,
-      "year_born": 1975,
       "total_pay": "N/A"
     }
   ]

@@ -1,6 +1,6 @@
 {
   "ticker": "IPCALAB",
-  "collected_at": "2026-05-30 05:25:10",
+  "collected_at": "2026-05-31 06:12:15",
   "company_info": {
     "name": "Ipca Laboratories Limited",
     "sector": "Healthcare",
@@ -9,13 +9,13 @@
     "current_price": 1524.4,
     "pe_ratio": 33.898155,
     "pb_ratio": 4.6962414,
-    "roe": "N/A",
-    "debt_to_equity": 14.425,
-    "revenue": 95061696512,
-    "net_income": 9098699776,
+    "roe": 0.13217,
+    "debt_to_equity": 8.492,
+    "revenue": 98207801344,
+    "net_income": 11411200000,
     "eps": 44.97,
     "52_week_high": 1678.3,
     "52_week_low": 1251.6,
-    "dividend_yield": 0.25
+    "dividend_yield": 0.39
   }
 }

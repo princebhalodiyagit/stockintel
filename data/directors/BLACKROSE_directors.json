@@ -1,7 +1,7 @@
 {
   "ticker": "BLACKROSE",
   "company": "Black Rose Inds. Limited",
-  "collected_at": "2026-05-30 05:14:57",
+  "collected_at": "2026-05-31 06:00:01",
   "directors": [
     {
       "name": "Ms. Shruti  Jatia",
@@ -15,6 +15,41 @@
       "role": "CFO & Chief Risk Officer",
       "age": 58,
       "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ambarish  Daga",
+      "role": "Investor Relations Officer & Whole-Time Director",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": 3969170
+    },
+    {
+      "name": "Ms. Darshana  Sawant",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Bhavesh  Shah",
+      "role": "General Manager of Sales",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Yoshitaka  Matsu",
+      "role": "President of B.R. Chemicals Co. Ltd",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Pavankumar  Aduri",
+      "role": "Vice President Innovation",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

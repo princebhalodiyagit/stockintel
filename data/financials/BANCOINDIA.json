@@ -1,6 +1,6 @@
 {
   "ticker": "BANCOINDIA",
-  "collected_at": "2026-05-30 05:13:58",
+  "collected_at": "2026-05-31 05:58:49",
   "company_info": {
     "name": "Banco Products (India) Limited",
     "sector": "Consumer Cyclical",
@@ -9,13 +9,13 @@
     "current_price": 656.25,
     "pe_ratio": 20.405785,
     "pb_ratio": 5.7435803,
-    "roe": "N/A",
-    "debt_to_equity": 44.582,
-    "revenue": 36722950144,
-    "net_income": 4877535232,
+    "roe": 0.3225,
+    "debt_to_equity": 36.44,
+    "revenue": 39949598720,
+    "net_income": 4816799744,
     "eps": 32.16,
     "52_week_high": 879.8,
     "52_week_low": 502.0,
-    "dividend_yield": 2.56
+    "dividend_yield": 2.44
   }
 }

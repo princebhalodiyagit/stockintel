@@ -1,21 +1,21 @@
 {
   "ticker": "WEL",
-  "collected_at": "2026-05-30 05:44:49",
+  "collected_at": "2026-05-31 06:35:42",
   "company_info": {
     "name": "Wonder Electricals Limited",
     "sector": "Consumer Cyclical",
     "industry": "Furnishings, Fixtures & Appliances",
     "market_cap": 12352857088,
     "current_price": 92.18,
-    "pe_ratio": 91.26733,
+    "pe_ratio": 92.18,
     "pb_ratio": 14.013378,
-    "roe": "N/A",
-    "debt_to_equity": 91.622,
-    "revenue": 7145585152,
-    "net_income": 135568992,
-    "eps": 1.01,
+    "roe": 0.08762,
+    "debt_to_equity": 107.754,
+    "revenue": 6548100096,
+    "net_income": 91142000,
+    "eps": 1.0,
     "52_week_high": 184.0,
     "52_week_low": 75.01,
-    "dividend_yield": 0.21
+    "dividend_yield": 0.22
   }
 }

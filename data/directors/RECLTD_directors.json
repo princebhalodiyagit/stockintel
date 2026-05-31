@@ -1,7 +1,7 @@
 {
   "ticker": "RECLTD",
   "company": "REC Limited",
-  "collected_at": "2026-05-30 05:35:55",
+  "collected_at": "2026-05-31 06:24:58",
   "directors": [
     {
       "name": "Mr. Jitendra  Srivastava",
@@ -20,6 +20,13 @@
     {
       "name": "Mr. Sahab  Narain DGM, RECL",
       "role": "Head of Internal Audit Function and GM of Finance & Accounts",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mohammed Azaz Ali",
+      "role": "Chief Compliance Officer & GM of Finance",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
@@ -64,13 +71,6 @@
       "role": "Executive Director",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Prabhat Kumar Singh",
-      "role": "Executive Director",
-      "age": 68,
-      "year_born": 1957,
       "total_pay": "N/A"
     }
   ]

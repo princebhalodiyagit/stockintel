@@ -1,7 +1,7 @@
 {
   "ticker": "INSECTICID",
   "company": "Insecticides (India) Limited",
-  "collected_at": "2026-05-30 05:24:59",
+  "collected_at": "2026-05-31 06:12:02",
   "directors": [
     {
       "name": "Mr. Hari Chand Aggarwal",
@@ -37,6 +37,13 @@
       "age": 60,
       "year_born": 1965,
       "total_pay": 1550000
+    },
+    {
+      "name": "Mr. Sanskar  Aggarwal",
+      "role": "Executive VP & Whole Time Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Devendra Kumar Ray",

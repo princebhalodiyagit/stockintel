@@ -1,7 +1,7 @@
 {
   "ticker": "NTPC",
   "company": "NTPC Limited",
-  "collected_at": "2026-05-30 05:32:33",
+  "collected_at": "2026-05-31 06:20:58",
   "directors": [
     {
       "name": "Mr. Gurdeep  Singh",
@@ -37,6 +37,41 @@
       "age": 58,
       "year_born": 1967,
       "total_pay": 10498677
+    },
+    {
+      "name": "Mr. Shivam  Srivastava",
+      "role": "Fuel Director",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": 10204708
+    },
+    {
+      "name": "Ms. Ritu  Arora",
+      "role": "GM, Company Secretary & Compliance Officer",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sandeep  Naik",
+      "role": "Executive Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. S K Suar",
+      "role": "Executive Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jayadev  Parida",
+      "role": "Executive Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "ticker": "PROSTARM",
   "company": "Prostarm Info Systems Limited",
-  "collected_at": "2026-05-30 05:34:57",
+  "collected_at": "2026-05-31 06:23:50",
   "directors": [
     {
       "name": "Mr. Tapan  Ghose",
@@ -57,6 +57,20 @@
       "role": "Country Head of Enterprise Solutions",
       "age": 43,
       "year_born": 1982,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Prateek  Srivastava",
+      "role": "Business Unit Head",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Chandan Hemant Choudhari",
+      "role": "Financial Controller",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

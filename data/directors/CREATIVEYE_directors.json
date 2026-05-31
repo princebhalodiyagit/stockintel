@@ -1,8 +1,22 @@
 {
   "ticker": "CREATIVEYE",
   "company": "Creative Eye Limited",
-  "collected_at": "2026-05-30 05:17:06",
+  "collected_at": "2026-05-31 06:02:34",
   "directors": [
+    {
+      "name": "Ms. Zuby  Kochhar",
+      "role": "Whole Time Director",
+      "age": 74,
+      "year_born": 1951,
+      "total_pay": 2071720
+    },
+    {
+      "name": "Mr. Ashutosh Dheeraj kumar Kochhar",
+      "role": "Additional Whole Time Executive Director",
+      "age": 23,
+      "year_born": 2002,
+      "total_pay": "N/A"
+    },
     {
       "name": "Pranita  Khopkar",
       "role": "Head of Accounts",

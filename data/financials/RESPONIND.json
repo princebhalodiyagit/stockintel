@@ -1,6 +1,6 @@
 {
   "ticker": "RESPONIND",
-  "collected_at": "2026-05-30 05:36:10",
+  "collected_at": "2026-05-31 06:25:16",
   "company_info": {
     "name": "Responsive Industries Limited",
     "sector": "Basic Materials",
@@ -9,13 +9,13 @@
     "current_price": 194.24,
     "pe_ratio": 34.87253,
     "pb_ratio": 3.5152109,
-    "roe": "N/A",
-    "debt_to_equity": 13.937,
-    "revenue": 13445818368,
-    "net_income": 1798530048,
+    "roe": 0.10221,
+    "debt_to_equity": 12.509,
+    "revenue": 13941182464,
+    "net_income": 1484269952,
     "eps": 5.57,
     "52_week_high": 251.0,
     "52_week_low": 117.25,
-    "dividend_yield": 0.06
+    "dividend_yield": 0.05
   }
 }

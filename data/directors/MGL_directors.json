@@ -1,6 +1,77 @@
 {
   "ticker": "MGL",
   "company": "Mahanagar Gas Limited",
-  "collected_at": "2026-05-30 05:30:13",
-  "directors": []
+  "collected_at": "2026-05-31 06:18:14",
+  "directors": [
+    {
+      "name": "Mr. Sanjay Yeshwantrao Shende",
+      "role": "Deputy MD & Director",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": 12014000
+    },
+    {
+      "name": "Mr. Praveer Kumar Srivastava",
+      "role": "MD & Additional Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajesh D. Patel",
+      "role": "Chief Financial Officer",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sitanshu Sekhar Roychowdhury",
+      "role": "Vice President of Operation & Maintenance",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Atul Trimbak Prabhu",
+      "role": "AVP of Internal Audit, Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajesh P. Wagle",
+      "role": "Senior Vice President of Marketing",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Chakrapani  Atmakur",
+      "role": "Vice President of Human Resources & Corporate Social Responsibility",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. T. L. Sharnagat",
+      "role": "Senior VP of Contracts & Procurement and Chief Risk Officer",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ajay  Sinha",
+      "role": "Deputy MD & Whole-Time Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Gurvinder Singh Anand",
+      "role": "Vice President of Projects",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    }
+  ]
 }

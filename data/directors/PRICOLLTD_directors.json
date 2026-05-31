@@ -1,15 +1,8 @@
 {
   "ticker": "PRICOLLTD",
   "company": "Pricol Limited",
-  "collected_at": "2026-05-30 05:34:51",
+  "collected_at": "2026-05-31 06:23:43",
   "directors": [
-    {
-      "name": "Ms. Vanitha  Mohan",
-      "role": "Executive Non Independent Chairman",
-      "age": 72,
-      "year_born": 1953,
-      "total_pay": 40425000
-    },
     {
       "name": "Mr. Panchapagesa Muthuswamy Ganesh",
       "role": "CEO & Whole-Time Executive Non Independent Director",
@@ -19,7 +12,7 @@
     },
     {
       "name": "Mr. Vikram  Mohan",
-      "role": "MD & Executive Non Independent Director",
+      "role": "MD & Chairman",
       "age": 50,
       "year_born": 1975,
       "total_pay": 70846000
@@ -71,6 +64,13 @@
       "role": "Chief Manufacturing Excellence Officer",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. V.  Ramathilak",
+      "role": "Vice President",
+      "age": 51,
+      "year_born": 1974,
       "total_pay": "N/A"
     }
   ]

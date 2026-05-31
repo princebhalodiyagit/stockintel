@@ -1,6 +1,6 @@
 {
   "ticker": "TCPLPACK",
-  "collected_at": "2026-05-30 05:41:42",
+  "collected_at": "2026-05-31 06:31:58",
   "company_info": {
     "name": "TCPL Packaging Limited",
     "sector": "Consumer Cyclical",
@@ -9,13 +9,13 @@
     "current_price": 2562.0,
     "pe_ratio": 20.450191,
     "pb_ratio": 3.4837995,
-    "roe": "N/A",
-    "debt_to_equity": 103.305,
-    "revenue": 17787502592,
-    "net_income": 1141011968,
+    "roe": 0.14355,
+    "debt_to_equity": 88.192,
+    "revenue": 18355941376,
+    "net_income": 977964032,
     "eps": 125.28,
     "52_week_high": 4078.5,
     "52_week_low": 2200.0,
-    "dividend_yield": 1.13
+    "dividend_yield": 0.98
   }
 }

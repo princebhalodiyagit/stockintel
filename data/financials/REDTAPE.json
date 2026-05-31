@@ -1,6 +1,6 @@
 {
   "ticker": "REDTAPE",
-  "collected_at": "2026-05-30 05:35:56",
+  "collected_at": "2026-05-31 06:25:00",
   "company_info": {
     "name": "REDTAPE Limited",
     "sector": "Consumer Cyclical",
@@ -9,13 +9,13 @@
     "current_price": 139.52,
     "pe_ratio": 32.073566,
     "pb_ratio": 8.963701,
-    "roe": "N/A",
-    "debt_to_equity": 108.421,
-    "revenue": 22492299264,
-    "net_income": 2118899968,
+    "roe": 0.26577,
+    "debt_to_equity": 70.489,
+    "revenue": 24187699200,
+    "net_income": 2405499904,
     "eps": 4.35,
     "52_week_high": 163.5,
     "52_week_low": 107.53,
-    "dividend_yield": 0.38
+    "dividend_yield": 1.43
   }
 }

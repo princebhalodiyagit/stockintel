@@ -1,14 +1,14 @@
 {
   "ticker": "HCLTECH",
   "company": "HCL Technologies Limited",
-  "collected_at": "2026-05-30 05:22:50",
+  "collected_at": "2026-05-31 06:09:24",
   "directors": [
     {
       "name": "Mr. ChinnaSwamy  VijayaKumar",
       "role": "CEO, MD & Director",
       "age": 57,
       "year_born": 1968,
-      "total_pay": 376573088
+      "total_pay": 369525981
     },
     {
       "name": "Mr. Shiv  Nadar",
@@ -29,6 +29,13 @@
       "role": "CTO & Head of Ecosystems",
       "age": 57,
       "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Avishek  Chattopadhyay",
+      "role": "Chief Information Officer",
+      "age": 61,
+      "year_born": 1964,
       "total_pay": "N/A"
     },
     {
@@ -62,13 +69,6 @@
     {
       "name": "Ms. Jill  Kouri",
       "role": "Global Chief Marketing Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Sriram  Hariharan",
-      "role": "Corporate VP and Global Head of Strategy & Corporate Development",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

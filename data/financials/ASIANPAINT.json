@@ -1,21 +1,21 @@
 {
   "ticker": "ASIANPAINT",
-  "collected_at": "2026-05-30 05:12:47",
+  "collected_at": "2026-05-31 05:57:20",
   "company_info": {
     "name": "Asian Paints Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals",
     "market_cap": 2561114112000,
     "current_price": 2671.6,
-    "pe_ratio": 66.656685,
+    "pe_ratio": 59.17165,
     "pb_ratio": 13.074288,
-    "roe": "N/A",
-    "debt_to_equity": 17.609,
-    "revenue": 346495287296,
-    "net_income": 38453600256,
-    "eps": 40.08,
+    "roe": 0.20889999,
+    "debt_to_equity": 17.847,
+    "revenue": 355835412480,
+    "net_income": 43253501952,
+    "eps": 45.15,
     "52_week_high": 2985.7,
     "52_week_low": 2115.0,
-    "dividend_yield": 0.94
+    "dividend_yield": 1.03
   }
 }

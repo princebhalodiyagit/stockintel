@@ -1,20 +1,13 @@
 {
   "ticker": "TRIDENT",
   "company": "Trident Limited",
-  "collected_at": "2026-05-30 05:42:50",
+  "collected_at": "2026-05-31 06:33:21",
   "directors": [
     {
       "name": "Mr. Samir  Joshipura PGD",
       "role": "Group Chief Executive Officer",
       "age": 50,
       "year_born": 1975,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Avneesh  Barua",
-      "role": "Chief Financial Officer",
-      "age": "N/A",
-      "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
@@ -71,6 +64,13 @@
       "role": "Investor Relation & Head of Corporate Finance",
       "age": 44,
       "year_born": 1981,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Rajan  Jha",
+      "role": "Chief Technology Officer",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

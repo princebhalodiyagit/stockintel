@@ -1,7 +1,7 @@
 {
   "ticker": "POWERGRID",
   "company": "Power Grid Corporation of India Limited",
-  "collected_at": "2026-05-30 05:34:31",
+  "collected_at": "2026-05-31 06:23:20",
   "directors": [
     {
       "name": "Mr. Vamsi Rama Mohan Burra",
@@ -64,6 +64,13 @@
       "role": "Chief Vigilance Officer",
       "age": 55,
       "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sanjay Kumar Gupta",
+      "role": "COO of International Business & Executive Director",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

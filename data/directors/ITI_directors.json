@@ -1,7 +1,7 @@
 {
   "ticker": "ITI",
   "company": "ITI Limited",
-  "collected_at": "2026-05-30 05:25:26",
+  "collected_at": "2026-05-31 06:12:35",
   "directors": [
     {
       "name": "Mr. Rajesh  Rai",
@@ -51,6 +51,27 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 2243818
+    },
+    {
+      "name": "Mr. Sajan  Abraham",
+      "role": "General Manager - HR, Asset Management, PR & CPIO",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sunil Kumar Gupta",
+      "role": "Chief Internal Auditor- Corporate",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Babji  Patchilla",
+      "role": "Chief Vigilance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

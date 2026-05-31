@@ -1,6 +1,6 @@
 {
   "ticker": "BALPHARMA",
-  "collected_at": "2026-05-30 05:13:53",
+  "collected_at": "2026-05-31 05:58:42",
   "company_info": {
     "name": "Bal Pharma Limited",
     "sector": "Healthcare",
@@ -9,13 +9,13 @@
     "current_price": 90.12,
     "pe_ratio": 17.705305,
     "pb_ratio": 1.8140827,
-    "roe": "N/A",
-    "debt_to_equity": 197.725,
-    "revenue": 3094617088,
-    "net_income": 81232000,
+    "roe": 0.079169996,
+    "debt_to_equity": 201.197,
+    "revenue": 3116613120,
+    "net_income": 62836000,
     "eps": 5.09,
     "52_week_high": 111.18,
     "52_week_low": 60.0,
-    "dividend_yield": 1.24
+    "dividend_yield": 1.33
   }
 }

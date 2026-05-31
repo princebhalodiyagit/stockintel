@@ -1,7 +1,7 @@
 {
   "ticker": "MASTEK",
   "company": "Mastek Limited",
-  "collected_at": "2026-05-30 05:29:42",
+  "collected_at": "2026-05-31 06:17:37",
   "directors": [
     {
       "name": "Mr. Ashank Datta Desai",
@@ -39,6 +39,13 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. Amit  Gajwani",
+      "role": "Chief Operating Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Ritwik  Batabyal",
       "role": "Chief Technology & Innovation Officer",
       "age": "N/A",
@@ -64,13 +71,6 @@
       "role": "Chief Human Resources Officer",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Abhishek  Singh",
-      "role": "President of UKI & Europe",
-      "age": 46,
-      "year_born": 1979,
       "total_pay": "N/A"
     }
   ]

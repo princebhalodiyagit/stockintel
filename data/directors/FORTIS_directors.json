@@ -1,7 +1,7 @@
 {
   "ticker": "FORTIS",
   "company": "Fortis Healthcare Limited",
-  "collected_at": "2026-05-30 05:20:25",
+  "collected_at": "2026-05-31 06:06:28",
   "directors": [
     {
       "name": "Dr. Ashutosh  Raghuvanshi",
@@ -18,10 +18,24 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. Satyendra  Chauhan",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Daljit  Singh",
       "role": "President",
       "age": 72,
       "year_born": 1953,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anil  Vinayak",
+      "role": "Group Chief Operating Officer",
+      "age": 58,
+      "year_born": 1967,
       "total_pay": "N/A"
     },
     {
@@ -57,20 +71,6 @@
       "role": "Chief Human Resources Officer",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Dr. Bishnu Prasad Panigrahi",
-      "role": "Group Head of MSOG",
-      "age": 71,
-      "year_born": 1954,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Sanjay  Baweja",
-      "role": "Chief Internal Audit & Risk Officer",
-      "age": 65,
-      "year_born": 1960,
       "total_pay": "N/A"
     }
   ]

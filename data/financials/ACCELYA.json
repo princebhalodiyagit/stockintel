@@ -1,6 +1,6 @@
 {
   "ticker": "ACCELYA",
-  "collected_at": "2026-05-30 05:10:21",
+  "collected_at": "2026-05-31 05:54:15",
   "company_info": {
     "name": "Accelya Solutions India Limited",
     "sector": "Technology",
@@ -9,13 +9,13 @@
     "current_price": 1142.3,
     "pe_ratio": 15.823522,
     "pb_ratio": 6.1403418,
-    "roe": 0.39095002,
+    "roe": "N/A",
     "debt_to_equity": 33.047,
-    "revenue": 5375491072,
-    "net_income": 1077437056,
+    "revenue": 5368771072,
+    "net_income": 988744000,
     "eps": 72.19,
     "52_week_high": 1527.0,
     "52_week_low": 1012.4,
-    "dividend_yield": 7.49
+    "dividend_yield": 7.88
   }
 }

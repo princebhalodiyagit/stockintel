@@ -1,6 +1,6 @@
 {
   "ticker": "ARE&M",
-  "collected_at": "2026-05-30 05:12:16",
+  "collected_at": "2026-05-31 05:56:43",
   "company_info": {
     "name": "Amara Raja Energy & Mobility Limited",
     "sector": "Industrials",
@@ -9,13 +9,13 @@
     "current_price": 886.1,
     "pe_ratio": 18.11695,
     "pb_ratio": 2.0956166,
-    "roe": "N/A",
+    "roe": 0.11567,
     "debt_to_equity": 5.015,
-    "revenue": 133383200768,
-    "net_income": 7430099968,
+    "revenue": 138139992064,
+    "net_income": 8957700096,
     "eps": 48.91,
     "52_week_high": 1057.85,
     "52_week_low": 670.0,
-    "dividend_yield": 1.22
+    "dividend_yield": 1.2
   }
 }

@@ -1,6 +1,6 @@
 {
   "ticker": "WEIZMANIND",
-  "collected_at": "2026-05-30 05:44:48",
+  "collected_at": "2026-05-31 06:35:41",
   "company_info": {
     "name": "Weizmann Limited",
     "sector": "Consumer Cyclical",
@@ -9,13 +9,13 @@
     "current_price": 81.6,
     "pe_ratio": "N/A",
     "pb_ratio": 2.0020118,
-    "roe": "N/A",
-    "debt_to_equity": 11.861,
-    "revenue": 1305726976,
-    "net_income": -31254000,
+    "roe": 0.0932,
+    "debt_to_equity": 9.442,
+    "revenue": 1270125952,
+    "net_income": 59130000,
     "eps": -1.43,
     "52_week_high": 128.9,
     "52_week_low": 65.21,
-    "dividend_yield": 0.6
+    "dividend_yield": 0.61
   }
 }

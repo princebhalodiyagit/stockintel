@@ -1,7 +1,7 @@
 {
   "ticker": "SANOFI",
   "company": "Sanofi India Limited",
-  "collected_at": "2026-05-30 05:37:31",
+  "collected_at": "2026-05-31 06:26:58",
   "directors": [
     {
       "name": "Mr. Deepak  Arora",
@@ -11,10 +11,31 @@
       "total_pay": 8230000
     },
     {
+      "name": "Mr. Rachid  Ayari",
+      "role": "CFO & Whole Time Director",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": 22000000
+    },
+    {
+      "name": "Mr. Mahadev  Gawade",
+      "role": "Additional Whole-time Director & Site Head - Goa",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 6410000
+    },
+    {
       "name": "Mr. M. K. Narayanaswamy A.I.C.W.A., B.Com.",
       "role": "Senior Director of Accounting & Taxation",
       "age": 70,
       "year_born": 1955,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Sudipta  Chakraborty",
+      "role": "Head of Legal & Whole-time Director",
+      "age": 43,
+      "year_born": 1982,
       "total_pay": "N/A"
     },
     {
@@ -48,20 +69,6 @@
     {
       "name": "Mr. Bratin  Bag",
       "role": "Senior Director of Ethics & Business Integrity, South Asia",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ms. Nitya  Padmanabhan",
-      "role": "Head of Vaccines for Sanofi Healthcare India Private Limited",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Aniket  Raje",
-      "role": "Head of Regulatory Affairs",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

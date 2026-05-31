@@ -1,6 +1,6 @@
 {
   "ticker": "ALICON",
-  "collected_at": "2026-05-30 05:11:24",
+  "collected_at": "2026-05-31 05:55:38",
   "company_info": {
     "name": "Alicon Castalloy Limited",
     "sector": "Industrials",
@@ -9,13 +9,13 @@
     "current_price": 677.6,
     "pe_ratio": 32.25131,
     "pb_ratio": 1.7978386,
-    "roe": "N/A",
-    "debt_to_equity": 57.003,
-    "revenue": 17007444992,
-    "net_income": 360468992,
+    "roe": 0.05638,
+    "debt_to_equity": 56.406,
+    "revenue": 17757333504,
+    "net_income": 344375008,
     "eps": 21.01,
     "52_week_high": 1022.0,
     "52_week_low": 580.0,
-    "dividend_yield": 0.69
+    "dividend_yield": 0.74
   }
 }

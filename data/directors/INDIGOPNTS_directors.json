@@ -1,7 +1,7 @@
 {
   "ticker": "INDIGOPNTS",
   "company": "Indigo Paints Limited",
-  "collected_at": "2026-05-30 05:24:30",
+  "collected_at": "2026-05-31 06:11:24",
   "directors": [
     {
       "name": "Mr. Hemant Kamala Jalan",
@@ -50,6 +50,13 @@
       "role": "Company Secretary & Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Aishwarya Pratap Singh",
+      "role": "Chief Business Officer",
+      "age": 41,
+      "year_born": 1984,
       "total_pay": "N/A"
     }
   ]

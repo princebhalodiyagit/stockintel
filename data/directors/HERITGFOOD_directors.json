@@ -1,7 +1,7 @@
 {
   "ticker": "HERITGFOOD",
   "company": "Heritage Foods Limited",
-  "collected_at": "2026-05-30 05:23:03",
+  "collected_at": "2026-05-31 06:09:39",
   "directors": [
     {
       "name": "Mr. Srideep Madhavan Nair Kesavan",
@@ -65,6 +65,13 @@
       "age": 53,
       "year_born": 1972,
       "total_pay": 4930000
+    },
+    {
+      "name": "Mr. Rahul  Pandey",
+      "role": "Head of Sales",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

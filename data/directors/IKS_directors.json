@@ -1,7 +1,7 @@
 {
   "ticker": "IKS",
   "company": "Inventurus Knowledge Solutions Limited",
-  "collected_at": "2026-05-30 05:24:12",
+  "collected_at": "2026-05-31 06:11:02",
   "directors": [
     {
       "name": "Mr. Sachin K. Gupta",
@@ -27,6 +27,13 @@
     {
       "name": "Mr. Amit  Saxena",
       "role": "Chief Information Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Saransh  Mundra",
+      "role": "Head of Investor Relations",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
@@ -62,13 +69,6 @@
     {
       "name": "Mr. Abhay Kumar Srivastava",
       "role": "EVP & Head of Leadership Effectiveness",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Kashyap K Joshi",
-      "role": "Chief Development Officer of Aquity Solutions",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

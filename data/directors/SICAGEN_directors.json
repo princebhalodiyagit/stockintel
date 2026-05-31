@@ -1,6 +1,77 @@
 {
   "ticker": "SICAGEN",
   "company": "Sicagen India Limited",
-  "collected_at": "2026-05-30 05:38:53",
-  "directors": []
+  "collected_at": "2026-05-31 06:28:36",
+  "directors": [
+    {
+      "name": "Ms. Ankita  Jain",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 35,
+      "year_born": 1990,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Prasanna  Joshi",
+      "role": "Vice President",
+      "age": 41,
+      "year_born": 1984,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. K.  Lalitha",
+      "role": "Chief Financial Officer",
+      "age": 39,
+      "year_born": 1986,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "V. R. Krishnan",
+      "role": "Dy. General Manager of HR",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "R. M. Muthuraman",
+      "role": "Chief Manager",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "G.  Karthikeyan",
+      "role": "Head (PCS)",
+      "age": 40,
+      "year_born": 1985,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "D.  Sivakumar",
+      "role": "Chief Manager of IPD",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "D. Aditya Kiran",
+      "role": "Regional Sales Manager of Building Materials",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "K.  Ramesh",
+      "role": "Branch Sales Manager",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Kotasthane Kedar Dinesh",
+      "role": "Manager",
+      "age": 40,
+      "year_born": 1985,
+      "total_pay": "N/A"
+    }
+  ]
 }
