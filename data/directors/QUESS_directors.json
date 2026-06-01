@@ -1,7 +1,7 @@
 {
   "ticker": "QUESS",
   "company": "Quess Corp Limited",
-  "collected_at": "2026-05-31 06:24:14",
+  "collected_at": "2026-06-01 06:52:10",
   "directors": [
     {
       "name": "Mr. Lohit  Bhatia",
@@ -23,13 +23,6 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Guruprasad  Srinivasan",
-      "role": "Executive Director",
-      "age": 49,
-      "year_born": 1976,
-      "total_pay": 53480000
     },
     {
       "name": "Mr. Vijay  Sivaram",
@@ -71,6 +64,13 @@
       "role": "CEO of Facility Management and Security Services",
       "age": 49,
       "year_born": 1976,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Nitin  Dave",
+      "role": "Chief Executive Officer of Quess Staffing Solutions",
+      "age": 51,
+      "year_born": 1974,
       "total_pay": "N/A"
     }
   ]

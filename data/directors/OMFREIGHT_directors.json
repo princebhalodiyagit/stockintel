@@ -1,7 +1,7 @@
 {
   "ticker": "OMFREIGHT",
   "company": "Om Freight Forwarders Limited",
-  "collected_at": "2026-05-31 06:21:19",
+  "collected_at": "2026-06-01 06:49:43",
   "directors": [
     {
       "name": "Mr. Rahul Jagannath Joshi",
@@ -43,6 +43,34 @@
       "role": "Executive Director",
       "age": 68,
       "year_born": 1957,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Manisha Kaur Saluja",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Harshal Jagdishbhai Joshi",
+      "role": "Vice President of Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Aatik Juma Qureshi",
+      "role": "Vice President of Port Operations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anant Narayan Shivgan",
+      "role": "Vice President of Export Custom Clearance & Freight Forwarders",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

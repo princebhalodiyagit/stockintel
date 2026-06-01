@@ -1,7 +1,7 @@
 {
   "ticker": "RML",
   "company": "Rane (Madras) Limited",
-  "collected_at": "2026-05-31 06:25:35",
+  "collected_at": "2026-06-01 06:53:19",
   "directors": [
     {
       "name": "Mr. Harish  Lakshman B.E, M.S.M",
@@ -15,13 +15,6 @@
       "role": "Executive VP of Finance & CFO",
       "age": 58,
       "year_born": 1967,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ms. Subha Shree Sridharan",
-      "role": "Compliance Officer & Secretary",
-      "age": "N/A",
-      "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
@@ -71,6 +64,13 @@
       "role": "Senior Vice President of Research & Development",
       "age": 57,
       "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. M.  Karthikeyan",
+      "role": "Material Management Head",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]
