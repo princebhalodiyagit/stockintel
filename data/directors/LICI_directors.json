@@ -1,7 +1,7 @@
 {
   "ticker": "LICI",
   "company": "Life Insurance Corporation Of India",
-  "collected_at": "2026-06-01 06:45:23",
+  "collected_at": "2026-06-02 06:30:18",
   "directors": [
     {
       "name": "Mr. Doraiswamy  Ramchandran",
@@ -27,13 +27,6 @@
     {
       "name": "Mr. K. R. Ashok",
       "role": "Executive Director of Acturial/Administration/IT Implementation",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Krishna Kumar Sukumaran Nair",
-      "role": "Executive Director of Corp.Gov/ GJF/ Reg.Comp & Chief Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
@@ -71,6 +64,13 @@
       "role": "MD & Director",
       "age": 56,
       "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pradeep  Pandey",
+      "role": "Chief Digital Officer",
+      "age": 52,
+      "year_born": 1973,
       "total_pay": "N/A"
     }
   ]

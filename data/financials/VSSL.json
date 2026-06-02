@@ -1,14 +1,14 @@
 {
   "ticker": "VSSL",
-  "collected_at": "2026-06-01 07:01:30",
+  "collected_at": "2026-06-02 06:46:31",
   "company_info": {
     "name": "Vardhman Special Steels Limited",
     "sector": "Basic Materials",
     "industry": "Steel",
-    "market_cap": 26167977984,
-    "current_price": 270.65,
-    "pe_ratio": 20.597412,
-    "pb_ratio": 2.1449347,
+    "market_cap": 26066460672,
+    "current_price": 269.6,
+    "pe_ratio": 20.517504,
+    "pb_ratio": 2.1366134,
     "roe": 0.1176,
     "debt_to_equity": 7.281,
     "revenue": 17544331264,
@@ -16,6 +16,6 @@
     "eps": 13.14,
     "52_week_high": 324.0,
     "52_week_low": 206.4,
-    "dividend_yield": 1.12
+    "dividend_yield": 1.11
   }
 }

@@ -1,14 +1,14 @@
 {
   "ticker": "CUMMINSIND",
-  "collected_at": "2026-06-01 06:34:17",
+  "collected_at": "2026-06-02 06:19:11",
   "company_info": {
     "name": "Cummins India Limited",
     "sector": "Industrials",
     "industry": "Specialty Industrial Machinery",
-    "market_cap": 1584059383808,
-    "current_price": 5714.5,
-    "pe_ratio": 67.01654,
-    "pb_ratio": 20.064465,
+    "market_cap": 1584336601088,
+    "current_price": 5715.5,
+    "pe_ratio": 67.02827,
+    "pb_ratio": 20.067976,
     "roe": 0.29455,
     "debt_to_equity": 0.431,
     "revenue": 121431900160,
@@ -16,6 +16,6 @@
     "eps": 85.27,
     "52_week_high": 6100.0,
     "52_week_low": 3212.2,
-    "dividend_yield": 1.12
+    "dividend_yield": 1.16
   }
 }

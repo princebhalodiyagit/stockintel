@@ -1,14 +1,14 @@
 {
   "ticker": "GPTHEALTH",
-  "collected_at": "2026-06-01 06:38:50",
+  "collected_at": "2026-06-02 06:23:43",
   "company_info": {
     "name": "GPT Healthcare Limited",
     "sector": "Healthcare",
     "industry": "Medical Care Facilities",
-    "market_cap": 11779789824,
-    "current_price": 143.56,
-    "pe_ratio": 27.875727,
-    "pb_ratio": 4.6497164,
+    "market_cap": 12193347584,
+    "current_price": 148.6,
+    "pe_ratio": 28.85437,
+    "pb_ratio": 4.812956,
     "roe": 0.16324,
     "debt_to_equity": 33.842,
     "revenue": 4725470208,
@@ -16,6 +16,6 @@
     "eps": 5.15,
     "52_week_high": 185.0,
     "52_week_low": 115.0,
-    "dividend_yield": 2.11
+    "dividend_yield": 2.1
   }
 }

@@ -1,14 +1,14 @@
 {
   "ticker": "VRLLOG",
-  "collected_at": "2026-06-01 07:01:29",
+  "collected_at": "2026-06-02 06:46:30",
   "company_info": {
     "name": "VRL Logistics Limited",
     "sector": "Industrials",
     "industry": "Trucking",
-    "market_cap": 41110192128,
-    "current_price": 235.0,
-    "pe_ratio": 17.36881,
-    "pb_ratio": 3.751956,
+    "market_cap": 41794195456,
+    "current_price": 238.91,
+    "pe_ratio": 17.657799,
+    "pb_ratio": 3.814382,
     "roe": 0.21269,
     "debt_to_equity": 101.023,
     "revenue": 32211099648,
@@ -16,6 +16,6 @@
     "eps": 13.53,
     "52_week_high": 324.5,
     "52_week_low": 225.0,
-    "dividend_yield": 4.28
+    "dividend_yield": 4.22
   }
 }

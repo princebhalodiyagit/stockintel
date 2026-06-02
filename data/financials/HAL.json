@@ -1,14 +1,14 @@
 {
   "ticker": "HAL",
-  "collected_at": "2026-06-01 06:39:30",
+  "collected_at": "2026-06-02 06:24:23",
   "company_info": {
     "name": "Hindustan Aeronautics Limited",
     "sector": "Industrials",
     "industry": "Aerospace & Defense",
-    "market_cap": 2843631157248,
-    "current_price": 4252.0,
-    "pe_ratio": 31.166168,
-    "pb_ratio": 6.929043,
+    "market_cap": 2825708109824,
+    "current_price": 4225.2,
+    "pe_ratio": 30.96973,
+    "pb_ratio": 6.88537,
     "roe": 0.23979001,
     "debt_to_equity": 0.027,
     "revenue": 330888183808,
@@ -16,6 +16,6 @@
     "eps": 136.43,
     "52_week_high": 5147.0,
     "52_week_low": 3479.1,
-    "dividend_yield": 1.16
+    "dividend_yield": 1.18
   }
 }

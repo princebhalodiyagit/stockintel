@@ -1,7 +1,7 @@
 {
   "ticker": "HINDZINC",
   "company": "Hindustan Zinc Limited",
-  "collected_at": "2026-06-01 06:40:21",
+  "collected_at": "2026-06-02 06:25:14",
   "directors": [
     {
       "name": "Mr. Arun  Misra",
@@ -9,13 +9,6 @@
       "age": 60,
       "year_born": 1965,
       "total_pay": 135378999
-    },
-    {
-      "name": "Mr. Sandeep  Modi",
-      "role": "Chief Financial Officer",
-      "age": 42,
-      "year_born": 1983,
-      "total_pay": "N/A"
     },
     {
       "name": "Mr. Kishore  Kumar S",
@@ -69,6 +62,13 @@
     {
       "name": "Mr. Pradeep  Singh",
       "role": "Chief Health, Safety and Environment Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ram  Murari",
+      "role": "IBU CEO Rampura Agucha",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

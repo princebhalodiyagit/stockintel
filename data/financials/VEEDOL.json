@@ -1,14 +1,14 @@
 {
   "ticker": "VEEDOL",
-  "collected_at": "2026-06-01 07:00:48",
+  "collected_at": "2026-06-02 06:45:51",
   "company_info": {
     "name": "Veedol Corporation Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals",
-    "market_cap": 24482795520,
-    "current_price": 1440.6,
-    "pe_ratio": 12.779206,
-    "pb_ratio": 2.5051603,
+    "market_cap": 24064720896,
+    "current_price": 1416.0,
+    "pe_ratio": 12.5609865,
+    "pb_ratio": 2.4623818,
     "roe": 0.19657,
     "debt_to_equity": 1.534,
     "revenue": 21685399552,
@@ -16,6 +16,6 @@
     "eps": 112.73,
     "52_week_high": 2035.0,
     "52_week_low": 1238.2,
-    "dividend_yield": 4.03
+    "dividend_yield": 4.05
   }
 }

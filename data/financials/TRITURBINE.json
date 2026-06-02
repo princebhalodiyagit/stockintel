@@ -1,14 +1,14 @@
 {
   "ticker": "TRITURBINE",
-  "collected_at": "2026-06-01 06:59:45",
+  "collected_at": "2026-06-02 06:44:47",
   "company_info": {
     "name": "Triveni Turbine Limited",
     "sector": "Industrials",
     "industry": "Specialty Industrial Machinery",
-    "market_cap": 222844370944,
-    "current_price": 701.0,
-    "pe_ratio": 63.901546,
-    "pb_ratio": 15.389344,
+    "market_cap": 215596384256,
+    "current_price": 678.2,
+    "pe_ratio": 61.823154,
+    "pb_ratio": 14.888806,
     "roe": 0.26217,
     "debt_to_equity": 2.476,
     "revenue": 21810999296,
@@ -16,6 +16,6 @@
     "eps": 10.97,
     "52_week_high": 787.6,
     "52_week_low": 428.35,
-    "dividend_yield": 0.54
+    "dividend_yield": 0.58
   }
 }

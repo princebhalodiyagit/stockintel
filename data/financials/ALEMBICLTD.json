@@ -1,14 +1,14 @@
 {
   "ticker": "ALEMBICLTD",
-  "collected_at": "2026-06-01 06:28:23",
+  "collected_at": "2026-06-02 06:13:13",
   "company_info": {
     "name": "Alembic Limited",
     "sector": "Real Estate",
     "industry": "Real Estate - Development",
-    "market_cap": 22157703168,
-    "current_price": 86.29,
-    "pe_ratio": 6.981392,
-    "pb_ratio": 0.8744692,
+    "market_cap": 22262982656,
+    "current_price": 86.7,
+    "pe_ratio": 7.014563,
+    "pb_ratio": 0.87862414,
     "roe": 0.13269,
     "debt_to_equity": 0.435,
     "revenue": 2399899904,
@@ -16,6 +16,6 @@
     "eps": 12.36,
     "52_week_high": 125.54,
     "52_week_low": 70.46,
-    "dividend_yield": 2.74
+    "dividend_yield": 2.77
   }
 }

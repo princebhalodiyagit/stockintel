@@ -1,7 +1,7 @@
 {
   "ticker": "ADANIENT",
   "company": "Adani Enterprises Limited",
-  "collected_at": "2026-06-01 06:27:33",
+  "collected_at": "2026-06-02 06:12:21",
   "directors": [
     {
       "name": "Mr. Gautambhai Shantilal Adani S.Y. B.Com",
@@ -16,34 +16,6 @@
       "age": 61,
       "year_born": 1964,
       "total_pay": 119900000
-    },
-    {
-      "name": "Mr. Jugeshinder  Singh",
-      "role": "Chief Financial Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 101100000
-    },
-    {
-      "name": "Mr. Jatinkumar Rameshchandra Jalundhwala B.Com LLB FCS",
-      "role": "Joint President of Legal, Compliance Officer & Company Secretary",
-      "age": 65,
-      "year_born": 1960,
-      "total_pay": 54800000
-    },
-    {
-      "name": "Dr. Vinay Prakash Goel",
-      "role": "CEO of Natural Resources & Executive Director",
-      "age": 52,
-      "year_born": 1973,
-      "total_pay": 483600000
-    },
-    {
-      "name": "Mr. Aman Kumar Singh",
-      "role": "President, Head of Strategy & Chairman's Office",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
     },
     {
       "name": "Dr. Malay Rameshchandra Mahadevia",
@@ -71,6 +43,34 @@
       "role": "MD of Adani Ports & SEZ Ltd.",
       "age": 38,
       "year_born": 1987,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anil Kumar Sardana AICWA, B.E., PGDBM",
+      "role": "Managing Director of Adani Energy Solutions",
+      "age": 66,
+      "year_born": 1959,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Nitin  Sethi",
+      "role": "Chief Digital Officer of Consumer Businesses",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sanjay  Pugalia",
+      "role": "CEO & Editor-In-Chief for Media Related Initiatives",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Vivek  Panda",
+      "role": "Chief Sustainability Officer",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

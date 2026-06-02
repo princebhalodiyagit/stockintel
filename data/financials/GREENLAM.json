@@ -1,14 +1,14 @@
 {
   "ticker": "GREENLAM",
-  "collected_at": "2026-06-01 06:39:00",
+  "collected_at": "2026-06-02 06:23:53",
   "company_info": {
     "name": "Greenlam Industries Limited",
     "sector": "Consumer Cyclical",
     "industry": "Furnishings, Fixtures & Appliances",
-    "market_cap": 59347353600,
-    "current_price": 232.6,
-    "pe_ratio": 106.210045,
-    "pb_ratio": 4.8950906,
+    "market_cap": 59194265600,
+    "current_price": 232.0,
+    "pe_ratio": 105.93607,
+    "pb_ratio": 4.8824635,
     "roe": 0.04862,
     "debt_to_equity": 98.417,
     "revenue": 30460801024,
@@ -16,6 +16,6 @@
     "eps": 2.19,
     "52_week_high": 278.63,
     "52_week_low": 197.59,
-    "dividend_yield": 0.18
+    "dividend_yield": 0.17
   }
 }

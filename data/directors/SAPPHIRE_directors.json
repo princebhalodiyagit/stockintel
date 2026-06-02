@@ -1,7 +1,7 @@
 {
   "ticker": "SAPPHIRE",
   "company": "Sapphire Foods India Limited",
-  "collected_at": "2026-06-01 06:54:26",
+  "collected_at": "2026-06-02 06:39:26",
   "directors": [
     {
       "name": "Mr. Sanjay  Purohit",
@@ -15,13 +15,6 @@
       "role": "CFO & Executive Director",
       "age": 43,
       "year_born": 1982,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Amar Yatin Patel",
-      "role": "Executive VP & CTO",
-      "age": "N/A",
-      "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
@@ -72,6 +65,13 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 2573938
+    },
+    {
+      "name": "Mr. Ashu  Khanna B.Tech.",
+      "role": "Executive Vice President of SCM",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
     }
   ]
 }
