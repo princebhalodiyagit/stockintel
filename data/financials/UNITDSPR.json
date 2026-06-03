@@ -1,14 +1,14 @@
 {
   "ticker": "UNITDSPR",
-  "collected_at": "2026-06-02 06:45:23",
+  "collected_at": "2026-06-03 06:58:47",
   "company_info": {
     "name": "United Spirits Limited",
     "sector": "Consumer Defensive",
     "industry": "Beverages - Wineries & Distilleries",
-    "market_cap": 916089077760,
-    "current_price": 1259.4,
-    "pe_ratio": 52.257263,
-    "pb_ratio": 10.643296,
+    "market_cap": 913615945728,
+    "current_price": 1256.0,
+    "pe_ratio": 52.11618,
+    "pb_ratio": 10.614563,
     "roe": 0.20034,
     "debt_to_equity": 4.611,
     "revenue": 124670001152,
@@ -16,6 +16,6 @@
     "eps": 24.1,
     "52_week_high": 1645.0,
     "52_week_low": 1210.8,
-    "dividend_yield": 1.36
+    "dividend_yield": 1.33
   }
 }

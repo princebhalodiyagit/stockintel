@@ -1,14 +1,14 @@
 {
   "ticker": "WESTLIFE",
-  "collected_at": "2026-06-02 06:46:52",
+  "collected_at": "2026-06-03 07:00:15",
   "company_info": {
     "name": "Westlife Foodworld Limited",
     "sector": "Consumer Cyclical",
     "industry": "Restaurants",
-    "market_cap": 65074208768,
-    "current_price": 419.25,
-    "pe_ratio": 203.51942,
-    "pb_ratio": 10.475489,
+    "market_cap": 64259325952,
+    "current_price": 414.0,
+    "pe_ratio": 200.97089,
+    "pb_ratio": 10.344311,
     "roe": 0.05289,
     "debt_to_equity": 291.521,
     "revenue": 26003523584,
@@ -16,6 +16,6 @@
     "eps": 2.06,
     "52_week_high": 819.2,
     "52_week_low": 398.4,
-    "dividend_yield": 0.35
+    "dividend_yield": 0.36
   }
 }

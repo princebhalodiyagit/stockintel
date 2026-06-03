@@ -1,7 +1,7 @@
 {
   "ticker": "SWIGGY",
   "company": "Swiggy Limited",
-  "collected_at": "2026-06-02 06:43:00",
+  "collected_at": "2026-06-03 06:56:27",
   "directors": [
     {
       "name": "Mr. Sriharsha  Majety",
@@ -9,20 +9,6 @@
       "age": 39,
       "year_born": 1986,
       "total_pay": 766040000
-    },
-    {
-      "name": "Mr. Phani Kishan Addepalli",
-      "role": "Co-Founder & Chief Growth Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Rahul  Bothra",
-      "role": "Group Chief Financial Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
     },
     {
       "name": "Mr. Sairam  Krishnamurthy",
@@ -71,6 +57,20 @@
       "role": "Chief Executive Officer of Food Marketplace",
       "age": 51,
       "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Amitesh  Jha",
+      "role": "Chief Executive Officer of Swiggy Instamart",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Hari  Kumar G",
+      "role": "Senior VP & Chief Business Officer - Swiggy Instamart",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

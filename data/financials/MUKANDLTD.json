@@ -1,14 +1,14 @@
 {
   "ticker": "MUKANDLTD",
-  "collected_at": "2026-06-02 06:32:53",
+  "collected_at": "2026-06-03 06:46:33",
   "company_info": {
     "name": "Mukand Limited",
     "sector": "Basic Materials",
     "industry": "Steel",
-    "market_cap": 20012636160,
-    "current_price": 138.5,
-    "pe_ratio": 3.3126044,
-    "pb_ratio": 1.3145406,
+    "market_cap": 19811786752,
+    "current_price": 137.11,
+    "pe_ratio": 3.2793589,
+    "pb_ratio": 1.3013477,
     "roe": 0.48880002,
     "debt_to_equity": 111.455,
     "revenue": 48898301952,
@@ -16,6 +16,6 @@
     "eps": 41.81,
     "52_week_high": 162.0,
     "52_week_low": 111.5,
-    "dividend_yield": 1.44
+    "dividend_yield": 1.42
   }
 }

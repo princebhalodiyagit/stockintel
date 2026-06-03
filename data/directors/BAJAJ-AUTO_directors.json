@@ -1,7 +1,7 @@
 {
   "ticker": "BAJAJ-AUTO",
   "company": "Bajaj Auto Limited",
-  "collected_at": "2026-06-02 06:15:29",
+  "collected_at": "2026-06-03 06:29:19",
   "directors": [
     {
       "name": "Mr. Rajivnayan Rahulkumar Bajaj",
@@ -53,13 +53,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Ms. Baminee  Viswanat",
-      "role": "General Counsel",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
       "name": "Ms. Deepika  Warrier",
       "role": "Head of Marketing",
       "age": 55,
@@ -71,6 +64,13 @@
       "role": "Chief Human Resources Officer",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. S.  Ravikumar",
+      "role": "Chief Business Development Officer",
+      "age": 67,
+      "year_born": 1958,
       "total_pay": "N/A"
     }
   ]

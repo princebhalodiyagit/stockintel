@@ -1,14 +1,14 @@
 {
   "ticker": "PANAMAPET",
-  "collected_at": "2026-06-02 06:35:16",
+  "collected_at": "2026-06-03 06:48:54",
   "company_info": {
     "name": "Panama Petrochem Limited",
     "sector": "Energy",
     "industry": "Oil & Gas Refining & Marketing",
-    "market_cap": 18964744192,
-    "current_price": 313.5,
-    "pe_ratio": 8.9265375,
-    "pb_ratio": 1.4148899,
+    "market_cap": 18973816832,
+    "current_price": 313.65,
+    "pe_ratio": 8.930809,
+    "pb_ratio": 1.4155669,
     "roe": 0.15604,
     "debt_to_equity": 7.548,
     "revenue": 30769999872,
@@ -16,6 +16,6 @@
     "eps": 35.12,
     "52_week_high": 373.2,
     "52_week_low": 229.0,
-    "dividend_yield": 1.66
+    "dividend_yield": 1.58
   }
 }

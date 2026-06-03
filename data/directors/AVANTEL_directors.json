@@ -1,55 +1,41 @@
 {
   "ticker": "AVANTEL",
   "company": "Avantel Limited",
-  "collected_at": "2026-06-02 06:15:10",
+  "collected_at": "2026-06-03 06:29:01",
   "directors": [
     {
       "name": "Dr. Abburi  Vidyasagar",
       "role": "Chairman, MD & CEO",
       "age": 65,
       "year_born": 1960,
-      "total_pay": 32104000
+      "total_pay": 13711000
     },
     {
       "name": "Ms. Abburi  Sarada",
       "role": "CFO, Director of Finance & Accounts and Whole-Time Director",
       "age": 61,
       "year_born": 1964,
-      "total_pay": 29001000
+      "total_pay": 11555000
     },
     {
       "name": "Mr. Dondeti Rajasekhara Reddy",
       "role": "Company Secretary & Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": 1578000
+      "total_pay": 2108000
     },
     {
       "name": "Mr. Abburi Siddhartha Sagar",
       "role": "Director of Strategy & Business Development and Whole Time Director",
       "age": 38,
       "year_born": 1987,
-      "total_pay": 22934000
+      "total_pay": 9451000
     },
     {
       "name": "Mr. P. Bala-Bhaskara Rao",
       "role": "VP of Marketing & Customer Support and Chief Risk Officer",
       "age": 50,
       "year_born": 1975,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Pusuluru Srinivasa Rao",
-      "role": "General Manager of Production",
-      "age": 50,
-      "year_born": 1975,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Captain P.  Srinivas",
-      "role": "Vice President of Q A & Projects",
-      "age": 53,
-      "year_born": 1972,
       "total_pay": "N/A"
     },
     {
@@ -71,6 +57,13 @@
       "role": "General Manager of Finance & Accounts",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Venugopal  Atluri",
+      "role": "General Manager of R&D",
+      "age": 42,
+      "year_born": 1983,
       "total_pay": "N/A"
     }
   ]

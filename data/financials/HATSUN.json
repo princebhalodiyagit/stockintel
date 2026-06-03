@@ -1,14 +1,14 @@
 {
   "ticker": "HATSUN",
-  "collected_at": "2026-06-02 06:24:34",
+  "collected_at": "2026-06-03 06:38:22",
   "company_info": {
     "name": "Hatsun Agro Product Limited",
     "sector": "Consumer Defensive",
     "industry": "Packaged Foods",
-    "market_cap": 205540966400,
-    "current_price": 922.75,
-    "pe_ratio": 57.780212,
-    "pb_ratio": 11.232365,
+    "market_cap": 203101863936,
+    "current_price": 911.8,
+    "pe_ratio": 57.09455,
+    "pb_ratio": 11.099073,
     "roe": 0.19418,
     "debt_to_equity": 94.535,
     "revenue": 99592200192,
@@ -16,6 +16,6 @@
     "eps": 15.97,
     "52_week_high": 1179.0,
     "52_week_low": 855.3,
-    "dividend_yield": 2.14
+    "dividend_yield": 2.17
   }
 }

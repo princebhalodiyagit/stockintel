@@ -1,14 +1,14 @@
 {
   "ticker": "JAMNAAUTO",
-  "collected_at": "2026-06-02 06:27:32",
+  "collected_at": "2026-06-03 06:41:19",
   "company_info": {
     "name": "Jamna Auto Industries Limited",
     "sector": "Consumer Cyclical",
     "industry": "Auto Parts",
-    "market_cap": 47630577664,
-    "current_price": 119.14,
-    "pe_ratio": 20.64818,
-    "pb_ratio": 4.138674,
+    "market_cap": 47574609920,
+    "current_price": 119.0,
+    "pe_ratio": 20.623917,
+    "pb_ratio": 4.1338105,
     "roe": 0.21584,
     "debt_to_equity": 13.054,
     "revenue": 26115872768,
@@ -16,6 +16,6 @@
     "eps": 5.77,
     "52_week_high": 152.6,
     "52_week_low": 86.36,
-    "dividend_yield": 1.67
+    "dividend_yield": 1.74
   }
 }

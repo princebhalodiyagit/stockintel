@@ -1,14 +1,14 @@
 {
   "ticker": "SONATSOFTW",
-  "collected_at": "2026-06-02 06:41:30",
+  "collected_at": "2026-06-03 06:55:00",
   "company_info": {
     "name": "Sonata Software Limited",
     "sector": "Technology",
     "industry": "Information Technology Services",
-    "market_cap": 77225656320,
-    "current_price": 279.0,
-    "pe_ratio": 16.67663,
-    "pb_ratio": 4.0577683,
+    "market_cap": 73239814144,
+    "current_price": 264.6,
+    "pe_ratio": 15.815901,
+    "pb_ratio": 3.8483353,
     "roe": 0.25724,
     "debt_to_equity": 37.962,
     "revenue": 107012399104,
@@ -16,6 +16,6 @@
     "eps": 16.73,
     "52_week_high": 452.8,
     "52_week_low": 207.15,
-    "dividend_yield": 3.06
+    "dividend_yield": 2.93
   }
 }

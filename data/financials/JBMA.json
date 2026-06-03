@@ -1,21 +1,21 @@
 {
   "ticker": "JBMA",
-  "collected_at": "2026-06-02 06:27:41",
+  "collected_at": "2026-06-03 06:41:28",
   "company_info": {
     "name": "JBM Auto Limited",
     "sector": "Consumer Cyclical",
     "industry": "Auto Parts",
-    "market_cap": 151817502720,
-    "current_price": 641.95,
-    "pe_ratio": 69.4,
-    "pb_ratio": 10.689013,
-    "roe": "N/A",
+    "market_cap": 150954295296,
+    "current_price": 638.3,
+    "pe_ratio": 68.930885,
+    "pb_ratio": 10.628237,
+    "roe": 0.15988,
     "debt_to_equity": 190.282,
-    "revenue": 58850103296,
-    "net_income": 2108814976,
-    "eps": 9.25,
+    "revenue": 60883701760,
+    "net_income": 2187800064,
+    "eps": 9.26,
     "52_week_high": 790.0,
     "52_week_low": 477.0,
-    "dividend_yield": 0.14
+    "dividend_yield": 0.13
   }
 }

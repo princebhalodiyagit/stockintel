@@ -1,14 +1,14 @@
 {
   "ticker": "INDOUS",
-  "collected_at": "2026-06-02 06:26:33",
+  "collected_at": "2026-06-03 06:40:19",
   "company_info": {
     "name": "Indo Us Bio-Tech Limited",
     "sector": "Basic Materials",
     "industry": "Agricultural Inputs",
-    "market_cap": 1985148032,
-    "current_price": 99.0,
-    "pe_ratio": 13.378378,
-    "pb_ratio": 2.292569,
+    "market_cap": 1943038848,
+    "current_price": 96.9,
+    "pe_ratio": 13.094595,
+    "pb_ratio": 2.2439387,
     "roe": "N/A",
     "debt_to_equity": 31.895,
     "revenue": 1177990016,
@@ -16,6 +16,6 @@
     "eps": 7.4,
     "52_week_high": 206.0,
     "52_week_low": 96.05,
-    "dividend_yield": 0.18
+    "dividend_yield": "N/A"
   }
 }

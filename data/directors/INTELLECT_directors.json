@@ -1,7 +1,7 @@
 {
   "ticker": "INTELLECT",
   "company": "Intellect Design Arena Limited",
-  "collected_at": "2026-06-02 06:26:53",
+  "collected_at": "2026-06-03 06:40:39",
   "directors": [
     {
       "name": "Mr. Arun  Jain B.E.",
@@ -20,13 +20,6 @@
     {
       "name": "Ms. Vasudha  Subramaniam",
       "role": "Chief Financial Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Krishna  Rajaraman",
-      "role": "Chief Technology Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
@@ -71,6 +64,13 @@
       "role": "Chief Marketing Officer",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Padmini  Sharathkumar B.E., M.M. S",
+      "role": "Chief Talent Officer",
+      "age": 56,
+      "year_born": 1969,
       "total_pay": "N/A"
     }
   ]
