@@ -1,7 +1,7 @@
 {
   "ticker": "FIEMIND",
   "company": "Fiem Industries Limited",
-  "collected_at": "2026-06-03 06:35:47",
+  "collected_at": "2026-06-04 06:27:16",
   "directors": [
     {
       "name": "Mr. Jagjeevan Kumar Jain",
@@ -9,13 +9,6 @@
       "age": 73,
       "year_born": 1952,
       "total_pay": 24000000
-    },
-    {
-      "name": "Mr. Vineet  Sahni BE, PGDBM",
-      "role": "CEO & Director",
-      "age": 60,
-      "year_born": 1965,
-      "total_pay": 35922000
     },
     {
       "name": "Mr. Om Prakash Gupta",
@@ -72,6 +65,13 @@
       "age": 39,
       "year_born": 1986,
       "total_pay": 14400000
+    },
+    {
+      "name": "Mr. Lalit  Ahuja",
+      "role": "Senior Vice President of Design & Development",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": "N/A"
     }
   ]
 }

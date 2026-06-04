@@ -1,14 +1,14 @@
 {
   "ticker": "CHEVIOT",
-  "collected_at": "2026-06-03 06:32:08",
+  "collected_at": "2026-06-04 06:23:40",
   "company_info": {
     "name": "Cheviot Company Limited",
     "sector": "Consumer Cyclical",
     "industry": "Textile Manufacturing",
-    "market_cap": 6374653952,
-    "current_price": 1091.2,
-    "pe_ratio": 12.325765,
-    "pb_ratio": 0.9030159,
+    "market_cap": 6496164864,
+    "current_price": 1112.0,
+    "pe_ratio": 12.560714,
+    "pb_ratio": 0.9202289,
     "roe": 0.0762,
     "debt_to_equity": 1.216,
     "revenue": 5474051072,
@@ -16,6 +16,6 @@
     "eps": 88.53,
     "52_week_high": 1370.5,
     "52_week_low": 898.0,
-    "dividend_yield": 2.23
+    "dividend_yield": 2.28
   }
 }

@@ -1,7 +1,7 @@
 {
   "ticker": "SHREYANIND",
   "company": "Shreyans Industries Limited",
-  "collected_at": "2026-06-03 06:54:07",
+  "collected_at": "2026-06-04 06:45:23",
   "directors": [
     {
       "name": "Mr. Rajneesh  Oswal",
@@ -22,13 +22,6 @@
       "role": "President",
       "age": 66,
       "year_born": 1959,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Rakesh Kumar Mahajan",
-      "role": "Chief Financial Officer",
-      "age": "N/A",
-      "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
@@ -71,6 +64,13 @@
       "role": "Senior General Manager",
       "age": 53,
       "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Krishan Lal Sharma",
+      "role": "Senior General Manager",
+      "age": 64,
+      "year_born": 1961,
       "total_pay": "N/A"
     }
   ]

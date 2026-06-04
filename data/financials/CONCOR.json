@@ -1,14 +1,14 @@
 {
   "ticker": "CONCOR",
-  "collected_at": "2026-06-03 06:32:36",
+  "collected_at": "2026-06-04 06:24:06",
   "company_info": {
     "name": "Container Corporation of India Limited",
     "sector": "Industrials",
     "industry": "Railroads",
-    "market_cap": 340290863104,
-    "current_price": 446.8,
-    "pe_ratio": 27.310513,
-    "pb_ratio": 2.6206048,
+    "market_cap": 342728048640,
+    "current_price": 450.0,
+    "pe_ratio": 27.506111,
+    "pb_ratio": 2.6393738,
     "roe": 0.097559996,
     "debt_to_equity": 7.39,
     "revenue": 94431797248,
@@ -16,6 +16,6 @@
     "eps": 16.36,
     "52_week_high": 652.04,
     "52_week_low": 421.45,
-    "dividend_yield": 2.96
+    "dividend_yield": 3.01
   }
 }

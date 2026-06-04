@@ -1,14 +1,14 @@
 {
   "ticker": "CRIZAC",
-  "collected_at": "2026-06-03 06:32:55",
+  "collected_at": "2026-06-04 06:24:25",
   "company_info": {
     "name": "Crizac Limited",
     "sector": "Consumer Defensive",
     "industry": "Education & Training Services",
-    "market_cap": 37873213440,
-    "current_price": 216.44,
-    "pe_ratio": 17.30136,
-    "pb_ratio": 6.4784937,
+    "market_cap": 37633486848,
+    "current_price": 215.07,
+    "pe_ratio": 17.191847,
+    "pb_ratio": 6.437487,
     "roe": 0.40003,
     "debt_to_equity": 0.31,
     "revenue": 10421570560,
@@ -16,6 +16,6 @@
     "eps": 12.51,
     "52_week_high": 387.95,
     "52_week_low": 173.35,
-    "dividend_yield": 7.41
+    "dividend_yield": 7.42
   }
 }

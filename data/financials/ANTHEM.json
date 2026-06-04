@@ -1,14 +1,14 @@
 {
   "ticker": "ANTHEM",
-  "collected_at": "2026-06-03 06:27:41",
+  "collected_at": "2026-06-04 06:19:19",
   "company_info": {
     "name": "Anthem Biosciences Limited",
     "sector": "Healthcare",
     "industry": "Biotechnology",
-    "market_cap": 424037810176,
-    "current_price": 754.9,
-    "pe_ratio": 72.377754,
-    "pb_ratio": 13.929586,
+    "market_cap": 420807933952,
+    "current_price": 749.15,
+    "pe_ratio": 71.82646,
+    "pb_ratio": 13.823486,
     "roe": 0.21708,
     "debt_to_equity": 1.772,
     "revenue": 21243330560,
@@ -16,6 +16,6 @@
     "eps": 10.43,
     "52_week_high": 873.5,
     "52_week_low": 579.15,
-    "dividend_yield": 0.26
+    "dividend_yield": 0.27
   }
 }

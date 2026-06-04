@@ -1,14 +1,14 @@
 {
   "ticker": "BATLIBOI",
-  "collected_at": "2026-06-03 06:29:51",
+  "collected_at": "2026-06-04 06:21:28",
   "company_info": {
     "name": "Batliboi Limited",
     "sector": "Industrials",
     "industry": "Specialty Industrial Machinery",
-    "market_cap": 3703608832,
-    "current_price": 78.43,
-    "pe_ratio": 58.096294,
-    "pb_ratio": 1.7087891,
+    "market_cap": 3683303424,
+    "current_price": 78.0,
+    "pe_ratio": 57.77778,
+    "pb_ratio": 1.6994205,
     "roe": 0.02866,
     "debt_to_equity": 37.078,
     "revenue": 4404320256,
@@ -16,6 +16,6 @@
     "eps": 1.35,
     "52_week_high": 88.95,
     "52_week_low": 15.7,
-    "dividend_yield": 0.76
+    "dividend_yield": 0.78
   }
 }

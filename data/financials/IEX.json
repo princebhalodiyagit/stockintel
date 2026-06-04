@@ -1,14 +1,14 @@
 {
   "ticker": "IEX",
-  "collected_at": "2026-06-03 06:39:37",
+  "collected_at": "2026-06-04 06:31:03",
   "company_info": {
     "name": "Indian Energy Exchange Limited",
     "sector": "Financial Services",
     "industry": "Capital Markets",
-    "market_cap": 109072678912,
-    "current_price": 122.65,
-    "pe_ratio": 22.13899,
-    "pb_ratio": 8.044206,
+    "market_cap": 111349284864,
+    "current_price": 125.21,
+    "pe_ratio": 22.601084,
+    "pb_ratio": 8.212108,
     "roe": 0.39419997,
     "debt_to_equity": 0.818,
     "revenue": 7469516800,
@@ -16,6 +16,6 @@
     "eps": 5.54,
     "52_week_high": 215.4,
     "52_week_low": 114.6,
-    "dividend_yield": 3.19
+    "dividend_yield": 3.24
   }
 }
