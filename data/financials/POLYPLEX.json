@@ -1,14 +1,14 @@
 {
   "ticker": "POLYPLEX",
-  "collected_at": "2026-06-04 06:41:14",
+  "collected_at": "2026-06-05 06:21:55",
   "company_info": {
     "name": "Polyplex Corporation Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals",
-    "market_cap": 29224812544,
-    "current_price": 930.95,
-    "pe_ratio": 65.19258,
-    "pb_ratio": 0.7232039,
+    "market_cap": 28852811776,
+    "current_price": 919.1,
+    "pe_ratio": 64.36275,
+    "pb_ratio": 0.71399826,
     "roe": 0.00617,
     "debt_to_equity": 13.292,
     "revenue": 70858596352,
@@ -16,6 +16,6 @@
     "eps": 14.28,
     "52_week_high": 1354.0,
     "52_week_low": 740.0,
-    "dividend_yield": 0.7
+    "dividend_yield": 0.71
   }
 }

@@ -1,14 +1,14 @@
 {
   "ticker": "MAITHANALL",
-  "collected_at": "2026-06-04 06:36:05",
+  "collected_at": "2026-06-05 06:16:26",
   "company_info": {
     "name": "Maithan Alloys Limited",
     "sector": "Basic Materials",
     "industry": "Steel",
-    "market_cap": 30747617280,
-    "current_price": 1056.2,
-    "pe_ratio": 7.09097,
-    "pb_ratio": 0.7456917,
+    "market_cap": 29504555008,
+    "current_price": 1013.5,
+    "pe_ratio": 6.804297,
+    "pb_ratio": 0.71554494,
     "roe": "N/A",
     "debt_to_equity": 10.735,
     "revenue": 20486400000,
@@ -16,6 +16,6 @@
     "eps": 148.95,
     "52_week_high": 1264.0,
     "52_week_low": 831.2,
-    "dividend_yield": 2.24
+    "dividend_yield": 2.32
   }
 }

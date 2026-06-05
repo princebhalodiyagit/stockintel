@@ -1,14 +1,14 @@
 {
   "ticker": "RCF",
-  "collected_at": "2026-06-04 06:42:37",
+  "collected_at": "2026-06-05 06:23:22",
   "company_info": {
     "name": "Rashtriya Chemicals and Fertilizers Limited",
     "sector": "Basic Materials",
     "industry": "Agricultural Inputs",
-    "market_cap": 70312648704,
-    "current_price": 127.45,
-    "pe_ratio": 16.445162,
-    "pb_ratio": 1.4282672,
+    "market_cap": 70202310656,
+    "current_price": 127.25,
+    "pe_ratio": 16.419355,
+    "pb_ratio": 1.426026,
     "roe": 0.08665,
     "debt_to_equity": 80.607,
     "revenue": 184801705984,
@@ -16,6 +16,6 @@
     "eps": 7.75,
     "52_week_high": 166.5,
     "52_week_low": 106.0,
-    "dividend_yield": 1.81
+    "dividend_yield": 1.84
   }
 }

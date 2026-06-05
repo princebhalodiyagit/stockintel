@@ -1,7 +1,7 @@
 {
   "ticker": "HINDZINC",
   "company": "Hindustan Zinc Limited",
-  "collected_at": "2026-06-04 06:30:28",
+  "collected_at": "2026-06-05 06:10:30",
   "directors": [
     {
       "name": "Mr. Arun  Misra",
@@ -53,13 +53,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Kuldeep Singh Solanki",
-      "role": "Chief Executive Officer of Exploration",
-      "age": 66,
-      "year_born": 1959,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Pradeep  Singh",
       "role": "Chief Health, Safety and Environment Officer",
       "age": "N/A",
@@ -69,6 +62,13 @@
     {
       "name": "Ram  Murari",
       "role": "IBU CEO Rampura Agucha",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "S  Kartik",
+      "role": "CEO of ACID Business",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

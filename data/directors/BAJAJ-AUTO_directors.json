@@ -1,7 +1,7 @@
 {
   "ticker": "BAJAJ-AUTO",
   "company": "Bajaj Auto Limited",
-  "collected_at": "2026-06-04 06:20:56",
+  "collected_at": "2026-06-05 06:00:27",
   "directors": [
     {
       "name": "Mr. Rajivnayan Rahulkumar Bajaj",
@@ -9,20 +9,6 @@
       "age": 55,
       "year_born": 1970,
       "total_pay": 585824725
-    },
-    {
-      "name": "Mr. Pradeep  Shrivastava",
-      "role": "Executive Director",
-      "age": 65,
-      "year_born": 1960,
-      "total_pay": 283317842
-    },
-    {
-      "name": "Mr. Rakesh  Sharma",
-      "role": "Executive Director",
-      "age": 63,
-      "year_born": 1962,
-      "total_pay": 168130754
     },
     {
       "name": "Mr. Dinesh  Thapar",
@@ -72,6 +58,20 @@
       "age": 67,
       "year_born": 1958,
       "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Abraham  Joseph",
+      "role": "Managing Director of Bajaj Auto Technology Ltd.",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kevin Pius D'Sa",
+      "role": "Managing Director of Bajaj Auto Credit Ltd.",
+      "age": 71,
+      "year_born": 1954,
+      "total_pay": 37525150
     }
   ]
 }

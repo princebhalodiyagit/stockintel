@@ -1,15 +1,8 @@
 {
   "ticker": "TATACOMM",
   "company": "Tata Communications Limited",
-  "collected_at": "2026-06-04 06:48:02",
+  "collected_at": "2026-06-05 06:29:04",
   "directors": [
-    {
-      "name": "Mr. Ganesh S. Lakshminarayanan",
-      "role": "Managing Director & CEO Designate",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
     {
       "name": "Mr. Sumeet  Walia",
       "role": "President & Chief Revenue Officer",
@@ -71,6 +64,13 @@
       "role": "Executive VP of Corporate Strategy Head",
       "age": 58,
       "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pathmal  Gunawardana",
+      "role": "Head of Americas",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

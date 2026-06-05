@@ -1,14 +1,14 @@
 {
   "ticker": "GMBREW",
-  "collected_at": "2026-06-04 06:28:29",
+  "collected_at": "2026-06-05 06:08:25",
   "company_info": {
     "name": "G.M. Breweries Limited",
     "sector": "Consumer Defensive",
     "industry": "Beverages - Wineries & Distilleries",
-    "market_cap": 20457136128,
-    "current_price": 895.4,
-    "pe_ratio": 13.041072,
-    "pb_ratio": 1.897231,
+    "market_cap": 20107577344,
+    "current_price": 880.1,
+    "pe_ratio": 12.8182335,
+    "pb_ratio": 1.8648123,
     "roe": 0.15552,
     "debt_to_equity": 3.201,
     "revenue": 17354780672,
@@ -16,6 +16,6 @@
     "eps": 68.66,
     "52_week_high": 1328.8,
     "52_week_low": 666.05,
-    "dividend_yield": 1.0
+    "dividend_yield": 1.02
   }
 }

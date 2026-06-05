@@ -1,22 +1,8 @@
 {
   "ticker": "SPIC",
   "company": "Southern Petrochemicals Industries Corporation  Limited",
-  "collected_at": "2026-06-04 06:46:25",
+  "collected_at": "2026-06-05 06:27:23",
   "directors": [
-    {
-      "name": "Mr. Krishnamachari Rajagopalan Anandan",
-      "role": "Whole Time Director & CFO",
-      "age": 62,
-      "year_born": 1963,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. K.  Gopalakrishnan",
-      "role": "Vice President of Corporate Affairs",
-      "age": 58,
-      "year_born": 1967,
-      "total_pay": "N/A"
-    },
     {
       "name": "Mr. R. Venkata Krishnan",
       "role": "Head of Legal",
@@ -71,6 +57,13 @@
       "role": "Deputy General Manager of Maintenance",
       "age": 51,
       "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "D.  Prembabu",
+      "role": "Assistant General Manager",
+      "age": 50,
+      "year_born": 1975,
       "total_pay": "N/A"
     }
   ]

@@ -1,14 +1,14 @@
 {
   "ticker": "PNBGILTS",
-  "collected_at": "2026-06-04 06:41:03",
+  "collected_at": "2026-06-05 06:21:43",
   "company_info": {
     "name": "PNB Gilts Ltd.",
     "sector": "Financial Services",
     "industry": "Capital Markets",
-    "market_cap": 16164910080,
-    "current_price": 89.8,
-    "pe_ratio": 8.899901,
-    "pb_ratio": 0.94780725,
+    "market_cap": 16958753792,
+    "current_price": 94.21,
+    "pe_ratio": 9.336967,
+    "pb_ratio": 0.99435323,
     "roe": 0.1116,
     "debt_to_equity": 1480.222,
     "revenue": 3866043904,
@@ -16,6 +16,6 @@
     "eps": 10.09,
     "52_week_high": 119.8,
     "52_week_low": 58.6,
-    "dividend_yield": 1.16
+    "dividend_yield": 1.11
   }
 }
