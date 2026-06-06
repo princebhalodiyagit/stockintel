@@ -1,14 +1,14 @@
 {
   "ticker": "INDGN",
-  "collected_at": "2026-06-05 06:11:29",
+  "collected_at": "2026-06-06 05:27:01",
   "company_info": {
     "name": "Indegene Limited",
     "sector": "Healthcare",
     "industry": "Health Information Services",
-    "market_cap": 126334713856,
-    "current_price": 525.7,
-    "pe_ratio": 31.611547,
-    "pb_ratio": 4.020773,
+    "market_cap": 125685850112,
+    "current_price": 523.0,
+    "pe_ratio": 31.44919,
+    "pb_ratio": 4.000122,
     "roe": 0.13941,
     "debt_to_equity": 4.601,
     "revenue": 35105001472,
@@ -16,6 +16,6 @@
     "eps": 16.63,
     "52_week_high": 620.2,
     "52_week_low": 414.0,
-    "dividend_yield": 0.39
+    "dividend_yield": 0.38
   }
 }

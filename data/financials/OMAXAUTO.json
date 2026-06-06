@@ -1,14 +1,14 @@
 {
   "ticker": "OMAXAUTO",
-  "collected_at": "2026-06-05 06:20:11",
+  "collected_at": "2026-06-06 05:35:24",
   "company_info": {
     "name": "Omax Autos Limited",
     "sector": "Consumer Cyclical",
     "industry": "Auto Parts",
-    "market_cap": 5103006208,
-    "current_price": 238.0,
-    "pe_ratio": 13.74134,
-    "pb_ratio": 1.4677949,
+    "market_cap": 5032678912,
+    "current_price": 234.72,
+    "pe_ratio": 13.551964,
+    "pb_ratio": 1.4475665,
     "roe": 0.11191,
     "debt_to_equity": 15.23,
     "revenue": 4844979200,
@@ -16,6 +16,6 @@
     "eps": 17.32,
     "52_week_high": 263.4,
     "52_week_low": 83.65,
-    "dividend_yield": 1.05
+    "dividend_yield": 1.07
   }
 }

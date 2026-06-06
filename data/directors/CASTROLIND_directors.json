@@ -1,7 +1,7 @@
 {
   "ticker": "CASTROLIND",
   "company": "Castrol India Limited",
-  "collected_at": "2026-06-05 06:02:49",
+  "collected_at": "2026-06-06 05:18:40",
   "directors": [
     {
       "name": "Mr. Saugata  Basuray",
@@ -20,13 +20,6 @@
     {
       "name": "Mr. Vishal  Thakkar",
       "role": "Head of Finance, Castrol Glob. Supply Chain, Proc., Tech, Mktg.",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Anoop  Jindal",
-      "role": "VP & Head of Customer Excellence & Operations",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
@@ -71,6 +64,13 @@
       "role": "Vice President of People & Culture",
       "age": 56,
       "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajeev  Govil",
+      "role": "VP & Head B2B Sales",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

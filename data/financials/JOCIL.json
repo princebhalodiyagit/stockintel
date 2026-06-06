@@ -1,14 +1,14 @@
 {
   "ticker": "JOCIL",
-  "collected_at": "2026-06-05 06:13:25",
+  "collected_at": "2026-06-06 05:28:52",
   "company_info": {
     "name": "Jocil Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals",
-    "market_cap": 1359704064,
-    "current_price": 153.1,
-    "pe_ratio": 16.374332,
-    "pb_ratio": 0.6381188,
+    "market_cap": 1337501184,
+    "current_price": 150.6,
+    "pe_ratio": 16.106953,
+    "pb_ratio": 0.6276988,
     "roe": 0.03957,
     "debt_to_equity": "N/A",
     "revenue": 10437085184,
@@ -16,6 +16,6 @@
     "eps": 9.35,
     "52_week_high": 177.8,
     "52_week_low": 91.25,
-    "dividend_yield": 2.33
+    "dividend_yield": 2.32
   }
 }
