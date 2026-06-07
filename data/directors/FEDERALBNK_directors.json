@@ -1,8 +1,22 @@
 {
   "ticker": "FEDERALBNK",
   "company": "The Federal Bank  Limited",
-  "collected_at": "2026-06-06 05:22:48",
+  "collected_at": "2026-06-07 06:10:03",
   "directors": [
+    {
+      "name": "Mr. Krishnan Venkat Subramanian",
+      "role": "CEO, MD & Director",
+      "age": 64,
+      "year_born": 1961,
+      "total_pay": 18300000
+    },
+    {
+      "name": "Mr. Harsh  Dugar",
+      "role": "Executive Director",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": 16618000
+    },
     {
       "name": "Mr. Manikandan  M.",
       "role": "VP & CFO",
@@ -57,20 +71,6 @@
       "role": "Executive Vice President & Chief Risk Officer",
       "age": 53,
       "year_born": 1972,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Sanjesh  Kumar",
-      "role": "Group President & Chief Internal Auditor",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Kapil  Bhatia",
-      "role": "Group President & Country Head of CIB",
-      "age": "N/A",
-      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

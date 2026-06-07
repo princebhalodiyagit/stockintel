@@ -1,7 +1,7 @@
 {
   "ticker": "MEDPLUS",
   "company": "Medplus Health Services Limited",
-  "collected_at": "2026-06-06 05:32:38",
+  "collected_at": "2026-06-07 06:20:10",
   "directors": [
     {
       "name": "Dr. Gangadi Madhukar Reddy",
@@ -23,6 +23,20 @@
       "age": 57,
       "year_born": 1968,
       "total_pay": 11950000
+    },
+    {
+      "name": "Mr. Subrahmanyam Sharma Tatapudi",
+      "role": "Chief Technology Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kandasamy  Vairaperumal",
+      "role": "Head of Supply Chain",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

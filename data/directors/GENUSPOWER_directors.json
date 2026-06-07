@@ -1,7 +1,7 @@
 {
   "ticker": "GENUSPOWER",
   "company": "Genus Power Infrastructures Limited",
-  "collected_at": "2026-06-06 05:23:40",
+  "collected_at": "2026-06-07 06:10:57",
   "directors": [
     {
       "name": "Mr. Ishwar Chand Agarwal",
@@ -18,11 +18,60 @@
       "total_pay": 72720000
     },
     {
+      "name": "Mr. Puran Singh Rathore",
+      "role": "Compliance Officer & Joint Company Secretary",
+      "age": 42,
+      "year_born": 1983,
+      "total_pay": 1226000
+    },
+    {
+      "name": "Mr. Jitendra Kumar Agarwal",
+      "role": "Joint MD & Executive Director",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": 72720000
+    },
+    {
+      "name": "Mr. Nathu Lal Nama",
+      "role": "Whole-Time Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 6426000
+    },
+    {
       "name": "Mr. Ankit  Jhanjhari",
       "role": "Joint Company Secretary",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 2859000
+    },
+    {
+      "name": "Mr. Vinod  Raheja",
+      "role": "Chief Financial Officer",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sushil  Agarwal",
+      "role": "Chief Operating Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mohit  Mathur",
+      "role": "Chief Human Resources Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anoop  Sharma",
+      "role": "Chief Manufacturing Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

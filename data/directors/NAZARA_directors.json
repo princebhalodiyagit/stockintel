@@ -1,6 +1,63 @@
 {
   "ticker": "NAZARA",
   "company": "Nazara Technologies Limited",
-  "collected_at": "2026-06-06 05:34:09",
-  "directors": []
+  "collected_at": "2026-06-07 06:21:41",
+  "directors": [
+    {
+      "name": "Mr. Nitish Vikash Mittersain",
+      "role": "Founder, MD, CEO & Executive Director",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": 39365743
+    },
+    {
+      "name": "Mr. Rakesh Chandrakant Shah",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Arun  Bhandari",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Anupriya Sinha Das",
+      "role": "Head of Corporate Development",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Anshu  Dhanuka",
+      "role": "Co-Founder & Chief Product Officer of Paper Boat",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pratik  Shah",
+      "role": "Chief Executive Officer of Mastermindsports",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rohit  Sharma",
+      "role": "Executive Director",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. James Savio Saldanha",
+      "role": "Chief Executive Officer of Nazara Digital",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

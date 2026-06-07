@@ -1,8 +1,29 @@
 {
   "ticker": "HINDUNILVR",
   "company": "Hindustan Unilever Limited",
-  "collected_at": "2026-06-06 05:26:02",
+  "collected_at": "2026-06-07 06:13:23",
   "directors": [
+    {
+      "name": "Ms. Priya  Nair",
+      "role": "CEO, MD & Director",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": 194400000
+    },
+    {
+      "name": "Mr. Niranjan Kumar Gupta",
+      "role": "CFO, Executive Director of Finance & Director",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": 70780000
+    },
+    {
+      "name": "Mr. Bittianda Ponnappa Biddappa",
+      "role": "Chief People, Transformation and Sustainability Officer & Executive Director",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": 133900000
+    },
     {
       "name": "Mr. Yogesh  Mulgaonkar",
       "role": "Head of Investor Relations & Head of Finance, Personal Care",
@@ -32,6 +53,13 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Dr. Vibhav Ramrao Sanzgiri",
+      "role": "Chief R&D Officer & Executive Director of R&D",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Yogesh  Kumar Mishra",
       "role": "Executive Director of Supply Chain",
       "age": "N/A",
@@ -43,34 +71,6 @@
       "role": "Head of Functional Nutrition Portfolio",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ms. Sunanda  Khaitan",
-      "role": "Chief Marketing Officer of Beauty & Wellbeing Division",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Pavan  Bedi",
-      "role": "Chief Marketing Officer for Foods Business",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Madhusudhan  Rao",
-      "role": "Executive Director of Beauty & Personal Care",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Vipul  Mathur",
-      "role": "Executive Director of Personal Care",
-      "age": 46,
-      "year_born": 1979,
       "total_pay": "N/A"
     }
   ]

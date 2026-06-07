@@ -1,7 +1,7 @@
 {
   "ticker": "GARFIBRES",
   "company": "Garware Technical Fibres Limited",
-  "collected_at": "2026-06-06 05:23:28",
+  "collected_at": "2026-06-07 06:10:46",
   "directors": [
     {
       "name": "Mr. Vayu Ramesh Garware",
@@ -37,6 +37,20 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 1814000
+    },
+    {
+      "name": "Ms. Poonam  Gupta",
+      "role": "Chief Human Resource Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Thirumalai  Kulkarni",
+      "role": "Chief Operating Officer of Geosynthetics Division",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
     }
   ]
 }

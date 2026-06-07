@@ -1,7 +1,7 @@
 {
   "ticker": "SHREYANIND",
   "company": "Shreyans Industries Limited",
-  "collected_at": "2026-06-06 05:41:19",
+  "collected_at": "2026-06-07 06:28:57",
   "directors": [
     {
       "name": "Mr. Rajneesh  Oswal",
@@ -25,6 +25,41 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. Parminder Singh Bathla",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kunal  Oswal",
+      "role": "Whole Time Director",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": 6803000
+    },
+    {
+      "name": "Mr. Arun Kumar Kapoor",
+      "role": "Senior Vice President",
+      "age": 67,
+      "year_born": 1958,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Sandeep Kumar Jain",
+      "role": "Vice President",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Amit  Arora",
+      "role": "Chief Financial Officer",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Pawan Kumar Sharma",
       "role": "Senior General Manager",
       "age": 58,
@@ -36,13 +71,6 @@
       "role": "Senior General Manager",
       "age": 53,
       "year_born": 1972,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Krishan Lal Sharma",
-      "role": "Senior General Manager",
-      "age": 64,
-      "year_born": 1961,
       "total_pay": "N/A"
     }
   ]

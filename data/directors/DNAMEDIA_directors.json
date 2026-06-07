@@ -1,7 +1,7 @@
 {
   "ticker": "DNAMEDIA",
   "company": "Diligent Media Corporation Limited",
-  "collected_at": "2026-06-06 05:21:13",
+  "collected_at": "2026-06-07 06:08:25",
   "directors": [
     {
       "name": "Mr. Nagendra  Bhandari",
@@ -22,6 +22,20 @@
       "role": "Chief Sub Editor",
       "age": 30,
       "year_born": 1995,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Priyadarshan  Garg",
+      "role": "Chief Executive Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Neha  Dubey",
+      "role": "Chief Sub Editor",
+      "age": 34,
+      "year_born": 1991,
       "total_pay": "N/A"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "ticker": "SANDUMA",
   "company": "Sandur Manganese & Iron Ores Limited",
-  "collected_at": "2026-06-06 05:40:02",
+  "collected_at": "2026-06-07 06:27:39",
   "directors": [
     {
       "name": "Mr. Bahirji Ajai Ghorpade",
@@ -15,6 +15,34 @@
       "role": "Chief Financial Officer",
       "age": 44,
       "year_born": 1981,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manjunath  Prabhu",
+      "role": "Chief Operating Officer",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Neha  Thomas",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Aditya Shivrao Ghorpade",
+      "role": "President of Business Development",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manoj Kumar Jha",
+      "role": "Chief Risk Officer & Senior VP of Business Governance",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

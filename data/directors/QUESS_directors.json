@@ -1,7 +1,7 @@
 {
   "ticker": "QUESS",
   "company": "Quess Corp Limited",
-  "collected_at": "2026-06-06 05:37:52",
+  "collected_at": "2026-06-07 06:25:28",
   "directors": [
     {
       "name": "Mr. Lohit  Bhatia",
@@ -22,6 +22,55 @@
       "role": "Senior VP, Company Secretary & Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vijay  Sivaram",
+      "role": "Chief Executive Officer of IT Staffing, Recruitment & Search",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kapil  Joshi",
+      "role": "Chief Executive Officer IT Staffing",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Deepaka  Tulupule",
+      "role": "Chief Financial Officer of WFM Platform",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ishaan  Sarkar",
+      "role": "Chief Business Officer of Food Services",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ramneek  Teng",
+      "role": "Chief Executive Officer of Industrial Asset Management - Hofincons",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Munish  Kumar",
+      "role": "CEO of Facility Management and Security Services",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Nitin  Dave",
+      "role": "Chief Executive Officer of Quess Staffing Solutions",
+      "age": 51,
+      "year_born": 1974,
       "total_pay": "N/A"
     }
   ]

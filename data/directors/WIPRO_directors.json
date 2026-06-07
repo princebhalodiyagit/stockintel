@@ -1,21 +1,28 @@
 {
   "ticker": "WIPRO",
   "company": "Wipro Limited",
-  "collected_at": "2026-06-06 05:47:39",
+  "collected_at": "2026-06-07 06:35:23",
   "directors": [
     {
       "name": "Mr. Rishad Azim Hasham Premji Jr.",
       "role": "Executive Chairman",
       "age": 48,
       "year_born": 1977,
-      "total_pay": 74069643
+      "total_pay": 73758752
     },
     {
       "name": "Mr. Srinivas  Pallia",
       "role": "CEO, MD, Executive Director & Member of Executive Board",
       "age": 58,
       "year_born": 1967,
-      "total_pay": 506807932
+      "total_pay": 504680721
+    },
+    {
+      "name": "Ms. Aparna C. Iyer",
+      "role": "Senior VP, CFO & Member of Executive Board",
+      "age": 43,
+      "year_born": 1982,
+      "total_pay": 68467900
     },
     {
       "name": "Mr. Saurabh  Govil",
@@ -62,13 +69,6 @@
     {
       "name": "Mr. Amit  Kumar",
       "role": "Managing Partner & Global Head of Wipro Consulting & Member of Executive Board",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Anup  Purohit",
-      "role": "Chief Information Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

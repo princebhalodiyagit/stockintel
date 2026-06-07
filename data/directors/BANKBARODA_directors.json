@@ -1,7 +1,7 @@
 {
   "ticker": "BANKBARODA",
   "company": "Bank of Baroda",
-  "collected_at": "2026-06-06 05:16:50",
+  "collected_at": "2026-06-07 06:03:57",
   "directors": [
     {
       "name": "Dr. Debadatta  Chand",
@@ -11,6 +11,55 @@
       "total_pay": 7315863
     },
     {
+      "name": "Mr. Lalit  Tyagi",
+      "role": "Executive Director",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": 8554052
+    },
+    {
+      "name": "Mr. Lal  Singh",
+      "role": "Executive Director",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": 8455270
+    },
+    {
+      "name": "Mr. Sanjay Vinayak Mudaliar",
+      "role": "Executive Director",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": 7593540
+    },
+    {
+      "name": "Ms. Beena  Vaheed",
+      "role": "Executive Director",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": 6914178
+    },
+    {
+      "name": "Mr. L. Sridhar Inumella V",
+      "role": "CGM & Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. D.  Das",
+      "role": "GM & COO",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Shukla Saurabh Ravishankar",
+      "role": "CGM & Chief Technology Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Elango  Balasubramaniam",
       "role": "CGM & Group Chief Compliance Officer",
       "age": "N/A",
@@ -18,59 +67,10 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Nishant  Ranjan",
-      "role": "Head of International Banking Division, BCC, Mumbai",
-      "age": 57,
-      "year_born": 1968,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ms. Kadgatoor Sheetal Venkatesmurthy",
-      "role": "Head of Digital Strategy, Products, Services, Channels & Operations",
-      "age": 55,
-      "year_born": 1970,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Ravindra Singh Negi",
-      "role": "CGM & Group Chief Risk Officer",
-      "age": 48,
-      "year_born": 1977,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Rajesh  Malhotra",
-      "role": "CGM of RURAL & AGRI BANKING AND RRB & RSETIS",
+      "name": "Mr. Meher Kumar Bhairavarasu",
+      "role": "Deputy GM and Head of Legal & RTI",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Prabhat K. Sharma",
-      "role": "CGM & Head Cluster of New Delhi",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Manoj Sundar Chayani",
-      "role": "Zonal Head of Bengaluru",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Ajay K. Khosla",
-      "role": "Chief General Manager",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Swain  Biswajit",
-      "role": "Chief Data Officer",
-      "age": 49,
-      "year_born": 1976,
       "total_pay": "N/A"
     }
   ]

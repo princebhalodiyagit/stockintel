@@ -1,7 +1,7 @@
 {
   "ticker": "JPPOWER",
   "company": "Jaiprakash Power Ventures Limited",
-  "collected_at": "2026-06-06 05:28:54",
+  "collected_at": "2026-06-07 06:16:21",
   "directors": [
     {
       "name": "Mr. Ram Kumar Porwal",
@@ -43,6 +43,34 @@
       "role": "Chief of Project",
       "age": 61,
       "year_born": 1964,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Savan Jayendra Patel",
+      "role": "Additional Whole Time Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ranjit  Singh",
+      "role": "Joint President",
+      "age": 74,
+      "year_born": 1951,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ashok  Shukla",
+      "role": "Joint President",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mahesh Kumar Chaturvedi",
+      "role": "GM, Company Secretary & Compliance Officer",
+      "age": 60,
+      "year_born": 1965,
       "total_pay": "N/A"
     }
   ]

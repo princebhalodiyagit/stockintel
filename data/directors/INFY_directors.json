@@ -1,7 +1,7 @@
 {
   "ticker": "INFY",
   "company": "Infosys Limited",
-  "collected_at": "2026-06-06 05:27:33",
+  "collected_at": "2026-06-07 06:14:57",
   "directors": [
     {
       "name": "Mr. Nandan M. Nilekani",
@@ -18,6 +18,13 @@
       "total_pay": 826000000
     },
     {
+      "name": "Mr. Anand  Swaminathan",
+      "role": "Executive VP and Segment Head of Communication, Media & Technology",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Ms. Inderpreet  Sawhney",
       "role": "Executive VP, Chief Legal Officer & Chief Compliance Officer",
       "age": 60,
@@ -25,53 +32,46 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Frank Lord Satterthwaite",
-      "role": "Senior Vice President of Delivery, FSHIL",
-      "age": 62,
-      "year_born": 1963,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Eric S. Paternoster",
-      "role": "CEO, President & Director of Infosys Public Svcs",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 41089185
-    },
-    {
-      "name": "Mr. Anur Gurugopala Suryanarayana Manikantha",
-      "role": "Company Secretary",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Dr. Michael  Pesch",
-      "role": "Chief Executive Officer of Infosys Consulting Holding AG",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Shishank  Gupta",
-      "role": "VP & Delivery Head of IVS",
-      "age": 49,
-      "year_born": 1976,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Shannon  Tassin",
-      "role": "Partner  of Business Consulting",
+      "name": "Mr. Karmesh Gul Vaswani",
+      "role": "Executive VP & Segment Head of CPG, Logistics & Retail",
       "age": 53,
       "year_born": 1972,
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. K.A.  Raghavendra BCom, PGD",
-      "role": "Vice President of Engineering & Industry 4.0, Infosys",
-      "age": 65,
-      "year_born": 1960,
+      "name": "Mr. Anant R. Adya",
+      "role": "Senior VP and Group Practice Engagement Manager of Cloud, Infrastructure & Cyber Security",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jasmeet  Singh",
+      "role": "Executive VP & Segment Head of Manufacturing",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Dennis Kantilal Gada",
+      "role": "Senior VP & Head of Financial Services Industry",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ashiss Kumar Dash",
+      "role": "Segment Head of Energy, Utilities, Resources & Services and Executive VP",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jayesh  Sanghrajka",
+      "role": "Chief Financial Officer",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": 36579128
     }
   ]
 }

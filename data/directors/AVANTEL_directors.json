@@ -1,7 +1,7 @@
 {
   "ticker": "AVANTEL",
   "company": "Avantel Limited",
-  "collected_at": "2026-06-06 05:16:04",
+  "collected_at": "2026-06-07 06:03:13",
   "directors": [
     {
       "name": "Dr. Abburi  Vidyasagar",
@@ -39,6 +39,20 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. Pusuluru Srinivasa Rao",
+      "role": "General Manager of Production",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Captain P.  Srinivas",
+      "role": "Vice President of Q A & Projects",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. N. Srinivasa Rao",
       "role": "Vice President of Technical",
       "age": 52,
@@ -57,13 +71,6 @@
       "role": "General Manager of Finance & Accounts",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Venugopal  Atluri",
-      "role": "General Manager of R&D",
-      "age": 42,
-      "year_born": 1983,
       "total_pay": "N/A"
     }
   ]

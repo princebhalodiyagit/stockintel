@@ -1,6 +1,28 @@
 {
   "ticker": "DGCONTENT",
   "company": "Digicontent Limited",
-  "collected_at": "2026-06-06 05:20:50",
-  "directors": []
+  "collected_at": "2026-06-07 06:08:02",
+  "directors": [
+    {
+      "name": "Mr. Puneet  Jain",
+      "role": "Chief Executive Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ajay Sivaraman Nair",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Shubham  Jain",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

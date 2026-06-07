@@ -1,7 +1,7 @@
 {
   "ticker": "CUPID",
   "company": "Cupid Limited",
-  "collected_at": "2026-06-06 05:20:06",
+  "collected_at": "2026-06-07 06:07:16",
   "directors": [
     {
       "name": "Mr. Aditya Kumar Halwasiya",
@@ -16,6 +16,20 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 1521000
+    },
+    {
+      "name": "Mr. Durgesh  Garg",
+      "role": "Chief Operating Officer",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Hardik Meghji Chandra",
+      "role": "Company Secretary, Compliance Officer & Nodal Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Pawan Murarilal Bansal",

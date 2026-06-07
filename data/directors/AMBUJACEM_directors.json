@@ -1,7 +1,7 @@
 {
   "ticker": "AMBUJACEM",
   "company": "Ambuja Cements Limited",
-  "collected_at": "2026-06-06 05:14:29",
+  "collected_at": "2026-06-07 06:01:38",
   "directors": [
     {
       "name": "Mr. Vinod Mohanlal Bahety",
@@ -9,6 +9,27 @@
       "age": 49,
       "year_born": 1976,
       "total_pay": 83900000
+    },
+    {
+      "name": "Mr. Rohit  Soni",
+      "role": "Chief Financial Officer",
+      "age": 44,
+      "year_born": 1981,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manish Vinodchandra Mistry",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Narotam Satyanarayan Sekhsaria",
+      "role": "Principal Founder & Chairman Emeritus",
+      "age": 76,
+      "year_born": 1949,
+      "total_pay": 1839000
     },
     {
       "name": "Mr. Deepak  Balwani",
@@ -48,27 +69,6 @@
     {
       "name": "Mr. Praveen Kumar Garg",
       "role": "Chief Logistics Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Bhimsi  Kachhot",
-      "role": "Chief of Strategy & Business Development",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Vaibhav  Dixit",
-      "role": "Head of Manufacturing",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ms. Madhavi  Isanaka",
-      "role": "Chief Digital Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

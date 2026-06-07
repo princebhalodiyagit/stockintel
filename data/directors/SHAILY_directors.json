@@ -1,7 +1,7 @@
 {
   "ticker": "SHAILY",
   "company": "Shaily Engineering Plastics Limited",
-  "collected_at": "2026-06-06 05:40:52",
+  "collected_at": "2026-06-07 06:28:30",
   "directors": [
     {
       "name": "Mr. Mahendra Bhogilal Sanghvi B.Sc.",
@@ -51,6 +51,13 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 2847000
+    },
+    {
+      "name": "Mr. Hung Kam Chi",
+      "role": "Chief Operating Officer of Healthcare",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
     }
   ]
 }

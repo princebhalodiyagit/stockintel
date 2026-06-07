@@ -1,7 +1,7 @@
 {
   "ticker": "ROLLT",
   "company": "Rollatainers Limited",
-  "collected_at": "2026-06-06 05:39:04",
+  "collected_at": "2026-06-07 06:26:41",
   "directors": [
     {
       "name": "Mr. Amit  Sharma",
@@ -9,6 +9,13 @@
       "age": 43,
       "year_born": 1982,
       "total_pay": 82500
+    },
+    {
+      "name": "Mr. Anshul  Jolly",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     },
     {
       "name": "Ms. Aditi  Jain",

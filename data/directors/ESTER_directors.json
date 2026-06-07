@@ -1,14 +1,14 @@
 {
   "ticker": "ESTER",
   "company": "Ester Industries Limited",
-  "collected_at": "2026-06-06 05:22:27",
+  "collected_at": "2026-06-07 06:09:42",
   "directors": [
     {
-      "name": "Mr. Arvind  Singhania B. Com",
-      "role": "Chairman & CEO",
-      "age": 61,
-      "year_born": 1964,
-      "total_pay": 43450000
+      "name": "Mr. Vaibhav  Jha",
+      "role": "Chief Executive Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 7296000
     },
     {
       "name": "Mr. Sourabh  Agarwal",
@@ -37,13 +37,6 @@
       "age": 64,
       "year_born": 1961,
       "total_pay": 13855000
-    },
-    {
-      "name": "Mr. Vaibhav  Jha",
-      "role": "Deputy Chief Executive Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 7296000
     },
     {
       "name": "Mr. Diwaker  Dinesh",

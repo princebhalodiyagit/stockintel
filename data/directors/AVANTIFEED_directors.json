@@ -1,7 +1,7 @@
 {
   "ticker": "AVANTIFEED",
   "company": "Avanti Feeds Limited",
-  "collected_at": "2026-06-06 05:16:05",
+  "collected_at": "2026-06-07 06:03:14",
   "directors": [
     {
       "name": "Dr. Alluri Indra Kumar",
@@ -11,11 +11,25 @@
       "total_pay": 468443000
     },
     {
+      "name": "Mr. Cuddapah Ramachandra Rao",
+      "role": "Joint MD, Compliance Officer, Company Secretary & Executive Director",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": 304238000
+    },
+    {
       "name": "Mr. A. Venkata Sanjeev",
       "role": "Executive Director",
       "age": 34,
       "year_born": 1991,
       "total_pay": 87088000
+    },
+    {
+      "name": "Ms. B. Santhi Latha",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. P.V.  Rajsekhar",

@@ -1,7 +1,7 @@
 {
   "ticker": "ALICON",
   "company": "Alicon Castalloy Limited",
-  "collected_at": "2026-06-06 05:14:12",
+  "collected_at": "2026-06-07 06:01:19",
   "directors": [
     {
       "name": "Mr. Shailendrajit Charanjit Rai",
@@ -9,6 +9,13 @@
       "age": 69,
       "year_born": 1956,
       "total_pay": 9883000
+    },
+    {
+      "name": "Mr. Sumit  Bhatnagar",
+      "role": "Chief Executive Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Vimal Kumar Gupta",

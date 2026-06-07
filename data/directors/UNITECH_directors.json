@@ -1,7 +1,7 @@
 {
   "ticker": "UNITECH",
   "company": "Unitech Limited",
-  "collected_at": "2026-06-06 05:46:01",
+  "collected_at": "2026-06-07 06:33:44",
   "directors": [
     {
       "name": "Mr. Yudhvir Singh Malik I.A.S.",
@@ -15,6 +15,27 @@
       "role": "Chief Executive Officer",
       "age": 68,
       "year_born": 1957,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Anuradha  Mishra",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jaideep  Singh",
+      "role": "Senior Vice President of Business Development - Southern States ops",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Pramod K Magu",
+      "role": "President of Architecture & Planning",
+      "age": 80,
+      "year_born": 1945,
       "total_pay": "N/A"
     }
   ]

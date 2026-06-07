@@ -1,7 +1,7 @@
 {
   "ticker": "INDIANB",
   "company": "Indian Bank",
-  "collected_at": "2026-06-06 05:27:07",
+  "collected_at": "2026-06-07 06:14:30",
   "directors": [
     {
       "name": "Mr. Binod  Kumar",
@@ -23,13 +23,6 @@
       "age": 58,
       "year_born": 1967,
       "total_pay": 7995898
-    },
-    {
-      "name": "Brajesh Kumar Singh",
-      "role": "Executive Director",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 7335788
     },
     {
       "name": "Ms. Mini  T. M.",
@@ -69,6 +62,13 @@
     {
       "name": "Ms. Vallery  Rath",
       "role": "Chief GM of TMO & Digital Business, Planning, Business Intelligence, Mark and Corp Comm",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Satish  Kumar",
+      "role": "CGM of Corporate Credit & Mid Corporate Credit",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

@@ -1,13 +1,27 @@
 {
   "ticker": "ASAHISONG",
   "company": "Asahi Songwon Colors Limited",
-  "collected_at": "2026-06-06 05:15:22",
+  "collected_at": "2026-06-07 06:02:31",
   "directors": [
     {
       "name": "Ms. Paru Mrugesh Jaykrishna B.A., LL.B., M.A.",
       "role": "Founder, Executive Chairperson & MD",
       "age": 82,
       "year_born": 1943,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Arjun Gokul Jaykrishna",
+      "role": "CEO & Executive Director",
+      "age": 29,
+      "year_born": 1996,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Gokul Mrugesh Jaykrishna",
+      "role": "Joint MD & Director",
+      "age": 57,
+      "year_born": 1968,
       "total_pay": "N/A"
     },
     {
@@ -30,6 +44,13 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 1592000
+    },
+    {
+      "name": "Ms. Nupur  Raval",
+      "role": "Account Manager",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

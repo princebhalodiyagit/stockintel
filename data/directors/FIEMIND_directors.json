@@ -1,7 +1,7 @@
 {
   "ticker": "FIEMIND",
   "company": "Fiem Industries Limited",
-  "collected_at": "2026-06-06 05:22:51",
+  "collected_at": "2026-06-07 06:10:06",
   "directors": [
     {
       "name": "Mr. Jagjeevan Kumar Jain",
@@ -9,6 +9,69 @@
       "age": 73,
       "year_born": 1952,
       "total_pay": 24000000
+    },
+    {
+      "name": "Mr. Om Prakash Gupta",
+      "role": "CFO & COO",
+      "age": 66,
+      "year_born": 1959,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Arvind Kumar Chauhan",
+      "role": "Compliance Officer & Company Secretary",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Adhir  Sinha",
+      "role": "Senior Vice President of Marketing",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Aanchal  Jain B.Sc, Mba",
+      "role": "Whole-Time Director of Human Resource & Whole-Time Director",
+      "age": 44,
+      "year_born": 1981,
+      "total_pay": 12000000
+    },
+    {
+      "name": "Mr. Kashi Ram Yadav",
+      "role": "Whole-Time Director",
+      "age": 69,
+      "year_born": 1956,
+      "total_pay": 13345000
+    },
+    {
+      "name": "Mr. Rajesh  Sharma",
+      "role": "Joint MD & Director",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": 24600000
+    },
+    {
+      "name": "Ms. Seema  Jain B.Sc",
+      "role": "Whole-Time Director of Finance & Whole-Time Director",
+      "age": 71,
+      "year_born": 1954,
+      "total_pay": 12000000
+    },
+    {
+      "name": "Mr. Rahul  Jain",
+      "role": "Joint MD & Director",
+      "age": 39,
+      "year_born": 1986,
+      "total_pay": 14400000
+    },
+    {
+      "name": "Mr. Lalit  Ahuja",
+      "role": "Senior Vice President of Design & Development",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": "N/A"
     }
   ]
 }

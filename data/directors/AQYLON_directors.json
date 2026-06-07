@@ -1,6 +1,21 @@
 {
   "ticker": "AQYLON",
   "company": "Aqylon Nexus Limited",
-  "collected_at": "2026-06-06 05:15:00",
-  "directors": []
+  "collected_at": "2026-06-07 06:02:10",
+  "directors": [
+    {
+      "name": "Mr. Srivatsava  Sunkara",
+      "role": "MD & Chairman",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kiran Kumar Inampudi",
+      "role": "Executive Non-Independent Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

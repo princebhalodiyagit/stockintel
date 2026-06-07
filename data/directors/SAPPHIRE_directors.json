@@ -1,7 +1,7 @@
 {
   "ticker": "SAPPHIRE",
   "company": "Sapphire Foods India Limited",
-  "collected_at": "2026-06-06 05:40:10",
+  "collected_at": "2026-06-07 06:27:47",
   "directors": [
     {
       "name": "Mr. Sanjay  Purohit",
@@ -15,6 +15,62 @@
       "role": "CFO & Executive Director",
       "age": 43,
       "year_born": 1982,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sachin Tukaram Dudam",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 1569179
+    },
+    {
+      "name": "Mr. Niraj  Patil",
+      "role": "Senior VP & Head of Legal",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Priya  Adiseshan",
+      "role": "Senior VP & Chief People Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Deepak  Taluja",
+      "role": "President & CEO of KFC",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Nandita Bapat Avadhoot",
+      "role": "Executive VP & Chief Development Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vikrant  Vohra",
+      "role": "Executive VP & CEO of Pizza Hut",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Punit  Jhunjhunwala",
+      "role": "Senior VP & Deputy CFO",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 2573938
+    },
+    {
+      "name": "Mr. Ashu  Khanna B.Tech.",
+      "role": "Executive Vice President of SCM",
+      "age": 56,
+      "year_born": 1969,
       "total_pay": "N/A"
     }
   ]

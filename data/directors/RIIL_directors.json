@@ -1,8 +1,29 @@
 {
   "ticker": "RIIL",
   "company": "Reliance Industrial Infrastructure Limited",
-  "collected_at": "2026-06-06 05:38:52",
+  "collected_at": "2026-06-07 06:26:30",
   "directors": [
+    {
+      "name": "Mr. Vipin Chandra Sati",
+      "role": "Whole-time Director",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": 9800000
+    },
+    {
+      "name": "Mr. Praveen  Baser",
+      "role": "Chief Financial Officer",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Amitkumar Prabhakar Mundhe",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
     {
       "name": "Mr. Umesh Devidas Giriyan",
       "role": "Assistant Vice President of Reliance Terminal - JNPT & Pipelines",

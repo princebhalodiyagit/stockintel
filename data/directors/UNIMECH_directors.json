@@ -1,7 +1,7 @@
 {
   "ticker": "UNIMECH",
   "company": "Unimech Aerospace and Manufacturing Limited",
-  "collected_at": "2026-06-06 05:45:57",
+  "collected_at": "2026-06-07 06:33:40",
   "directors": [
     {
       "name": "Mr. Anil Kumar Puttan",
@@ -50,6 +50,27 @@
       "role": "AGM-Investor Relations & Analyst",
       "age": 33,
       "year_born": 1992,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Rashmi  Gupta",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sheshadri Nagaraja Nittoor",
+      "role": "Head of Supply Chain Management",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ramesh  Jaiswara",
+      "role": "Business Unit Head",
+      "age": 51,
+      "year_born": 1974,
       "total_pay": "N/A"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "ticker": "BAJEL",
   "company": "Bajel Projects Limited",
-  "collected_at": "2026-06-06 05:16:33",
+  "collected_at": "2026-06-07 06:03:41",
   "directors": [
     {
       "name": "Mr. Rajesh  Ganesh",
@@ -12,7 +12,7 @@
     },
     {
       "name": "Mr. Ajay Suresh Nagle",
-      "role": "Company Secretary, Chief Compliance Officer & Executive Director",
+      "role": "Executive Director",
       "age": 59,
       "year_born": 1966,
       "total_pay": 15059000
@@ -29,6 +29,13 @@
       "role": "CFO & Joint President",
       "age": 49,
       "year_born": 1976,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Amee Bharatbhai Joshi",
+      "role": "Company Secretary & Chief Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     },
     {

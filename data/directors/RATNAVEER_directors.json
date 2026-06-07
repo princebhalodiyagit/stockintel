@@ -1,7 +1,7 @@
 {
   "ticker": "RATNAVEER",
   "company": "Ratnaveer Precision Engineering Limited",
-  "collected_at": "2026-06-06 05:38:21",
+  "collected_at": "2026-06-07 06:25:57",
   "directors": [
     {
       "name": "Mr. Vijay Ramanlal Sanghavi",
@@ -43,6 +43,13 @@
       "role": "Head of Business Development & Operations",
       "age": 39,
       "year_born": 1986,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Seema Vijay Sanghavi",
+      "role": "Executive Director",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

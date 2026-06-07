@@ -1,7 +1,7 @@
 {
   "ticker": "KRBL",
   "company": "KRBL Limited",
-  "collected_at": "2026-06-06 05:30:24",
+  "collected_at": "2026-06-07 06:17:56",
   "directors": [
     {
       "name": "Mr. Anil Kumar Mittal",
@@ -55,6 +55,20 @@
     {
       "name": "Mr. Anirudh  Bakru",
       "role": "Legal Counsel",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Shubham  Kandhway",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ayush  Gupta",
+      "role": "Head of Domestic Division",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

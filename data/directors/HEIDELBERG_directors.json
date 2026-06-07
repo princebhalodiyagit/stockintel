@@ -1,7 +1,7 @@
 {
   "ticker": "HEIDELBERG",
   "company": "HeidelbergCement India Limited",
-  "collected_at": "2026-06-06 05:25:42",
+  "collected_at": "2026-06-07 06:13:03",
   "directors": [
     {
       "name": "Mr. Joydeep  Mukherjee",
@@ -34,6 +34,13 @@
     {
       "name": "Mr. Ravindra K. Shukla",
       "role": "Senior Vice President of Sales & Marketing",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sumeet  Bisarya",
+      "role": "Senior VP of Business Development & Head of Internal Audit",
       "age": 59,
       "year_born": 1966,
       "total_pay": "N/A"

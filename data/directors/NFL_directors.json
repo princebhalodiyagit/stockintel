@@ -1,7 +1,7 @@
 {
   "ticker": "NFL",
   "company": "National Fertilizers Limited",
-  "collected_at": "2026-06-06 05:34:33",
+  "collected_at": "2026-06-07 06:22:05",
   "directors": [
     {
       "name": "Dr. U.  Saravanan",
@@ -23,6 +23,13 @@
       "age": 58,
       "year_born": 1967,
       "total_pay": 5426225
+    },
+    {
+      "name": "Mr. Arvind  Kumar",
+      "role": "CFO & Director",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. J.  Ramesh",
@@ -62,13 +69,6 @@
     {
       "name": "Mr. Megh Nath Goyal",
       "role": "Director-Technical, Executive Director & Head of Nangal Unit",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. B. M. Jha",
-      "role": "Chief General Manager & Head of Panipat Unit",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

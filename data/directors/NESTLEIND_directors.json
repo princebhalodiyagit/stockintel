@@ -1,6 +1,77 @@
 {
   "ticker": "NESTLEIND",
   "company": "Nestle India Limited",
-  "collected_at": "2026-06-06 05:34:27",
-  "directors": []
+  "collected_at": "2026-06-07 06:21:59",
+  "directors": [
+    {
+      "name": "Mr. Manish  Tiwary",
+      "role": "Chairman & MD",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": 260600000
+    },
+    {
+      "name": "Mr. Edouard Dominique Jean Mac Nab",
+      "role": "Executive Director of Finance & Control, CFO and Additional Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 7200000
+    },
+    {
+      "name": "Mr. Ajay  Bajaj",
+      "role": "Head of Investor Relations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Dhwani  Rao",
+      "role": "General Counsel, Head of Legal & Compliance",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ambereen Ali Shah",
+      "role": "Head of Media Relations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Varun  Sethuraman",
+      "role": "Head of Marketing Communications",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Nitu  Bhushan",
+      "role": "Head of Human Resources",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jagdeep Singh Marahar",
+      "role": "Head of Technical",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Himmat  Singh",
+      "role": "Head of Corporate Affairs, Sustainability & Societal Initiatives",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Varun  Gupta",
+      "role": "Head of Supply Chain, Exports & Imports Business",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

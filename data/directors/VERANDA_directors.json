@@ -1,7 +1,7 @@
 {
   "ticker": "VERANDA",
   "company": "Veranda Learning Solutions Limited",
-  "collected_at": "2026-06-06 05:46:35",
+  "collected_at": "2026-06-07 06:34:17",
   "directors": [
     {
       "name": "Mr. Kalpathi S. Suresh",
@@ -20,13 +20,6 @@
     {
       "name": "Mr. Saurani Pathan Mohasin Khan",
       "role": "Chief Financial Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Aditya  Malik",
-      "role": "Group Chief Operating Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
@@ -71,6 +64,13 @@
       "role": "Chairman of Tapasya Educational Institutions",
       "age": 48,
       "year_born": 1977,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Vigneswar  Kumar",
+      "role": "Business Head of Veranda IAS",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

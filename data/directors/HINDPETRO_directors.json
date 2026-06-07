@@ -1,7 +1,7 @@
 {
   "ticker": "HINDPETRO",
   "company": "Hindustan Petroleum Corporation Limited",
-  "collected_at": "2026-06-06 05:26:01",
+  "collected_at": "2026-06-07 06:13:22",
   "directors": [
     {
       "name": "Mr. Vikas  Kaushal",
@@ -9,13 +9,6 @@
       "age": 54,
       "year_born": 1971,
       "total_pay": 4176600
-    },
-    {
-      "name": "Mr. Rajneesh  Narang",
-      "role": "CFO & Whole Time Director",
-      "age": 59,
-      "year_born": 1966,
-      "total_pay": 11039000
     },
     {
       "name": "Mr. Amit  Garg",
@@ -26,7 +19,7 @@
     },
     {
       "name": "Mr. Suresh K. Shetty",
-      "role": "Director of Human Resources & Whole-time Director",
+      "role": "Director of Finance, Director of Human Resources & Whole-time Director",
       "age": 57,
       "year_born": 1968,
       "total_pay": 10802000
@@ -39,15 +32,8 @@
       "total_pay": 10455000
     },
     {
-      "name": "Krishnan  Ramesh",
-      "role": "Executive Director of Operations & Commissioning",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. K  Vinod",
-      "role": "Executive Director of Corporate Finance & Additional Charge of Treasury",
+      "role": "CFO, Executive Director of Corporate Finance & Additional Charge of Treasury",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
@@ -69,6 +55,20 @@
     {
       "name": "Ms. R Aveetha Prabhu",
       "role": "Chief Financial Officer of HPCL LNG Limited",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mohit  Dhawan",
+      "role": "Chief Executive Officer of HPRGE",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sitaram G. Taparia",
+      "role": "Chief Risk Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

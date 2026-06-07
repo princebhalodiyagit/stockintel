@@ -1,7 +1,7 @@
 {
   "ticker": "STEELXIND",
   "company": "STEEL EXCHANGE INDIA LIMITED",
-  "collected_at": "2026-06-06 05:42:46",
+  "collected_at": "2026-06-07 06:30:26",
   "directors": [
     {
       "name": "Mr. Bandi Satish Kumar",
@@ -30,6 +30,20 @@
       "age": 35,
       "year_born": 1990,
       "total_pay": 6000000
+    },
+    {
+      "name": "Mr. Vankina Sri Rakesh",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mannem Raveendra Babu",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

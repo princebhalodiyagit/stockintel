@@ -1,7 +1,7 @@
 {
   "ticker": "BAJAJ-AUTO",
   "company": "Bajaj Auto Limited",
-  "collected_at": "2026-06-06 05:16:23",
+  "collected_at": "2026-06-07 06:03:31",
   "directors": [
     {
       "name": "Mr. Rajivnayan Rahulkumar Bajaj",
@@ -9,6 +9,20 @@
       "age": 55,
       "year_born": 1970,
       "total_pay": 585824725
+    },
+    {
+      "name": "Mr. Rakesh  Sharma",
+      "role": "Joint MD & Executive Director",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": 168130754
+    },
+    {
+      "name": "Mr. Pradeep  Shrivastava",
+      "role": "Executive Director",
+      "age": 65,
+      "year_born": 1960,
+      "total_pay": 283317842
     },
     {
       "name": "Mr. Dinesh  Thapar",
@@ -39,6 +53,13 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Ms. Baminee  Viswanat",
+      "role": "Chief Legal Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
       "name": "Ms. Deepika  Warrier",
       "role": "Head of Marketing",
       "age": 55,
@@ -51,27 +72,6 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. S.  Ravikumar",
-      "role": "Chief Business Development Officer",
-      "age": 67,
-      "year_born": 1958,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Abraham  Joseph",
-      "role": "Managing Director of Bajaj Auto Technology Ltd.",
-      "age": 57,
-      "year_born": 1968,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Kevin Pius D'Sa",
-      "role": "Managing Director of Bajaj Auto Credit Ltd.",
-      "age": 71,
-      "year_born": 1954,
-      "total_pay": 37525150
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "ticker": "BOROSCI",
   "company": "Borosil Scientific Limited",
-  "collected_at": "2026-06-06 05:18:05",
+  "collected_at": "2026-06-07 06:05:14",
   "directors": [
     {
       "name": "Mr. Vinayak Madhukar Patankar",
@@ -13,6 +13,13 @@
     {
       "name": "Mr. Somnath  Billur",
       "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ramavtar  Sharma",
+      "role": "Company Secretary & Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

@@ -1,7 +1,7 @@
 {
   "ticker": "VIKRAMSOLR",
   "company": "Vikram Solar Limited",
-  "collected_at": "2026-06-06 05:46:45",
+  "collected_at": "2026-06-07 06:34:27",
   "directors": [
     {
       "name": "Mr. Gyanesh  Chaudhary",
@@ -57,6 +57,20 @@
       "role": "Senior Vice President \u00adof Corporate Strategy",
       "age": 38,
       "year_born": 1987,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rony  Banerjee",
+      "role": "Senior VP & Head of India Sales",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sameer  Nagpal",
+      "role": "CEO & Whole-Time Director",
+      "age": 56,
+      "year_born": 1969,
       "total_pay": "N/A"
     }
   ]

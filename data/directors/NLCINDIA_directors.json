@@ -1,7 +1,7 @@
 {
   "ticker": "NLCINDIA",
   "company": "NLC India Limited",
-  "collected_at": "2026-06-06 05:34:56",
+  "collected_at": "2026-06-07 06:22:29",
   "directors": [
     {
       "name": "Mr. Prasanna Kumar Motupalli",
@@ -30,13 +30,6 @@
       "age": 57,
       "year_born": 1968,
       "total_pay": 8319233
-    },
-    {
-      "name": "Mr. M.  Venkatachalam",
-      "role": "Director of Power & Director",
-      "age": 59,
-      "year_born": 1966,
-      "total_pay": 8158525
     },
     {
       "name": "Mr. Sushanta Kumar Panda",
@@ -69,6 +62,13 @@
     {
       "name": "Mr. Y. Joe Stephen Dominic",
       "role": "Chief General Manager of HR & CO",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. S.  Harikrishnan",
+      "role": "Chief General Manager of Mine-II",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

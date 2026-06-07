@@ -1,7 +1,7 @@
 {
   "ticker": "PIIND",
   "company": "PI Industries Limited",
-  "collected_at": "2026-06-06 05:36:38",
+  "collected_at": "2026-06-07 06:24:13",
   "directors": [
     {
       "name": "Mr. Mayank  Singhal",
@@ -9,6 +9,55 @@
       "age": 52,
       "year_born": 1973,
       "total_pay": 260000000
+    },
+    {
+      "name": "Mr. Rajnish  Sarna",
+      "role": "Chief Investor Relations Off, President of IT & Finance and Non-Executive Non-Independent Director",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": 100010000
+    },
+    {
+      "name": "Mr. Sanjay  Agarwal",
+      "role": "Group CFO and Head of Strategy & Integrated Development Cell",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Atanu  Roy",
+      "role": "Global Chief Information Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Amit  Goel",
+      "role": "Lead Corporate Legal",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Shruti  Joshi",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Kamali  Rajesh",
+      "role": "Global Chief People Officer",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Atul Kumar Gupta",
+      "role": "CEO & C.S.M. of PI AgSciences and Whole-time Director",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Arunabha  RayChaudhuri",
@@ -22,13 +71,6 @@
       "role": "Global CEO of PI Health Sciences",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Jagresh  Rana",
-      "role": "CEO of AgSciences & CEO of Biologicals business",
-      "age": 54,
-      "year_born": 1971,
       "total_pay": "N/A"
     }
   ]

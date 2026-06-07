@@ -1,7 +1,7 @@
 {
   "ticker": "PREMIERENE",
   "company": "Premier Energies Limited",
-  "collected_at": "2026-06-06 05:37:24",
+  "collected_at": "2026-06-07 06:25:00",
   "directors": [
     {
       "name": "Mr. Surender Pal Singh Saluja",
@@ -43,6 +43,34 @@
       "role": "Vice President of Legal",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Hitesh Kumar Jain",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Niyathi Naidu Madasu",
+      "role": "Chief Human Resources Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Adapa  Srinivas",
+      "role": "Chief Growth Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Chandra Mauli Kumar",
+      "role": "Chief Production Officer of PEPPL",
+      "age": 54,
+      "year_born": 1971,
       "total_pay": "N/A"
     }
   ]

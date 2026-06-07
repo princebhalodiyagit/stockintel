@@ -1,7 +1,7 @@
 {
   "ticker": "ICICIPRULI",
   "company": "ICICI Prudential Life Insurance Company Limited",
-  "collected_at": "2026-06-06 05:26:34",
+  "collected_at": "2026-06-07 06:13:54",
   "directors": [
     {
       "name": "Mr. Anup  Bagchi B.Tech, PGDM",
@@ -41,6 +41,34 @@
     {
       "name": "Mr. Manish  Bhandari",
       "role": "Chief Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Amish  Banker",
+      "role": "Chief Distribution Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Judhajit  Das",
+      "role": "Chief Service Delivery",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ashish Ravindra Rao",
+      "role": "Executive VP and Head of Customer Service & Operations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Dinesh  Tak",
+      "role": "Senior Vice President of Proprietary Sales Force",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

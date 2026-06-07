@@ -1,18 +1,46 @@
 {
   "ticker": "ADANIGREEN",
   "company": "Adani Green Energy Limited",
-  "collected_at": "2026-06-06 05:13:20",
+  "collected_at": "2026-06-07 06:00:27",
   "directors": [
+    {
+      "name": "Mr. Ashish  Khanna",
+      "role": "Chief Executive Officer",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": 104000000
+    },
+    {
+      "name": "Mr. Saurabh  Shah",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 20800000
+    },
+    {
+      "name": "Mr. Pragnesh Shashikant Darji",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 11300000
+    },
+    {
+      "name": "Mr. Sagar Rajeshbhai Adani",
+      "role": "Executive Director",
+      "age": 31,
+      "year_born": 1994,
+      "total_pay": 90000000
+    },
+    {
+      "name": "Mr. Vneet S. Jaain",
+      "role": "MD & Executive Director",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": 183500000
+    },
     {
       "name": "Mr. Vijil  Jain",
       "role": "Head of Investor Relations",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Santosh Kumar Singh",
-      "role": "Chief Sustainability Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

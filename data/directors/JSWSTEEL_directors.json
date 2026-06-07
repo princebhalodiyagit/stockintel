@@ -1,8 +1,15 @@
 {
   "ticker": "JSWSTEEL",
   "company": "JSW Steel Limited",
-  "collected_at": "2026-06-06 05:29:03",
+  "collected_at": "2026-06-07 06:16:32",
   "directors": [
+    {
+      "name": "Mr. Sajjan Kumar Jindal B.E.",
+      "role": "Non Independent Executive Chairman",
+      "age": 66,
+      "year_born": 1959,
+      "total_pay": 491800000
+    },
     {
       "name": "Mr. Jayant  Acharya",
       "role": "CEO, Joint MD & Whole-Time Director",
@@ -64,13 +71,6 @@
       "role": "Executive Vice President of Corporate Strategy & Development",
       "age": 54,
       "year_born": 1971,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. P. R. Kole B.Com, CA, LLB",
-      "role": "Senior Vice President of Finance & Accounts",
-      "age": 64,
-      "year_born": 1961,
       "total_pay": "N/A"
     }
   ]

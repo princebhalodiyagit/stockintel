@@ -1,7 +1,7 @@
 {
   "ticker": "TATAELXSI",
   "company": "Tata Elxsi Limited",
-  "collected_at": "2026-06-06 05:44:03",
+  "collected_at": "2026-06-07 06:31:45",
   "directors": [
     {
       "name": "Mr. Manoj  Raghavan",
@@ -9,6 +9,13 @@
       "age": 54,
       "year_born": 1971,
       "total_pay": 87504000
+    },
+    {
+      "name": "Mr. Nalin  Rana",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     },
     {
       "name": "Ms. Sneha  V",

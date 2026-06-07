@@ -1,13 +1,13 @@
 {
   "ticker": "GOODYEAR",
   "company": "Goodyear India Limited",
-  "collected_at": "2026-06-06 05:24:28",
+  "collected_at": "2026-06-07 06:11:48",
   "directors": [
     {
       "name": "Mr. Arvind  Bhandari",
       "role": "MD & Chairman",
-      "age": 55,
-      "year_born": 1970,
+      "age": 54,
+      "year_born": 1971,
       "total_pay": 41770000
     },
     {
@@ -20,6 +20,48 @@
     {
       "name": "Mr. Sandeep  Garg",
       "role": "Whole Time Director & CFO",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vinay  Kumar",
+      "role": "Head of Legal & Compliance",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Randeep Singh Kanwar BTech, PGDM",
+      "role": "Managing Director of Goodyear Indonesia",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anup  Karnwal",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sunil  Modi",
+      "role": "Finance Controller",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. P. K. Walia",
+      "role": "Vice President of Consumer PBU",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sudhir  Vaijanapurkar",
+      "role": "Manufacturing Director \u0096 Ballabgarh",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

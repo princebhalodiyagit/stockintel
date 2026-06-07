@@ -1,7 +1,7 @@
 {
   "ticker": "HIKAL",
   "company": "Hikal Limited",
-  "collected_at": "2026-06-06 05:25:54",
+  "collected_at": "2026-06-07 06:13:15",
   "directors": [
     {
       "name": "Mr. Jai Vishwanath Hiremath",
@@ -48,6 +48,27 @@
     {
       "name": "Mr. Ratish  Jha",
       "role": "President of Human Resources",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ravi  Khadabadi",
+      "role": "President of Crop Protection & Specialty Chemicals",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manoj  Mehrotra",
+      "role": "President of Pharmaceuticals Business",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. T.  Devanathan",
+      "role": "Head of IP & Quality, Pharmaceuticals",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

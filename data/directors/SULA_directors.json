@@ -1,7 +1,7 @@
 {
   "ticker": "SULA",
   "company": "Sula Vineyards Limited",
-  "collected_at": "2026-06-06 05:43:03",
+  "collected_at": "2026-06-07 06:30:43",
   "directors": [
     {
       "name": "Mr. Rajeev Suresh Samant",
@@ -15,6 +15,34 @@
       "role": "Chief Financial Officer",
       "age": 46,
       "year_born": 1979,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Gayathri S. Iyer",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Gorakh  Gaikwad",
+      "role": "COO & Chief Winemaker",
+      "age": 44,
+      "year_born": 1981,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mandar  Kapse",
+      "role": "Head of Investor Relations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Prashant  Marathe",
+      "role": "Vice President of Legal & Compliance",
+      "age": 44,
+      "year_born": 1981,
       "total_pay": "N/A"
     },
     {

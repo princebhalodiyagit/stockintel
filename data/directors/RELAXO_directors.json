@@ -1,7 +1,7 @@
 {
   "ticker": "RELAXO",
   "company": "Relaxo Footwears Limited",
-  "collected_at": "2026-06-06 05:38:36",
+  "collected_at": "2026-06-07 06:26:12",
   "directors": [
     {
       "name": "Mr. Gaurav Kumaar Dua",
@@ -43,6 +43,34 @@
       "role": "Chief Financial Officer",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ankit  Jain",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Manoj  Lalwani",
+      "role": "Vice President of Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Manju  Kohli",
+      "role": "Chief Human Resources Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Nitin  Dua",
+      "role": "Executive Vice President of Retail",
+      "age": 43,
+      "year_born": 1982,
       "total_pay": "N/A"
     }
   ]

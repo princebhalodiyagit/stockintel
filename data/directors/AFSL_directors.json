@@ -1,7 +1,7 @@
 {
   "ticker": "AFSL",
   "company": "Abans Financial Services Limited",
-  "collected_at": "2026-06-06 05:13:42",
+  "collected_at": "2026-06-07 06:00:49",
   "directors": [
     {
       "name": "Mr. Chintan  Mehta",
@@ -15,6 +15,13 @@
       "role": "Chairman & MD",
       "age": 38,
       "year_born": 1987,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Raghunathan  Mudaliar",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
@@ -64,13 +71,6 @@
       "role": "Head of Banking Services",
       "age": 51,
       "year_born": 1974,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Mayank  Mundhra",
-      "role": "Head of Risk Management",
-      "age": "N/A",
-      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

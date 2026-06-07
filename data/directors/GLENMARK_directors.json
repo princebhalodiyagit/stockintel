@@ -1,7 +1,7 @@
 {
   "ticker": "GLENMARK",
   "company": "Glenmark Pharmaceuticals Limited",
-  "collected_at": "2026-06-06 05:23:58",
+  "collected_at": "2026-06-07 06:11:16",
   "directors": [
     {
       "name": "Mr. Glenn Mario Saldanha",
@@ -16,13 +16,6 @@
       "age": 58,
       "year_born": 1967,
       "total_pay": 62250000
-    },
-    {
-      "name": "Mr. Harish Vinayak Kuber",
-      "role": "Company Secretary & Compliance Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
     },
     {
       "name": "Mr. Alind  Sharma",
@@ -71,6 +64,13 @@
       "role": "President & Business Head of North America",
       "age": 55,
       "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anurag  Mantri",
+      "role": "Global CFO & Executive Director",
+      "age": 54,
+      "year_born": 1971,
       "total_pay": "N/A"
     }
   ]

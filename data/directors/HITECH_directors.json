@@ -1,7 +1,7 @@
 {
   "ticker": "HITECH",
   "company": "Hi-Tech Pipes Limited",
-  "collected_at": "2026-06-06 05:26:07",
+  "collected_at": "2026-06-07 06:13:28",
   "directors": [
     {
       "name": "Mr. Ajay Kumar Bansal",
@@ -25,6 +25,13 @@
       "total_pay": 1980000
     },
     {
+      "name": "Mr. Arvind Kumar Bansal F.C.A.",
+      "role": "CFO & Executive Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Santosh  Rai",
       "role": "Head of Accounts & Finance",
       "age": "N/A",
@@ -36,6 +43,13 @@
       "role": "Company Secretary & Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Nehal  Shah",
+      "role": "Chief Strategy Officer",
+      "age": 46,
+      "year_born": 1979,
       "total_pay": "N/A"
     }
   ]

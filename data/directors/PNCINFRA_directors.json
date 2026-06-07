@@ -1,7 +1,7 @@
 {
   "ticker": "PNCINFRA",
   "company": "PNC Infratech Limited",
-  "collected_at": "2026-06-06 05:36:55",
+  "collected_at": "2026-06-07 06:24:30",
   "directors": [
     {
       "name": "Mr. Pradeep Kumar Jain",
@@ -11,11 +11,67 @@
       "total_pay": 128023905
     },
     {
+      "name": "Mr. Chakresh Kumar Jain",
+      "role": "MD, CFO & Executive Director",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": 124030901
+    },
+    {
       "name": "Mr. Yogesh Kumar Jain",
       "role": "MD & Executive Director",
       "age": 54,
       "year_born": 1971,
       "total_pay": 124030901
+    },
+    {
+      "name": "Mr. Tapan  Jain",
+      "role": "Compliance Officer & Company Secretary",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. M. Anil Kumar Rao BE, MBA",
+      "role": "Whole Time Non-Independent Director",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": 12877698
+    },
+    {
+      "name": "Mr. Talluri Raghupati Rao",
+      "role": "Executive VP of Infrastructure & Whole Time Director",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": 11036595
+    },
+    {
+      "name": "Mr. Pankaj Kumar Agarwal",
+      "role": "Vice President of Finance & Accounts",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ashwani  Rawat",
+      "role": "Deputy General Manager of Administration",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Satya Prakash Singh",
+      "role": "Assistance Vice President of Human Resource",
+      "age": 77,
+      "year_born": 1948,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rakesh Mohan Khanduri",
+      "role": "Head of Structures Department",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": "N/A"
     }
   ]
 }
