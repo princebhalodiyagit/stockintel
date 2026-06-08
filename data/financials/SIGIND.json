@@ -1,21 +1,21 @@
 {
   "ticker": "SIGIND",
-  "collected_at": "2026-06-07 06:29:07",
+  "collected_at": "2026-06-08 06:45:11",
   "company_info": {
     "name": "Signet Industries Limited",
     "sector": "Industrials",
     "industry": "Conglomerates",
-    "market_cap": 1450949760,
-    "current_price": 49.29,
-    "pe_ratio": 9.195895,
-    "pb_ratio": 0.6883694,
-    "roe": "N/A",
-    "debt_to_equity": 173.841,
-    "revenue": 13209979904,
-    "net_income": 163467008,
+    "market_cap": 1433581952,
+    "current_price": 48.7,
+    "pe_ratio": 9.085821,
+    "pb_ratio": 0.68012965,
+    "roe": 0.06712,
+    "debt_to_equity": 185.772,
+    "revenue": 13467887616,
+    "net_income": 161554000,
     "eps": 5.36,
     "52_week_high": 70.0,
     "52_week_low": 40.66,
-    "dividend_yield": 0.99
+    "dividend_yield": 1.01
   }
 }
