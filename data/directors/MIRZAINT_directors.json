@@ -1,7 +1,7 @@
 {
   "ticker": "MIRZAINT",
   "company": "Mirza International Limited",
-  "collected_at": "2026-06-08 06:36:45",
+  "collected_at": "2026-06-09 06:03:26",
   "directors": [
     {
       "name": "Mr. Tauseef Ahmad Mirza Dip",
@@ -9,13 +9,6 @@
       "age": 56,
       "year_born": 1969,
       "total_pay": 27502774
-    },
-    {
-      "name": "Mr. Vadakke Elukkalyil Thomas Cherian",
-      "role": "Chief Financial Officer",
-      "age": 63,
-      "year_born": 1962,
-      "total_pay": "N/A"
     },
     {
       "name": "Ms. Harshita  Nagar",
@@ -44,6 +37,13 @@
       "age": 40,
       "year_born": 1985,
       "total_pay": 20188077
+    },
+    {
+      "name": "Mr. Anil Kumar Mahipal",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Abhinav  Jain",

@@ -1,14 +1,14 @@
 {
   "ticker": "KIRLOSIND",
-  "collected_at": "2026-06-08 06:33:47",
+  "collected_at": "2026-06-09 06:00:21",
   "company_info": {
     "name": "Kirloskar Industries Limited",
     "sector": "Industrials",
     "industry": "Metal Fabrication",
-    "market_cap": 33269315584,
-    "current_price": 3161.5,
-    "pe_ratio": 20.945408,
-    "pb_ratio": 0.48276323,
+    "market_cap": 32705267712,
+    "current_price": 3107.9,
+    "pe_ratio": 20.5903,
+    "pb_ratio": 0.47457847,
     "roe": 0.04326,
     "debt_to_equity": 13.481,
     "revenue": 69387403264,
@@ -16,6 +16,6 @@
     "eps": 150.94,
     "52_week_high": 4726.0,
     "52_week_low": 2463.0,
-    "dividend_yield": 0.4
+    "dividend_yield": 0.42
   }
 }

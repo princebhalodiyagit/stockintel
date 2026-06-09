@@ -1,14 +1,14 @@
 {
   "ticker": "INFOBEAN",
-  "collected_at": "2026-06-08 06:31:20",
+  "collected_at": "2026-06-09 05:57:52",
   "company_info": {
     "name": "InfoBeans Technologies Limited",
     "sector": "Technology",
     "industry": "Software - Application",
-    "market_cap": 16326031360,
-    "current_price": 168.38,
-    "pe_ratio": 18.876682,
-    "pb_ratio": 3.9412029,
+    "market_cap": "N/A",
+    "current_price": 170.91,
+    "pe_ratio": 19.160315,
+    "pb_ratio": 4.0004215,
     "roe": 0.2324,
     "debt_to_equity": 3.547,
     "revenue": 5135699968,
@@ -16,6 +16,6 @@
     "eps": 8.92,
     "52_week_high": 257.5,
     "52_week_low": 91.45,
-    "dividend_yield": 0.14
+    "dividend_yield": 0.15
   }
 }

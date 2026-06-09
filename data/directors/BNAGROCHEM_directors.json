@@ -1,15 +1,8 @@
 {
   "ticker": "BNAGROCHEM",
   "company": "BN Agrochem Limited",
-  "collected_at": "2026-06-08 06:21:49",
+  "collected_at": "2026-06-09 05:48:06",
   "directors": [
-    {
-      "name": "Ms. .  Manisha",
-      "role": "Chief Financial Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 485000
-    },
     {
       "name": "Ms. Reetika  Mahendra",
       "role": "Company Secretary & Compliance Officer",
@@ -20,6 +13,13 @@
     {
       "name": "Mr. Chintan Ajaykumar Shah",
       "role": "CEO & Whole-Time Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anurag  Bansal",
+      "role": "Chief Financial Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

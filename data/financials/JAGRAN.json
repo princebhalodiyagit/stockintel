@@ -1,14 +1,14 @@
 {
   "ticker": "JAGRAN",
-  "collected_at": "2026-06-08 06:32:05",
+  "collected_at": "2026-06-09 05:58:37",
   "company_info": {
     "name": "Jagran Prakashan Limited",
     "sector": "Communication Services",
     "industry": "Publishing",
-    "market_cap": 13973403648,
-    "current_price": 64.2,
-    "pe_ratio": 7.093922,
-    "pb_ratio": 0.6934618,
+    "market_cap": 13886342144,
+    "current_price": 63.8,
+    "pe_ratio": 7.0497236,
+    "pb_ratio": 0.68914115,
     "roe": 0.08794,
     "debt_to_equity": 5.156,
     "revenue": 18762246144,
@@ -16,6 +16,6 @@
     "eps": 9.05,
     "52_week_high": 78.9,
     "52_week_low": 59.5,
-    "dividend_yield": 10.48
+    "dividend_yield": 11.04
   }
 }
