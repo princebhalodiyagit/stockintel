@@ -1,14 +1,14 @@
 {
   "ticker": "SALZERELEC",
-  "collected_at": "2026-06-09 06:10:32",
+  "collected_at": "2026-06-10 06:26:31",
   "company_info": {
     "name": "Salzer Electronics Limited",
     "sector": "Industrials",
     "industry": "Electrical Equipment & Parts",
-    "market_cap": 11405364224,
-    "current_price": 645.0,
-    "pe_ratio": 21.521523,
-    "pb_ratio": 1.9244425,
+    "market_cap": 11393870848,
+    "current_price": 644.35,
+    "pe_ratio": 21.499832,
+    "pb_ratio": 1.9225031,
     "roe": 0.09309,
     "debt_to_equity": 88.776,
     "revenue": 17583796224,
@@ -16,6 +16,6 @@
     "eps": 29.97,
     "52_week_high": 967.35,
     "52_week_low": 488.8,
-    "dividend_yield": 0.4
+    "dividend_yield": 0.39
   }
 }

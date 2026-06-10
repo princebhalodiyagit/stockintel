@@ -1,14 +1,14 @@
 {
   "ticker": "LTFOODS",
-  "collected_at": "2026-06-09 06:01:46",
+  "collected_at": "2026-06-10 06:17:18",
   "company_info": {
     "name": "LT Foods Limited",
     "sector": "Consumer Defensive",
     "industry": "Packaged Foods",
-    "market_cap": 129976770560,
-    "current_price": 374.3,
-    "pe_ratio": 20.782898,
-    "pb_ratio": 7.2926,
+    "market_cap": 129698971648,
+    "current_price": 373.5,
+    "pe_ratio": 20.738478,
+    "pb_ratio": 7.277014,
     "roe": 0.14936,
     "debt_to_equity": 28.488,
     "revenue": 110137188352,
@@ -16,6 +16,6 @@
     "eps": 18.01,
     "52_week_high": 518.55,
     "52_week_low": 333.15,
-    "dividend_yield": 1.07
+    "dividend_yield": 1.06
   }
 }

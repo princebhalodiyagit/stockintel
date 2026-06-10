@@ -1,14 +1,14 @@
 {
   "ticker": "PRIMESECU",
-  "collected_at": "2026-06-09 06:08:01",
+  "collected_at": "2026-06-10 06:23:53",
   "company_info": {
     "name": "Prime Securities Limited",
     "sector": "Financial Services",
     "industry": "Capital Markets",
-    "market_cap": 9768378368,
-    "current_price": 288.15,
-    "pe_ratio": 75.43194,
-    "pb_ratio": 3.1410444,
+    "market_cap": 9634472960,
+    "current_price": 284.2,
+    "pe_ratio": 74.39791,
+    "pb_ratio": 3.0979867,
     "roe": 0.056539997,
     "debt_to_equity": 0.582,
     "revenue": 1371200000,
@@ -16,6 +16,6 @@
     "eps": 3.82,
     "52_week_high": 325.0,
     "52_week_low": 244.5,
-    "dividend_yield": 0.52
+    "dividend_yield": 0.51
   }
 }

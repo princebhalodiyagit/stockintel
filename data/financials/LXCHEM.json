@@ -1,14 +1,14 @@
 {
   "ticker": "LXCHEM",
-  "collected_at": "2026-06-09 06:01:54",
+  "collected_at": "2026-06-10 06:17:26",
   "company_info": {
     "name": "Laxmi Organic Industries Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals",
-    "market_cap": 42856906752,
-    "current_price": 154.6,
-    "pe_ratio": 54.055946,
-    "pb_ratio": 2.1791837,
+    "market_cap": 42172194816,
+    "current_price": 152.13,
+    "pe_ratio": 53.19231,
+    "pb_ratio": 2.1443675,
     "roe": 0.04077,
     "debt_to_equity": 27.344,
     "revenue": 28466669568,
@@ -16,6 +16,6 @@
     "eps": 2.86,
     "52_week_high": 241.0,
     "52_week_low": 107.6,
-    "dividend_yield": 0.2
+    "dividend_yield": 0.19
   }
 }

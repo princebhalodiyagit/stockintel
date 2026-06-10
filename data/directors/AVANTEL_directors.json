@@ -1,7 +1,7 @@
 {
   "ticker": "AVANTEL",
   "company": "Avantel Limited",
-  "collected_at": "2026-06-09 05:46:09",
+  "collected_at": "2026-06-10 06:00:48",
   "directors": [
     {
       "name": "Dr. Abburi  Vidyasagar",
@@ -53,13 +53,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. N. Srinivasa Rao",
-      "role": "Vice President of Technical",
-      "age": 52,
-      "year_born": 1973,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. M. J. S. Kishore",
       "role": "General Manager of Software Development",
       "age": 41,
@@ -71,6 +64,13 @@
       "role": "General Manager of Finance & Accounts",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Venugopal  Atluri",
+      "role": "General Manager of R&D",
+      "age": 42,
+      "year_born": 1983,
       "total_pay": "N/A"
     }
   ]

@@ -1,14 +1,14 @@
 {
   "ticker": "BMWVENTLTD",
-  "collected_at": "2026-06-09 05:48:05",
+  "collected_at": "2026-06-10 06:02:48",
   "company_info": {
     "name": "BMW Ventures Limited",
     "sector": "Basic Materials",
     "industry": "Steel",
-    "market_cap": 5262733312,
-    "current_price": 60.69,
-    "pe_ratio": 12.162325,
-    "pb_ratio": 1.1919398,
+    "market_cap": 5242788864,
+    "current_price": 60.46,
+    "pe_ratio": 12.116233,
+    "pb_ratio": 1.1874226,
     "roe": 0.114989996,
     "debt_to_equity": 58.379,
     "revenue": 22782390272,
@@ -16,6 +16,6 @@
     "eps": 4.99,
     "52_week_high": 78.0,
     "52_week_low": 48.0,
-    "dividend_yield": 4.99
+    "dividend_yield": 4.93
   }
 }
