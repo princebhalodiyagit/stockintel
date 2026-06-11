@@ -1,14 +1,14 @@
 {
   "ticker": "STEELCITY",
-  "collected_at": "2026-06-10 06:29:35",
+  "collected_at": "2026-06-11 06:45:09",
   "company_info": {
     "name": "Steel City Securities Limited",
     "sector": "Financial Services",
     "industry": "Capital Markets",
-    "market_cap": 1163246336,
-    "current_price": 77.0,
-    "pe_ratio": 8.045978,
-    "pb_ratio": 0.87126744,
+    "market_cap": 1147988096,
+    "current_price": 75.99,
+    "pe_ratio": 7.9404387,
+    "pb_ratio": 0.831901,
     "roe": 0.106800005,
     "debt_to_equity": 7.159,
     "revenue": 661724992,
@@ -16,6 +16,6 @@
     "eps": 9.57,
     "52_week_high": 116.9,
     "52_week_low": 71.26,
-    "dividend_yield": 5.18
+    "dividend_yield": 5.27
   }
 }

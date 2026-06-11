@@ -1,14 +1,14 @@
 {
   "ticker": "BANKBARODA",
-  "collected_at": "2026-06-10 06:01:34",
+  "collected_at": "2026-06-11 06:18:59",
   "company_info": {
     "name": "Bank of Baroda Limited",
     "sector": "Financial Services",
     "industry": "Banks - Regional",
-    "market_cap": 1407127650304,
-    "current_price": 272.1,
-    "pe_ratio": 7.08963,
-    "pb_ratio": 0.84834015,
+    "market_cap": 1365239660544,
+    "current_price": 264.0,
+    "pe_ratio": 6.8785825,
+    "pb_ratio": 0.8230864,
     "roe": 0.12738,
     "debt_to_equity": "N/A",
     "revenue": 636621357056,
@@ -16,6 +16,6 @@
     "eps": 38.38,
     "52_week_high": 325.5,
     "52_week_low": 230.52,
-    "dividend_yield": 3.11
+    "dividend_yield": 3.16
   }
 }

@@ -1,14 +1,14 @@
 {
   "ticker": "SHAREINDIA",
-  "collected_at": "2026-06-10 06:27:43",
+  "collected_at": "2026-06-11 06:43:24",
   "company_info": {
     "name": "Share India Securities Limited",
     "sector": "Financial Services",
     "industry": "Capital Markets",
-    "market_cap": 28867465216,
-    "current_price": 131.92,
-    "pe_ratio": 8.937669,
-    "pb_ratio": 1.0967013,
+    "market_cap": 28438568960,
+    "current_price": 129.98,
+    "pe_ratio": 8.804878,
+    "pb_ratio": 1.080407,
     "roe": 0.12968001,
     "debt_to_equity": 45.906,
     "revenue": 13224742912,
@@ -16,6 +16,6 @@
     "eps": 14.76,
     "52_week_high": 211.0,
     "52_week_low": 115.36,
-    "dividend_yield": 1.02
+    "dividend_yield": 1.03
   }
 }

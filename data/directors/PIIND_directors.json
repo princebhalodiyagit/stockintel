@@ -1,7 +1,7 @@
 {
   "ticker": "PIIND",
   "company": "PI Industries Limited",
-  "collected_at": "2026-06-10 06:23:00",
+  "collected_at": "2026-06-11 06:39:00",
   "directors": [
     {
       "name": "Mr. Mayank  Singhal",
@@ -53,13 +53,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Dr. Atul Kumar Gupta",
-      "role": "CEO & C.S.M. of PI AgSciences and Whole-time Director",
-      "age": 56,
-      "year_born": 1969,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Arunabha  RayChaudhuri",
       "role": "Global Head of Supply Chain Management",
       "age": 58,
@@ -71,6 +64,13 @@
       "role": "Global CEO of PI Health Sciences",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jagresh  Rana",
+      "role": "CEO of AgSciences & CEO of Biologicals business",
+      "age": 54,
+      "year_born": 1971,
       "total_pay": "N/A"
     }
   ]

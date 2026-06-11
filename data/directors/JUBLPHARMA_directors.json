@@ -1,7 +1,7 @@
 {
   "ticker": "JUBLPHARMA",
   "company": "Jubilant Pharmova Limited",
-  "collected_at": "2026-06-10 06:14:57",
+  "collected_at": "2026-06-11 06:31:33",
   "directors": [
     {
       "name": "Mr. Priyavrat  Bhartia MBA",
@@ -16,13 +16,6 @@
       "age": 38,
       "year_born": 1987,
       "total_pay": 74960399
-    },
-    {
-      "name": "Mr. Ashish  Mukkirwar",
-      "role": "Chief Financial Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
     },
     {
       "name": "Mr. Prakash Chandra Bisht B.Com., CA",
@@ -71,6 +64,13 @@
       "role": "Senior Vice President of Corporate Affairs",
       "age": 79,
       "year_born": 1946,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Chandan Singh Sengar B.Sc., M.B.A.",
+      "role": "President of Life Science Chemicals",
+      "age": 61,
+      "year_born": 1964,
       "total_pay": "N/A"
     }
   ]

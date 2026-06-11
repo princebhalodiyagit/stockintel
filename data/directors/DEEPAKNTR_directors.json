@@ -1,7 +1,7 @@
 {
   "ticker": "DEEPAKNTR",
   "company": "Deepak Nitrite Limited",
-  "collected_at": "2026-06-10 06:05:42",
+  "collected_at": "2026-06-11 06:22:57",
   "directors": [
     {
       "name": "Mr. Deepak Chimanlal Mehta B.Sc.",
@@ -9,13 +9,6 @@
       "age": 69,
       "year_born": 1956,
       "total_pay": 86000000
-    },
-    {
-      "name": "Mr. Maulik Deepak Mehta",
-      "role": "CEO & Executive Director",
-      "age": 42,
-      "year_born": 1983,
-      "total_pay": 49500000
     },
     {
       "name": "Mr. Somsekhar Asimkumar Nanda",
@@ -71,6 +64,13 @@
       "role": "Group Chief Human Resource Officer",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Gandhasiri Kamalakar Rao",
+      "role": "Head of Fine & Speciality Chemicals",
+      "age": 65,
+      "year_born": 1960,
       "total_pay": "N/A"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "ticker": "STAR",
   "company": "Strides Pharma Science Limited",
-  "collected_at": "2026-06-10 06:29:28",
+  "collected_at": "2026-06-11 06:45:02",
   "directors": [
     {
       "name": "Mr. Arun Kumar Pillai B.Com.",
@@ -16,13 +16,6 @@
       "age": 53,
       "year_born": 1972,
       "total_pay": 58100000
-    },
-    {
-      "name": "Mr. Vikesh  Kumar",
-      "role": "Group CFO",
-      "age": 40,
-      "year_born": 1985,
-      "total_pay": "N/A"
     },
     {
       "name": "Ms. Manjula  Ramamurthy",
@@ -69,6 +62,13 @@
     {
       "name": "Mr. Umesh  Kale",
       "role": "Chief Quality Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. A. Lakshmi Narayanan",
+      "role": "Chief Information Technology Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

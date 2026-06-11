@@ -1,14 +1,14 @@
 {
   "ticker": "SMLT",
-  "collected_at": "2026-06-10 06:28:44",
+  "collected_at": "2026-06-11 06:44:20",
   "company_info": {
     "name": "Sarthak Metals Limited",
     "sector": "Industrials",
     "industry": "Metal Fabrication",
-    "market_cap": 1000994560,
-    "current_price": 73.12,
-    "pe_ratio": 21.69733,
-    "pb_ratio": 0.81363785,
+    "market_cap": 951437632,
+    "current_price": 69.5,
+    "pe_ratio": 20.623146,
+    "pb_ratio": 0.7733565,
     "roe": 0.037720002,
     "debt_to_equity": 5.31,
     "revenue": 1922514048,
@@ -16,6 +16,6 @@
     "eps": 3.37,
     "52_week_high": 133.99,
     "52_week_low": 56.61,
-    "dividend_yield": 0.72
+    "dividend_yield": 0.7
   }
 }

@@ -1,14 +1,14 @@
 {
   "ticker": "SAKSOFT",
-  "collected_at": "2026-06-10 06:26:27",
+  "collected_at": "2026-06-11 06:42:12",
   "company_info": {
     "name": "Saksoft Limited",
     "sector": "Technology",
     "industry": "Information Technology Services",
-    "market_cap": 17793937408,
-    "current_price": 139.19,
-    "pe_ratio": 13.659471,
-    "pb_ratio": 2.2848372,
+    "market_cap": 17769648128,
+    "current_price": 139.0,
+    "pe_ratio": 13.640825,
+    "pb_ratio": 2.2817185,
     "roe": 0.19065,
     "debt_to_equity": 5.607,
     "revenue": 10071912448,
@@ -16,6 +16,6 @@
     "eps": 10.19,
     "52_week_high": 253.99,
     "52_week_low": 107.59,
-    "dividend_yield": 0.71
+    "dividend_yield": 0.7
   }
 }

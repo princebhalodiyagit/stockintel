@@ -1,14 +1,14 @@
 {
   "ticker": "CMSINFO",
-  "collected_at": "2026-06-10 06:04:24",
+  "collected_at": "2026-06-11 06:21:42",
   "company_info": {
     "name": "CMS Info Systems Limited",
     "sector": "Industrials",
     "industry": "Specialty Business Services",
-    "market_cap": 48510447616,
-    "current_price": 294.65,
-    "pe_ratio": 16.127531,
-    "pb_ratio": 1.991107,
+    "market_cap": 48008306688,
+    "current_price": 291.6,
+    "pe_ratio": 15.960591,
+    "pb_ratio": 1.9704967,
     "roe": 0.12913,
     "debt_to_equity": 9.102,
     "revenue": 24871819264,
@@ -16,6 +16,6 @@
     "eps": 18.27,
     "52_week_high": 541.15,
     "52_week_low": 261.9,
-    "dividend_yield": 1.87
+    "dividend_yield": 1.89
   }
 }

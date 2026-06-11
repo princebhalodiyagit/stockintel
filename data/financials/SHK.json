@@ -1,14 +1,14 @@
 {
   "ticker": "SHK",
-  "collected_at": "2026-06-10 06:27:53",
+  "collected_at": "2026-06-11 06:43:33",
   "company_info": {
     "name": "S H Kelkar and Company Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals",
-    "market_cap": 17290141696,
-    "current_price": 124.91,
-    "pe_ratio": 24.982,
-    "pb_ratio": 1.3052248,
+    "market_cap": 17079742464,
+    "current_price": 123.39,
+    "pe_ratio": 24.678,
+    "pb_ratio": 1.2893417,
     "roe": 0.05249,
     "debt_to_equity": 75.521,
     "revenue": 23682600960,
@@ -16,6 +16,6 @@
     "eps": 5.0,
     "52_week_high": 275.5,
     "52_week_low": 111.98,
-    "dividend_yield": 1.61
+    "dividend_yield": 1.63
   }
 }

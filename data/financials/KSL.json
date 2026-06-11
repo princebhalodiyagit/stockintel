@@ -1,14 +1,14 @@
 {
   "ticker": "KSL",
-  "collected_at": "2026-06-10 06:16:33",
+  "collected_at": "2026-06-11 06:33:02",
   "company_info": {
     "name": "Kalyani Steels Limited",
     "sector": "Basic Materials",
     "industry": "Steel",
-    "market_cap": 34802401280,
-    "current_price": 797.25,
-    "pe_ratio": 13.496699,
-    "pb_ratio": 1.6534933,
+    "market_cap": 34704183296,
+    "current_price": 795.0,
+    "pe_ratio": 13.458609,
+    "pb_ratio": 1.6488268,
     "roe": "N/A",
     "debt_to_equity": "N/A",
     "revenue": 14143579136,
@@ -16,6 +16,6 @@
     "eps": 59.07,
     "52_week_high": 988.8,
     "52_week_low": 574.0,
-    "dividend_yield": 1.24
+    "dividend_yield": 1.27
   }
 }

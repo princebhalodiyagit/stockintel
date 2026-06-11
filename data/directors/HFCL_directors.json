@@ -1,7 +1,7 @@
 {
   "ticker": "HFCL",
   "company": "HFCL Limited",
-  "collected_at": "2026-06-10 06:11:21",
+  "collected_at": "2026-06-11 06:28:14",
   "directors": [
     {
       "name": "Mr. Mahendra  Nahata",
@@ -53,13 +53,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Alok  Chander",
-      "role": "Associate Vice President of Marketing",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Sanjay Vithalrao Jorapur",
       "role": "Executive President of HR",
       "age": 54,
@@ -71,6 +64,13 @@
       "role": "President of Commercial",
       "age": 65,
       "year_born": 1960,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Harshwardhan  Pagay",
+      "role": "Executive President of Optical Fiber & Optical Fiber Cable",
+      "age": 54,
+      "year_born": 1971,
       "total_pay": "N/A"
     }
   ]

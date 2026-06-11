@@ -1,15 +1,8 @@
 {
   "ticker": "CASTROLIND",
   "company": "Castrol India Limited",
-  "collected_at": "2026-06-10 06:03:35",
+  "collected_at": "2026-06-11 06:20:55",
   "directors": [
-    {
-      "name": "Mr. Saugata  Basuray",
-      "role": "Wholetime Director & Interim CEO",
-      "age": 51,
-      "year_born": 1974,
-      "total_pay": 39221535
-    },
     {
       "name": "Ms. Mrinalini  Srinivasan",
       "role": "CFO & Whole-Time Director",
@@ -72,6 +65,13 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mayank  Pandey",
+      "role": "VP & Head of B2C Sales",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": 49855380
     }
   ]
 }
