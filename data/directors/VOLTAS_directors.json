@@ -1,7 +1,7 @@
 {
   "ticker": "VOLTAS",
   "company": "Voltas Limited",
-  "collected_at": "2026-06-11 06:49:26",
+  "collected_at": "2026-06-12 06:45:50",
   "directors": [
     {
       "name": "Mr. Mukundan C. P. Menon",
@@ -9,6 +9,69 @@
       "age": 63,
       "year_born": 1962,
       "total_pay": 58900000
+    },
+    {
+      "name": "Mr. Varun P. Malhotra A.C.A, B.Com.A.C.S.",
+      "role": "Head of Taxation & Legal",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": 8800000
+    },
+    {
+      "name": "Mr. Kadangode V. Sridhar",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Nikhil R. Chandarana",
+      "role": "Head of Corporate Finance & PDC",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Juhi  Chaudhary",
+      "role": "Head of Legal",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ratnesh Prasad Rukhariyar",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Pragya  Bijalwann",
+      "role": "Head of Marketing & Communications",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jogesh K. Jaitly",
+      "role": "Head of Sales",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Boishakhi  Banerjee",
+      "role": "Head of People & Culture",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Prabhuajgaonkar G. Balkrishna",
+      "role": "CFO of Projects & VP of Finance",
+      "age": 67,
+      "year_born": 1958,
+      "total_pay": "N/A"
     }
   ]
 }

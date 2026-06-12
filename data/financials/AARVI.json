@@ -1,14 +1,14 @@
 {
   "ticker": "AARVI",
-  "collected_at": "2026-06-11 06:15:04",
+  "collected_at": "2026-06-12 06:10:40",
   "company_info": {
     "name": "Aarvi Encon Limited",
     "sector": "Industrials",
     "industry": "Staffing & Employment Services",
-    "market_cap": 2045802112,
-    "current_price": 138.13,
-    "pe_ratio": 11.725807,
-    "pb_ratio": 1.4379705,
+    "market_cap": 2103119360,
+    "current_price": 142.0,
+    "pe_ratio": 12.05433,
+    "pb_ratio": 1.4782581,
     "roe": 0.1318,
     "debt_to_equity": 18.792,
     "revenue": 6498518016,
@@ -16,6 +16,6 @@
     "eps": 11.78,
     "52_week_high": 152.0,
     "52_week_low": 96.99,
-    "dividend_yield": 1.47
+    "dividend_yield": 1.41
   }
 }

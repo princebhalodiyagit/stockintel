@@ -1,15 +1,8 @@
 {
   "ticker": "ASALCBR",
   "company": "Associated Alcohols & Breweries Ltd.",
-  "collected_at": "2026-06-11 06:17:35",
+  "collected_at": "2026-06-12 06:13:16",
   "directors": [
-    {
-      "name": "Mr. Anshuman  Kedia",
-      "role": "CEO & Whole Time Director",
-      "age": 32,
-      "year_born": 1993,
-      "total_pay": 32988000
-    },
     {
       "name": "Mr. Prasann Kumar Kedia",
       "role": "MD & Executive Director",
@@ -71,6 +64,13 @@
       "role": "Head of Human Resources",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Harshan Kumar Bhandari",
+      "role": "Senior Executive & Plant Head",
+      "age": 76,
+      "year_born": 1949,
       "total_pay": "N/A"
     }
   ]

@@ -1,14 +1,14 @@
 {
   "ticker": "VISAKAIND",
-  "collected_at": "2026-06-11 06:49:16",
+  "collected_at": "2026-06-12 06:45:39",
   "company_info": {
     "name": "Visaka Industries Limited",
     "sector": "Industrials",
     "industry": "Building Products & Equipment",
-    "market_cap": 6540839936,
-    "current_price": 75.7,
-    "pe_ratio": 7.661943,
-    "pb_ratio": 0.7912699,
+    "market_cap": 6455299584,
+    "current_price": 74.71,
+    "pe_ratio": 7.561741,
+    "pb_ratio": 0.7809217,
     "roe": 0.10865,
     "debt_to_equity": 36.591,
     "revenue": 16778561536,
@@ -16,6 +16,6 @@
     "eps": 9.88,
     "52_week_high": 98.1,
     "52_week_low": 50.2,
-    "dividend_yield": 1.54
+    "dividend_yield": 1.6
   }
 }

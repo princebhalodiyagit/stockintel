@@ -1,14 +1,14 @@
 {
   "ticker": "MANBA",
-  "collected_at": "2026-06-11 06:34:20",
+  "collected_at": "2026-06-12 06:30:20",
   "company_info": {
     "name": "Manba Finance Limited",
     "sector": "Financial Services",
     "industry": "Credit Services",
-    "market_cap": 5976982528,
-    "current_price": 118.97,
-    "pe_ratio": 13.174973,
-    "pb_ratio": 1.4617275,
+    "market_cap": 6204567040,
+    "current_price": 123.5,
+    "pe_ratio": 13.676634,
+    "pb_ratio": 1.5173855,
     "roe": 0.1165,
     "debt_to_equity": 379.637,
     "revenue": 1390695936,
@@ -16,6 +16,6 @@
     "eps": 9.03,
     "52_week_high": 159.5,
     "52_week_low": 98.0,
-    "dividend_yield": 1.08
+    "dividend_yield": 1.05
   }
 }

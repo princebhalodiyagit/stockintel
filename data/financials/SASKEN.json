@@ -1,14 +1,14 @@
 {
   "ticker": "SASKEN",
-  "collected_at": "2026-06-11 06:42:36",
+  "collected_at": "2026-06-12 06:38:45",
   "company_info": {
     "name": "Sasken Technologies Limited",
     "sector": "Technology",
     "industry": "Information Technology Services",
-    "market_cap": 33291780096,
-    "current_price": 2192.2,
-    "pe_ratio": 61.734726,
-    "pb_ratio": 3.8912811,
+    "market_cap": 32488417280,
+    "current_price": 2139.3,
+    "pe_ratio": 60.245007,
+    "pb_ratio": 3.797381,
     "roe": 0.06988,
     "debt_to_equity": 3.212,
     "revenue": 11131683840,
@@ -16,6 +16,6 @@
     "eps": 35.51,
     "52_week_high": 2440.0,
     "52_week_low": 991.0,
-    "dividend_yield": 1.11
+    "dividend_yield": 1.21
   }
 }

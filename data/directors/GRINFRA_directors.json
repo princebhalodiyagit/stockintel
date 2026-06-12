@@ -1,15 +1,8 @@
 {
   "ticker": "GRINFRA",
   "company": "G R Infraprojects Limited",
-  "collected_at": "2026-06-11 06:27:12",
+  "collected_at": "2026-06-12 06:22:59",
   "directors": [
-    {
-      "name": "Mr. Ajendra Kumar Agarwal",
-      "role": "MD & Whole Time Director",
-      "age": 61,
-      "year_born": 1964,
-      "total_pay": 81700000
-    },
     {
       "name": "Mr. Anand  Rathi",
       "role": "Chief Financial Officer",
@@ -71,6 +64,13 @@
       "role": "Senior Vice President of Design",
       "age": 56,
       "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sandeep  Mehta",
+      "role": "Senior Vice President",
+      "age": 52,
+      "year_born": 1973,
       "total_pay": "N/A"
     }
   ]

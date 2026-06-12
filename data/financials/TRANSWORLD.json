@@ -1,14 +1,14 @@
 {
   "ticker": "TRANSWORLD",
-  "collected_at": "2026-06-11 06:47:40",
+  "collected_at": "2026-06-12 06:43:59",
   "company_info": {
     "name": "Transworld Shipping Lines Limited",
     "sector": "Industrials",
     "industry": "Marine Shipping",
-    "market_cap": 3546141440,
-    "current_price": 161.5,
+    "market_cap": 3513205248,
+    "current_price": 160.0,
     "pe_ratio": "N/A",
-    "pb_ratio": 0.52647537,
+    "pb_ratio": 0.5215855,
     "roe": "N/A",
     "debt_to_equity": 44.768,
     "revenue": 6062300160,
@@ -16,6 +16,6 @@
     "eps": -34.19,
     "52_week_high": 301.7,
     "52_week_low": 111.56,
-    "dividend_yield": 0.91
+    "dividend_yield": 0.95
   }
 }

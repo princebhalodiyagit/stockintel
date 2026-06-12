@@ -1,7 +1,7 @@
 {
   "ticker": "GNA",
   "company": "GNA Axles Limited",
-  "collected_at": "2026-06-11 06:26:33",
+  "collected_at": "2026-06-12 06:22:18",
   "directors": [
     {
       "name": "Mr. Gursaran  Singh",
@@ -23,6 +23,55 @@
       "age": 67,
       "year_born": 1958,
       "total_pay": 31124000
+    },
+    {
+      "name": "Mr. Rakesh Kumar Gupta",
+      "role": "Chief Financial Officer",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Paramjit Singh Nanda",
+      "role": "Vice President of Admin",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Gourav  Jain",
+      "role": "Compliance Officer & Company Secretary",
+      "age": 43,
+      "year_born": 1982,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pradeep  Sharma",
+      "role": "Senior Vice President of Marketing",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Harwinder Singh Sehra",
+      "role": "Whole -Time Director",
+      "age": 43,
+      "year_born": 1982,
+      "total_pay": 11025000
+    },
+    {
+      "name": "Mr. Kulwin  Seehra",
+      "role": "Whole-Time Director",
+      "age": 39,
+      "year_born": 1986,
+      "total_pay": 11025000
+    },
+    {
+      "name": "Mr. Maninder Singh Seehra",
+      "role": "Whole-Time Director",
+      "age": 66,
+      "year_born": 1959,
+      "total_pay": 10214000
     }
   ]
 }

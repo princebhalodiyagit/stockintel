@@ -1,14 +1,14 @@
 {
   "ticker": "FISCHER",
-  "collected_at": "2026-06-11 06:25:17",
+  "collected_at": "2026-06-12 06:21:03",
   "company_info": {
     "name": "Fischer Medical Ventures Limited",
     "sector": "Healthcare",
     "industry": "Medical Devices",
-    "market_cap": 22279706624,
-    "current_price": 34.04,
-    "pe_ratio": 75.64445,
-    "pb_ratio": 6.112408,
+    "market_cap": 23843997696,
+    "current_price": 36.43,
+    "pe_ratio": 80.95556,
+    "pb_ratio": 6.5415697,
     "roe": 0.08625,
     "debt_to_equity": 27.698,
     "revenue": 3208892928,
@@ -16,6 +16,6 @@
     "eps": 0.45,
     "52_week_high": 124.7,
     "52_week_low": 31.05,
-    "dividend_yield": 0.02
+    "dividend_yield": 0.01
   }
 }

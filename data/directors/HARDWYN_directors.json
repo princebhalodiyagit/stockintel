@@ -1,7 +1,7 @@
 {
   "ticker": "HARDWYN",
   "company": "Hardwyn India Limited",
-  "collected_at": "2026-06-11 06:27:43",
+  "collected_at": "2026-06-12 06:23:30",
   "directors": [
     {
       "name": "Mr. Swaran Jeet Singh Sayal",
@@ -15,6 +15,13 @@
       "role": "MD, CFO & Executive Director",
       "age": 50,
       "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Pooja  Sarkar",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

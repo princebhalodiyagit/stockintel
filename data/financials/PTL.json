@@ -1,14 +1,14 @@
 {
   "ticker": "PTL",
-  "collected_at": "2026-06-11 06:40:04",
+  "collected_at": "2026-06-12 06:36:11",
   "company_info": {
     "name": "PTL Enterprises Limited",
     "sector": "Real Estate",
     "industry": "Real Estate Services",
-    "market_cap": 5288461312,
-    "current_price": 39.95,
-    "pe_ratio": 11.446992,
-    "pb_ratio": 0.62799656,
+    "market_cap": 5336117248,
+    "current_price": 40.31,
+    "pe_ratio": 11.550143,
+    "pb_ratio": 0.6336556,
     "roe": 0.054530002,
     "debt_to_equity": 0.642,
     "revenue": 643411008,
@@ -16,6 +16,6 @@
     "eps": 3.49,
     "52_week_high": 47.4,
     "52_week_low": 36.1,
-    "dividend_yield": 8.08
+    "dividend_yield": 8.12
   }
 }
