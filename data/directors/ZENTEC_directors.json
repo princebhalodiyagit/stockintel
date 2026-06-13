@@ -1,6 +1,77 @@
 {
   "ticker": "ZENTEC",
   "company": "Zen Technologies Limited",
-  "collected_at": "2026-06-12 06:46:54",
-  "directors": []
+  "collected_at": "2026-06-13 06:37:29",
+  "directors": [
+    {
+      "name": "Mr. Ashok  Atluri B.Com, PGDACS",
+      "role": "Non-Independent Executive Chairman & MD",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": 129195000
+    },
+    {
+      "name": "Mr. Kishore Dutt Atluri",
+      "role": "Founder, Joint MD, President & Executive Director",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": 114663000
+    },
+    {
+      "name": "Mr. Sourav  Dhar",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Shilpa  Choudari",
+      "role": "Whole-Time Executive Director",
+      "age": 44,
+      "year_born": 1981,
+      "total_pay": 5985000
+    },
+    {
+      "name": "Mr. Hari Haran Chalat",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Sreenivas Rao Yellamanchali",
+      "role": "Chief Technology Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Abhilasha  Atluri",
+      "role": "Manager of Investor Relations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Gowri Chintala Siddamshetty",
+      "role": "Chief Human Resource Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Suhruth  Taduri",
+      "role": "Software Head",
+      "age": 44,
+      "year_born": 1981,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Anisha  Atluri",
+      "role": "Head of Recruitment",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

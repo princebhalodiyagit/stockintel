@@ -1,6 +1,56 @@
 {
   "ticker": "ELECTHERM",
   "company": "Electrotherm (India) Limited",
-  "collected_at": "2026-06-12 06:19:56",
-  "directors": []
+  "collected_at": "2026-06-13 06:05:57",
+  "directors": [
+    {
+      "name": "Mr. Amit Kumar Patwarika",
+      "role": "Chief Financial Officer",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": 3652000
+    },
+    {
+      "name": "Mr. Fageshkumar Rameshbhai Soni",
+      "role": "Compliance Officer & Company Secretary",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 2200000
+    },
+    {
+      "name": "Mr. Harish  Mukati",
+      "role": "Chief Executive Officer of Steel Division",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": 6832800
+    },
+    {
+      "name": "Mr. Suraj Shailesh Bhandari",
+      "role": "MD & Director",
+      "age": 30,
+      "year_born": 1995,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Shailesh Bhanwarlal Bhandari",
+      "role": "Executive Vice Chairman",
+      "age": 67,
+      "year_born": 1958,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sanjay  Kaul",
+      "role": "Senior Vice President",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Tushar  Jani",
+      "role": "Additional Whole Time Director",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": "N/A"
+    }
+  ]
 }

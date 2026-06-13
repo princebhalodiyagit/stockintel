@@ -1,6 +1,77 @@
 {
   "ticker": "DCBBANK",
   "company": "DCB Bank Limited",
-  "collected_at": "2026-06-12 06:18:27",
-  "directors": []
+  "collected_at": "2026-06-13 06:04:12",
+  "directors": [
+    {
+      "name": "Mr. Praveen Achuthan Kutty B.Com., MBA",
+      "role": "CEO, MD & Director",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": 29106042
+    },
+    {
+      "name": "Mr. Krishnan Sridhar Seshadri CAIIB, M.Com",
+      "role": "Whole-Time Director",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": 13128021
+    },
+    {
+      "name": "Mr. Ravi Kumar Vadlamani",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Murali Mohan Rao Manduva",
+      "role": "Chief Technology Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ajit Kumar Singh",
+      "role": "Head of Treasury, FIG & Chief Investor Relationship Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manoj  Joshi",
+      "role": "Chief Compliance Officer",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Gaurav  Mehta",
+      "role": "Head of Marketing, PR, Corporate Communications & CSR",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Ashu  Sawhney",
+      "role": "Head of Human Resources",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Abhijit  Bose B.Com., CA (Inter)",
+      "role": "Chief Credit Officer",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ajay  Mathur B.A.",
+      "role": "Head of Collections & Commercial Vehicles",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    }
+  ]
 }

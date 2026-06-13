@@ -1,6 +1,77 @@
 {
   "ticker": "DEVX",
   "company": "Dev Accelerator Limited",
-  "collected_at": "2026-06-12 06:18:49",
-  "directors": []
+  "collected_at": "2026-06-13 06:04:38",
+  "directors": [
+    {
+      "name": "Mr. Parth Naimeshbhai Shah",
+      "role": "Co-Founder & Chairman",
+      "age": 34,
+      "year_born": 1991,
+      "total_pay": 3000000
+    },
+    {
+      "name": "Mr. Umesh Satishkumar Uttamchandani",
+      "role": "Co-Founder, MD & Director",
+      "age": 38,
+      "year_born": 1987,
+      "total_pay": 3000000
+    },
+    {
+      "name": "Mr. Rushit Shardulkumar Shah",
+      "role": "Co-Founder & Whole-Time Director",
+      "age": 35,
+      "year_born": 1990,
+      "total_pay": 3000000
+    },
+    {
+      "name": "Mr. Parin  Shah",
+      "role": "Joint Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Parthiv  Panchal",
+      "role": "Joint Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Monika  Handa",
+      "role": "Vice President of Operations & Facility",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anjan  Trivedi",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anuragdwip  Pandey",
+      "role": "Assistant General Manager of Purchase & Admin and GM of Procurement",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Lalit Rajkumar Nagrani",
+      "role": "Creative Head",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pinakin  Vitkare",
+      "role": "Senior Manager of Digital Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

@@ -1,6 +1,77 @@
 {
   "ticker": "ARIES",
   "company": "Aries Agro Limited",
-  "collected_at": "2026-06-12 06:12:58",
-  "directors": []
+  "collected_at": "2026-06-13 05:57:44",
+  "directors": [
+    {
+      "name": "Dr. Rahul  Mirchandani ; Mba; Ph.D., B. Com; CFA",
+      "role": "Chairman of the Board & MD",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": 24664800
+    },
+    {
+      "name": "Ms. Chhaya Ashok Warrier",
+      "role": "SVP of Finance & CFO",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Biplob  Chatterjee",
+      "role": "Chief Operations Officer",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Qaiser Parvez Ansari",
+      "role": "Company Secretary, Chief Legal & Compliance Officer",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Santosh Kumar Pandey",
+      "role": "Vice President of Marketing",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajesh Kumar Gupta",
+      "role": "Joint Vice President of Marketing",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Rajendra Ravindra Pathre",
+      "role": "Senior Vice President of Accounts & Taxation",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Rajita Sudhir Shetty",
+      "role": "General Manager of HR",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jayapradeep  Subramanian",
+      "role": "Senior Chief Marketing Controller of Southern Region",
+      "age": 42,
+      "year_born": 1983,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Arun Kumar Tiwari",
+      "role": "Senior Chief Marketing Controller of North & West India",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": "N/A"
+    }
+  ]
 }

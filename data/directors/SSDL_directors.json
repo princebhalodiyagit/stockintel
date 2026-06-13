@@ -1,6 +1,77 @@
 {
   "ticker": "SSDL",
   "company": "Saraswati Saree Depot Limited",
-  "collected_at": "2026-06-12 06:41:10",
-  "directors": []
+  "collected_at": "2026-06-13 06:30:56",
+  "directors": [
+    {
+      "name": "Mr. Shankar Laxmandas Dulhani",
+      "role": "Executive Chairperson",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": 2500000
+    },
+    {
+      "name": "Mr. Vinod Shevakram Dulhani",
+      "role": "MD, CEO & Director",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": 5000000
+    },
+    {
+      "name": "Mr. Rajesh Sujandas Dulhani",
+      "role": "Executive Director",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": 2100000
+    },
+    {
+      "name": "Mr. Mahesh Sajandas Dulhani",
+      "role": "Executive Director",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": 2050000
+    },
+    {
+      "name": "Mr. Mahesh Suwalal Vyas",
+      "role": "Chief Financial Officer",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dinesh Shevakram Dulhani",
+      "role": "Senior Manager of Operations",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Gaurav Mahesh Dulhani",
+      "role": "Senior Manager of Accounting & Finance",
+      "age": 31,
+      "year_born": 1994,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Shevakram Laxmandas Dulhani",
+      "role": "Senior Manager of Administration",
+      "age": 68,
+      "year_born": 1957,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Vidhi Bharat Oswal",
+      "role": "Whole-Time Company Secretary & Compliance Officer",
+      "age": 24,
+      "year_born": 2001,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Tushar Shankar Dulhani",
+      "role": "Manager of Sales & Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

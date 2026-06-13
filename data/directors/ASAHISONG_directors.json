@@ -1,6 +1,56 @@
 {
   "ticker": "ASAHISONG",
   "company": "Asahi Songwon Colors Limited",
-  "collected_at": "2026-06-12 06:13:14",
-  "directors": []
+  "collected_at": "2026-06-13 05:58:03",
+  "directors": [
+    {
+      "name": "Ms. Paru Mrugesh Jaykrishna B.A., LL.B., M.A.",
+      "role": "Founder, Executive Chairperson & MD",
+      "age": 82,
+      "year_born": 1943,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Arjun Gokul Jaykrishna",
+      "role": "CEO & Executive Director",
+      "age": 29,
+      "year_born": 1996,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Gokul Mrugesh Jaykrishna",
+      "role": "Joint MD & Director",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Miteshkumar Nandubhai Patel",
+      "role": "Executive Director",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Chandravadan R. Raval B.Com",
+      "role": "General Manager of Accounts",
+      "age": 74,
+      "year_born": 1951,
+      "total_pay": 1294560
+    },
+    {
+      "name": "Mr. Saji Varghese Joseph",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 1592000
+    },
+    {
+      "name": "Ms. Nupur  Raval",
+      "role": "Account Manager",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

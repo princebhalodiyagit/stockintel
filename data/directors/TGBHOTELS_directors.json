@@ -1,6 +1,42 @@
 {
   "ticker": "TGBHOTELS",
   "company": "TGB Banquets And Hotels Limited",
-  "collected_at": "2026-06-12 06:43:15",
-  "directors": []
+  "collected_at": "2026-06-13 06:33:22",
+  "directors": [
+    {
+      "name": "Mr. Narendra Gurmukhdas Somani B.Com",
+      "role": "Chairman & MD",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": 4800000
+    },
+    {
+      "name": "Ms. Arpita Hardik Shah",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Hemant Gurmukhdas Somani B.Com",
+      "role": "Whole Time Director",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": 2400000
+    },
+    {
+      "name": "Mr. Devanand Gurmukhdas Somani B.Com",
+      "role": "Whole Time Director",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Prakash  Shrivastav",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

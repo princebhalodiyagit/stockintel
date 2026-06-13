@@ -1,6 +1,77 @@
 {
   "ticker": "PARKHOTELS",
   "company": "Apeejay Surrendra Park Hotels Limited",
-  "collected_at": "2026-06-12 06:34:35",
-  "directors": []
+  "collected_at": "2026-06-13 06:23:10",
+  "directors": [
+    {
+      "name": "Mr. Vijay  Dewan",
+      "role": "MD & Executive Director",
+      "age": 66,
+      "year_born": 1959,
+      "total_pay": 58600000
+    },
+    {
+      "name": "Mr. Atul  Khosla",
+      "role": "Senior VP of Finance & CFO",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Sujata  Guin",
+      "role": "Senior VP of Human Resources & Chief Human Resources Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Priya  Paul",
+      "role": "Whole-Time Director",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": 70000000
+    },
+    {
+      "name": "Mr. Rohit  Arora",
+      "role": "VP of North & Goa Operations and Head of Leisure Sales",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajesh Kumar Singh",
+      "role": "National Head of Operations & Development",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Shalini  Keshan",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 2600000
+    },
+    {
+      "name": "Ms. Ruchika  Mehta",
+      "role": "Corporate Director of Communication & Public Relations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Yazad  Marfatia",
+      "role": "Corporate Director and Head of Sales & Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vikas  Ahluwalia",
+      "role": "GM & National Head Zone",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    }
+  ]
 }

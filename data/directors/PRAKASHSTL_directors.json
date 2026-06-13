@@ -1,6 +1,63 @@
 {
   "ticker": "PRAKASHSTL",
   "company": "Prakash Steelage Limited",
-  "collected_at": "2026-06-12 06:35:47",
-  "directors": []
+  "collected_at": "2026-06-13 06:24:36",
+  "directors": [
+    {
+      "name": "Mr. Prakash Chhaganlal Kanugo",
+      "role": "Founder, Executive Chairman & MD",
+      "age": 72,
+      "year_born": 1953,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ashok Mafatlal Seth",
+      "role": "CFO & Whole time Director",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kamal Prakash Kanugo",
+      "role": "Whole Time Director",
+      "age": 41,
+      "year_born": 1984,
+      "total_pay": 693871
+    },
+    {
+      "name": "Mr. Hemant Prakash Kanugo",
+      "role": "Whole Time Director",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": 693871
+    },
+    {
+      "name": "Ms. Sakshi Dinesh Faganiya",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Balkrishna  Utekar",
+      "role": "Marketing Head",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kesharam  Dewasi",
+      "role": "Senior Manager",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Dhanurdhar  Biswal",
+      "role": "Senior Executive",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": "N/A"
+    }
+  ]
 }

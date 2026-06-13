@@ -1,6 +1,28 @@
 {
   "ticker": "WEIZMANIND",
   "company": "Weizmann Limited",
-  "collected_at": "2026-06-12 06:46:09",
-  "directors": []
+  "collected_at": "2026-06-13 06:36:40",
+  "directors": [
+    {
+      "name": "Mr. Neelkamal Vrajlal Siraj B.Com",
+      "role": "Vice Chairman & MD",
+      "age": 67,
+      "year_born": 1958,
+      "total_pay": 17459000
+    },
+    {
+      "name": "Mr. Sreerama Sudhakar Tammana",
+      "role": "Chief Financial Officer",
+      "age": 67,
+      "year_born": 1958,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Ami Dharmendra Purohit",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

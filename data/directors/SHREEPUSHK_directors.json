@@ -1,6 +1,42 @@
 {
   "ticker": "SHREEPUSHK",
   "company": "Shree Pushkar Chemicals & Fertilisers Limited",
-  "collected_at": "2026-06-12 06:39:48",
-  "directors": []
+  "collected_at": "2026-06-13 06:29:22",
+  "directors": [
+    {
+      "name": "Mr. Punit Gopikishan Makharia",
+      "role": "Founder, Chairman & MD",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Gautam Gopikishan Makharia",
+      "role": "Joint MD, COO & Executive Director",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Deepak  Beriwala",
+      "role": "Chief Financial Officer",
+      "age": 37,
+      "year_born": 1988,
+      "total_pay": 2495000
+    },
+    {
+      "name": "Mr. Pankaj  Manjani",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 25,
+      "year_born": 2000,
+      "total_pay": 903052
+    },
+    {
+      "name": "Dr. N. N. Mahapatra",
+      "role": "Business Head of Dyes",
+      "age": 66,
+      "year_born": 1959,
+      "total_pay": 139000
+    }
+  ]
 }

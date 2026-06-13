@@ -1,6 +1,77 @@
 {
   "ticker": "BRIGADE",
   "company": "Brigade Enterprises Limited",
-  "collected_at": "2026-06-12 06:16:05",
-  "directors": []
+  "collected_at": "2026-06-13 06:01:27",
+  "directors": [
+    {
+      "name": "Mr. Mysore Ramachandrasetty Jaishankar",
+      "role": "Whole-time Director & Executive Chairman",
+      "age": 71,
+      "year_born": 1954,
+      "total_pay": 84900000
+    },
+    {
+      "name": "Ms. Pavitra  Shankar",
+      "role": "MD & Executive Director",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": 38800000
+    },
+    {
+      "name": "Mr. Roshin  Mathew",
+      "role": "President of Engineering & Whole-Time Director",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": 55600000
+    },
+    {
+      "name": "Ms. Nirupa  Shankar",
+      "role": "Joint MD & Director",
+      "age": 43,
+      "year_born": 1982,
+      "total_pay": 39200000
+    },
+    {
+      "name": "Mr. Amar Shivaram Mysore",
+      "role": "Executive Director",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": 38500000
+    },
+    {
+      "name": "Mr. Pradyumna Krishna Kumar",
+      "role": "Executive Director",
+      "age": 41,
+      "year_born": 1984,
+      "total_pay": 30400000
+    },
+    {
+      "name": "Mr. Yogesh  Patel",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Saras  Agarwal",
+      "role": "Chief Executive Officer of Investments",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Girish Mahendra Agrawal",
+      "role": "SVP of Accounts & Finance",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sajid  Iqbal",
+      "role": "Senior Vice President of HR & Admin",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

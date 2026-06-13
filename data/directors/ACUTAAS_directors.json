@@ -1,6 +1,77 @@
 {
   "ticker": "ACUTAAS",
   "company": "Acutaas Chemicals Limited",
-  "collected_at": "2026-06-12 06:11:03",
-  "directors": []
+  "collected_at": "2026-06-13 05:55:31",
+  "directors": [
+    {
+      "name": "Mr. Nareshkumar Ramjibhai Patel",
+      "role": "Executive Chairman & MD",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": 49200000
+    },
+    {
+      "name": "Mr. Chetanbhai Chhaganbhai Vaghasia",
+      "role": "Whole Time Director",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": 48520000
+    },
+    {
+      "name": "Mr. Virendra Nath Mishra",
+      "role": "Whole-time Director",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": 13380000
+    },
+    {
+      "name": "Mr. Ram Mohan Rao Lokhande",
+      "role": "Whole Time Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 13290000
+    },
+    {
+      "name": "Mr. Bhavin Navinchandra Shah",
+      "role": "Chief Financial Officer",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Ajit  Choubey",
+      "role": "President of Technical and Head Research & Development",
+      "age": 69,
+      "year_born": 1956,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Ekta Kumari Srivastava",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Gaurav Pravin Bhandari",
+      "role": "Assistant GM and Functional Head of Marketing & Business Development",
+      "age": 36,
+      "year_born": 1989,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Hemantkumar Mahendrabhai Patel",
+      "role": "Senior General Manager of Human Resource Department",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Nainesh  Desai",
+      "role": "AGM Purchase and Functional Head of Purchase & Procurement",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

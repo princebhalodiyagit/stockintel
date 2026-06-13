@@ -1,6 +1,42 @@
 {
   "ticker": "TAALTECH",
   "company": "Taal Tech Limited",
-  "collected_at": "2026-06-12 06:42:26",
-  "directors": []
+  "collected_at": "2026-06-13 06:32:25",
+  "directors": [
+    {
+      "name": "Mr. Salil Baldev Taneja",
+      "role": "MD & Chairman",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sudish Kumar Kuttapan Nair",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Aditya Shashikant Oza",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "K. B. Jogaraj",
+      "role": "Assistant Vice President",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "B. R. Manoj Kumar",
+      "role": "Executive Pilot",
+      "age": 37,
+      "year_born": 1988,
+      "total_pay": "N/A"
+    }
+  ]
 }

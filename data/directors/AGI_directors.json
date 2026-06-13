@@ -1,6 +1,77 @@
 {
   "ticker": "AGI",
   "company": "AGI Greenpac Limited",
-  "collected_at": "2026-06-12 06:11:33",
-  "directors": []
+  "collected_at": "2026-06-13 05:56:05",
+  "directors": [
+    {
+      "name": "Mr. Sandip  Somany B.Com.",
+      "role": "MD & Executive Chairman",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": 136580058
+    },
+    {
+      "name": "Mr. Rajesh  Khosla",
+      "role": "Chief Executive Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sandeep  Sikka",
+      "role": "Group Chief Financial Officer",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": 19693985
+    },
+    {
+      "name": "Mr. Shyamalendu  Banerjee",
+      "role": "Investor Relations Manager",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. .  Ompal",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sanjay  Gaur B.Com, MBA",
+      "role": "Chief Human Resource Officer",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rakesh  Kaul BSc., MBA, MFT",
+      "role": "President of CPD",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kular Satish Shetty",
+      "role": "President of General Administration",
+      "age": 66,
+      "year_born": 1959,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Govind Jee Rai",
+      "role": "Senior VP of Human Resource",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manoj Kumar Goel",
+      "role": "Chief Executive Officer of General Administration",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

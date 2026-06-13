@@ -1,6 +1,77 @@
 {
   "ticker": "GHCLTEXTIL",
   "company": "GHCL Textiles Limited",
-  "collected_at": "2026-06-12 06:21:53",
-  "directors": []
+  "collected_at": "2026-06-13 06:08:11",
+  "directors": [
+    {
+      "name": "Mr. Marshal Rajenderakumar Sonavane",
+      "role": "Chief Executive Officer",
+      "age": 38,
+      "year_born": 1987,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. N.  Rajagopal",
+      "role": "Head of Technical",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. M.  Parasuraman",
+      "role": "Chief Financial Officer",
+      "age": 40,
+      "year_born": 1985,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. D. Ramesh Babu",
+      "role": "Vice President of Operations",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Lalit Narayan Dwivedi",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 39,
+      "year_born": 1986,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Konda Siva Reddy",
+      "role": "Assistant General Manager of Marketing",
+      "age": 38,
+      "year_born": 1987,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. V.  Thamizhselvan",
+      "role": "Head of Human Resources",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. R. Ramesh Kumar",
+      "role": "Unit Head of Manaparai",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. S. Dhinesh Kumar",
+      "role": "Head of Raw Material & Procurement",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. R. Sathish Kumar",
+      "role": "Unit Head of Manaparai, Yarn Division",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    }
+  ]
 }

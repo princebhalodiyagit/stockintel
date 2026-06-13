@@ -1,6 +1,77 @@
 {
   "ticker": "SBFC",
   "company": "SBFC Finance Limited",
-  "collected_at": "2026-06-12 06:38:52",
-  "directors": []
+  "collected_at": "2026-06-13 06:28:15",
+  "directors": [
+    {
+      "name": "Mr. Mahesh Kanyalal Dayani",
+      "role": "MD & CEO",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 23164420
+    },
+    {
+      "name": "Mr. Narayan  Barasia",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 29240000
+    },
+    {
+      "name": "Ms. Namrata  Sajnani",
+      "role": "Company Secretary & Chief Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 2920000
+    },
+    {
+      "name": "Mr. Agnivesh  Kumar",
+      "role": "Head of Operations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ganesh  Vaidya",
+      "role": "Chief Technology Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sanket  Agarwal",
+      "role": "Chief Strategy Officer & Investor Relations Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sumeet  Ghai",
+      "role": "Chief Human Resource Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pragnesh  Soneji",
+      "role": "Chief Business Officer of Gold Loans",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajiv Pravin Thakker",
+      "role": "Chief Risk Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ish  Chawla",
+      "role": "Chief Business Officer of West & North",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

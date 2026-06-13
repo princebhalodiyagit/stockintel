@@ -1,6 +1,21 @@
 {
   "ticker": "SIMPLEXINF",
   "company": "Simplex Infrastructures Limited",
-  "collected_at": "2026-06-12 06:40:11",
-  "directors": []
+  "collected_at": "2026-06-13 06:29:49",
+  "directors": [
+    {
+      "name": "Mr. B. L. Bajoria",
+      "role": "Senior VP, Compliance Officer & Company Secretary",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 2700000
+    },
+    {
+      "name": "Mr. Samiran Kumar Bhattacharyya",
+      "role": "CFO & Whole-Time Director",
+      "age": 68,
+      "year_born": 1957,
+      "total_pay": "N/A"
+    }
+  ]
 }

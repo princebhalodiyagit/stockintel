@@ -1,6 +1,70 @@
 {
   "ticker": "ESTER",
   "company": "Ester Industries Limited",
-  "collected_at": "2026-06-12 06:20:31",
-  "directors": []
+  "collected_at": "2026-06-13 06:06:36",
+  "directors": [
+    {
+      "name": "Mr. Vaibhav  Jha",
+      "role": "Chief Executive Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 7296000
+    },
+    {
+      "name": "Mr. Sourabh  Agarwal",
+      "role": "Chief Financial Officer",
+      "age": 43,
+      "year_born": 1982,
+      "total_pay": 9552000
+    },
+    {
+      "name": "Ms. Poornima  Gupta",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 1644000
+    },
+    {
+      "name": "Mr. Ayush Vardhan Singhania",
+      "role": "Head of Business Development & Marketing and Whole-Time Director",
+      "age": 38,
+      "year_born": 1987,
+      "total_pay": 12226000
+    },
+    {
+      "name": "Mr. Pradeep Kumar Rustagi B.Com.",
+      "role": "Whole-Time Director & Executive Director of Corporate Affairs",
+      "age": 64,
+      "year_born": 1961,
+      "total_pay": 13855000
+    },
+    {
+      "name": "Mr. Diwaker  Dinesh",
+      "role": "Head of Legal",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 2860000
+    },
+    {
+      "name": "K. K. Mangal B. Com",
+      "role": "General Manager of Sales & Marketing",
+      "age": 74,
+      "year_born": 1951,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Adhrua  Minocha",
+      "role": "Chief Human Resource Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajendra Singh Gaur",
+      "role": "Head of Manufacturing Operations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

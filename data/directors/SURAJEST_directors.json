@@ -1,6 +1,56 @@
 {
   "ticker": "SURAJEST",
   "company": "Suraj Estate Developers Limited",
-  "collected_at": "2026-06-12 06:42:00",
-  "directors": []
+  "collected_at": "2026-06-13 06:31:55",
+  "directors": [
+    {
+      "name": "Mr. Rajan Meenathakonil Thomas",
+      "role": "Chairperson & MD",
+      "age": 69,
+      "year_born": 1956,
+      "total_pay": 25000000
+    },
+    {
+      "name": "Mr. Shreepal Suresh Shah",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rahul Rajan Jesu Thomas",
+      "role": "Whole-Time Director",
+      "age": 38,
+      "year_born": 1987,
+      "total_pay": 24000000
+    },
+    {
+      "name": "Mr. Mukesh Kumar Gupta",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sunny  Soni",
+      "role": "VP & Business Head of Sales",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Gopal  Barve",
+      "role": "Chief Engineer of Accord Estates Private Limited",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jitendra  Gupta",
+      "role": "Head of Project Management",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

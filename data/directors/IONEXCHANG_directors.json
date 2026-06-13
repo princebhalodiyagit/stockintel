@@ -1,6 +1,77 @@
 {
   "ticker": "IONEXCHANG",
   "company": "ION Exchange (India) Limited",
-  "collected_at": "2026-06-12 06:26:07",
-  "directors": []
+  "collected_at": "2026-06-13 06:13:10",
+  "directors": [
+    {
+      "name": "Mr. Rajesh  Sharma B.Sc., LL.B.",
+      "role": "Executive Chairman",
+      "age": 71,
+      "year_born": 1954,
+      "total_pay": 75509509
+    },
+    {
+      "name": "Mr. Indraneel  Dutt",
+      "role": "MD, CEO & Director",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": 12945965
+    },
+    {
+      "name": "Mr. Rajesh Kumar Srivastava",
+      "role": "President & CHRO",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vasant J. Naik",
+      "role": "Group Chief Financial Officer",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ajay A. Popat",
+      "role": "President of Corporate Diversification, Technology & Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Nikisha Yogesh Solanki",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Shashikant S. Raut",
+      "role": "Vice President of Projects & Sales",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Nandkumar Manohar Ranadive",
+      "role": "Group Head of Financial Planning & Risk Management",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 6493619
+    },
+    {
+      "name": "Mr. S. N. Iyengar",
+      "role": "Executive Vice President of Medium Industry Segment",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Prashant K. Chitnis",
+      "role": "Senior Vice President of Technology",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

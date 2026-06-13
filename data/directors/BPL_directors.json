@@ -1,6 +1,56 @@
 {
   "ticker": "BPL",
   "company": "BPL Limited",
-  "collected_at": "2026-06-12 06:16:04",
-  "directors": []
+  "collected_at": "2026-06-13 06:01:26",
+  "directors": [
+    {
+      "name": "Mr. Ajit Gopal Nambiar",
+      "role": "Executive Chairman & MD",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": 9967000
+    },
+    {
+      "name": "Ms. Karuna  Balu",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 3026000
+    },
+    {
+      "name": "Ms. Divya  Bharadwaj",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 507000
+    },
+    {
+      "name": "Mr. Varadarajan  Srinivasan A.C.A., A.I.C.W.A.",
+      "role": "General Manager of Corporate Accounts",
+      "age": 69,
+      "year_born": 1956,
+      "total_pay": 3235241
+    },
+    {
+      "name": "Mr. K.  Vishwanath",
+      "role": "Chief Corporate & Administration Officer",
+      "age": 71,
+      "year_born": 1954,
+      "total_pay": 3141217
+    },
+    {
+      "name": "Mr. S.  Hariharan",
+      "role": "Head of Taxation and Legal",
+      "age": 71,
+      "year_born": 1954,
+      "total_pay": 3009883
+    },
+    {
+      "name": "Shailesh  Mudaliar",
+      "role": "Chief Human Relations Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

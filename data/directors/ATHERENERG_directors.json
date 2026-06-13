@@ -1,6 +1,77 @@
 {
   "ticker": "ATHERENERG",
   "company": "Ather Energy Limited",
-  "collected_at": "2026-06-12 06:13:42",
-  "directors": []
+  "collected_at": "2026-06-13 05:58:35",
+  "directors": [
+    {
+      "name": "Mr. Tarun Sanjay Mehta",
+      "role": "Co-Founder, Executive Director & CEO",
+      "age": 36,
+      "year_born": 1989,
+      "total_pay": 27840000
+    },
+    {
+      "name": "Mr. Swapnil Babanlal Jain",
+      "role": "Co-Founder, Executive Director & CTO",
+      "age": 36,
+      "year_born": 1989,
+      "total_pay": 27840000
+    },
+    {
+      "name": "Mr. Sohil Dilipkumar Parekh",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sanjeev Kumar Singh",
+      "role": "Chief Operating Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anjani  Kumar",
+      "role": "Chief Digital & Information Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Puja  Aggarwal",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Murali  Sashidharan",
+      "role": "Head of Communications and Government Relations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Saurabh  Sharma",
+      "role": "Head of Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Surabhi  Loshali",
+      "role": "Chief Human Resources Officer",
+      "age": 44,
+      "year_born": 1981,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Shantanu  Jog",
+      "role": "Head of Creative Design",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

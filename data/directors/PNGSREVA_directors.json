@@ -1,6 +1,35 @@
 {
   "ticker": "PNGSREVA",
   "company": "PNGS Reva Diamond Jewellery Limited",
-  "collected_at": "2026-06-12 06:35:25",
-  "directors": []
+  "collected_at": "2026-06-13 06:24:09",
+  "directors": [
+    {
+      "name": "Mr. Amit Yeshwant Modak",
+      "role": "CEO & Whole-Time Director",
+      "age": 65,
+      "year_born": 1960,
+      "total_pay": 27990000
+    },
+    {
+      "name": "Mr. Kisan Maruti Shendkar",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vrujendra Laxman Waghchaure",
+      "role": "Chief Operating Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Kirti Suryakant Vaidya C.S.",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

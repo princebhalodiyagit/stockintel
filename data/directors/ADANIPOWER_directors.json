@@ -1,6 +1,63 @@
 {
   "ticker": "ADANIPOWER",
   "company": "Adani Power Limited",
-  "collected_at": "2026-06-12 06:11:09",
-  "directors": []
+  "collected_at": "2026-06-13 05:55:37",
+  "directors": [
+    {
+      "name": "Mr. Shersingh B. Khyalia",
+      "role": "CEO & Whole-time Director",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": 101900000
+    },
+    {
+      "name": "Mr. Dilip Kumar Jha",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 41100000
+    },
+    {
+      "name": "Mr. Gautambhai Shantilal Adani S.Y. B.Com",
+      "role": "Founder & Non-Executive Non-Independent Chairman",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajiv Kumar Rustagi",
+      "role": "Vice President of Finance & Accounts",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Nishit  Dave",
+      "role": "Head of Investor Relations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Puneet  Bansal",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Amitabh  Mishra",
+      "role": "Chief Human Resources Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anil Kumar Sardana AICWA, B.E., PGDBM",
+      "role": "MD & Executive Director",
+      "age": 66,
+      "year_born": 1959,
+      "total_pay": "N/A"
+    }
+  ]
 }

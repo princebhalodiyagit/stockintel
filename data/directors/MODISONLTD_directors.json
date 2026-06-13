@@ -1,6 +1,63 @@
 {
   "ticker": "MODISONLTD",
   "company": "MODISON LIMITED",
-  "collected_at": "2026-06-12 06:31:34",
-  "directors": []
+  "collected_at": "2026-06-13 06:19:35",
+  "directors": [
+    {
+      "name": "Mr. Ramesh Mangilal Kothari",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 2676000
+    },
+    {
+      "name": "Ms. Pooja Birendra Sinha",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 174000
+    },
+    {
+      "name": "Mr. Girdhari Lal Modi",
+      "role": "MD & Executive Director",
+      "age": 84,
+      "year_born": 1941,
+      "total_pay": 36377000
+    },
+    {
+      "name": "Mr. Rajkumar Mohanlal Modi",
+      "role": "Joint MD & Whole-Time Director",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": 25121000
+    },
+    {
+      "name": "Mr. Kumar Jay Modi",
+      "role": "Joint MD & Whole Time Director",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": 24805000
+    },
+    {
+      "name": "Mr. Murlidhar Narayan Nikam",
+      "role": "Chief Executive Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 7116000
+    },
+    {
+      "name": "Mr. Nitin Vaijanath Kulkarni",
+      "role": "Plant Head",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kiritkumar Mohanbhai Patel",
+      "role": "Plant Head",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

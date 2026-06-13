@@ -1,6 +1,63 @@
 {
   "ticker": "PWL",
   "company": "Physicswallah Limited",
-  "collected_at": "2026-06-12 06:36:18",
-  "directors": []
+  "collected_at": "2026-06-13 06:25:12",
+  "directors": [
+    {
+      "name": "Mr. Alakh  Pandey",
+      "role": "Founder, CEO & Whole-Time Director",
+      "age": 33,
+      "year_born": 1992,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Prateek  Boob",
+      "role": "Co-Founder & Whole-Time Director",
+      "age": 37,
+      "year_born": 1988,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Amit  Sachdeva",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 7950000
+    },
+    {
+      "name": "Mr. Gopal  Sharma",
+      "role": "Chief Operating Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ajinkya Rajendra Jain",
+      "role": "Group General Counsel, Company Secretary & Compliance Officer",
+      "age": 37,
+      "year_born": 1988,
+      "total_pay": 3340000
+    },
+    {
+      "name": "Mr. Satish  Sharma",
+      "role": "Chief Marketing Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pulkit  Swarup",
+      "role": "Senior Vice President of Tech Engineering",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Vivek  Gaur",
+      "role": "Chief Growth Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

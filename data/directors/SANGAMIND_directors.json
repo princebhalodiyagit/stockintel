@@ -1,6 +1,77 @@
 {
   "ticker": "SANGAMIND",
   "company": "Sangam (India) Limited",
-  "collected_at": "2026-06-12 06:38:34",
-  "directors": []
+  "collected_at": "2026-06-13 06:27:53",
+  "directors": [
+    {
+      "name": "Mr. Ram Pal Soni",
+      "role": "Founder & Chairman",
+      "age": 79,
+      "year_born": 1946,
+      "total_pay": 51191000
+    },
+    {
+      "name": "Mr. Anurag  Soni",
+      "role": "MD & Whole Time Director",
+      "age": 37,
+      "year_born": 1988,
+      "total_pay": 23457000
+    },
+    {
+      "name": "Dr. Shri Niwas Modani M.B.A., M.Sc.",
+      "role": "Whole Time Vice Chairman",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": 28805000
+    },
+    {
+      "name": "Mr. Anil  Sharma",
+      "role": "President",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pawan Kumar Rawat",
+      "role": "Joint President",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Surat Ram Dakhera",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Arjun  Agal",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 35,
+      "year_born": 1990,
+      "total_pay": 1900000
+    },
+    {
+      "name": "Mr. Pranal  Modani",
+      "role": "Chief Executive Officer of Yarn & Denim Business and Chief Business Strategist",
+      "age": 33,
+      "year_born": 1992,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vinod Kumar Sodani B.Com, FCA",
+      "role": "CEO of Fabric & Garment Business and Executive Director",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": 18005000
+    },
+    {
+      "name": "Mr. Mahendra Kumar Rathi",
+      "role": "Vice President",
+      "age": 64,
+      "year_born": 1961,
+      "total_pay": "N/A"
+    }
+  ]
 }

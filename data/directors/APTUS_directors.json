@@ -1,6 +1,77 @@
 {
   "ticker": "APTUS",
   "company": "Aptus Value Housing Finance India Limited",
-  "collected_at": "2026-06-12 06:12:50",
-  "directors": []
+  "collected_at": "2026-06-13 05:57:36",
+  "directors": [
+    {
+      "name": "Mr. Munuswamy  Anandan",
+      "role": "Executive Chairman",
+      "age": 74,
+      "year_born": 1951,
+      "total_pay": 166643000
+    },
+    {
+      "name": "Mr. Parthasarathy  Balaji",
+      "role": "MD & Director",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": 37400000
+    },
+    {
+      "name": "Mr. John Vijayan Rayappa",
+      "role": "Chief Risk Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 6305000
+    },
+    {
+      "name": "Mr. Sanin  Panicker",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 2195000
+    },
+    {
+      "name": "Mr. Sanjay  Mittal",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Naveen Kumar R.",
+      "role": "VP of Operations & Compliance",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. V.  Krishnaswami",
+      "role": "Chief Technology Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Gandeeban  D.",
+      "role": "Chief Information Security Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sundara Kumar V",
+      "role": "Senior Vice President of Legal & Receivable",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Anitha  V.",
+      "role": "Chief Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

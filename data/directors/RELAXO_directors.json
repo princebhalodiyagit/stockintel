@@ -1,6 +1,77 @@
 {
   "ticker": "RELAXO",
   "company": "Relaxo Footwears Limited",
-  "collected_at": "2026-06-12 06:37:05",
-  "directors": []
+  "collected_at": "2026-06-13 06:26:08",
+  "directors": [
+    {
+      "name": "Mr. Gaurav Kumaar Dua",
+      "role": "Co-CEO & Whole-Time Director",
+      "age": 44,
+      "year_born": 1981,
+      "total_pay": 14784000
+    },
+    {
+      "name": "Mr. Mukand Lal Dua",
+      "role": "Whole Time Director",
+      "age": 76,
+      "year_born": 1949,
+      "total_pay": 27540000
+    },
+    {
+      "name": "Mr. Nikhil  Dua",
+      "role": "Whole Time Director",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": 14784000
+    },
+    {
+      "name": "Mr. Sushil  Batra",
+      "role": "Executive Director",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": 19249000
+    },
+    {
+      "name": "Mr. Ritesh  Dua",
+      "role": "Co-Chief Executive Officer",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Amit  Roy",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ankit  Jain",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Manoj  Lalwani",
+      "role": "Vice President of Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Manju  Kohli",
+      "role": "Chief Human Resources Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Nitin  Dua",
+      "role": "Executive Vice President of Retail",
+      "age": 43,
+      "year_born": 1982,
+      "total_pay": "N/A"
+    }
+  ]
 }

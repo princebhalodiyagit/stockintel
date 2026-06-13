@@ -1,6 +1,49 @@
 {
   "ticker": "KPEL",
   "company": "K.P. Energy Limited",
-  "collected_at": "2026-06-12 06:28:39",
-  "directors": []
+  "collected_at": "2026-06-13 06:16:08",
+  "directors": [
+    {
+      "name": "Ms. Shabana Virender Bajari",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Karmit Haribhadrabhai Sheth",
+      "role": "Compliance Officer & Company Secretary",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Farukbhai Gulambhai Patel",
+      "role": "MD & Director",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Affan Faruk Patel",
+      "role": "Whole time Director",
+      "age": 28,
+      "year_born": 1997,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Amitkumar Subhashchandra Khandelwal",
+      "role": "Whole Time Director",
+      "age": 44,
+      "year_born": 1981,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Alok  Das",
+      "role": "Group Chief Executive Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

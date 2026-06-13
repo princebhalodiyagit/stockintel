@@ -1,6 +1,28 @@
 {
   "ticker": "TAJGVK",
   "company": "Taj GVK Hotels & Resorts Limited",
-  "collected_at": "2026-06-12 06:42:28",
-  "directors": []
+  "collected_at": "2026-06-13 06:32:28",
+  "directors": [
+    {
+      "name": "Ms. Shalini  Bhupal",
+      "role": "MD, CEO & Executive Director",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": 46539000
+    },
+    {
+      "name": "Mr. J. Srinivasa Murthy",
+      "role": "CFO & Company Secretary",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Krishna Ram Bhupal",
+      "role": "Joint MD & Non-Executive Non-Independent Director",
+      "age": 42,
+      "year_born": 1983,
+      "total_pay": 240000
+    }
+  ]
 }

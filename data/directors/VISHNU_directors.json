@@ -1,6 +1,56 @@
 {
   "ticker": "VISHNU",
   "company": "Vishnu Chemicals Limited",
-  "collected_at": "2026-06-12 06:45:41",
-  "directors": []
+  "collected_at": "2026-06-13 06:36:11",
+  "directors": [
+    {
+      "name": "Mr. Cherukuri Krishna Murthy",
+      "role": "Chairman & MD",
+      "age": 68,
+      "year_born": 1957,
+      "total_pay": 19200000
+    },
+    {
+      "name": "Mr. Cherukuri  Siddartha",
+      "role": "Joint MD & Whole Time Director",
+      "age": 40,
+      "year_born": 1985,
+      "total_pay": 7200000
+    },
+    {
+      "name": "Mr. Mahesh  Bhatter",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. C.P.C. Kamalakara Rao",
+      "role": "Director of Operations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Vibha  Shinde",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 41,
+      "year_born": 1984,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. T.  Ramakrishna",
+      "role": "Director of Commercial & Corporate Affairs",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 2040017
+    },
+    {
+      "name": "Mr. Hanumant  Bhansali",
+      "role": "Vice President of Finance & Strategic Planning",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

@@ -1,6 +1,56 @@
 {
   "ticker": "SBCL",
   "company": "Shivalik Bimetal Controls Limited",
-  "collected_at": "2026-06-12 06:38:51",
-  "directors": []
+  "collected_at": "2026-06-13 06:28:13",
+  "directors": [
+    {
+      "name": "Mr. Narinder Singh Ghumman",
+      "role": "Chairman",
+      "age": 75,
+      "year_born": 1950,
+      "total_pay": 32175937
+    },
+    {
+      "name": "Mr. Kabir  Ghumman",
+      "role": "MD & Whole-time Director",
+      "age": 40,
+      "year_born": 1985,
+      "total_pay": 17585825
+    },
+    {
+      "name": "Mr. Sumer  Ghumman",
+      "role": "Whole Time Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 3632374
+    },
+    {
+      "name": "Mr. Rajeev  Ranjan",
+      "role": "Chief Financial Officer",
+      "age": 40,
+      "year_born": 1985,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mukesh Kumar Verma",
+      "role": "Head of Commercial & Administration",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": 1937414
+    },
+    {
+      "name": "Ms. Aarti  Sahni",
+      "role": "Compliance Officer & Company Secretary",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 286582
+    },
+    {
+      "name": "Mr. Kanav  Anand",
+      "role": "Head of Sales & Marketing",
+      "age": 42,
+      "year_born": 1983,
+      "total_pay": "N/A"
+    }
+  ]
 }

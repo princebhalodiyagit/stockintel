@@ -1,6 +1,77 @@
 {
   "ticker": "IIFLCAPS",
   "company": "IIFL Capital Services Limited",
-  "collected_at": "2026-06-12 06:25:05",
-  "directors": []
+  "collected_at": "2026-06-13 06:11:58",
+  "directors": [
+    {
+      "name": "Mr. Rajamani  Venkataraman B.Tech, MBA",
+      "role": "MD & Executive Director",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": 58176644
+    },
+    {
+      "name": "Mr. Narendra Deshmal Jain",
+      "role": "Whole Time Director",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": 17539600
+    },
+    {
+      "name": "Mr. H.  Nemkumar",
+      "role": "Chief Growth Officer",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": 173185483
+    },
+    {
+      "name": "Mr. Ronak Dhirajlal Gandhi",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 2615800
+    },
+    {
+      "name": "Mr. Nipun  Goel",
+      "role": "Head of Investment Banking",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Prasad  Umarale",
+      "role": "Chief Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Mamta  Singh",
+      "role": "Head of Legal",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Neha  Nambiar",
+      "role": "Head of Human Resources",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vasudev  Jagannath",
+      "role": "Head of Institutional Equities",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Chintan  Modi",
+      "role": "Head of Franchisee",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

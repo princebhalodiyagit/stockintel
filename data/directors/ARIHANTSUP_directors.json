@@ -1,6 +1,56 @@
 {
   "ticker": "ARIHANTSUP",
   "company": "Arihant Superstructures Limited",
-  "collected_at": "2026-06-12 06:13:01",
-  "directors": []
+  "collected_at": "2026-06-13 05:57:48",
+  "directors": [
+    {
+      "name": "Mr. Ashokkumar Bhanwarlal Chhajer",
+      "role": "Executive Chairman & MD",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": 9500000
+    },
+    {
+      "name": "Mr. Nimish Shashikant Shah B.E. Civil",
+      "role": "Chief Project Officer & Whole-Time Executive Director",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": 9000000
+    },
+    {
+      "name": "Mr. Parth Ashokkumar Chhajer",
+      "role": "Whole-time Director",
+      "age": 30,
+      "year_born": 1995,
+      "total_pay": 4500000
+    },
+    {
+      "name": "Mr. Udit  Kasera",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ravindra  Parakh",
+      "role": "Head of Accounts Department",
+      "age": 37,
+      "year_born": 1988,
+      "total_pay": 546000
+    },
+    {
+      "name": "Mr. Manoj  Dhondge",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Bhavik  Chhajer",
+      "role": "Whole-Time Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

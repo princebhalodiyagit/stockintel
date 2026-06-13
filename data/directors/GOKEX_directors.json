@@ -1,6 +1,77 @@
 {
   "ticker": "GOKEX",
   "company": "Gokaldas Exports Limited",
-  "collected_at": "2026-06-12 06:22:32",
-  "directors": []
+  "collected_at": "2026-06-13 06:08:57",
+  "directors": [
+    {
+      "name": "Mr. Sivaramakrishnan Vilayur Ganapathi",
+      "role": "CEO, MD & Executive Vice Chairman",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": 124963000
+    },
+    {
+      "name": "Mr. Prabhat Kumar Singh",
+      "role": "Whole-Time Director",
+      "age": 73,
+      "year_born": 1952,
+      "total_pay": 9875000
+    },
+    {
+      "name": "Mr. A.  Sathyamurthy",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Bhargava  Huchurao",
+      "role": "Chief Operating Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sachin  Gupta",
+      "role": "Chief Information Officer",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Gourish Ganapati Hegde",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Jyotsna  Shahi",
+      "role": "Chief Marketing Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Amit Kumar Sharma",
+      "role": "Chief Human Resource Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Tushar Kanti Panigrahi",
+      "role": "Senior Vice President of Finance",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Pranjal  Goswami",
+      "role": "Chief Sustainability Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

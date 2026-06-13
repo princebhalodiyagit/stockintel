@@ -1,6 +1,28 @@
 {
   "ticker": "NDGL",
   "company": "Naga Dhunseri Group Limited",
-  "collected_at": "2026-06-12 06:32:36",
-  "directors": []
+  "collected_at": "2026-06-13 06:20:50",
+  "directors": [
+    {
+      "name": "Mr. Hari Prasad Bhuwania",
+      "role": "Chief Executive Officer",
+      "age": 87,
+      "year_born": 1938,
+      "total_pay": 600000
+    },
+    {
+      "name": "Mr. Sudarshan  Mall",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Sakshi  Agarwal",
+      "role": "Compliance Officer & Company Secretary",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

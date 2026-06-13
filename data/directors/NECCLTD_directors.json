@@ -1,6 +1,77 @@
 {
   "ticker": "NECCLTD",
   "company": "North Eastern Carrying Corporation Limited",
-  "collected_at": "2026-06-12 06:32:42",
-  "directors": []
+  "collected_at": "2026-06-13 06:20:57",
+  "directors": [
+    {
+      "name": "Mr. Sunil Kumar Jain",
+      "role": "Chairman & MD",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": 4800000
+    },
+    {
+      "name": "Mr. Chandan  Singh",
+      "role": "Chief Financial Officer",
+      "age": 40,
+      "year_born": 1985,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. .  Rakesh",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 376000
+    },
+    {
+      "name": "Mr. Utkarsh  Jain",
+      "role": "Whole Time Director",
+      "age": 31,
+      "year_born": 1994,
+      "total_pay": 3600000
+    },
+    {
+      "name": "Mr. Surya Nath Singh",
+      "role": "Senior Manager of Accounts",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Prabhajeet J. Singh",
+      "role": "Senior Manager of Administration",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vinod R. Nair",
+      "role": "General Manager of HR & Legal",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ravi  Gupta",
+      "role": "General Manager of Sales",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Akhilesh Kumar Dubey",
+      "role": "Deputy General Manager of Projects",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Shambhu  Kumar",
+      "role": "IT Manager",
+      "age": 44,
+      "year_born": 1981,
+      "total_pay": "N/A"
+    }
+  ]
 }

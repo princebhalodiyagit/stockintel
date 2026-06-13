@@ -1,6 +1,77 @@
 {
   "ticker": "MTARTECH",
   "company": "Mtar Technologies Limited",
-  "collected_at": "2026-06-12 06:31:58",
-  "directors": []
+  "collected_at": "2026-06-13 06:20:04",
+  "directors": [
+    {
+      "name": "Mr. Parvat Srinivas Reddy",
+      "role": "MD & Director",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": 40020000
+    },
+    {
+      "name": "Mr. Gunneswara Rao Pusarla",
+      "role": "Chief Financial Officer",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Raja  Sheker Bollampally",
+      "role": "Chief Operations Officer",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Akepati Praveen Kumar Reddy",
+      "role": "Whole Time Director",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": 12770000
+    },
+    {
+      "name": "Mr. Mitta Anushman Reddy",
+      "role": "VP & Whole Time Director",
+      "age": 34,
+      "year_born": 1991,
+      "total_pay": 18970000
+    },
+    {
+      "name": "Mr. Arun Kumar Ojha",
+      "role": "Chief Commercial Officer",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Doggala  Siddareddy",
+      "role": "Vice President of Clean Energy Fuel Cells",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Alavalapati Veera Sudhakar Reddy",
+      "role": "Vice President of Space",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Rohit  Khera",
+      "role": "Resident Director",
+      "age": 71,
+      "year_born": 1954,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Bhogadi Lakshmana Babu",
+      "role": "Vice President of Aerospace",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": "N/A"
+    }
+  ]
 }

@@ -1,6 +1,77 @@
 {
   "ticker": "CDSL",
   "company": "Central Depository Services (India) Limited",
-  "collected_at": "2026-06-12 06:16:41",
-  "directors": []
+  "collected_at": "2026-06-13 06:02:09",
+  "directors": [
+    {
+      "name": "Mr. Nehal Naleen Vora",
+      "role": "CEO, MD & Director",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": 53532626
+    },
+    {
+      "name": "Mr. Girish  Amesara",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajesh  Saraf",
+      "role": "Chief Data & Operations Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Amit  Mahajan",
+      "role": "Executive VP & CTO",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Nilay Rajendra Shah",
+      "role": "Compliance Officer & Company Secretary",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajat  Srivastav",
+      "role": "Senior Vice President & General Counsel",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Nayana  Ovalekar",
+      "role": "Executive VP & Chief Regulatory Officer",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jitendra Panchal Chad",
+      "role": "Senior Vice President of Information Technology",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vishwas  Nagle",
+      "role": "Senior Vice President of Information Technology",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Farokh  Patel",
+      "role": "Senior Vice President of Audit, Inspection & Compliance",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

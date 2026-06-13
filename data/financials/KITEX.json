@@ -1,14 +1,14 @@
 {
   "ticker": "KITEX",
-  "collected_at": "2026-06-12 06:28:20",
+  "collected_at": "2026-06-13 06:15:46",
   "company_info": {
     "name": "Kitex Garments Limited",
     "sector": "Consumer Cyclical",
     "industry": "Apparel Manufacturing",
-    "market_cap": 28606304256,
-    "current_price": 143.39,
-    "pe_ratio": 477.96664,
-    "pb_ratio": 2.7247505,
+    "market_cap": 28931491840,
+    "current_price": 145.02,
+    "pe_ratio": 483.4,
+    "pb_ratio": 2.7557244,
     "roe": -0.01079,
     "debt_to_equity": 96.813,
     "revenue": 7192815104,
@@ -16,6 +16,6 @@
     "eps": 0.3,
     "52_week_high": 303.95,
     "52_week_low": 138.2,
-    "dividend_yield": 0.35
+    "dividend_yield": 0.34
   }
 }

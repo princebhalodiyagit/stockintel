@@ -1,6 +1,77 @@
 {
   "ticker": "MANBA",
   "company": "Manba Finance Limited",
-  "collected_at": "2026-06-12 06:30:20",
-  "directors": []
+  "collected_at": "2026-06-13 06:18:08",
+  "directors": [
+    {
+      "name": "Mr. Manish Kiritkumar Shah",
+      "role": "MD & Director",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jay Khushal Mota",
+      "role": "CFO & Whole Time Director",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Bhavisha Ashish Jain",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Monil Manish Shah",
+      "role": "Chief Business Officer & Whole Time Director",
+      "age": 29,
+      "year_born": 1996,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Nikita Manish Shah",
+      "role": "Head of Business Development & Whole Time Director",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Pankaja Raghavan Renoy",
+      "role": "Vice President of Sales & Operation",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Deepa Vipul Pasad",
+      "role": "Manager of Payments & Accounts",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Mamta Shantaram Telange",
+      "role": "Chief Technology Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. K Pranav Rao",
+      "role": "Chief Information Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Neha Chetan Karvir",
+      "role": "Manager of Human Resources",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

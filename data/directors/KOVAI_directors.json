@@ -1,6 +1,77 @@
 {
   "ticker": "KOVAI",
   "company": "Kovai Medical Center & Hospital Limited",
-  "collected_at": "2026-06-12 06:28:38",
-  "directors": []
+  "collected_at": "2026-06-13 06:16:06",
+  "directors": [
+    {
+      "name": "Dr. Nalla G. Palaniswami AB(USA), M.D.",
+      "role": "Chairman & MD",
+      "age": 84,
+      "year_born": 1941,
+      "total_pay": 72288000
+    },
+    {
+      "name": "Dr. Thavamani Devi Palaniswami AB (USA), M.D.",
+      "role": "Vice Chairman & Joint MD",
+      "age": 78,
+      "year_born": 1947,
+      "total_pay": 70398000
+    },
+    {
+      "name": "Dr. Arun N. Palaniswami MBBS, MDAB",
+      "role": "Executive Director",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": 40270000
+    },
+    {
+      "name": "Mr. P. K. Gopikrishnan C.A.",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 10096000
+    },
+    {
+      "name": "Dr. J.  Sivakumaran",
+      "role": "Chief Operating Officer",
+      "age": 66,
+      "year_born": 1959,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajendran  Ponmanikandan",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. S. Anto Vaz",
+      "role": "Chief Medical Physicist & Radiological Safety Officer",
+      "age": 43,
+      "year_born": 1982,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. S.  Karthikeyan",
+      "role": "Chief Executive Officer of Institute of Health Science & Research",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. C.  Tamilselvan",
+      "role": "Vice President of Materials",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. M.G  Sridhar",
+      "role": "Vice Principal & Professor of Biochemistry - IHSR",
+      "age": 65,
+      "year_born": 1960,
+      "total_pay": "N/A"
+    }
+  ]
 }

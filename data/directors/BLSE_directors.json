@@ -1,6 +1,70 @@
 {
   "ticker": "BLSE",
   "company": "BLS E-Services Limited",
-  "collected_at": "2026-06-12 06:15:45",
-  "directors": []
+  "collected_at": "2026-06-13 06:01:03",
+  "directors": [
+    {
+      "name": "Mr. Rahul  Sharma",
+      "role": "CFO & Executive Director",
+      "age": 40,
+      "year_born": 1985,
+      "total_pay": 1800000
+    },
+    {
+      "name": "Mr. Lokanath  Panda",
+      "role": "Chief Operating Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Neha  Baid",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Saurab  Pandey",
+      "role": "Chief Human Resources Officer",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Jitender  Singh",
+      "role": "Business Head Retails",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Subhransu  Behera",
+      "role": "Head of FI & VAS",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Arjun  Singh",
+      "role": "Head of IT",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anil  Kumar",
+      "role": "Head of Operations",
+      "age": 43,
+      "year_born": 1982,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ruchika  Kant",
+      "role": "Senior Manager of Accounts & Finance",
+      "age": 33,
+      "year_born": 1992,
+      "total_pay": "N/A"
+    }
+  ]
 }

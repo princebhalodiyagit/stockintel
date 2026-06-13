@@ -1,7 +1,7 @@
 {
   "ticker": "AJAXENGG",
   "company": "Ajax Engineering Limited",
-  "collected_at": "2026-06-12 06:11:47",
+  "collected_at": "2026-06-13 05:56:21",
   "directors": [
     {
       "name": "Mr. Krishnaswamy  Vijay",
@@ -29,6 +29,13 @@
       "role": "Chief Planning & Strategy Officer",
       "age": 47,
       "year_born": 1978,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ganesh  B J",
+      "role": "Interim Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     },
     {

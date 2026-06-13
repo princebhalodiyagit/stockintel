@@ -1,6 +1,49 @@
 {
   "ticker": "ELLEN",
   "company": "Ellenbarrie Industrial Gases Limited",
-  "collected_at": "2026-06-12 06:20:01",
-  "directors": []
+  "collected_at": "2026-06-13 06:06:03",
+  "directors": [
+    {
+      "name": "Mr. Padam Kumar Agarwala B.Com (Hon.)",
+      "role": "MD & Chairman",
+      "age": 65,
+      "year_born": 1960,
+      "total_pay": 6390000
+    },
+    {
+      "name": "Mr. Varun Kumar Agarwal",
+      "role": "Joint MD & Director",
+      "age": 41,
+      "year_born": 1984,
+      "total_pay": 6390000
+    },
+    {
+      "name": "Mr. K. Srinivas Prasad",
+      "role": "Chief Financial Officer",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": 3590000
+    },
+    {
+      "name": "Mr. Aditya  Keshri",
+      "role": "Company Secretary & Compliance officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 820000
+    },
+    {
+      "name": "Mr. Sanjay  Basak",
+      "role": "Vice President of Project & Engineering",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Subir  Sen",
+      "role": "General Manager of Human Resources",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

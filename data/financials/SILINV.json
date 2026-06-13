@@ -1,14 +1,14 @@
 {
   "ticker": "SILINV",
-  "collected_at": "2026-06-12 06:40:08",
+  "collected_at": "2026-06-13 06:29:45",
   "company_info": {
     "name": "SIL Investments Limited",
     "sector": "Financial Services",
     "industry": "Asset Management",
-    "market_cap": 4398871040,
-    "current_price": 415.15,
-    "pe_ratio": 11.63211,
-    "pb_ratio": 0.17148525,
+    "market_cap": 4459267584,
+    "current_price": 420.85,
+    "pe_ratio": 11.791819,
+    "pb_ratio": 0.17383973,
     "roe": 0.01308,
     "debt_to_equity": "N/A",
     "revenue": 646200000,
@@ -16,6 +16,6 @@
     "eps": 35.69,
     "52_week_high": 767.0,
     "52_week_low": 380.0,
-    "dividend_yield": 0.61
+    "dividend_yield": 0.59
   }
 }

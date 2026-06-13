@@ -1,6 +1,77 @@
 {
   "ticker": "AHLUCONT",
   "company": "Ahluwalia Contracts (India) Limited",
-  "collected_at": "2026-06-12 06:11:40",
-  "directors": []
+  "collected_at": "2026-06-13 05:56:14",
+  "directors": [
+    {
+      "name": "Mr. Bikramjit  Ahluwalia",
+      "role": "Founder, CEO, Executive MD & Chairman",
+      "age": 86,
+      "year_born": 1939,
+      "total_pay": 15000000
+    },
+    {
+      "name": "Mr. Satbeer  Singh",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 5398000
+    },
+    {
+      "name": "Bharat  Srivastava",
+      "role": "Senior Vice President of Finance & Accounts",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vipin Kumar Tiwari",
+      "role": "GM of Corporate, Compliance Officer & Company Secretary",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": 2666000
+    },
+    {
+      "name": "Mr. Shobhit  Uppal",
+      "role": "Deputy MD & Whole Time Director",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": 19200000
+    },
+    {
+      "name": "Mr. Vikas  Ahluwalia",
+      "role": "Executive Whole Time Director",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": 12000000
+    },
+    {
+      "name": "Mr. Sanjiv  Sharma",
+      "role": "Executive Whole Time Director",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": 10740000
+    },
+    {
+      "name": "Mr. Sunil Kumar Saxena",
+      "role": "Senior Vice President of Project",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Arun Kumar Singh",
+      "role": "Vice President of Projects",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Charanjeet Singh Walia",
+      "role": "Vice President of Projects",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    }
+  ]
 }

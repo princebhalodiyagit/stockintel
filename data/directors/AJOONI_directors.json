@@ -1,6 +1,28 @@
 {
   "ticker": "AJOONI",
   "company": "Ajooni Biotech Limited",
-  "collected_at": "2026-06-12 06:11:49",
-  "directors": []
+  "collected_at": "2026-06-13 05:56:23",
+  "directors": [
+    {
+      "name": "Mr. Jasjot  Singh",
+      "role": "Chairman, CFO & MD",
+      "age": 40,
+      "year_born": 1985,
+      "total_pay": 3000000
+    },
+    {
+      "name": "Mr. Gursimran  Singh",
+      "role": "CEO & Whole Time Director",
+      "age": 37,
+      "year_born": 1988,
+      "total_pay": 1200000
+    },
+    {
+      "name": "Ms. Swati  Vijan",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

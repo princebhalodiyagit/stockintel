@@ -1,6 +1,77 @@
 {
   "ticker": "UTLSOLAR",
   "company": "Fujiyama Power Systems Limited",
-  "collected_at": "2026-06-12 06:44:58",
-  "directors": []
+  "collected_at": "2026-06-13 06:35:21",
+  "directors": [
+    {
+      "name": "Mr. Pawan Kumar Garg",
+      "role": "Chairman & Joint MD",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Yogesh  Dua",
+      "role": "CEO, Joint MD & Director",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Prashant  Gupta",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ashu  Bansal",
+      "role": "Vice President of Finance & Accounts",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Mayuri  Gupta",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajesh  Karan",
+      "role": "Vice President of Photovoltaic Solar division",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Shiv Kumar Garg",
+      "role": "Associate Director of Parwanoo operations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Parimal Kumar Jha",
+      "role": "Associate Director of Projects division",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajesh  Tripathi",
+      "role": "Vice President of Channel Sales",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Shubham  Garg",
+      "role": "Vice President of Research and Development Division",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

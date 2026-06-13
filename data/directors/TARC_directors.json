@@ -1,6 +1,77 @@
 {
   "ticker": "TARC",
   "company": "TARC Limited",
-  "collected_at": "2026-06-12 06:42:34",
-  "directors": []
+  "collected_at": "2026-06-13 06:32:35",
+  "directors": [
+    {
+      "name": "Mr. Amar  Sarin",
+      "role": "MD, CEO & Director",
+      "age": 42,
+      "year_born": 1983,
+      "total_pay": 12000000
+    },
+    {
+      "name": "Mr. Nitin Kumar Goel",
+      "role": "Chief Financial Officer",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajeev  Trehan",
+      "role": "Chief Operating Officer",
+      "age": 67,
+      "year_born": 1958,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Amit  Narayan",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Muskaan  Sarin",
+      "role": "Whole Time Director & Chief Brand Officer",
+      "age": 37,
+      "year_born": 1988,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anil  Mahindra",
+      "role": "Senior President of Land & Legal",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Vaibhav  Gupta",
+      "role": "DGM of Accounts",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Atul  Bajaj",
+      "role": "Head of Administration",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sushil  Singhal",
+      "role": "Vice President of Investor Relations",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Basudeb  Biswas",
+      "role": "General Counsel",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

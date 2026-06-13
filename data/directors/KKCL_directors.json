@@ -1,6 +1,77 @@
 {
   "ticker": "KKCL",
   "company": "Kewal Kiran Clothing Limited",
-  "collected_at": "2026-06-12 06:28:21",
-  "directors": []
+  "collected_at": "2026-06-13 06:15:47",
+  "directors": [
+    {
+      "name": "Mr. Kewalchand Pukhraj Jain",
+      "role": "Chairman & MD",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": 12500000
+    },
+    {
+      "name": "Mr. Hemant Pukhraj Jain",
+      "role": "Joint MD & Whole Time Director",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": 12500000
+    },
+    {
+      "name": "Mr. Bharat Assudomal Adnani",
+      "role": "CFO & Chief Investor Relations Officer",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vikas Pukhraj Jain",
+      "role": "Whole Time Director",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": 12500000
+    },
+    {
+      "name": "Mr. Abhijit B. Warange C.S.",
+      "role": "President of Legal, Company Secretary & Compliance Officer",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Dinesh Pukhraj Jain",
+      "role": "Whole Time Director",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": 12500000
+    },
+    {
+      "name": "Mr. Nimesh N. Anandpara",
+      "role": "Deputy Chief Financial Officer",
+      "age": 43,
+      "year_born": 1982,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ashish  Barodia",
+      "role": "Head Operations of Easies",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pankaj K. Jain",
+      "role": "President of Retail Division",
+      "age": 40,
+      "year_born": 1985,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Hitendra H. Jain",
+      "role": "President of Addictions",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

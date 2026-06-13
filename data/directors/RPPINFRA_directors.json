@@ -1,6 +1,35 @@
 {
   "ticker": "RPPINFRA",
   "company": "R.P.P. Infra Projects Limited",
-  "collected_at": "2026-06-12 06:37:44",
-  "directors": []
+  "collected_at": "2026-06-13 06:26:55",
+  "directors": [
+    {
+      "name": "Ms. Arulsundaram  Nithya",
+      "role": "CFO & Whole Time Director",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. I  Selvam",
+      "role": "Whole-Time Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pranav Harshan Venkatachalam",
+      "role": "Whole Time Director",
+      "age": 22,
+      "year_born": 2003,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Raghav  Sanu",
+      "role": "Whole Time Director",
+      "age": 23,
+      "year_born": 2002,
+      "total_pay": "N/A"
+    }
+  ]
 }

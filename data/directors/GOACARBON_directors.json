@@ -1,6 +1,42 @@
 {
   "ticker": "GOACARBON",
   "company": "Goa Carbon Limited",
-  "collected_at": "2026-06-12 06:22:21",
-  "directors": []
+  "collected_at": "2026-06-13 06:08:44",
+  "directors": [
+    {
+      "name": "Mr. Anupam  Misra",
+      "role": "CEO & Director",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": 12210145
+    },
+    {
+      "name": "Mr. Vikrant  Garg",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pravin Rajendra Satardekar",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. A. Venugopal Naidu",
+      "role": "General Manager of Operations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Shivkumar  Prabhudesai",
+      "role": "General Manager of Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

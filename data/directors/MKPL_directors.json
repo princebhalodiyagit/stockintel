@@ -1,6 +1,28 @@
 {
   "ticker": "MKPL",
   "company": "M K Proteins Limited",
-  "collected_at": "2026-06-12 06:31:25",
-  "directors": []
+  "collected_at": "2026-06-13 06:19:24",
+  "directors": [
+    {
+      "name": "Mr. Parmod  Kumar",
+      "role": "MD & Executive Director",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vinod  Kumar",
+      "role": "CFO & Whole Time Director",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Neha  Aggarwal",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

@@ -1,14 +1,14 @@
 {
   "ticker": "LINC",
-  "collected_at": "2026-06-12 06:29:29",
+  "collected_at": "2026-06-13 06:17:06",
   "company_info": {
     "name": "Linc Limited",
     "sector": "Industrials",
     "industry": "Business Equipment & Supplies",
-    "market_cap": 5882723840,
-    "current_price": 98.86,
-    "pe_ratio": 17.974546,
-    "pb_ratio": 2.2796135,
+    "market_cap": 5850590720,
+    "current_price": 98.32,
+    "pe_ratio": 17.876364,
+    "pb_ratio": 2.2671616,
     "roe": 0.13284999,
     "debt_to_equity": 10.275,
     "revenue": 5430054912,
@@ -16,6 +16,6 @@
     "eps": 5.5,
     "52_week_high": 158.99,
     "52_week_low": 85.01,
-    "dividend_yield": 1.52
+    "dividend_yield": 1.53
   }
 }

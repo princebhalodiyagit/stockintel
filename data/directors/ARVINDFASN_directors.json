@@ -1,6 +1,77 @@
 {
   "ticker": "ARVINDFASN",
   "company": "Arvind Fashions Limited",
-  "collected_at": "2026-06-12 06:13:11",
-  "directors": []
+  "collected_at": "2026-06-13 05:58:00",
+  "directors": [
+    {
+      "name": "Ms. Amisha Hemchand Jain",
+      "role": "CEO & MD",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Girdhar Kumar Chitlangia",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Satish  Panchapakesan",
+      "role": "Chief Information Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Lakshmi  Krishnan",
+      "role": "Chief Human Resource Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. C. S. Shekar",
+      "role": "Chief Executive Officer of UNLIMITED",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Amitabh  Suri",
+      "role": "Chief Executive Officer of USPA",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Nitesh Kumar Kanchan",
+      "role": "Chief Executive Officer of Arrow",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anurag  Pandey",
+      "role": "Chief Executive Officer of Footwear Business Division",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Soumali  Chakraborty",
+      "role": "Head of Marketing of Arrow",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Nidhi  Raj",
+      "role": "Chief Executive Officer of Flying Machine",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

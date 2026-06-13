@@ -1,6 +1,77 @@
 {
   "ticker": "ERIS",
   "company": "Eris Lifesciences Limited",
-  "collected_at": "2026-06-12 06:20:24",
-  "directors": []
+  "collected_at": "2026-06-13 06:06:29",
+  "directors": [
+    {
+      "name": "Mr. Amit Indubhushan Bakshi",
+      "role": "Chairman & MD",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": 48776648
+    },
+    {
+      "name": "Mr. Sachin  Shah",
+      "role": "Chief Financial Officer",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Krishnakumar  Vaidyanathan",
+      "role": "Executive Director & COO",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": 45784456
+    },
+    {
+      "name": "Mr. Milind  Talegaonkar",
+      "role": "Compliance Officer & Company Secretary",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Gagan  Atreja",
+      "role": "President of Sales & Marketing",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Inderjeet Singh Negi",
+      "role": "Executive Director",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": 12399544
+    },
+    {
+      "name": "Mr. Kaushal Kamlesh Shah",
+      "role": "Whole Time Director",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": 16823784
+    },
+    {
+      "name": "Mr. Vijay S. Joshi",
+      "role": "President of Medical",
+      "age": 72,
+      "year_born": 1953,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Deepak  Kapoor",
+      "role": "Senior Vice President",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Murari  Ranganathan",
+      "role": "President of Cardiometabolic Business",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

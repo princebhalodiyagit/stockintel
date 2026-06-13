@@ -1,6 +1,77 @@
 {
   "ticker": "UGROCAP",
   "company": "Ugro Capital Limited",
-  "collected_at": "2026-06-12 06:44:32",
-  "directors": []
+  "collected_at": "2026-06-13 06:34:51",
+  "directors": [
+    {
+      "name": "Mr. Anuj  Pandey",
+      "role": "Chief Executive Officer",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": 28052000
+    },
+    {
+      "name": "Mr. Shachindra  Nath",
+      "role": "Founder, Vice Chairman & MD",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": 75885000
+    },
+    {
+      "name": "Ms. Shilpa  Bhatter",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 12794000
+    },
+    {
+      "name": "Mr. Satish Kumar Chelladurai",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 5237000
+    },
+    {
+      "name": "Mr. Satyabrata  Mohapatra",
+      "role": "Chief Operations Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rahul  Sekar",
+      "role": "Chief Technology & Product Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Ritu Prakash Singh",
+      "role": "Senior Economist & Head of Investor Relations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sunil  Lotke",
+      "role": "Chief Legal & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Harsh  Shah",
+      "role": "Head of Marketing & Corporate Communications",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Rajni  Khurana",
+      "role": "Chief People Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

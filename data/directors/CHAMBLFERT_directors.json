@@ -1,6 +1,70 @@
 {
   "ticker": "CHAMBLFERT",
   "company": "Chambal Fertilizers & Chemicals Limited",
-  "collected_at": "2026-06-12 06:17:01",
-  "directors": []
+  "collected_at": "2026-06-13 06:02:33",
+  "directors": [
+    {
+      "name": "Mr. Abhay  Baijal B.E., P.G.D.M.",
+      "role": "MD & Director",
+      "age": 64,
+      "year_born": 1961,
+      "total_pay": 30285337
+    },
+    {
+      "name": "Mr. Tridib Kumar Barat",
+      "role": "VP of Legal, Company Secretary & Compliance Officer",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": 12700000
+    },
+    {
+      "name": "Mr. Anuj  Jain",
+      "role": "Chief Financial Officer",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vishal  Mathur",
+      "role": "Assistant Vice President of Human Resources & Administration",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ashish Kumar Srivastava",
+      "role": "Vice President of Sales & Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vivek  Misra",
+      "role": "Business Head of TAN & VP",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vijay  Sachdeva",
+      "role": "Head of Internal Audit & Risk Management",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Narinder  Goyal",
+      "role": "Business Head of Manufacturing Operations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vinod  Mehra",
+      "role": "President of Projects",
+      "age": 73,
+      "year_born": 1952,
+      "total_pay": "N/A"
+    }
+  ]
 }

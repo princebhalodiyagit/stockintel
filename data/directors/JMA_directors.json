@@ -1,6 +1,49 @@
 {
   "ticker": "JMA",
   "company": "Jullundur Motor Agency (Delhi) Limited",
-  "collected_at": "2026-06-12 06:27:07",
-  "directors": []
+  "collected_at": "2026-06-13 06:14:20",
+  "directors": [
+    {
+      "name": "Mr. Varoon  Malik",
+      "role": "Chief Executive Officer",
+      "age": 43,
+      "year_born": 1982,
+      "total_pay": 11132000
+    },
+    {
+      "name": "Mr. Narinder Pal Singh CA",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 5514000
+    },
+    {
+      "name": "Ms. Aashna  Arora",
+      "role": "President of Accounts & Finance",
+      "age": 31,
+      "year_born": 1994,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ramkesh Sahdev Pal B.Com., C.S.",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 1821000
+    },
+    {
+      "name": "Ms. Aditi Arora Malik",
+      "role": "President of HR & Marketing",
+      "age": 38,
+      "year_born": 1987,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Akshay  Gupta",
+      "role": "Head of IT",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    }
+  ]
 }

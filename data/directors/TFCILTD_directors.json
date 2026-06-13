@@ -1,6 +1,49 @@
 {
   "ticker": "TFCILTD",
   "company": "Tourism Finance Corporation of India Limited",
-  "collected_at": "2026-06-12 06:43:13",
-  "directors": []
+  "collected_at": "2026-06-13 06:33:20",
+  "directors": [
+    {
+      "name": "Mr. Anoop  Bali",
+      "role": "MD, CFO & Whole Time Director",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sanjay  Ahuja",
+      "role": "Senior VP, Company Secretary & Compliance Officer",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Charu  Singh",
+      "role": "President",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 4393730
+    },
+    {
+      "name": "Mr. P. K. Naik",
+      "role": "Chief Technology Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajiv  Singh",
+      "role": "Senior Vice President",
+      "age": 86,
+      "year_born": 1939,
+      "total_pay": 3531088
+    },
+    {
+      "name": "Mr. Debashish  Dutta",
+      "role": "Senior Vice President",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

@@ -1,6 +1,42 @@
 {
   "ticker": "NUVOCO",
   "company": "Nuvoco Vistas Corporation Limited",
-  "collected_at": "2026-06-12 06:33:40",
-  "directors": []
+  "collected_at": "2026-06-13 06:22:04",
+  "directors": [
+    {
+      "name": "Mr. Jayakumar  Krishnaswamy BE",
+      "role": "MD & Director",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": 81900000
+    },
+    {
+      "name": "Mr. Maneesh  Agrawal",
+      "role": "Chief Financial Officer",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": 22019000
+    },
+    {
+      "name": "Mr. Bishnu  Sharma",
+      "role": "Head of Investor Relations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Shruta Jatin Sanghavi",
+      "role": "Senior VP, Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 8005000
+    },
+    {
+      "name": "Ms. Manisha  Kelkar",
+      "role": "Chief Human Resources Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

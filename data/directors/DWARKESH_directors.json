@@ -1,6 +1,63 @@
 {
   "ticker": "DWARKESH",
   "company": "Dwarikesh Sugar Industries Limited",
-  "collected_at": "2026-06-12 06:19:33",
-  "directors": []
+  "collected_at": "2026-06-13 06:05:29",
+  "directors": [
+    {
+      "name": "Mr. Gautam Radheshyam Morarka",
+      "role": "Founder & Executive Chairman",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": 27515000
+    },
+    {
+      "name": "Mr. Balkishan Jawarilal Maheshwari",
+      "role": "MD, Director, Company Secretary & Chief Compliance Officer",
+      "age": 65,
+      "year_born": 1960,
+      "total_pay": 17135000
+    },
+    {
+      "name": "Mr. Vijay Sitaram Banka",
+      "role": "MD & Executive Director",
+      "age": 67,
+      "year_born": 1958,
+      "total_pay": 17045000
+    },
+    {
+      "name": "Mr. Sunil Kumar Goel",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 5725000
+    },
+    {
+      "name": "Ms. Priyanka Gautam Morarka BMS, M.B.A.",
+      "role": "President of Corporate Affairs & Whole-Time Director",
+      "age": 40,
+      "year_born": 1985,
+      "total_pay": 6434000
+    },
+    {
+      "name": "Mr. Sharvan Kumar Sharma",
+      "role": "General Manager of Human Resources Department",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Salil Swaroop Arya",
+      "role": "Senior Executive Vice President (Corporate)",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anil Kumar Tyagi",
+      "role": "Senior Executive Vice President of Dwarikesh Dham Unit",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

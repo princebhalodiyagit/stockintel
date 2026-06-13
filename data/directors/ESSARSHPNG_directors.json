@@ -1,6 +1,77 @@
 {
   "ticker": "ESSARSHPNG",
   "company": "Essar Shipping Limited",
-  "collected_at": "2026-06-12 06:20:29",
-  "directors": []
+  "collected_at": "2026-06-13 06:06:34",
+  "directors": [
+    {
+      "name": "Mr. Vipin  Jain",
+      "role": "Whole-Time Director & CFO",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": 7776455
+    },
+    {
+      "name": "Mr. Rajesh Dhirubhai Desai",
+      "role": "Executive Director",
+      "age": 67,
+      "year_born": 1958,
+      "total_pay": 960000
+    },
+    {
+      "name": "Mr. Manoj  Kumar",
+      "role": "Chief Executive Officer of Drilling Division",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Habib  Jan",
+      "role": "GM, Company Secretary & Compliance Officer",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Arun Kumar Bhardwaj",
+      "role": "Head of Q&S and DPA",
+      "age": 64,
+      "year_born": 1961,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rahul  Tipnis",
+      "role": "Chief Engineer",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Surjit  Dey",
+      "role": "Deputy Chief Technical Officer",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Captain Subhash  Das",
+      "role": "Head of India Operations (Rig Construction)",
+      "age": 77,
+      "year_born": 1948,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Hasit  Avasiya",
+      "role": "Vice President of Corporate Relations Group",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Hardik  Sheth",
+      "role": "General Manager",
+      "age": 38,
+      "year_born": 1987,
+      "total_pay": "N/A"
+    }
+  ]
 }

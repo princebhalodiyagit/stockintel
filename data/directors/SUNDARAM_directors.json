@@ -1,6 +1,77 @@
 {
   "ticker": "SUNDARAM",
   "company": "Sundaram Multi Pap Limited",
-  "collected_at": "2026-06-12 06:41:45",
-  "directors": []
+  "collected_at": "2026-06-13 06:31:37",
+  "directors": [
+    {
+      "name": "Mr. Amrutbhai Premji Shah",
+      "role": "Executive Chairman & MD",
+      "age": 64,
+      "year_born": 1961,
+      "total_pay": 4200000
+    },
+    {
+      "name": "Mr. Hardik Amrut Shah",
+      "role": "Chief Executive Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajesh B. Jain",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Urmi Haresh Shah",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Shantilal Premji Shah",
+      "role": "Whole-Time Executive Director",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": 4200000
+    },
+    {
+      "name": "Mr. Krunal Shantilal Shah",
+      "role": "Whole-Time Executive Director",
+      "age": 31,
+      "year_born": 1994,
+      "total_pay": 4200000
+    },
+    {
+      "name": "Mr. Yash Raichand Shah",
+      "role": "Chief Operating Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Manali K. Shah",
+      "role": "Chief Technical Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Divij Shantilal Shah",
+      "role": "Chief Marketing Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Nidhi Raichand Shah",
+      "role": "Chief Digital Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

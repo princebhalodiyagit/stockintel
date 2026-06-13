@@ -1,6 +1,28 @@
 {
   "ticker": "ALANKIT",
   "company": "Alankit Limited",
-  "collected_at": "2026-06-12 06:11:57",
-  "directors": []
+  "collected_at": "2026-06-13 05:56:33",
+  "directors": [
+    {
+      "name": "Mr. Ankit  Agarwal",
+      "role": "MD & Executive Director",
+      "age": 39,
+      "year_born": 1986,
+      "total_pay": 5890000
+    },
+    {
+      "name": "Mr. Gaurav Ashok Maheshwari",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 1157424
+    },
+    {
+      "name": "Ms. Sakshi  Thapar",
+      "role": "Whole Time Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

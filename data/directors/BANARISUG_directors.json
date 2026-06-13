@@ -1,6 +1,77 @@
 {
   "ticker": "BANARISUG",
   "company": "Bannari Amman Sugars Limited",
-  "collected_at": "2026-06-12 06:14:39",
-  "directors": []
+  "collected_at": "2026-06-13 05:59:43",
+  "directors": [
+    {
+      "name": "Dr. S. V. Balasubramaniam ACA, ACS, B.Com.",
+      "role": "Executive Chairman of the Board",
+      "age": 85,
+      "year_born": 1940,
+      "total_pay": 58285273
+    },
+    {
+      "name": "Mr. M.  Ramprabhu B.Com., F.C.A.",
+      "role": "Chief Financial Officer",
+      "age": 43,
+      "year_born": 1982,
+      "total_pay": 3644591
+    },
+    {
+      "name": "Mr. C.  Palaniswamy",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": 5526255
+    },
+    {
+      "name": "Mr. A. R. Palanisamy B.E.",
+      "role": "Chief Executive",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. B.  Saravanan B.Com.",
+      "role": "MD & Executive Director",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": 28356000
+    },
+    {
+      "name": "S.  Venkateshmurthy B.A.",
+      "role": "President of Karnataka Operations",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "T.  Lingeswaran",
+      "role": "President of Distillery Unit",
+      "age": 64,
+      "year_born": 1961,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "G.  Saravanan B.Sc.",
+      "role": "Exertive President of Bangalore",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "M.  Velusamy B.E.",
+      "role": "Executive President of U-2",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "V.  Sugumar B.Sc.",
+      "role": "Assistant Vice President of Purchase",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": "N/A"
+    }
+  ]
 }

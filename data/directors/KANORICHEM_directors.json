@@ -1,6 +1,56 @@
 {
   "ticker": "KANORICHEM",
   "company": "Kanoria Chemicals & Industries Limited",
-  "collected_at": "2026-06-12 06:27:45",
-  "directors": []
+  "collected_at": "2026-06-13 06:15:05",
+  "directors": [
+    {
+      "name": "Mr. Rajya Vardhan Kanoria B.Sc.",
+      "role": "Executive Chairman & MD",
+      "age": 70,
+      "year_born": 1955,
+      "total_pay": 31496502
+    },
+    {
+      "name": "Mr. Nirmal Kumar Nolkha",
+      "role": "Group Chief Financial Officer",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ashok Kumar Agarwal",
+      "role": "Vice President of Accounts",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Saumya Vardhan Kanoria",
+      "role": "Whole-Time Director",
+      "age": 43,
+      "year_born": 1982,
+      "total_pay": 19507746
+    },
+    {
+      "name": "Sanjay Kumar Ojha",
+      "role": "Chief of Manufacturing & Project-Chemical Business",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Pratibha  Jaiswal ACS",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Anil S. Sodah",
+      "role": "Assistant Vice President of Sales & Marketing",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": "N/A"
+    }
+  ]
 }

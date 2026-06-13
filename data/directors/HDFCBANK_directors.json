@@ -1,6 +1,77 @@
 {
   "ticker": "HDFCBANK",
   "company": "HDFC Bank Limited",
-  "collected_at": "2026-06-12 06:23:47",
-  "directors": []
+  "collected_at": "2026-06-13 06:10:26",
+  "directors": [
+    {
+      "name": "Mr. Sashidhar  Jagdishan",
+      "role": "MD, CEO & Director",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": 120620240
+    },
+    {
+      "name": "Mr. Kaizad Maneck Bharucha",
+      "role": "Deputy MD & Director",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": 110132827
+    },
+    {
+      "name": "Mr. Vedanthachari Srinivasa Rangan",
+      "role": "Executive Whole-Time Director",
+      "age": 65,
+      "year_born": 1960,
+      "total_pay": 88491773
+    },
+    {
+      "name": "Mr. Srinivasan  Vaidyanathan",
+      "role": "Chief Financial Officer",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": 30179680
+    },
+    {
+      "name": "Mr. Gourab  Roy",
+      "role": "Group Head of Operations, ATM & Administration",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rakesh K. Singh",
+      "role": "Group Head of Private Banking, International Banking, Financial Institutions & BaaS",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ajit Subhas Shetty",
+      "role": "Investor Relations Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rakesh Kumar Rajput",
+      "role": "Chief Compliance Officer",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sudhir Kumar Jha",
+      "role": "Group Head of Legal & Group General Counsel",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Madhu  Chhibber",
+      "role": "Head of Corporate Communications",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

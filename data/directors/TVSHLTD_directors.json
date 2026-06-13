@@ -1,6 +1,63 @@
 {
   "ticker": "TVSHLTD",
   "company": "TVS Holdings Limited",
-  "collected_at": "2026-06-12 06:44:18",
-  "directors": []
+  "collected_at": "2026-06-13 06:34:34",
+  "directors": [
+    {
+      "name": "Mr. Sudarshan  Venu",
+      "role": "MD & Non-Executive Non-Independent Director",
+      "age": 36,
+      "year_born": 1989,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. K. Gopala Desikan B.Com. A.C.A.",
+      "role": "Group CFO & Non-Executive Director",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": 2800000
+    },
+    {
+      "name": "Mr. Vivek Shripad Joshi",
+      "role": "CEO & Director",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": 16420211
+    },
+    {
+      "name": "Hariharan  V.",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. P Sreejith Raj",
+      "role": "Chief Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Lakshmi  Venu",
+      "role": "Managing Director",
+      "age": 42,
+      "year_born": 1983,
+      "total_pay": 8400000
+    },
+    {
+      "name": "Mr. Rajappa Raja Prakash",
+      "role": "Company Secretary",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "P D Dev Kishan",
+      "role": "Company Secretary",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

@@ -1,6 +1,49 @@
 {
   "ticker": "TARSONS",
   "company": "Tarsons Products Limited",
-  "collected_at": "2026-06-12 06:42:36",
-  "directors": []
+  "collected_at": "2026-06-13 06:32:37",
+  "directors": [
+    {
+      "name": "Mr. Sanjive  Sehgal",
+      "role": "Chairman, CEO & MD",
+      "age": 64,
+      "year_born": 1961,
+      "total_pay": 42500000
+    },
+    {
+      "name": "Mr. Santosh Kumar Agarwal",
+      "role": "CFO, Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 8600000
+    },
+    {
+      "name": "Mr. Aryan  Sehgal",
+      "role": "Whole-time Director",
+      "age": 37,
+      "year_born": 1988,
+      "total_pay": 37500000
+    },
+    {
+      "name": "Mr. Lakshmananarayanan Balakrishna Reddy",
+      "role": "Vice President of Operations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Subhra Sankar Bose",
+      "role": "Head of Human Resource",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mani Kalyan Dusi",
+      "role": "Head of Revenue for India & APAC",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

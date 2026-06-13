@@ -1,6 +1,49 @@
 {
   "ticker": "RAMKY",
   "company": "Ramky Infrastructure Limited",
-  "collected_at": "2026-06-12 06:36:45",
-  "directors": []
+  "collected_at": "2026-06-13 06:25:44",
+  "directors": [
+    {
+      "name": "Mr. Kesava Datta Nanduri",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rathnakara Nagaraja Yancharla",
+      "role": "Executive Director",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": 10892500
+    },
+    {
+      "name": "Mr. Sunil Sukumaran Nair",
+      "role": "Chief Executive Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sravanth  Rayapudi",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. K. V. N. Reddy",
+      "role": "GM of SAP & IT and IT Head & Program Management (PMO)",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Divakar  Marri",
+      "role": "Vice President of Projects",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

@@ -1,6 +1,77 @@
 {
   "ticker": "DEEPAKFERT",
   "company": "Deepak Fertilizers and Petrochemicals Corporation Limited",
-  "collected_at": "2026-06-12 06:18:38",
-  "directors": []
+  "collected_at": "2026-06-13 06:04:25",
+  "directors": [
+    {
+      "name": "Mr. Sailesh Chimanlal Mehta B.Com, M.B.A. (USA)",
+      "role": "Chairman & MD",
+      "age": 64,
+      "year_born": 1961,
+      "total_pay": 385985519
+    },
+    {
+      "name": "Mr. Subhash Chand Anand",
+      "role": "President & CFO",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rabindra Kumar Purohit",
+      "role": "VP of Legal, Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Yeshil Sailesh Mehta",
+      "role": "Executive Director of Mahadhan AgriTech Limited",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Girish  Shah",
+      "role": "Executive Vice President of Corporate Marketing & Corporate Communications",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Naresh Kumar Pinisetti",
+      "role": "Interim President of Human Resources & Corporate Governance",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pandurang  Landge",
+      "role": "President of Manufacturing (Cluster 1, 2 & NPD)",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Raghunath  Kelkar",
+      "role": "President of Industrial Chemical",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Debasish  Banerjee",
+      "role": "President of Strategic Projects",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Tarun  Sinha",
+      "role": "President of Technical Ammonium Nitrate",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

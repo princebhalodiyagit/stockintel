@@ -1,6 +1,56 @@
 {
   "ticker": "KPL",
   "company": "Kwality Pharmaceuticals Limited",
-  "collected_at": "2026-06-12 06:28:43",
-  "directors": []
+  "collected_at": "2026-06-13 06:16:13",
+  "directors": [
+    {
+      "name": "Mr. Ramesh  Arora",
+      "role": "MD & Director",
+      "age": 71,
+      "year_born": 1954,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Aditya  Arora",
+      "role": "CFO & Whole Time Director",
+      "age": 31,
+      "year_born": 1994,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ajay Kumar Arora",
+      "role": "Whole Time Director",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Anju  Arora",
+      "role": "Whole Time Director",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Geeta  Arora",
+      "role": "Whole Time Director",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Gurpreet  Kaur",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Shankar  Dayal",
+      "role": "Chief Domestic Sales Officer",
+      "age": 40,
+      "year_born": 1985,
+      "total_pay": "N/A"
+    }
+  ]
 }

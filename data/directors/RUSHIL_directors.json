@@ -1,6 +1,77 @@
 {
   "ticker": "RUSHIL",
   "company": "Rushil Decor Limited",
-  "collected_at": "2026-06-12 06:38:02",
-  "directors": []
+  "collected_at": "2026-06-13 06:27:16",
+  "directors": [
+    {
+      "name": "Mr. Krupesh Ghanshyambhai Thakkar",
+      "role": "Executive Chairman & Whole-Time Director",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": 12000698
+    },
+    {
+      "name": "Mr. Keyurbhai Mrunal Gajjar B.E., MBA",
+      "role": "Chief Executive Officer",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": 11350000
+    },
+    {
+      "name": "Mr. Hiren Bachubhai Padhya",
+      "role": "Chief Financial Officer",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": 7240000
+    },
+    {
+      "name": "Mr. Hasmukh Kanubhai Modi A.C.S, B.Com., Inter(ICWAI)",
+      "role": "Compliance Officer & Company Secretary",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": 3380000
+    },
+    {
+      "name": "Mr. Ramanikbhai Tejabhai Kansagara S.Y. B.Com.",
+      "role": "Whole-Time Director",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": 3802691
+    },
+    {
+      "name": "Mr. Rushil Krupesh Thakkar",
+      "role": "Managing Director",
+      "age": 33,
+      "year_born": 1992,
+      "total_pay": 9600010
+    },
+    {
+      "name": "Mr. Rahul  Pareek B.A., MBA",
+      "role": "Manager of Marketing",
+      "age": 44,
+      "year_born": 1981,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jikesh  Thakkar B.Com., D.M.S.",
+      "role": "Senior Vice President",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Krupaben Krupeshbhai Thakkar",
+      "role": "Senior Vice President",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Dheer Singh Chauhan",
+      "role": "Vice President",
+      "age": 67,
+      "year_born": 1958,
+      "total_pay": "N/A"
+    }
+  ]
 }

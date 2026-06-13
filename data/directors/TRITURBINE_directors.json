@@ -1,6 +1,77 @@
 {
   "ticker": "TRITURBINE",
   "company": "Triveni Turbine Limited",
-  "collected_at": "2026-06-12 06:44:08",
-  "directors": []
+  "collected_at": "2026-06-13 06:34:23",
+  "directors": [
+    {
+      "name": "Mr. Dhruv Manmohan Sawhney",
+      "role": "Chairman & MD",
+      "age": 81,
+      "year_born": 1944,
+      "total_pay": 30840000
+    },
+    {
+      "name": "Mr. Nikhil  Sawhney",
+      "role": "Vice Chairman & MD",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": 110280000
+    },
+    {
+      "name": "Mr. S. Narayana Prasad",
+      "role": "Chief Executive Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Lalit Kumar Agarwal",
+      "role": "VP & CFO",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sachin V. Parab B, E.Mech, Pgdrr",
+      "role": "Chief Operating Officer",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. P. U. Gopi",
+      "role": "Executive VP & CTO",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Shreya  Sharma",
+      "role": "Head of Investor Relations & Value Creation",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pulkit  Bhasin",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Dibyojyoti  Sarkar",
+      "role": "General Counsel",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manikantan  Rajendran",
+      "role": "Chief Marketing & Sales Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

@@ -1,6 +1,70 @@
 {
   "ticker": "RPGLIFE",
   "company": "RPG Life Sciences Limited",
-  "collected_at": "2026-06-12 06:37:42",
-  "directors": []
+  "collected_at": "2026-06-13 06:26:52",
+  "directors": [
+    {
+      "name": "Mr. Ashok  Nair",
+      "role": "MD & Additional Director",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Amol Narayan Lone",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajesh  Shirambekar",
+      "role": "Head of Legal, Compliance Officer & Company Secretary",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Samir  Rane",
+      "role": "Vice President of Sales & Marketing (Main Division)",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Sheetal  Gaba",
+      "role": "Chief Human Resources Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kartick C. Patra",
+      "role": "Head of API Operations & Procurement",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajesh  Chopra",
+      "role": "Site Head of International Formulation",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Milind  Gujar",
+      "role": "Chief Quality Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Deepak  Shukla",
+      "role": "Chief Executive of API Business",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

@@ -1,6 +1,56 @@
 {
   "ticker": "UEL",
   "company": "Ujaas Energy Limited",
-  "collected_at": "2026-06-12 06:44:27",
-  "directors": []
+  "collected_at": "2026-06-13 06:34:45",
+  "directors": [
+    {
+      "name": "Mr. Anurag Shyamsunder Mundra",
+      "role": "CFO & Wholetime Director",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": 1680000
+    },
+    {
+      "name": "Mr. Vikalp Shyamsunder Mundra",
+      "role": "Executive Director",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajesh  Mehta",
+      "role": "General Manager of Operations",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sarvesh  Diwan",
+      "role": "Manager, Company Secretary & Compliance Officer",
+      "age": 29,
+      "year_born": 1996,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Nitirajsinh  Chudasama",
+      "role": "Head of Sales",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Amit  Neema",
+      "role": "Head of Project Business",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sumit K. Somani",
+      "role": "Business Head of Park & VP",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": "N/A"
+    }
+  ]
 }

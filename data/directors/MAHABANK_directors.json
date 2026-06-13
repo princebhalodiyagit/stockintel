@@ -1,6 +1,77 @@
 {
   "ticker": "MAHABANK",
   "company": "Bank of Maharashtra",
-  "collected_at": "2026-06-12 06:30:02",
-  "directors": []
+  "collected_at": "2026-06-13 06:17:46",
+  "directors": [
+    {
+      "name": "Mr. Nidhu  Saxena",
+      "role": "CEO, MD & Director",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": 6519000
+    },
+    {
+      "name": "Mr. Vijay Prakash Srivastava",
+      "role": "Chief General Manager",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sunil  Dhoot",
+      "role": "Deputy GM & CFO",
+      "age": 39,
+      "year_born": 1986,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Devdatta Vitthal Rokade",
+      "role": "GM of Liabilities Portfolio, Strategy, Operations & ABC",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Arun Fanidhar Kabade",
+      "role": "GM of Agriculture & Financial Management and Accounting",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pradeep Kumar Srivastava",
+      "role": "Chief Technology Officer",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Uma  Vedula",
+      "role": "Chief Compliance Officer",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. K. Rajesh Kumar",
+      "role": "GM of HRM, L&D, Rajbhasha, Marketing, Publicity & Corporate Services",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Dinkar Baburao Sankpal",
+      "role": "Chief General Manager",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Amit  Srivastava",
+      "role": "Chief Vigilance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

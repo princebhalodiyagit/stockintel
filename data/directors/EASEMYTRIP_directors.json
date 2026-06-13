@@ -1,6 +1,77 @@
 {
   "ticker": "EASEMYTRIP",
   "company": "Easy Trip Planners Limited",
-  "collected_at": "2026-06-12 06:19:37",
-  "directors": []
+  "collected_at": "2026-06-13 06:05:34",
+  "directors": [
+    {
+      "name": "Mr. Nishant  Pitti",
+      "role": "Co-Founder, MD & Chairman",
+      "age": 39,
+      "year_born": 1986,
+      "total_pay": 9600000
+    },
+    {
+      "name": "Mr. Rikant  Pittie",
+      "role": "Co-Founder, CEO & Whole-Time Director",
+      "age": 37,
+      "year_born": 1988,
+      "total_pay": 9600000
+    },
+    {
+      "name": "Mr. Prashant  Pitti",
+      "role": "Founder & Whole-Time Director",
+      "age": 41,
+      "year_born": 1984,
+      "total_pay": 9600000
+    },
+    {
+      "name": "Mr. Ashish Kumar Bansal",
+      "role": "Chief Financial Officer",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": 5000000
+    },
+    {
+      "name": "Ms. Priyanka  Tiwari",
+      "role": "Company Secretary & Chief Compliance Officer",
+      "age": 31,
+      "year_born": 1994,
+      "total_pay": 2500000
+    },
+    {
+      "name": "Ms. Nutan  Gupta",
+      "role": "Chief Operating Officer",
+      "age": 65,
+      "year_born": 1960,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sankalp  Kaul",
+      "role": "Chief Technology Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manmeet  Ahluwalia",
+      "role": "Chief Marketing Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Kailash  Tickoo",
+      "role": "Vice President of HR",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Aditya  Chawla",
+      "role": "Chief Commercial Officer",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": "N/A"
+    }
+  ]
 }

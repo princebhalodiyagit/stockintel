@@ -1,6 +1,77 @@
 {
   "ticker": "INOXWIND",
   "company": "Inox Wind Limited",
-  "collected_at": "2026-06-12 06:25:55",
-  "directors": []
+  "collected_at": "2026-06-13 06:12:57",
+  "directors": [
+    {
+      "name": "Mr. Kailash Lal Tarachandani",
+      "role": "Group Chief Executive Officer of Renewables Business",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": 2956000
+    },
+    {
+      "name": "Mr. Devansh K. Jain",
+      "role": "Whole-Time Director",
+      "age": 39,
+      "year_born": 1986,
+      "total_pay": 16809000
+    },
+    {
+      "name": "Mr. Manoj Shambhu Dixit",
+      "role": "Whole Time Director",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sanjeev  Agarwal",
+      "role": "Chief Executive Officer",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Shivam  Tandon",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. D. K Pashine",
+      "role": "Head of Operation and Coordination",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kalyan  Ghosh",
+      "role": "Head of Legal & Secretarial",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Deepak  Banga",
+      "role": "Compliance Officer & Company Secretary",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kallol  Chakraborty",
+      "role": "Head of Group Corporate Human Resources",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jainesh  Pranay",
+      "role": "Head Production of Una Unit",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": "N/A"
+    }
+  ]
 }

@@ -1,6 +1,21 @@
 {
   "ticker": "BENGALASM",
   "company": "Bengal & Assam Company Limited",
-  "collected_at": "2026-06-12 06:15:08",
-  "directors": []
+  "collected_at": "2026-06-13 06:00:17",
+  "directors": [
+    {
+      "name": "Mr. Upendra Kumar Gupta",
+      "role": "CEO & CFO",
+      "age": 67,
+      "year_born": 1958,
+      "total_pay": 14453000
+    },
+    {
+      "name": "Mr. Dillip Kumar Swain",
+      "role": "Compliance Officer & Company Secretary",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 6501000
+    }
+  ]
 }

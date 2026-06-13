@@ -1,6 +1,56 @@
 {
   "ticker": "GANGAFORGE",
   "company": "Ganga Forging Limited",
-  "collected_at": "2026-06-12 06:21:32",
-  "directors": []
+  "collected_at": "2026-06-13 06:07:48",
+  "directors": [
+    {
+      "name": "Mr. Hiralal Mahidas Tilva",
+      "role": "Chairman & MD",
+      "age": 76,
+      "year_born": 1949,
+      "total_pay": 446400
+    },
+    {
+      "name": "Mr. Rakesh Chhaganlal Patel",
+      "role": "MD & Executive Director",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": 422400
+    },
+    {
+      "name": "Ms. Avni Nileshkumar Dadhaniya",
+      "role": "Chief Financial Officer",
+      "age": 43,
+      "year_born": 1982,
+      "total_pay": 2412
+    },
+    {
+      "name": "Ms. Drashti  Vaghasiya",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 442200
+    },
+    {
+      "name": "Ms. Parulben Rakeshbhai Patel",
+      "role": "Whole-Time Director",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": 2400
+    },
+    {
+      "name": "Ms. Sheetal Sanjivkumar Chaniara",
+      "role": "Whole-Time Director",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": 2410
+    },
+    {
+      "name": "Raviraj Chandubhai Raval",
+      "role": "Human Resources Manager",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

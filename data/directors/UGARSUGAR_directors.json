@@ -1,6 +1,42 @@
 {
   "ticker": "UGARSUGAR",
   "company": "The Ugar Sugar Works Limited",
-  "collected_at": "2026-06-12 06:44:31",
-  "directors": []
+  "collected_at": "2026-06-13 06:34:49",
+  "directors": [
+    {
+      "name": "Mr. Niraj Shishir Shirgaokar B.E.",
+      "role": "MD & Director",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": 34656000
+    },
+    {
+      "name": "Mr. Chandan Sanjeev Shirgaokar B.Sc., MCM",
+      "role": "MD & Director",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": 58509000
+    },
+    {
+      "name": "Mr. Sohan Sanjeev Shirgaokar",
+      "role": "Executive Director",
+      "age": 43,
+      "year_born": 1982,
+      "total_pay": 24940000
+    },
+    {
+      "name": "Mr. Shrikanta V. Bhat",
+      "role": "CFO & Manager of Finance",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Tushar Vasudev Deshpande",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

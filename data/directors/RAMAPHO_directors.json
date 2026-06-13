@@ -1,6 +1,28 @@
 {
   "ticker": "RAMAPHO",
   "company": "Rama Phosphates Limited",
-  "collected_at": "2026-06-12 06:36:40",
-  "directors": []
+  "collected_at": "2026-06-13 06:25:38",
+  "directors": [
+    {
+      "name": "Mr. Haresh Daulat Ramsinghani",
+      "role": "Chairman & MD",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": 19516746
+    },
+    {
+      "name": "Mr. Jambu Kumar Parakh",
+      "role": "President, CFO & Director",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Bhavna  Dave",
+      "role": "Company Secretary, Compliance Officer & Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

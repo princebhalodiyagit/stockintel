@@ -1,6 +1,70 @@
 {
   "ticker": "BAIDFIN",
   "company": "Baid Finserv Limited",
-  "collected_at": "2026-06-12 06:14:15",
-  "directors": []
+  "collected_at": "2026-06-13 05:59:15",
+  "directors": [
+    {
+      "name": "Mr. Panna Lal Baid",
+      "role": "Founder, Chairman & MD",
+      "age": 82,
+      "year_born": 1943,
+      "total_pay": 6000000
+    },
+    {
+      "name": "Mr. Aditya  Baid",
+      "role": "CFO and Product Head of Msme Loans & Property Loans",
+      "age": 33,
+      "year_born": 1992,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Surbhi  Rawat C.A., C.S.",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 34,
+      "year_born": 1991,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Aman  Baid",
+      "role": "Whole Time Director",
+      "age": 33,
+      "year_born": 1992,
+      "total_pay": 8400000
+    },
+    {
+      "name": "Mr. Pawan  Jalundhariya",
+      "role": "Deputy Manager Accounts",
+      "age": 31,
+      "year_born": 1994,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rahul Kumar Sharma",
+      "role": "CTO & Chief Information Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Neha  Saini",
+      "role": "HR Manager",
+      "age": 32,
+      "year_born": 1993,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Abhishek  Rathore",
+      "role": "Business Head",
+      "age": 43,
+      "year_born": 1982,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dhanesh Kumar Bagra",
+      "role": "Credit Manager",
+      "age": 35,
+      "year_born": 1990,
+      "total_pay": "N/A"
+    }
+  ]
 }

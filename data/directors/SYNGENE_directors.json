@@ -1,6 +1,77 @@
 {
   "ticker": "SYNGENE",
   "company": "Syngene International Limited",
-  "collected_at": "2026-06-12 06:42:23",
-  "directors": []
+  "collected_at": "2026-06-13 06:32:21",
+  "directors": [
+    {
+      "name": "Dr. Kiran  Mazumdar-Shaw B.Sc (Hons), B.Sc.",
+      "role": "Executive Chairperson",
+      "age": 72,
+      "year_born": 1953,
+      "total_pay": 9950000
+    },
+    {
+      "name": "Mr. Peter James Jonathan Bains",
+      "role": "CEO, MD & Director",
+      "age": 68,
+      "year_born": 1957,
+      "total_pay": 400000
+    },
+    {
+      "name": "Mr. Deepak  Jain",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Gaurav  Kushwaha",
+      "role": "Chief Technology Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Jayashree  Aiyar Ph.D.",
+      "role": "Chief Scientific Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. G.  Krishnan",
+      "role": "Head of Investor Relations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Chethan  Yogesh",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Surender Kumar Sharma",
+      "role": "General Counsel",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sandeep  Nair",
+      "role": "Head of Corporate Communications",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ajay  Tandon",
+      "role": "Head of Strategy & Corporate Development",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

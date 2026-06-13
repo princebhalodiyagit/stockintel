@@ -1,6 +1,77 @@
 {
   "ticker": "WSTCSTPAPR",
   "company": "West Coast Paper Mills Limited",
-  "collected_at": "2026-06-12 06:46:34",
-  "directors": []
+  "collected_at": "2026-06-13 06:37:09",
+  "directors": [
+    {
+      "name": "Mr. Shree Kumar Bangur",
+      "role": "Chairman & MD",
+      "age": 76,
+      "year_born": 1949,
+      "total_pay": 153211000
+    },
+    {
+      "name": "Mr. Virendraa  Bangur B.Com.",
+      "role": "Joint MD,  Whole Time Director & CEO of Telecom Cable Division",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": 77618000
+    },
+    {
+      "name": "Mr. Rajendra  Jain A.C.S., B.Com., F.C.A.",
+      "role": "Executive Director",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": 27807000
+    },
+    {
+      "name": "Mr. Rajesh  Bothra",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Brajmohan  Prasad",
+      "role": "Compliance Officer & Company Secretary",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 1182000
+    },
+    {
+      "name": "Mr. Vivek  Shrotriya",
+      "role": "Vice President of Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Velu  V.",
+      "role": "Vice President of Human Resources",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ashok Kumar Sharma",
+      "role": "Senior Vice-President of Finance & Accounts - Paper and Duplex Board Division",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pramod Kumar Srivastava",
+      "role": "Chief Executive Officer of Cable Division",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sunil Kumar Agarwal",
+      "role": "Chief Financial Officer of Cable Division",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

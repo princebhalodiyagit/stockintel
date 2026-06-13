@@ -1,6 +1,77 @@
 {
   "ticker": "IPCALAB",
   "company": "IPCA Laboratories Limited",
-  "collected_at": "2026-06-12 06:26:08",
-  "directors": []
+  "collected_at": "2026-06-13 06:13:12",
+  "directors": [
+    {
+      "name": "Mr. Premchand  Godha A.C. A., B. Com., CA",
+      "role": "Executive Chairman",
+      "age": 78,
+      "year_born": 1947,
+      "total_pay": 135194180
+    },
+    {
+      "name": "Mr. Pranay Premchand Godha",
+      "role": "CEO, MD & Executive Director",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": 89750783
+    },
+    {
+      "name": "Mr. Ajit Kumar Bhanwarlal Jain A.C.A., B.Sc.",
+      "role": "CFO, MD & Executive Director",
+      "age": 70,
+      "year_born": 1955,
+      "total_pay": 97673498
+    },
+    {
+      "name": "Mr. Prashant Premchand Godha",
+      "role": "Executive Director",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": 69975716
+    },
+    {
+      "name": "Mr. Pawan  Kothari",
+      "role": "Vice President of Operations",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vishnu Saran Singh Kushwaha",
+      "role": "Vice President of Technical",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Harish Pandurang Kamath",
+      "role": "Compliance Officer, Corporate Counsel & Company Secretary",
+      "age": 66,
+      "year_born": 1959,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sunil  Ghai",
+      "role": "President of Marketing",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Saidutta  Nanda",
+      "role": "President of Human Resources",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Ashok  Kumar",
+      "role": "President of R&D - Chemicals",
+      "age": 71,
+      "year_born": 1954,
+      "total_pay": "N/A"
+    }
+  ]
 }

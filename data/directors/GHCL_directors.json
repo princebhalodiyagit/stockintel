@@ -1,7 +1,7 @@
 {
   "ticker": "GHCL",
   "company": "GHCL Limited",
-  "collected_at": "2026-06-12 06:21:52",
+  "collected_at": "2026-06-13 06:08:10",
   "directors": [
     {
       "name": "Mr. Ravi Shanker Jalan B.Com., F.C.A.",
@@ -18,6 +18,13 @@
       "total_pay": 89051444
     },
     {
+      "name": "Mr. Bhuwneshwar Prasad Mishra",
+      "role": "VP of Sustainability, Company Secretary & Compliance Officer",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Neelabh  Dalmia",
       "role": "Executive Director of Growth & Diversification Project and Executive Director",
       "age": 42,
@@ -29,6 +36,13 @@
       "role": "Sr. President & COO of Soda Ash",
       "age": 69,
       "year_born": 1956,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jeetendra Bhagwansingh Gosain",
+      "role": "Vice President of F&A and IT",
+      "age": 56,
+      "year_born": 1969,
       "total_pay": "N/A"
     },
     {
@@ -53,10 +67,10 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Shalabh  Agarwal",
-      "role": "General Manager & Head of CPD",
-      "age": "N/A",
-      "year_born": "N/A",
+      "name": "Mr. Mayuresh  Hede",
+      "role": "Operation Head of Sutrapada Soda Ash Plant",
+      "age": 54,
+      "year_born": 1971,
       "total_pay": "N/A"
     }
   ]

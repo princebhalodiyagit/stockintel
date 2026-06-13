@@ -1,6 +1,77 @@
 {
   "ticker": "AJMERA",
   "company": "Ajmera Realty & Infra India Limited",
-  "collected_at": "2026-06-12 06:11:48",
-  "directors": []
+  "collected_at": "2026-06-13 05:56:22",
+  "directors": [
+    {
+      "name": "Mr. Rajnikant Shamalji Ajmera",
+      "role": "Chairman & MD",
+      "age": 72,
+      "year_born": 1953,
+      "total_pay": 15033000
+    },
+    {
+      "name": "Mr. Manoj Ishwarlal Ajmera",
+      "role": "MD & Executive Director",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": 12368000
+    },
+    {
+      "name": "Mr. Nitin Dineshchandra Bavisi",
+      "role": "Chief Financial Officer",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Reema Nalin Solanki",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sanjay Chhotalal Ajmera M.B.A.",
+      "role": "Whole Time Director",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": 5794000
+    },
+    {
+      "name": "Mr. Dinesh  Mutha",
+      "role": "AVP - Accounts & Tax",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Gaurang  Chotalia",
+      "role": "Manager of Investor Relations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Bhavesh  Joshi",
+      "role": "General Manager of Sales",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Shweta  Rathor",
+      "role": "AVP - Human Resource",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Shailesh Bhogilal Ajmera",
+      "role": "Senior Vice President of Operations",
+      "age": 64,
+      "year_born": 1961,
+      "total_pay": "N/A"
+    }
+  ]
 }

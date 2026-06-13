@@ -1,6 +1,77 @@
 {
   "ticker": "ALLCARGO",
   "company": "Allcargo Logistics Limited",
-  "collected_at": "2026-06-12 06:12:06",
-  "directors": []
+  "collected_at": "2026-06-13 05:56:44",
+  "directors": [
+    {
+      "name": "Dr. Shashi Kiran Janardhan Shetty",
+      "role": "Founder & Chairman",
+      "age": 68,
+      "year_born": 1957,
+      "total_pay": 121048000
+    },
+    {
+      "name": "Mr. Adarsh Sudhakar Hegde",
+      "role": "Executive Director",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": 37122000
+    },
+    {
+      "name": "Mr. Ketan Nishikant Kulkarni",
+      "role": "MD & CEO",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Deepak Jagdish Pareek",
+      "role": "Chief Financial Officer",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jan Kleine Lasthues",
+      "role": "Chief Operationg Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kapil  Mahajan",
+      "role": "Global Chief Information & Technology Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Shekhar Ramjeet Singh",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Samir  Ahuja",
+      "role": "Chief of Sales \u0096 Express",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Indrani  Chatterjee",
+      "role": "Group Chief Human Resource Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Marc  Stoffelen",
+      "role": "Global Head of KAM",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": "N/A"
+    }
+  ]
 }

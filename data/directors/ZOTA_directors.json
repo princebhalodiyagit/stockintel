@@ -1,6 +1,77 @@
 {
   "ticker": "ZOTA",
   "company": "Zota Health Care LImited",
-  "collected_at": "2026-06-12 06:46:59",
-  "directors": []
+  "collected_at": "2026-06-13 06:37:34",
+  "directors": [
+    {
+      "name": "Dr. Sujit  Paul",
+      "role": "Group Chief Executive Officer",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Viral A. Mandviwala",
+      "role": "Chief Financial Officer",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": 1309000
+    },
+    {
+      "name": "Mr. Ashvin  Variya C.S.",
+      "role": "Compliance Officer & Company Secretary",
+      "age": 34,
+      "year_born": 1991,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kamlesh Rajnikant Zota",
+      "role": "Executive Whole-time Director",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": 6818000
+    },
+    {
+      "name": "Mr. Himanshu Muktilal Zota",
+      "role": "Executive Whole-Time Director",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": 6858000
+    },
+    {
+      "name": "Mr. Moxesh Ketanbhai Zota",
+      "role": "Executive MD & Executive Director",
+      "age": 35,
+      "year_born": 1990,
+      "total_pay": 6813000
+    },
+    {
+      "name": "Mr. Viren Manukant Zota",
+      "role": "Executive Whole-time Director",
+      "age": 41,
+      "year_born": 1984,
+      "total_pay": 6823000
+    },
+    {
+      "name": "Mr. Laxmi Kant Sharma",
+      "role": "Executive Director",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": 910000
+    },
+    {
+      "name": "Mr. Pulaila  Sreekanth",
+      "role": "Associate Vice President of Human Resources",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Nitin  khanna",
+      "role": "Business Head of Exports",
+      "age": 26,
+      "year_born": 1999,
+      "total_pay": "N/A"
+    }
+  ]
 }

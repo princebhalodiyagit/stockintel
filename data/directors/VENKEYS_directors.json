@@ -1,6 +1,56 @@
 {
   "ticker": "VENKEYS",
   "company": "Venky's (India) Limited",
-  "collected_at": "2026-06-12 06:45:15",
-  "directors": []
+  "collected_at": "2026-06-13 06:35:41",
+  "directors": [
+    {
+      "name": "Mr. B. Balaji Rao",
+      "role": "MD & Executive Director",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": 3816660
+    },
+    {
+      "name": "Mr. Jiwan Kumar Handa",
+      "role": "Chief Financial Officer",
+      "age": 66,
+      "year_born": 1959,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Danveer  Singh",
+      "role": "General Manager of Operations",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rohan Ajay Bhagwat",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 926000
+    },
+    {
+      "name": "Vijay  Tijare",
+      "role": "General Manager of Sales & Marketing",
+      "age": 64,
+      "year_born": 1961,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Deepak  Khosla",
+      "role": "General Manager of Marketing",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Natwar Kishore Toshniwal",
+      "role": "General Manager of Oil Seed Segment",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

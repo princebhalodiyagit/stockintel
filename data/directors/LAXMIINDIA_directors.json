@@ -1,6 +1,56 @@
 {
   "ticker": "LAXMIINDIA",
   "company": "Laxmi India Finance Limited",
-  "collected_at": "2026-06-12 06:29:17",
-  "directors": []
+  "collected_at": "2026-06-13 06:16:52",
+  "directors": [
+    {
+      "name": "Mr. Deepak  Baid",
+      "role": "Chairman & MD",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": 27600000
+    },
+    {
+      "name": "Mr. Gopal Krishan Sain",
+      "role": "Chief Financial Officer",
+      "age": 40,
+      "year_born": 1985,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sourabh  Mishra",
+      "role": "Company Secretary & Chief Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Prem Devi Baid",
+      "role": "Whole Time Director",
+      "age": 75,
+      "year_born": 1950,
+      "total_pay": 13800000
+    },
+    {
+      "name": "Ms. Aneesha  Baid",
+      "role": "Whole Time Executive Director",
+      "age": 44,
+      "year_born": 1981,
+      "total_pay": 17250000
+    },
+    {
+      "name": "Mr. Shivam  Bajaj",
+      "role": "Senior Vice President of Risk & Strategic",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Piyush  Somani",
+      "role": "Chief Treasury Officer",
+      "age": 38,
+      "year_born": 1987,
+      "total_pay": "N/A"
+    }
+  ]
 }

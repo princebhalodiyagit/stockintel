@@ -1,7 +1,7 @@
 {
   "ticker": "DEEPAKNTR",
   "company": "Deepak Nitrite Limited",
-  "collected_at": "2026-06-12 06:18:39",
+  "collected_at": "2026-06-13 06:04:26",
   "directors": [
     {
       "name": "Mr. Deepak Chimanlal Mehta B.Sc.",
@@ -11,11 +11,67 @@
       "total_pay": 86000000
     },
     {
+      "name": "Mr. Maulik Deepak Mehta",
+      "role": "CEO & Executive Director",
+      "age": 42,
+      "year_born": 1983,
+      "total_pay": 49500000
+    },
+    {
+      "name": "Mr. Somsekhar Asimkumar Nanda",
+      "role": "CFO & Chief Risk Officer",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sanjay B. Upadhyay",
+      "role": "Director of Finance, Group CFO & Whole-Time Director",
+      "age": 64,
+      "year_born": 1961,
+      "total_pay": 59700000
+    },
+    {
       "name": "Mr. Girish R. Satarkar",
       "role": "President of BI & Executive Director",
       "age": 61,
       "year_born": 1964,
       "total_pay": 24300000
+    },
+    {
+      "name": "Jagdeep Amritlal Vyas",
+      "role": "Senior General Manager of Accounts & Taxation",
+      "age": 65,
+      "year_born": 1960,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Subash  Dhar",
+      "role": "Head of Technology",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. K. C. Bahuguna",
+      "role": "Chief Information Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Arvind  Bajpai",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Subimat  Mondal",
+      "role": "Group Chief Human Resource Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

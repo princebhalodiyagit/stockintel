@@ -1,57 +1,8 @@
 {
   "ticker": "ABDL",
   "company": "Allied Blenders and Distillers Limited",
-  "collected_at": "2026-06-12 06:10:48",
+  "collected_at": "2026-06-13 05:55:12",
   "directors": [
-    {
-      "name": "Mr. Alok  Gupta",
-      "role": "MD & Director",
-      "age": 59,
-      "year_born": 1966,
-      "total_pay": 115475358
-    },
-    {
-      "name": "Ms. Resham Chhabria Jeetendra Hemdev",
-      "role": "Vice Chairperson",
-      "age": 48,
-      "year_born": 1977,
-      "total_pay": 36210000
-    },
-    {
-      "name": "Mr. Shekhar  Ramamurthy",
-      "role": "Executive Deputy Chairman",
-      "age": 64,
-      "year_born": 1961,
-      "total_pay": 40858264
-    },
-    {
-      "name": "Mr. Ramakrishnan  Ramaswamy",
-      "role": "Chief Financial Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Arun  Barik",
-      "role": "Executive Director",
-      "age": 63,
-      "year_born": 1962,
-      "total_pay": 20969403
-    },
-    {
-      "name": "Mr. Manoj Kumar Rai",
-      "role": "Chief Revenue Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Bikram  Basu",
-      "role": "Managing Director of ABD Maestro Pvt. Ltd",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
     {
       "name": "Mr. Mithun Kumar Das",
       "role": "Head of Manufacturing & Technical",
@@ -69,6 +20,55 @@
     {
       "name": "Mr. Sumeet  Maheshwari",
       "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ramesh  Sawant",
+      "role": "Chief Legal Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Anupama  Soni",
+      "role": "Head of Public Relations & Communications",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Pradipta  Basu",
+      "role": "Chief Marketing Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ralin Antonio Carvalho Rangel Da Cunha Gomes",
+      "role": "Chief Human Resources Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajesh  Parida",
+      "role": "Director of Corporate Affairs, Public Relations & CSR and Chief Corporate Affairs of PR & CSR",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. P.  Kulothungan",
+      "role": "Head of Internal Audit",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ramesh Chandra Singh Koranga",
+      "role": "Head of Quality & Innovation",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

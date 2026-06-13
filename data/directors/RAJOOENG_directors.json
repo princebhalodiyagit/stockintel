@@ -1,6 +1,56 @@
 {
   "ticker": "RAJOOENG",
   "company": "Rajoo Engineers Limited",
-  "collected_at": "2026-06-12 06:36:32",
-  "directors": []
+  "collected_at": "2026-06-13 06:25:30",
+  "directors": [
+    {
+      "name": "Mr. Rajesh Nanalal Doshi B.Sc.",
+      "role": "Executive Chairman",
+      "age": 64,
+      "year_born": 1961,
+      "total_pay": 13115000
+    },
+    {
+      "name": "Ms. Khushboo Chandrakant Doshi B.Arch",
+      "role": "MD, Head of Sales & Marketing Department and Whole-time Director",
+      "age": 43,
+      "year_born": 1982,
+      "total_pay": 6470000
+    },
+    {
+      "name": "Mr. Utsav Kishorbhai Doshi",
+      "role": "Joint MD, Head of Operation & Whole-Time Director",
+      "age": 40,
+      "year_born": 1985,
+      "total_pay": 5100000
+    },
+    {
+      "name": "Mr. Sunil B. Jain",
+      "role": "President & Executive Director",
+      "age": 70,
+      "year_born": 1955,
+      "total_pay": 4800000
+    },
+    {
+      "name": "Mr. Chintan B. Malkan",
+      "role": "Chief Financial Officer",
+      "age": 40,
+      "year_born": 1985,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kevin J. Dhruve",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jinesh R. Shah",
+      "role": "Chief Sales Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

@@ -1,6 +1,56 @@
 {
   "ticker": "SHARDACROP",
   "company": "Sharda Cropchem Limited",
-  "collected_at": "2026-06-12 06:39:30",
-  "directors": []
+  "collected_at": "2026-06-13 06:29:01",
+  "directors": [
+    {
+      "name": "Mr. Ramprakash Vilasrai Bubna",
+      "role": "Founder, Chairman & MD",
+      "age": 79,
+      "year_born": 1946,
+      "total_pay": 43600962
+    },
+    {
+      "name": "Mr. Manish Ramprakash Bubna",
+      "role": "Founder & Whole-Time Director",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": 32887644
+    },
+    {
+      "name": "Mr. Ashish Ramprakash Bubna",
+      "role": "Founder & Whole-Time Director",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": 32887644
+    },
+    {
+      "name": "Ms. Sharda Ramprakash Bubna",
+      "role": "Founder & Whole-Time Director",
+      "age": 72,
+      "year_born": 1953,
+      "total_pay": 3750000
+    },
+    {
+      "name": "Mr. Shailesh Anant Mehendale",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jetkin Navinchan Gudhka",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 37,
+      "year_born": 1988,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Amol  Prabhughate",
+      "role": "Manager of Human Resources",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": "N/A"
+    }
+  ]
 }

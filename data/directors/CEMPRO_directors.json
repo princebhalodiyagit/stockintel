@@ -1,8 +1,15 @@
 {
   "ticker": "CEMPRO",
   "company": "Cemindia Projects Limited",
-  "collected_at": "2026-06-12 06:16:48",
+  "collected_at": "2026-06-13 06:02:16",
   "directors": [
+    {
+      "name": "Mr. Jayanta  Basu",
+      "role": "MD & Executive Director",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": 63200000
+    },
     {
       "name": "Mr. Nitesh  Sharma",
       "role": "Joint Executive VP & CFO",
@@ -62,13 +69,6 @@
     {
       "name": "Mr. Shivanagouda N. Patil",
       "role": "Executive Vice President",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Schon  Sarkar",
-      "role": "Joint Executive Vice President",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

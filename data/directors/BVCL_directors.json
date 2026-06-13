@@ -1,6 +1,77 @@
 {
   "ticker": "BVCL",
   "company": "Barak Valley Cements Limited",
-  "collected_at": "2026-06-12 06:16:17",
-  "directors": []
+  "collected_at": "2026-06-13 06:01:41",
+  "directors": [
+    {
+      "name": "Mr. Mukesh Kumar Shovasaria",
+      "role": "CEO and Vigilance & Ethics Officer",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kamakhya  Chamaria",
+      "role": "Vice Chairman & MD",
+      "age": 73,
+      "year_born": 1952,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajesh  Aggarwal",
+      "role": "Chief Financial Officer",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sheo Kailash Pati Dalmia",
+      "role": "Senior Vice President of Works",
+      "age": 80,
+      "year_born": 1945,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Preeti  Bhatia",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Prasun Kumar Tarafder",
+      "role": "D.G.M. of Sales",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manoj  Agarwal",
+      "role": "Senior Vice President of Finance",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Bibhash Kanti Das",
+      "role": "General Manager of Accounts",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Nomal  Payeng",
+      "role": "Manager of Accounts",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Lal Behari Sinha",
+      "role": "Sr. Manager - Electrical & Instrument",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    }
+  ]
 }

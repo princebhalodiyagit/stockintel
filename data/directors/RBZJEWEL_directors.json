@@ -1,6 +1,56 @@
 {
   "ticker": "RBZJEWEL",
   "company": "RBZ Jewellers Limited",
-  "collected_at": "2026-06-12 06:36:57",
-  "directors": []
+  "collected_at": "2026-06-13 06:25:59",
+  "directors": [
+    {
+      "name": "Mr. Rajendrakumar Kantilal Zaveri",
+      "role": "Chairman & MD",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": 11502000
+    },
+    {
+      "name": "Mr. Harit Rajendrakumar Zaveri",
+      "role": "CFO, Joint MD & Director",
+      "age": 36,
+      "year_born": 1989,
+      "total_pay": 6750000
+    },
+    {
+      "name": "Ms. Heli Akash Garala",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 37,
+      "year_born": 1988,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Shivani Harshad Parmar",
+      "role": "Head of Branding & Marketing",
+      "age": 29,
+      "year_born": 1996,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajesh Madhsudan Pancholi",
+      "role": "Chief Manufacturing Officer",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Shuchi Kirtikumar Bangera",
+      "role": "Head of Design Department",
+      "age": 34,
+      "year_born": 1991,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Harshit Bhupendrakumar Gandhi",
+      "role": "Internal Financial Controller",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

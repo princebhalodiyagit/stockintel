@@ -1,6 +1,77 @@
 {
   "ticker": "IRCTC",
   "company": "Indian Railway Catering And Tourism Corporation Limited",
-  "collected_at": "2026-06-12 06:26:12",
-  "directors": []
+  "collected_at": "2026-06-13 06:13:16",
+  "directors": [
+    {
+      "name": "Mr. Sanjay Kumar Jain",
+      "role": "Chairman & MD",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 6219759
+    },
+    {
+      "name": "Mr. Rahul  Himalian",
+      "role": "Director of Tourism & Marketing and Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 5196230
+    },
+    {
+      "name": "Mr. Sudhir  Kumar CISF",
+      "role": "CFO, GGM & Director of Finance and Director",
+      "age": 36,
+      "year_born": 1989,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anil Kumar Sharma",
+      "role": "Chief Investor Relations Officer and AGM of Finance & Accounts",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Suman  Kalra",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 3446686
+    },
+    {
+      "name": "Ms. Rashmi  Gautam",
+      "role": "Group General Manager of SCS & Legal/CO",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sandip  Trivedi",
+      "role": "Group General Manager of HRD & RAJBHASHA",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pradeep  Kumar",
+      "role": "Chief Vigilance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mukesh  Saini",
+      "role": "Chief Regional Officer of Jaipur",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manoj Kumar Sharma",
+      "role": "Director of Catering Services & Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

@@ -1,6 +1,77 @@
 {
   "ticker": "RUSTOMJEE",
   "company": "Keystone Realtors Limited",
-  "collected_at": "2026-06-12 06:38:03",
-  "directors": []
+  "collected_at": "2026-06-13 06:27:17",
+  "directors": [
+    {
+      "name": "Mr. Boman Rustom Irani",
+      "role": "Founder, Chairman & MD",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": 57500000
+    },
+    {
+      "name": "Mr. Sajal  Gupta",
+      "role": "Group CFO & Head of Corporate Strategy",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vinayak Vilasrao Bhosale",
+      "role": "Chief Operating Officer",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rahul Vasant Mahajan",
+      "role": "Chief Information Officer",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Bimal Kishore Nanda",
+      "role": "Group Company Secretary & Compliance Officer",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Chandresh Dinesh Mehta",
+      "role": "Executive Director",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": 57500000
+    },
+    {
+      "name": "Mr. Percy Sorabji Chowdhry",
+      "role": "Executive Director",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": 36800000
+    },
+    {
+      "name": "Mr. Anupam  Verma",
+      "role": "CEO of Kapstone Costructions Private Limited",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Aradhana  Prabhakar",
+      "role": "Group Head of Legal",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mukesh  Singh",
+      "role": "Chief of Sales",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

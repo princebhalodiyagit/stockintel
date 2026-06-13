@@ -1,6 +1,42 @@
 {
   "ticker": "RESPONIND",
   "company": "Responsive Industries Limited",
-  "collected_at": "2026-06-12 06:37:15",
-  "directors": []
+  "collected_at": "2026-06-13 06:26:20",
+  "directors": [
+    {
+      "name": "Mr. Mehul Laljibhai Vala",
+      "role": "CEO & Whole Time Director",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sadanand Raghavendra Morab",
+      "role": "Executive Director",
+      "age": 64,
+      "year_born": 1961,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ruvi  Bhansali",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajendra Kumar Parsania",
+      "role": "Chief Operating Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jayesh  Jain",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

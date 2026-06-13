@@ -1,6 +1,28 @@
 {
   "ticker": "BUILDPRO",
   "company": "Shankara Buildpro Limited",
-  "collected_at": "2026-06-12 06:16:15",
-  "directors": []
+  "collected_at": "2026-06-13 06:01:39",
+  "directors": [
+    {
+      "name": "Mr. Sukumar  Srinivas",
+      "role": "MD & Director",
+      "age": 65,
+      "year_born": 1960,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Alex  Varghese",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Dhananjay Mirlay Srinivas",
+      "role": "Executive Director",
+      "age": 30,
+      "year_born": 1995,
+      "total_pay": "N/A"
+    }
+  ]
 }

@@ -1,6 +1,77 @@
 {
   "ticker": "LTF",
   "company": "L&T Finance Limited",
-  "collected_at": "2026-06-12 06:29:43",
-  "directors": []
+  "collected_at": "2026-06-13 06:17:22",
+  "directors": [
+    {
+      "name": "Mr. Sudipta  Roy",
+      "role": "MD, CEO & Director",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": 50800000
+    },
+    {
+      "name": "Mr. Sachinn Roopnarayan Joshi",
+      "role": "Group Chief Financial Officer",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": 23140922
+    },
+    {
+      "name": "Mr. Raju  Dodti",
+      "role": "Chief Operating Officer",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Apurva Neeraj Rathod",
+      "role": "Company Secretary, Compliance Officer, Chief Sustainability Officer & Chief IR Officer",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": 11571579
+    },
+    {
+      "name": "Ms. Kavita  Jagtiani",
+      "role": "Chief Marketing Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Shatabdi Basu Gupta",
+      "role": "Chief Human Resources Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Abhishek  Sharma",
+      "role": "Chief Executive of SME Finance",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Asheesh  Goel",
+      "role": "Chief Executive of Farmer Finance",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Sonia  Krishnankutty",
+      "role": "Chief Executive of Rural Business Finance",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Gigesh  Gangadharan",
+      "role": "Head of Digital Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

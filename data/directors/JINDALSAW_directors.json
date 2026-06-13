@@ -1,6 +1,77 @@
 {
   "ticker": "JINDALSAW",
   "company": "Jindal Saw Limited",
-  "collected_at": "2026-06-12 06:26:54",
-  "directors": []
+  "collected_at": "2026-06-13 06:14:03",
+  "directors": [
+    {
+      "name": "Ms. Sminu  Jindal M.B.A",
+      "role": "MD & Executive Director",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": 40188958
+    },
+    {
+      "name": "Mr. Vinay Kumar Gupta C.A.",
+      "role": "President & Head of Treasury",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Dharmendra  Gupta Ph.D.",
+      "role": "President & Unit Head of Bhilwara",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Maneesh  Kumar",
+      "role": "President and Global Marketing & Business Head of DI Business",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Balwant Rai Sachdeva",
+      "role": "President and Head of RM Proc, Logistics & Pellet",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jai Prakash Gupta",
+      "role": "President & Head of NRM Procurement",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Soumyajyoti  Sarkar",
+      "role": "President & Unit Head",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Narendra  Mantri",
+      "role": "President of Commercial, COO & CFO",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajeev  Goyal",
+      "role": "Vice President of Corporate Finance",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Chandan  Sinha",
+      "role": "Chief Information Officer",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": "N/A"
+    }
+  ]
 }

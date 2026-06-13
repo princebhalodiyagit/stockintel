@@ -1,6 +1,63 @@
 {
   "ticker": "EMSLIMITED",
   "company": "EMS Limited",
-  "collected_at": "2026-06-12 06:20:10",
-  "directors": []
+  "collected_at": "2026-06-13 06:06:13",
+  "directors": [
+    {
+      "name": "Mr. Ramveer  Singh",
+      "role": "Executive Chairman",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": 60000000
+    },
+    {
+      "name": "Mr. Ashish  Tomar",
+      "role": "MD, CFO & Director",
+      "age": 37,
+      "year_born": 1988,
+      "total_pay": 60000000
+    },
+    {
+      "name": "Ms. Kritika  Tomar",
+      "role": "Whole Time Director",
+      "age": 31,
+      "year_born": 1994,
+      "total_pay": 12000000
+    },
+    {
+      "name": ".  Moolchand",
+      "role": "Accounting Manager",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. .  Himanshu",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Avinash Kumar Verma",
+      "role": "Regional Head",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Amit Kumar Singh",
+      "role": "Regional Head",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Harish Kumar Kansal",
+      "role": "Chief Executive Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

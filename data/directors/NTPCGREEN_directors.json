@@ -1,6 +1,63 @@
 {
   "ticker": "NTPCGREEN",
   "company": "NTPC Green Energy Limited",
-  "collected_at": "2026-06-12 06:33:35",
-  "directors": []
+  "collected_at": "2026-06-13 06:21:59",
+  "directors": [
+    {
+      "name": "Mr. Neeraj  Sharma",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 6400000
+    },
+    {
+      "name": "Gurdeep  Singh",
+      "role": "MD & Chairman",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sarit  Maheshwari",
+      "role": "Chief Executive Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Prabir Kumar Biswas",
+      "role": "General Manager of Human Resources",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. C. S. Deepak",
+      "role": "GM, Company Secretary & Compliance",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jaikumar  Srinivasan",
+      "role": "Director of Finance & Executive Director",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kothandpani Shanmugha Sundaram",
+      "role": "Director of Projects & Executive Director",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kishore Kumar Hota",
+      "role": "Chief General Manager",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

@@ -1,6 +1,28 @@
 {
   "ticker": "KAUSHALYA",
   "company": "Kaushalya Infrastructure Development Corporation Limited",
-  "collected_at": "2026-06-12 06:27:50",
-  "directors": []
+  "collected_at": "2026-06-13 06:15:11",
+  "directors": [
+    {
+      "name": "Mr. Tarak Nath Mishra",
+      "role": "CFO & Non Independent Executive Whole Time Director",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": 564000
+    },
+    {
+      "name": "Mr. Sanjay Lal Gupta",
+      "role": "Company Secretary, Compliance Officer & Non Independent Executive Whole Time Director",
+      "age": 35,
+      "year_born": 1990,
+      "total_pay": 435000
+    },
+    {
+      "name": "Mr. Mahesh  Mehra",
+      "role": "Non Independent Executive Whole-Time Director",
+      "age": 70,
+      "year_born": 1955,
+      "total_pay": 1140000
+    }
+  ]
 }

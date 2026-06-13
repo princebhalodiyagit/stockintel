@@ -1,6 +1,77 @@
 {
   "ticker": "ELGIEQUIP",
   "company": "Elgi Equipments Limited",
-  "collected_at": "2026-06-12 06:19:57",
-  "directors": []
+  "collected_at": "2026-06-13 06:05:58",
+  "directors": [
+    {
+      "name": "Dr. Jairam  Varadaraj",
+      "role": "CEO, MD & Executive Director",
+      "age": 64,
+      "year_born": 1961,
+      "total_pay": 25541130
+    },
+    {
+      "name": "Mr. Indranil  Sen",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ramesh  Ponnuswami",
+      "role": "Executive President of Operations & EBS",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Nitesh  Jain",
+      "role": "Chief Human Resource Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anvar Jay Varadaraj",
+      "role": "Executive Director",
+      "age": 39,
+      "year_born": 1986,
+      "total_pay": 17601999
+    },
+    {
+      "name": "Dr. .  Premendra",
+      "role": "Chief Strategy Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Bhavesh  Karia",
+      "role": "President of Isaame & Sea",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Brian  Pahl",
+      "role": "President of USA",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. K.  Venu Madhav",
+      "role": "Director of Product Excellence & Innovation",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Gaurav  Gupta",
+      "role": "Chief Information & Digital Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

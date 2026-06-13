@@ -1,6 +1,42 @@
 {
   "ticker": "HILTON",
   "company": "Hilton Metal Forging Limited",
-  "collected_at": "2026-06-12 06:24:07",
-  "directors": []
+  "collected_at": "2026-06-13 06:10:49",
+  "directors": [
+    {
+      "name": "Mr. Yuvraj Hiralal Malhotra",
+      "role": "Chairman & MD",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mohak Yuvraj Malhotra",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Richa Pankaj Shah",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Yashika Yuvraj Malhotra",
+      "role": "Marketing Head",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 1152000
+    },
+    {
+      "name": "Mr. Sharad  Barde",
+      "role": "HR Head",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

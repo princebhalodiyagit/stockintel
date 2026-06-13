@@ -1,6 +1,42 @@
 {
   "ticker": "JAINREC",
   "company": "Jain Resource Recycling Limited",
-  "collected_at": "2026-06-12 06:26:37",
-  "directors": []
+  "collected_at": "2026-06-13 06:13:44",
+  "directors": [
+    {
+      "name": "Mr. Kamlesh S. Jain",
+      "role": "Chairman & MD",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mayank  Pareek",
+      "role": "Joint MD & Director",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Hemant Shantilal Jain",
+      "role": "CFO & Executive Director",
+      "age": 41,
+      "year_born": 1984,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Bibhu Kalyan Rauta",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vijay  Kumar",
+      "role": "Chief Operating Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

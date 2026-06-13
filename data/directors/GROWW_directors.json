@@ -1,6 +1,77 @@
 {
   "ticker": "GROWW",
   "company": "Billionbrains Garage Ventures Limited",
-  "collected_at": "2026-06-12 06:23:02",
-  "directors": []
+  "collected_at": "2026-06-13 06:09:32",
+  "directors": [
+    {
+      "name": "Mr. Lalit  Keshre",
+      "role": "CEO & Whole Time Director",
+      "age": 44,
+      "year_born": 1981,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ishan  Bansal",
+      "role": "CFO & Whole-Time Director",
+      "age": 37,
+      "year_born": 1988,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Harsh  Jain",
+      "role": "COO & Whole-Time Director",
+      "age": 43,
+      "year_born": 1982,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Neeraj  Singh",
+      "role": "CTO & Whole-Time Director",
+      "age": 42,
+      "year_born": 1983,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Kunalraj Singh Chhabra",
+      "role": "Head of Investor Relations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ashutosh Ashok Naik",
+      "role": "Chief Compliance Officer",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Adit Sunil Gupta",
+      "role": "Head of Design",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sunil  Bissa",
+      "role": "Head of Customer Success",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Lalit  Bhimani",
+      "role": "Group Head of Finance",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Roshan Bhanuprakash Dave",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 39,
+      "year_born": 1986,
+      "total_pay": "N/A"
+    }
+  ]
 }

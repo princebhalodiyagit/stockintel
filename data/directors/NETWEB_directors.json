@@ -1,6 +1,77 @@
 {
   "ticker": "NETWEB",
   "company": "Netweb Technologies India Limited",
-  "collected_at": "2026-06-12 06:32:50",
-  "directors": []
+  "collected_at": "2026-06-13 06:21:06",
+  "directors": [
+    {
+      "name": "Mr. Sanjay  Lodha",
+      "role": "Chairman & MD",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": 23793103
+    },
+    {
+      "name": "Mr. Ankit Kumar Singhal",
+      "role": "CFO & Financial Controller",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 1640000
+    },
+    {
+      "name": "Mr. Hemant  Agarwal",
+      "role": "Chief Operating Officer",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Lohit  Chhabra",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 1890000
+    },
+    {
+      "name": "Mr. Hirdey  Vikram",
+      "role": "Chief Sales & Marketing Officer",
+      "age": 36,
+      "year_born": 1989,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mukesh  Golla",
+      "role": "Chief Research & Development Officer",
+      "age": 44,
+      "year_born": 1981,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Navin  Lodha",
+      "role": "Whole Time Director",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": 17479310
+    },
+    {
+      "name": "Mr. Niraj  Lodha",
+      "role": "Whole Time Director",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": 17479310
+    },
+    {
+      "name": "Mr. Vivek  Lodha",
+      "role": "Whole Time Director",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": 17479310
+    },
+    {
+      "name": "Mr. Swastik  Chakraborty",
+      "role": "VP-Technology",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": "N/A"
+    }
+  ]
 }

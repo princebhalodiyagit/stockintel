@@ -1,6 +1,77 @@
 {
   "ticker": "PATANJALI",
   "company": "Patanjali Foods Limited",
-  "collected_at": "2026-06-12 06:34:39",
-  "directors": []
+  "collected_at": "2026-06-13 06:23:14",
+  "directors": [
+    {
+      "name": "Mr. Sanjeev Kumar Asthana PGDIT, PGDRM",
+      "role": "Chief Executive Officer",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": 21152000
+    },
+    {
+      "name": "Mr. Kumar  Rajesh",
+      "role": "Head of Strategic Finance, Special Projects & Treasury Management and CFO",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 9840000
+    },
+    {
+      "name": "Mr. Ramji Lal Gupta",
+      "role": "VP of Corporate Planning, Compliance Officer & Company Secretary",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": 6639000
+    },
+    {
+      "name": "Mr. Ram  Bharat",
+      "role": "MD & Whole Time Director",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": 1
+    },
+    {
+      "name": "Dr. Sanjeev Kumar Khanna",
+      "role": "Chief Operating Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 8216000
+    },
+    {
+      "name": "Mr. Ashutosh Bhailal Rao LLB",
+      "role": "Vice President of Legal",
+      "age": 67,
+      "year_born": 1958,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ashim Kumar Banerjee",
+      "role": "Vice President of HR",
+      "age": 65,
+      "year_born": 1960,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mallesham  Poola",
+      "role": "Business Head of Oil Palm Division",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ajay  Malik",
+      "role": "VP and Head of Sales & Marketing of Edible Oils",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pawan  Arora",
+      "role": "Business Head of CBD Nutrela",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

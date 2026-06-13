@@ -1,7 +1,7 @@
 {
   "ticker": "POWERINDIA",
   "company": "Hitachi Energy India Limited",
-  "collected_at": "2026-06-12 06:35:37",
+  "collected_at": "2026-06-13 06:24:25",
   "directors": [
     {
       "name": "Mr. Nuguri  Venu",
@@ -9,6 +9,13 @@
       "age": 60,
       "year_born": 1965,
       "total_pay": 118141000
+    },
+    {
+      "name": "Mr. Ajay  Singh",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 6394500
     },
     {
       "name": "Mr. Akilur  Rahman",
@@ -62,13 +69,6 @@
     {
       "name": "Mr. Saji  S.",
       "role": "Head of High Voltage Direct Current",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Karthik  Krishnamurthi",
-      "role": "Head of Exports & Cluster Countries",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

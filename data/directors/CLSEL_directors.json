@@ -1,6 +1,42 @@
 {
   "ticker": "CLSEL",
   "company": "Chaman Lal Setia Exports Limited",
-  "collected_at": "2026-06-12 06:17:21",
-  "directors": []
+  "collected_at": "2026-06-13 06:02:55",
+  "directors": [
+    {
+      "name": "Mr. Vijay Kumar Setia",
+      "role": "Chairman & MD",
+      "age": 72,
+      "year_born": 1953,
+      "total_pay": 24579688
+    },
+    {
+      "name": "Mr. Rajeev  Setia",
+      "role": "CFO, Whole Time Director & Joint MD",
+      "age": 70,
+      "year_born": 1955,
+      "total_pay": 26135618
+    },
+    {
+      "name": "Mr. Sankesh  Setia",
+      "role": "CEO of Sales & Marketing and Whole Time Director",
+      "age": 38,
+      "year_born": 1987,
+      "total_pay": 23487225
+    },
+    {
+      "name": "Mr. Ankit  Setia",
+      "role": "Executive Director of International Marketing & Quality Control and Whole Time Director",
+      "age": 41,
+      "year_born": 1984,
+      "total_pay": 25544552
+    },
+    {
+      "name": "Ms. Kanika  Nevtia",
+      "role": "Compliance Officer & Company Secretary",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

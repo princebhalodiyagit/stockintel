@@ -1,6 +1,63 @@
 {
   "ticker": "PFIZER",
   "company": "Pfizer Limited",
-  "collected_at": "2026-06-12 06:34:53",
-  "directors": []
+  "collected_at": "2026-06-13 06:23:31",
+  "directors": [
+    {
+      "name": "Ms. Meenakshi  Nevatia",
+      "role": "MD, CEO & Director",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": 94834000
+    },
+    {
+      "name": "Mr. Prajeet  Nair C.S.",
+      "role": "Director of Corporate Services, Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pazhania Pillai Rengan",
+      "role": "Whole-Time Director & Executive Director of Plant Operations",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": 14800000
+    },
+    {
+      "name": "Mr. Anil  Pattanshetty",
+      "role": "Senior Director of Business Operations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sharad  Goswami",
+      "role": "Senior Director of Policy & Public Affairs",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Reshma  Parida",
+      "role": "Senior Director of People Experience",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Deepak  Rakheja",
+      "role": "Strategic Partnerships, Channel Development & International Neighbouring Markets Lead",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Chaitanya  Nadkarni",
+      "role": "India Digital Client Partner Lead & Director of Digital",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

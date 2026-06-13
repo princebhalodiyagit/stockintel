@@ -1,6 +1,56 @@
 {
   "ticker": "KHADIM",
   "company": "Khadim India Limited",
-  "collected_at": "2026-06-12 06:28:06",
-  "directors": []
+  "collected_at": "2026-06-13 06:15:29",
+  "directors": [
+    {
+      "name": "Mr. Siddhartha Roy Burman",
+      "role": "Executive Chairman",
+      "age": 64,
+      "year_born": 1961,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rittick  Roy Burman",
+      "role": "MD & Whole-time Director",
+      "age": 33,
+      "year_born": 1992,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Indrajit  Chaudhuri",
+      "role": "Chief Financial Officer",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Abhijit  Dan",
+      "role": "Company Secretary, Compliance Officer & Head of Legal",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Tapas  Ghosh B. Com",
+      "role": "General Manager of Sales & Business Development",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Amit Kumar Gope M.B.A.",
+      "role": "Head of Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Roshan  Jaiswal",
+      "role": "Head - Internal Audit & Risk Managemen",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

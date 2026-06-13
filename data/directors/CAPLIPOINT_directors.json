@@ -1,6 +1,77 @@
 {
   "ticker": "CAPLIPOINT",
   "company": "Caplin Point Laboratories Limited",
-  "collected_at": "2026-06-12 06:16:30",
-  "directors": []
+  "collected_at": "2026-06-13 06:01:56",
+  "directors": [
+    {
+      "name": "Dr. Sridhar  Ganesan",
+      "role": "MD & Whole Time Director",
+      "age": 70,
+      "year_born": 1955,
+      "total_pay": 5700000
+    },
+    {
+      "name": "Mr. D.  Muralidharan",
+      "role": "Chief Financial Officer - Finance & Accounts",
+      "age": 69,
+      "year_born": 1956,
+      "total_pay": 5400000
+    },
+    {
+      "name": "Mr. Venkatram Ganapathisu Bramanian",
+      "role": "General Counsel, Company Secretary & Compliance Officer",
+      "age": 43,
+      "year_born": 1982,
+      "total_pay": 5400000
+    },
+    {
+      "name": "Dr. Neelakandan  K.",
+      "role": "President - API R&D - Hyderabad",
+      "age": 44,
+      "year_born": 1981,
+      "total_pay": 13600000
+    },
+    {
+      "name": "Anto Vijinth V.",
+      "role": "Functional Head -HO, HR & Admin",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. M. Sathya Narayanan",
+      "role": "Deputy Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Sivakumar  Balasubramanian",
+      "role": "Plant Head - Puducherry",
+      "age": 44,
+      "year_born": 1981,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. S.  Gunasakaran",
+      "role": "President of Clinical Research Operations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "R.  Dinesh",
+      "role": "Functional Head - HO, Production Planning & Inventory Control",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Sathish  Krishnan",
+      "role": "Vice President",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": "N/A"
+    }
+  ]
 }

@@ -1,14 +1,14 @@
 {
   "ticker": "KEC",
-  "collected_at": "2026-06-12 06:27:57",
+  "collected_at": "2026-06-13 06:15:17",
   "company_info": {
     "name": "KEC International Limited",
     "sector": "Industrials",
     "industry": "Engineering & Construction",
-    "market_cap": 131808927744,
-    "current_price": 495.15,
-    "pe_ratio": 21.764835,
-    "pb_ratio": 2.140541,
+    "market_cap": 134284591104,
+    "current_price": 504.45,
+    "pe_ratio": 22.173628,
+    "pb_ratio": 2.1807454,
     "roe": 0.10524999,
     "debt_to_equity": 87.306,
     "revenue": 235055398912,
@@ -16,6 +16,6 @@
     "eps": 22.75,
     "52_week_high": 947.0,
     "52_week_low": 466.0,
-    "dividend_yield": 1.13
+    "dividend_yield": 1.09
   }
 }

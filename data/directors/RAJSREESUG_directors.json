@@ -1,6 +1,63 @@
 {
   "ticker": "RAJSREESUG",
   "company": "Rajshree Sugars & Chemicals Limited",
-  "collected_at": "2026-06-12 06:36:36",
-  "directors": []
+  "collected_at": "2026-06-13 06:25:34",
+  "directors": [
+    {
+      "name": "Mr. R.  Varadarajan",
+      "role": "Whole Time Director",
+      "age": 67,
+      "year_born": 1958,
+      "total_pay": 13068000
+    },
+    {
+      "name": "Mr. G.  Sathiyamoorthi",
+      "role": "President & Head Operations",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. C. S. Sathiyanarayanan",
+      "role": "Chief Financial Officer",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. R. K. Narayan",
+      "role": "Senior Vice President of Sales & Marketing",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mohan Kumar N.",
+      "role": "Vice President of Operations",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. M.  Ponraj",
+      "role": "Compliance Officer & Company Secretary",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. M. Thanga Thiruppathi",
+      "role": "General Manager of Industrial Relations",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. M.  Sathiyaveni",
+      "role": "General Manager of Purchase & Civil",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": "N/A"
+    }
+  ]
 }

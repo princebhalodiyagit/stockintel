@@ -1,6 +1,77 @@
 {
   "ticker": "VASCONEQ",
   "company": "Vascon Engineers Limited",
-  "collected_at": "2026-06-12 06:45:08",
-  "directors": []
+  "collected_at": "2026-06-13 06:35:33",
+  "directors": [
+    {
+      "name": "Dr. Santosh  Sundararajan",
+      "role": "Group CEO & Whole Time Director",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": 43878000
+    },
+    {
+      "name": "Mr. Somnath B. Biswas",
+      "role": "President of Finance & Accounts and CFO",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": 8072000
+    },
+    {
+      "name": "Ms. Neelam Piyush Pipada",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 1773000
+    },
+    {
+      "name": "Mr. Siddharth Vasudevan Moorthy",
+      "role": "MD & Executive Director",
+      "age": 39,
+      "year_born": 1986,
+      "total_pay": 67253000
+    },
+    {
+      "name": "Santosh Mahadeo Pawar",
+      "role": "Vice President of Technical Service",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Rathika  Kariappa",
+      "role": "Assistant Vice President of Human Resource & Administration",
+      "age": 44,
+      "year_born": 1981,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Anjali  Sumant",
+      "role": "Vice President of Sales & Marketing",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Sanjay  Muttepawar",
+      "role": "Director of Projects",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Tanaji  Atole",
+      "role": "Director of Projects",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Vivekanand  Botre",
+      "role": "Director of Projects",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": "N/A"
+    }
+  ]
 }

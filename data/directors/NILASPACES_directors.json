@@ -1,6 +1,56 @@
 {
   "ticker": "NILASPACES",
   "company": "Nila Spaces Limited",
-  "collected_at": "2026-06-12 06:33:06",
-  "directors": []
+  "collected_at": "2026-06-13 06:21:26",
+  "directors": [
+    {
+      "name": "Mr. Deep Shaileshbhai Vadodaria",
+      "role": "MD & Chairman",
+      "age": 39,
+      "year_born": 1986,
+      "total_pay": 12000
+    },
+    {
+      "name": "Mr. Prashant Himatbhai Sarkhedi",
+      "role": "Director of Finance, CFO & Whole Time Director",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Mansi  Nirmal",
+      "role": "Manager of Accounts & Finance",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Gopi Vijaybhai Dave",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Prakash R. Patel",
+      "role": "Assistant Manager of Sales & Marketing",
+      "age": 43,
+      "year_born": 1982,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Nisarg  Thakkar",
+      "role": "Senior Sales Development Representative",
+      "age": 28,
+      "year_born": 1997,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ritesh  Parikh",
+      "role": "Projects Head",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": "N/A"
+    }
+  ]
 }

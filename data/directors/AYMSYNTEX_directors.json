@@ -1,6 +1,77 @@
 {
   "ticker": "AYMSYNTEX",
   "company": "AYM Syntex Limited",
-  "collected_at": "2026-06-12 06:14:12",
-  "directors": []
+  "collected_at": "2026-06-13 05:59:11",
+  "directors": [
+    {
+      "name": "Mr. Abhishek R. Mandawewala",
+      "role": "CEO, MD & Whole-Time Director",
+      "age": 38,
+      "year_born": 1987,
+      "total_pay": 25892739
+    },
+    {
+      "name": "Ms. Khushboo A. Mandawewala",
+      "role": "CHRO, Head of HR, CSR & Corporate Communication and Whole time Director",
+      "age": 38,
+      "year_born": 1987,
+      "total_pay": 3521300
+    },
+    {
+      "name": "Mr. Vineet  Adlakha",
+      "role": "President & Unit Head of Palghar",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Abhishek  Patwa",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sachin  Kulkarni",
+      "role": "Chief Operating Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kaushal Rajnikant Patvi",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sanjay  Sharma",
+      "role": "Senior Vice President \u0096 Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rahul  Pareek",
+      "role": "Business Head of BCF",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Saha Alam Mondal",
+      "role": "Senior Vice President",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pankaj  Narula",
+      "role": "Business Head of Dyed Yarn",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    }
+  ]
 }

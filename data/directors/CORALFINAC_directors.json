@@ -1,6 +1,28 @@
 {
   "ticker": "CORALFINAC",
   "company": "Coral India Finance & Housing Limited",
-  "collected_at": "2026-06-12 06:17:41",
-  "directors": []
+  "collected_at": "2026-06-13 06:03:18",
+  "directors": [
+    {
+      "name": "Mr. Navinchandra Bachubhai Doshi",
+      "role": "Chairman & MD",
+      "age": 82,
+      "year_born": 1943,
+      "total_pay": 4800000
+    },
+    {
+      "name": "Mr. Kishor Ravindraray Mehta",
+      "role": "CFO & Whole-time Director",
+      "age": 74,
+      "year_born": 1951,
+      "total_pay": 1500000
+    },
+    {
+      "name": "Ms. Riya Ritin Shah",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

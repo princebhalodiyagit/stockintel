@@ -1,6 +1,42 @@
 {
   "ticker": "NITCO",
   "company": "Nitco Limited",
-  "collected_at": "2026-06-12 06:33:13",
-  "directors": []
+  "collected_at": "2026-06-13 06:21:34",
+  "directors": [
+    {
+      "name": "Mr. Vivek Prannath Talwar",
+      "role": "Chairman & MD",
+      "age": 69,
+      "year_born": 1956,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Diviyang  Chheda",
+      "role": "President of Operations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 13672000
+    },
+    {
+      "name": "Mr. Kamal  Abrol",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Rupali Swami Kambli",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Subrata  Basu",
+      "role": "Vice President of Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

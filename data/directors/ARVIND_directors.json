@@ -1,6 +1,77 @@
 {
   "ticker": "ARVIND",
   "company": "Arvind Limited",
-  "collected_at": "2026-06-12 06:13:10",
-  "directors": []
+  "collected_at": "2026-06-13 05:57:58",
+  "directors": [
+    {
+      "name": "Mr. Sanjaybhai Shrenikbhai Lalbhai",
+      "role": "Chairman & MD",
+      "age": 71,
+      "year_born": 1954,
+      "total_pay": 83700000
+    },
+    {
+      "name": "Mr. Punit Sanjaybhai Lalbhai",
+      "role": "Vice Chairman and Executive Director",
+      "age": 43,
+      "year_born": 1982,
+      "total_pay": 59400000
+    },
+    {
+      "name": "Mr. Kulin Sanjaybhai Lalbhai",
+      "role": "Vice Chairman and Executive Director",
+      "age": 40,
+      "year_born": 1985,
+      "total_pay": 59400000
+    },
+    {
+      "name": "Mr. Jayesh Kantilal Shah",
+      "role": "Group CFO & Whole Time Director",
+      "age": 65,
+      "year_born": 1960,
+      "total_pay": 45200000
+    },
+    {
+      "name": "Mr. Nigam Gautambhai Shah",
+      "role": "Chief Financial Officer",
+      "age": 43,
+      "year_born": 1982,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Satya Prakash Mishra",
+      "role": "Head of Investor Relations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pritesh  Shah",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Yatin  Padia",
+      "role": "Head of Corporate Communications",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Tushar  Nerkar",
+      "role": "Chief Marketing Manager",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Rachna  Mehra",
+      "role": "Chief Human Resource Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

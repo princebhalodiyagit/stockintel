@@ -1,6 +1,63 @@
 {
   "ticker": "SHIVATEX",
   "company": "Shiva Texyarn Limited",
-  "collected_at": "2026-06-12 06:39:41",
-  "directors": []
+  "collected_at": "2026-06-13 06:29:13",
+  "directors": [
+    {
+      "name": "Dr. Sangampalayam Kandasami Sundararaman MBA",
+      "role": "Executive Director & MD",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": 9195674
+    },
+    {
+      "name": "Mr. C.  Krishnakumar",
+      "role": "Chief Financial Officer",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. R.  Srinivasan",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "M  Gopalakrishnan",
+      "role": "Chief Operating Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. K.  Venurajagopal",
+      "role": "General Manager of Human Resources & Administration",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajesh Kumar Singh",
+      "role": "Head of Modern Trade Sales",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "G K Raman",
+      "role": "President of Strategic Affairs",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. P.  Ravinkumar",
+      "role": "Deputy General Manager of Production",
+      "age": 39,
+      "year_born": 1986,
+      "total_pay": "N/A"
+    }
+  ]
 }

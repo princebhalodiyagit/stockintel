@@ -1,6 +1,77 @@
 {
   "ticker": "MUNJALSHOW",
   "company": "Munjal Showa Limited",
-  "collected_at": "2026-06-12 06:32:06",
-  "directors": []
+  "collected_at": "2026-06-13 06:20:14",
+  "directors": [
+    {
+      "name": "Mr. Yogesh Chander Munjal",
+      "role": "Chairman & MD",
+      "age": 85,
+      "year_born": 1940,
+      "total_pay": 67792498
+    },
+    {
+      "name": "Mr. Hitoshi  Fukagawa",
+      "role": "Joint MD & Executive Director",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": 15475682
+    },
+    {
+      "name": "Mr. Pankaj B. Gupta",
+      "role": "VP & CFO",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Avi  Munjal",
+      "role": "Senior Vice President of Business Development Department",
+      "age": 29,
+      "year_born": 1996,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Amit  Aggarwal",
+      "role": "VP of Management Department & Plant Head",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Abhay  Khare",
+      "role": "Vice President",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Prahlad Kumar Godara",
+      "role": "Vice President of P & A",
+      "age": 66,
+      "year_born": 1959,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ravinder  Sharma",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Masashi  Nitta",
+      "role": "Technical Advisor",
+      "age": 41,
+      "year_born": 1984,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ashish  Rikhie",
+      "role": "General Manager",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
+    }
+  ]
 }

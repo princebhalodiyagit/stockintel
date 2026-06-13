@@ -1,6 +1,77 @@
 {
   "ticker": "WIPRO",
   "company": "Wipro Limited",
-  "collected_at": "2026-06-12 06:46:28",
-  "directors": []
+  "collected_at": "2026-06-13 06:37:02",
+  "directors": [
+    {
+      "name": "Mr. Rishad Azim Hasham Premji Jr.",
+      "role": "Executive Chairman",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": 74041272
+    },
+    {
+      "name": "Mr. Srinivas  Pallia",
+      "role": "CEO, MD, Executive Director & Member of Executive Board",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": 506613808
+    },
+    {
+      "name": "Ms. Aparna C. Iyer",
+      "role": "Senior VP, CFO & Member of Executive Board",
+      "age": 43,
+      "year_born": 1982,
+      "total_pay": 68730154
+    },
+    {
+      "name": "Mr. Saurabh  Govil",
+      "role": "Chief Human Resources Officer & Executive Board Member",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Nagendra P. Bandaru",
+      "role": "CEO of AI-Native Business & Platforms Unit and Executive Board Member",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jasjit Singh Kang",
+      "role": "Managing Partner, Global Head of Business Process Services & Member of Executive Board",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Malay  Joshi",
+      "role": "CEO for Americas 1 Strategic Market Unit & Member of Executive Board",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sanjeev  Jain",
+      "role": "Chief Operating Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Omkar Bhalchandra Nisal",
+      "role": "CEO of Europe Strategic Market Unit & Member of Executive Board",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Amit  Kumar",
+      "role": "Managing Partner & Global Head of Wipro Consulting & Member of Executive Board",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

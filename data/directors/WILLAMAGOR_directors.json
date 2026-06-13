@@ -1,6 +1,21 @@
 {
   "ticker": "WILLAMAGOR",
   "company": "Williamson Magor & Company Limited",
-  "collected_at": "2026-06-12 06:46:23",
-  "directors": []
+  "collected_at": "2026-06-13 06:36:56",
+  "directors": [
+    {
+      "name": "Mr. Sudipta  Chakraborty",
+      "role": "Manager & CFO",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sk. Javed Akhtar",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": "N/A"
+    }
+  ]
 }

@@ -1,6 +1,77 @@
 {
   "ticker": "PML",
   "company": "Paul Merchants Limited",
-  "collected_at": "2026-06-12 06:35:19",
-  "directors": []
+  "collected_at": "2026-06-13 06:24:01",
+  "directors": [
+    {
+      "name": "Mr. Rajneesh  Bansal",
+      "role": "MD & Executive Director",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": 33300000
+    },
+    {
+      "name": "Ms. Sakshi  Mittal C.A.",
+      "role": "Chief Financial Officer",
+      "age": 36,
+      "year_born": 1989,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Hardam  Singh",
+      "role": "Legal Head, Compliance Officer & Company Secretary",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ritesh  Vaid",
+      "role": "Business Head & Whole Time Director",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": 3147072
+    },
+    {
+      "name": "Ravi  Barua",
+      "role": "Senior Vice President of Travel",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vikas K. Sharma",
+      "role": "Assistant General Manager of Administration & Risk Management",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Nitin  Sharma",
+      "role": "Assistant General Manager \u0096HR",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Dharam Pal Sharma",
+      "role": "Chief Compliance Officer",
+      "age": 71,
+      "year_born": 1954,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Harendar  Prashar",
+      "role": "Country Head",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Manu  Garg",
+      "role": "Senior Vice President of Partnership & Alliances",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    }
+  ]
 }

@@ -1,6 +1,77 @@
 {
   "ticker": "WHIRLPOOL",
   "company": "Whirlpool of India Limited",
-  "collected_at": "2026-06-12 06:46:22",
-  "directors": []
+  "collected_at": "2026-06-13 06:36:55",
+  "directors": [
+    {
+      "name": "Mr. Narasimhan  Eswar",
+      "role": "MD & Executive Director",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": 126830000
+    },
+    {
+      "name": "Mr. Anuj  Lal",
+      "role": "Executive Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 16941660
+    },
+    {
+      "name": "Mr. Aditya  Jain",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Prafulla  Kandpal",
+      "role": "Head of Accounting",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Sweta  Srivastava",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ankur  Jolly",
+      "role": "Head of Legal",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kumar Gaurav Singh",
+      "role": "Head of Sales",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Nakul  Tewari",
+      "role": "Head of Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Debopriyo  Sengupta",
+      "role": "Head of Human Resources",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vikas  Singhal",
+      "role": "Head of Product Delivery",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": 17692832
+    }
+  ]
 }

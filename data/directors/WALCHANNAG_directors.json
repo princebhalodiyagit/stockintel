@@ -1,6 +1,70 @@
 {
   "ticker": "WALCHANNAG",
   "company": "Walchandnagar Industries Limited",
-  "collected_at": "2026-06-12 06:46:05",
-  "directors": []
+  "collected_at": "2026-06-13 06:36:36",
+  "directors": [
+    {
+      "name": "Mr. Chirag Chakor Doshi",
+      "role": "MD, CEO & Director",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": 12729000
+    },
+    {
+      "name": "Mr. Giriraj Sharan Agrawal",
+      "role": "VP of Legal & Taxation, Compliance Officer, Whole-Time Director and Company Secretary",
+      "age": 66,
+      "year_born": 1959,
+      "total_pay": 6058000
+    },
+    {
+      "name": "Mr. Nishant P. Saigal",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. V. D. Vaingankar",
+      "role": "President of Manufacturing Technology",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. S. R. Deshmukh",
+      "role": "Chief Information Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ghananeel  Kelkar",
+      "role": "Chief Human Resource Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajan V. V.",
+      "role": "President of Manufacturing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jagat  Parikh",
+      "role": "President of Strategy & Growth",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kaustubh  Gandhalikar",
+      "role": "Chief Internal Auditor",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

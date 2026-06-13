@@ -1,6 +1,49 @@
 {
   "ticker": "THANGAMAYL",
   "company": "Thangamayil Jewellery Limited",
-  "collected_at": "2026-06-12 06:43:18",
-  "directors": []
+  "collected_at": "2026-06-13 06:33:26",
+  "directors": [
+    {
+      "name": "Mr. Balarama Govinda Das",
+      "role": "Founder, Executive Chairman & MD",
+      "age": 68,
+      "year_born": 1957,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Balusamy Ramesh Darmini",
+      "role": "Founder, Joint MD & Whole Time Executive Director",
+      "age": 65,
+      "year_born": 1960,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Narayanan Balusamy Kumar",
+      "role": "Joint MD & Whole-Time Executive Director",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. B.  Rajesh Kanna",
+      "role": "Chief Financial Officer",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. CS K. Narayanan",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Balasubbu  Prasannan",
+      "role": "General Manager of Marketing",
+      "age": 41,
+      "year_born": 1984,
+      "total_pay": "N/A"
+    }
+  ]
 }

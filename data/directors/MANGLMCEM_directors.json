@@ -1,6 +1,42 @@
 {
   "ticker": "MANGLMCEM",
   "company": "Mangalam Cement Limited",
-  "collected_at": "2026-06-12 06:30:22",
-  "directors": []
+  "collected_at": "2026-06-13 06:18:10",
+  "directors": [
+    {
+      "name": "Anshuman Vikram Jalan",
+      "role": "Chairman & Whole Time Director",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": 46984598
+    },
+    {
+      "name": "Yaswant  Mishra",
+      "role": "President of Corporate, CFO & Executive Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 24551038
+    },
+    {
+      "name": "Mr. Pankaj  Kumar",
+      "role": "Joint President (Operations)",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Pawan Kumar Thakur",
+      "role": "Company Secretary, GM of Legal & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Kaushlesh  Maheshwari",
+      "role": "President of Sales & Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

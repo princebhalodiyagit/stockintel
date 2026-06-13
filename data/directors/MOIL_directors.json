@@ -1,6 +1,77 @@
 {
   "ticker": "MOIL",
   "company": "MOIL Limited",
-  "collected_at": "2026-06-12 06:31:37",
-  "directors": []
+  "collected_at": "2026-06-13 06:19:39",
+  "directors": [
+    {
+      "name": "Mr. Rakesh  Tumane",
+      "role": "Director of Finance, CFO & Director",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": 9959000
+    },
+    {
+      "name": "Mr. Neeraj Dutt Pandey",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": 4610000
+    },
+    {
+      "name": "Ms. Usha  Singh",
+      "role": "Director of Human Resources & Executive Director",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": 9874000
+    },
+    {
+      "name": "Mr. Mirza Mohamtnad Abdulla",
+      "role": "Director of Production & Planning and Director",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": 7565000
+    },
+    {
+      "name": "Ms. Rashmi  Singh",
+      "role": "Director of Commercial & Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 9604000
+    },
+    {
+      "name": "Mr. Vishwanath  Suresh",
+      "role": "Chairman & MD",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kishor  Chandrakar",
+      "role": "Executive Director of Technical",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Preeti A. Joshi",
+      "role": "Deputy General Manager of Legal",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. R. P. Patil",
+      "role": "General Manager of Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. B.D.  Gajghate",
+      "role": "Chief Vigilance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

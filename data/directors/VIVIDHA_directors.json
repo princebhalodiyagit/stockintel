@@ -1,6 +1,49 @@
 {
   "ticker": "VIVIDHA",
   "company": "Visagar Polytex Limited",
-  "collected_at": "2026-06-12 06:45:42",
-  "directors": []
+  "collected_at": "2026-06-13 06:36:12",
+  "directors": [
+    {
+      "name": "Mr. Tilokchand Manaklal Kothari",
+      "role": "MD & Chairman",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sachin Chandrakant Mehta",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Neelam  Raj",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vikramjit Singh Gill",
+      "role": "Executive Director",
+      "age": 34,
+      "year_born": 1991,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Murlidhar  Sharma",
+      "role": "General Manager of Operations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Promod  Swami",
+      "role": "General Manager of Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

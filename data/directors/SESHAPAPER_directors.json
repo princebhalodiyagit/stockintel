@@ -1,6 +1,42 @@
 {
   "ticker": "SESHAPAPER",
   "company": "Seshasayee Paper and Boards Limited",
-  "collected_at": "2026-06-12 06:39:13",
-  "directors": []
+  "collected_at": "2026-06-13 06:28:40",
+  "directors": [
+    {
+      "name": "Mr. Natarajan  Gopalaratnam (Physics), B.Sc., BE(MechEngg)",
+      "role": "Executive Chairman",
+      "age": 78,
+      "year_born": 1947,
+      "total_pay": 32000000
+    },
+    {
+      "name": "Mr. Ganesh Balakrishna Bhadti",
+      "role": "President, Executive Director of Operations and Projects & Whole Time Director",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": 17400000
+    },
+    {
+      "name": "Mr. S.  Srinivas",
+      "role": "Director of Finance, Secretary, Compliance Officer, Senior VP & Whole-Time Director",
+      "age": 43,
+      "year_born": 1982,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. C.  Balasubramanian",
+      "role": "Senior Vice President of Business Development",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. A.  Alagarsamy",
+      "role": "General Manager of HR & Administration - Erode Unit",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

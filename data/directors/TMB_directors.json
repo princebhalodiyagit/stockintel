@@ -1,6 +1,77 @@
 {
   "ticker": "TMB",
   "company": "Tamilnad Mercantile Bank Limited",
-  "collected_at": "2026-06-12 06:43:43",
-  "directors": []
+  "collected_at": "2026-06-13 06:33:55",
+  "directors": [
+    {
+      "name": "Mr. Salee Sukumaran Nair",
+      "role": "CEO, MD & Director",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": 7795148
+    },
+    {
+      "name": "Mr. Vincent Menachery Devassy B.Com., CAIIB, L.L.B.",
+      "role": "Whole Time Executive Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 5629943
+    },
+    {
+      "name": "Mr. Sanjoy Kumar Goel",
+      "role": "Executive VP & CFO",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. P. R. Ashok Kumar",
+      "role": "Executive Vice President & Country Head Branch Banking",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. J. Sundaresh Kumar",
+      "role": "Executive VP & Chief Compliance Officer",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. K.  Vijayan",
+      "role": "EVP of Credit Dept, KYC / AML Cell, Recovery Dept & Legal Dept and CQC Off",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. D.  Ramesh",
+      "role": "Executive VP and GM of HRD Department, Public Relations & Corporate Communications",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Laxman Karkala Kudva",
+      "role": "Executive VP of Chief Risk Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. S.  Ilangovan",
+      "role": "Executive VP & Head of Internal Audit",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Arvind  Kanagasabai",
+      "role": "Executive Vice President of Head of Integrated Treasury",
+      "age": 64,
+      "year_born": 1961,
+      "total_pay": "N/A"
+    }
+  ]
 }

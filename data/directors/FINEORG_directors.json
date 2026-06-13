@@ -1,6 +1,56 @@
 {
   "ticker": "FINEORG",
   "company": "Fine Organic Industries Limited",
-  "collected_at": "2026-06-12 06:20:58",
-  "directors": []
+  "collected_at": "2026-06-13 06:07:08",
+  "directors": [
+    {
+      "name": "Mr. Mukesh Maganlal Shah",
+      "role": "Chairman & Whole Time Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 58600000
+    },
+    {
+      "name": "Mr. Tushar Ramesh Shah",
+      "role": "CEO & Whole Time Director",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": 58600000
+    },
+    {
+      "name": "Mr. Nikhil Dattatray Kamat",
+      "role": "Senior VP of Operation & Whole Time Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 19600000
+    },
+    {
+      "name": "Mr. Bimal Mukesh Shah",
+      "role": "Executive Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 58600000
+    },
+    {
+      "name": "Mr. Jayen Ramesh Shah",
+      "role": "MD & Director",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": 58600000
+    },
+    {
+      "name": "Ms. Sonali  Bhadani",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Pooja Bhavesh Lohor",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 1327000
+    }
+  ]
 }

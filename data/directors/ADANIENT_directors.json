@@ -1,6 +1,77 @@
 {
   "ticker": "ADANIENT",
   "company": "Adani Enterprises Limited",
-  "collected_at": "2026-06-12 06:11:06",
-  "directors": []
+  "collected_at": "2026-06-13 05:55:33",
+  "directors": [
+    {
+      "name": "Mr. Gautambhai Shantilal Adani S.Y. B.Com",
+      "role": "Executive Chairman",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": 113700000
+    },
+    {
+      "name": "Mr. Rajeshbhai Shantilal Adani B.Com.",
+      "role": "MD & Director",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": 119900000
+    },
+    {
+      "name": "Dr. Vinay Prakash Goel",
+      "role": "CEO of Natural Resources & Executive Director",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": 483600000
+    },
+    {
+      "name": "Mr. Aman Kumar Singh",
+      "role": "President, Head of Strategy & Chairman's Office",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jugeshinder  Singh",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 101100000
+    },
+    {
+      "name": "Mr. Jatinkumar Rameshchandra Jalundhwala B.Com LLB FCS",
+      "role": "Joint President of Legal, Compliance Officer & Company Secretary",
+      "age": 65,
+      "year_born": 1960,
+      "total_pay": 54800000
+    },
+    {
+      "name": "Dr. Malay Rameshchandra Mahadevia",
+      "role": "Group Director of HR",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vneet S. Jaain",
+      "role": "MD of Adani Green Energy Ltd",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sudipta  Bhattacharya",
+      "role": "Chief Transformation Officer",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Karan Gautam Adani",
+      "role": "MD of Adani Ports & SEZ Ltd.",
+      "age": 38,
+      "year_born": 1987,
+      "total_pay": "N/A"
+    }
+  ]
 }

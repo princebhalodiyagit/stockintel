@@ -1,6 +1,77 @@
 {
   "ticker": "BLUEJET",
   "company": "Blue Jet Healthcare Limited",
-  "collected_at": "2026-06-12 06:15:47",
-  "directors": []
+  "collected_at": "2026-06-13 06:01:06",
+  "directors": [
+    {
+      "name": "Mr. Akshay Bansarilal Arora",
+      "role": "Executive Chairman",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": 36000000
+    },
+    {
+      "name": "Mr. Shiven Akshay Arora",
+      "role": "MD & Director",
+      "age": 32,
+      "year_born": 1993,
+      "total_pay": 52200000
+    },
+    {
+      "name": "Mr. Naresh Suryakant Shah",
+      "role": "Executive Director",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": 40000000
+    },
+    {
+      "name": "Mr. Popat Bhagwan Kedar",
+      "role": "Whole-Time Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 1534280
+    },
+    {
+      "name": "Mr. Ganesh  Karuppannan",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vimalendu Kumar Singh",
+      "role": "Chief Operating Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Sweta  Poddar",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Archana Akshay Arora",
+      "role": "Head of Business Development",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Chandrashekar  Parenky",
+      "role": "President of Research & Development",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Payal  Gandhi",
+      "role": "Chief Business Strategy Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

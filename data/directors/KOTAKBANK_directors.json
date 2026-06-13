@@ -1,6 +1,77 @@
 {
   "ticker": "KOTAKBANK",
   "company": "Kotak Mahindra Bank Limited",
-  "collected_at": "2026-06-12 06:28:32",
-  "directors": []
+  "collected_at": "2026-06-13 06:15:59",
+  "directors": [
+    {
+      "name": "Mr. Ashok Valiram Vaswani",
+      "role": "MD, CEO & Director",
+      "age": 65,
+      "year_born": 1960,
+      "total_pay": 129529000
+    },
+    {
+      "name": "Mr. Jaideep  Hansraj",
+      "role": "Whole-Time Director",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": 4935000
+    },
+    {
+      "name": "Mr. Devang C. Gheewalla",
+      "role": "Group Chief Financial Officer",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Nilesh  Chaudhari",
+      "role": "Chief Technology Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. R. Anantha Raman",
+      "role": "Chief Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Somanahalli  Honnesh",
+      "role": "President & Group General Counsel",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Prasanna  Kotian",
+      "role": "Head of Group Corporate Communication",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Rohit  Bhasin",
+      "role": "President of Propositions & Chief Marketing Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anupam  Kaura",
+      "role": "President & Chief Human Resources Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rohit  Rao",
+      "role": "Joint President & Group Chief CSR Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

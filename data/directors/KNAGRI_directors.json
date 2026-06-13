@@ -1,6 +1,35 @@
 {
   "ticker": "KNAGRI",
   "company": "KN Agri Resources Limited",
-  "collected_at": "2026-06-12 06:28:26",
-  "directors": []
+  "collected_at": "2026-06-13 06:15:52",
+  "directors": [
+    {
+      "name": "Mr. Vijay  Shrishrimal",
+      "role": "Managing Director",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": 12000000
+    },
+    {
+      "name": "Mr. Dhirendra  Shrishrimal",
+      "role": "CFO & Whole Time Director",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": 12000000
+    },
+    {
+      "name": "Mr. Sanjay  Shrishrimal",
+      "role": "Whole Time Director",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": 12000000
+    },
+    {
+      "name": "Ms. Neelam  Wadhwani",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

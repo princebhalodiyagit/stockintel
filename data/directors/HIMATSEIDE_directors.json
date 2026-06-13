@@ -1,6 +1,77 @@
 {
   "ticker": "HIMATSEIDE",
   "company": "Himatsingka Seide Limited",
-  "collected_at": "2026-06-12 06:24:08",
-  "directors": []
+  "collected_at": "2026-06-13 06:10:50",
+  "directors": [
+    {
+      "name": "Dr. Dinesh Kumar Himatsingka",
+      "role": "Founder & Executive Chairman",
+      "age": 76,
+      "year_born": 1949,
+      "total_pay": 43081000
+    },
+    {
+      "name": "Mr. Shrikant  Himatsingka",
+      "role": "Executive Vice Chairman & MD",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": 43081000
+    },
+    {
+      "name": "Mr. M.  Sankaranarayanan",
+      "role": "President of Finance & Group CFO",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Bindu  Doraiswamy",
+      "role": "Assistant GM, Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Debasmita  Gupta",
+      "role": "Senior VP of Legal & Group General Counsel",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Maria  Alapatt",
+      "role": "Senior Vice President of Design & Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Major General Kumud  Kumar",
+      "role": "President of HR & Group CHRO",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Brian  Delpit",
+      "role": "President of Sales & Global Licensing - North America",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Hemant  Khandelwal",
+      "role": "President of Group Manufacturing Operations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Gaurav  Sharma",
+      "role": "President and Business Head of Apparel & Fabric Solutions",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

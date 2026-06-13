@@ -1,6 +1,49 @@
 {
   "ticker": "PRUDENT",
   "company": "Prudent Corporate Advisory Services Limited",
-  "collected_at": "2026-06-12 06:36:05",
-  "directors": []
+  "collected_at": "2026-06-13 06:24:57",
+  "directors": [
+    {
+      "name": "Mr. Sanjay Rameshchandra Shah",
+      "role": "Founder, Chairman & MD",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": 24816000
+    },
+    {
+      "name": "Mr. Shirish Govindbhai Patel",
+      "role": "CEO & Whole-time Director",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": 103305000
+    },
+    {
+      "name": "Mr. Chiragkumar Bansilal Kothari",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 3968000
+    },
+    {
+      "name": "Parth  Parekh",
+      "role": "Head of Investor Relations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kunal Amrishbhai Chauhan C.S.",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 148000
+    },
+    {
+      "name": "Nihal  Shah",
+      "role": "Fundamental Research Analyst",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

@@ -1,6 +1,28 @@
 {
   "ticker": "EIHAHOTELS",
   "company": "EIH Associated Hotels Limited",
-  "collected_at": "2026-06-12 06:19:47",
-  "directors": []
+  "collected_at": "2026-06-13 06:05:46",
+  "directors": [
+    {
+      "name": "Mr. Vikramjit Singh Oberoi",
+      "role": "MD & Executive Director",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": 600000
+    },
+    {
+      "name": "Mr. Samidh  Das",
+      "role": "Chief Risk Officer, Senior VP & CFO",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": 11620000
+    },
+    {
+      "name": "Mr. Tejasvi  Dixit",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 3860000
+    }
+  ]
 }

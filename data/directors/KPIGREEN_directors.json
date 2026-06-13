@@ -1,6 +1,56 @@
 {
   "ticker": "KPIGREEN",
   "company": "KPI Green Energy Limited",
-  "collected_at": "2026-06-12 06:28:40",
-  "directors": []
+  "collected_at": "2026-06-13 06:16:09",
+  "directors": [
+    {
+      "name": "Dr. Farukbhai Gulambhai Patel",
+      "role": "Chairman & MD",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Salim Suleman Yahoo",
+      "role": "Chief Financial Officer",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mohmed Sohil Yusufbhai Dabhoya",
+      "role": "Whole Time Director",
+      "age": 42,
+      "year_born": 1983,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Alok  Das",
+      "role": "Group Chief Executive Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Surinder Kumar Negi",
+      "role": "Chief Operating Officer",
+      "age": 67,
+      "year_born": 1958,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Krunal Devendrak Umar Bhatt",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rafik  Burma",
+      "role": "Project Head",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

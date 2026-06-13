@@ -1,6 +1,49 @@
 {
   "ticker": "RAMANEWS",
   "company": "Shree Rama Newsprint Limited",
-  "collected_at": "2026-06-12 06:36:39",
-  "directors": []
+  "collected_at": "2026-06-13 06:25:37",
+  "directors": [
+    {
+      "name": "Mr. Siddharth Ganpatraj Chowdhary",
+      "role": "Whole Time Executive Director",
+      "age": 41,
+      "year_born": 1984,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mukeshkumar  Samdaria",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Shyam Sunder Adak",
+      "role": "Assistant Vice President of Technical",
+      "age": 73,
+      "year_born": 1952,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Shubham  Ajmera",
+      "role": "Company Secretary & Compliance officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Shashi Kanth Jain",
+      "role": "General Manager of Sales & Marketing",
+      "age": 66,
+      "year_born": 1959,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. C. S. Venugopal",
+      "role": "General Manager of Corporate Development",
+      "age": 81,
+      "year_born": 1944,
+      "total_pay": "N/A"
+    }
+  ]
 }

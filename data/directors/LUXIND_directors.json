@@ -1,6 +1,77 @@
 {
   "ticker": "LUXIND",
   "company": "Lux Industries Limited",
-  "collected_at": "2026-06-12 06:29:51",
-  "directors": []
+  "collected_at": "2026-06-13 06:17:31",
+  "directors": [
+    {
+      "name": "Mr. Ashok Kumar Todi",
+      "role": "Executive Non-Independent Chairman",
+      "age": 67,
+      "year_born": 1958,
+      "total_pay": 45000000
+    },
+    {
+      "name": "Mr. Pradip Kumar Todi M.D.",
+      "role": "MD & Executive Non-Independent Director",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": 45000000
+    },
+    {
+      "name": "Mr. Ajay  Nagar",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Smita  Mishra",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 2800000
+    },
+    {
+      "name": "Mr. Saket  Todi",
+      "role": "President of Marketing & Executive Non-Independent Director",
+      "age": 36,
+      "year_born": 1989,
+      "total_pay": 18000000
+    },
+    {
+      "name": "Mr. Sanjay  Mittal",
+      "role": "Vice President of Sales",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Navin Kumar Todi",
+      "role": "Executive Non-Independent Director",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": 18000000
+    },
+    {
+      "name": "Mr. Udit  Todi",
+      "role": "President of Strategy & Executive Non-Independent Director",
+      "age": 36,
+      "year_born": 1989,
+      "total_pay": 18000000
+    },
+    {
+      "name": "Mr. Rahul Kumar Todi",
+      "role": "Executive Non-Independent Director",
+      "age": 43,
+      "year_born": 1982,
+      "total_pay": 18000000
+    },
+    {
+      "name": "Mr. Jitendra Kumar Shah",
+      "role": "Vice President of Finance",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": "N/A"
+    }
+  ]
 }

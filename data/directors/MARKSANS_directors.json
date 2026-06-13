@@ -1,6 +1,77 @@
 {
   "ticker": "MARKSANS",
   "company": "Marksans Pharma Limited",
-  "collected_at": "2026-06-12 06:30:38",
-  "directors": []
+  "collected_at": "2026-06-13 06:18:28",
+  "directors": [
+    {
+      "name": "Mr. Mark B. Saldanha",
+      "role": "Non-Independent Executive Chairman & MD",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": 63761431
+    },
+    {
+      "name": "Mr. Jitendra M. Sharma",
+      "role": "Group Chief Financial Officer",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Harshavardhan  Panigrahi",
+      "role": "Company Secretary, Manager of Legal & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Sandra  Saldanha",
+      "role": "Whole-Time Executive Non Independent Director",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": 7069164
+    },
+    {
+      "name": "Mr. Varddhman Vikramaditya Jain",
+      "role": "Whole-Time Executive Non Independent Director",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": 23984366
+    },
+    {
+      "name": "Mr. Vishal  Bhargava",
+      "role": "Director Operations",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. David  Mohammed",
+      "role": "Managing Director of Australia Operations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sunil K. Rane",
+      "role": "Senior Vice President of QC",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sathish  Kumar",
+      "role": "Managing Director of UK Operations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anjani  Kumar",
+      "role": "Chief Operating Officer of US Operations",
+      "age": 64,
+      "year_born": 1961,
+      "total_pay": "N/A"
+    }
+  ]
 }

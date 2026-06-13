@@ -1,6 +1,63 @@
 {
   "ticker": "SMARTWORKS",
   "company": "Smartworks Coworking Spaces Limited",
-  "collected_at": "2026-06-12 06:40:28",
-  "directors": []
+  "collected_at": "2026-06-13 06:30:08",
+  "directors": [
+    {
+      "name": "Mr. Neetish  Sarda",
+      "role": "Founder, MD & Executive Director",
+      "age": 32,
+      "year_born": 1993,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Harsh  Binani",
+      "role": "Co-Founder & Executive Director",
+      "age": 36,
+      "year_born": 1989,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sahil  Jain",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anirudh  Tapuriah",
+      "role": "Chief of Strategy & Investor Relations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Punam  Dargar",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Kalpana  Devnani",
+      "role": "Chief Human Resources Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pratik Ravindra Agarwal",
+      "role": "Chief Business Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Siddharth  Banerjee",
+      "role": "Group Chief Technology Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

@@ -1,6 +1,77 @@
 {
   "ticker": "HYUNDAI",
   "company": "Hyundai Motor India Limited",
-  "collected_at": "2026-06-12 06:24:40",
-  "directors": []
+  "collected_at": "2026-06-13 06:11:28",
+  "directors": [
+    {
+      "name": "Mr. Tarun  Garg",
+      "role": "CEO, MD & Whole-time Director",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": 54982413
+    },
+    {
+      "name": "Mr. Wangdo  Hur",
+      "role": "CFO, Business Head -Finance & Whole-Time director",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": 45168743
+    },
+    {
+      "name": "Mr. Pradeep  Chugh",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 2630000
+    },
+    {
+      "name": "Mr. Gopalakrishnan Chathapuram Sivaramakrishnan",
+      "role": "Chief Manufacturing Officer & Whole Time Director",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": 32581547
+    },
+    {
+      "name": "Mr. Dong Huwy Park",
+      "role": "COO & Whole- time Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. K. S. Hariharan",
+      "role": "Vertical Head of Investor Relations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Amitabh Lal Das",
+      "role": "Chief Legal Officer & Business Head",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Siddhartha P. Saikia",
+      "role": "Head of Corporate Communications",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Virat  Khullar",
+      "role": "Vertical Head of Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Youngmyung  Park",
+      "role": "Function Head of People Strategy",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

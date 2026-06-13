@@ -1,6 +1,77 @@
 {
   "ticker": "SAGCEM",
   "company": "Sagar Cements Limited",
-  "collected_at": "2026-06-12 06:38:11",
-  "directors": []
+  "collected_at": "2026-06-13 06:27:27",
+  "directors": [
+    {
+      "name": "Dr. Anand Reddy Sammidi M.B.B.S., M.D.",
+      "role": "MD & Executive Director",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": 52500000
+    },
+    {
+      "name": "Mr. Sreekanth Reddy Sammidi B.E. (I & P), M.D.",
+      "role": "Joint MD & Executive Director",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": 47250000
+    },
+    {
+      "name": "Mr. K.  Ganesh",
+      "role": "Group President",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kolluru  Prasad",
+      "role": "Chief Financial Officer",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": 5895500
+    },
+    {
+      "name": "Mr. Sanjay  Singh",
+      "role": "Chief Risk Officer and Asst. VP of Finance & Accounts",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. G.M. Mohan Reddy",
+      "role": "Senior General Manager of General Administration",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. J. Raja Reddy",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajesh  Singh",
+      "role": "Chief Marketing Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. O. Anji Reddy",
+      "role": "Chief Sustainability Officer & Senior VP of Electrical & Instrumentation",
+      "age": 64,
+      "year_born": 1961,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manda Venkata Ramana Murthy",
+      "role": "Senior Vice President of Works & Mattampally",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

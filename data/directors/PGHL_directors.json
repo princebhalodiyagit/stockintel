@@ -1,6 +1,49 @@
 {
   "ticker": "PGHL",
   "company": "Procter & Gamble Health Limited",
-  "collected_at": "2026-06-12 06:34:59",
-  "directors": []
+  "collected_at": "2026-06-13 06:23:38",
+  "directors": [
+    {
+      "name": "Mr. Milind Vasant Thatte M.B.A.",
+      "role": "MD & Executive Director",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Zeal Bhavin Rupani",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Shashank  Srowthy",
+      "role": "CFO & Executive Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vishal  Naik",
+      "role": "Director of Sales, Distributor Operations & Sales Stewardship Leader",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Sanika  Gokhale",
+      "role": "Human Resource Leader",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Prachi  Vichare",
+      "role": "Assistant Company Secretary",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

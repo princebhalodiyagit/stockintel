@@ -1,6 +1,77 @@
 {
   "ticker": "VPRPL",
   "company": "Vishnu Prakash R Punglia Limited",
-  "collected_at": "2026-06-12 06:45:51",
-  "directors": []
+  "collected_at": "2026-06-13 06:36:22",
+  "directors": [
+    {
+      "name": "Mr. Vishnu Prakash Punglia",
+      "role": "Executive Chairman",
+      "age": 69,
+      "year_born": 1956,
+      "total_pay": 10400000
+    },
+    {
+      "name": "Mr. Sanjay Kumar Punglia",
+      "role": "CEO & Whole-Time Director",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": 8450000
+    },
+    {
+      "name": "Mr. Sarfaraz  Ahmed",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manohar Lal Punglia",
+      "role": "MD & Executive Director",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": 10400000
+    },
+    {
+      "name": "Mr. Ajay  Pungalia",
+      "role": "Whole-Time Director",
+      "age": 41,
+      "year_born": 1984,
+      "total_pay": 8450000
+    },
+    {
+      "name": "Mr. Kamal Kishor Pungalia",
+      "role": "Whole-Time Director",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": 8450000
+    },
+    {
+      "name": "Ms. Nitisha  Jain",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vijay  Punglia",
+      "role": "Regional Head of Madhya Pradesh, Gujarat, Daman & Maharashtra",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anil  Punglia",
+      "role": "Regional Head of Rajasthan- West",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vikas  Birla",
+      "role": "Project Head of Uttar Pradesh",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

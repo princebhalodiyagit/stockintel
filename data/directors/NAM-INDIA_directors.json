@@ -1,6 +1,77 @@
 {
   "ticker": "NAM-INDIA",
   "company": "Nippon Life India Asset Management Limited",
-  "collected_at": "2026-06-12 06:32:18",
-  "directors": []
+  "collected_at": "2026-06-13 06:20:28",
+  "directors": [
+    {
+      "name": "Mr. Sundeep  Sikka M.B.A.",
+      "role": "MD, CEO & Executive Nominee Director",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": 287000000
+    },
+    {
+      "name": "Mr. Sailesh Raj Bhan CFA",
+      "role": "President & Chief Investment Officer of Equity Investments",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Saugata  Chatterjee",
+      "role": "Deputy CEO, President and Chief Business Officer of Sales, Distribution & Operations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Parag  Joglekar",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Milind S. Nesarikar",
+      "role": "Chief Officer of Operations & Customer Service",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Abhijit P. Shah",
+      "role": "Chief Technology Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Arash  Arethna",
+      "role": "Lead of Investor Relations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Muneesh  Sud",
+      "role": "General Counsel & Chief of Compliance",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kaiyomurz Pervez Daver",
+      "role": "Chief Marketing Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mohit  Shetty",
+      "role": "Chief Human Resource Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

@@ -1,6 +1,77 @@
 {
   "ticker": "FLUOROCHEM",
   "company": "Gujarat Fluorochemicals Limited",
-  "collected_at": "2026-06-12 06:21:07",
-  "directors": []
+  "collected_at": "2026-06-13 06:07:19",
+  "directors": [
+    {
+      "name": "Mr. Vivek Kumar Jain",
+      "role": "MD & Non-Independent Director",
+      "age": 70,
+      "year_born": 1955,
+      "total_pay": 150000000
+    },
+    {
+      "name": "Dr. Bir  Kapoor",
+      "role": "Deputy MD & NonIndependent Director",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": 56800000
+    },
+    {
+      "name": "Mr. Manoj  Agrawal",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anil V Killarikar",
+      "role": "Chief Operations Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vitthal Genbhau Gund",
+      "role": "Chief Technology Officer & President-R&D",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Saurabh  Gupta",
+      "role": "Group Chief Digital & Information officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Bhavin Vipin Desai",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Govind  Vijay",
+      "role": "Head of Legal & Contracts",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kallol  Chakraborty",
+      "role": "Head of Group Corporate Human Resources",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Akhil  Jindal",
+      "role": "Group Chief Financial Officer",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    }
+  ]
 }

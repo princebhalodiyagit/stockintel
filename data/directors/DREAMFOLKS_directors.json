@@ -1,6 +1,56 @@
 {
   "ticker": "DREAMFOLKS",
   "company": "Dreamfolks Services Limited",
-  "collected_at": "2026-06-12 06:19:26",
-  "directors": []
+  "collected_at": "2026-06-13 06:05:21",
+  "directors": [
+    {
+      "name": "Ms. Liberatha Peter Kallat",
+      "role": "MD & Chairman",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": 55890105
+    },
+    {
+      "name": "Mr. Balaji  Srinivasan",
+      "role": "CTO & Executive Director",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": 67917782
+    },
+    {
+      "name": "Mr. Harshit  Gupta",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sanyam  Nagpal",
+      "role": "Vice President of Business",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Shekhar  Sood",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vibhor  Jain",
+      "role": "Head of Investor Relations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sandeep  Sonawane",
+      "role": "Chief Business Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

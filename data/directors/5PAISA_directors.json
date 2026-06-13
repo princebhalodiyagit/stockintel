@@ -1,6 +1,77 @@
 {
   "ticker": "5PAISA",
   "company": "5Paisa Capital Limited",
-  "collected_at": "2026-06-12 06:10:28",
-  "directors": []
+  "collected_at": "2026-06-13 05:54:50",
+  "directors": [
+    {
+      "name": "Mr. Gaurav  Seth",
+      "role": "MD, CEO & Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 4740070
+    },
+    {
+      "name": "Mr. Gourav  Munjal",
+      "role": "CFO & Whole-Time Director",
+      "age": 37,
+      "year_born": 1988,
+      "total_pay": 5131404
+    },
+    {
+      "name": "Mr. Ameya  Agnihotri",
+      "role": "CTO & Whole-Time Director",
+      "age": 43,
+      "year_born": 1982,
+      "total_pay": 17166504
+    },
+    {
+      "name": "Mr. Lalit Babu Lathe",
+      "role": "Head of Operations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sameer  Mehta",
+      "role": "Head of Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Geetha S. Menon",
+      "role": "Head of Human Resources",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Shoaib  Qureshi",
+      "role": "Head of Customer Services & Onboarding",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vikram  Sahni",
+      "role": "Head of Call Center",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mayur  Dedhia",
+      "role": "Business Head of Broking",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Dushyant  Patel",
+      "role": "Head of Technology",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

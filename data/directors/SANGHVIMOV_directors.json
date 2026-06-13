@@ -1,6 +1,77 @@
 {
   "ticker": "SANGHVIMOV",
   "company": "Sanghvi Movers Limited",
-  "collected_at": "2026-06-12 06:38:35",
-  "directors": []
+  "collected_at": "2026-06-13 06:27:54",
+  "directors": [
+    {
+      "name": "Mr. Rishi Chandrakant Sanghvi B.S.",
+      "role": "Managing Director",
+      "age": 36,
+      "year_born": 1989,
+      "total_pay": 67454000
+    },
+    {
+      "name": "Mr. Gaurang  Desai",
+      "role": "Chief Executive Officer",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pradeep  Mehta",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Abhijit  Sawarkar",
+      "role": "General Manager of Accounts & Taxation",
+      "age": 39,
+      "year_born": 1986,
+      "total_pay": 2069000
+    },
+    {
+      "name": "Mr. Vinav  Agarwal",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vinayak  Shirgaonkar",
+      "role": "Legal Head",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manish  Pandey",
+      "role": "Vice President Sales & Cross Rental Business",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Rekha  Shinde",
+      "role": "Chief People Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Prajwal  Kumar",
+      "role": "Chief Business Officer",
+      "age": 42,
+      "year_born": 1983,
+      "total_pay": 2311000
+    },
+    {
+      "name": "Mr. Akshay  Pore",
+      "role": "Chief Strategy Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

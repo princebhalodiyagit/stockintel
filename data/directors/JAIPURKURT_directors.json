@@ -1,6 +1,77 @@
 {
   "ticker": "JAIPURKURT",
   "company": "Nandani Creation Limited",
-  "collected_at": "2026-06-12 06:26:38",
-  "directors": []
+  "collected_at": "2026-06-13 06:13:45",
+  "directors": [
+    {
+      "name": "Mr. Anuj  Mundhra",
+      "role": "Executive Chairman & MD",
+      "age": 44,
+      "year_born": 1981,
+      "total_pay": 6600000
+    },
+    {
+      "name": "Mr. Dwarka Dass Mundhra",
+      "role": "Chief Financial Officer",
+      "age": 69,
+      "year_born": 1956,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Gunjan  Jain",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Vandana  Mundhra",
+      "role": "Executive Whole Time Director",
+      "age": 44,
+      "year_born": 1981,
+      "total_pay": 2400000
+    },
+    {
+      "name": "Ms. Sunita Devi Mundhra",
+      "role": "Executive Whole-Time Director",
+      "age": 64,
+      "year_born": 1961,
+      "total_pay": 2040000
+    },
+    {
+      "name": "Mr. Umesh  Pareek",
+      "role": "Head of Operations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Sourabh  Jha",
+      "role": "Human Resources Lead",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Avnesh  Kumar",
+      "role": "Head of Visual Merchandising",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Tarun  Singh",
+      "role": "Head of Distribution & LFR",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Neha  Chauhan",
+      "role": "Head of Fashion Designer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

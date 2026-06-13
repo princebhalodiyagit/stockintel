@@ -1,6 +1,77 @@
 {
   "ticker": "MAANALU",
   "company": "Maan Aluminium Limited",
-  "collected_at": "2026-06-12 06:29:56",
-  "directors": []
+  "collected_at": "2026-06-13 06:17:38",
+  "directors": [
+    {
+      "name": "Mr. Ravinder Nath Jain",
+      "role": "Chairman & MD",
+      "age": 66,
+      "year_born": 1959,
+      "total_pay": 15151000
+    },
+    {
+      "name": "Mr. Naveen  Gupta",
+      "role": "COO & Director",
+      "age": 41,
+      "year_born": 1984,
+      "total_pay": 3792000
+    },
+    {
+      "name": "Mr. Sandeep Kumar Agarwal",
+      "role": "Compliance Officer & Company Secretary",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Priti  Jain",
+      "role": "Executive Director of Marketing & Executive Director",
+      "age": 42,
+      "year_born": 1983,
+      "total_pay": 8474000
+    },
+    {
+      "name": "Mr. Ashish Rajesh Jain",
+      "role": "Executive Director",
+      "age": 44,
+      "year_born": 1981,
+      "total_pay": 10286000
+    },
+    {
+      "name": "Mr. Umesh Chandra Pant",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Neeraj  Goel",
+      "role": "Senior Accounts Manager",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Amit Ratnakar Khadke",
+      "role": "Senior Manager of HR & IR",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Nripendra Nath Shukla",
+      "role": "Senior Manager",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Parth  Bothra",
+      "role": "Assistant Manager",
+      "age": 28,
+      "year_born": 1997,
+      "total_pay": "N/A"
+    }
+  ]
 }

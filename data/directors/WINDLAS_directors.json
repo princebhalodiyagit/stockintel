@@ -1,6 +1,63 @@
 {
   "ticker": "WINDLAS",
   "company": "Windlas Biotech Limited",
-  "collected_at": "2026-06-12 06:46:25",
-  "directors": []
+  "collected_at": "2026-06-13 06:36:59",
+  "directors": [
+    {
+      "name": "Ms. Komal  Gupta",
+      "role": "CFO & CEO",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 21260000
+    },
+    {
+      "name": "Mr. Ananta Narayan Panda",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 3010000
+    },
+    {
+      "name": "Mr. Ashok Kumar Windlass",
+      "role": "Whole-Time Director",
+      "age": 75,
+      "year_born": 1950,
+      "total_pay": 15600000
+    },
+    {
+      "name": "Mr. Hitesh  Windlass",
+      "role": "MD & Executive Director",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": 17700000
+    },
+    {
+      "name": "Mr. Manoj Kumar Windlass",
+      "role": "Joint MD & Executive Director",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": 17700000
+    },
+    {
+      "name": "Mr. Pawan Kumar Sharma",
+      "role": "Executive Director",
+      "age": 65,
+      "year_born": 1960,
+      "total_pay": 8460000
+    },
+    {
+      "name": "Mr. Mohammed  Aslam",
+      "role": "President of Sales & Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Om Prakash Sule",
+      "role": "Site Quality Head",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

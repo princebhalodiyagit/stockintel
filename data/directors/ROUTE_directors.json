@@ -1,6 +1,77 @@
 {
   "ticker": "ROUTE",
   "company": "ROUTE MOBILE LIMITED",
-  "collected_at": "2026-06-12 06:37:40",
-  "directors": []
+  "collected_at": "2026-06-13 06:26:50",
+  "directors": [
+    {
+      "name": "Mr. Rajdipkumar Chandrakant Gupta",
+      "role": "Co-Founder, MD & Director",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": 26170490
+    },
+    {
+      "name": "Mr. Rajeshwar Singh Gill",
+      "role": "Group Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Tushar  Agnihotri",
+      "role": "Chief Executive Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sammy S. Mamdani",
+      "role": "Chief Operating Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ramesh Govind Helaiya",
+      "role": "CTO, Chief Information Security Officer & Chief Telecommunication Security",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vinay  Binyala",
+      "role": "Chief Strategy Officer & Investor Relations Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Tejas Devendra Shah",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Tanmay  Ayare",
+      "role": "Global Head of Communication",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Elsa  Shibu",
+      "role": "Executive VP & Head Human Resources",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rahul  Pandey",
+      "role": "Executive VP & Head ILDO",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

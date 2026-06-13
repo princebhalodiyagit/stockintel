@@ -1,6 +1,49 @@
 {
   "ticker": "GARFIBRES",
   "company": "Garware Technical Fibres Limited",
-  "collected_at": "2026-06-12 06:21:34",
-  "directors": []
+  "collected_at": "2026-06-13 06:07:51",
+  "directors": [
+    {
+      "name": "Mr. Vayu Ramesh Garware",
+      "role": "Executive Chairman & MD",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Shujaul  Rehman",
+      "role": "Chief Executive Officer",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Shashank  Gupta",
+      "role": "Chief Financial Officer",
+      "age": 41,
+      "year_born": 1984,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vivek  Kulkarni BE",
+      "role": "President of Operations",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sunil  Agarwal",
+      "role": "Head of Legal, Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 1814000
+    },
+    {
+      "name": "Ms. Poonam  Gupta",
+      "role": "Chief Human Resource Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

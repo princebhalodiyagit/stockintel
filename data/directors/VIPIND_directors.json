@@ -1,6 +1,70 @@
 {
   "ticker": "VIPIND",
   "company": "VIP Industries Limited",
-  "collected_at": "2026-06-12 06:45:38",
-  "directors": []
+  "collected_at": "2026-06-13 06:36:08",
+  "directors": [
+    {
+      "name": "Mr. Ashish Kumar Saha",
+      "role": "Senior Vice President of India Manufacturing & New Projects",
+      "age": 66,
+      "year_born": 1959,
+      "total_pay": 14300000
+    },
+    {
+      "name": "Mr. Atul  Jain",
+      "role": "MD & Additional Director",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rahul  Poddar",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sameer  Wanchoo",
+      "role": "Chief Marketing Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Alok  Pathak",
+      "role": "Chief Sales Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Akash  Shukla",
+      "role": "Vice President of Human Resources",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anjan  Mohanty",
+      "role": "Chief Executive Officer - Bangladesh",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manish  Vig",
+      "role": "Channel Head of Retail",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vasant  Dewaji",
+      "role": "Design Head",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

@@ -1,6 +1,77 @@
 {
   "ticker": "SDBL",
   "company": "Som Distilleries & Breweries Limited",
-  "collected_at": "2026-06-12 06:39:03",
-  "directors": []
+  "collected_at": "2026-06-13 06:28:29",
+  "directors": [
+    {
+      "name": "Mr. Jagdish Kumar Arora",
+      "role": "Chairman & MD",
+      "age": 69,
+      "year_born": 1956,
+      "total_pay": 38833000
+    },
+    {
+      "name": "Mr. Rajesh Kumar Dubey",
+      "role": "Whole-Time Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 240000
+    },
+    {
+      "name": "Mr. Nakul Kam Sethi",
+      "role": "Director of Finance & Strategy and Whole-Time Director",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": 8388000
+    },
+    {
+      "name": "Mr. Nitin  Malviya",
+      "role": "Chief Financial Officer",
+      "age": 42,
+      "year_born": 1983,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Diwakaran  Suryanarayana",
+      "role": "Chief Operating Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Lily  Bagga",
+      "role": "Chief Marketing Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Varun  Upadhyay",
+      "role": "Chief Human Resources Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Shirish K. Pilankar",
+      "role": "Head of Sales-West",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Abhay  Banarjee",
+      "role": "Head of Orrisa - State Sales",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Govind  Singh",
+      "role": "State Head",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

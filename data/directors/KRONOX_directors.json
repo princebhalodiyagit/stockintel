@@ -1,6 +1,49 @@
 {
   "ticker": "KRONOX",
   "company": "Kronox Lab Sciences Limited",
-  "collected_at": "2026-06-12 06:28:53",
-  "directors": []
+  "collected_at": "2026-06-13 06:16:24",
+  "directors": [
+    {
+      "name": "Mr. Jogindersingh Gianchand Jaswal",
+      "role": "MD & Chairman",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ketan  Ramani",
+      "role": "Executive Whole-time Director",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pritesh Vinodchandra Ramani",
+      "role": "Executive Whole-time Director",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Samir  Gadhiya",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Nikhil  Goswami",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mehul  Patel",
+      "role": "Marketing Manager",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

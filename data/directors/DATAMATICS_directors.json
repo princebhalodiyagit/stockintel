@@ -1,6 +1,77 @@
 {
   "ticker": "DATAMATICS",
   "company": "Datamatics Global Services Limited",
-  "collected_at": "2026-06-12 06:18:18",
-  "directors": []
+  "collected_at": "2026-06-13 06:04:01",
+  "directors": [
+    {
+      "name": "Dr. Lalit Surajmal Kanodia M.I.T., Ph.D.",
+      "role": "Founder, Chairman & Whole-Time Director",
+      "age": 84,
+      "year_born": 1941,
+      "total_pay": 36500000
+    },
+    {
+      "name": "Mr. Rahul Lalit Kanodia",
+      "role": "Vice Chairman & CEO",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": 65400000
+    },
+    {
+      "name": "Ms. Divya  Kumat",
+      "role": "President, Chief Legal Officer & Company Secretary",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": 16300000
+    },
+    {
+      "name": "Mr. Ankush  Akar",
+      "role": "Executive VP & CFO",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 5400000
+    },
+    {
+      "name": "Mr. Dinesh Kumar VK",
+      "role": "President & Global Sales Head",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sanjeev  Subhedar",
+      "role": "President & Head of Engineering Solutions",
+      "age": 65,
+      "year_born": 1960,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Rima Ghose Chowdhury",
+      "role": "President, Chief Human Resources Officer & CSR Leader",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Bala  Gopalakrishnan",
+      "role": "President & Global Head of Digital Technologies",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Khushroo  Pithawalla",
+      "role": "President of IT Operations",
+      "age": 67,
+      "year_born": 1958,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mrs. Priyadarshini Rahul Kanodia",
+      "role": "Chief Investment Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

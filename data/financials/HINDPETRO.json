@@ -1,14 +1,14 @@
 {
   "ticker": "HINDPETRO",
-  "collected_at": "2026-06-12 06:24:13",
+  "collected_at": "2026-06-13 06:10:56",
   "company_info": {
     "name": "Hindustan Petroleum Corporation Limited",
     "sector": "Energy",
     "industry": "Oil & Gas Refining & Marketing",
-    "market_cap": 797188685824,
-    "current_price": 374.65,
-    "pe_ratio": 4.4175215,
-    "pb_ratio": 1.2162342,
+    "market_cap": 827510161408,
+    "current_price": 388.9,
+    "pe_ratio": 4.585544,
+    "pb_ratio": 1.2624943,
     "roe": 0.30929002,
     "debt_to_equity": 85.369,
     "revenue": 4396334448640,
@@ -16,6 +16,6 @@
     "eps": 84.81,
     "52_week_high": 508.45,
     "52_week_low": 316.2,
-    "dividend_yield": 9.5
+    "dividend_yield": 8.94
   }
 }

@@ -1,6 +1,28 @@
 {
   "ticker": "ESSENTIA",
   "company": "Integra Essentia Limited",
-  "collected_at": "2026-06-12 06:20:30",
-  "directors": []
+  "collected_at": "2026-06-13 06:06:35",
+  "directors": [
+    {
+      "name": "Mr. Deepak Kumar Gupta",
+      "role": "CEO & Whole-time Director",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": 1200000
+    },
+    {
+      "name": "Mr. Atul  Sharma",
+      "role": "CFO & Additional Executive Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sandeep  Somani",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

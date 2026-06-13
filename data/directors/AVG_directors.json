@@ -1,6 +1,77 @@
 {
   "ticker": "AVG",
   "company": "AVG Logistics Limited",
-  "collected_at": "2026-06-12 06:14:00",
-  "directors": []
+  "collected_at": "2026-06-13 05:58:56",
+  "directors": [
+    {
+      "name": "Mr. Sanjay  Gupta",
+      "role": "Chairman, CEO & MD",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": 7800000
+    },
+    {
+      "name": "Mr. Mukesh Kumar Nagar",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 1380000
+    },
+    {
+      "name": "Ms. Asha  Gupta",
+      "role": "Whole-Time Director",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": 6000000
+    },
+    {
+      "name": "Mr. Vinayak  Gupta",
+      "role": "Chief Strategy Officer & Head of ESG",
+      "age": 31,
+      "year_born": 1994,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. A. S. Manoj Kumar",
+      "role": "Executive Vice President of South & Goa",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sumit  Garg",
+      "role": "Executive Vice President of West & East",
+      "age": 43,
+      "year_born": 1982,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Praveen Kumar Mahla",
+      "role": "Vice President of Finance, Accounts & Controlling",
+      "age": 35,
+      "year_born": 1990,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Saurabh  Grewal",
+      "role": "Vice President of Fleet",
+      "age": 37,
+      "year_born": 1988,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajesh  Rohilla",
+      "role": "Chief Financial Officer",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ajay  Kumar",
+      "role": "General Manager of Sales & Operations",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": "N/A"
+    }
+  ]
 }

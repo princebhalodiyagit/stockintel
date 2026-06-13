@@ -1,6 +1,70 @@
 {
   "ticker": "ENDURANCE",
   "company": "Endurance Technologies Limited",
-  "collected_at": "2026-06-12 06:20:12",
-  "directors": []
+  "collected_at": "2026-06-13 06:06:16",
+  "directors": [
+    {
+      "name": "Mr. R. S. Raja Gopal Sastry",
+      "role": "Group Chief Financial Officer",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Raj Kumar Mundra",
+      "role": "Head of Investor Relations & Treasurer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sunil Naresh Lalai",
+      "role": "Head of Legal, Compliance Officer & Company Secretary",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 7035898
+    },
+    {
+      "name": "Mr. Jignesh  Gandhi",
+      "role": "President of Marketing & Business Development",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sunil Vitthalrao Kolhe",
+      "role": "Chief Sourcing Officer",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "K.  Srinivasan",
+      "role": "Cluster Business Head of Plant Operations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ramanamurthy  Neti",
+      "role": "Cluster Business Head of Plant Operations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Murali Krishna Gangasetty",
+      "role": "Cluster Business Head of Plant Operations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Sanjay  Sanghai",
+      "role": "President of Strategic Sourcing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

@@ -1,6 +1,70 @@
 {
   "ticker": "AARTIDRUGS",
   "company": "Aarti Drugs Limited",
-  "collected_at": "2026-06-12 06:10:36",
-  "directors": []
+  "collected_at": "2026-06-13 05:54:59",
+  "directors": [
+    {
+      "name": "Mr. Prakash Moreshwar Patil",
+      "role": "Chairman, MD & CEO",
+      "age": 78,
+      "year_born": 1947,
+      "total_pay": 29392000
+    },
+    {
+      "name": "Mr. Harshit Manila Savla",
+      "role": "Joint MD & Executive Director",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": 26874000
+    },
+    {
+      "name": "Mr. Adhish Prakash Patil",
+      "role": "CFO & COO",
+      "age": 42,
+      "year_born": 1983,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rushikesh Vivek Deole",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Harit Pragji Shah",
+      "role": "Whole-Time Director",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": 26874000
+    },
+    {
+      "name": "Mr. Uday Moreshwar Patil",
+      "role": "Whole-Time Director",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": 3675000
+    },
+    {
+      "name": "Mr. Rashesh Chandrakant Gogri",
+      "role": "MD & Executive Director",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": 26874000
+    },
+    {
+      "name": "Mr. Dhanaji L. Kakade",
+      "role": "Vice President of Technical",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vishwa Harshit Savla",
+      "role": "Managing Director of the Pinnacle Life Science Private Limited",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

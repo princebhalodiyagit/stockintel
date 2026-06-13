@@ -1,6 +1,42 @@
 {
   "ticker": "RADHIKAJWE",
   "company": "Radhika Jeweltech Limited",
-  "collected_at": "2026-06-12 06:36:27",
-  "directors": []
+  "collected_at": "2026-06-13 06:25:23",
+  "directors": [
+    {
+      "name": "Mr. Ashokkumar Mathurdas Zinzuwadia",
+      "role": "Chairman & MD",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Hareshbhai Mathurbhai Zinzuwadia",
+      "role": "Whole-Time Director",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Darshit Ashokbhai Zinzuwadia",
+      "role": "Whole Time Director",
+      "age": 34,
+      "year_born": 1991,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vipulkumar Dhirendralal Parmar",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Aditi Prafulbhai Gorasia",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

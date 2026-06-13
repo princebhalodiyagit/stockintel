@@ -1,6 +1,77 @@
 {
   "ticker": "PRICOLLTD",
   "company": "Pricol Limited",
-  "collected_at": "2026-06-12 06:35:55",
-  "directors": []
+  "collected_at": "2026-06-13 06:24:46",
+  "directors": [
+    {
+      "name": "Mr. Vikram  Mohan",
+      "role": "MD & Chairman",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": 70846000
+    },
+    {
+      "name": "Mr. Panchapagesa Muthuswamy Ganesh",
+      "role": "CEO & Whole-Time Executive Non Independent Director",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": 16956000
+    },
+    {
+      "name": "Mr. Priyadarsi  Bastia",
+      "role": "Chief Financial Officer",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Yuvraj  Nikam",
+      "role": "Company Secretary & Chief Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Shyam  Sundar R",
+      "role": "Head of Human Resources",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Tarun  Tandon",
+      "role": "Regional Head of North",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Dinesh Govind Dodmane",
+      "role": "Chief Technology Officer- Driver Information and Connected Vehicle Solutions",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Senthilkumar  K",
+      "role": "Regional Head of South & West Zone",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Premramesh  S.K.",
+      "role": "Chief Manufacturing Excellence Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. V.  Ramathilak",
+      "role": "Vice President",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    }
+  ]
 }

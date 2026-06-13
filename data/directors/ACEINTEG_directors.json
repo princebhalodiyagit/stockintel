@@ -1,6 +1,49 @@
 {
   "ticker": "ACEINTEG",
   "company": "Ace Integrated Solutions Limited",
-  "collected_at": "2026-06-12 06:10:58",
-  "directors": []
+  "collected_at": "2026-06-13 05:55:25",
+  "directors": [
+    {
+      "name": "Mr. Chandra Shekhar Verma",
+      "role": "Chairman & MD",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": 3000000
+    },
+    {
+      "name": "Mr. Rajeev Ranjan Sarkari",
+      "role": "CEO & Executive Director",
+      "age": 67,
+      "year_born": 1958,
+      "total_pay": 800000
+    },
+    {
+      "name": "Ms. Amita  Verma",
+      "role": "Whole-time Director",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": 1800000
+    },
+    {
+      "name": "Ms. Shivani  Chandra",
+      "role": "Executive Director",
+      "age": 26,
+      "year_born": 1999,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rohit  Goel",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 606351
+    },
+    {
+      "name": "Ms. Ankita  Sharma",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

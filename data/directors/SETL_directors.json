@@ -1,6 +1,77 @@
 {
   "ticker": "SETL",
   "company": "Standard Engineering Technology Limited",
-  "collected_at": "2026-06-12 06:39:14",
-  "directors": []
+  "collected_at": "2026-06-13 06:28:42",
+  "directors": [
+    {
+      "name": "Mr. Nageswara Rao Kandula",
+      "role": "MD & Director",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": 5620000
+    },
+    {
+      "name": "Mr. Kandula  Ramakrishna",
+      "role": "Executive Director",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": 700000
+    },
+    {
+      "name": "Ms. Kandula Krishna Veni",
+      "role": "Executive Director",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": 700000
+    },
+    {
+      "name": "Mr. Venkata Mohana Rao Katragadda",
+      "role": "Executive Director",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": 6680000
+    },
+    {
+      "name": "Mr. Anjaneyulu  Pathuri",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Krishna Kanth Kudaravalli",
+      "role": "Assistant General Manager of Operations",
+      "age": 36,
+      "year_born": 1989,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Kallam Hima Priya",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kudaravalli Punna Rao",
+      "role": "Executive Vice President of Manufacturing",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Palayil Nanda Kumar",
+      "role": "Chief Marketing Officer of South India",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Somanchi Datta Phani Prabhakar",
+      "role": "General Manager of Projects",
+      "age": 37,
+      "year_born": 1988,
+      "total_pay": "N/A"
+    }
+  ]
 }

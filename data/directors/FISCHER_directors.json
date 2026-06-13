@@ -1,6 +1,63 @@
 {
   "ticker": "FISCHER",
   "company": "Fischer Medical Ventures Limited",
-  "collected_at": "2026-06-12 06:21:03",
-  "directors": []
+  "collected_at": "2026-06-13 06:07:14",
+  "directors": [
+    {
+      "name": "Mr. Ravindran  Govindan LLB",
+      "role": "MD & Chairman",
+      "age": 75,
+      "year_born": 1950,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vivek  Balasubramanian",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Shankar  Varadharajan",
+      "role": "Chief Operating Officer",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Balaji  Gandla",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sannasi  Thirupathi",
+      "role": "Head of Human Resources",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Svetlana Rao Raviwada",
+      "role": "Whole Time Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Tracy  Kuok",
+      "role": "Managing Director of Singapore & Indonesia",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Joyce  Socao",
+      "role": "Managing Director of Philippines",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

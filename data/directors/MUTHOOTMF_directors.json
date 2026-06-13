@@ -1,7 +1,7 @@
 {
   "ticker": "MUTHOOTMF",
   "company": "Muthoot Microfin Limited",
-  "collected_at": "2026-06-12 06:32:10",
+  "collected_at": "2026-06-13 06:20:18",
   "directors": [
     {
       "name": "Mr. Sadaf  Sayeed",
@@ -53,13 +53,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Thomas Muthoot John",
-      "role": "Executive Director",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Dileep Kumar Pathak",
       "role": "Chief Internal Auditor",
       "age": 42,
@@ -71,6 +64,13 @@
       "role": "Senior Vice President",
       "age": 46,
       "year_born": 1979,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Paras Kumar Wasnik",
+      "role": "Deputy COO",
+      "age": 44,
+      "year_born": 1981,
       "total_pay": "N/A"
     }
   ]

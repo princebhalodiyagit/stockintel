@@ -1,6 +1,77 @@
 {
   "ticker": "NCC",
   "company": "NCC Limited",
-  "collected_at": "2026-06-12 06:32:34",
-  "directors": []
+  "collected_at": "2026-06-13 06:20:48",
+  "directors": [
+    {
+      "name": "Mr. Alluri Ananta Venkata Ranga Raju",
+      "role": "MD, CEO & Executive Director",
+      "age": 70,
+      "year_born": 1955,
+      "total_pay": 120204607
+    },
+    {
+      "name": "Mr. Jampana Venkata Ranga Raju",
+      "role": "Whole Time Director",
+      "age": 66,
+      "year_born": 1959,
+      "total_pay": 21954000
+    },
+    {
+      "name": "Mr. Alluri Gopala Krishnam Raju",
+      "role": "Executive Director",
+      "age": 66,
+      "year_born": 1959,
+      "total_pay": 61018407
+    },
+    {
+      "name": "Mr. Alluri Venkata Narasimha Raju",
+      "role": "Whole Time Director",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": 60914942
+    },
+    {
+      "name": "Mr. Alluri Sriman Narayana Raju",
+      "role": "Whole Time Director",
+      "age": 67,
+      "year_born": 1958,
+      "total_pay": 61068620
+    },
+    {
+      "name": "Dr. Alluri Venkata Satyanarayana Raju",
+      "role": "Founder & Chairman Emeritus",
+      "age": 88,
+      "year_born": 1937,
+      "total_pay": 8216000
+    },
+    {
+      "name": "Mr. Sanjay  Pusarla",
+      "role": "Executive VP of Finance & Accounts and CFO",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Neerad  Sharma",
+      "role": "Head Strategy & Investor Relations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. A.  Karthik",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. S. S. Bhagat",
+      "role": "General Manager of Business Development",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

@@ -1,6 +1,77 @@
 {
   "ticker": "JKTYRE",
   "company": "JK Tyre & Industries Limited",
-  "collected_at": "2026-06-12 06:27:05",
-  "directors": []
+  "collected_at": "2026-06-13 06:14:17",
+  "directors": [
+    {
+      "name": "Dr. Raghupati  Singhania B.Sc.",
+      "role": "Chairman & MD",
+      "age": 79,
+      "year_born": 1946,
+      "total_pay": 303320000
+    },
+    {
+      "name": "Mr. Anshuman  Singhania",
+      "role": "MD & Whole-Time Director",
+      "age": 44,
+      "year_born": 1981,
+      "total_pay": 262100000
+    },
+    {
+      "name": "Dr. Arun Kumar Bajoria",
+      "role": "President of International & Executive Director",
+      "age": 79,
+      "year_born": 1946,
+      "total_pay": 57100000
+    },
+    {
+      "name": "Mr. Sanjeev  Aggarwal",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 18099100
+    },
+    {
+      "name": "Mr. Sanjiv  Saxena",
+      "role": "Senior VP of Corporate Accounts",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Arun Kumar Jaura",
+      "role": "Chief Technology Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kamal Kumar Manik",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sanjay  Sharma",
+      "role": "Head of Corporate Communications",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Srinivasu  Allaphan",
+      "role": "Director of  Sales & Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Sudhansu  Pathak",
+      "role": "Vice President of Human Resources",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }
