@@ -1,14 +1,14 @@
 {
   "ticker": "EPL",
-  "collected_at": "2026-06-15 07:03:26",
+  "collected_at": "2026-06-16 07:08:33",
   "company_info": {
     "name": "EPL Limited",
     "sector": "Consumer Cyclical",
     "industry": "Packaging & Containers",
-    "market_cap": 72783552512,
-    "current_price": 227.25,
-    "pe_ratio": 18.71911,
-    "pb_ratio": 2.5412357,
+    "market_cap": 73635495936,
+    "current_price": 229.91,
+    "pe_ratio": 18.938221,
+    "pb_ratio": 2.5709813,
     "roe": 0.15077,
     "debt_to_equity": 33.579,
     "revenue": 47630999552,
@@ -16,6 +16,6 @@
     "eps": 12.14,
     "52_week_high": 251.0,
     "52_week_low": 176.4,
-    "dividend_yield": 2.22
+    "dividend_yield": 2.2
   }
 }

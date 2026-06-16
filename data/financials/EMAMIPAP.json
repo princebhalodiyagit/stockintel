@@ -1,14 +1,14 @@
 {
   "ticker": "EMAMIPAP",
-  "collected_at": "2026-06-15 07:03:09",
+  "collected_at": "2026-06-16 07:08:15",
   "company_info": {
     "name": "Emami Paper Mills Limited",
     "sector": "Basic Materials",
     "industry": "Paper & Paper Products",
-    "market_cap": 5239822336,
-    "current_price": 86.61,
-    "pe_ratio": 9.966629,
-    "pb_ratio": 1.0919337,
+    "market_cap": 5179323392,
+    "current_price": 85.61,
+    "pe_ratio": 9.851554,
+    "pb_ratio": 1.0793263,
     "roe": 0.09797,
     "debt_to_equity": 142.073,
     "revenue": 19072299008,
@@ -16,6 +16,6 @@
     "eps": 8.69,
     "52_week_high": 122.0,
     "52_week_low": 55.0,
-    "dividend_yield": 1.87
+    "dividend_yield": 1.89
   }
 }

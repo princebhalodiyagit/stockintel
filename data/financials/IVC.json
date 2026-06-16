@@ -1,14 +1,14 @@
 {
   "ticker": "IVC",
-  "collected_at": "2026-06-15 07:09:16",
+  "collected_at": "2026-06-16 07:14:34",
   "company_info": {
     "name": "IL&FS Investment Managers Limited",
     "sector": "Financial Services",
     "industry": "Financial Conglomerates",
-    "market_cap": 2669278208,
-    "current_price": 8.5,
-    "pe_ratio": 13.934426,
-    "pb_ratio": 1.301286,
+    "market_cap": 2659857408,
+    "current_price": 8.47,
+    "pe_ratio": 13.885246,
+    "pb_ratio": 1.2966932,
     "roe": 0.021879999,
     "debt_to_equity": "N/A",
     "revenue": 655318016,
@@ -16,6 +16,6 @@
     "eps": 0.61,
     "52_week_high": 9.88,
     "52_week_low": 6.02,
-    "dividend_yield": 9.24
+    "dividend_yield": 9.15
   }
 }

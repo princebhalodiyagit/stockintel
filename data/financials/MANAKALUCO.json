@@ -1,14 +1,14 @@
 {
   "ticker": "MANAKALUCO",
-  "collected_at": "2026-06-15 07:12:56",
+  "collected_at": "2026-06-16 07:18:17",
   "company_info": {
     "name": "Manaksia Aluminium Company Limited",
     "sector": "Basic Materials",
     "industry": "Aluminum",
-    "market_cap": 2802891264,
-    "current_price": 42.77,
-    "pe_ratio": 37.191307,
-    "pb_ratio": 2.026246,
+    "market_cap": 2693449216,
+    "current_price": 41.1,
+    "pe_ratio": 35.73913,
+    "pb_ratio": 1.947129,
     "roe": 0.054419998,
     "debt_to_equity": 169.359,
     "revenue": 5639067136,
@@ -16,6 +16,6 @@
     "eps": 1.15,
     "52_week_high": 68.12,
     "52_week_low": 21.73,
-    "dividend_yield": 0.18
+    "dividend_yield": 0.17
   }
 }

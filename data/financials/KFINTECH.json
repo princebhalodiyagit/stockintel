@@ -1,14 +1,14 @@
 {
   "ticker": "KFINTECH",
-  "collected_at": "2026-06-15 07:10:50",
+  "collected_at": "2026-06-16 07:16:08",
   "company_info": {
     "name": "KFin Technologies Limited",
     "sector": "Technology",
     "industry": "Software - Application",
-    "market_cap": 146687459328,
-    "current_price": 848.75,
-    "pe_ratio": 42.247387,
-    "pb_ratio": 8.75894,
+    "market_cap": 146436849664,
+    "current_price": 847.3,
+    "pe_ratio": 42.17521,
+    "pb_ratio": 8.743976,
     "roe": 0.22312,
     "debt_to_equity": 3.314,
     "revenue": 13014930432,
@@ -16,6 +16,6 @@
     "eps": 20.09,
     "52_week_high": 1388.5,
     "52_week_low": 784.95,
-    "dividend_yield": 0.91
+    "dividend_yield": 0.88
   }
 }

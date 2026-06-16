@@ -1,14 +1,14 @@
 {
   "ticker": "DBCORP",
-  "collected_at": "2026-06-15 07:01:27",
+  "collected_at": "2026-06-16 07:06:28",
   "company_info": {
     "name": "D. B. Corp Limited",
     "sector": "Communication Services",
     "industry": "Publishing",
-    "market_cap": 37032407040,
-    "current_price": 207.75,
-    "pe_ratio": 11.157357,
-    "pb_ratio": 1.524256,
+    "market_cap": 36732940288,
+    "current_price": 206.07,
+    "pe_ratio": 11.067132,
+    "pb_ratio": 1.5119299,
     "roe": 0.14269,
     "debt_to_equity": 10.796,
     "revenue": 23555209216,
@@ -16,6 +16,6 @@
     "eps": 18.62,
     "52_week_high": 291.85,
     "52_week_low": 184.51,
-    "dividend_yield": 3.45
+    "dividend_yield": 3.38
   }
 }

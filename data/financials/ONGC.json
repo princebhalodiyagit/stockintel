@@ -1,14 +1,14 @@
 {
   "ticker": "ONGC",
-  "collected_at": "2026-06-15 07:16:36",
+  "collected_at": "2026-06-16 07:22:00",
   "company_info": {
     "name": "Oil and Natural Gas Corporation Limited",
     "sector": "Energy",
     "industry": "Oil & Gas Integrated",
-    "market_cap": 3065813925888,
-    "current_price": 243.7,
-    "pe_ratio": 7.3983,
-    "pb_ratio": 0.8247039,
+    "market_cap": 3101038739456,
+    "current_price": 246.5,
+    "pe_ratio": 7.483303,
+    "pb_ratio": 0.83417934,
     "roe": 0.12703,
     "debt_to_equity": 42.548,
     "revenue": 6622473093120,
@@ -16,6 +16,6 @@
     "eps": 32.94,
     "52_week_high": 307.5,
     "52_week_low": 228.61,
-    "dividend_yield": 7.51
+    "dividend_yield": 7.59
   }
 }

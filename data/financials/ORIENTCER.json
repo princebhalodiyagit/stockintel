@@ -1,14 +1,14 @@
 {
   "ticker": "ORIENTCER",
-  "collected_at": "2026-06-15 07:16:46",
+  "collected_at": "2026-06-16 07:22:11",
   "company_info": {
     "name": "Orient Ceratech Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals",
-    "market_cap": 4652768256,
-    "current_price": 38.89,
-    "pe_ratio": 21.251366,
-    "pb_ratio": 1.550638,
+    "market_cap": 4591752704,
+    "current_price": 38.38,
+    "pe_ratio": 20.972677,
+    "pb_ratio": 1.5303031,
     "roe": 0.07473,
     "debt_to_equity": 13.113,
     "revenue": 4036040960,
@@ -16,6 +16,6 @@
     "eps": 1.83,
     "52_week_high": 56.64,
     "52_week_low": 34.0,
-    "dividend_yield": 0.65
+    "dividend_yield": 0.63
   }
 }
