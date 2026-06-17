@@ -1,21 +1,21 @@
 {
   "ticker": "ORCHASP",
-  "collected_at": "2026-06-16 07:22:05",
+  "collected_at": "2026-06-17 06:59:30",
   "company_info": {
     "name": "Orchasp Limited",
     "sector": "Technology",
     "industry": "Software - Application",
-    "market_cap": 665136704,
-    "current_price": 1.92,
-    "pe_ratio": 64.0,
-    "pb_ratio": 0.63766193,
-    "roe": "N/A",
+    "market_cap": 630494208,
+    "current_price": 1.82,
+    "pe_ratio": 60.666668,
+    "pb_ratio": 0.6044504,
+    "roe": 0.00899,
     "debt_to_equity": 6.016,
-    "revenue": 266534000,
-    "net_income": 39630000,
+    "revenue": 212562000,
+    "net_income": 10520000,
     "eps": 0.03,
     "52_week_high": 4.16,
-    "52_week_low": 1.63,
+    "52_week_low": 1.56,
     "dividend_yield": "N/A"
   }
 }

@@ -1,21 +1,21 @@
 {
   "ticker": "NIBE",
-  "collected_at": "2026-06-16 07:21:04",
+  "collected_at": "2026-06-17 06:58:27",
   "company_info": {
     "name": "Nibe Limited",
     "sector": "Industrials",
     "industry": "Conglomerates",
-    "market_cap": 24738523136,
-    "current_price": 1621.0,
-    "pe_ratio": 469.85507,
-    "pb_ratio": 9.98977,
+    "market_cap": 24778203136,
+    "current_price": 1623.6,
+    "pe_ratio": 477.5294,
+    "pb_ratio": 10.005793,
     "roe": "N/A",
-    "debt_to_equity": "N/A",
+    "debt_to_equity": 33.611,
     "revenue": 3275314944,
     "net_income": -159604992,
-    "eps": 3.45,
-    "52_week_high": 1823.7,
+    "eps": 3.4,
+    "52_week_high": 1817.2,
     "52_week_low": 809.6,
-    "dividend_yield": 0.09
+    "dividend_yield": 0.08
   }
 }

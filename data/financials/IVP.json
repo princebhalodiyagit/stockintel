@@ -1,14 +1,14 @@
 {
   "ticker": "IVP",
-  "collected_at": "2026-06-16 07:14:35",
+  "collected_at": "2026-06-17 06:51:49",
   "company_info": {
     "name": "IVP Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals",
-    "market_cap": 1647968256,
-    "current_price": 159.59,
-    "pe_ratio": 8.8220005,
-    "pb_ratio": 1.0490645,
+    "market_cap": 1651685760,
+    "current_price": 159.95,
+    "pe_ratio": 8.841902,
+    "pb_ratio": 1.051431,
     "roe": 0.12604,
     "debt_to_equity": 41.613,
     "revenue": 5945500160,
@@ -16,6 +16,6 @@
     "eps": 18.09,
     "52_week_high": 206.99,
     "52_week_low": 110.0,
-    "dividend_yield": 0.62
+    "dividend_yield": 0.63
   }
 }
