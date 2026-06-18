@@ -1,14 +1,14 @@
 {
   "ticker": "TNPL",
-  "collected_at": "2026-06-17 07:09:21",
+  "collected_at": "2026-06-18 06:51:12",
   "company_info": {
     "name": "Tamil Nadu Newsprint and Papers Limited",
     "sector": "Basic Materials",
     "industry": "Paper & Paper Products",
-    "market_cap": 10027232256,
-    "current_price": 144.88,
-    "pe_ratio": 4.0469275,
-    "pb_ratio": 0.43295968,
+    "market_cap": 10036229120,
+    "current_price": 145.01,
+    "pe_ratio": 4.0505586,
+    "pb_ratio": 0.48510495,
     "roe": 0.11254,
     "debt_to_equity": 69.638,
     "revenue": 46448898048,
@@ -16,6 +16,6 @@
     "eps": 35.8,
     "52_week_high": 190.77,
     "52_week_low": 121.51,
-    "dividend_yield": 2.76
+    "dividend_yield": "N/A"
   }
 }

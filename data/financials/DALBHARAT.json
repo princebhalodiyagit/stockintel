@@ -1,14 +1,14 @@
 {
   "ticker": "DALBHARAT",
-  "collected_at": "2026-06-17 06:43:28",
+  "collected_at": "2026-06-18 06:26:08",
   "company_info": {
     "name": "Dalmia Bharat Limited",
     "sector": "Basic Materials",
     "industry": "Building Materials",
-    "market_cap": 323625680896,
-    "current_price": 1723.9,
-    "pe_ratio": 28.325666,
-    "pb_ratio": 1.7984587,
+    "market_cap": 321241513984,
+    "current_price": 1711.2,
+    "pe_ratio": 28.11699,
+    "pb_ratio": 1.7852093,
     "roe": 0.06501,
     "debt_to_equity": 40.987,
     "revenue": 148040007680,
@@ -16,6 +16,6 @@
     "eps": 60.86,
     "52_week_high": 2496.3,
     "52_week_low": 1605.0,
-    "dividend_yield": 0.58
+    "dividend_yield": "N/A"
   }
 }

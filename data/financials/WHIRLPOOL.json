@@ -1,14 +1,14 @@
 {
   "ticker": "WHIRLPOOL",
-  "collected_at": "2026-06-17 07:11:55",
+  "collected_at": "2026-06-18 06:53:40",
   "company_info": {
     "name": "Whirlpool of India Limited",
     "sector": "Consumer Cyclical",
     "industry": "Furnishings, Fixtures & Appliances",
-    "market_cap": 99943424000,
-    "current_price": 787.45,
-    "pe_ratio": 33.971096,
-    "pb_ratio": 2.4017067,
+    "market_cap": 100400332800,
+    "current_price": 791.05,
+    "pe_ratio": 34.1264,
+    "pb_ratio": 2.4126866,
     "roe": 0.072459996,
     "debt_to_equity": 8.621,
     "revenue": 80341999616,
@@ -16,6 +16,6 @@
     "eps": 23.18,
     "52_week_high": 1473.8,
     "52_week_low": 756.85,
-    "dividend_yield": 0.64
+    "dividend_yield": "N/A"
   }
 }

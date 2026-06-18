@@ -1,14 +1,14 @@
 {
   "ticker": "SWARAJENG",
-  "collected_at": "2026-06-17 07:07:51",
+  "collected_at": "2026-06-18 06:49:43",
   "company_info": {
     "name": "Swaraj Engines Limited",
     "sector": "Consumer Cyclical",
     "industry": "Auto Parts",
-    "market_cap": 46775762944,
-    "current_price": 3849.9,
-    "pe_ratio": 23.822165,
-    "pb_ratio": 9.566276,
+    "market_cap": 47013904384,
+    "current_price": 3869.5,
+    "pe_ratio": 23.943443,
+    "pb_ratio": 9.614978,
     "roe": 0.43234003,
     "debt_to_equity": 0.419,
     "revenue": 20071299072,
@@ -16,6 +16,6 @@
     "eps": 161.61,
     "52_week_high": 4720.0,
     "52_week_low": 3301.3,
-    "dividend_yield": 2.85
+    "dividend_yield": "N/A"
   }
 }

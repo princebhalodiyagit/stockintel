@@ -1,14 +1,14 @@
 {
   "ticker": "SYNGENE",
-  "collected_at": "2026-06-17 07:07:57",
+  "collected_at": "2026-06-18 06:49:49",
   "company_info": {
     "name": "Syngene International Limited",
     "sector": "Healthcare",
     "industry": "Diagnostics & Research",
-    "market_cap": 180149829632,
-    "current_price": 448.3,
-    "pe_ratio": 56.89086,
-    "pb_ratio": 3.7232673,
+    "market_cap": 177015390208,
+    "current_price": 440.5,
+    "pe_ratio": 55.901016,
+    "pb_ratio": 3.658486,
     "roe": 0.06621,
     "debt_to_equity": 9.473,
     "revenue": 37387001856,
@@ -16,6 +16,6 @@
     "eps": 7.88,
     "52_week_high": 728.6,
     "52_week_low": 380.0,
-    "dividend_yield": 0.28
+    "dividend_yield": "N/A"
   }
 }

@@ -1,14 +1,14 @@
 {
   "ticker": "AJMERA",
-  "collected_at": "2026-06-17 06:37:00",
+  "collected_at": "2026-06-18 06:19:56",
   "company_info": {
     "name": "Ajmera Realty & Infra India Limited",
     "sector": "Real Estate",
     "industry": "Real Estate - Development",
-    "market_cap": 27177480192,
-    "current_price": 138.1,
-    "pe_ratio": 18.147175,
-    "pb_ratio": 1.9401245,
+    "market_cap": 26681554944,
+    "current_price": 135.58,
+    "pe_ratio": 17.816032,
+    "pb_ratio": 1.9047219,
     "roe": 0.11054,
     "debt_to_equity": 46.832,
     "revenue": 10903499776,
@@ -16,6 +16,6 @@
     "eps": 7.61,
     "52_week_high": 221.4,
     "52_week_low": 98.03,
-    "dividend_yield": 0.64
+    "dividend_yield": "N/A"
   }
 }

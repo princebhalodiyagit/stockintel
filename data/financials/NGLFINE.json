@@ -1,14 +1,14 @@
 {
   "ticker": "NGLFINE",
-  "collected_at": "2026-06-17 06:58:23",
+  "collected_at": "2026-06-18 06:40:30",
   "company_info": {
     "name": "NGL Fine-Chem Limited",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - General",
-    "market_cap": 18667517952,
-    "current_price": 3021.6,
-    "pe_ratio": 38.74343,
-    "pb_ratio": 5.669628,
+    "market_cap": 18762659840,
+    "current_price": 3037.0,
+    "pe_ratio": 38.94089,
+    "pb_ratio": 5.698524,
     "roe": 0.15736,
     "debt_to_equity": 32.957,
     "revenue": 5009546752,
@@ -16,6 +16,6 @@
     "eps": 77.99,
     "52_week_high": 3200.0,
     "52_week_low": 980.0,
-    "dividend_yield": 0.06
+    "dividend_yield": "N/A"
   }
 }

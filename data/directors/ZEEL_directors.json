@@ -1,7 +1,7 @@
 {
   "ticker": "ZEEL",
   "company": "Zee Entertainment Enterprises Limited",
-  "collected_at": "2026-06-17 07:12:20",
+  "collected_at": "2026-06-18 06:54:03",
   "directors": [
     {
       "name": "Mr. Punit  Goenka B.Com.",
@@ -46,13 +46,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Shaurya  Sharma",
-      "role": "VP & Head of Marketing",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
       "name": "Ms. Shipra  Wahi",
       "role": "Chief Sales Officer",
       "age": "N/A",
@@ -71,6 +64,13 @@
       "role": "Chief Executive Officer of Service Excellence Unit",
       "age": 65,
       "year_born": 1960,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Amit Anil Goenka B.Com.",
+      "role": "President of Digital Businesses & Platforms",
+      "age": 50,
+      "year_born": 1975,
       "total_pay": "N/A"
     }
   ]

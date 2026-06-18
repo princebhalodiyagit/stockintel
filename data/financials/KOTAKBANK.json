@@ -1,14 +1,14 @@
 {
   "ticker": "KOTAKBANK",
-  "collected_at": "2026-06-17 06:53:52",
+  "collected_at": "2026-06-18 06:36:10",
   "company_info": {
     "name": "Kotak Mahindra Bank Limited",
     "sector": "Financial Services",
     "industry": "Banks - Regional",
-    "market_cap": 4034783608832,
-    "current_price": 405.65,
-    "pe_ratio": 20.942177,
-    "pb_ratio": 2.2273407,
+    "market_cap": 3992014028800,
+    "current_price": 401.35,
+    "pe_ratio": 20.720184,
+    "pb_ratio": 2.2037306,
     "roe": 0.11389,
     "debt_to_equity": "N/A",
     "revenue": 740433330176,
@@ -16,6 +16,6 @@
     "eps": 19.37,
     "52_week_high": 453.2,
     "52_week_low": 345.5,
-    "dividend_yield": 0.12
+    "dividend_yield": "N/A"
   }
 }

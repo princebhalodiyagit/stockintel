@@ -1,14 +1,14 @@
 {
   "ticker": "DDEVPLSTIK",
-  "collected_at": "2026-06-17 06:43:49",
+  "collected_at": "2026-06-18 06:26:29",
   "company_info": {
     "name": "Ddev Plastiks Industries Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals",
-    "market_cap": 26220986368,
-    "current_price": 253.4,
-    "pe_ratio": 13.001539,
-    "pb_ratio": 2.5869548,
+    "market_cap": 26134065152,
+    "current_price": 252.56,
+    "pe_ratio": 12.95844,
+    "pb_ratio": 2.5783794,
     "roe": 0.21841,
     "debt_to_equity": 5.608,
     "revenue": 29478727680,
@@ -16,6 +16,6 @@
     "eps": 19.49,
     "52_week_high": 360.0,
     "52_week_low": 185.15,
-    "dividend_yield": 0.69
+    "dividend_yield": "N/A"
   }
 }

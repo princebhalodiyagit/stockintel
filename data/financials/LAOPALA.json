@@ -1,14 +1,14 @@
 {
   "ticker": "LAOPALA",
-  "collected_at": "2026-06-17 06:54:33",
+  "collected_at": "2026-06-18 06:36:49",
   "company_info": {
     "name": "La Opala RG Limited",
     "sector": "Consumer Cyclical",
     "industry": "Furnishings, Fixtures & Appliances",
-    "market_cap": 20231970816,
-    "current_price": 182.06,
-    "pe_ratio": 21.907454,
-    "pb_ratio": 2.5259147,
+    "market_cap": 19992209408,
+    "current_price": 180.11,
+    "pe_ratio": 21.647837,
+    "pb_ratio": 2.495981,
     "roe": 0.11224,
     "debt_to_equity": 1.077,
     "revenue": 3090646016,
@@ -16,6 +16,6 @@
     "eps": 8.32,
     "52_week_high": 287.0,
     "52_week_low": 162.1,
-    "dividend_yield": 4.15
+    "dividend_yield": "N/A"
   }
 }

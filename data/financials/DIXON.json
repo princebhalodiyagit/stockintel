@@ -1,14 +1,14 @@
 {
   "ticker": "DIXON",
-  "collected_at": "2026-06-17 06:44:25",
+  "collected_at": "2026-06-18 06:27:03",
   "company_info": {
     "name": "Dixon Technologies (India) Limited",
     "sector": "Technology",
     "industry": "Consumer Electronics",
-    "market_cap": 777352183808,
-    "current_price": 12785.0,
-    "pe_ratio": 47.49786,
-    "pb_ratio": 14.241555,
+    "market_cap": 775041712128,
+    "current_price": 12747.0,
+    "pe_ratio": 47.356686,
+    "pb_ratio": 14.199226,
     "roe": 0.37133,
     "debt_to_equity": 18.457,
     "revenue": 488728002560,
@@ -16,6 +16,6 @@
     "eps": 269.17,
     "52_week_high": 18471.0,
     "52_week_low": 9600.0,
-    "dividend_yield": 0.07
+    "dividend_yield": "N/A"
   }
 }

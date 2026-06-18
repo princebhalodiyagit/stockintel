@@ -1,14 +1,14 @@
 {
   "ticker": "MARKSANS",
-  "collected_at": "2026-06-17 06:56:00",
+  "collected_at": "2026-06-18 06:38:12",
   "company_info": {
     "name": "Marksans Pharma Limited",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - General",
-    "market_cap": 113118732288,
-    "current_price": 249.62,
-    "pe_ratio": 27.073751,
-    "pb_ratio": 3.7403538,
+    "market_cap": 118456999936,
+    "current_price": 261.4,
+    "pe_ratio": 28.351408,
+    "pb_ratio": 3.9168677,
     "roe": 0.15159,
     "debt_to_equity": 11.248,
     "revenue": 29509380096,
@@ -16,6 +16,6 @@
     "eps": 9.22,
     "52_week_high": 266.6,
     "52_week_low": 155.0,
-    "dividend_yield": 0.32
+    "dividend_yield": "N/A"
   }
 }

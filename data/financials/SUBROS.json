@@ -1,14 +1,14 @@
 {
   "ticker": "SUBROS",
-  "collected_at": "2026-06-17 07:07:08",
+  "collected_at": "2026-06-18 06:49:01",
   "company_info": {
     "name": "Subros Limited",
     "sector": "Consumer Cyclical",
     "industry": "Auto Parts",
-    "market_cap": 48033083392,
-    "current_price": 736.3,
-    "pe_ratio": 29.011032,
-    "pb_ratio": 3.8617876,
+    "market_cap": 47811284992,
+    "current_price": 732.9,
+    "pe_ratio": 28.877071,
+    "pb_ratio": 3.8439553,
     "roe": 0.1486,
     "debt_to_equity": 6.009,
     "revenue": 37555200000,
@@ -16,6 +16,6 @@
     "eps": 25.38,
     "52_week_high": 1213.7,
     "52_week_low": 622.1,
-    "dividend_yield": 0.4
+    "dividend_yield": "N/A"
   }
 }

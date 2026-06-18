@@ -1,14 +1,14 @@
 {
   "ticker": "CLSEL",
-  "collected_at": "2026-06-17 06:42:36",
+  "collected_at": "2026-06-18 06:25:18",
   "company_info": {
     "name": "Chaman Lal Setia Exports Ltd.",
     "sector": "Consumer Defensive",
     "industry": "Packaged Foods",
-    "market_cap": 14502476800,
-    "current_price": 291.65,
-    "pe_ratio": 12.620077,
-    "pb_ratio": 1.729116,
+    "market_cap": 14626790400,
+    "current_price": 294.15,
+    "pe_ratio": 12.728255,
+    "pb_ratio": 1.7439378,
     "roe": 0.14608,
     "debt_to_equity": 9.87,
     "revenue": 14395772928,
@@ -16,6 +16,6 @@
     "eps": 23.11,
     "52_week_high": 395.75,
     "52_week_low": 203.75,
-    "dividend_yield": 0.85
+    "dividend_yield": "N/A"
   }
 }

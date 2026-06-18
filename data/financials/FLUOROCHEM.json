@@ -1,14 +1,14 @@
 {
   "ticker": "FLUOROCHEM",
-  "collected_at": "2026-06-17 06:46:25",
+  "collected_at": "2026-06-18 06:28:57",
   "company_info": {
     "name": "Gujarat Fluorochemicals Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals",
-    "market_cap": 400952492032,
-    "current_price": 3650.0,
-    "pe_ratio": 70.00384,
-    "pb_ratio": 5.238961,
+    "market_cap": 419462217728,
+    "current_price": 3818.5,
+    "pe_ratio": 73.23552,
+    "pb_ratio": 5.4808145,
     "roe": 0.07547,
     "debt_to_equity": 28.94,
     "revenue": 49960001536,
@@ -16,6 +16,6 @@
     "eps": 52.14,
     "52_week_high": 3928.4,
     "52_week_low": 2916.6,
-    "dividend_yield": 0.08
+    "dividend_yield": "N/A"
   }
 }

@@ -1,14 +1,14 @@
 {
   "ticker": "RAJRATAN",
-  "collected_at": "2026-06-17 07:02:04",
+  "collected_at": "2026-06-18 06:44:06",
   "company_info": {
     "name": "Rajratan Global Wire Limited",
     "sector": "Basic Materials",
     "industry": "Steel",
-    "market_cap": 23100805120,
-    "current_price": 455.0,
-    "pe_ratio": 32.94714,
-    "pb_ratio": 3.5505543,
+    "market_cap": 23055112192,
+    "current_price": 454.1,
+    "pe_ratio": 32.88197,
+    "pb_ratio": 3.5435314,
     "roe": 0.11594,
     "debt_to_equity": 49.797,
     "revenue": 11564999680,
@@ -16,6 +16,6 @@
     "eps": 13.81,
     "52_week_high": 540.0,
     "52_week_low": 305.55,
-    "dividend_yield": 0.44
+    "dividend_yield": "N/A"
   }
 }

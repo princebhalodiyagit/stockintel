@@ -1,14 +1,14 @@
 {
   "ticker": "HEG",
-  "collected_at": "2026-06-17 06:49:12",
+  "collected_at": "2026-06-18 06:31:37",
   "company_info": {
     "name": "HEG Limited",
     "sector": "Industrials",
     "industry": "Electrical Equipment & Parts",
-    "market_cap": 104806096896,
-    "current_price": 543.1,
-    "pe_ratio": 27.484816,
-    "pb_ratio": 2.2010934,
+    "market_cap": 104535932928,
+    "current_price": 541.7,
+    "pe_ratio": 27.413967,
+    "pb_ratio": 2.2395587,
     "roe": 0.07338,
     "debt_to_equity": 16.73,
     "revenue": 27094800384,
@@ -16,6 +16,6 @@
     "eps": 19.76,
     "52_week_high": 690.0,
     "52_week_low": 459.8,
-    "dividend_yield": 0.33
+    "dividend_yield": "N/A"
   }
 }

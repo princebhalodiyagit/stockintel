@@ -1,14 +1,14 @@
 {
   "ticker": "BUILDPRO",
-  "collected_at": "2026-06-17 06:41:29",
+  "collected_at": "2026-06-18 06:24:14",
   "company_info": {
     "name": "Shankara Buildpro Limited",
     "sector": "Consumer Cyclical",
     "industry": "Home Improvement Retail",
-    "market_cap": 24928307200,
-    "current_price": 1028.0,
-    "pe_ratio": 19.477076,
-    "pb_ratio": 4.5686455,
+    "market_cap": 24901634048,
+    "current_price": 1026.9,
+    "pe_ratio": 19.456234,
+    "pb_ratio": 4.563757,
     "roe": 0.25518999,
     "debt_to_equity": 11.14,
     "revenue": 68257099776,
@@ -16,6 +16,6 @@
     "eps": 52.78,
     "52_week_high": 1244.0,
     "52_week_low": 636.0,
-    "dividend_yield": 0.49
+    "dividend_yield": "N/A"
   }
 }

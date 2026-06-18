@@ -1,14 +1,14 @@
 {
   "ticker": "SHIVALIK",
-  "collected_at": "2026-06-17 07:05:13",
+  "collected_at": "2026-06-18 06:47:09",
   "company_info": {
     "name": "Shivalik Rasayan Limited",
     "sector": "Basic Materials",
     "industry": "Agricultural Inputs",
-    "market_cap": 3632281088,
-    "current_price": 230.0,
-    "pe_ratio": 29.87013,
-    "pb_ratio": 0.60534126,
+    "market_cap": 3474355712,
+    "current_price": 220.0,
+    "pe_ratio": 28.57143,
+    "pb_ratio": 0.57902205,
     "roe": 0.03165,
     "debt_to_equity": 18.969,
     "revenue": 3680033024,
@@ -16,6 +16,6 @@
     "eps": 7.7,
     "52_week_high": 651.0,
     "52_week_low": 206.75,
-    "dividend_yield": 0.22
+    "dividend_yield": "N/A"
   }
 }

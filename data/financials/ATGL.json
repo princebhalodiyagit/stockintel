@@ -1,14 +1,14 @@
 {
   "ticker": "ATGL",
-  "collected_at": "2026-06-17 06:38:51",
+  "collected_at": "2026-06-18 06:21:43",
   "company_info": {
     "name": "Adani Total Gas Limited",
     "sector": "Utilities",
     "industry": "Utilities - Regulated Gas",
-    "market_cap": 774761218048,
-    "current_price": 704.45,
-    "pe_ratio": 117.40833,
-    "pb_ratio": 15.925892,
+    "market_cap": 760188698624,
+    "current_price": 691.2,
+    "pe_ratio": 115.200005,
+    "pb_ratio": 15.632704,
     "roe": 0.14456001,
     "debt_to_equity": 58.65,
     "revenue": 58944098304,
@@ -16,6 +16,6 @@
     "eps": 6.0,
     "52_week_high": 859.85,
     "52_week_low": 462.8,
-    "dividend_yield": 0.04
+    "dividend_yield": "N/A"
   }
 }

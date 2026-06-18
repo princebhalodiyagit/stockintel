@@ -1,14 +1,14 @@
 {
   "ticker": "INDIAMART",
-  "collected_at": "2026-06-17 06:50:40",
+  "collected_at": "2026-06-18 06:33:05",
   "company_info": {
     "name": "IndiaMART InterMESH Limited",
     "sector": "Communication Services",
     "industry": "Internet Content & Information",
-    "market_cap": 125298892800,
-    "current_price": 2083.5,
-    "pe_ratio": 26.447067,
-    "pb_ratio": 5.2151127,
+    "market_cap": 126200971264,
+    "current_price": 2098.5,
+    "pe_ratio": 26.637472,
+    "pb_ratio": 5.2526584,
     "roe": 0.20703,
     "debt_to_equity": 0.962,
     "revenue": 15690420224,
@@ -16,6 +16,6 @@
     "eps": 78.78,
     "52_week_high": 2799.0,
     "52_week_low": 1911.0,
-    "dividend_yield": 1.44
+    "dividend_yield": "N/A"
   }
 }

@@ -1,14 +1,14 @@
 {
   "ticker": "AHLUCONT",
-  "collected_at": "2026-06-17 06:36:53",
+  "collected_at": "2026-06-18 06:19:49",
   "company_info": {
     "name": "Ahluwalia Contracts (India) Limited",
     "sector": "Industrials",
     "industry": "Engineering & Construction",
-    "market_cap": 56269549568,
-    "current_price": 840.0,
-    "pe_ratio": 21.15869,
-    "pb_ratio": 2.73393,
+    "market_cap": 55495843840,
+    "current_price": 828.45,
+    "pe_ratio": 20.867758,
+    "pb_ratio": 2.6963384,
     "roe": 0.13785,
     "debt_to_equity": 3.552,
     "revenue": 45651980288,
@@ -16,6 +16,6 @@
     "eps": 39.7,
     "52_week_high": 1125.0,
     "52_week_low": 645.15,
-    "dividend_yield": 0.07
+    "dividend_yield": "N/A"
   }
 }

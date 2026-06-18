@@ -1,14 +1,14 @@
 {
   "ticker": "BIKAJI",
-  "collected_at": "2026-06-17 06:40:43",
+  "collected_at": "2026-06-18 06:23:29",
   "company_info": {
     "name": "Bikaji Foods International Limited",
     "sector": "Consumer Defensive",
     "industry": "Packaged Foods",
-    "market_cap": 165348114432,
-    "current_price": 659.45,
-    "pe_ratio": 64.02427,
-    "pb_ratio": 10.288474,
+    "market_cap": 166238240768,
+    "current_price": 663.0,
+    "pe_ratio": 64.368935,
+    "pb_ratio": 10.343859,
     "roe": 0.1596,
     "debt_to_equity": 17.531,
     "revenue": 29938634752,
@@ -16,6 +16,6 @@
     "eps": 10.3,
     "52_week_high": 818.7,
     "52_week_low": 592.55,
-    "dividend_yield": 0.19
+    "dividend_yield": "N/A"
   }
 }

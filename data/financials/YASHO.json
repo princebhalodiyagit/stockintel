@@ -1,14 +1,14 @@
 {
   "ticker": "YASHO",
-  "collected_at": "2026-06-17 07:12:13",
+  "collected_at": "2026-06-18 06:53:57",
   "company_info": {
     "name": "Yasho Industries Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals",
-    "market_cap": 33845225472,
-    "current_price": 2802.8,
-    "pe_ratio": 133.65761,
-    "pb_ratio": 7.901733,
+    "market_cap": 34822131712,
+    "current_price": 2883.7,
+    "pe_ratio": 137.5155,
+    "pb_ratio": 8.129808,
     "roe": 0.05849,
     "debt_to_equity": 125.684,
     "revenue": 8300282880,
@@ -16,6 +16,6 @@
     "eps": 20.97,
     "52_week_high": 3025.0,
     "52_week_low": 1130.0,
-    "dividend_yield": 0.02
+    "dividend_yield": "N/A"
   }
 }

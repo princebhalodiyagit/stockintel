@@ -1,14 +1,14 @@
 {
   "ticker": "DLINKINDIA",
-  "collected_at": "2026-06-17 06:44:27",
+  "collected_at": "2026-06-18 06:27:05",
   "company_info": {
     "name": "D-Link (India) Limited",
     "sector": "Technology",
     "industry": "Communication Equipment",
-    "market_cap": 18119899136,
-    "current_price": 510.35,
-    "pe_ratio": 17.412146,
-    "pb_ratio": 3.5864122,
+    "market_cap": 18336479232,
+    "current_price": 516.45,
+    "pe_ratio": 17.620266,
+    "pb_ratio": 3.629279,
     "roe": 0.21211,
     "debt_to_equity": 2.928,
     "revenue": 15657016320,
@@ -16,6 +16,6 @@
     "eps": 29.31,
     "52_week_high": 589.55,
     "52_week_low": 367.65,
-    "dividend_yield": 8.03
+    "dividend_yield": "N/A"
   }
 }

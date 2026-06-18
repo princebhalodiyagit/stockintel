@@ -1,14 +1,14 @@
 {
   "ticker": "LAURUSLABS",
-  "collected_at": "2026-06-17 06:54:36",
+  "collected_at": "2026-06-18 06:36:52",
   "company_info": {
     "name": "Laurus Labs Limited",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - Specialty & Generic",
-    "market_cap": 740844306432,
-    "current_price": 1371.3,
-    "pe_ratio": 83.00848,
-    "pb_ratio": 13.969623,
+    "market_cap": 731714093056,
+    "current_price": 1354.4,
+    "pe_ratio": 81.98547,
+    "pb_ratio": 13.795773,
     "roe": 0.17743,
     "debt_to_equity": 46.369,
     "revenue": 68129001472,
@@ -16,6 +16,6 @@
     "eps": 16.52,
     "52_week_high": 1457.0,
     "52_week_low": 641.05,
-    "dividend_yield": 0.17
+    "dividend_yield": "N/A"
   }
 }

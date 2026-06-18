@@ -1,14 +1,14 @@
 {
   "ticker": "DHAMPURSUG",
-  "collected_at": "2026-06-17 06:44:08",
+  "collected_at": "2026-06-18 06:26:47",
   "company_info": {
     "name": "Dhampur Sugar Mills Limited",
     "sector": "Consumer Defensive",
     "industry": "Confectioners",
-    "market_cap": 9080078336,
-    "current_price": 141.2,
-    "pe_ratio": 13.994053,
-    "pb_ratio": 0.7601901,
+    "market_cap": 9058856960,
+    "current_price": 140.87,
+    "pe_ratio": 13.961348,
+    "pb_ratio": 0.7584135,
     "roe": 0.055560004,
     "debt_to_equity": 75.024,
     "revenue": 28309700608,
@@ -16,6 +16,6 @@
     "eps": 10.09,
     "52_week_high": 167.25,
     "52_week_low": 110.0,
-    "dividend_yield": 2.77
+    "dividend_yield": "N/A"
   }
 }

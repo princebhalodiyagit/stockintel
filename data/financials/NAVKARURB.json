@@ -1,14 +1,14 @@
 {
   "ticker": "NAVKARURB",
-  "collected_at": "2026-06-17 06:57:55",
+  "collected_at": "2026-06-18 06:40:02",
   "company_info": {
     "name": "Navkar Urbanstructure Limited",
     "sector": "Basic Materials",
     "industry": "Building Materials",
-    "market_cap": 1245520384,
-    "current_price": 1.11,
-    "pe_ratio": 37.0,
-    "pb_ratio": 1.8078176,
+    "market_cap": 1279182976,
+    "current_price": 1.14,
+    "pe_ratio": 38.0,
+    "pb_ratio": 1.8566774,
     "roe": 0.01852,
     "debt_to_equity": 3.591,
     "revenue": 233635008,
@@ -16,6 +16,6 @@
     "eps": 0.03,
     "52_week_high": 2.93,
     "52_week_low": 0.7,
-    "dividend_yield": 0.46
+    "dividend_yield": "N/A"
   }
 }

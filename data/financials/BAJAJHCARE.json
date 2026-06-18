@@ -1,14 +1,14 @@
 {
   "ticker": "BAJAJHCARE",
-  "collected_at": "2026-06-17 06:39:32",
+  "collected_at": "2026-06-18 06:22:22",
   "company_info": {
     "name": "Bajaj HealthCare Limited",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - Specialty & Generic",
-    "market_cap": 10090382336,
-    "current_price": 299.75,
-    "pe_ratio": 44.473297,
-    "pb_ratio": 1.7947919,
+    "market_cap": 10809080832,
+    "current_price": 321.1,
+    "pe_ratio": 47.640953,
+    "pb_ratio": 1.9226279,
     "roe": 0.042659998,
     "debt_to_equity": 46.734,
     "revenue": 6110313984,
@@ -16,6 +16,6 @@
     "eps": 6.74,
     "52_week_high": 552.6,
     "52_week_low": 272.35,
-    "dividend_yield": 0.33
+    "dividend_yield": "N/A"
   }
 }

@@ -1,14 +1,14 @@
 {
   "ticker": "SKIPPER",
-  "collected_at": "2026-06-17 07:05:58",
+  "collected_at": "2026-06-18 06:47:52",
   "company_info": {
     "name": "Skipper Limited",
     "sector": "Industrials",
     "industry": "Engineering & Construction",
-    "market_cap": 61634314240,
-    "current_price": 545.9,
-    "pe_ratio": 28.8836,
-    "pb_ratio": 4.105561,
+    "market_cap": 62001250304,
+    "current_price": 549.15,
+    "pe_ratio": 29.055557,
+    "pb_ratio": 4.1300035,
     "roe": 0.15878999,
     "debt_to_equity": 63.557,
     "revenue": 55528218624,
@@ -16,6 +16,6 @@
     "eps": 18.9,
     "52_week_high": 588.0,
     "52_week_low": 327.05,
-    "dividend_yield": 0.02
+    "dividend_yield": "N/A"
   }
 }

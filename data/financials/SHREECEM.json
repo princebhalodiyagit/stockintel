@@ -1,14 +1,14 @@
 {
   "ticker": "SHREECEM",
-  "collected_at": "2026-06-17 07:05:20",
+  "collected_at": "2026-06-18 06:47:16",
   "company_info": {
     "name": "Shree Cement Limited",
     "sector": "Basic Materials",
     "industry": "Building Materials",
-    "market_cap": 903822704640,
-    "current_price": 25050.0,
-    "pe_ratio": 51.91925,
-    "pb_ratio": 9.80897,
+    "market_cap": 908693667840,
+    "current_price": 25185.0,
+    "pe_ratio": 52.199055,
+    "pb_ratio": 9.861833,
     "roe": "N/A",
     "debt_to_equity": 38.149,
     "revenue": 88744697856,
@@ -16,6 +16,6 @@
     "eps": 482.48,
     "52_week_high": 32490.0,
     "52_week_low": 22550.0,
-    "dividend_yield": 0.64
+    "dividend_yield": "N/A"
   }
 }

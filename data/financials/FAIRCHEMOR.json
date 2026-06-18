@@ -1,14 +1,14 @@
 {
   "ticker": "FAIRCHEMOR",
-  "collected_at": "2026-06-17 06:46:05",
+  "collected_at": "2026-06-18 06:28:39",
   "company_info": {
     "name": "Fairchem Organics Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals",
-    "market_cap": 7646971904,
-    "current_price": 607.1,
-    "pe_ratio": 141.18604,
-    "pb_ratio": 2.7022574,
+    "market_cap": 7561319936,
+    "current_price": 600.3,
+    "pe_ratio": 139.60464,
+    "pb_ratio": 2.6719902,
     "roe": 0.019609999,
     "debt_to_equity": 31.852,
     "revenue": 4596482048,
@@ -16,6 +16,6 @@
     "eps": 4.3,
     "52_week_high": 1102.7,
     "52_week_low": 428.05,
-    "dividend_yield": 0.16
+    "dividend_yield": "N/A"
   }
 }

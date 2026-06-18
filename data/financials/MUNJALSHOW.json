@@ -1,14 +1,14 @@
 {
   "ticker": "MUNJALSHOW",
-  "collected_at": "2026-06-17 06:57:31",
+  "collected_at": "2026-06-18 06:39:40",
   "company_info": {
     "name": "Munjal Showa Limited",
     "sector": "Consumer Cyclical",
     "industry": "Auto Parts",
-    "market_cap": 5170553344,
-    "current_price": 129.28,
-    "pe_ratio": 23.63437,
-    "pb_ratio": 0.86373806,
+    "market_cap": 5143756800,
+    "current_price": 128.61,
+    "pe_ratio": 23.511885,
+    "pb_ratio": 0.8592617,
     "roe": 0.03234,
     "debt_to_equity": "N/A",
     "revenue": 13154214912,
@@ -16,6 +16,6 @@
     "eps": 5.47,
     "52_week_high": 157.5,
     "52_week_low": 110.3,
-    "dividend_yield": 3.49
+    "dividend_yield": "N/A"
   }
 }

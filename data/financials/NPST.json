@@ -1,14 +1,14 @@
 {
   "ticker": "NPST",
-  "collected_at": "2026-06-17 06:58:54",
+  "collected_at": "2026-06-18 06:40:59",
   "company_info": {
     "name": "Network People Services Technologies Limited",
     "sector": "Technology",
     "industry": "Software - Application",
-    "market_cap": 33089511424,
-    "current_price": 1586.0,
-    "pe_ratio": 77.17762,
-    "pb_ratio": 10.720852,
+    "market_cap": 33310662656,
+    "current_price": 1596.6,
+    "pe_ratio": 77.693436,
+    "pb_ratio": 10.792504,
     "roe": 0.17201,
     "debt_to_equity": 3.119,
     "revenue": 1948999936,
@@ -16,6 +16,6 @@
     "eps": 20.55,
     "52_week_high": 2388.3,
     "52_week_low": 846.6,
-    "dividend_yield": 0.13
+    "dividend_yield": "N/A"
   }
 }

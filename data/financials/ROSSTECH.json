@@ -1,14 +1,14 @@
 {
   "ticker": "ROSSTECH",
-  "collected_at": "2026-06-17 07:03:09",
+  "collected_at": "2026-06-18 06:45:09",
   "company_info": {
     "name": "Rossell Techsys Limited",
     "sector": "Industrials",
     "industry": "Aerospace & Defense",
-    "market_cap": 37669982208,
-    "current_price": 995.5,
-    "pe_ratio": 171.93437,
-    "pb_ratio": 24.17553,
+    "market_cap": 39512801280,
+    "current_price": 1044.2,
+    "pe_ratio": 180.34541,
+    "pb_ratio": 25.358198,
     "roe": 0.15179,
     "debt_to_equity": 264.369,
     "revenue": 4851166208,
@@ -16,6 +16,6 @@
     "eps": 5.79,
     "52_week_high": 1122.0,
     "52_week_low": 393.4,
-    "dividend_yield": 0.02
+    "dividend_yield": "N/A"
   }
 }

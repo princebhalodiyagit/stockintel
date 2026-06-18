@@ -1,14 +1,14 @@
 {
   "ticker": "TATAELXSI",
-  "collected_at": "2026-06-17 07:08:17",
+  "collected_at": "2026-06-18 06:50:08",
   "company_info": {
     "name": "Tata Elxsi Limited",
     "sector": "Technology",
     "industry": "Software - Application",
-    "market_cap": 255978635264,
-    "current_price": 4109.0,
-    "pe_ratio": 40.71542,
-    "pb_ratio": 8.416581,
+    "market_cap": 256408485888,
+    "current_price": 4115.9,
+    "pe_ratio": 40.78379,
+    "pb_ratio": 8.430714,
     "roe": 0.21298,
     "debt_to_equity": 5.336,
     "revenue": 37817356288,
@@ -16,6 +16,6 @@
     "eps": 100.92,
     "52_week_high": 6487.0,
     "52_week_low": 3945.0,
-    "dividend_yield": 1.82
+    "dividend_yield": "N/A"
   }
 }

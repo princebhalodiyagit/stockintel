@@ -1,14 +1,14 @@
 {
   "ticker": "KOVAI",
-  "collected_at": "2026-06-17 06:53:58",
+  "collected_at": "2026-06-18 06:36:16",
   "company_info": {
     "name": "Kovai Medical Center and Hospital Limited",
     "sector": "Healthcare",
     "industry": "Medical Care Facilities",
-    "market_cap": 63120437248,
-    "current_price": 5768.5,
-    "pe_ratio": 25.790226,
-    "pb_ratio": 4.784191,
+    "market_cap": 63443234816,
+    "current_price": 5798.0,
+    "pe_ratio": 25.922117,
+    "pb_ratio": 4.8086576,
     "roe": 0.20326,
     "debt_to_equity": 30.528,
     "revenue": 15856367616,
@@ -16,6 +16,6 @@
     "eps": 223.67,
     "52_week_high": 6052.6,
     "52_week_low": 2576.65,
-    "dividend_yield": 0.26
+    "dividend_yield": "N/A"
   }
 }

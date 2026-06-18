@@ -1,14 +1,14 @@
 {
   "ticker": "PDSL",
-  "collected_at": "2026-06-17 07:00:15",
+  "collected_at": "2026-06-18 06:42:18",
   "company_info": {
     "name": "PDS Limited",
     "sector": "Industrials",
     "industry": "Specialty Business Services",
-    "market_cap": 47665233920,
-    "current_price": 336.25,
-    "pe_ratio": 42.834396,
-    "pb_ratio": 2.6950452,
+    "market_cap": 49210368000,
+    "current_price": 347.15,
+    "pe_ratio": 44.22293,
+    "pb_ratio": 2.7824087,
     "roe": 0.09936,
     "debt_to_equity": 67.994,
     "revenue": 131100819456,
@@ -16,6 +16,6 @@
     "eps": 7.85,
     "52_week_high": 433.9,
     "52_week_low": 246.05,
-    "dividend_yield": 0.98
+    "dividend_yield": "N/A"
   }
 }

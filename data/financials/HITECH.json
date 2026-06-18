@@ -1,14 +1,14 @@
 {
   "ticker": "HITECH",
-  "collected_at": "2026-06-17 06:49:39",
+  "collected_at": "2026-06-18 06:32:02",
   "company_info": {
     "name": "Hi-Tech Pipes Limited",
     "sector": "Basic Materials",
     "industry": "Steel",
-    "market_cap": 18466902016,
-    "current_price": 91.1,
-    "pe_ratio": 24.164455,
-    "pb_ratio": 1.3508905,
+    "market_cap": 18543933440,
+    "current_price": 91.48,
+    "pe_ratio": 24.265253,
+    "pb_ratio": 1.3565254,
     "roe": 0.058790002,
     "debt_to_equity": 20.061,
     "revenue": 42000744448,
@@ -16,6 +16,6 @@
     "eps": 3.77,
     "52_week_high": 127.5,
     "52_week_low": 70.14,
-    "dividend_yield": 0.03
+    "dividend_yield": "N/A"
   }
 }

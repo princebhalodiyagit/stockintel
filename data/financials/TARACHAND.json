@@ -1,14 +1,14 @@
 {
   "ticker": "TARACHAND",
-  "collected_at": "2026-06-17 07:08:06",
+  "collected_at": "2026-06-18 06:49:58",
   "company_info": {
     "name": "Tara Chand Infralogistic Solutions Limited",
     "sector": "Industrials",
     "industry": "Farm & Heavy Construction Machinery",
-    "market_cap": 4490654208,
-    "current_price": 56.97,
-    "pe_ratio": 16.23077,
-    "pb_ratio": 3.0219607,
+    "market_cap": 4454394880,
+    "current_price": 56.51,
+    "pe_ratio": 16.099714,
+    "pb_ratio": 2.99756,
     "roe": 0.20475,
     "debt_to_equity": 92.786,
     "revenue": 2848474880,
@@ -16,6 +16,6 @@
     "eps": 3.51,
     "52_week_high": 103.67,
     "52_week_low": 53.0,
-    "dividend_yield": 0.35
+    "dividend_yield": "N/A"
   }
 }

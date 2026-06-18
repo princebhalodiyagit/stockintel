@@ -1,14 +1,14 @@
 {
   "ticker": "GRANULES",
-  "collected_at": "2026-06-17 06:48:04",
+  "collected_at": "2026-06-18 06:30:31",
   "company_info": {
     "name": "Granules India Limited",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - Specialty & Generic",
-    "market_cap": 185822920704,
-    "current_price": 749.9,
-    "pe_ratio": 30.64569,
-    "pb_ratio": 3.6118872,
+    "market_cap": 185203425280,
+    "current_price": 747.4,
+    "pe_ratio": 30.543524,
+    "pb_ratio": 3.5998461,
     "roe": 0.13522,
     "debt_to_equity": 29.735,
     "revenue": 53656420352,
@@ -16,6 +16,6 @@
     "eps": 24.47,
     "52_week_high": 804.3,
     "52_week_low": 432.6,
-    "dividend_yield": 0.23
+    "dividend_yield": "N/A"
   }
 }

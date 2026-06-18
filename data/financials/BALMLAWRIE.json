@@ -1,14 +1,14 @@
 {
   "ticker": "BALMLAWRIE",
-  "collected_at": "2026-06-17 06:39:46",
+  "collected_at": "2026-06-18 06:22:35",
   "company_info": {
     "name": "Balmer Lawrie & Co. Ltd.",
     "sector": "Industrials",
     "industry": "Conglomerates",
-    "market_cap": 31069687808,
-    "current_price": 181.69,
-    "pe_ratio": 11.22236,
-    "pb_ratio": 1.4994513,
+    "market_cap": 31285151744,
+    "current_price": 182.95,
+    "pe_ratio": 11.300185,
+    "pb_ratio": 1.5098497,
     "roe": 0.13276,
     "debt_to_equity": 10.544,
     "revenue": 27170037760,
@@ -16,6 +16,6 @@
     "eps": 16.19,
     "52_week_high": 238.2,
     "52_week_low": 148.36,
-    "dividend_yield": 7.03
+    "dividend_yield": "N/A"
   }
 }

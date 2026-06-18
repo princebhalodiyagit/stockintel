@@ -1,14 +1,14 @@
 {
   "ticker": "TVSHLTD",
-  "collected_at": "2026-06-17 07:09:51",
+  "collected_at": "2026-06-18 06:51:41",
   "company_info": {
     "name": "TVS Holdings Limited",
     "sector": "Consumer Cyclical",
     "industry": "Auto Parts",
-    "market_cap": 269228605440,
-    "current_price": 13307.0,
-    "pe_ratio": 15.885921,
-    "pb_ratio": 4.165557,
+    "market_cap": 268844204032,
+    "current_price": 13288.0,
+    "pe_ratio": 15.863238,
+    "pb_ratio": 4.159609,
     "roe": 0.29418,
     "debt_to_equity": 280.453,
     "revenue": 502362701824,
@@ -16,6 +16,6 @@
     "eps": 837.66,
     "52_week_high": 16297.0,
     "52_week_low": 10400.0,
-    "dividend_yield": 0.64
+    "dividend_yield": "N/A"
   }
 }

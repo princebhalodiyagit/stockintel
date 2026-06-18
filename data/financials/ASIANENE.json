@@ -1,14 +1,14 @@
 {
   "ticker": "ASIANENE",
-  "collected_at": "2026-06-17 06:38:36",
+  "collected_at": "2026-06-18 06:21:29",
   "company_info": {
     "name": "Asian Energy Services Limited",
     "sector": "Energy",
     "industry": "Oil & Gas Equipment & Services",
-    "market_cap": 17320062976,
-    "current_price": 356.5,
-    "pe_ratio": 31.43739,
-    "pb_ratio": 3.229108,
+    "market_cap": 17310345216,
+    "current_price": 356.3,
+    "pe_ratio": 31.419752,
+    "pb_ratio": 3.2272966,
     "roe": 0.116000004,
     "debt_to_equity": 32.051,
     "revenue": 7910474240,
@@ -16,6 +16,6 @@
     "eps": 11.34,
     "52_week_high": 392.0,
     "52_week_low": 230.0,
-    "dividend_yield": 0.28
+    "dividend_yield": "N/A"
   }
 }

@@ -1,14 +1,14 @@
 {
   "ticker": "NILKAMAL",
-  "collected_at": "2026-06-17 06:58:35",
+  "collected_at": "2026-06-18 06:40:41",
   "company_info": {
     "name": "Nilkamal Limited",
     "sector": "Consumer Cyclical",
     "industry": "Furnishings, Fixtures & Appliances",
-    "market_cap": 19293300736,
-    "current_price": 1288.6,
-    "pe_ratio": 16.629242,
-    "pb_ratio": 1.2191372,
+    "market_cap": 19666110464,
+    "current_price": 1313.5,
+    "pe_ratio": 16.950575,
+    "pb_ratio": 1.2426949,
     "roe": 0.075679995,
     "debt_to_equity": 26.488,
     "revenue": 37780578304,
@@ -16,6 +16,6 @@
     "eps": 77.49,
     "52_week_high": 1865.0,
     "52_week_low": 1050.5,
-    "dividend_yield": 1.57
+    "dividend_yield": "N/A"
   }
 }

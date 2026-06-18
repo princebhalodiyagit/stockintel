@@ -1,14 +1,14 @@
 {
   "ticker": "RUSHIL",
-  "collected_at": "2026-06-17 07:03:33",
+  "collected_at": "2026-06-18 06:45:32",
   "company_info": {
     "name": "Rushil D\u00e9cor Limited",
     "sector": "Consumer Cyclical",
     "industry": "Furnishings, Fixtures & Appliances",
-    "market_cap": 5325515264,
-    "current_price": 18.15,
-    "pe_ratio": 82.5,
-    "pb_ratio": 0.8300178,
+    "market_cap": 5143597056,
+    "current_price": 17.53,
+    "pe_ratio": 79.68182,
+    "pb_ratio": 0.8016646,
     "roe": 0.00992,
     "debt_to_equity": 39.929,
     "revenue": 8622419968,
@@ -16,6 +16,6 @@
     "eps": 0.22,
     "52_week_high": 33.99,
     "52_week_low": 12.49,
-    "dividend_yield": 0.57
+    "dividend_yield": "N/A"
   }
 }

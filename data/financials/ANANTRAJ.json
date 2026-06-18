@@ -1,14 +1,14 @@
 {
   "ticker": "ANANTRAJ",
-  "collected_at": "2026-06-17 06:37:39",
+  "collected_at": "2026-06-18 06:20:33",
   "company_info": {
     "name": "Anant Raj Limited",
     "sector": "Real Estate",
     "industry": "Real Estate - Development",
-    "market_cap": 191706447872,
-    "current_price": 532.7,
-    "pe_ratio": 33.73654,
-    "pb_ratio": 3.2274485,
+    "market_cap": 190482857984,
+    "current_price": 529.3,
+    "pe_ratio": 33.521214,
+    "pb_ratio": 3.2068489,
     "roe": 0.11132,
     "debt_to_equity": 11.696,
     "revenue": 25116000256,
@@ -16,6 +16,6 @@
     "eps": 15.79,
     "52_week_high": 743.65,
     "52_week_low": 403.0,
-    "dividend_yield": 0.14
+    "dividend_yield": "N/A"
   }
 }

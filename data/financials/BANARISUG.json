@@ -1,14 +1,14 @@
 {
   "ticker": "BANARISUG",
-  "collected_at": "2026-06-17 06:39:51",
+  "collected_at": "2026-06-18 06:22:40",
   "company_info": {
     "name": "Bannari Amman Sugars Limited",
     "sector": "Consumer Defensive",
     "industry": "Confectioners",
-    "market_cap": 45142921216,
-    "current_price": 3600.0,
-    "pe_ratio": 30.474901,
-    "pb_ratio": 2.35965,
+    "market_cap": 45149188096,
+    "current_price": 3600.5,
+    "pe_ratio": 30.479134,
+    "pb_ratio": 2.3599777,
     "roe": 0.08012,
     "debt_to_equity": 0.484,
     "revenue": 19166726144,
@@ -16,6 +16,6 @@
     "eps": 118.13,
     "52_week_high": 4022.6,
     "52_week_low": 3105.2,
-    "dividend_yield": 0.35
+    "dividend_yield": "N/A"
   }
 }

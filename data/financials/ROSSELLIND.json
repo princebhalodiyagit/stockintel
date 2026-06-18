@@ -1,14 +1,14 @@
 {
   "ticker": "ROSSELLIND",
-  "collected_at": "2026-06-17 07:03:08",
+  "collected_at": "2026-06-18 06:45:08",
   "company_info": {
     "name": "Rossell India Limited",
     "sector": "Industrials",
     "industry": "Conglomerates",
-    "market_cap": 2084238208,
-    "current_price": 55.29,
-    "pe_ratio": 13.133017,
-    "pb_ratio": 0.93324333,
+    "market_cap": 2129474048,
+    "current_price": 56.49,
+    "pe_ratio": 13.418053,
+    "pb_ratio": 0.95349824,
     "roe": 0.08141,
     "debt_to_equity": "N/A",
     "revenue": 2262000128,
@@ -16,6 +16,6 @@
     "eps": 4.21,
     "52_week_high": 75.8,
     "52_week_low": 40.0,
-    "dividend_yield": 0.72
+    "dividend_yield": "N/A"
   }
 }

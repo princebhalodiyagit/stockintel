@@ -1,14 +1,14 @@
 {
   "ticker": "GRAPHITE",
-  "collected_at": "2026-06-17 06:48:05",
+  "collected_at": "2026-06-18 06:30:31",
   "company_info": {
     "name": "Graphite India Limited",
     "sector": "Industrials",
     "industry": "Electrical Equipment & Parts",
-    "market_cap": 128185925632,
-    "current_price": 656.1,
-    "pe_ratio": 73.14381,
-    "pb_ratio": 2.1958933,
+    "market_cap": 127824486400,
+    "current_price": 654.25,
+    "pe_ratio": 72.93757,
+    "pb_ratio": 2.1897016,
     "roe": 0.02917,
     "debt_to_equity": 6.267,
     "revenue": 28519999488,
@@ -16,6 +16,6 @@
     "eps": 8.97,
     "52_week_high": 802.4,
     "52_week_low": 505.8,
-    "dividend_yield": 1.07
+    "dividend_yield": "N/A"
   }
 }

@@ -1,14 +1,14 @@
 {
   "ticker": "HIMATSEIDE",
-  "collected_at": "2026-06-17 06:49:27",
+  "collected_at": "2026-06-18 06:31:51",
   "company_info": {
     "name": "Himatsingka Seide Limited",
     "sector": "Consumer Cyclical",
     "industry": "Textile Manufacturing",
-    "market_cap": 9833047040,
-    "current_price": 78.2,
-    "pe_ratio": 15.862069,
-    "pb_ratio": 0.4690049,
+    "market_cap": 10325956608,
+    "current_price": 82.12,
+    "pe_ratio": 16.657202,
+    "pb_ratio": 0.49251515,
     "roe": 0.029690001,
     "debt_to_equity": 123.113,
     "revenue": 25150930944,
@@ -16,6 +16,6 @@
     "eps": 4.93,
     "52_week_high": 164.4,
     "52_week_low": 72.01,
-    "dividend_yield": 0.32
+    "dividend_yield": "N/A"
   }
 }

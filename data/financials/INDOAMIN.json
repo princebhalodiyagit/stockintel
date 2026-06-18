@@ -1,14 +1,14 @@
 {
   "ticker": "INDOAMIN",
-  "collected_at": "2026-06-17 06:50:49",
+  "collected_at": "2026-06-18 06:33:14",
   "company_info": {
     "name": "Indo Amines Limited",
     "sector": "Basic Materials",
     "industry": "Chemicals",
-    "market_cap": 9585187840,
-    "current_price": 132.05,
-    "pe_ratio": 12.238184,
-    "pb_ratio": 2.5281923,
+    "market_cap": 9696971776,
+    "current_price": 133.59,
+    "pe_ratio": 12.380908,
+    "pb_ratio": 2.5576766,
     "roe": 0.22301,
     "debt_to_equity": 78.948,
     "revenue": 11596608512,
@@ -16,6 +16,6 @@
     "eps": 10.79,
     "52_week_high": 176.25,
     "52_week_low": 81.9,
-    "dividend_yield": 0.38
+    "dividend_yield": "N/A"
   }
 }

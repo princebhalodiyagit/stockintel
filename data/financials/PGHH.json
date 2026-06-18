@@ -1,14 +1,14 @@
 {
   "ticker": "PGHH",
-  "collected_at": "2026-06-17 07:00:24",
+  "collected_at": "2026-06-18 06:42:27",
   "company_info": {
     "name": "Procter & Gamble Hygiene and Health Care Limited",
     "sector": "Consumer Defensive",
     "industry": "Household & Personal Products",
-    "market_cap": 291935617024,
-    "current_price": 8993.5,
-    "pe_ratio": 34.04823,
-    "pb_ratio": 38.74872,
+    "market_cap": 292292689920,
+    "current_price": 9004.5,
+    "pe_ratio": 34.089874,
+    "pb_ratio": 38.796112,
     "roe": 1.14931,
     "debt_to_equity": 0.115,
     "revenue": 42904199168,
@@ -16,6 +16,6 @@
     "eps": 264.14,
     "52_week_high": 14540.0,
     "52_week_low": 8883.5,
-    "dividend_yield": 2.53
+    "dividend_yield": "N/A"
   }
 }

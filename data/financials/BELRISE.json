@@ -1,14 +1,14 @@
 {
   "ticker": "BELRISE",
-  "collected_at": "2026-06-17 06:40:19",
+  "collected_at": "2026-06-18 06:23:05",
   "company_info": {
     "name": "Belrise Industries Limited",
     "sector": "Consumer Cyclical",
     "industry": "Auto Parts",
-    "market_cap": 214291808256,
-    "current_price": 240.81,
-    "pe_ratio": 41.376286,
-    "pb_ratio": 3.9217954,
+    "market_cap": 211542081536,
+    "current_price": 237.72,
+    "pe_ratio": 40.84536,
+    "pb_ratio": 3.8714721,
     "roe": 0.12516,
     "debt_to_equity": 29.1,
     "revenue": 95091023872,
@@ -16,6 +16,6 @@
     "eps": 5.82,
     "52_week_high": 245.6,
     "52_week_low": 97.72,
-    "dividend_yield": 0.23
+    "dividend_yield": "N/A"
   }
 }

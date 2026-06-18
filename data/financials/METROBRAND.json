@@ -1,14 +1,14 @@
 {
   "ticker": "METROBRAND",
-  "collected_at": "2026-06-17 06:56:30",
+  "collected_at": "2026-06-18 06:38:40",
   "company_info": {
     "name": "Metro Brands Limited",
     "sector": "Consumer Cyclical",
     "industry": "Apparel Retail",
-    "market_cap": 279414931456,
-    "current_price": 1025.2,
-    "pe_ratio": 68.0292,
-    "pb_ratio": 14.013887,
+    "market_cap": 282085883904,
+    "current_price": 1035.0,
+    "pe_ratio": 68.6795,
+    "pb_ratio": 14.147849,
     "roe": 0.22094,
     "debt_to_equity": 77.476,
     "revenue": 28636299264,
@@ -16,6 +16,6 @@
     "eps": 15.07,
     "52_week_high": 1340.4,
     "52_week_low": 883.0,
-    "dividend_yield": 0.6
+    "dividend_yield": "N/A"
   }
 }

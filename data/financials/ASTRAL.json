@@ -1,14 +1,14 @@
 {
   "ticker": "ASTRAL",
-  "collected_at": "2026-06-17 06:38:46",
+  "collected_at": "2026-06-18 06:21:38",
   "company_info": {
     "name": "Astral Limited",
     "sector": "Industrials",
     "industry": "Building Products & Equipment",
-    "market_cap": 417213710336,
-    "current_price": 1553.0,
-    "pe_ratio": 77.572426,
-    "pb_ratio": 10.279594,
+    "market_cap": 421270323200,
+    "current_price": 1568.1,
+    "pe_ratio": 78.32667,
+    "pb_ratio": 10.379543,
     "roe": 0.13798,
     "debt_to_equity": 6.168,
     "revenue": 65685999616,
@@ -16,6 +16,6 @@
     "eps": 20.02,
     "52_week_high": 1768.7,
     "52_week_low": 1263.7,
-    "dividend_yield": 0.24
+    "dividend_yield": "N/A"
   }
 }

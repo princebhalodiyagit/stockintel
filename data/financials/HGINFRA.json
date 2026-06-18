@@ -1,14 +1,14 @@
 {
   "ticker": "HGINFRA",
-  "collected_at": "2026-06-17 06:49:22",
+  "collected_at": "2026-06-18 06:31:46",
   "company_info": {
     "name": "H.G. Infra Engineering Limited",
     "sector": "Industrials",
     "industry": "Engineering & Construction",
-    "market_cap": 37727559680,
-    "current_price": 578.9,
-    "pe_ratio": 11.440712,
-    "pb_ratio": 1.2307805,
+    "market_cap": 37681938432,
+    "current_price": 578.2,
+    "pe_ratio": 11.426878,
+    "pb_ratio": 1.2292922,
     "roe": 0.10586,
     "debt_to_equity": 153.264,
     "revenue": 52346740736,
@@ -16,6 +16,6 @@
     "eps": 50.6,
     "52_week_high": 1143.0,
     "52_week_low": 429.5,
-    "dividend_yield": 0.35
+    "dividend_yield": "N/A"
   }
 }

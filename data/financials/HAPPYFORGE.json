@@ -1,14 +1,14 @@
 {
   "ticker": "HAPPYFORGE",
-  "collected_at": "2026-06-17 06:48:48",
+  "collected_at": "2026-06-18 06:31:13",
   "company_info": {
     "name": "Happy Forgings Limited",
     "sector": "Industrials",
     "industry": "Metal Fabrication",
-    "market_cap": 133222858752,
-    "current_price": 1412.0,
-    "pe_ratio": 44.194054,
-    "pb_ratio": 6.257811,
+    "market_cap": 134930595840,
+    "current_price": 1430.1,
+    "pe_ratio": 44.760563,
+    "pb_ratio": 6.338028,
     "roe": 0.15161,
     "debt_to_equity": 15.489,
     "revenue": 15463356416,
@@ -16,6 +16,6 @@
     "eps": 31.95,
     "52_week_high": 1490.0,
     "52_week_low": 862.05,
-    "dividend_yield": 0.3
+    "dividend_yield": "N/A"
   }
 }

@@ -1,14 +1,14 @@
 {
   "ticker": "FINEORG",
-  "collected_at": "2026-06-17 06:46:16",
+  "collected_at": "2026-06-18 06:28:48",
   "company_info": {
     "name": "Fine Organic Industries Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals",
-    "market_cap": 153588088832,
-    "current_price": 5009.4,
-    "pe_ratio": 36.828407,
-    "pb_ratio": 5.764192,
+    "market_cap": 154627457024,
+    "current_price": 5043.3,
+    "pe_ratio": 37.077633,
+    "pb_ratio": 5.8032,
     "roe": 0.16818,
     "debt_to_equity": 2.56,
     "revenue": 23657977856,
@@ -16,6 +16,6 @@
     "eps": 136.02,
     "52_week_high": 5494.0,
     "52_week_low": 3856.0,
-    "dividend_yield": 0.22
+    "dividend_yield": "N/A"
   }
 }

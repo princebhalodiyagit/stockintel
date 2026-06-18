@@ -1,14 +1,14 @@
 {
   "ticker": "DBEIL",
-  "collected_at": "2026-06-17 06:43:37",
+  "collected_at": "2026-06-18 06:26:17",
   "company_info": {
     "name": "Deepak Builders & Engineers India Limited",
     "sector": "Industrials",
     "industry": "Engineering & Construction",
-    "market_cap": 4245845504,
-    "current_price": 91.15,
-    "pe_ratio": 10.710928,
-    "pb_ratio": 0.95481026,
+    "market_cap": 4178302976,
+    "current_price": 89.7,
+    "pe_ratio": 10.54054,
+    "pb_ratio": 0.9396212,
     "roe": 0.09224,
     "debt_to_equity": 39.766,
     "revenue": 5599247872,
@@ -16,6 +16,6 @@
     "eps": 8.51,
     "52_week_high": 185.6,
     "52_week_low": 51.51,
-    "dividend_yield": 1.15
+    "dividend_yield": "N/A"
   }
 }

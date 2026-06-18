@@ -1,14 +1,14 @@
 {
   "ticker": "RPGLIFE",
-  "collected_at": "2026-06-17 07:03:13",
+  "collected_at": "2026-06-18 06:45:13",
   "company_info": {
     "name": "RPG Life Sciences Limited",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - Specialty & Generic",
-    "market_cap": 38142275584,
-    "current_price": 2306.2,
-    "pe_ratio": 33.14458,
-    "pb_ratio": 6.3003354,
+    "market_cap": 37907423232,
+    "current_price": 2292.0,
+    "pe_ratio": 32.9405,
+    "pb_ratio": 6.2615423,
     "roe": 0.20278999,
     "debt_to_equity": 3.304,
     "revenue": 7075200000,
@@ -16,6 +16,6 @@
     "eps": 69.58,
     "52_week_high": 2725.0,
     "52_week_low": 1733.0,
-    "dividend_yield": 0.87
+    "dividend_yield": "N/A"
   }
 }

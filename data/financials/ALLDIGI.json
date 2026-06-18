@@ -1,14 +1,14 @@
 {
   "ticker": "ALLDIGI",
-  "collected_at": "2026-06-17 06:37:19",
+  "collected_at": "2026-06-18 06:20:14",
   "company_info": {
     "name": "Alldigi Tech Limited",
     "sector": "Industrials",
     "industry": "Specialty Business Services",
-    "market_cap": 12431426560,
-    "current_price": 815.8,
-    "pe_ratio": 15.124212,
-    "pb_ratio": 4.953729,
+    "market_cap": 12372758528,
+    "current_price": 811.95,
+    "pe_ratio": 15.052837,
+    "pb_ratio": 4.930561,
     "roe": 0.32217,
     "debt_to_equity": 68.009,
     "revenue": 5986800128,
@@ -16,6 +16,6 @@
     "eps": 53.94,
     "52_week_high": 1084.0,
     "52_week_low": 700.0,
-    "dividend_yield": 7.48
+    "dividend_yield": "N/A"
   }
 }

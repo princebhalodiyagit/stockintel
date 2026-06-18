@@ -1,14 +1,14 @@
 {
   "ticker": "RANEHOLDIN",
-  "collected_at": "2026-06-17 07:02:17",
+  "collected_at": "2026-06-18 06:44:19",
   "company_info": {
     "name": "Rane Holdings Limited",
     "sector": "Consumer Cyclical",
     "industry": "Auto Parts",
-    "market_cap": 23338506240,
-    "current_price": 1634.6,
-    "pe_ratio": 23.827988,
-    "pb_ratio": 2.0231175,
+    "market_cap": 23418462208,
+    "current_price": 1640.2,
+    "pe_ratio": 23.90962,
+    "pb_ratio": 2.0300484,
     "roe": 0.09861,
     "debt_to_equity": 71.619,
     "revenue": 58833100800,
@@ -16,6 +16,6 @@
     "eps": 68.6,
     "52_week_high": 1798.0,
     "52_week_low": 981.0,
-    "dividend_yield": 3.07
+    "dividend_yield": "N/A"
   }
 }

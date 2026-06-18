@@ -1,14 +1,14 @@
 {
   "ticker": "MAPMYINDIA",
-  "collected_at": "2026-06-17 06:55:54",
+  "collected_at": "2026-06-18 06:38:06",
   "company_info": {
     "name": "C. E. Info Systems Limited",
     "sector": "Technology",
     "industry": "Software - Infrastructure",
-    "market_cap": 48542937088,
-    "current_price": 886.45,
-    "pe_ratio": 36.300163,
-    "pb_ratio": 5.3590755,
+    "market_cap": 49462923264,
+    "current_price": 903.25,
+    "pe_ratio": 36.988125,
+    "pb_ratio": 5.4606404,
     "roe": 0.15796,
     "debt_to_equity": 0.778,
     "revenue": 4741000192,
@@ -16,6 +16,6 @@
     "eps": 24.42,
     "52_week_high": 1998.0,
     "52_week_low": 795.0,
-    "dividend_yield": 0.4
+    "dividend_yield": "N/A"
   }
 }

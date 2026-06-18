@@ -1,14 +1,14 @@
 {
   "ticker": "SARDAEN",
-  "collected_at": "2026-06-17 07:04:14",
+  "collected_at": "2026-06-18 06:46:11",
   "company_info": {
     "name": "Sarda Energy & Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Steel",
-    "market_cap": 184260182016,
-    "current_price": 522.9,
-    "pe_ratio": 16.674109,
-    "pb_ratio": 2.5020936,
+    "market_cap": 182603988992,
+    "current_price": 518.2,
+    "pe_ratio": 16.524235,
+    "pb_ratio": 2.4796038,
     "roe": 0.15999,
     "debt_to_equity": 35.204,
     "revenue": 56904499200,
@@ -16,6 +16,6 @@
     "eps": 31.36,
     "52_week_high": 639.75,
     "52_week_low": 420.75,
-    "dividend_yield": 0.29
+    "dividend_yield": "N/A"
   }
 }

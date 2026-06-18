@@ -1,14 +1,14 @@
 {
   "ticker": "ASAHIINDIA",
-  "collected_at": "2026-06-17 06:38:25",
+  "collected_at": "2026-06-18 06:21:18",
   "company_info": {
     "name": "Asahi India Glass Limited",
     "sector": "Consumer Cyclical",
     "industry": "Auto Parts",
-    "market_cap": 226260631552,
-    "current_price": 887.55,
-    "pe_ratio": 64.12933,
-    "pb_ratio": 5.7506523,
+    "market_cap": 221531734016,
+    "current_price": 869.0,
+    "pe_ratio": 62.789017,
+    "pb_ratio": 5.6304626,
     "roe": 0.104940005,
     "debt_to_equity": 55.868,
     "revenue": 49899298816,
@@ -16,6 +16,6 @@
     "eps": 13.84,
     "52_week_high": 1074.0,
     "52_week_low": 688.3,
-    "dividend_yield": 0.23
+    "dividend_yield": "N/A"
   }
 }

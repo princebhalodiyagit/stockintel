@@ -1,14 +1,14 @@
 {
   "ticker": "PRESTIGE",
-  "collected_at": "2026-06-17 07:01:22",
+  "collected_at": "2026-06-18 06:43:26",
   "company_info": {
     "name": "Prestige Estates Projects Limited",
     "sector": "Real Estate",
     "industry": "Real Estate - Diversified",
-    "market_cap": 650574954496,
-    "current_price": 1510.4,
-    "pe_ratio": 54.566475,
-    "pb_ratio": 3.9954395,
+    "market_cap": 656605184000,
+    "current_price": 1524.4,
+    "pe_ratio": 55.072254,
+    "pb_ratio": 4.0324736,
     "roe": 0.07998,
     "debt_to_equity": 105.493,
     "revenue": 126853996544,
@@ -16,6 +16,6 @@
     "eps": 27.68,
     "52_week_high": 1814.0,
     "52_week_low": 1090.0,
-    "dividend_yield": 0.12
+    "dividend_yield": "N/A"
   }
 }

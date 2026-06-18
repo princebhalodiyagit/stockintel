@@ -1,14 +1,14 @@
 {
   "ticker": "BLUEDART",
-  "collected_at": "2026-06-17 06:41:00",
+  "collected_at": "2026-06-18 06:23:46",
   "company_info": {
     "name": "Blue Dart Express Limited",
     "sector": "Industrials",
     "industry": "Integrated Freight & Logistics",
-    "market_cap": 114736422912,
-    "current_price": 4835.5,
-    "pe_ratio": 46.308178,
-    "pb_ratio": 6.4565964,
+    "market_cap": 115533684736,
+    "current_price": 4869.1,
+    "pe_ratio": 46.62996,
+    "pb_ratio": 6.501461,
     "roe": 0.14832,
     "debt_to_equity": "N/A",
     "revenue": 61408800768,
@@ -16,6 +16,6 @@
     "eps": 104.42,
     "52_week_high": 7080.0,
     "52_week_low": 4628.5,
-    "dividend_yield": 0.52
+    "dividend_yield": "N/A"
   }
 }

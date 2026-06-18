@@ -1,14 +1,14 @@
 {
   "ticker": "ENDURANCE",
-  "collected_at": "2026-06-17 06:45:30",
+  "collected_at": "2026-06-18 06:28:05",
   "company_info": {
     "name": "Endurance Technologies Limited",
     "sector": "Consumer Cyclical",
     "industry": "Auto Parts",
-    "market_cap": 364260524032,
-    "current_price": 2589.6,
-    "pe_ratio": 38.22288,
-    "pb_ratio": 5.3257217,
+    "market_cap": 368156868608,
+    "current_price": 2617.3,
+    "pe_ratio": 38.631737,
+    "pb_ratio": 5.3826885,
     "roe": 0.15156999,
     "debt_to_equity": 19.393,
     "revenue": 145958797312,
@@ -16,6 +16,6 @@
     "eps": 67.75,
     "52_week_high": 3079.9,
     "52_week_low": 2142.8,
-    "dividend_yield": 0.44
+    "dividend_yield": "N/A"
   }
 }

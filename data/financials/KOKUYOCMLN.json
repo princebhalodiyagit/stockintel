@@ -1,14 +1,14 @@
 {
   "ticker": "KOKUYOCMLN",
-  "collected_at": "2026-06-17 06:53:49",
+  "collected_at": "2026-06-18 06:36:07",
   "company_info": {
     "name": "Kokuyo Camlin Limited",
     "sector": "Industrials",
     "industry": "Business Equipment & Supplies",
-    "market_cap": 8735458304,
-    "current_price": 87.09,
-    "pe_ratio": 35.259106,
-    "pb_ratio": 2.6902046,
+    "market_cap": 8659227648,
+    "current_price": 86.33,
+    "pe_ratio": 34.951416,
+    "pb_ratio": 2.6667285,
     "roe": "N/A",
     "debt_to_equity": 11.417,
     "revenue": 6835014144,
@@ -16,6 +16,6 @@
     "eps": 2.47,
     "52_week_high": 137.9,
     "52_week_low": 71.05,
-    "dividend_yield": 0.35
+    "dividend_yield": "N/A"
   }
 }

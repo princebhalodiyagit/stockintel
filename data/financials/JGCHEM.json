@@ -1,14 +1,14 @@
 {
   "ticker": "JGCHEM",
-  "collected_at": "2026-06-17 06:52:11",
+  "collected_at": "2026-06-18 06:34:32",
   "company_info": {
     "name": "J.G.Chemicals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining",
-    "market_cap": 16830414848,
-    "current_price": 429.5,
-    "pe_ratio": 25.565477,
-    "pb_ratio": 3.211023,
+    "market_cap": 16752041984,
+    "current_price": 427.5,
+    "pe_ratio": 25.44643,
+    "pb_ratio": 3.1960707,
     "roe": 0.13518,
     "debt_to_equity": 1.192,
     "revenue": 9729300480,
@@ -16,6 +16,6 @@
     "eps": 16.8,
     "52_week_high": 558.0,
     "52_week_low": 298.4,
-    "dividend_yield": 0.23
+    "dividend_yield": "N/A"
   }
 }

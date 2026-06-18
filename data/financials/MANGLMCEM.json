@@ -1,14 +1,14 @@
 {
   "ticker": "MANGLMCEM",
-  "collected_at": "2026-06-17 06:55:45",
+  "collected_at": "2026-06-18 06:37:57",
   "company_info": {
     "name": "Mangalam Cement Limited",
     "sector": "Basic Materials",
     "industry": "Building Materials",
-    "market_cap": 23510190080,
-    "current_price": 855.0,
-    "pe_ratio": 18.230276,
-    "pb_ratio": 2.4060514,
+    "market_cap": 23217342464,
+    "current_price": 844.35,
+    "pe_ratio": 18.003197,
+    "pb_ratio": 2.3760812,
     "roe": 0.14099,
     "debt_to_equity": 90.914,
     "revenue": 17584060416,
@@ -16,6 +16,6 @@
     "eps": 46.9,
     "52_week_high": 953.8,
     "52_week_low": 679.35,
-    "dividend_yield": 0.18
+    "dividend_yield": "N/A"
   }
 }

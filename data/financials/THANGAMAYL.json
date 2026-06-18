@@ -1,14 +1,14 @@
 {
   "ticker": "THANGAMAYL",
-  "collected_at": "2026-06-17 07:08:52",
+  "collected_at": "2026-06-18 06:50:43",
   "company_info": {
     "name": "Thangamayil Jewellery Limited",
     "sector": "Consumer Cyclical",
     "industry": "Luxury Goods",
-    "market_cap": 170954227712,
-    "current_price": 5500.1,
-    "pe_ratio": 48.566006,
-    "pb_ratio": 14.6488085,
+    "market_cap": 170795696128,
+    "current_price": 5495.0,
+    "pe_ratio": 48.520973,
+    "pb_ratio": 14.635225,
     "roe": 0.27927,
     "debt_to_equity": 64.492,
     "revenue": 84993302528,
@@ -16,6 +16,6 @@
     "eps": 113.25,
     "52_week_high": 5764.2,
     "52_week_low": 1750.1,
-    "dividend_yield": 0.33
+    "dividend_yield": "N/A"
   }
 }

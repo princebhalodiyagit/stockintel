@@ -1,14 +1,14 @@
 {
   "ticker": "MAHLOG",
-  "collected_at": "2026-06-17 06:55:29",
+  "collected_at": "2026-06-18 06:37:43",
   "company_info": {
     "name": "Mahindra Logistics Limited",
     "sector": "Industrials",
     "industry": "Integrated Freight & Logistics",
-    "market_cap": 34157338624,
-    "current_price": 344.25,
-    "pe_ratio": 1434.375,
-    "pb_ratio": 4.3316054,
+    "market_cap": 34469888000,
+    "current_price": 347.4,
+    "pe_ratio": 1447.5,
+    "pb_ratio": 4.371241,
     "roe": 0.01279,
     "debt_to_equity": 46.725,
     "revenue": 69992996864,
@@ -16,6 +16,6 @@
     "eps": 0.24,
     "52_week_high": 450.0,
     "52_week_low": 275.05,
-    "dividend_yield": 0.73
+    "dividend_yield": "N/A"
   }
 }

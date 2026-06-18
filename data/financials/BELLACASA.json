@@ -1,14 +1,14 @@
 {
   "ticker": "BELLACASA",
-  "collected_at": "2026-06-17 06:40:18",
+  "collected_at": "2026-06-18 06:23:04",
   "company_info": {
     "name": "Bella Casa Fashion & Retail Limited",
     "sector": "Consumer Cyclical",
     "industry": "Textile Manufacturing",
-    "market_cap": 3206306304,
-    "current_price": 239.5,
-    "pe_ratio": 15.987985,
-    "pb_ratio": 1.8695893,
+    "market_cap": 3209117696,
+    "current_price": 239.71,
+    "pe_ratio": 16.002003,
+    "pb_ratio": 1.8712287,
     "roe": 0.12714,
     "debt_to_equity": 47.054,
     "revenue": 4163966976,
@@ -16,6 +16,6 @@
     "eps": 14.98,
     "52_week_high": 497.35,
     "52_week_low": 220.25,
-    "dividend_yield": 0.84
+    "dividend_yield": "N/A"
   }
 }

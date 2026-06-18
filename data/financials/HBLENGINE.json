@@ -1,14 +1,14 @@
 {
   "ticker": "HBLENGINE",
-  "collected_at": "2026-06-17 06:48:58",
+  "collected_at": "2026-06-18 06:31:24",
   "company_info": {
     "name": "HBL Engineering Limited",
     "sector": "Industrials",
     "industry": "Electrical Equipment & Parts",
-    "market_cap": 220092792832,
-    "current_price": 794.0,
-    "pe_ratio": 26.979273,
-    "pb_ratio": 9.853439,
+    "market_cap": 222809292800,
+    "current_price": 803.8,
+    "pe_ratio": 27.312265,
+    "pb_ratio": 9.975056,
     "roe": 0.44074002,
     "debt_to_equity": 3.021,
     "revenue": 33028300800,
@@ -16,6 +16,6 @@
     "eps": 29.43,
     "52_week_high": 1122.0,
     "52_week_low": 551.6,
-    "dividend_yield": 0.25
+    "dividend_yield": "N/A"
   }
 }

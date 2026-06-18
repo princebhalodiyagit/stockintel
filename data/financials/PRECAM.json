@@ -1,14 +1,14 @@
 {
   "ticker": "PRECAM",
-  "collected_at": "2026-06-17 07:01:17",
+  "collected_at": "2026-06-18 06:43:21",
   "company_info": {
     "name": "Precision Camshafts Limited",
     "sector": "Consumer Cyclical",
     "industry": "Auto Parts",
-    "market_cap": 14264971264,
-    "current_price": 150.18,
-    "pe_ratio": 27.81111,
-    "pb_ratio": 1.7479457,
+    "market_cap": 14328612864,
+    "current_price": 150.85,
+    "pe_ratio": 27.935186,
+    "pb_ratio": 1.755744,
     "roe": 0.06375,
     "debt_to_equity": 13.008,
     "revenue": 8247157760,
@@ -16,6 +16,6 @@
     "eps": 5.4,
     "52_week_high": 262.0,
     "52_week_low": 103.98,
-    "dividend_yield": 0.67
+    "dividend_yield": "N/A"
   }
 }

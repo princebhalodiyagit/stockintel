@@ -1,14 +1,14 @@
 {
   "ticker": "MACPOWER",
-  "collected_at": "2026-06-17 06:55:18",
+  "collected_at": "2026-06-18 06:37:32",
   "company_info": {
     "name": "Macpower CNC Machines Limited",
     "sector": "Industrials",
     "industry": "Specialty Industrial Machinery",
-    "market_cap": 9984151552,
-    "current_price": 998.0,
-    "pe_ratio": 29.500443,
-    "pb_ratio": 5.6979733,
+    "market_cap": 10124210176,
+    "current_price": 1012.0,
+    "pe_ratio": 29.914276,
+    "pb_ratio": 5.777905,
     "roe": 0.21298,
     "debt_to_equity": 0.389,
     "revenue": 3331759104,
@@ -16,6 +16,6 @@
     "eps": 33.83,
     "52_week_high": 1250.0,
     "52_week_low": 761.0,
-    "dividend_yield": 0.15
+    "dividend_yield": "N/A"
   }
 }

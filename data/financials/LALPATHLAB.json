@@ -1,14 +1,14 @@
 {
   "ticker": "LALPATHLAB",
-  "collected_at": "2026-06-17 06:54:29",
+  "collected_at": "2026-06-18 06:36:45",
   "company_info": {
     "name": "Dr. Lal PathLabs Limited",
     "sector": "Healthcare",
     "industry": "Diagnostics & Research",
-    "market_cap": 276081049600,
-    "current_price": 1653.4,
-    "pe_ratio": 52.174187,
-    "pb_ratio": 11.011803,
+    "market_cap": 273893654528,
+    "current_price": 1640.3,
+    "pe_ratio": 51.760807,
+    "pb_ratio": 10.924555,
     "roe": 0.21475,
     "debt_to_equity": 7.831,
     "revenue": 27629000704,
@@ -16,6 +16,6 @@
     "eps": 31.69,
     "52_week_high": 1803.0,
     "52_week_low": 1272.6,
-    "dividend_yield": 0.85
+    "dividend_yield": "N/A"
   }
 }

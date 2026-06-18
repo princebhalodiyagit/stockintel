@@ -1,14 +1,14 @@
 {
   "ticker": "RESPONIND",
-  "collected_at": "2026-06-17 07:02:46",
+  "collected_at": "2026-06-18 06:44:46",
   "company_info": {
     "name": "Responsive Industries Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals",
-    "market_cap": 47472316416,
-    "current_price": 178.06,
-    "pe_ratio": 31.967682,
-    "pb_ratio": 3.0311697,
+    "market_cap": 50015764480,
+    "current_price": 187.6,
+    "pe_ratio": 33.68043,
+    "pb_ratio": 3.193572,
     "roe": 0.10221,
     "debt_to_equity": 12.509,
     "revenue": 13941182464,
@@ -16,6 +16,6 @@
     "eps": 5.57,
     "52_week_high": 251.0,
     "52_week_low": 117.25,
-    "dividend_yield": 0.06
+    "dividend_yield": "N/A"
   }
 }

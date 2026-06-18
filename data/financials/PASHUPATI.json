@@ -1,14 +1,14 @@
 {
   "ticker": "PASHUPATI",
-  "collected_at": "2026-06-17 07:00:03",
+  "collected_at": "2026-06-18 06:42:07",
   "company_info": {
     "name": "Pashupati Cotspin Limited",
     "sector": "Consumer Cyclical",
     "industry": "Textile Manufacturing",
-    "market_cap": 13804686336,
-    "current_price": 87.46,
-    "pe_ratio": 1249.4286,
-    "pb_ratio": 8.084674,
+    "market_cap": 13822048256,
+    "current_price": 87.57,
+    "pe_ratio": 1251.0,
+    "pb_ratio": 8.094842,
     "roe": 0.06525,
     "debt_to_equity": 60.103,
     "revenue": 6878120960,
@@ -16,6 +16,6 @@
     "eps": 0.07,
     "52_week_high": 118.35,
     "52_week_low": 65.04,
-    "dividend_yield": 0.06
+    "dividend_yield": "N/A"
   }
 }

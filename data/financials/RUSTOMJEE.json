@@ -1,14 +1,14 @@
 {
   "ticker": "RUSTOMJEE",
-  "collected_at": "2026-06-17 07:03:35",
+  "collected_at": "2026-06-18 06:45:33",
   "company_info": {
     "name": "Keystone Realtors Limited",
     "sector": "Real Estate",
     "industry": "Real Estate - Development",
-    "market_cap": 51227021312,
-    "current_price": 405.8,
-    "pe_ratio": 65.346214,
-    "pb_ratio": 1.7901571,
+    "market_cap": 50419105792,
+    "current_price": 399.4,
+    "pe_ratio": 64.31562,
+    "pb_ratio": 1.761924,
     "roe": 0.03344,
     "debt_to_equity": 51.271,
     "revenue": 26345400320,
@@ -16,6 +16,6 @@
     "eps": 6.21,
     "52_week_high": 697.0,
     "52_week_low": 358.8,
-    "dividend_yield": 0.38
+    "dividend_yield": "N/A"
   }
 }

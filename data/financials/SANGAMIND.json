@@ -1,14 +1,14 @@
 {
   "ticker": "SANGAMIND",
-  "collected_at": "2026-06-17 07:04:06",
+  "collected_at": "2026-06-18 06:46:03",
   "company_info": {
     "name": "Sangam (India) Limited",
     "sector": "Consumer Cyclical",
     "industry": "Textile Manufacturing",
-    "market_cap": 25976516608,
-    "current_price": 526.8,
-    "pe_ratio": 32.082825,
-    "pb_ratio": 2.4594066,
+    "market_cap": 26338947072,
+    "current_price": 534.15,
+    "pe_ratio": 32.530453,
+    "pb_ratio": 2.493721,
     "roe": 0.07931,
     "debt_to_equity": 118.739,
     "revenue": 32345300992,
@@ -16,6 +16,6 @@
     "eps": 16.42,
     "52_week_high": 576.95,
     "52_week_low": 341.55,
-    "dividend_yield": 0.38
+    "dividend_yield": "N/A"
   }
 }

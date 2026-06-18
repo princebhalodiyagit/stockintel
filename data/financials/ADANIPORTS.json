@@ -1,14 +1,14 @@
 {
   "ticker": "ADANIPORTS",
-  "collected_at": "2026-06-17 06:36:21",
+  "collected_at": "2026-06-18 06:19:17",
   "company_info": {
     "name": "Adani Ports and Special Economic Zone Limited",
     "sector": "Industrials",
     "industry": "Marine Shipping",
-    "market_cap": 4191592906752,
-    "current_price": 1819.3,
-    "pe_ratio": 31.205833,
-    "pb_ratio": 4.3681197,
+    "market_cap": 4202881875968,
+    "current_price": 1824.2,
+    "pe_ratio": 31.289879,
+    "pb_ratio": 4.3798842,
     "roe": 0.15592,
     "debt_to_equity": 64.051,
     "revenue": 387357704192,
@@ -16,6 +16,6 @@
     "eps": 58.3,
     "52_week_high": 1857.8,
     "52_week_low": 1290.5,
-    "dividend_yield": 0.41
+    "dividend_yield": "N/A"
   }
 }

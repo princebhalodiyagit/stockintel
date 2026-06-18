@@ -1,14 +1,14 @@
 {
   "ticker": "NDRAUTO",
-  "collected_at": "2026-06-17 06:58:05",
+  "collected_at": "2026-06-18 06:40:12",
   "company_info": {
     "name": "NDR Auto Components Limited",
     "sector": "Consumer Cyclical",
     "industry": "Auto Parts",
-    "market_cap": 20600193024,
-    "current_price": 863.55,
-    "pe_ratio": 33.12428,
-    "pb_ratio": 5.7418795,
+    "market_cap": 20092076032,
+    "current_price": 842.25,
+    "pe_ratio": 32.30725,
+    "pb_ratio": 5.6002526,
     "roe": 0.1877,
     "debt_to_equity": 17.248,
     "revenue": 8225379840,
@@ -16,6 +16,6 @@
     "eps": 26.07,
     "52_week_high": 1220.0,
     "52_week_low": 605.05,
-    "dividend_yield": 0.47
+    "dividend_yield": "N/A"
   }
 }

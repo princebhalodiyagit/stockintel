@@ -1,14 +1,14 @@
 {
   "ticker": "WORTHPERI",
-  "collected_at": "2026-06-17 07:12:05",
+  "collected_at": "2026-06-18 06:53:49",
   "company_info": {
     "name": "Worth Peripherals Limited",
     "sector": "Consumer Cyclical",
     "industry": "Packaging & Containers",
-    "market_cap": 2014552960,
-    "current_price": 127.9,
-    "pe_ratio": 13.767492,
-    "pb_ratio": 1.104939,
+    "market_cap": 2039282048,
+    "current_price": 129.47,
+    "pe_ratio": 13.936491,
+    "pb_ratio": 1.1185024,
     "roe": 0.094160005,
     "debt_to_equity": 20.288,
     "revenue": 3049059072,
@@ -16,6 +16,6 @@
     "eps": 9.29,
     "52_week_high": 186.0,
     "52_week_low": 109.0,
-    "dividend_yield": 0.79
+    "dividend_yield": "N/A"
   }
 }

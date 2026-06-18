@@ -1,21 +1,21 @@
 {
   "ticker": "PRUDENT",
-  "collected_at": "2026-06-17 07:01:33",
+  "collected_at": "2026-06-18 06:43:37",
   "company_info": {
     "name": "Prudent Corporate Advisory Services Limited",
     "sector": "Financial Services",
     "industry": "Asset Management",
-    "market_cap": 125710680064,
-    "current_price": 3036.0,
-    "pe_ratio": 56.46271,
-    "pb_ratio": 16.48307,
+    "market_cap": 127159910400,
+    "current_price": 3071.0,
+    "pe_ratio": 57.305466,
+    "pb_ratio": 16.673092,
     "roe": 0.28643999,
     "debt_to_equity": 3.866,
     "revenue": 13358491648,
     "net_income": 2220525056,
-    "eps": 53.77,
+    "eps": 53.59,
     "52_week_high": 3098.0,
     "52_week_low": 2121.0,
-    "dividend_yield": 0.08
+    "dividend_yield": "N/A"
   }
 }

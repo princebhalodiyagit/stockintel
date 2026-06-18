@@ -1,14 +1,14 @@
 {
   "ticker": "ARIHANTSUP",
-  "collected_at": "2026-06-17 06:38:13",
+  "collected_at": "2026-06-18 06:21:06",
   "company_info": {
     "name": "Arihant Superstructures Limited",
     "sector": "Real Estate",
     "industry": "Real Estate - Development",
-    "market_cap": 11489359872,
-    "current_price": 265.65,
-    "pe_ratio": 24.967104,
-    "pb_ratio": 3.1667223,
+    "market_cap": 11552072704,
+    "current_price": 267.1,
+    "pe_ratio": 25.103384,
+    "pb_ratio": 5.3675494,
     "roe": 0.111269996,
     "debt_to_equity": 194.333,
     "revenue": 5509744128,
@@ -16,6 +16,6 @@
     "eps": 10.64,
     "52_week_high": 465.0,
     "52_week_low": 188.8,
-    "dividend_yield": 0.56
+    "dividend_yield": "N/A"
   }
 }

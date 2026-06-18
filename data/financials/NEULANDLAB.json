@@ -1,14 +1,14 @@
 {
   "ticker": "NEULANDLAB",
-  "collected_at": "2026-06-17 06:58:18",
+  "collected_at": "2026-06-18 06:40:25",
   "company_info": {
     "name": "Neuland Laboratories Limited",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - Specialty & Generic",
-    "market_cap": 216927764480,
-    "current_price": 16908.0,
-    "pe_ratio": 59.47867,
-    "pb_ratio": 11.580655,
+    "market_cap": 219634876416,
+    "current_price": 17119.0,
+    "pe_ratio": 60.22092,
+    "pb_ratio": 11.725174,
     "roe": "N/A",
     "debt_to_equity": 16.072,
     "revenue": 6057591808,
@@ -16,6 +16,6 @@
     "eps": 284.27,
     "52_week_high": 19747.0,
     "52_week_low": 11500.0,
-    "dividend_yield": 0.2
+    "dividend_yield": "N/A"
   }
 }

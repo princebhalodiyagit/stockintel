@@ -1,14 +1,14 @@
 {
   "ticker": "THEMISMED",
-  "collected_at": "2026-06-17 07:08:56",
+  "collected_at": "2026-06-18 06:50:47",
   "company_info": {
     "name": "Themis Medicare Limited",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - Specialty & Generic",
-    "market_cap": 9432331264,
-    "current_price": 101.55,
-    "pe_ratio": 846.25006,
-    "pb_ratio": 2.4774334,
+    "market_cap": 9455552512,
+    "current_price": 101.8,
+    "pe_ratio": 848.3334,
+    "pb_ratio": 2.4835324,
     "roe": 0.0028600001,
     "debt_to_equity": 25.112,
     "revenue": 3422354944,
@@ -16,6 +16,6 @@
     "eps": 0.12,
     "52_week_high": 148.0,
     "52_week_low": 64.95,
-    "dividend_yield": 0.49
+    "dividend_yield": "N/A"
   }
 }

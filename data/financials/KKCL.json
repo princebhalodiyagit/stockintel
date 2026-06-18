@@ -1,14 +1,14 @@
 {
   "ticker": "KKCL",
-  "collected_at": "2026-06-17 06:53:42",
+  "collected_at": "2026-06-18 06:35:59",
   "company_info": {
     "name": "Kewal Kiran Clothing Limited",
     "sector": "Consumer Cyclical",
     "industry": "Apparel Manufacturing",
-    "market_cap": 29706418176,
-    "current_price": 482.05,
-    "pe_ratio": 20.940485,
-    "pb_ratio": 3.5275478,
+    "market_cap": 30042277888,
+    "current_price": 487.5,
+    "pe_ratio": 21.177237,
+    "pb_ratio": 3.56743,
     "roe": 0.14431,
     "debt_to_equity": "N/A",
     "revenue": 12127699968,
@@ -16,6 +16,6 @@
     "eps": 23.02,
     "52_week_high": 595.0,
     "52_week_low": 408.35,
-    "dividend_yield": 0.83
+    "dividend_yield": "N/A"
   }
 }

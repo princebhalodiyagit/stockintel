@@ -1,14 +1,14 @@
 {
   "ticker": "ACUTAAS",
-  "collected_at": "2026-06-17 06:36:16",
+  "collected_at": "2026-06-18 06:19:13",
   "company_info": {
     "name": "Acutaas Chemicals Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals",
-    "market_cap": 245122138112,
-    "current_price": 2994.0,
-    "pe_ratio": 85.39646,
-    "pb_ratio": 14.827287,
+    "market_cap": 255601639424,
+    "current_price": 3122.0,
+    "pe_ratio": 89.04734,
+    "pb_ratio": 15.461185,
     "roe": 0.23516001,
     "debt_to_equity": 2.081,
     "revenue": 13393668096,
@@ -16,6 +16,6 @@
     "eps": 35.06,
     "52_week_high": 3444.3,
     "52_week_low": 1059.0,
-    "dividend_yield": 0.05
+    "dividend_yield": "N/A"
   }
 }

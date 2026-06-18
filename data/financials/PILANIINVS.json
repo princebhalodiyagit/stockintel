@@ -1,14 +1,14 @@
 {
   "ticker": "PILANIINVS",
-  "collected_at": "2026-06-17 07:00:33",
+  "collected_at": "2026-06-18 06:42:36",
   "company_info": {
     "name": "Pilani Investment and Industries Corporation Limited",
     "sector": "Financial Services",
     "industry": "Asset Management",
-    "market_cap": 48608284672,
-    "current_price": 4390.1,
-    "pe_ratio": 155.40178,
-    "pb_ratio": 0.30646807,
+    "market_cap": 48620466176,
+    "current_price": 4391.2,
+    "pe_ratio": 155.44072,
+    "pb_ratio": 0.30654487,
     "roe": 0.00195,
     "debt_to_equity": 15.067,
     "revenue": 2882536960,
@@ -16,6 +16,6 @@
     "eps": 28.25,
     "52_week_high": 5980.0,
     "52_week_low": 4092.2,
-    "dividend_yield": 0.2
+    "dividend_yield": "N/A"
   }
 }

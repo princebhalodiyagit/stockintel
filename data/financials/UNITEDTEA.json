@@ -1,14 +1,14 @@
 {
   "ticker": "UNITEDTEA",
-  "collected_at": "2026-06-17 07:10:22",
+  "collected_at": "2026-06-18 06:52:10",
   "company_info": {
     "name": "The United Nilgiri Tea Estates Company Limited",
     "sector": "Consumer Defensive",
     "industry": "Farm Products",
-    "market_cap": 2473300224,
-    "current_price": 495.0,
-    "pe_ratio": 11.270493,
-    "pb_ratio": 1.0644063,
+    "market_cap": 2458060800,
+    "current_price": 491.95,
+    "pe_ratio": 11.201048,
+    "pb_ratio": 1.0189203,
     "roe": "N/A",
     "debt_to_equity": "N/A",
     "revenue": 655233984,
@@ -16,6 +16,6 @@
     "eps": 43.92,
     "52_week_high": 590.0,
     "52_week_low": 412.0,
-    "dividend_yield": 0.64
+    "dividend_yield": "N/A"
   }
 }

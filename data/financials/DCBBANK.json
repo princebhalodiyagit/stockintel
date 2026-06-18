@@ -1,14 +1,14 @@
 {
   "ticker": "DCBBANK",
-  "collected_at": "2026-06-17 06:43:42",
+  "collected_at": "2026-06-18 06:26:22",
   "company_info": {
     "name": "DCB Bank Limited",
     "sector": "Financial Services",
     "industry": "Banks - Regional",
-    "market_cap": 59149520896,
-    "current_price": 183.65,
-    "pe_ratio": 8.047765,
-    "pb_ratio": 0.9046263,
+    "market_cap": 59729260544,
+    "current_price": 185.45,
+    "pe_ratio": 8.126643,
+    "pb_ratio": 0.9134928,
     "roe": 0.11968,
     "debt_to_equity": "N/A",
     "revenue": 29928910848,
@@ -16,6 +16,6 @@
     "eps": 22.82,
     "52_week_high": 205.9,
     "52_week_low": 119.51,
-    "dividend_yield": 0.79
+    "dividend_yield": "N/A"
   }
 }

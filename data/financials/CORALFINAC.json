@@ -1,14 +1,14 @@
 {
   "ticker": "CORALFINAC",
-  "collected_at": "2026-06-17 06:42:56",
+  "collected_at": "2026-06-18 06:25:38",
   "company_info": {
     "name": "Coral India Finance and Housing Limited",
     "sector": "Real Estate",
     "industry": "Real Estate Services",
-    "market_cap": 1318688768,
-    "current_price": 32.72,
-    "pe_ratio": 8.915531,
-    "pb_ratio": 0.63440365,
+    "market_cap": 1325943168,
+    "current_price": 32.9,
+    "pe_ratio": 8.964578,
+    "pb_ratio": 0.6378936,
     "roe": 0.0691,
     "debt_to_equity": "N/A",
     "revenue": 153964000,
@@ -16,6 +16,6 @@
     "eps": 3.67,
     "52_week_high": 52.49,
     "52_week_low": 25.01,
-    "dividend_yield": 1.24
+    "dividend_yield": "N/A"
   }
 }

@@ -1,14 +1,14 @@
 {
   "ticker": "ICICIGI",
-  "collected_at": "2026-06-17 06:50:05",
+  "collected_at": "2026-06-18 06:32:31",
   "company_info": {
     "name": "ICICI Lombard General Insurance Company Limited",
     "sector": "Financial Services",
     "industry": "Insurance - Diversified",
-    "market_cap": 889425100800,
-    "current_price": 1781.8,
-    "pe_ratio": 32.226444,
-    "pb_ratio": 5.5264177,
+    "market_cap": 914783010816,
+    "current_price": 1832.6,
+    "pe_ratio": 33.145233,
+    "pb_ratio": 5.6839786,
     "roe": 0.17851,
     "debt_to_equity": 0.057,
     "revenue": 270056898560,
@@ -16,6 +16,6 @@
     "eps": 55.29,
     "52_week_high": 2068.7,
     "52_week_low": 1629.5,
-    "dividend_yield": 0.78
+    "dividend_yield": "N/A"
   }
 }

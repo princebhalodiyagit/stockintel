@@ -1,14 +1,14 @@
 {
   "ticker": "ORIENTHOT",
-  "collected_at": "2026-06-17 06:59:38",
+  "collected_at": "2026-06-18 06:41:41",
   "company_info": {
     "name": "Oriental Hotels Limited",
     "sector": "Consumer Cyclical",
     "industry": "Lodging",
-    "market_cap": 21165789184,
-    "current_price": 118.51,
-    "pe_ratio": 31.26913,
-    "pb_ratio": 3.060534,
+    "market_cap": 20424603648,
+    "current_price": 114.36,
+    "pe_ratio": 30.174143,
+    "pb_ratio": 2.9533598,
     "roe": 0.094119996,
     "debt_to_equity": 17.135,
     "revenue": 4938399744,
@@ -16,6 +16,6 @@
     "eps": 3.79,
     "52_week_high": 168.99,
     "52_week_low": 80.0,
-    "dividend_yield": 0.42
+    "dividend_yield": "N/A"
   }
 }

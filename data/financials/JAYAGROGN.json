@@ -1,14 +1,14 @@
 {
   "ticker": "JAYAGROGN",
-  "collected_at": "2026-06-17 06:52:02",
+  "collected_at": "2026-06-18 06:34:24",
   "company_info": {
     "name": "Jayant Agro-Organics Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals",
-    "market_cap": 6688499712,
-    "current_price": 222.95,
-    "pe_ratio": 13.2629385,
-    "pb_ratio": 1.0972003,
+    "market_cap": 6656699904,
+    "current_price": 221.89,
+    "pe_ratio": 13.199882,
+    "pb_ratio": 1.1300623,
     "roe": 0.08019,
     "debt_to_equity": 20.447,
     "revenue": 24057354240,
@@ -16,6 +16,6 @@
     "eps": 16.81,
     "52_week_high": 271.1,
     "52_week_low": 147.26,
-    "dividend_yield": 1.11
+    "dividend_yield": "N/A"
   }
 }

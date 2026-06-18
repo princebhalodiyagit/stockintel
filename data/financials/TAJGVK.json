@@ -1,14 +1,14 @@
 {
   "ticker": "TAJGVK",
-  "collected_at": "2026-06-17 07:08:02",
+  "collected_at": "2026-06-18 06:49:54",
   "company_info": {
     "name": "TAJGVK Hotels & Resorts Limited",
     "sector": "Consumer Cyclical",
     "industry": "Lodging",
-    "market_cap": 20816896000,
-    "current_price": 332.0,
-    "pe_ratio": 5.0834484,
-    "pb_ratio": 3.0157418,
+    "market_cap": 20776140800,
+    "current_price": 331.35,
+    "pe_ratio": 5.073496,
+    "pb_ratio": 3.0098376,
     "roe": 0.39556998,
     "debt_to_equity": 9.027,
     "revenue": 5084499968,
@@ -16,6 +16,6 @@
     "eps": 65.31,
     "52_week_high": 512.65,
     "52_week_low": 281.35,
-    "dividend_yield": 0.6
+    "dividend_yield": "N/A"
   }
 }

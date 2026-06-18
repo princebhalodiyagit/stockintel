@@ -1,14 +1,14 @@
 {
   "ticker": "CRAFTSMAN",
-  "collected_at": "2026-06-17 06:43:05",
+  "collected_at": "2026-06-18 06:25:47",
   "company_info": {
     "name": "Craftsman Automation Limited",
     "sector": "Consumer Cyclical",
     "industry": "Auto Parts",
-    "market_cap": 228453007360,
-    "current_price": 9576.5,
-    "pe_ratio": 59.356018,
-    "pb_ratio": 6.999357,
+    "market_cap": 226842755072,
+    "current_price": 9509.0,
+    "pe_ratio": 58.93765,
+    "pb_ratio": 6.950022,
     "roe": 0.12547,
     "debt_to_equity": 111.011,
     "revenue": 80692699136,
@@ -16,6 +16,6 @@
     "eps": 161.34,
     "52_week_high": 9738.0,
     "52_week_low": 5100.0,
-    "dividend_yield": 0.12
+    "dividend_yield": "N/A"
   }
 }
