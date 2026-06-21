@@ -1,7 +1,7 @@
 {
   "ticker": "ZEEL",
   "company": "Zee Entertainment Enterprises Limited",
-  "collected_at": "2026-06-20 06:27:52",
+  "collected_at": "2026-06-21 07:00:37",
   "directors": [
     {
       "name": "Mr. Punit  Goenka B.Com.",
@@ -46,13 +46,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Ms. Shipra  Wahi",
-      "role": "Chief Sales Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Rohit  Suri",
       "role": "Chief Human Resources Officer",
       "age": "N/A",
@@ -71,6 +64,13 @@
       "role": "President of Digital Businesses & Platforms",
       "age": 50,
       "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pushpal  Sanghavi",
+      "role": "Senior Vice President of Secretarial",
+      "age": 51,
+      "year_born": 1974,
       "total_pay": "N/A"
     }
   ]

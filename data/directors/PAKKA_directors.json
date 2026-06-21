@@ -1,7 +1,7 @@
 {
   "ticker": "PAKKA",
   "company": "PAKKA LIMITED",
-  "collected_at": "2026-06-20 06:15:59",
+  "collected_at": "2026-06-21 06:48:45",
   "directors": [
     {
       "name": "Mr. Ved  Krishna",
@@ -9,13 +9,6 @@
       "age": 50,
       "year_born": 1975,
       "total_pay": 660000
-    },
-    {
-      "name": "Ms. Neetika  Suryawanshi",
-      "role": "CFO & Finance Head",
-      "age": 44,
-      "year_born": 1981,
-      "total_pay": 6404000
     },
     {
       "name": "Mr. Sachin Kumar Srivastava",
@@ -71,6 +64,13 @@
       "role": "Head of Customer Relations",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vivek  Pandey",
+      "role": "Head of Digital Transformation",
+      "age": 41,
+      "year_born": 1984,
       "total_pay": "N/A"
     }
   ]

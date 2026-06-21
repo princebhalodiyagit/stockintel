@@ -1,7 +1,7 @@
 {
   "ticker": "ADSL",
   "company": "Allied Digital Services Limited",
-  "collected_at": "2026-06-20 05:52:58",
+  "collected_at": "2026-06-21 06:26:27",
   "directors": [
     {
       "name": "Mr. Nitin Dhanji Shah",
@@ -16,13 +16,6 @@
       "age": 51,
       "year_born": 1974,
       "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Nehal Nitin Shah",
-      "role": "Wholetime Director",
-      "age": 40,
-      "year_born": 1985,
-      "total_pay": 688000
     },
     {
       "name": "Ms. Tejal Prakash Shah",
@@ -69,6 +62,13 @@
     {
       "name": "Ms. Khyati Nishil Shah",
       "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sair  Muhammad",
+      "role": "Executive Vice President of Sales",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

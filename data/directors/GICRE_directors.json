@@ -1,15 +1,8 @@
 {
   "ticker": "GICRE",
   "company": "General Insurance Corporation of India",
-  "collected_at": "2026-06-20 06:03:50",
+  "collected_at": "2026-06-21 06:36:39",
   "directors": [
-    {
-      "name": "Mr. Hitesh Rameshchandra Joshi",
-      "role": "Chairman-cum-Managing Director",
-      "age": 57,
-      "year_born": 1968,
-      "total_pay": 5453000
-    },
     {
       "name": "Ms. Jayashri  Balkrishna",
       "role": "Chief Risk Officer, Investor Relations Manager & Executive Director",
@@ -69,6 +62,13 @@
     {
       "name": "Mr. Uday Laxmandas Devi",
       "role": "Chief Vigilance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jetho  Jhamnani",
+      "role": "MD & CEO of GIC Re South Africa Ltd",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

@@ -1,21 +1,21 @@
 {
   "ticker": "SHRIRAMFIN",
   "company": "Shriram Finance Limited",
-  "collected_at": "2026-06-20 06:21:20",
+  "collected_at": "2026-06-21 06:54:04",
   "directors": [
     {
       "name": "Mr. Parag  Sharma",
       "role": "MD, CEO & Whole-Time Director",
       "age": 56,
       "year_born": 1969,
-      "total_pay": 14556286
+      "total_pay": 15341740
     },
     {
       "name": "Mr. Umesh Govind Revankar",
       "role": "Executive Vice Chairman",
       "age": 61,
       "year_born": 1964,
-      "total_pay": 23846397
+      "total_pay": 25639284
     },
     {
       "name": "Mr. A.  Ganesh",
@@ -29,14 +29,7 @@
       "role": "Joint MD, CFO & Whole Time Director",
       "age": 53,
       "year_born": 1972,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Sudarshan  Holla",
-      "role": "Joint MD & COO",
-      "age": 55,
-      "year_born": 1970,
-      "total_pay": "N/A"
+      "total_pay": 15341740
     },
     {
       "name": "Mr. Gouse Mohiddi Jilani",
@@ -67,10 +60,17 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Hardeep  Singh Tur",
-      "role": "Chief Risk Officer",
-      "age": 56,
-      "year_born": 1969,
+      "name": "Mr. Abhilash  Tewari",
+      "role": "Head of Internal Audit",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Hetal  Shah",
+      "role": "Vice President",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

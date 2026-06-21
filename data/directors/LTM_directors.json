@@ -1,7 +1,7 @@
 {
   "ticker": "LTM",
   "company": "LTM Limited",
-  "collected_at": "2026-06-20 06:11:25",
+  "collected_at": "2026-06-21 06:44:14",
   "directors": [
     {
       "name": "Mr. Venugopal  Lambu",
@@ -9,13 +9,6 @@
       "age": 52,
       "year_born": 1973,
       "total_pay": 272640000
-    },
-    {
-      "name": "Mr. Vipul  Chandra",
-      "role": "CFO & Whole-time Director",
-      "age": 54,
-      "year_born": 1971,
-      "total_pay": "N/A"
     },
     {
       "name": "Ms. Angna A. Arora",
@@ -69,6 +62,13 @@
     {
       "name": "Ramesh  Kannan",
       "role": "Head of Oil & Gas \u0096 Americas",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "David  Althoff",
+      "role": "Chief Business Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
