@@ -1,7 +1,7 @@
 {
   "ticker": "VEDL",
   "company": "Vedanta Limited",
-  "collected_at": "2026-06-21 06:59:10",
+  "collected_at": "2026-06-22 07:31:32",
   "directors": [
     {
       "name": "Mr. Navin Kumar Agarwal",
@@ -39,13 +39,6 @@
       "total_pay": 4635176
     },
     {
-      "name": "Ms. Sonal  Choithani",
-      "role": "Group Chief Brand & Communications Officer",
-      "age": 49,
-      "year_born": 1976,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Ms. Neha  Sharma",
       "role": "Group Chief Human Resource Officer",
       "age": "N/A",
@@ -72,6 +65,13 @@
       "age": 52,
       "year_born": 1973,
       "total_pay": 18000000
+    },
+    {
+      "name": "Mr. Deodatta  Padgaonkar",
+      "role": "Senior VP of MAS & Risk Officer",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
     }
   ]
 }

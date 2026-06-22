@@ -1,15 +1,8 @@
 {
   "ticker": "UCOBANK",
   "company": "UCO Bank",
-  "collected_at": "2026-06-21 06:58:24",
+  "collected_at": "2026-06-22 07:30:44",
   "directors": [
-    {
-      "name": "Mr. Rajendra Kumar Saboo",
-      "role": "Executive Director",
-      "age": 53,
-      "year_born": 1972,
-      "total_pay": 7768000
-    },
     {
       "name": "Mr. Vijaykumar Nivrutti Kamble",
       "role": "Executive Director",
@@ -69,6 +62,13 @@
     {
       "name": "Mr. Abhimannu  Rajak",
       "role": "Chief General Manager of Department of Information Technology",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manish  Kumar",
+      "role": "General Manager of Credit Monitoring Department",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

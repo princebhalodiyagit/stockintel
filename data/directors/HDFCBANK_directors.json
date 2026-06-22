@@ -1,29 +1,8 @@
 {
   "ticker": "HDFCBANK",
   "company": "HDFC Bank Limited",
-  "collected_at": "2026-06-21 06:38:27",
+  "collected_at": "2026-06-22 07:09:56",
   "directors": [
-    {
-      "name": "Mr. Sashidhar  Jagdishan",
-      "role": "MD, CEO & Director",
-      "age": 60,
-      "year_born": 1965,
-      "total_pay": 120620240
-    },
-    {
-      "name": "Mr. Kaizad Maneck Bharucha",
-      "role": "Deputy MD & Director",
-      "age": 60,
-      "year_born": 1965,
-      "total_pay": 110132827
-    },
-    {
-      "name": "Mr. Vedanthachari Srinivasa Rangan",
-      "role": "Executive Whole-Time Director",
-      "age": 65,
-      "year_born": 1960,
-      "total_pay": 88491773
-    },
     {
       "name": "Mr. Srinivasan  Vaidyanathan",
       "role": "Chief Financial Officer",
@@ -71,6 +50,27 @@
       "role": "Head of Corporate Communications",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ravi  Santhanam",
+      "role": "Chief Marketing Officer & Group Head",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vibhash  Naik",
+      "role": "Group Head & CHRO",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ashish  Parthasarthy",
+      "role": "Head of Branch Banking, Infrastructure, Treasury & Virtual Channels",
+      "age": 57,
+      "year_born": 1968,
       "total_pay": "N/A"
     }
   ]

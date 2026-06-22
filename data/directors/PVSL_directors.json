@@ -1,15 +1,8 @@
 {
   "ticker": "PVSL",
   "company": "Popular Vehicles and Services Limited",
-  "collected_at": "2026-06-21 06:50:33",
+  "collected_at": "2026-06-22 07:22:31",
   "directors": [
-    {
-      "name": "Mr. Raj  Narayan",
-      "role": "Chief Executive Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 14490000
-    },
     {
       "name": "Mr. Varun Thazhathu Veedu",
       "role": "Company Secretary &  Compliance Officer",
@@ -69,6 +62,13 @@
     {
       "name": "Mr. Pramod Sasidharan Nair",
       "role": "Branch Head for Nexa Trivandrum",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Jarly  Manjesh",
+      "role": "Head \u00adof Group Finance Transformation",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
