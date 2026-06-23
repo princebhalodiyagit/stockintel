@@ -1,14 +1,14 @@
 {
   "ticker": "MPHASIS",
-  "collected_at": "2026-06-22 07:18:02",
+  "collected_at": "2026-06-23 06:06:48",
   "company_info": {
     "name": "Mphasis Limited",
     "sector": "Technology",
     "industry": "Information Technology Services",
-    "market_cap": 439260872704,
-    "current_price": 2302.0,
-    "pe_ratio": 23.610256,
-    "pb_ratio": 4.314821,
+    "market_cap": 426857758720,
+    "current_price": 2237.0,
+    "pe_ratio": 22.94359,
+    "pb_ratio": 3.9698668,
     "roe": 0.18285999,
     "debt_to_equity": 24.383,
     "revenue": 158796464128,
@@ -16,6 +16,6 @@
     "eps": 97.5,
     "52_week_high": 3037.2,
     "52_week_low": 2013.0,
-    "dividend_yield": 2.73
+    "dividend_yield": 2.72
   }
 }

@@ -1,14 +1,14 @@
 {
   "ticker": "ADSL",
-  "collected_at": "2026-06-22 06:57:16",
+  "collected_at": "2026-06-23 05:40:36",
   "company_info": {
     "name": "Allied Digital Services Limited",
     "sector": "Technology",
     "industry": "Information Technology Services",
-    "market_cap": 6953969152,
-    "current_price": 122.93,
-    "pe_ratio": 19.6688,
-    "pb_ratio": 1.1352555,
+    "market_cap": 6835175424,
+    "current_price": 120.83,
+    "pe_ratio": 19.3328,
+    "pb_ratio": 1.115862,
     "roe": 0.05392,
     "debt_to_equity": 20.27,
     "revenue": 9679099904,
@@ -16,6 +16,6 @@
     "eps": 6.25,
     "52_week_high": 209.53,
     "52_week_low": 86.27,
-    "dividend_yield": 2.42
+    "dividend_yield": 2.44
   }
 }

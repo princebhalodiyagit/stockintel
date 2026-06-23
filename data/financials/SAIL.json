@@ -1,14 +1,14 @@
 {
   "ticker": "SAIL",
-  "collected_at": "2026-06-22 07:24:33",
+  "collected_at": "2026-06-23 06:14:58",
   "company_info": {
     "name": "Steel Authority of India Limited",
     "sector": "Basic Materials",
     "industry": "Steel",
-    "market_cap": 734903009280,
-    "current_price": 177.92,
-    "pe_ratio": 21.777233,
-    "pb_ratio": 1.2656769,
+    "market_cap": 710450348032,
+    "current_price": 172.0,
+    "pe_ratio": 21.052631,
+    "pb_ratio": 1.2235636,
     "roe": 0.056560002,
     "debt_to_equity": 52.899,
     "revenue": 1108108378112,
@@ -16,6 +16,6 @@
     "eps": 8.17,
     "52_week_high": 209.7,
     "52_week_low": 118.1,
-    "dividend_yield": 0.89
+    "dividend_yield": 0.92
   }
 }

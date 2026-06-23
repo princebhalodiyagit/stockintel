@@ -1,14 +1,14 @@
 {
   "ticker": "COFORGE",
-  "collected_at": "2026-06-22 07:03:36",
+  "collected_at": "2026-06-23 05:48:36",
   "company_info": {
     "name": "Coforge Limited",
     "sector": "Technology",
     "industry": "Information Technology Services",
-    "market_cap": 662236626944,
-    "current_price": 1496.0,
-    "pe_ratio": 34.077446,
-    "pb_ratio": 5.268292,
+    "market_cap": 654135721984,
+    "current_price": 1477.7,
+    "pe_ratio": 33.66059,
+    "pb_ratio": 5.2038465,
     "roe": 0.18596001,
     "debt_to_equity": 7.518,
     "revenue": 164027006976,
@@ -16,6 +16,6 @@
     "eps": 43.9,
     "52_week_high": 1994.0,
     "52_week_low": 1008.1,
-    "dividend_yield": 1.09
+    "dividend_yield": 1.08
   }
 }

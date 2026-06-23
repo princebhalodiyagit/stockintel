@@ -1,14 +1,14 @@
 {
   "ticker": "MGL",
-  "collected_at": "2026-06-22 07:17:23",
+  "collected_at": "2026-06-23 06:05:59",
   "company_info": {
     "name": "Mahanagar Gas Limited",
     "sector": "Utilities",
     "industry": "Utilities - Regulated Gas",
-    "market_cap": 122464690176,
-    "current_price": 1239.8,
-    "pe_ratio": 14.567031,
-    "pb_ratio": 1.9053328,
+    "market_cap": 121289236480,
+    "current_price": 1227.9,
+    "pe_ratio": 14.427212,
+    "pb_ratio": 1.8870447,
     "roe": 0.13627,
     "debt_to_equity": 3.461,
     "revenue": 82457001984,
@@ -16,6 +16,6 @@
     "eps": 85.11,
     "52_week_high": 1586.9,
     "52_week_low": 900.0,
-    "dividend_yield": 2.48
+    "dividend_yield": 2.41
   }
 }

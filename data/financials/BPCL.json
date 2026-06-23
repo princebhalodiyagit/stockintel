@@ -1,14 +1,14 @@
 {
   "ticker": "BPCL",
-  "collected_at": "2026-06-22 07:02:07",
+  "collected_at": "2026-06-23 05:46:45",
   "company_info": {
     "name": "Bharat Petroleum Corporation Limited",
     "sector": "Energy",
     "industry": "Oil & Gas Refining & Marketing",
-    "market_cap": 1312751747072,
-    "current_price": 307.25,
-    "pe_ratio": 5.079352,
-    "pb_ratio": 1.3109446,
+    "market_cap": 1324928598016,
+    "current_price": 310.1,
+    "pe_ratio": 5.126467,
+    "pb_ratio": 1.3231046,
     "roe": 0.28469,
     "debt_to_equity": 54.332,
     "revenue": 4552280506368,
@@ -16,6 +16,6 @@
     "eps": 60.49,
     "52_week_high": 391.65,
     "52_week_low": 266.6,
-    "dividend_yield": 6.52
+    "dividend_yield": 6.48
   }
 }

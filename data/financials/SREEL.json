@@ -1,14 +1,14 @@
 {
   "ticker": "SREEL",
-  "collected_at": "2026-06-22 07:27:22",
+  "collected_at": "2026-06-23 06:18:30",
   "company_info": {
     "name": "Sreeleathers Limited",
     "sector": "Consumer Cyclical",
     "industry": "Footwear & Accessories",
-    "market_cap": 5065158656,
-    "current_price": 218.75,
-    "pe_ratio": 17.64113,
-    "pb_ratio": 1.044861,
+    "market_cap": 5024637440,
+    "current_price": 217.0,
+    "pe_ratio": 17.5,
+    "pb_ratio": 1.036502,
     "roe": 0.05989,
     "debt_to_equity": 0.445,
     "revenue": 2546130944,
@@ -16,6 +16,6 @@
     "eps": 12.4,
     "52_week_high": 258.0,
     "52_week_low": 165.25,
-    "dividend_yield": 0.47
+    "dividend_yield": 0.46
   }
 }

@@ -1,14 +1,14 @@
 {
   "ticker": "JKIL",
-  "collected_at": "2026-06-22 07:13:09",
+  "collected_at": "2026-06-23 06:00:38",
   "company_info": {
     "name": "J. Kumar Infraprojects Limited",
     "sector": "Industrials",
     "industry": "Engineering & Construction",
-    "market_cap": 38381326336,
-    "current_price": 507.25,
-    "pe_ratio": 9.922731,
-    "pb_ratio": 1.1324465,
+    "market_cap": 38513741824,
+    "current_price": 509.0,
+    "pe_ratio": 9.9569645,
+    "pb_ratio": 1.1363535,
     "roe": 0.12137,
     "debt_to_equity": 18.443,
     "revenue": 57230282752,
@@ -16,6 +16,6 @@
     "eps": 51.12,
     "52_week_high": 758.4,
     "52_week_low": 425.0,
-    "dividend_yield": 0.8
+    "dividend_yield": 0.79
   }
 }
