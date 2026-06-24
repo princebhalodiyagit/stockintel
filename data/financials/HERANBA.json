@@ -1,14 +1,14 @@
 {
   "ticker": "HERANBA",
-  "collected_at": "2026-06-23 05:56:42",
+  "collected_at": "2026-06-24 05:48:40",
   "company_info": {
     "name": "Heranba Industries Limited",
     "sector": "Basic Materials",
     "industry": "Agricultural Inputs",
-    "market_cap": 7742605824,
-    "current_price": 193.5,
+    "market_cap": 7602558976,
+    "current_price": 190.0,
     "pe_ratio": "N/A",
-    "pb_ratio": 1.0164738,
+    "pb_ratio": 0.9980879,
     "roe": -0.095769994,
     "debt_to_equity": 74.833,
     "revenue": 15949899776,
@@ -16,6 +16,6 @@
     "eps": -19.1,
     "52_week_high": 403.7,
     "52_week_low": 155.38,
-    "dividend_yield": 0.52
+    "dividend_yield": 0.53
   }
 }

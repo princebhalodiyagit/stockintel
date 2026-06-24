@@ -1,14 +1,14 @@
 {
   "ticker": "DEEPINDS",
-  "collected_at": "2026-06-23 05:50:05",
+  "collected_at": "2026-06-24 05:43:42",
   "company_info": {
     "name": "Deep Industries Limited",
     "sector": "Energy",
     "industry": "Oil & Gas E&P",
-    "market_cap": 31075198976,
-    "current_price": 485.55,
-    "pe_ratio": 17.267069,
-    "pb_ratio": 1.5568838,
+    "market_cap": 31004801024,
+    "current_price": 484.45,
+    "pe_ratio": 17.227951,
+    "pb_ratio": 1.5533568,
     "roe": 0.09786,
     "debt_to_equity": 9.61,
     "revenue": 8907139072,
@@ -16,6 +16,6 @@
     "eps": 28.12,
     "52_week_high": 578.0,
     "52_week_low": 330.0,
-    "dividend_yield": 0.62
+    "dividend_yield": 0.63
   }
 }

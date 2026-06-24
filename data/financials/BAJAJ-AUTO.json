@@ -1,14 +1,14 @@
 {
   "ticker": "BAJAJ-AUTO",
-  "collected_at": "2026-06-23 05:44:25",
+  "collected_at": "2026-06-24 05:39:31",
   "company_info": {
     "name": "Bajaj Auto Limited",
     "sector": "Consumer Cyclical",
     "industry": "Auto Manufacturers",
-    "market_cap": 2839914479616,
-    "current_price": 10169.0,
-    "pe_ratio": 26.467985,
-    "pb_ratio": 7.3146696,
+    "market_cap": 2736025239552,
+    "current_price": 9797.0,
+    "pe_ratio": 25.499739,
+    "pb_ratio": 7.0470862,
     "roe": 0.28046,
     "debt_to_equity": 56.289,
     "revenue": 650872225792,
@@ -16,6 +16,6 @@
     "eps": 384.2,
     "52_week_high": 10834.0,
     "52_week_low": 7858.5,
-    "dividend_yield": 1.47
+    "dividend_yield": 1.5
   }
 }

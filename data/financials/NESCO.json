@@ -1,14 +1,14 @@
 {
   "ticker": "NESCO",
-  "collected_at": "2026-06-23 06:08:02",
+  "collected_at": "2026-06-24 05:57:05",
   "company_info": {
     "name": "Nesco Limited",
     "sector": "Industrials",
     "industry": "Conglomerates",
-    "market_cap": 80042516480,
-    "current_price": 1136.0,
-    "pe_ratio": 19.392284,
-    "pb_ratio": 2.670478,
+    "market_cap": 78238744576,
+    "current_price": 1110.4,
+    "pe_ratio": 18.955275,
+    "pb_ratio": 2.6102984,
     "roe": 0.14673,
     "debt_to_equity": 9.068,
     "revenue": 10315899904,
@@ -16,6 +16,6 @@
     "eps": 58.58,
     "52_week_high": 1638.9,
     "52_week_low": 996.0,
-    "dividend_yield": 0.62
+    "dividend_yield": 0.63
   }
 }

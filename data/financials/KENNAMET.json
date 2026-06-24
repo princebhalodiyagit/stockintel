@@ -1,14 +1,14 @@
 {
   "ticker": "KENNAMET",
-  "collected_at": "2026-06-23 06:01:52",
+  "collected_at": "2026-06-24 05:52:33",
   "company_info": {
     "name": "Kennametal India Limited",
     "sector": "Industrials",
     "industry": "Tools & Accessories",
-    "market_cap": 68440240128,
-    "current_price": 3114.0,
-    "pe_ratio": 49.35806,
-    "pb_ratio": 8.531577,
+    "market_cap": 68132544512,
+    "current_price": 3100.0,
+    "pe_ratio": 49.136154,
+    "pb_ratio": 8.49322,
     "roe": "N/A",
     "debt_to_equity": 0.262,
     "revenue": 13564999680,
@@ -16,6 +16,6 @@
     "eps": 63.09,
     "52_week_high": 3400.3,
     "52_week_low": 2405.2,
-    "dividend_yield": 1.27
+    "dividend_yield": 1.28
   }
 }

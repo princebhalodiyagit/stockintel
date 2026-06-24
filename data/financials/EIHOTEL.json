@@ -1,14 +1,14 @@
 {
   "ticker": "EIHOTEL",
-  "collected_at": "2026-06-23 05:51:32",
+  "collected_at": "2026-06-24 05:44:48",
   "company_info": {
     "name": "EIH Limited",
     "sector": "Consumer Cyclical",
     "industry": "Lodging",
-    "market_cap": 204306481152,
-    "current_price": 326.7,
-    "pe_ratio": 32.53984,
-    "pb_ratio": 3.8821685,
+    "market_cap": 205025640448,
+    "current_price": 327.85,
+    "pe_ratio": 32.654385,
+    "pb_ratio": 3.895834,
     "roe": 0.12948,
     "debt_to_equity": 4.666,
     "revenue": 29396299776,
@@ -16,6 +16,6 @@
     "eps": 10.04,
     "52_week_high": 434.8,
     "52_week_low": 271.15,
-    "dividend_yield": 0.45
+    "dividend_yield": 0.46
   }
 }

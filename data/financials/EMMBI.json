@@ -1,14 +1,14 @@
 {
   "ticker": "EMMBI",
-  "collected_at": "2026-06-23 05:51:58",
+  "collected_at": "2026-06-24 05:45:07",
   "company_info": {
     "name": "Emmbi Industries Limited",
     "sector": "Consumer Cyclical",
     "industry": "Packaging & Containers",
-    "market_cap": 2027922432,
-    "current_price": 105.4,
-    "pe_ratio": 25.707317,
-    "pb_ratio": 1.0194706,
+    "market_cap": 1896126720,
+    "current_price": 98.76,
+    "pe_ratio": 24.036587,
+    "pb_ratio": 0.95321465,
     "roe": 0.04093,
     "debt_to_equity": 88.654,
     "revenue": 4555380224,
@@ -16,6 +16,6 @@
     "eps": 4.1,
     "52_week_high": 117.0,
     "52_week_low": 60.3,
-    "dividend_yield": 0.32
+    "dividend_yield": 0.29
   }
 }

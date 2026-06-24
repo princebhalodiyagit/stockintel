@@ -1,14 +1,14 @@
 {
   "ticker": "GATEWAY",
-  "collected_at": "2026-06-23 05:53:50",
+  "collected_at": "2026-06-24 05:46:32",
   "company_info": {
     "name": "Gateway Distriparks Limited",
     "sector": "Industrials",
     "industry": "Integrated Freight & Logistics",
-    "market_cap": 30887981056,
-    "current_price": 61.82,
-    "pe_ratio": 12.074219,
-    "pb_ratio": 1.3390228,
+    "market_cap": 30623170560,
+    "current_price": 61.29,
+    "pe_ratio": 11.970703,
+    "pb_ratio": 1.3275429,
     "roe": 0.10375,
     "debt_to_equity": 25.362,
     "revenue": 22118164480,
@@ -16,6 +16,6 @@
     "eps": 5.12,
     "52_week_high": 76.5,
     "52_week_low": 48.1,
-    "dividend_yield": 3.2
+    "dividend_yield": 3.27
   }
 }
