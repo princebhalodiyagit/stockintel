@@ -1,14 +1,14 @@
 {
   "ticker": "PGEL",
-  "collected_at": "2026-06-24 05:59:06",
+  "collected_at": "2026-06-25 06:03:28",
   "company_info": {
     "name": "PG Electroplast Limited",
     "sector": "Technology",
     "industry": "Electronic Components",
-    "market_cap": 158955044864,
-    "current_price": 556.8,
-    "pe_ratio": 80.462425,
-    "pb_ratio": 5.2188582,
+    "market_cap": 157327802368,
+    "current_price": 551.1,
+    "pe_ratio": 79.638725,
+    "pb_ratio": 5.165432,
     "roe": 0.0669,
     "debt_to_equity": 19.567,
     "revenue": 52880220160,
@@ -16,6 +16,6 @@
     "eps": 6.92,
     "52_week_high": 836.45,
     "52_week_low": 436.55,
-    "dividend_yield": 0.04
+    "dividend_yield": 0.05
   }
 }

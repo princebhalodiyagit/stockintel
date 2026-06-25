@@ -1,14 +1,14 @@
 {
   "ticker": "METROPOLIS",
-  "collected_at": "2026-06-24 05:55:31",
+  "collected_at": "2026-06-25 05:59:41",
   "company_info": {
     "name": "Metropolis Healthcare Limited",
     "sector": "Healthcare",
     "industry": "Diagnostics & Research",
-    "market_cap": 112322093056,
-    "current_price": 541.75,
-    "pe_ratio": 59.01416,
-    "pb_ratio": 7.4083443,
+    "market_cap": 114582020096,
+    "current_price": 552.65,
+    "pe_ratio": 60.201527,
+    "pb_ratio": 7.5574007,
     "roe": 0.13373,
     "debt_to_equity": 15.212,
     "revenue": 16458459136,
@@ -16,6 +16,6 @@
     "eps": 9.18,
     "52_week_high": 600.0,
     "52_week_low": 412.25,
-    "dividend_yield": 0.37
+    "dividend_yield": 0.36
   }
 }

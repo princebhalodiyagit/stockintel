@@ -1,7 +1,7 @@
 {
   "ticker": "SMCGLOBAL",
   "company": "SMC Global Securities Limited",
-  "collected_at": "2026-06-24 06:04:21",
+  "collected_at": "2026-06-25 06:08:55",
   "directors": [
     {
       "name": "Mr. Subhash Chand Aggarwal",
@@ -29,13 +29,6 @@
       "role": "Vice President of Research",
       "age": 47,
       "year_born": 1978,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Abhishek  Chawla",
-      "role": "Group Chief Product & Technology Officer",
-      "age": 39,
-      "year_born": 1986,
       "total_pay": "N/A"
     },
     {
@@ -69,6 +62,13 @@
     {
       "name": "Mr. Ayush  Aggarwal",
       "role": "Chief Investment officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ganesh Chandra Badhani",
+      "role": "Group Chief Information Security Officer & Assistant VP of InfoSec",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

@@ -1,22 +1,8 @@
 {
   "ticker": "KPIL",
   "company": "Kalpataru Projects International Limited",
-  "collected_at": "2026-06-24 05:53:11",
+  "collected_at": "2026-06-25 05:57:14",
   "directors": [
-    {
-      "name": "Mr. Manish Dashrathmal Mohnot CA, ICWA",
-      "role": "MD, CEO & Executive Director",
-      "age": 53,
-      "year_born": 1972,
-      "total_pay": 217500000
-    },
-    {
-      "name": "Mr. Shailendra Kumar Tripathi B. E. Civil",
-      "role": "Deputy MD & Additional Director",
-      "age": 61,
-      "year_born": 1964,
-      "total_pay": 82600000
-    },
     {
       "name": "Mr. Ram Avtar Patodia",
       "role": "President of Finance & Accounts and CFO",
@@ -69,6 +55,20 @@
     {
       "name": "Mr. Hitendra  Pooniwala",
       "role": "Head of T&D International Business",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajeev  Dalela",
+      "role": "President of T&D Business - India & SAARC",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jitendra Kumar Jain",
+      "role": "Business Head of Railways",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

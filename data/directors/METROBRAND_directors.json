@@ -1,20 +1,13 @@
 {
   "ticker": "METROBRAND",
   "company": "Metro Brands Limited",
-  "collected_at": "2026-06-24 05:55:29",
+  "collected_at": "2026-06-25 05:59:40",
   "directors": [
     {
       "name": "Mr. Nissan  Joseph",
       "role": "Chief Executive Officer",
       "age": 60,
       "year_born": 1965,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ms. Aziza Rafique Malik",
-      "role": "President",
-      "age": 75,
-      "year_born": 1950,
       "total_pay": "N/A"
     },
     {
@@ -71,6 +64,13 @@
       "role": "Senior VP & Chief Transformation Officer",
       "age": 53,
       "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Nandadeep Madhav Jayakar",
+      "role": "Business Head - Foot Locker India",
+      "age": 54,
+      "year_born": 1971,
       "total_pay": "N/A"
     }
   ]
