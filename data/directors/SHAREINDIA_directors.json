@@ -1,7 +1,7 @@
 {
   "ticker": "SHAREINDIA",
   "company": "Share India Securities Limited",
-  "collected_at": "2026-06-25 06:08:00",
+  "collected_at": "2026-06-26 06:18:32",
   "directors": [
     {
       "name": "Mr. Parveen  Gupta",
@@ -30,13 +30,6 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 3734000
-    },
-    {
-      "name": "Mr. Vikas  Aggarwal",
-      "role": "Company Secretary & Compliance Officer",
-      "age": 46,
-      "year_born": 1979,
-      "total_pay": "N/A"
     },
     {
       "name": "Mr. Vijay Girdharlal Vora",
@@ -72,6 +65,13 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 769350
+    },
+    {
+      "name": "Mr. Abhinav  Gupta",
+      "role": "President of Corporate Strategy",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

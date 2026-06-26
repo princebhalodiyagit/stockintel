@@ -1,14 +1,14 @@
 {
   "ticker": "TBZ",
-  "collected_at": "2026-06-25 06:11:12",
+  "collected_at": "2026-06-26 06:22:03",
   "company_info": {
     "name": "Tribhovandas Bhimji Zaveri Limited",
     "sector": "Consumer Cyclical",
     "industry": "Luxury Goods",
-    "market_cap": 12470618112,
-    "current_price": 186.88,
-    "pe_ratio": 6.1635885,
-    "pb_ratio": 1.4874126,
+    "market_cap": 12411895808,
+    "current_price": 186.0,
+    "pe_ratio": 6.134565,
+    "pb_ratio": 1.4804084,
     "roe": 0.27058,
     "debt_to_equity": 105.734,
     "revenue": 32102955008,
@@ -16,6 +16,6 @@
     "eps": 30.32,
     "52_week_high": 217.95,
     "52_week_low": 110.5,
-    "dividend_yield": 1.19
+    "dividend_yield": 1.21
   }
 }

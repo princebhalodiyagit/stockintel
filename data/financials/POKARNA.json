@@ -1,14 +1,14 @@
 {
   "ticker": "POKARNA",
-  "collected_at": "2026-06-25 06:03:59",
+  "collected_at": "2026-06-26 06:13:57",
   "company_info": {
     "name": "Pokarna Limited",
     "sector": "Industrials",
     "industry": "Building Products & Equipment",
-    "market_cap": 34640769024,
-    "current_price": 1117.3,
-    "pe_ratio": 42.8906,
-    "pb_ratio": 4.0428567,
+    "market_cap": 33338603520,
+    "current_price": 1075.3,
+    "pe_ratio": 41.278313,
+    "pb_ratio": 3.890883,
     "roe": 0.09861,
     "debt_to_equity": 53.459,
     "revenue": 5716189184,
@@ -16,6 +16,6 @@
     "eps": 26.05,
     "52_week_high": 1146.2,
     "52_week_low": 692.6,
-    "dividend_yield": 0.05
+    "dividend_yield": 0.06
   }
 }

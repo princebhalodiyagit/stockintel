@@ -1,14 +1,14 @@
 {
   "ticker": "EMKAY",
-  "collected_at": "2026-06-25 05:48:47",
+  "collected_at": "2026-06-26 05:56:53",
   "company_info": {
     "name": "Emkay Global Financial Services Limited",
     "sector": "Financial Services",
     "industry": "Capital Markets",
-    "market_cap": 7700953600,
-    "current_price": 282.81,
-    "pe_ratio": 51.42,
-    "pb_ratio": 1.9102975,
+    "market_cap": 7623566848,
+    "current_price": 281.0,
+    "pe_ratio": 51.090908,
+    "pb_ratio": 1.8980715,
     "roe": 0.044460002,
     "debt_to_equity": 26.355,
     "revenue": 3800785920,
@@ -16,6 +16,6 @@
     "eps": 5.5,
     "52_week_high": 409.9,
     "52_week_low": 186.0,
-    "dividend_yield": 0.52
+    "dividend_yield": 0.54
   }
 }

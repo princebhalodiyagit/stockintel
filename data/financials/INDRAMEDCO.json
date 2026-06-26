@@ -1,14 +1,14 @@
 {
   "ticker": "INDRAMEDCO",
-  "collected_at": "2026-06-25 05:54:17",
+  "collected_at": "2026-06-26 06:03:01",
   "company_info": {
     "name": "Indraprastha Medical Corporation Limited",
     "sector": "Healthcare",
     "industry": "Medical Care Facilities",
-    "market_cap": 35504951296,
-    "current_price": 387.3,
-    "pe_ratio": 19.326345,
-    "pb_ratio": 4.794266,
+    "market_cap": 35294105600,
+    "current_price": 385.0,
+    "pe_ratio": 19.211576,
+    "pb_ratio": 4.765795,
     "roe": 0.27466,
     "debt_to_equity": 4.979,
     "revenue": 14825100288,
@@ -16,6 +16,6 @@
     "eps": 20.04,
     "52_week_high": 640.85,
     "52_week_low": 342.0,
-    "dividend_yield": 1.16
+    "dividend_yield": 1.17
   }
 }

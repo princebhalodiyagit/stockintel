@@ -1,14 +1,14 @@
 {
   "ticker": "DCMSRIND",
-  "collected_at": "2026-06-25 05:47:11",
+  "collected_at": "2026-06-26 05:55:06",
   "company_info": {
     "name": "DCM Shriram Industries Limited",
     "sector": "Consumer Defensive",
     "industry": "Confectioners",
-    "market_cap": 3330930688,
-    "current_price": 38.29,
-    "pe_ratio": 14.558935,
-    "pb_ratio": 0.91257924,
+    "market_cap": 3305702912,
+    "current_price": 38.0,
+    "pe_ratio": 14.4486685,
+    "pb_ratio": 0.90566754,
     "roe": 0.06585,
     "debt_to_equity": 116.591,
     "revenue": 11601200128,
@@ -16,6 +16,6 @@
     "eps": 2.63,
     "52_week_high": 181.9,
     "52_week_low": 31.9,
-    "dividend_yield": 1.04
+    "dividend_yield": 1.05
   }
 }

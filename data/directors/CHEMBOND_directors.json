@@ -1,14 +1,14 @@
 {
   "ticker": "CHEMBOND",
   "company": "Chembond Material Technologies Limited",
-  "collected_at": "2026-06-25 05:45:44",
+  "collected_at": "2026-06-26 05:53:30",
   "directors": [
     {
       "name": "Mr. Sameer Vinod Shah",
       "role": "Chairman & MD",
       "age": 65,
       "year_born": 1960,
-      "total_pay": 13862000
+      "total_pay": 20249000
     },
     {
       "name": "Ms. Rashmi Sameer Gavli",
@@ -22,14 +22,14 @@
       "role": "Company Secretary, Compliance Officer & Nodal Officer",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": 1104000
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Jaywant K. Tawade",
       "role": "Executive Director",
       "age": 76,
       "year_born": 1949,
-      "total_pay": "N/A"
+      "total_pay": 2949228
     }
   ]
 }

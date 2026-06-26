@@ -1,14 +1,14 @@
 {
   "ticker": "GICRE",
-  "collected_at": "2026-06-25 05:50:33",
+  "collected_at": "2026-06-26 05:58:52",
   "company_info": {
     "name": "General Insurance Corporation of India",
     "sector": "Financial Services",
     "industry": "Insurance - Reinsurance",
-    "market_cap": 643250716672,
-    "current_price": 366.65,
-    "pe_ratio": 6.659099,
-    "pb_ratio": 0.6986365,
+    "market_cap": 633513836544,
+    "current_price": 361.1,
+    "pe_ratio": 6.5583,
+    "pb_ratio": 0.6880612,
     "roe": 0.10686,
     "debt_to_equity": "N/A",
     "revenue": 528909500416,
@@ -16,6 +16,6 @@
     "eps": 55.06,
     "52_week_high": 417.95,
     "52_week_low": 346.7,
-    "dividend_yield": 3.6
+    "dividend_yield": 3.67
   }
 }
