@@ -1,28 +1,21 @@
 {
   "ticker": "PGIL",
   "company": "Pearl Global Industries Limited",
-  "collected_at": "2026-06-26 06:13:26",
+  "collected_at": "2026-06-27 05:36:58",
   "directors": [
     {
       "name": "Mr. Pallab  Banerjee",
       "role": "Group President, MD & Whole-Time Director",
       "age": 56,
       "year_born": 1969,
-      "total_pay": 128766000
-    },
-    {
-      "name": "Ms. Shilpa  Saraf",
-      "role": "Company Secretary & Compliance Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
+      "total_pay": 99969000
     },
     {
       "name": "Ms. Shifalli  Seth",
       "role": "Chief Sustainability Officer & Non-Executive Director",
       "age": 44,
       "year_born": 1981,
-      "total_pay": 125000
+      "total_pay": 275000
     },
     {
       "name": "Mr. Shailesh  Kumar",
@@ -30,13 +23,6 @@
       "age": 55,
       "year_born": 1970,
       "total_pay": 1844000
-    },
-    {
-      "name": "Mr. Sanjay  Gandhi",
-      "role": "Group Chief Financial Officer",
-      "age": 49,
-      "year_born": 1976,
-      "total_pay": "N/A"
     },
     {
       "name": "Mr. Narendra Kumar Somani",
@@ -71,6 +57,20 @@
       "role": "Head of Investor Relations",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pankaj  Bhasin",
+      "role": "Chief Executive Officer of Woven - India",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anand  Bhatia",
+      "role": "Senior Vice President of Production",
+      "age": 56,
+      "year_born": 1969,
       "total_pay": "N/A"
     }
   ]

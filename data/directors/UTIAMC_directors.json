@@ -1,22 +1,8 @@
 {
   "ticker": "UTIAMC",
   "company": "UTI Asset Management Company Limited",
-  "collected_at": "2026-06-26 06:24:20",
+  "collected_at": "2026-06-27 05:46:56",
   "directors": [
-    {
-      "name": "Mr. Imtaiyazur  Rahman CPA",
-      "role": "Whole-Time Director",
-      "age": 62,
-      "year_born": 1963,
-      "total_pay": 251765785
-    },
-    {
-      "name": "Mr. Vetri Murugan Subramaniam",
-      "role": "Chief Investment Officer, MD & CEO",
-      "age": 55,
-      "year_born": 1970,
-      "total_pay": 266354172
-    },
     {
       "name": "Mr. Kapil  Udaiwal",
       "role": "President & Head of Human Resources",
@@ -71,6 +57,20 @@
       "role": "Executive Officer",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Swati Anil Kulkarni CFA",
+      "role": "Executive Vice President and Fund Manager of Equities",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ajay  Tyagi CFA",
+      "role": "Head of Equity",
+      "age": 48,
+      "year_born": 1977,
       "total_pay": "N/A"
     }
   ]

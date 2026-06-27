@@ -1,14 +1,14 @@
 {
   "ticker": "RAJSREESUG",
   "company": "Rajshree Sugars & Chemicals Limited",
-  "collected_at": "2026-06-26 06:15:13",
+  "collected_at": "2026-06-27 05:38:36",
   "directors": [
     {
       "name": "Mr. R.  Varadarajan",
       "role": "Whole Time Director",
       "age": 67,
       "year_born": 1958,
-      "total_pay": 13068000
+      "total_pay": 12830000
     },
     {
       "name": "Mr. G.  Sathiyamoorthi",
@@ -22,28 +22,7 @@
       "role": "Chief Financial Officer",
       "age": 54,
       "year_born": 1971,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. R. K. Narayan",
-      "role": "Senior Vice President of Sales & Marketing",
-      "age": 55,
-      "year_born": 1970,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Mohan Kumar N.",
-      "role": "Vice President of Operations",
-      "age": 59,
-      "year_born": 1966,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. M.  Ponraj",
-      "role": "Compliance Officer & Company Secretary",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
+      "total_pay": 3811000
     }
   ]
 }

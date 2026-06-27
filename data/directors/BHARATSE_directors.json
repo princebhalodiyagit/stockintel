@@ -1,14 +1,14 @@
 {
   "ticker": "BHARATSE",
   "company": "Bharat Seats Limited",
-  "collected_at": "2026-06-26 05:51:39",
+  "collected_at": "2026-06-27 05:17:00",
   "directors": [
     {
       "name": "Mr. Rajiv  Arora",
       "role": "President & Whole Time Director",
       "age": 56,
       "year_born": 1969,
-      "total_pay": 17754271
+      "total_pay": 21837993
     },
     {
       "name": "Mr. Vinod  Kumar",
@@ -22,13 +22,6 @@
       "role": "Chief Technical Officer",
       "age": 58,
       "year_born": 1967,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Rajiv Kumar Govila",
-      "role": "Senior Vice President",
-      "age": 63,
-      "year_born": 1962,
       "total_pay": "N/A"
     },
     {
@@ -53,24 +46,31 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Ms. Ritu  Bakshi",
-      "role": "Compliance Officer & Company Secretary",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 2671000
-    },
-    {
-      "name": "Mr. Sanjeev  Kawatra",
-      "role": "Vice President of Business Development & Marketing",
-      "age": 52,
-      "year_born": 1973,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Suman  Yadav",
       "role": "Senior Vice President of Operations",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Padma  Panikkar",
+      "role": "Assistant Vice President",
+      "age": 70,
+      "year_born": 1955,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sandeep Chandrakant Shah",
+      "role": "Chief General Manager",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manish  Kumar",
+      "role": "General Manager of R&D",
+      "age": 44,
+      "year_born": 1981,
       "total_pay": "N/A"
     }
   ]
