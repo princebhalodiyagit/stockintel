@@ -1,14 +1,14 @@
 {
   "ticker": "IGPL",
-  "collected_at": "2026-06-29 06:28:35",
+  "collected_at": "2026-06-30 06:01:38",
   "company_info": {
     "name": "I G Petrochemicals Limited",
     "sector": "Basic Materials",
     "industry": "Chemicals",
-    "market_cap": 13917732864,
-    "current_price": 451.95,
-    "pe_ratio": 627.7083,
-    "pb_ratio": 1.0446329,
+    "market_cap": 14239538176,
+    "current_price": 462.4,
+    "pe_ratio": 642.22217,
+    "pb_ratio": 1.068787,
     "roe": 0.00166,
     "debt_to_equity": 27.136,
     "revenue": 19249790976,
@@ -16,6 +16,6 @@
     "eps": 0.72,
     "52_week_high": 519.8,
     "52_week_low": 315.0,
-    "dividend_yield": 2.22
+    "dividend_yield": 2.23
   }
 }

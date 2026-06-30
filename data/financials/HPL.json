@@ -1,14 +1,14 @@
 {
   "ticker": "HPL",
-  "collected_at": "2026-06-29 06:28:04",
+  "collected_at": "2026-06-30 06:00:59",
   "company_info": {
     "name": "HPL Electric & Power Limited",
     "sector": "Industrials",
     "industry": "Electrical Equipment & Parts",
-    "market_cap": 23260700672,
-    "current_price": 361.75,
-    "pe_ratio": 25.601557,
-    "pb_ratio": 2.3253944,
+    "market_cap": 23035650048,
+    "current_price": 358.25,
+    "pe_ratio": 25.353857,
+    "pb_ratio": 2.3028958,
     "roe": 0.09507,
     "debt_to_equity": 75.317,
     "revenue": 18110967808,
@@ -16,6 +16,6 @@
     "eps": 14.13,
     "52_week_high": 639.9,
     "52_week_low": 255.55,
-    "dividend_yield": 0.27
+    "dividend_yield": 0.28
   }
 }

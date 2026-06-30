@@ -1,14 +1,14 @@
 {
   "ticker": "MODISONLTD",
-  "collected_at": "2026-06-29 06:34:50",
+  "collected_at": "2026-06-30 06:09:51",
   "company_info": {
     "name": "Modison Limited",
     "sector": "Industrials",
     "industry": "Electrical Equipment & Parts",
-    "market_cap": 10140624896,
-    "current_price": 312.5,
-    "pe_ratio": 13.982102,
-    "pb_ratio": 3.6936789,
+    "market_cap": 9897249792,
+    "current_price": 305.0,
+    "pe_ratio": 13.646532,
+    "pb_ratio": 3.6050305,
     "roe": "N/A",
     "debt_to_equity": 63.523,
     "revenue": 2220943104,
@@ -16,6 +16,6 @@
     "eps": 22.35,
     "52_week_high": 362.7,
     "52_week_low": 114.0,
-    "dividend_yield": 1.87
+    "dividend_yield": 1.95
   }
 }

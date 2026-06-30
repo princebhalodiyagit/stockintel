@@ -1,14 +1,14 @@
 {
   "ticker": "MSTCLTD",
-  "collected_at": "2026-06-29 06:35:12",
+  "collected_at": "2026-06-30 06:10:21",
   "company_info": {
     "name": "MSTC Limited",
     "sector": "Industrials",
     "industry": "Conglomerates",
-    "market_cap": 48843517952,
-    "current_price": 693.8,
-    "pe_ratio": 22.373426,
-    "pb_ratio": 5.40309,
+    "market_cap": 49811517440,
+    "current_price": 707.55,
+    "pe_ratio": 22.816833,
+    "pb_ratio": 5.5101705,
     "roe": 0.266,
     "debt_to_equity": 16.041,
     "revenue": 3696566016,
@@ -16,6 +16,6 @@
     "eps": 31.01,
     "52_week_high": 724.4,
     "52_week_low": 362.15,
-    "dividend_yield": 6.81
+    "dividend_yield": 6.38
   }
 }

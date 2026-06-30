@@ -1,14 +1,14 @@
 {
   "ticker": "TIIL",
-  "collected_at": "2026-06-29 06:46:19",
+  "collected_at": "2026-06-30 06:25:00",
   "company_info": {
     "name": "Technocraft Industries (India) Limited",
     "sector": "Industrials",
     "industry": "Tools & Accessories",
-    "market_cap": 58498088960,
-    "current_price": 2580.1,
-    "pe_ratio": 20.49325,
-    "pb_ratio": 3.1056545,
+    "market_cap": 58994618368,
+    "current_price": 2602.0,
+    "pe_ratio": 20.667196,
+    "pb_ratio": 3.1320152,
     "roe": 0.15108,
     "debt_to_equity": 40.163,
     "revenue": 27589804032,
@@ -16,6 +16,6 @@
     "eps": 125.9,
     "52_week_high": 3383.0,
     "52_week_low": 1868.5,
-    "dividend_yield": 1.56
+    "dividend_yield": 1.53
   }
 }

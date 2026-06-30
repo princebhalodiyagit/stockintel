@@ -1,14 +1,14 @@
 {
   "ticker": "CIFL",
-  "collected_at": "2026-06-29 06:21:03",
+  "collected_at": "2026-06-30 05:51:48",
   "company_info": {
     "name": "Capital India Finance Limited",
     "sector": "Financial Services",
     "industry": "Credit Services",
-    "market_cap": 9475293184,
-    "current_price": 24.23,
-    "pe_ratio": 24.23,
-    "pb_ratio": 1.4075751,
+    "market_cap": 9279765504,
+    "current_price": 23.73,
+    "pe_ratio": 23.73,
+    "pb_ratio": 1.3785291,
     "roe": 0.04757,
     "debt_to_equity": 139.224,
     "revenue": 5283716096,
@@ -16,6 +16,6 @@
     "eps": 1.0,
     "52_week_high": 42.0,
     "52_week_low": 20.42,
-    "dividend_yield": 0.08
+    "dividend_yield": 0.09
   }
 }

@@ -1,14 +1,14 @@
 {
   "ticker": "UCOBANK",
-  "collected_at": "2026-06-29 06:47:10",
+  "collected_at": "2026-06-30 06:26:10",
   "company_info": {
     "name": "UCO Bank",
     "sector": "Financial Services",
     "industry": "Banks - Regional",
-    "market_cap": 334555447296,
-    "current_price": 26.68,
-    "pe_ratio": 12.072398,
-    "pb_ratio": 1.006223,
+    "market_cap": 337690329088,
+    "current_price": 26.93,
+    "pe_ratio": 12.18552,
+    "pb_ratio": 1.0156516,
     "roe": 0.08631,
     "debt_to_equity": "N/A",
     "revenue": 116005609472,
@@ -16,6 +16,6 @@
     "eps": 2.21,
     "52_week_high": 34.2,
     "52_week_low": 22.22,
-    "dividend_yield": 1.62
+    "dividend_yield": 1.64
   }
 }

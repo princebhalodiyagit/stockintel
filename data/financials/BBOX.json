@@ -1,14 +1,14 @@
 {
   "ticker": "BBOX",
-  "collected_at": "2026-06-29 06:18:49",
+  "collected_at": "2026-06-30 05:48:50",
   "company_info": {
     "name": "Black Box Limited",
     "sector": "Technology",
     "industry": "Software - Application",
-    "market_cap": 163870785536,
-    "current_price": 922.7,
-    "pe_ratio": 72.99841,
-    "pb_ratio": 12.726195,
+    "market_cap": 167706918912,
+    "current_price": 944.3,
+    "pe_ratio": 74.707275,
+    "pb_ratio": 13.024109,
     "roe": 0.21267,
     "debt_to_equity": 89.594,
     "revenue": 63218499584,
@@ -16,6 +16,6 @@
     "eps": 12.64,
     "52_week_high": 1103.0,
     "52_week_low": 435.05,
-    "dividend_yield": 0.1
+    "dividend_yield": 0.11
   }
 }
