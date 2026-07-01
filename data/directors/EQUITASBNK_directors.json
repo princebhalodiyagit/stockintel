@@ -1,7 +1,7 @@
 {
   "ticker": "EQUITASBNK",
   "company": "Equitas Small Finance Bank Limited",
-  "collected_at": "2026-06-30 05:55:48",
+  "collected_at": "2026-07-01 06:11:47",
   "directors": [
     {
       "name": "Mr. Pathangi Narasimhan Vasudevan",
@@ -9,13 +9,6 @@
       "age": 62,
       "year_born": 1963,
       "total_pay": 30875000
-    },
-    {
-      "name": "Mr. Sridharan  Nanuiyer",
-      "role": "Chief Financial Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 23689888
     },
     {
       "name": "Mr. Balaji  Nuthalapadi",
@@ -71,6 +64,13 @@
       "role": "Head of Process & Quality Assurance",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Murali  Vaidyanathan",
+      "role": "Snr. Prest., Buss. Head of Liabilities Count. and Head of Branch Bank, Liabilities, Prdct. & Wealth",
+      "age": 55,
+      "year_born": 1970,
       "total_pay": "N/A"
     }
   ]

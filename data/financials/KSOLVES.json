@@ -1,14 +1,14 @@
 {
   "ticker": "KSOLVES",
-  "collected_at": "2026-06-30 06:06:36",
+  "collected_at": "2026-07-01 06:20:06",
   "company_info": {
     "name": "Ksolves India Limited",
     "sector": "Technology",
     "industry": "Software - Application",
-    "market_cap": 6746081792,
-    "current_price": 284.4,
-    "pe_ratio": 19.627329,
-    "pb_ratio": 22.928087,
+    "market_cap": 6655944192,
+    "current_price": 280.6,
+    "pe_ratio": 19.36508,
+    "pb_ratio": 22.621735,
     "roe": 1.36942,
     "debt_to_equity": 19.398,
     "revenue": 1626680960,
@@ -16,6 +16,6 @@
     "eps": 14.49,
     "52_week_high": 402.0,
     "52_week_low": 245.75,
-    "dividend_yield": 7.04
+    "dividend_yield": 6.99
   }
 }

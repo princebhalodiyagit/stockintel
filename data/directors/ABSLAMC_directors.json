@@ -1,7 +1,7 @@
 {
   "ticker": "ABSLAMC",
   "company": "Aditya Birla Sun Life AMC Limited",
-  "collected_at": "2026-06-30 05:43:51",
+  "collected_at": "2026-07-01 06:02:37",
   "directors": [
     {
       "name": "Mr. Athmanathan  Balasubramanian",
@@ -46,13 +46,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Ranabir  Bose",
-      "role": "Head Marketing",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
       "name": "Ms. Sunaina  da Cunha CFA",
       "role": "Co-CIO Debt",
       "age": "N/A",
@@ -71,6 +64,13 @@
       "role": "Co - Head of Equity",
       "age": 57,
       "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sarath  Sathkumara",
+      "role": "Investments Head of International Business",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

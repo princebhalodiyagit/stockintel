@@ -1,14 +1,14 @@
 {
   "ticker": "GLOSTERLTD",
-  "collected_at": "2026-06-30 05:58:00",
+  "collected_at": "2026-07-01 06:13:30",
   "company_info": {
     "name": "Gloster Limited",
     "sector": "Consumer Cyclical",
     "industry": "Textile Manufacturing",
-    "market_cap": 7966146048,
-    "current_price": 727.95,
-    "pe_ratio": 43.931805,
-    "pb_ratio": 0.73153967,
+    "market_cap": 8043296256,
+    "current_price": 735.0,
+    "pe_ratio": 44.357273,
+    "pb_ratio": 0.7386244,
     "roe": 0.0167,
     "debt_to_equity": 88.108,
     "revenue": 14267255808,
@@ -16,6 +16,6 @@
     "eps": 16.57,
     "52_week_high": 830.0,
     "52_week_low": 495.0,
-    "dividend_yield": 2.76
+    "dividend_yield": 2.73
   }
 }

@@ -1,14 +1,14 @@
 {
   "ticker": "VGUARD",
-  "collected_at": "2026-06-30 06:27:24",
+  "collected_at": "2026-07-01 06:36:02",
   "company_info": {
     "name": "V-Guard Industries Limited",
     "sector": "Industrials",
     "industry": "Electrical Equipment & Parts",
-    "market_cap": 133574598656,
-    "current_price": 305.8,
-    "pe_ratio": 43.561253,
-    "pb_ratio": 6.1183248,
+    "market_cap": 133378048000,
+    "current_price": 305.35,
+    "pe_ratio": 43.49715,
+    "pb_ratio": 6.1093216,
     "roe": 0.13793,
     "debt_to_equity": 6.964,
     "revenue": 59657801728,
@@ -16,6 +16,6 @@
     "eps": 7.02,
     "52_week_high": 409.75,
     "52_week_low": 290.0,
-    "dividend_yield": 0.49
+    "dividend_yield": 0.5
   }
 }

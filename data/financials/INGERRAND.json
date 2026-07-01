@@ -1,14 +1,14 @@
 {
   "ticker": "INGERRAND",
-  "collected_at": "2026-06-30 06:02:35",
+  "collected_at": "2026-07-01 06:17:00",
   "company_info": {
     "name": "Ingersoll-Rand (India) Limited",
     "sector": "Industrials",
     "industry": "Specialty Industrial Machinery",
-    "market_cap": 142084407296,
-    "current_price": 4500.9,
-    "pe_ratio": 55.348007,
-    "pb_ratio": 23.07645,
+    "market_cap": 143059861504,
+    "current_price": 4531.8,
+    "pe_ratio": 55.727985,
+    "pb_ratio": 23.234875,
     "roe": 0.41799,
     "debt_to_equity": 1.501,
     "revenue": 13923699712,
@@ -16,6 +16,6 @@
     "eps": 81.32,
     "52_week_high": 4756.2,
     "52_week_low": 3063.3,
-    "dividend_yield": 1.79
+    "dividend_yield": 1.78
   }
 }

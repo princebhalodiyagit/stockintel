@@ -1,15 +1,8 @@
 {
   "ticker": "PFS",
   "company": "PTC India Financial Services Limited",
-  "collected_at": "2026-06-30 06:14:11",
+  "collected_at": "2026-07-01 06:25:52",
   "directors": [
-    {
-      "name": "Mr. Rangachari  Balaji",
-      "role": "CEO, MD & Director",
-      "age": 52,
-      "year_born": 1973,
-      "total_pay": 8127140
-    },
     {
       "name": "Mr. Dilip  Srivastava",
       "role": "Director of Finance, CFO & Additional Director",
@@ -71,6 +64,13 @@
       "role": "Company Secretary",
       "age": 61,
       "year_born": 1964,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Shray Kumar Shikhar",
+      "role": "Executive Officer",
+      "age": 45,
+      "year_born": 1980,
       "total_pay": "N/A"
     }
   ]

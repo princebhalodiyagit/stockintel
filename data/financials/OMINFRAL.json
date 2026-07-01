@@ -1,14 +1,14 @@
 {
   "ticker": "OMINFRAL",
-  "collected_at": "2026-06-30 06:12:52",
+  "collected_at": "2026-07-01 06:24:52",
   "company_info": {
     "name": "Om Infra Limited",
     "sector": "Industrials",
     "industry": "Engineering & Construction",
-    "market_cap": 8235901440,
-    "current_price": 85.52,
-    "pe_ratio": 40.72381,
-    "pb_ratio": 1.0814228,
+    "market_cap": 8444881408,
+    "current_price": 87.69,
+    "pe_ratio": 41.757145,
+    "pb_ratio": 1.1088631,
     "roe": 0.0257,
     "debt_to_equity": 10.595,
     "revenue": 5000560128,
@@ -16,6 +16,6 @@
     "eps": 2.1,
     "52_week_high": 144.0,
     "52_week_low": 71.5,
-    "dividend_yield": 0.47
+    "dividend_yield": 0.45
   }
 }

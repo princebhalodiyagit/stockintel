@@ -1,14 +1,14 @@
 {
   "ticker": "PCBL",
-  "collected_at": "2026-06-30 06:13:57",
+  "collected_at": "2026-07-01 06:25:42",
   "company_info": {
     "name": "PCBL Chemical Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals",
-    "market_cap": 126773649408,
-    "current_price": 322.2,
-    "pe_ratio": 62.68483,
-    "pb_ratio": 3.1735713,
+    "market_cap": 127167111168,
+    "current_price": 323.2,
+    "pe_ratio": 62.879383,
+    "pb_ratio": 3.1834211,
     "roe": 0.05125,
     "debt_to_equity": 124.132,
     "revenue": 81892999168,
@@ -16,6 +16,6 @@
     "eps": 5.14,
     "52_week_high": 437.3,
     "52_week_low": 226.5,
-    "dividend_yield": 1.88
+    "dividend_yield": 1.87
   }
 }

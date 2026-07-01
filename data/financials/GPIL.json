@@ -1,14 +1,14 @@
 {
   "ticker": "GPIL",
-  "collected_at": "2026-06-30 05:58:38",
+  "collected_at": "2026-07-01 06:13:59",
   "company_info": {
     "name": "Godawari Power & Ispat Limited",
     "sector": "Basic Materials",
     "industry": "Steel",
-    "market_cap": 168374616064,
-    "current_price": 258.8,
-    "pe_ratio": 20.572336,
-    "pb_ratio": 2.7368865,
+    "market_cap": 165414404096,
+    "current_price": 254.25,
+    "pe_ratio": 20.210651,
+    "pb_ratio": 2.688769,
     "roe": 0.14866,
     "debt_to_equity": 7.582,
     "revenue": 53806501888,
@@ -16,6 +16,6 @@
     "eps": 12.58,
     "52_week_high": 320.0,
     "52_week_low": 179.25,
-    "dividend_yield": 0.38
+    "dividend_yield": 0.39
   }
 }

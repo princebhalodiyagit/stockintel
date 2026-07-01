@@ -1,15 +1,8 @@
 {
   "ticker": "SFL",
   "company": "Sheela Foam Limited",
-  "collected_at": "2026-06-30 06:19:42",
+  "collected_at": "2026-07-01 06:30:06",
   "directors": [
-    {
-      "name": "Mr. Rahul  Gautam",
-      "role": "MD & Chairman",
-      "age": 72,
-      "year_born": 1953,
-      "total_pay": 27724480
-    },
     {
       "name": "Mr. Tushaar  Gautam",
       "role": "Joint MD & Vice Chairman",
@@ -22,41 +15,6 @@
       "role": "Group Chief Financial Officer",
       "age": 53,
       "year_born": 1972,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Md. Iquebal Ahmad",
-      "role": "Compliance Officer & Company Secretary",
-      "age": 50,
-      "year_born": 1975,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Alejandro Palao Serrano",
-      "role": "Chief Executive Officer of Spain at Interplasp",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Kevin  Graham",
-      "role": "Chief Operating Officer of Australia at Joyce",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Frank Joseph Van Gogh B.E., M.B.A.",
-      "role": "CEO & Director of Joyce Foam Pty Ltd",
-      "age": 70,
-      "year_born": 1955,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Davinder Kumar Ahuja",
-      "role": "Group Finance Controller",
-      "age": "N/A",
-      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

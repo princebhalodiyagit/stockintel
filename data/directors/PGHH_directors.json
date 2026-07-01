@@ -1,7 +1,7 @@
 {
   "ticker": "PGHH",
   "company": "Procter & Gamble Hygiene and Health Care Limited",
-  "collected_at": "2026-06-30 06:14:14",
+  "collected_at": "2026-07-01 06:25:55",
   "directors": [
     {
       "name": "Mr. Kumar  Venkatasubramanian",
@@ -16,13 +16,6 @@
       "age": 46,
       "year_born": 1979,
       "total_pay": 20110971
-    },
-    {
-      "name": "Mr. Gaurav  Bhartia",
-      "role": "Chief Financial Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
     },
     {
       "name": "Mr. John T. Chevalier",
@@ -69,6 +62,13 @@
     {
       "name": "Mr. Sachan  Saini",
       "role": "Government Relations Head",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ankur  Bhagat",
+      "role": "Supply Network Operations Head",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

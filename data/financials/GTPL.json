@@ -1,14 +1,14 @@
 {
   "ticker": "GTPL",
-  "collected_at": "2026-06-30 05:59:17",
+  "collected_at": "2026-07-01 06:14:29",
   "company_info": {
     "name": "GTPL Hathway Limited",
     "sector": "Communication Services",
     "industry": "Entertainment",
-    "market_cap": 6789393408,
-    "current_price": 60.37,
-    "pe_ratio": 43.12143,
-    "pb_ratio": 0.5902713,
+    "market_cap": 6911978496,
+    "current_price": 61.46,
+    "pe_ratio": 43.9,
+    "pb_ratio": 0.60092884,
     "roe": 0.009649999,
     "debt_to_equity": 39.615,
     "revenue": 37192171520,
@@ -16,6 +16,6 @@
     "eps": 1.4,
     "52_week_high": 127.49,
     "52_week_low": 55.01,
-    "dividend_yield": 3.32
+    "dividend_yield": 3.27
   }
 }

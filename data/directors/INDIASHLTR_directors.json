@@ -1,7 +1,7 @@
 {
   "ticker": "INDIASHLTR",
   "company": "India Shelter Finance Corporation Limited",
-  "collected_at": "2026-06-30 06:02:05",
+  "collected_at": "2026-07-01 06:16:36",
   "directors": [
     {
       "name": "Mr. Rupinder  Singh",
@@ -9,20 +9,6 @@
       "age": 49,
       "year_born": 1976,
       "total_pay": 86242063
-    },
-    {
-      "name": "Mr. Ashish  Gupta",
-      "role": "Chief Financial officer",
-      "age": 43,
-      "year_born": 1982,
-      "total_pay": 27605000
-    },
-    {
-      "name": "Ms. Mukti Umrao Singh Chaplot",
-      "role": "Company Secretary",
-      "age": 36,
-      "year_born": 1989,
-      "total_pay": 4700000
     },
     {
       "name": "Mr. Abhinav  Arya",
@@ -69,6 +55,20 @@
     {
       "name": "Mr. Ravinder  Dhillon",
       "role": "Head of Collection",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jose  Tom",
+      "role": "Chief Information Security Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Iqbal  Singh",
+      "role": "Head Internal Audit",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

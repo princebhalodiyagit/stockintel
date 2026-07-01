@@ -1,14 +1,14 @@
 {
   "ticker": "MPSLTD",
-  "collected_at": "2026-06-30 06:10:15",
+  "collected_at": "2026-07-01 06:22:55",
   "company_info": {
     "name": "MPS Limited",
     "sector": "Communication Services",
     "industry": "Publishing",
-    "market_cap": 31795171328,
-    "current_price": 1873.0,
-    "pe_ratio": 18.34476,
-    "pb_ratio": 5.329972,
+    "market_cap": 32716943360,
+    "current_price": 1927.3,
+    "pe_ratio": 18.876593,
+    "pb_ratio": 5.484493,
     "roe": 0.32234,
     "debt_to_equity": 10.167,
     "revenue": 7683700224,
@@ -16,6 +16,6 @@
     "eps": 102.1,
     "52_week_high": 2975.0,
     "52_week_low": 1336.1,
-    "dividend_yield": 4.41
+    "dividend_yield": 4.4
   }
 }
