@@ -1,21 +1,21 @@
 {
   "ticker": "AVG",
-  "collected_at": "2026-07-01 06:05:34",
+  "collected_at": "2026-07-02 05:33:37",
   "company_info": {
     "name": "AVG Logistics Limited",
     "sector": "Industrials",
     "industry": "Integrated Freight & Logistics",
-    "market_cap": 3864901376,
-    "current_price": 206.59,
-    "pe_ratio": 12.253262,
-    "pb_ratio": 1.2138358,
-    "roe": "N/A",
+    "market_cap": 3881738752,
+    "current_price": 207.49,
+    "pe_ratio": 12.292063,
+    "pb_ratio": 1.2191238,
+    "roe": 0.10145,
     "debt_to_equity": 81.0,
-    "revenue": 5498425856,
-    "net_income": 206875008,
-    "eps": 16.86,
+    "revenue": 5574090752,
+    "net_income": 262662000,
+    "eps": 16.88,
     "52_week_high": 306.15,
     "52_week_low": 116.66,
-    "dividend_yield": 0.65
+    "dividend_yield": 0.57
   }
 }

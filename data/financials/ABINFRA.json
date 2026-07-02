@@ -1,14 +1,14 @@
 {
   "ticker": "ABINFRA",
-  "collected_at": "2026-07-01 06:02:33",
+  "collected_at": "2026-07-02 05:30:38",
   "company_info": {
     "name": "A B Infrabuild Limited",
     "sector": "Industrials",
     "industry": "Engineering & Construction",
-    "market_cap": 7448284160,
-    "current_price": 11.66,
-    "pe_ratio": 38.866665,
-    "pb_ratio": 4.5689654,
+    "market_cap": 7090562560,
+    "current_price": 11.1,
+    "pe_ratio": 37.0,
+    "pb_ratio": 4.3495297,
     "roe": 0.13832,
     "debt_to_equity": 68.314,
     "revenue": 2562071040,
@@ -16,6 +16,6 @@
     "eps": 0.3,
     "52_week_high": 23.56,
     "52_week_low": 8.82,
-    "dividend_yield": 0.04
+    "dividend_yield": 0.05
   }
 }

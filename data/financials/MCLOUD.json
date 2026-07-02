@@ -1,14 +1,14 @@
 {
   "ticker": "MCLOUD",
-  "collected_at": "2026-07-01 06:21:58",
+  "collected_at": "2026-07-02 05:49:50",
   "company_info": {
     "name": "Magellanic Cloud Limited",
     "sector": "Technology",
     "industry": "Information Technology Services",
-    "market_cap": 17854623744,
-    "current_price": 30.31,
-    "pe_ratio": 17.22159,
-    "pb_ratio": 2.588828,
+    "market_cap": 18555615232,
+    "current_price": 31.5,
+    "pe_ratio": 17.897728,
+    "pb_ratio": 2.690468,
     "roe": 0.18974,
     "debt_to_equity": 42.501,
     "revenue": 6978763776,
@@ -16,6 +16,6 @@
     "eps": 1.76,
     "52_week_high": 105.42,
     "52_week_low": 19.4,
-    "dividend_yield": 0.1
+    "dividend_yield": 0.09
   }
 }

@@ -1,7 +1,7 @@
 {
   "ticker": "ALKEM",
   "company": "Alkem Laboratories Limited",
-  "collected_at": "2026-07-01 06:03:44",
+  "collected_at": "2026-07-02 05:31:49",
   "directors": [
     {
       "name": "Mr. Basudeo Narian Singh",
@@ -37,41 +37,6 @@
       "age": 60,
       "year_born": 1965,
       "total_pay": 110900000
-    },
-    {
-      "name": "Dr. Akhilesh D. Sharma",
-      "role": "President & Chief Medical Officer",
-      "age": 56,
-      "year_born": 1969,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Rajorshi  Ganguli",
-      "role": "President & Global HR Head",
-      "age": 54,
-      "year_born": 1971,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Shirish Purushotham Ambulgekar",
-      "role": "President & Global Quality Head",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Nitin  Agrawal",
-      "role": "CFO & President of Finance",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Satish Kumar Singh",
-      "role": "Head of Operations",
-      "age": 65,
-      "year_born": 1960,
-      "total_pay": "N/A"
     }
   ]
 }

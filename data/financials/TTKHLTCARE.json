@@ -1,14 +1,14 @@
 {
   "ticker": "TTKHLTCARE",
-  "collected_at": "2026-07-01 06:34:53",
+  "collected_at": "2026-07-02 06:02:30",
   "company_info": {
     "name": "TTK Healthcare Limited",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - General",
-    "market_cap": 13031699456,
-    "current_price": 922.25,
-    "pe_ratio": 19.850409,
-    "pb_ratio": 1.1689943,
+    "market_cap": 12995666944,
+    "current_price": 919.7,
+    "pe_ratio": 19.795525,
+    "pb_ratio": 1.1657621,
     "roe": 0.06026,
     "debt_to_equity": 2.187,
     "revenue": 8572810752,
@@ -16,6 +16,6 @@
     "eps": 46.46,
     "52_week_high": 1398.9,
     "52_week_low": 735.0,
-    "dividend_yield": 1.09
+    "dividend_yield": 1.1
   }
 }

@@ -1,14 +1,14 @@
 {
   "ticker": "TATAPOWER",
-  "collected_at": "2026-07-01 06:33:28",
+  "collected_at": "2026-07-02 06:01:07",
   "company_info": {
     "name": "The Tata Power Company Limited",
     "sector": "Utilities",
     "industry": "Utilities - Independent Power Producers",
-    "market_cap": 1219341582336,
-    "current_price": 381.6,
-    "pe_ratio": 32.559727,
-    "pb_ratio": 3.088803,
+    "market_cap": 1199849996288,
+    "current_price": 375.5,
+    "pe_ratio": 32.03925,
+    "pb_ratio": 3.0394275,
     "roe": 0.11336,
     "debt_to_equity": 168.051,
     "revenue": 624285908992,
@@ -16,6 +16,6 @@
     "eps": 11.72,
     "52_week_high": 464.9,
     "52_week_low": 342.5,
-    "dividend_yield": 0.65
+    "dividend_yield": 0.67
   }
 }

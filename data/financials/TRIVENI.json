@@ -1,14 +1,14 @@
 {
   "ticker": "TRIVENI",
-  "collected_at": "2026-07-01 06:34:49",
+  "collected_at": "2026-07-02 06:02:26",
   "company_info": {
     "name": "Triveni Engineering & Industries Limited",
     "sector": "Consumer Defensive",
     "industry": "Confectioners",
-    "market_cap": 99141312512,
-    "current_price": 449.9,
-    "pe_ratio": 36.87705,
-    "pb_ratio": 3.1995163,
+    "market_cap": 98535317504,
+    "current_price": 447.15,
+    "pe_ratio": 36.651638,
+    "pb_ratio": 3.1799593,
     "roe": 0.082650006,
     "debt_to_equity": 64.646,
     "revenue": 62904901632,
@@ -16,6 +16,6 @@
     "eps": 12.2,
     "52_week_high": 462.75,
     "52_week_low": 317.55,
-    "dividend_yield": 1.24
+    "dividend_yield": 1.16
   }
 }

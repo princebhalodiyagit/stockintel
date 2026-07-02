@@ -1,14 +1,14 @@
 {
   "ticker": "DOLLAR",
-  "collected_at": "2026-07-01 06:10:42",
+  "collected_at": "2026-07-02 05:38:41",
   "company_info": {
     "name": "Dollar Industries Limited",
     "sector": "Consumer Cyclical",
     "industry": "Apparel Manufacturing",
-    "market_cap": 15066637312,
-    "current_price": 265.65,
-    "pe_ratio": 14.03328,
-    "pb_ratio": 1.5893861,
+    "market_cap": 15009921024,
+    "current_price": 264.65,
+    "pe_ratio": 13.9804535,
+    "pb_ratio": 1.5834031,
     "roe": 0.11806,
     "debt_to_equity": 30.541,
     "revenue": 18809610240,
@@ -16,6 +16,6 @@
     "eps": 18.93,
     "52_week_high": 429.9,
     "52_week_low": 220.5,
-    "dividend_yield": 1.12
+    "dividend_yield": 1.13
   }
 }
