@@ -1,14 +1,14 @@
 {
   "ticker": "NRBBEARING",
-  "collected_at": "2026-07-02 05:52:20",
+  "collected_at": "2026-07-03 05:36:17",
   "company_info": {
     "name": "NRB Bearings Limited",
     "sector": "Consumer Cyclical",
     "industry": "Auto Parts",
-    "market_cap": 41885102080,
-    "current_price": 432.15,
-    "pe_ratio": 29.318182,
-    "pb_ratio": 4.3536296,
+    "market_cap": 41356873728,
+    "current_price": 426.7,
+    "pe_ratio": 28.94844,
+    "pb_ratio": 4.2987247,
     "roe": 0.15174,
     "debt_to_equity": 15.653,
     "revenue": 13351499776,
@@ -16,6 +16,6 @@
     "eps": 14.74,
     "52_week_high": 467.6,
     "52_week_low": 212.55,
-    "dividend_yield": 2.89
+    "dividend_yield": 2.8
   }
 }

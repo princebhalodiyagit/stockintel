@@ -1,14 +1,14 @@
 {
   "ticker": "HMAAGRO",
-  "collected_at": "2026-07-02 05:43:36",
+  "collected_at": "2026-07-03 05:27:19",
   "company_info": {
     "name": "HMA Agro Industries Limited",
     "sector": "Consumer Defensive",
     "industry": "Packaged Foods",
-    "market_cap": 11097058304,
-    "current_price": 22.16,
-    "pe_ratio": 6.7355623,
-    "pb_ratio": 1.1726108,
+    "market_cap": 11192204288,
+    "current_price": 22.35,
+    "pe_ratio": 6.793313,
+    "pb_ratio": 1.1826648,
     "roe": 0.18639,
     "debt_to_equity": 88.318,
     "revenue": 69164949504,
@@ -16,6 +16,6 @@
     "eps": 3.29,
     "52_week_high": 34.24,
     "52_week_low": 21.25,
-    "dividend_yield": 1.36
+    "dividend_yield": 1.34
   }
 }

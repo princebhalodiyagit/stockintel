@@ -1,14 +1,14 @@
 {
   "ticker": "CRAMC",
-  "collected_at": "2026-07-02 05:37:20",
+  "collected_at": "2026-07-03 05:20:53",
   "company_info": {
     "name": "Canara Robeco Asset Management Company Limited",
     "sector": "Financial Services",
     "industry": "Asset Management",
-    "market_cap": 50777661440,
-    "current_price": 254.63,
-    "pe_ratio": 24.914873,
-    "pb_ratio": 6.8082886,
+    "market_cap": 51058839552,
+    "current_price": 256.04,
+    "pe_ratio": 25.052837,
+    "pb_ratio": 6.845989,
     "roe": 0.30286,
     "debt_to_equity": 2.358,
     "revenue": 4546565120,
@@ -16,6 +16,6 @@
     "eps": 10.22,
     "52_week_high": 353.4,
     "52_week_low": 214.2,
-    "dividend_yield": 1.6
+    "dividend_yield": 1.56
   }
 }

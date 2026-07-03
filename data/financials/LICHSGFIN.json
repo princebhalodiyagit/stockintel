@@ -1,14 +1,14 @@
 {
   "ticker": "LICHSGFIN",
-  "collected_at": "2026-07-02 05:48:27",
+  "collected_at": "2026-07-03 05:32:16",
   "company_info": {
     "name": "LIC Housing Finance Limited",
     "sector": "Financial Services",
     "industry": "Mortgage Finance",
-    "market_cap": 305449959424,
-    "current_price": 555.3,
-    "pe_ratio": 5.4521356,
-    "pb_ratio": 0.7373914,
+    "market_cap": 306220072960,
+    "current_price": 556.7,
+    "pe_ratio": 5.4658813,
+    "pb_ratio": 0.73925054,
     "roe": 0.14409,
     "debt_to_equity": 642.522,
     "revenue": 85189099520,
@@ -16,6 +16,6 @@
     "eps": 101.85,
     "52_week_high": 646.5,
     "52_week_low": 458.9,
-    "dividend_yield": 1.8
+    "dividend_yield": 1.81
   }
 }

@@ -1,14 +1,14 @@
 {
   "ticker": "LTM",
-  "collected_at": "2026-07-02 05:48:44",
+  "collected_at": "2026-07-03 05:32:34",
   "company_info": {
     "name": "LTM Limited",
     "sector": "Technology",
     "industry": "Information Technology Services",
-    "market_cap": 1088605585408,
-    "current_price": 3672.0,
-    "pe_ratio": 21.704695,
-    "pb_ratio": 4.530559,
+    "market_cap": 1108320321536,
+    "current_price": 3738.5,
+    "pe_ratio": 22.097767,
+    "pb_ratio": 4.612608,
     "roe": 0.21285,
     "debt_to_equity": 9.582,
     "revenue": 423076003840,
@@ -16,6 +16,6 @@
     "eps": 169.18,
     "52_week_high": 6429.5,
     "52_week_low": 3528.0,
-    "dividend_yield": 2.11
+    "dividend_yield": 2.04
   }
 }

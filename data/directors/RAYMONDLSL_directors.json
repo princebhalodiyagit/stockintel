@@ -1,7 +1,7 @@
 {
   "ticker": "RAYMONDLSL",
   "company": "Raymond Lifestyle Limited",
-  "collected_at": "2026-07-02 05:55:36",
+  "collected_at": "2026-07-03 05:39:37",
   "directors": [
     {
       "name": "Mr. Gautam Hari Vijaypat Singhania",
@@ -9,13 +9,6 @@
       "age": 60,
       "year_born": 1965,
       "total_pay": 104380000
-    },
-    {
-      "name": "Mr. Satyaki  Ghosh",
-      "role": "Chief Executive Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
     },
     {
       "name": "Mr. Ellatch Chathuar Prasad",
@@ -39,27 +32,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. MLN  Patnaik",
-      "role": "Chief Human Resources Officer - Lifestyle",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Vipul  Mathur",
-      "role": "Chief Business Officer- Raymond Home & Ethnix",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Neeraj  Nagpal",
-      "role": "Chief Business Officer - Apparel, MTM & Retail",
-      "age": 51,
-      "year_born": 1974,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Vikram  Mahaldar",
       "role": "Chief Business Officer - Suiting",
       "age": "N/A",
@@ -67,10 +39,17 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Anupam  Dikshit",
-      "role": "Chief Business Officer- Shirting",
+      "name": "Mr. Manish  Bharti",
+      "role": "Chief Business Officer - Garmenting",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Amit  Agarwal",
+      "role": "President \u00adof Chairman Office",
+      "age": 56,
+      "year_born": 1969,
       "total_pay": "N/A"
     }
   ]

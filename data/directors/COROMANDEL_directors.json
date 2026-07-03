@@ -1,35 +1,28 @@
 {
   "ticker": "COROMANDEL",
   "company": "Coromandel International Limited",
-  "collected_at": "2026-07-02 05:37:12",
+  "collected_at": "2026-07-03 05:20:45",
   "directors": [
     {
       "name": "Mr. Arun  Alagappan",
       "role": "Executive Chairman",
       "age": 49,
       "year_born": 1976,
-      "total_pay": 103113000
+      "total_pay": 130028000
     },
     {
       "name": "Mr. S.  Sankarasubramanian B.Sc, ICWA",
       "role": "MD, CEO & Additional Director",
       "age": 56,
       "year_born": 1969,
-      "total_pay": 44779000
+      "total_pay": 50680000
     },
     {
       "name": "Mr. Narayanan  Vellayan",
       "role": "Executive Director of Nutrient Business",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": 43311167
-    },
-    {
-      "name": "Mr. Arunachalam  Vellayan",
-      "role": "Whole-Time Director of Corporate & Strategic Planning",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 43330402
+      "total_pay": 41806000
     },
     {
       "name": "Mr. Arun Leslie George M.A(SW), PMIR",
@@ -67,10 +60,17 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Ambadasu Ramachandra Rao B.Tech (Mech)",
-      "role": "Senior Vice President of Projects",
-      "age": 66,
-      "year_born": 1959,
+      "name": "Mr. Madhab  Adhikari",
+      "role": "Executive VP & Business Head of Fertilisers, SSP & Nano",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. TS  Venkateswaran",
+      "role": "VP & Head of Internal Audit and Chief Risk Officer",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

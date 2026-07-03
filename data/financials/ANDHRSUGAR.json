@@ -1,14 +1,14 @@
 {
   "ticker": "ANDHRSUGAR",
-  "collected_at": "2026-07-02 05:32:12",
+  "collected_at": "2026-07-03 05:15:35",
   "company_info": {
     "name": "The Andhra Sugars Limited",
     "sector": "Basic Materials",
     "industry": "Chemicals",
-    "market_cap": 11249437696,
-    "current_price": 83.0,
-    "pe_ratio": 13.7190075,
-    "pb_ratio": 0.66640973,
+    "market_cap": 11318560768,
+    "current_price": 83.51,
+    "pe_ratio": 13.803306,
+    "pb_ratio": 0.67050457,
     "roe": 0.049689997,
     "debt_to_equity": 0.032,
     "revenue": 24659965952,
@@ -16,6 +16,6 @@
     "eps": 6.05,
     "52_week_high": 107.23,
     "52_week_low": 66.5,
-    "dividend_yield": 1.01
+    "dividend_yield": 0.95
   }
 }

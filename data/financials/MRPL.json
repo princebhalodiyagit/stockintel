@@ -1,14 +1,14 @@
 {
   "ticker": "MRPL",
-  "collected_at": "2026-07-02 05:50:47",
+  "collected_at": "2026-07-03 05:34:42",
   "company_info": {
     "name": "Mangalore Refinery and Petrochemicals Limited",
     "sector": "Energy",
     "industry": "Oil & Gas Refining & Marketing",
-    "market_cap": 263713538048,
-    "current_price": 150.47,
-    "pe_ratio": 13.704008,
-    "pb_ratio": 1.8506857,
+    "market_cap": 263100121088,
+    "current_price": 150.12,
+    "pe_ratio": 13.672132,
+    "pb_ratio": 1.8463808,
     "roe": 0.14169,
     "debt_to_equity": 108.059,
     "revenue": 886674882560,
@@ -16,6 +16,6 @@
     "eps": 10.98,
     "52_week_high": 212.31,
     "52_week_low": 120.4,
-    "dividend_yield": 2.7
+    "dividend_yield": 2.67
   }
 }

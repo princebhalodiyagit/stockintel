@@ -1,14 +1,14 @@
 {
   "ticker": "COROMANDEL",
-  "collected_at": "2026-07-02 05:37:12",
+  "collected_at": "2026-07-03 05:20:45",
   "company_info": {
     "name": "Coromandel International Limited",
     "sector": "Basic Materials",
     "industry": "Agricultural Inputs",
-    "market_cap": 590936932352,
-    "current_price": 2006.6,
-    "pe_ratio": 30.233538,
-    "pb_ratio": 4.7071905,
+    "market_cap": 591467053056,
+    "current_price": 2008.4,
+    "pe_ratio": 30.260658,
+    "pb_ratio": 4.711413,
     "roe": 0.15587,
     "debt_to_equity": 11.469,
     "revenue": 314795393024,
@@ -16,6 +16,6 @@
     "eps": 66.37,
     "52_week_high": 2718.9,
     "52_week_low": 1706.5,
-    "dividend_yield": 0.2
+    "dividend_yield": 0.55
   }
 }

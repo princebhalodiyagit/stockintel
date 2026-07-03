@@ -1,7 +1,7 @@
 {
   "ticker": "JSL",
   "company": "Jindal Stainless Limited",
-  "collected_at": "2026-07-02 05:46:20",
+  "collected_at": "2026-07-03 05:30:06",
   "directors": [
     {
       "name": "Mr. Ratan Kumar Jindal",
@@ -9,13 +9,6 @@
       "age": 64,
       "year_born": 1961,
       "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Tarun Kumar Khulbe",
-      "role": "CEO, CFO & Whole Time Director",
-      "age": 60,
-      "year_born": 1965,
-      "total_pay": 51600000
     },
     {
       "name": "Mr. Jagmohan  Sood",
@@ -37,41 +30,6 @@
       "age": 36,
       "year_born": 1989,
       "total_pay": 342600000
-    },
-    {
-      "name": "Mr. Sanjay  Mishra",
-      "role": "Chief Digital & Information Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Sushil  Baveja",
-      "role": "Chief Human Resource Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ms. Deepika  Jindal",
-      "role": "Chairperson of Jindal Stainless Foundation",
-      "age": 60,
-      "year_born": 1965,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Kalyan Kumar Bhattacherjee",
-      "role": "Chief Sustainability Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Vijay Kumar Bindlish",
-      "role": "Unit Head of Hisar",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
     }
   ]
 }
