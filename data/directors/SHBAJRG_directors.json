@@ -1,8 +1,22 @@
 {
   "ticker": "SHBAJRG",
   "company": "Shri Bajrang Alliance Limited",
-  "collected_at": "2026-07-03 05:42:15",
+  "collected_at": "2026-07-04 05:36:52",
   "directors": [
+    {
+      "name": "Mr. Anand Hariram Goel",
+      "role": "MD & Executive Non-Independent Director",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": 1200000
+    },
+    {
+      "name": "Mr. Archit Narendra Goel",
+      "role": "CFO & Whole time Director",
+      "age": 35,
+      "year_born": 1990,
+      "total_pay": 10200000
+    },
     {
       "name": "Ms. Anshu  Dubey",
       "role": "Company Secretary & Compliance officer",

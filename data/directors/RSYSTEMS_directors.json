@@ -1,7 +1,7 @@
 {
   "ticker": "RSYSTEMS",
   "company": "R Systems International Limited",
-  "collected_at": "2026-07-03 05:40:37",
+  "collected_at": "2026-07-04 05:35:13",
   "directors": [
     {
       "name": "Mr. Nitesh  Bansal",
@@ -29,6 +29,13 @@
       "role": "Assistant Vice President of Finance & Accounts",
       "age": 46,
       "year_born": 1979,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Srikara  Rao",
+      "role": "Chief Technology Officer",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
@@ -60,15 +67,8 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Arun  Raghavapudi",
-      "role": "Chief Customer Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Srikara  Rao",
-      "role": "Chief Technology Officer of Cloud & Cyber Security Services",
+      "name": "Ms. Raluca Marina Rusu",
+      "role": "Chief Executive Officer of RSI Europe",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

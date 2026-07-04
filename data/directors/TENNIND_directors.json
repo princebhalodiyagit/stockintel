@@ -1,6 +1,35 @@
 {
   "ticker": "TENNIND",
   "company": "Tenneco Clean Air India Limited",
-  "collected_at": "2026-07-03 05:45:41",
-  "directors": []
+  "collected_at": "2026-07-04 05:40:20",
+  "directors": [
+    {
+      "name": "Mr. Arvind  Chandrasekharan",
+      "role": "CEO & Whole-Time Director",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mahender  Chhabra",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Roopali  Singh",
+      "role": "General Counsel, Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rishi  Verma",
+      "role": "President of India",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": "N/A"
+    }
+  ]
 }

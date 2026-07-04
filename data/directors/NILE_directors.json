@@ -1,6 +1,56 @@
 {
   "ticker": "NILE",
   "company": "Nile Limited",
-  "collected_at": "2026-07-03 05:35:56",
-  "directors": []
+  "collected_at": "2026-07-04 05:30:32",
+  "directors": [
+    {
+      "name": "Mr. Ramesh  Vuyyuru",
+      "role": "Executive Chairman",
+      "age": 77,
+      "year_born": 1948,
+      "total_pay": 17321000
+    },
+    {
+      "name": "Mr. Sandeep Vuyyuru Ramesh",
+      "role": "MD & Executive Director",
+      "age": 43,
+      "year_born": 1982,
+      "total_pay": 25975000
+    },
+    {
+      "name": "Mr. Kaliprasad  Yalamanchili",
+      "role": "Chief Executive Officer",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. B. Seshagiri Rao",
+      "role": "CFO & GM of Finance",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Rajani  Kamatham",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 43,
+      "year_born": 1982,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. K.H.K.  Srinivas",
+      "role": "Deputy GM & Plant Head",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. R. Devender Rao",
+      "role": "Senior Manager & Plant Head",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    }
+  ]
 }

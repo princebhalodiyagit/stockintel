@@ -1,6 +1,77 @@
 {
   "ticker": "KEI",
   "company": "KEI Industries Limited",
-  "collected_at": "2026-07-03 05:30:49",
-  "directors": []
+  "collected_at": "2026-07-04 05:25:23",
+  "directors": [
+    {
+      "name": "Mr. Anil  Gupta",
+      "role": "Chairman, MD & CEO",
+      "age": 66,
+      "year_born": 1959,
+      "total_pay": 493220000
+    },
+    {
+      "name": "Mr. Rajeev  Gupta",
+      "role": "CFO, Executive Director of Finance & Executive Director",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": 66020000
+    },
+    {
+      "name": "Mr. Lalit  Sharma",
+      "role": "Chief Operating Officer",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manoj  Kakkar",
+      "role": "Executive Director of Sales & Marketing",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kali Charan Sharma",
+      "role": "Senior Vice President of Operationsof Bhiwadi Plants",
+      "age": 65,
+      "year_born": 1960,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Dilip Kumar Barnwal",
+      "role": "Sr. VP (Operations)",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Dayanand  Sharma",
+      "role": "Sr. VP (Operations)",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pawan Kumar Jain",
+      "role": "Senior VP \u0096 EPC Business Development & Tendering",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Akshit Diviaj Gupta",
+      "role": "Non-Independent Executive Director",
+      "age": 33,
+      "year_born": 1992,
+      "total_pay": 10350000
+    },
+    {
+      "name": "Mr. Adarsh kumar Jain",
+      "role": "Vice President of Finance",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": "N/A"
+    }
+  ]
 }

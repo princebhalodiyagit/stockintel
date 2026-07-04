@@ -1,7 +1,7 @@
 {
   "ticker": "MAHABANK",
   "company": "Bank of Maharashtra",
-  "collected_at": "2026-07-03 05:32:51",
+  "collected_at": "2026-07-04 05:27:26",
   "directors": [
     {
       "name": "Mr. Nidhu  Saxena",
@@ -16,6 +16,20 @@
       "age": 39,
       "year_born": 1986,
       "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vijay Prakash Jai Prakash Srivastava",
+      "role": "Chief General Manager",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Prabhat  Kiran",
+      "role": "Executive Director",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": 1498000
     },
     {
       "name": "Mr. Devdatta Vitthal Rokade",
@@ -39,6 +53,13 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Ms. Uma  Vedula",
+      "role": "Chief Compliance Officer",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. K. Rajesh Kumar",
       "role": "GM of HRM, L&D, Rajbhasha, Marketing, Publicity & Corporate Services",
       "age": "N/A",
@@ -46,29 +67,8 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Amit  Srivastava",
-      "role": "Chief Vigilance Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ms. Aparna Vidyadhar Joglekar",
+      "name": "Mr. Sankpal Baburao Dinkar",
       "role": "Chief General Manager",
-      "age": 56,
-      "year_born": 1969,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Tafraiz  Hussain",
-      "role": "Chief Manager of Investor Services Department",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Subhasish  Roy",
-      "role": "Chief Risk Officer",
       "age": 58,
       "year_born": 1967,
       "total_pay": "N/A"

@@ -1,6 +1,77 @@
 {
   "ticker": "RAYMOND",
   "company": "Raymond Limited",
-  "collected_at": "2026-07-03 05:39:36",
-  "directors": []
+  "collected_at": "2026-07-04 05:34:13",
+  "directors": [
+    {
+      "name": "Mr. Gautam Hari Vijaypat Singhania",
+      "role": "Chairman & MD",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": 38367000
+    },
+    {
+      "name": "Mr. Rakesh Muljibhai Darji",
+      "role": "Secretarial Director, Company Secretary & Compliance Officer",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rohit  Khanna",
+      "role": "Head of Corporate Communications",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ram Krishna Bhatnagar",
+      "role": "VP and Head of Sales & Distribution",
+      "age": 65,
+      "year_born": 1960,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jatin  Khanna",
+      "role": "Head of Corporate Development",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. K. A. Narayan",
+      "role": "President of Human Resources",
+      "age": 67,
+      "year_born": 1958,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Shantilal L. Pokharna",
+      "role": "President of Commercial",
+      "age": 72,
+      "year_born": 1953,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Balasubramanian  V.",
+      "role": "Managing Director of JK Files & Engineering Ltd",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ravi Raj Hudda",
+      "role": "Chief Digital & Information Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Navin  Sharma",
+      "role": "Chief Financial Officer of Engineering Business",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

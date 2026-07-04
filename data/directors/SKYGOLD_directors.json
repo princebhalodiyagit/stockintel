@@ -1,7 +1,7 @@
 {
   "ticker": "SKYGOLD",
   "company": "SKY GOLD AND DIAMONDS LIMITED",
-  "collected_at": "2026-07-03 05:43:05",
+  "collected_at": "2026-07-04 05:37:43",
   "directors": [
     {
       "name": "Mr. Mangesh Ramesh Chauhan",
@@ -32,24 +32,45 @@
       "total_pay": 11700000
     },
     {
-      "name": "Mr. Dilip Bechuram Huduk",
-      "role": "Executive Designer or Assistant Manager",
+      "name": "Mr. Akash  Talesara",
+      "role": "Chief Executive Officer",
+      "age": 43,
+      "year_born": 1982,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Siddharth  Sipani",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Sandeep Gautam Roy",
+      "role": "Head of Operations",
       "age": 55,
       "year_born": 1970,
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Dina  Ram",
-      "role": "Manager",
-      "age": 35,
-      "year_born": 1990,
+      "name": "Mr. Jayesh  Sanghavi",
+      "role": "Manager of Accounts",
+      "age": 56,
+      "year_born": 1969,
       "total_pay": "N/A"
     },
     {
-      "name": "Mahesh  Vellingir",
-      "role": "Senior Manager of Production",
-      "age": 49,
-      "year_born": 1976,
+      "name": "Angappan  K.",
+      "role": "General Manager HR & Admin",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Dilip Bechuram Huduk",
+      "role": "Executive Designer or Assistant Manager",
+      "age": 55,
+      "year_born": 1970,
       "total_pay": "N/A"
     }
   ]

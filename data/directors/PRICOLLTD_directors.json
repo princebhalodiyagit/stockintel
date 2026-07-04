@@ -1,7 +1,7 @@
 {
   "ticker": "PRICOLLTD",
   "company": "Pricol Limited",
-  "collected_at": "2026-07-03 05:38:41",
+  "collected_at": "2026-07-04 05:33:18",
   "directors": [
     {
       "name": "Mr. Vikram  Mohan",
@@ -46,6 +46,13 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. Siddharth  Manoharan",
+      "role": "Group Executive Director of Business Strategy & Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Dinesh Govind Dodmane",
       "role": "Chief Technology Officer- Driver Information and Connected Vehicle Solutions",
       "age": 51,
@@ -64,13 +71,6 @@
       "role": "Chief Manufacturing Excellence Officer",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. V.  Ramathilak",
-      "role": "Vice President",
-      "age": 51,
-      "year_born": 1974,
       "total_pay": "N/A"
     }
   ]

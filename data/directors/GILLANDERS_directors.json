@@ -1,7 +1,7 @@
 {
   "ticker": "GILLANDERS",
   "company": "Gillanders Arbuthnot & Company Limited",
-  "collected_at": "2026-07-03 05:24:56",
+  "collected_at": "2026-07-04 05:19:22",
   "directors": [
     {
       "name": "Mr. Mahesh  Sodhani",
@@ -9,6 +9,69 @@
       "age": 53,
       "year_born": 1972,
       "total_pay": 16290000
+    },
+    {
+      "name": "Mr. Niraj  Singh",
+      "role": "Chief Financial Officer",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Gautam  Samanta",
+      "role": "Vice President - Taxation & HR",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vijay  Kumar",
+      "role": "Jt. President - Tea Division",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Utpal  Konar",
+      "role": "Jt. President - MICCO Division",
+      "age": 34,
+      "year_born": 1991,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Binay Kumar Jha",
+      "role": "Senior Vice President",
+      "age": 66,
+      "year_born": 1959,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Chandra Kishore Porwal",
+      "role": "President - GIS Cotton Mill",
+      "age": 70,
+      "year_born": 1955,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Neha  Singh",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 32,
+      "year_born": 1993,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sandeep  Arora",
+      "role": "Assistant Vice President of Marketing",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Somnath  Mukherjee",
+      "role": "General Manager of Property Division",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

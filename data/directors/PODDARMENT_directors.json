@@ -1,6 +1,70 @@
 {
   "ticker": "PODDARMENT",
   "company": "Poddar Pigments Limited",
-  "collected_at": "2026-07-03 05:38:12",
-  "directors": []
+  "collected_at": "2026-07-04 05:32:49",
+  "directors": [
+    {
+      "name": "Mr. Gaurav  Goenka",
+      "role": "Joint MD, CEO & Director",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": 19062814
+    },
+    {
+      "name": "Mr. Shiv Shankar Poddar B.E.",
+      "role": "Founder, MD & Executive Director",
+      "age": 76,
+      "year_born": 1949,
+      "total_pay": 16269636
+    },
+    {
+      "name": "Mr. Yug  Mahesshwari",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sachin Shivprasad Gattani",
+      "role": "Chief Operating Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Alok Behari Mathur",
+      "role": "Vice President of Technical",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Bimal Kumar Choudhary",
+      "role": "Senior General Manager of Comm. & Admin",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajeev  Kumar",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pankaj  Mudgal",
+      "role": "Chief Marketing Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manoj Kumar Paharia",
+      "role": "Chief Commercial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

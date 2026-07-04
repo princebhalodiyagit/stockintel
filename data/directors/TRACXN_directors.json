@@ -1,6 +1,63 @@
 {
   "ticker": "TRACXN",
   "company": "Tracxn Technologies Limited",
-  "collected_at": "2026-07-03 05:46:30",
-  "directors": []
+  "collected_at": "2026-07-04 05:41:09",
+  "directors": [
+    {
+      "name": "Ms. Neha  Singh",
+      "role": "Co-Founder, Chairperson & MD",
+      "age": 40,
+      "year_born": 1985,
+      "total_pay": 6500000
+    },
+    {
+      "name": "Mr. Abhishek  Goyal",
+      "role": "Co-Founder & Vice Chairman",
+      "age": 44,
+      "year_born": 1981,
+      "total_pay": 674000
+    },
+    {
+      "name": "Mr. Prashant  Chandra",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 11865000
+    },
+    {
+      "name": "Ms. Megha  Tibrewal",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 225000
+    },
+    {
+      "name": "Mr. Amit  Agarwal",
+      "role": "Chief Operating Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Neeraj  Chopra",
+      "role": "Chief Technology Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Arjav  Harjai",
+      "role": "Senior Vice President of Business Strategy",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Bhaskar  Sharma",
+      "role": "Chief Product Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

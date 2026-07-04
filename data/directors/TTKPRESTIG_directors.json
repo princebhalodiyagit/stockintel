@@ -1,7 +1,7 @@
 {
   "ticker": "TTKPRESTIG",
   "company": "TTK Prestige Limited",
-  "collected_at": "2026-07-03 05:46:47",
+  "collected_at": "2026-07-04 05:41:25",
   "directors": [
     {
       "name": "Mr. Venkatesh  Vijayaraghavan",
@@ -53,6 +53,13 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. Chanchal  Saxena",
+      "role": "Chief Information & Digital Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
       "name": "Ms. K. V. Manjula",
       "role": "Company Secretary & Compliance Officer",
       "age": "N/A",
@@ -64,13 +71,6 @@
       "role": "Senior Deputy General Manager of Legal",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "N.  Radhakrishnan",
-      "role": "Head of International Business",
-      "age": 63,
-      "year_born": 1962,
       "total_pay": "N/A"
     }
   ]

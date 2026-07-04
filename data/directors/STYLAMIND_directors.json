@@ -1,7 +1,7 @@
 {
   "ticker": "STYLAMIND",
   "company": "Stylam Industries Limited",
-  "collected_at": "2026-07-03 05:44:07",
+  "collected_at": "2026-07-04 05:38:45",
   "directors": [
     {
       "name": "Mr. Jagdish Rai Gupta M.D.",
@@ -30,6 +30,13 @@
       "age": 37,
       "year_born": 1988,
       "total_pay": 14400000
+    },
+    {
+      "name": "Mr. Naruhiro  Amada",
+      "role": "Additional Executive Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

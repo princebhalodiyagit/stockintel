@@ -1,6 +1,77 @@
 {
   "ticker": "LXCHEM",
   "company": "Laxmi Organic Industries Limited",
-  "collected_at": "2026-07-03 05:32:40",
-  "directors": []
+  "collected_at": "2026-07-04 05:27:14",
+  "directors": [
+    {
+      "name": "Mr. Ravi Vasudeo Goenka",
+      "role": "Executive Chairman",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": 86920000
+    },
+    {
+      "name": "Dr. Rajan  Venkatesh",
+      "role": "MD, CEO & Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 66250000
+    },
+    {
+      "name": "Mr. Harshvardhan Ravi Goenka",
+      "role": "Interim CFO, President & Executive Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 22920000
+    },
+    {
+      "name": "Mr. Aniket Bavchand Hirpara",
+      "role": "Company Secretary, Compliance Officer & Senior VP of Legal and Secretarial",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Salil  Mukundan",
+      "role": "Chief Technology Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Prateek  Singh",
+      "role": "Chief Human Resources Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jitendra  Agarwal",
+      "role": "President of Essentials BU",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Virag  Shah",
+      "role": "President of Specialties BU",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Uday  Vaishampayan",
+      "role": "Executive Vice President Of EHS",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Susheel  Mittal",
+      "role": "Chief Supply Chain Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

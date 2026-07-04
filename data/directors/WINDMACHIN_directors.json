@@ -1,6 +1,35 @@
 {
   "ticker": "WINDMACHIN",
   "company": "Windsor Machines Limited",
-  "collected_at": "2026-07-03 05:48:55",
-  "directors": []
+  "collected_at": "2026-07-04 05:43:32",
+  "directors": [
+    {
+      "name": "Mr. Vinay Girdhar Bansod",
+      "role": "CEO & Whole Time Executive Director",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": 9250008
+    },
+    {
+      "name": "Mr. Anand Suklal Jain",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rohit Dineshbhai Sojitra",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Hitendrabhai Hasmukhbhai Patel",
+      "role": "Executive Director",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": 1600000
+    }
+  ]
 }

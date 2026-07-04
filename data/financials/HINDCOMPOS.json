@@ -1,14 +1,14 @@
 {
   "ticker": "HINDCOMPOS",
-  "collected_at": "2026-07-03 05:27:06",
+  "collected_at": "2026-07-04 05:21:32",
   "company_info": {
     "name": "Hindustan Composites Limited",
     "sector": "Consumer Cyclical",
     "industry": "Auto Parts",
-    "market_cap": 6694049280,
-    "current_price": 453.25,
-    "pe_ratio": 21.5423,
-    "pb_ratio": 0.5846169,
+    "market_cap": 6612081664,
+    "current_price": 447.7,
+    "pe_ratio": 21.278517,
+    "pb_ratio": 0.5774584,
     "roe": 0.0279,
     "debt_to_equity": 0.147,
     "revenue": 3750099968,
@@ -16,6 +16,6 @@
     "eps": 21.04,
     "52_week_high": 550.0,
     "52_week_low": 347.1,
-    "dividend_yield": 0.43
+    "dividend_yield": 0.45
   }
 }

@@ -1,7 +1,7 @@
 {
   "ticker": "APLAPOLLO",
   "company": "APL Apollo Tubes Limited",
-  "collected_at": "2026-07-03 05:15:48",
+  "collected_at": "2026-07-04 05:10:14",
   "directors": [
     {
       "name": "Mr. Sanjay  Gupta",
@@ -57,6 +57,20 @@
       "role": "Chief Sales & Marketing Officer",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anubhav  Gupta",
+      "role": "Chief Strategy Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Utkarsh  Dwivedi",
+      "role": "Chief Executive Officer of Dubai Operations",
+      "age": 46,
+      "year_born": 1979,
       "total_pay": "N/A"
     }
   ]

@@ -1,8 +1,15 @@
 {
   "ticker": "ASIANHOTNR",
   "company": "Asian Hotels (North) Limited",
-  "collected_at": "2026-07-03 05:16:30",
+  "collected_at": "2026-07-04 05:10:56",
   "directors": [
+    {
+      "name": "Dr. Sharad Raghuvir Sharma",
+      "role": "Chairman & Whole Time Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 4324048
+    },
     {
       "name": "Dr. Arun Gopal Agarwal Ph.D.",
       "role": "CEO & Executive Director",
@@ -18,15 +25,8 @@
       "total_pay": 2507295
     },
     {
-      "name": "Dr. Sharad Raghuvir Sharma",
-      "role": "Whole Time Director",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 4324048
-    },
-    {
       "name": "Mr. Sachin  Goel",
-      "role": "CFO & Director of Finance",
+      "role": "Chief Financial Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

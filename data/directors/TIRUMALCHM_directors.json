@@ -1,6 +1,77 @@
 {
   "ticker": "TIRUMALCHM",
   "company": "Thirumalai Chemicals Limited",
-  "collected_at": "2026-07-03 05:46:13",
-  "directors": []
+  "collected_at": "2026-07-04 05:40:52",
+  "directors": [
+    {
+      "name": "Mr. Rangaswamy  Parthasarathy B.Tech., M.S.",
+      "role": "Chairman & MD",
+      "age": 74,
+      "year_born": 1951,
+      "total_pay": 33294222
+    },
+    {
+      "name": "Mr. Sanjay  Sinha",
+      "role": "Chief Executive Officer",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Ramya  Bharathram",
+      "role": "CFO, MD & Whole-Time Director",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": 22142000
+    },
+    {
+      "name": "Mr. S.  Varadharajan",
+      "role": "Vice President of Marketing",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. P. Mohana Chandran Nair",
+      "role": "Whole-Time Director",
+      "age": 72,
+      "year_born": 1953,
+      "total_pay": 729329
+    },
+    {
+      "name": "Ms. J.  Radha B.Com., C.A.",
+      "role": "Executive Vice President of Finance",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. V.  Thirumalaisamy",
+      "role": "Executive Vice President of Project & Engineering",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Harshit D. Kapoor",
+      "role": "Executive Vice President",
+      "age": 41,
+      "year_born": 1984,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. R.  Srinivasaraghavan",
+      "role": "President \u0096 Factory Operations",
+      "age": 68,
+      "year_born": 1957,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. B.  Krishnamurthy",
+      "role": "Executive Vice President of Accounts & Systems",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

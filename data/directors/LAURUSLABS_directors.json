@@ -1,7 +1,7 @@
 {
   "ticker": "LAURUSLABS",
   "company": "Laurus Labs Limited",
-  "collected_at": "2026-07-03 05:32:04",
+  "collected_at": "2026-07-04 05:26:38",
   "directors": [
     {
       "name": "Dr. Satyanarayana  Chava M.Sc., Ph.D.",
@@ -18,24 +18,10 @@
       "total_pay": 66000000
     },
     {
-      "name": "Mr. B. V. R. K. Suryadevara Srinivasa Rao",
-      "role": "President of Manufacturing and Operations",
-      "age": 57,
-      "year_born": 1968,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Gogireddy Venkateswar Reddy",
       "role": "VP of Legal, Compliance Officer & Company Secretary",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Narasimha Rao Chava",
-      "role": "Executive Vice President of Human Resources",
-      "age": 57,
-      "year_born": 1968,
       "total_pay": "N/A"
     },
     {
@@ -44,20 +30,6 @@
       "age": 63,
       "year_born": 1962,
       "total_pay": 45600000
-    },
-    {
-      "name": "Mr. Srinivasa Rao Suryadevara B.Sc, M.Sc.",
-      "role": "Executive Vice President of Manufacturing",
-      "age": 62,
-      "year_born": 1963,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Chagarlamudi Sita Ramaiah",
-      "role": "Executive Vice President of Finance",
-      "age": 52,
-      "year_born": 1973,
-      "total_pay": "N/A"
     },
     {
       "name": "Mr. Krishna Chaitanya Chava",
@@ -72,6 +44,34 @@
       "age": 39,
       "year_born": 1986,
       "total_pay": 13500000
+    },
+    {
+      "name": "Mr. B. V. R. K. Suryadevara Srinivasa Rao",
+      "role": "President of Manufacturing and Operations",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vivek  Kumar",
+      "role": "Senior General Manager of Investor Relations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Narasimha Rao Chava",
+      "role": "Executive Vice President of Human Resources",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Srinivasa Rao Suryadevara B.Sc, M.Sc.",
+      "role": "Executive Vice President of Manufacturing",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": "N/A"
     }
   ]
 }

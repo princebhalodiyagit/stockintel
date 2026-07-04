@@ -1,8 +1,29 @@
 {
   "ticker": "ENDURANCE",
   "company": "Endurance Technologies Limited",
-  "collected_at": "2026-07-03 05:23:14",
+  "collected_at": "2026-07-04 05:17:41",
   "directors": [
+    {
+      "name": "Mr. Anurang Nareshchandra Jain",
+      "role": "MD & Director",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": 74810000
+    },
+    {
+      "name": "Mr. Rajendra Gopalrao Abhange",
+      "role": "COO & Whole-time Director",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": 20850000
+    },
+    {
+      "name": "Ms. Varsha Anurang Jain",
+      "role": "Head of CSR & Facility Management and Whole-time Director",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": 18210000
+    },
     {
       "name": "Mr. R. S. Raja Gopal Sastry",
       "role": "Group Chief Financial Officer",
@@ -39,29 +60,15 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. Massimo  Venuti",
+      "role": "CEO of Endurance Overseas S.p.A & Non-Executive Director",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
       "name": "K.  Srinivasan",
       "role": "Cluster Business Head of Plant Operations",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ramanamurthy  Neti",
-      "role": "Cluster Business Head of Plant Operations",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Murali Krishna Gangasetty",
-      "role": "Cluster Business Head of Plant Operations",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Sanjay  Sanghai",
-      "role": "President of Strategic Sourcing",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

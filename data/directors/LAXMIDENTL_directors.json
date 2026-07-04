@@ -1,6 +1,49 @@
 {
   "ticker": "LAXMIDENTL",
   "company": "Laxmi Dental Limited",
-  "collected_at": "2026-07-03 05:32:05",
-  "directors": []
+  "collected_at": "2026-07-04 05:26:39",
+  "directors": [
+    {
+      "name": "Mr. Rajesh Vrajlal Khakhar",
+      "role": "Executive Chairperson & Whole-Time Director",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": 8400000
+    },
+    {
+      "name": "Mr. Sameer Kamlesh Merchant",
+      "role": "MD, CEO & Executive Director",
+      "age": 43,
+      "year_born": 1982,
+      "total_pay": 8400000
+    },
+    {
+      "name": "Mr. Dharmesh Bhupendra Dattani",
+      "role": "Chief Financial Officer",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Amrish Mahendrabhai Desai",
+      "role": "VP and Head of Operations of USA & India",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Suman  Saha",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sarfaraz Nasir Merchant",
+      "role": "VP & Head of Operations of Domestic Dental Laboratory",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

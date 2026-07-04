@@ -1,8 +1,29 @@
 {
   "ticker": "INTENTECH",
   "company": "Intense Technologies Limited",
-  "collected_at": "2026-07-03 05:28:52",
+  "collected_at": "2026-07-04 05:23:21",
   "directors": [
+    {
+      "name": "Ms. Anisha Shastri Chidella",
+      "role": "CEO & Executive Director",
+      "age": 35,
+      "year_born": 1990,
+      "total_pay": 10326056
+    },
+    {
+      "name": "Mr. Philips  Eapen",
+      "role": "President & Chief Revenue Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Chidella Krishna Shastri",
+      "role": "Founder & Chairman Emeritus",
+      "age": 67,
+      "year_born": 1958,
+      "total_pay": 15646400
+    },
     {
       "name": "Mr. Nitin  Sarda",
       "role": "Chief Financial Officer",
@@ -16,6 +37,41 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 676000
+    },
+    {
+      "name": "Mr. Anish  Kumar",
+      "role": "Senior Vice President of Sales",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Anisha  Mohanty",
+      "role": "Marketing Manager",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Prabhakar  Racherla",
+      "role": "Head of Organizational Excellence",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mukul  Ghosalkar",
+      "role": "Head of Product Engineering",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Phaneendra  Maduri",
+      "role": "Head of Government Business",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "ticker": "SIS",
   "company": "SIS LIMITED",
-  "collected_at": "2026-07-03 05:42:57",
+  "collected_at": "2026-07-04 05:37:35",
   "directors": [
     {
       "name": "Mr. Rituraj Kishore Sinha",
@@ -11,10 +11,66 @@
       "total_pay": 16259500
     },
     {
+      "name": "Mr. Brajesh  Kumar",
+      "role": "Chief Financial Officer",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Ms. PushpaLatha  Katkuri",
       "role": "Company Secretary & Compliance Officer",
       "age": 45,
       "year_born": 1980,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Arvind Kumar Prasad",
+      "role": "Whole Time Director & Director of Finance",
+      "age": 69,
+      "year_born": 1956,
+      "total_pay": 10021152
+    },
+    {
+      "name": "Mr. Vineet  Toshniwal",
+      "role": "President of M&A and Investor Relations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Devesh  Desai",
+      "role": "Group Chief Financial Officer (Leave of Absence)",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Dhiraj  Singh",
+      "role": "Chief Executive Officer of India",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Tapash  Chaudhuri",
+      "role": "CEO of Security Solutions",
+      "age": 65,
+      "year_born": 1960,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Shamsher  Puri",
+      "role": "Chief Executive Officer of Facility Management",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vinod K. Advani",
+      "role": "Executive Vice President",
+      "age": 54,
+      "year_born": 1971,
       "total_pay": "N/A"
     }
   ]

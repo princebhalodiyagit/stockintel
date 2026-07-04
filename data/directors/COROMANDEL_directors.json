@@ -1,7 +1,7 @@
 {
   "ticker": "COROMANDEL",
   "company": "Coromandel International Limited",
-  "collected_at": "2026-07-03 05:20:45",
+  "collected_at": "2026-07-04 05:15:13",
   "directors": [
     {
       "name": "Mr. Arun  Alagappan",
@@ -23,6 +23,13 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 41806000
+    },
+    {
+      "name": "Mr. Arunachalam  Vellayan",
+      "role": "Whole-Time Director of Corporate & Strategic Planning",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 48174000
     },
     {
       "name": "Mr. Arun Leslie George M.A(SW), PMIR",
@@ -60,17 +67,10 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Madhab  Adhikari",
-      "role": "Executive VP & Business Head of Fertilisers, SSP & Nano",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. TS  Venkateswaran",
-      "role": "VP & Head of Internal Audit and Chief Risk Officer",
-      "age": "N/A",
-      "year_born": "N/A",
+      "name": "Mr. Ambadasu Ramachandra Rao B.Tech (Mech)",
+      "role": "Senior Vice President of Projects",
+      "age": 66,
+      "year_born": 1959,
       "total_pay": "N/A"
     }
   ]

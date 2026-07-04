@@ -1,6 +1,77 @@
 {
   "ticker": "STYLEBAAZA",
   "company": "Baazar Style Retail Limited",
-  "collected_at": "2026-07-03 05:44:08",
-  "directors": []
+  "collected_at": "2026-07-04 05:38:46",
+  "directors": [
+    {
+      "name": "Mr. Rohit  Kedia",
+      "role": "Chairman",
+      "age": 41,
+      "year_born": 1984,
+      "total_pay": 16500000
+    },
+    {
+      "name": "Mr. Shreyans  Surana",
+      "role": "MD & Director",
+      "age": 34,
+      "year_born": 1991,
+      "total_pay": 16500000
+    },
+    {
+      "name": "Mr. Nitin  Singhania",
+      "role": "Chief Financial Officer",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Abinash  Singh",
+      "role": "Head of Legal & Compliance, Grievance Officer, Chief Compliance Officer and Company Secretary",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Bhagwan  Prasad",
+      "role": "Whole Time Director",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": 16500000
+    },
+    {
+      "name": "Mr. Vikash  Kumar",
+      "role": "Chief Technology Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Siddhant  Khemani",
+      "role": "Chief Marketing Officer",
+      "age": 36,
+      "year_born": 1989,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Avishek  Prasad",
+      "role": "Head of General Merchandise",
+      "age": 30,
+      "year_born": 1995,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Dipti  Agarwal",
+      "role": "Chief Risk Officer",
+      "age": 37,
+      "year_born": 1988,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pradeep  Jajoria",
+      "role": "Head of Category Planning",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

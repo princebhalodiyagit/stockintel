@@ -1,6 +1,77 @@
 {
   "ticker": "TATACOMM",
   "company": "Tata Communications Limited",
-  "collected_at": "2026-07-03 05:45:15",
-  "directors": []
+  "collected_at": "2026-07-04 05:39:53",
+  "directors": [
+    {
+      "name": "Mr. Ganapathi S. Lakshminarayanan",
+      "role": "MD, CEO & Director",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sumeet  Walia",
+      "role": "President & Chief Revenue Officer",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Siddhartha  Mundra",
+      "role": "Chief Financial Officer",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sivasamban  Natarajan",
+      "role": "Executive VP & Global Operations Head",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Troy  Reynolds",
+      "role": "Chief Legal & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Zubin Adil Patel",
+      "role": "Associate VP, Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Mansi Tiwari Somvanshi",
+      "role": "Global Head of Corporate Communications",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Aman  Gupta",
+      "role": "Executive VP of CSR, EOHS & Sustainability, and Corporate Services & Chief Human Resources Officer",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Luu Pham Tri",
+      "role": "Executive VP & Corporate Strategy Head",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pathmal  Gunawardana",
+      "role": "Head of Americas",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

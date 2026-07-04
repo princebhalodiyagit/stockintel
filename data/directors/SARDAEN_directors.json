@@ -1,6 +1,77 @@
 {
   "ticker": "SARDAEN",
   "company": "Sarda Energy & Minerals Limited",
-  "collected_at": "2026-07-03 05:41:24",
-  "directors": []
+  "collected_at": "2026-07-04 05:36:00",
+  "directors": [
+    {
+      "name": "Mr. Kamal Kishore Sarda B.E. (Mech)",
+      "role": "Executive Chairman",
+      "age": 73,
+      "year_born": 1952,
+      "total_pay": 96473000
+    },
+    {
+      "name": "Mr. Pankaj Kamalkishor Sarda",
+      "role": "MD & Executive Director",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": 82097000
+    },
+    {
+      "name": "Mr. Padam Kumar Jain",
+      "role": "CFO & Whole Time Director",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": 22271000
+    },
+    {
+      "name": "Mr. Ramakrishna Rao Thotav",
+      "role": "President of Commercial",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Priyabrata  Mukherjee",
+      "role": "VP of Mines",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ajay  Singhal",
+      "role": "Head of Finance & Accounts",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Nilay  Joshi",
+      "role": "Head of Corporate Finance",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manish  Sethi",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manish Chandra Mishra",
+      "role": "Head of Marketing",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Neeraj Jugalkishor Sarda",
+      "role": "Deputy Managing Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

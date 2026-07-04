@@ -1,7 +1,7 @@
 {
   "ticker": "ELIN",
   "company": "Elin Electronics Limited",
-  "collected_at": "2026-07-03 05:23:01",
+  "collected_at": "2026-07-04 05:17:28",
   "directors": [
     {
       "name": "Mr. Mangi Lall Sethia",
@@ -9,6 +9,20 @@
       "age": 88,
       "year_born": 1937,
       "total_pay": 3640000
+    },
+    {
+      "name": "Mr. Kishore  Sethia",
+      "role": "President",
+      "age": 66,
+      "year_born": 1959,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Raj Karan Chhajer",
+      "role": "Chief Financial Officer",
+      "age": 70,
+      "year_born": 1955,
+      "total_pay": "N/A"
     },
     {
       "name": "Ms. Lata Rani Pawa",

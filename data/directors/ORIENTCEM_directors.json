@@ -1,7 +1,7 @@
 {
   "ticker": "ORIENTCEM",
   "company": "Orient Cement Limited",
-  "collected_at": "2026-07-03 05:36:55",
+  "collected_at": "2026-07-04 05:31:31",
   "directors": [
     {
       "name": "Mr. Vaibhav  Dixit",
@@ -9,6 +9,20 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 18105000
+    },
+    {
+      "name": "Ms. Kajal  Sarda",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Deepak  Balwani",
+      "role": "Head of Investor Relations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     },
     {
       "name": "Ms. Pranjali  Dubey",
@@ -48,29 +62,15 @@
     {
       "name": "Mr. Satyabrata  Sharma",
       "role": "President of Manufacturing",
-      "age": 51,
-      "year_born": 1974,
+      "age": 50,
+      "year_born": 1975,
       "total_pay": "N/A"
     },
     {
       "name": "Mr. Deepak  Gupta",
       "role": "President of Projects",
-      "age": 57,
-      "year_born": 1968,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Arjun Vijay Golar",
-      "role": "Head of Internal Audit",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "P. Sreenivasa Raju",
-      "role": "Vice President of Sustainability",
-      "age": "N/A",
-      "year_born": "N/A",
+      "age": 56,
+      "year_born": 1969,
       "total_pay": "N/A"
     }
   ]

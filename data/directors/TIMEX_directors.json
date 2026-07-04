@@ -1,6 +1,35 @@
 {
   "ticker": "TIMEX",
   "company": "Timex Group India Limited",
-  "collected_at": "2026-07-03 05:46:08",
-  "directors": []
+  "collected_at": "2026-07-04 05:40:46",
+  "directors": [
+    {
+      "name": "Mr. Deepak  Chhabra",
+      "role": "MD & Additional Director",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": 55155736
+    },
+    {
+      "name": "Mr. Amit  Jain",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Dhiraj Kumar Maggo",
+      "role": "VP of Legal, HR, Compliance Officer & Company Secretary",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Shruti Gautam Baruah",
+      "role": "Brand Head of Timex Business Unit",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

@@ -1,8 +1,15 @@
 {
   "ticker": "ELCIDIN",
   "company": "EL CID Investments Limited",
-  "collected_at": "2026-07-03 05:22:54",
+  "collected_at": "2026-07-04 05:17:21",
   "directors": [
+    {
+      "name": "Ms. Amrita Amar Vakil",
+      "role": "Whole Time Director",
+      "age": 44,
+      "year_born": 1981,
+      "total_pay": 20000
+    },
     {
       "name": "Mr. Ayush Abhay Dolani",
       "role": "Company Secretary & Compliance Officer",

@@ -1,6 +1,77 @@
 {
   "ticker": "MAHLIFE",
   "company": "Mahindra Lifespace Developers Limited",
-  "collected_at": "2026-07-03 05:32:55",
-  "directors": []
+  "collected_at": "2026-07-04 05:27:29",
+  "directors": [
+    {
+      "name": "Mr. Amit Kumar Sinha",
+      "role": "MD, CEO & Executive Director",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": 359733000
+    },
+    {
+      "name": "Mr. Sriram  Kumar",
+      "role": "Chief Finance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Parijat  Dey",
+      "role": "Chief Technology Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Parveen  Mahtani",
+      "role": "Chief Legal Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Bijal  Parmar",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vimalendra  Singh",
+      "role": "Chief Business Officer of Residential",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ankur  Parmar",
+      "role": "Chief Marketing Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Tanmoy  Roy",
+      "role": "Chief People Officer & Chief Human Resources Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Amit  Pal",
+      "role": "Chief Project Officer - Happinest",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. K. R. Sudharshan",
+      "role": "Chief Project Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

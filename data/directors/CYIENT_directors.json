@@ -1,8 +1,15 @@
 {
   "ticker": "CYIENT",
   "company": "Cyient Limited",
-  "collected_at": "2026-07-03 05:21:09",
+  "collected_at": "2026-07-04 05:15:38",
   "directors": [
+    {
+      "name": "Mr. Sukamal Banerjee Mirnal",
+      "role": "CEO & Executive Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 153325268
+    },
     {
       "name": "Mr. Ganesh Venkat Krishna Bodanapu",
       "role": "MD & Executive Vice-Chairman",
@@ -16,6 +23,27 @@
       "age": 75,
       "year_born": 1950,
       "total_pay": 7200000
+    },
+    {
+      "name": "Dr. P. N. S. V. Narasimham",
+      "role": "President & Head of Corporate Functions",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Shrinivas Appaji Kulkarni",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Prabhakar  Atla",
+      "role": "Chief Operating Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. K.A.  Prabhakaran",
@@ -37,6 +65,13 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 3290063
+    },
+    {
+      "name": "Mr. Utkarsh  Srivastav",
+      "role": "Chief Marketing officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

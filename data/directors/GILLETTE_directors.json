@@ -1,7 +1,7 @@
 {
   "ticker": "GILLETTE",
   "company": "Gillette India Limited",
-  "collected_at": "2026-07-03 05:24:57",
+  "collected_at": "2026-07-04 05:19:23",
   "directors": [
     {
       "name": "Mr. Kumar  Venkatasubramanian",
@@ -9,6 +9,69 @@
       "age": 49,
       "year_born": 1976,
       "total_pay": 23568000
+    },
+    {
+      "name": "Ms. Srividya  Srinivasan",
+      "role": "Finance Head, CFO & Executive Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 5273000
+    },
+    {
+      "name": "Ms. Flavia Peter Machado",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. John T. Chevalier",
+      "role": "Chief Investor Relations Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ghanashyam  Hegde",
+      "role": "Legal Head",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Enakshee  Deva",
+      "role": "Communications & CSR Head",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Mukta  Maheshwari",
+      "role": "Chief Marketing Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Robin  Thadathil",
+      "role": "Head of Human Resources",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Nikunj  Jain",
+      "role": "Information Technology Head",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sachan  Saini",
+      "role": "Government Relations Head",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

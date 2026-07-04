@@ -1,6 +1,77 @@
 {
   "ticker": "SUTLEJTEX",
   "company": "Sutlej Textiles and Industries Limited",
-  "collected_at": "2026-07-03 05:44:44",
-  "directors": []
+  "collected_at": "2026-07-04 05:39:23",
+  "directors": [
+    {
+      "name": "Mr. Chandra Shekhar Nopany ACA",
+      "role": "MD & Executive Chairman",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": 30308000
+    },
+    {
+      "name": "Mr. Ashish Kumar Hari Mohan Srivastava",
+      "role": "CEO & Whole Time Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 1051403
+    },
+    {
+      "name": "Mr. Ranjan  Chaudhary",
+      "role": "Chief Operating Officer",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manoj Vinod Contractor",
+      "role": "Compliance Officer & Company Secretary",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Gaurav  Jain",
+      "role": "Head of Corporate HR",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Dhiraj Ramakant Banka",
+      "role": "Senior Vice President of Exports - Yarns",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rohit  Arora",
+      "role": "Executive President of Rajasthan Textile Mills & Birla Textile Mills Unit II",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sachin Jaikishan Karwa",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Upendra Kumar Pattnaik",
+      "role": "Executive President of Chenab Textile Mills and Birla Textile Mills Unit I",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Chandrashekhar  Thete",
+      "role": "VP of Operations, Senior VP of Works & Unit Head of the Damanganga Units",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

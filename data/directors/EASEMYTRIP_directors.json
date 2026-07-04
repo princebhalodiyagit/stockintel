@@ -1,7 +1,7 @@
 {
   "ticker": "EASEMYTRIP",
   "company": "Easy Trip Planners Limited",
-  "collected_at": "2026-07-03 05:22:38",
+  "collected_at": "2026-07-04 05:17:06",
   "directors": [
     {
       "name": "Mr. Nishant  Pitti",
@@ -25,11 +25,25 @@
       "total_pay": 9600000
     },
     {
+      "name": "Mr. Ashish Kumar Bansal",
+      "role": "Chief Financial Officer",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": 5000000
+    },
+    {
       "name": "Ms. Priyanka  Tiwari",
       "role": "Company Secretary & Chief Compliance Officer",
       "age": 31,
       "year_born": 1994,
       "total_pay": 2500000
+    },
+    {
+      "name": "Ms. Nutan  Gupta",
+      "role": "Chief Operating Officer",
+      "age": 64,
+      "year_born": 1961,
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Sankalp  Kaul",
@@ -53,24 +67,10 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Ambrish  Kaushik",
-      "role": "Creative Head",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Nitesh  Gupta",
-      "role": "Chief Business Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Vikash  Goyal",
-      "role": "Chief Strategy Officer",
-      "age": "N/A",
-      "year_born": "N/A",
+      "name": "Mr. Aditya  Chawla",
+      "role": "Chief Commercial Officer",
+      "age": 44,
+      "year_born": 1981,
       "total_pay": "N/A"
     }
   ]

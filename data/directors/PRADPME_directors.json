@@ -1,6 +1,28 @@
 {
   "ticker": "PRADPME",
   "company": "Pradeep Metals Limited",
-  "collected_at": "2026-07-03 05:38:28",
-  "directors": []
+  "collected_at": "2026-07-04 05:33:06",
+  "directors": [
+    {
+      "name": "Mr. Pradeep Vedprakash Goyal B.Tech(IIT), MS (MIT, USA)",
+      "role": "Founder, Chairman & MD",
+      "age": 70,
+      "year_born": 1955,
+      "total_pay": 26155257
+    },
+    {
+      "name": "Ms. Kavita Choubisa Ojha",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Abhishek Rajesh Joshi",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

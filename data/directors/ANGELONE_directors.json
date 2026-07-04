@@ -1,7 +1,7 @@
 {
   "ticker": "ANGELONE",
   "company": "Angel One Limited",
-  "collected_at": "2026-07-03 05:15:36",
+  "collected_at": "2026-07-04 05:10:02",
   "directors": [
     {
       "name": "Mr. Dinesh Dariyanumal Thakkar",
@@ -46,6 +46,13 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. Ajit  Narayanan",
+      "role": "Chief Technology Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Hitul  Gutka",
       "role": "Head of IR",
       "age": "N/A",
@@ -64,13 +71,6 @@
       "role": "Group General Counsel",
       "age": 51,
       "year_born": 1974,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Subhash M. Menon",
-      "role": "Group Chief Human Resources Officer",
-      "age": "N/A",
-      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

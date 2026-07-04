@@ -1,7 +1,7 @@
 {
   "ticker": "ADVAIT",
   "company": "Advait Energy Transitions Limited",
-  "collected_at": "2026-07-03 05:14:25",
+  "collected_at": "2026-07-04 05:08:48",
   "directors": [
     {
       "name": "Mr. Shalin Rahulkumar Sheth",
@@ -11,6 +11,13 @@
       "total_pay": 13769000
     },
     {
+      "name": "Ms. Deepa Fidence Fernandes",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 36,
+      "year_born": 1989,
+      "total_pay": 730000
+    },
+    {
       "name": "Ms. Rejal Shalin Sheth",
       "role": "Wholetime Director",
       "age": 48,
@@ -18,8 +25,43 @@
       "total_pay": 6656000
     },
     {
+      "name": "Mr. Narayan  Singh",
+      "role": "Chief Financial Officer",
+      "age": 35,
+      "year_born": 1990,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vatsal Bhavesh Kundalia",
+      "role": "Head of Operations, CP&P and New Businesses",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Priyank  Shah",
+      "role": "Head of Corporate Investor Relations & Corporate Affairs",
+      "age": 39,
+      "year_born": 1986,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Rutvi  Sheth Kundalia",
+      "role": "Head of Human Resource & Strategy",
+      "age": 24,
+      "year_born": 2001,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Yogendra  Singh Tomar",
       "role": "VP & BU Head of PTS",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Avantika  Gupta",
+      "role": "Head of Climate & Sustainability",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

@@ -1,6 +1,77 @@
 {
   "ticker": "SUNDARMFIN",
   "company": "Sundaram Finance Limited",
-  "collected_at": "2026-07-03 05:44:22",
-  "directors": []
+  "collected_at": "2026-07-04 05:39:00",
+  "directors": [
+    {
+      "name": "Mr. Ayalur Natarajan Raju",
+      "role": "Joint MD & Director",
+      "age": 66,
+      "year_born": 1959,
+      "total_pay": 49856000
+    },
+    {
+      "name": "Mr. Rajiv Chellappa Lochan",
+      "role": "MD & Whole Time Director",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": 65541000
+    },
+    {
+      "name": "Mr. Harsha  Viji",
+      "role": "Executive Vice Chairman",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": 93913000
+    },
+    {
+      "name": "Mr. M.  Ramaswamy",
+      "role": "Chief Financial Officer",
+      "age": 64,
+      "year_born": 1961,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sudheer Sankaran Warrier B.E",
+      "role": "Chief Technology & Digital Officer",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Moahan Ananda Venkatesan",
+      "role": "Senior VP & Head of HO Operations",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. K.  SankaraKumar",
+      "role": "Senior Vice President of Corporate Finance",
+      "age": 64,
+      "year_born": 1961,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. M. J. Kulkarni",
+      "role": "National Head of MH & CE",
+      "age": 65,
+      "year_born": 1960,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajesh  Venkat",
+      "role": "Senior VP & Head of Tamil Nadu Region & Analytics",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "N.  Ramachandran",
+      "role": "Executive Director of Human Resource",
+      "age": 68,
+      "year_born": 1957,
+      "total_pay": "N/A"
+    }
+  ]
 }

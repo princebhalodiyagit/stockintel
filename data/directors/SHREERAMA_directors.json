@@ -1,6 +1,35 @@
 {
   "ticker": "SHREERAMA",
   "company": "Shree Rama Multi-Tech Limited",
-  "collected_at": "2026-07-03 05:42:30",
-  "directors": []
+  "collected_at": "2026-07-04 05:37:07",
+  "directors": [
+    {
+      "name": "Mr. Shailesh Khushaldas Desai",
+      "role": "MD & Executive Director",
+      "age": 65,
+      "year_born": 1960,
+      "total_pay": 7000000
+    },
+    {
+      "name": "Mr. Hemal Rohitkumar Shah",
+      "role": "Whole Time Executive Director",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": 3600000
+    },
+    {
+      "name": "Mr. Krunalkumar G. Shah",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mirtunjay S. Mishra",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

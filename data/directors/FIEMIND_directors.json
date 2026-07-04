@@ -1,14 +1,35 @@
 {
   "ticker": "FIEMIND",
   "company": "Fiem Industries Limited",
-  "collected_at": "2026-07-03 05:23:56",
+  "collected_at": "2026-07-04 05:18:22",
   "directors": [
     {
       "name": "Mr. Jagjeevan Kumar Jain",
-      "role": "Chairman & MD",
+      "role": "Executive Chairman",
       "age": 73,
       "year_born": 1952,
       "total_pay": 24000000
+    },
+    {
+      "name": "Mr. Rajesh  Sharma",
+      "role": "Joint MD & Director",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": 24600000
+    },
+    {
+      "name": "Ms. Aanchal  Jain B.Sc, Mba",
+      "role": "Joint MD & Whole-Time Director",
+      "age": 44,
+      "year_born": 1981,
+      "total_pay": 12000000
+    },
+    {
+      "name": "Mr. Rahul  Jain",
+      "role": "Managing Director & Director",
+      "age": 39,
+      "year_born": 1986,
+      "total_pay": 14400000
     },
     {
       "name": "Mr. Om Prakash Gupta",
@@ -32,13 +53,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Ms. Aanchal  Jain B.Sc, Mba",
-      "role": "Whole-Time Director of Human Resource & Whole-Time Director",
-      "age": 44,
-      "year_born": 1981,
-      "total_pay": 12000000
-    },
-    {
       "name": "Mr. Kashi Ram Yadav",
       "role": "Whole-Time Director",
       "age": 69,
@@ -46,25 +60,11 @@
       "total_pay": 13345000
     },
     {
-      "name": "Mr. Rajesh  Sharma",
-      "role": "Joint MD & Director",
-      "age": 63,
-      "year_born": 1962,
-      "total_pay": 24600000
-    },
-    {
       "name": "Ms. Seema  Jain B.Sc",
       "role": "Whole-Time Director of Finance & Whole-Time Director",
       "age": 71,
       "year_born": 1954,
       "total_pay": 12000000
-    },
-    {
-      "name": "Mr. Rahul  Jain",
-      "role": "Joint MD & Director",
-      "age": 39,
-      "year_born": 1986,
-      "total_pay": 14400000
     },
     {
       "name": "Mr. Lalit  Ahuja",

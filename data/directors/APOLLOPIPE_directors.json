@@ -1,14 +1,28 @@
 {
   "ticker": "APOLLOPIPE",
   "company": "Apollo Pipes Limited",
-  "collected_at": "2026-07-03 05:15:52",
+  "collected_at": "2026-07-04 05:10:18",
   "directors": [
     {
       "name": "Mr. Sameer  Gupta",
-      "role": "Chairman & MD",
+      "role": "Managing Director",
       "age": 48,
       "year_born": 1977,
       "total_pay": 18000000
+    },
+    {
+      "name": "Mr. Arun  Agarwal",
+      "role": "Joint MD & Whole Time Director",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": 11951000
+    },
+    {
+      "name": "Mr. Ajay Kumar Jain",
+      "role": "Chief Financial Officer",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Gourab Kumar Nayak",

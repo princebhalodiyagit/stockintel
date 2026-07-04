@@ -1,6 +1,56 @@
 {
   "ticker": "SILINV",
   "company": "SIL Investments Limited",
-  "collected_at": "2026-07-03 05:42:49",
-  "directors": []
+  "collected_at": "2026-07-04 05:37:26",
+  "directors": [
+    {
+      "name": "Ms. Shalini  Nopany",
+      "role": "MD & Executive Director",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": 14398200
+    },
+    {
+      "name": "Mr. Manoj Kumar Jain",
+      "role": "Chief Financial Officer",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Lokesh Ashwin Gandhi",
+      "role": "Company Secretary & Chief Compliance Officer",
+      "age": 38,
+      "year_born": 1987,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Brij Mohan Agarwal",
+      "role": "Director Incharge & Executive Director",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": 50000
+    },
+    {
+      "name": "Mr. Parth  Paliwal",
+      "role": "Chief Information Security Officer",
+      "age": 35,
+      "year_born": 1990,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rishi Kumar Jaju",
+      "role": "Senior Account Officer",
+      "age": 31,
+      "year_born": 1994,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Poonam Kumar Verma",
+      "role": "Officer - Administration & Facilities",
+      "age": 40,
+      "year_born": 1985,
+      "total_pay": "N/A"
+    }
+  ]
 }

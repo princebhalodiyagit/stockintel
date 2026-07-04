@@ -1,6 +1,77 @@
 {
   "ticker": "POONAWALLA",
   "company": "Poonawalla Fincorp Limited",
-  "collected_at": "2026-07-03 05:38:19",
-  "directors": []
+  "collected_at": "2026-07-04 05:32:56",
+  "directors": [
+    {
+      "name": "Mr. Arvind  Kapil",
+      "role": "MD, CEO & Director",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": 456600000
+    },
+    {
+      "name": "Mr. Sanjay Kumar Miranka",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 53500000
+    },
+    {
+      "name": "Mr. Sunil  Samdani",
+      "role": "Executive Director",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": 49300000
+    },
+    {
+      "name": "Ms. Shabnum  Zaman",
+      "role": "Company Secretary",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 11000000
+    },
+    {
+      "name": "Mr. Vadakke Madathil Maneesh Kumar",
+      "role": "Head of Operations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Salil  Hajarnis",
+      "role": "Chief Technology Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manish  Verma",
+      "role": "Head of Investor Relations & Corporate Communications",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Bholananda  Behera",
+      "role": "Chief Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Harsh  Kumar B.E.",
+      "role": "Chief Human Resources Officer & Head Artificial Intelligence",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Sanjiv  Jha",
+      "role": "National Business Head of Asset Backed Finance",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    }
+  ]
 }

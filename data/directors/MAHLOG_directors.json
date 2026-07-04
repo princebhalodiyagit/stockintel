@@ -1,8 +1,29 @@
 {
   "ticker": "MAHLOG",
   "company": "Mahindra Logistics Limited",
-  "collected_at": "2026-07-03 05:32:56",
+  "collected_at": "2026-07-04 05:27:31",
   "directors": [
+    {
+      "name": "Mr. Hemant  Sikka",
+      "role": "MD, CEO & Director",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": 119692000
+    },
+    {
+      "name": "Ms. Isha  Dalal",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jignesh Ashok Parikh",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
     {
       "name": "Mr. Sreenivas  Pamidimukkala",
       "role": "Chief Information Officer",
@@ -48,27 +69,6 @@
     {
       "name": "Mr. Mukund  Krishnamurthy",
       "role": "Head & VP of Auto and Farm Business",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. B Jei Srihari",
-      "role": "Head of Consumer, Telecom Business & Manufacturing Business",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Ankit  Mandhania",
-      "role": "Head-Last Mile Delivery & Whizzard Business",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Gurjot Singh Bhalla",
-      "role": "Chief Operating Officer \u0096 MLL Mobility Pvt. Ltd.",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

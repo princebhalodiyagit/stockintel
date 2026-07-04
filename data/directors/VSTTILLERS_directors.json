@@ -1,6 +1,77 @@
 {
   "ticker": "VSTTILLERS",
   "company": "V.S.T Tillers Tractors Limited",
-  "collected_at": "2026-07-03 05:48:29",
-  "directors": []
+  "collected_at": "2026-07-04 05:43:05",
+  "directors": [
+    {
+      "name": "Mr. Vellore Tiruvengadaswamy Ravindra",
+      "role": "MD & Whole-Time Executive Director",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": 10730000
+    },
+    {
+      "name": "Mr. Antony  Cherukara",
+      "role": "Chief Executive Officer",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Nitin  Agrawal",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Chinmaya  Khatua",
+      "role": "Compliance Officer & Company Secretary",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Jeya B. Subramanian",
+      "role": "General Manager of Sales",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "J. Sathyanarayana Bhatt",
+      "role": "Executive Vice President of R&D",
+      "age": 65,
+      "year_born": 1960,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Jujhar Virk Singh",
+      "role": "Senior Vice President of Marketing - Tractor Sales",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Chandramouli  Sharma",
+      "role": "Senior Vice President of Marketing - Power Tiller Sales",
+      "age": 64,
+      "year_born": 1961,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ramprasad  Yamunachar",
+      "role": "Senior Vice President of Supply Chain Management",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "M.  Naghalingam",
+      "role": "Vice President of Corporate Quality",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": "N/A"
+    }
+  ]
 }

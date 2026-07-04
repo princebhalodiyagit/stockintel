@@ -1,6 +1,35 @@
 {
   "ticker": "VGL",
   "company": "VARVEE GLOBAL LIMITED",
-  "collected_at": "2026-07-03 05:47:56",
-  "directors": []
+  "collected_at": "2026-07-04 05:42:33",
+  "directors": [
+    {
+      "name": "Mr. Jaimin Kailash Gupta",
+      "role": "MD & Chairman",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Abira  Mansuri",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 675000
+    },
+    {
+      "name": "Mr. Pankajbhai V. Arora",
+      "role": "Vice President of Marketing",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": 1200000
+    },
+    {
+      "name": "Mr. Tarachandbhai Gangasahay Agrawal",
+      "role": "Whole Time Director",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": "N/A"
+    }
+  ]
 }

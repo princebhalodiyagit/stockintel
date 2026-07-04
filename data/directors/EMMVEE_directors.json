@@ -1,7 +1,7 @@
 {
   "ticker": "EMMVEE",
   "company": "Emmvee Photovoltaic Power Limited",
-  "collected_at": "2026-07-03 05:23:11",
+  "collected_at": "2026-07-04 05:17:38",
   "directors": [
     {
       "name": "Mr. Manjunatha Donthi Venkatarathnaiah",
@@ -57,6 +57,20 @@
       "role": "Chief Strategy & Business Development Officer",
       "age": 25,
       "year_born": 2000,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. R. S. Anand Kumar",
+      "role": "Chief Procurement Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Hena  Datta",
+      "role": "General Manager of Legal",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

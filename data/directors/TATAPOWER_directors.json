@@ -1,13 +1,76 @@
 {
   "ticker": "TATAPOWER",
   "company": "Tata Power Company Limited",
-  "collected_at": "2026-07-03 05:45:19",
+  "collected_at": "2026-07-04 05:39:58",
   "directors": [
     {
-      "name": "Mr. Sanjay  Dube",
-      "role": "Vice President of Finance",
-      "age": 62,
-      "year_born": 1963,
+      "name": "Dr. Praveer  Sinha",
+      "role": "CEO, MD & Director",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": 136446774
+    },
+    {
+      "name": "Mr. Sanjeev  Churiwala",
+      "role": "Chief Financial Officer and Chief of Strategy",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": 76200000
+    },
+    {
+      "name": "Mr. Vispi Sarosh Patel",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Dwarka  Srinath",
+      "role": "Chief Digital & Information Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ajay  Kapoor",
+      "role": "Chief of Legal, Regulatory & Advocacy",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Jyoti Kumar Bansal",
+      "role": "Chief of Brand & Communications",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Sonia  Sarin",
+      "role": "Head of Brand & Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Himal  Tewari",
+      "role": "Chief Human Resources Officer and Chief of Sustainability & CSR",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. A. S. Bapat",
+      "role": "Head of Corporate Legal",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Neeraj  Sharma",
+      "role": "Chief Engineer",
+      "age": 59,
+      "year_born": 1966,
       "total_pay": "N/A"
     }
   ]

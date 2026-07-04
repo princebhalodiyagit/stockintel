@@ -1,6 +1,42 @@
 {
   "ticker": "MANUGRAPH",
   "company": "Manugraph India Limited",
-  "collected_at": "2026-07-03 05:33:18",
-  "directors": []
+  "collected_at": "2026-07-04 05:27:52",
+  "directors": [
+    {
+      "name": "Mr. Sanjay Sanat Shah",
+      "role": "Chairman & MD",
+      "age": 66,
+      "year_born": 1959,
+      "total_pay": 11880000
+    },
+    {
+      "name": "Mr. Pradeep Sanat Shah",
+      "role": "Vice Chairman & MD",
+      "age": 65,
+      "year_born": 1960,
+      "total_pay": 11880000
+    },
+    {
+      "name": "Mr. Shailesh Baburao Shirguppi",
+      "role": "Whole Time Director of Works",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": 1814000
+    },
+    {
+      "name": "Mr. Mihir V. Mehta",
+      "role": "Company Secretary, Compliance Officer & CFO",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. I. K. Dogra",
+      "role": "President of Marketing & Sales (Web Offset & CI Flexo)",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

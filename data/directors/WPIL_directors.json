@@ -1,6 +1,42 @@
 {
   "ticker": "WPIL",
   "company": "WPIL Limited",
-  "collected_at": "2026-07-03 05:49:01",
-  "directors": []
+  "collected_at": "2026-07-04 05:43:38",
+  "directors": [
+    {
+      "name": "Mr. Prakash  Agarwal",
+      "role": "MD & Director",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": 32533257
+    },
+    {
+      "name": "Mr. U.  Chakravarty",
+      "role": "GM of Finance, Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Brahma Prakash Khare",
+      "role": "Executive Director of Operations & Executive Director",
+      "age": 74,
+      "year_born": 1951,
+      "total_pay": 6000644
+    },
+    {
+      "name": "Mr. Krishna Kumar Ganeriwala",
+      "role": "Executive Director",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": 18390800
+    },
+    {
+      "name": "Mr. Debraj  Roy",
+      "role": "Executive Director & Executive Director of Projects",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 10108910
+    }
+  ]
 }

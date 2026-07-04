@@ -1,7 +1,7 @@
 {
   "ticker": "MENNPIS",
   "company": "Menon Pistons Limited",
-  "collected_at": "2026-07-03 05:33:52",
+  "collected_at": "2026-07-04 05:28:27",
   "directors": [
     {
       "name": "Mr. Sachin Ram Menon",
@@ -36,6 +36,20 @@
       "role": "Executive Director",
       "age": 27,
       "year_born": 1998,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Gayatri Savita Eknath Patil C.S.",
+      "role": "Company Secretary & Compliance Manager",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Nivedita Sachin Menon",
+      "role": "Executive Additional Director",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

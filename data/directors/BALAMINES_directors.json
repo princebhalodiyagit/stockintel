@@ -1,7 +1,7 @@
 {
   "ticker": "BALAMINES",
   "company": "Balaji Amines Limited",
-  "collected_at": "2026-07-03 05:17:33",
+  "collected_at": "2026-07-04 05:12:00",
   "directors": [
     {
       "name": "Mr. Ande Prathap Reddy",
@@ -23,6 +23,41 @@
       "age": 50,
       "year_born": 1975,
       "total_pay": 67773347
+    },
+    {
+      "name": "Mr. Rajeshwar  Reddy Nomula",
+      "role": "Whole-Time Director",
+      "age": 70,
+      "year_born": 1955,
+      "total_pay": 6950000
+    },
+    {
+      "name": "Mr. Govind Raybhanrao Menchekare",
+      "role": "Senior General Manager of Operations",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Abhijeet S. Kothadiya",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sadik Dawood Patel",
+      "role": "General Manager of Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Varsha  Guntuk",
+      "role": "Senior Manager of Human Resource",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

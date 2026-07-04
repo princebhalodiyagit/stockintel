@@ -1,7 +1,7 @@
 {
   "ticker": "COHANCE",
   "company": "Cohance Lifesciences Limited",
-  "collected_at": "2026-07-03 05:20:34",
+  "collected_at": "2026-07-04 05:15:02",
   "directors": [
     {
       "name": "Mr. Vivek  Sharma CPA",
@@ -15,6 +15,13 @@
       "role": "Group CEO & Executive Chairman",
       "age": 54,
       "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Himanshu  Agarwal",
+      "role": "CFO & Whole-Time Director",
+      "age": 55,
+      "year_born": 1970,
       "total_pay": "N/A"
     },
     {
@@ -62,13 +69,6 @@
     {
       "name": "Mr. Gunjan  Singh",
       "role": "Head of API Plus Business",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Amrit  Singh",
-      "role": "Head of Specialty Chemicals",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

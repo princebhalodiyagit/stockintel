@@ -1,6 +1,77 @@
 {
   "ticker": "VTL",
   "company": "Vardhman Textiles Limited",
-  "collected_at": "2026-07-03 05:48:30",
-  "directors": []
+  "collected_at": "2026-07-04 05:43:06",
+  "directors": [
+    {
+      "name": "Mr. Shri Paul Oswal M.Com.",
+      "role": "Executive Chairman & MD",
+      "age": 83,
+      "year_born": 1942,
+      "total_pay": 227794727
+    },
+    {
+      "name": "Ms. Suchita  Jain M.Com",
+      "role": "Vice Chairperson & Joint MD",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": 34293862
+    },
+    {
+      "name": "Mr. Neeraj  Jain",
+      "role": "Joint MD, CEO of Yarn Business Operations & Executive Non-Independent Director",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": 37580976
+    },
+    {
+      "name": "Mr. Rajeev  Thapar",
+      "role": "Chief Financial Officer",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sanjay  Gupta FCS",
+      "role": "Compliance Officer & Company Secretary",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mukesh  Bansal",
+      "role": "Executive VP & Head of Fabric Sales & Marketing",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Parveen  Dhingra",
+      "role": "Chief General Manager of Operations & Unit Head",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mukesh  Saxena",
+      "role": "Chief General Manager of Operations & Unit Head",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Sagrika  Jain",
+      "role": "Executive Director",
+      "age": 29,
+      "year_born": 1996,
+      "total_pay": 11451691
+    },
+    {
+      "name": "Mr. Sushil Kumar Jhamb",
+      "role": "Director of Raw Material Procurement",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    }
+  ]
 }

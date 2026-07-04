@@ -1,7 +1,7 @@
 {
   "ticker": "MAZDOCK",
   "company": "Mazagon Dock Shipbuilders Limited",
-  "collected_at": "2026-07-03 05:33:39",
+  "collected_at": "2026-07-04 05:28:14",
   "directors": [
     {
       "name": "Mr. Ruchir  Agrawal",
@@ -12,24 +12,24 @@
     },
     {
       "name": "Mr. Biju  George",
-      "role": "Director of Shipbuilding & Director",
+      "role": "Director of Operations & Director",
       "age": 56,
       "year_born": 1969,
       "total_pay": 8288036
     },
     {
-      "name": "Commander Vasudev Ranganath Puranik",
-      "role": "Director-Corporate Planning & Personne and Director",
-      "age": 59,
-      "year_born": 1966,
-      "total_pay": 9477704
-    },
-    {
       "name": "Mr. Shailesh Bhalachandra Jamgaonkar",
-      "role": "Director - Submarine & Heavy Engineering and Director",
+      "role": "Director of Technical & Director",
       "age": 58,
       "year_born": 1967,
       "total_pay": 105263
+    },
+    {
+      "name": "Commander Vasudev Ranganath Puranik",
+      "role": "Director of Corporate Planning & Personnel and Director",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": 9477704
     },
     {
       "name": "Captain .  Jagmohan",
@@ -40,21 +40,7 @@
     },
     {
       "name": "Mr. Santosh  Sonone",
-      "role": "Additional GM & HOD of Admin",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Lalatendu  Acharya",
-      "role": "Company Secretary & Compliance Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ms. Sakshi  Satkar",
-      "role": "Public Relations Officer",
+      "role": "Additional GM, HOD of Admin & Public Relations Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
@@ -67,8 +53,22 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Rajiv Ranjan Kumar",
-      "role": "Executive Director of Production, MRLC, Commercial & Offshore-EY",
+      "name": "Mr. H N Jangid",
+      "role": "Chief Vigilance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Aravind G Mali",
+      "role": "Chief Medical Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Colonel Pramod  Dahitule",
+      "role": "Chief Security Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

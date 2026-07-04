@@ -1,8 +1,15 @@
 {
   "ticker": "ALBERTDAVD",
   "company": "Albert David Limited",
-  "collected_at": "2026-07-03 05:15:06",
+  "collected_at": "2026-07-04 05:09:31",
   "directors": [
+    {
+      "name": "Mr. Arun Kumar Kothari",
+      "role": "Executive Chairman",
+      "age": 72,
+      "year_born": 1953,
+      "total_pay": 24633604
+    },
     {
       "name": "Mr. Amit  Mahla",
       "role": "Chief Executive Officer",
@@ -62,13 +69,6 @@
     {
       "name": "Dr. Kuntal  Ganguly",
       "role": "Head of R&D",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Saikath  Banerjee",
-      "role": "Cluster Head",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

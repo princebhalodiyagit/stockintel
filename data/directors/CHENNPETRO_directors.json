@@ -1,7 +1,7 @@
 {
   "ticker": "CHENNPETRO",
   "company": "Chennai Petroleum Corporation Limited",
-  "collected_at": "2026-07-03 05:20:10",
+  "collected_at": "2026-07-04 05:14:37",
   "directors": [
     {
       "name": "Mr. H.  Shankar",
@@ -23,13 +23,6 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 8612283
-    },
-    {
-      "name": "Mr. P.  Shankar (Retd.,), IAS.",
-      "role": "Deputy GM, Company Secretary & Compliance Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 10000000
     },
     {
       "name": "Mr. S.G.  Venkatesh",
@@ -69,6 +62,13 @@
     {
       "name": "Mr. V.  Srikanth",
       "role": "Chief General Manager of Technical",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ganesh S. Bhat",
+      "role": "Chief Vigilance Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

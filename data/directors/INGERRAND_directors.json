@@ -1,7 +1,7 @@
 {
   "ticker": "INGERRAND",
   "company": "Ingersoll Rand (India) Limited",
-  "collected_at": "2026-07-03 05:28:43",
+  "collected_at": "2026-07-04 05:23:11",
   "directors": [
     {
       "name": "Mr. Sunil  Khanduja",
@@ -22,6 +22,20 @@
       "role": "Manager Finance & Accounts",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Udayan  Khastagir",
+      "role": "Director of Internal Audit",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pravin  Shah",
+      "role": "General Manager of Supply Quality & Development for Industrial Technologies-Asia Pacific",
+      "age": 60,
+      "year_born": 1965,
       "total_pay": "N/A"
     }
   ]

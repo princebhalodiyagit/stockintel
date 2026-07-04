@@ -1,6 +1,77 @@
 {
   "ticker": "USHAMART",
   "company": "Usha Martin Limited",
-  "collected_at": "2026-07-03 05:47:29",
-  "directors": []
+  "collected_at": "2026-07-04 05:42:05",
+  "directors": [
+    {
+      "name": "Mr. Rajeev  Jhawar",
+      "role": "MD & Executive Director",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": 134406000
+    },
+    {
+      "name": "Mr. Abhijit  Paul",
+      "role": "Chief Financial Officer",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manish  Agarwal",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 3400000
+    },
+    {
+      "name": "Mr. Chirantan  Chatterjee",
+      "role": "President of Sales & Marketing and Whole Time Director",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ghanshyam Das Lakhotia",
+      "role": "Vice President of Finance, Treasury & Purchase",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Murari Lal Rathi",
+      "role": "Vice President of Accounts & Commercial",
+      "age": 67,
+      "year_born": 1958,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sabyasachi  Majumder",
+      "role": "MD of Brunton Wire Ropes, FZCo. & Additional Non-Executive Non-Independent Director",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Prabodh  Kumar",
+      "role": "Assistant VP & Head Manufacturing of Wire Rope Division",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jeffrey  Schipani",
+      "role": "President of Usha Martin Americas Inc",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Malay  Vyas",
+      "role": "Chief Executive Officer of Usha Martin Americas Inc",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

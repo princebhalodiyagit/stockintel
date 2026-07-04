@@ -1,7 +1,7 @@
 {
   "ticker": "RATNAVEER",
   "company": "Ratnaveer Precision Engineering Limited",
-  "collected_at": "2026-07-03 05:39:35",
+  "collected_at": "2026-07-04 05:34:12",
   "directors": [
     {
       "name": "Mr. Vijay Ramanlal Sanghavi",
@@ -9,6 +9,27 @@
       "age": 48,
       "year_born": 1977,
       "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Nanubhai  Panchal",
+      "role": "Chief Operating Officer",
+      "age": 86,
+      "year_born": 1939,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ajay  Panchal",
+      "role": "GM of Account & Finance",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Umang  Lalpurwala",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 120000
     },
     {
       "name": "Mr. Satish  Garg",

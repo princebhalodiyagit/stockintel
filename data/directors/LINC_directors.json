@@ -1,7 +1,7 @@
 {
   "ticker": "LINC",
   "company": "Linc Limited",
-  "collected_at": "2026-07-03 05:32:19",
+  "collected_at": "2026-07-04 05:26:52",
   "directors": [
     {
       "name": "Mr. Deepak  Jalan B.Com",
@@ -9,6 +9,13 @@
       "age": 63,
       "year_born": 1962,
       "total_pay": 21120000
+    },
+    {
+      "name": "Mr. Narayan Kumar Dujari",
+      "role": "CFO, Director of Finance & Whole Time Director",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": 2506501
     },
     {
       "name": "Mr. Dipankar  De",

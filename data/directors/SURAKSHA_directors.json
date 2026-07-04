@@ -1,6 +1,49 @@
 {
   "ticker": "SURAKSHA",
   "company": "Suraksha Diagnostic Limited",
-  "collected_at": "2026-07-03 05:44:37",
-  "directors": []
+  "collected_at": "2026-07-04 05:39:17",
+  "directors": [
+    {
+      "name": "Dr. Somnath  Chatterjee",
+      "role": "Executive Chairman & Joint MD",
+      "age": 65,
+      "year_born": 1960,
+      "total_pay": 21600000
+    },
+    {
+      "name": "Ms. Ritu  Mittal",
+      "role": "Joint MD, CEO & Executive Director",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": 21600000
+    },
+    {
+      "name": "Ms. Mamta  Jain",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Sangeeta  Chakraborty",
+      "role": "General Manager of Operations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Niren  Kaul",
+      "role": "Chief Sales Operations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Balgopal  Jhunjhunwala",
+      "role": "Regional Business Head",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

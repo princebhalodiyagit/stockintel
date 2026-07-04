@@ -1,6 +1,49 @@
 {
   "ticker": "KANPRPLA",
   "company": "Kanpur Plastipack Limited",
-  "collected_at": "2026-07-03 05:30:37",
-  "directors": []
+  "collected_at": "2026-07-04 05:25:10",
+  "directors": [
+    {
+      "name": "Mr. Manoj  Agarwal",
+      "role": "MD, CEO & Chairman",
+      "age": 70,
+      "year_born": 1955,
+      "total_pay": 11393000
+    },
+    {
+      "name": "Mr. Shobhit  Agarwal",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ankur  Srivastava",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sunil  Mehta",
+      "role": "Whole Time Director",
+      "age": 64,
+      "year_born": 1961,
+      "total_pay": 8077000
+    },
+    {
+      "name": "Mr. Shashank  Agarwal",
+      "role": "Deputy MD & Whole Time Director",
+      "age": 37,
+      "year_born": 1988,
+      "total_pay": 8411000
+    },
+    {
+      "name": "Mr. Sanjeev  Ranjan",
+      "role": "Head of International Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

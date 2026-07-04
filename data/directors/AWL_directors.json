@@ -1,8 +1,15 @@
 {
   "ticker": "AWL",
   "company": "AWL Agri Business Limited",
-  "collected_at": "2026-07-03 05:17:10",
+  "collected_at": "2026-07-04 05:11:36",
   "directors": [
+    {
+      "name": "Mr. Shrikant  Kanhere",
+      "role": "MD, CEO, Chief Risk Officer & Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 37400000
+    },
     {
       "name": "Mr. Angshu  Mallick",
       "role": "Executive Deputy Chairman",
@@ -11,11 +18,46 @@
       "total_pay": 62400000
     },
     {
+      "name": "Mr. Saumin Champaklal Sheth",
+      "role": "COO & Executive Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 45800000
+    },
+    {
+      "name": "Mr. Ravindra Kumar Singh",
+      "role": "Head of Technical & Operations and Whole Time Director",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": 27700000
+    },
+    {
       "name": "Mr. Pankaj  Goyal",
       "role": "Interim Chief Financial Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Venkata Rao Damera",
+      "role": "Chief Information Officer & Digital Officer",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Abhik  Das",
+      "role": "Head of Investor Relations & M&A",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Darshil Mayank Lakhia",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 3600000
     },
     {
       "name": "Mr. Mukesh Kumar Mishra",

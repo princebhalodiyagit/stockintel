@@ -1,6 +1,56 @@
 {
   "ticker": "JNKINDIA",
   "company": "JNK India Limited",
-  "collected_at": "2026-07-03 05:30:01",
-  "directors": []
+  "collected_at": "2026-07-04 05:24:31",
+  "directors": [
+    {
+      "name": "Mr. Arvind  Kamath",
+      "role": "Chairperson & Whole time Director",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": 30250000
+    },
+    {
+      "name": "Mr. Dipak Kacharulal Bharuka",
+      "role": "CEO & Whole Time Director",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": 19190000
+    },
+    {
+      "name": "Mr. Goutam  Rampelli",
+      "role": "Vice Chairperson of the Board",
+      "age": 70,
+      "year_born": 1955,
+      "total_pay": 2420000
+    },
+    {
+      "name": "Mr. Ashish  Soni",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 2020000
+    },
+    {
+      "name": "Mr. Anand  Agarwal",
+      "role": "Interim Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Annie  Varghese",
+      "role": "Senior Manager of Investor Relations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pankaj  Gupta",
+      "role": "Chief Marketing Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

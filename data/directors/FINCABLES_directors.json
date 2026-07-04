@@ -1,7 +1,7 @@
 {
   "ticker": "FINCABLES",
   "company": "Finolex Cables Limited",
-  "collected_at": "2026-07-03 05:23:58",
+  "collected_at": "2026-07-04 05:18:24",
   "directors": [
     {
       "name": "Mr. Ratnakar Prakash Barve",
@@ -64,6 +64,13 @@
       "role": "Assistant Vice President of HR & IR",
       "age": 44,
       "year_born": 1981,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ullal Manjunath Nayak",
+      "role": "Vice President of Commercial",
+      "age": 55,
+      "year_born": 1970,
       "total_pay": "N/A"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "ticker": "GALAPREC",
   "company": "Gala Precision Engineering Limited",
-  "collected_at": "2026-07-03 05:24:25",
+  "collected_at": "2026-07-04 05:18:50",
   "directors": [
     {
       "name": "Mr. Kirit Vishanji Gala",
@@ -9,6 +9,13 @@
       "age": 63,
       "year_born": 1962,
       "total_pay": 11800000
+    },
+    {
+      "name": "Mr. Srinivasan  Giridhar",
+      "role": "Chief Financial Officer",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Satish Dayaldas Kotwani",
@@ -29,6 +36,13 @@
       "role": "Chief Operating Officer of Operations - DSS",
       "age": 50,
       "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Smeet Kirit Gala",
+      "role": "Vice President of Marketing & Sales",
+      "age": 30,
+      "year_born": 1995,
       "total_pay": "N/A"
     },
     {
@@ -55,20 +69,6 @@
     {
       "name": "Mr. Tukaram  Behere",
       "role": "Vice President of Human Resources & Administration",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ms. Pooja  Ladha",
-      "role": "Company Secretary & Compliance Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Rajendra  Deshpande",
-      "role": "Chief Operating Officer of CSS Unit",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

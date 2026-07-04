@@ -1,8 +1,22 @@
 {
   "ticker": "MOTILALOFS",
   "company": "Motilal Oswal Financial Services Limited",
-  "collected_at": "2026-07-03 05:34:36",
+  "collected_at": "2026-07-04 05:29:11",
   "directors": [
+    {
+      "name": "Mr. Raamdeo Ramgopal Agrawal",
+      "role": "Co-Founder & Non-Executive Non-Independent Chairman",
+      "age": 69,
+      "year_born": 1956,
+      "total_pay": 1200000
+    },
+    {
+      "name": "Mr. Motilal Gopilal Oswal",
+      "role": "Co-Founder, CEO, MD & Executive Director",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": 24000000
+    },
     {
       "name": "Mr. Shalibhadra  Shah",
       "role": "Group Chief Financial Officer",
@@ -57,20 +71,6 @@
       "role": "Head of Corporate Communication",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Niren  Srivastava",
-      "role": "Group Chief Human Resources Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Vishal Murarilal Tulsyan",
-      "role": "MD & CEO of Private Equity Business",
-      "age": 49,
-      "year_born": 1976,
       "total_pay": "N/A"
     }
   ]

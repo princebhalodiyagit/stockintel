@@ -1,8 +1,15 @@
 {
   "ticker": "RAYMONDREL",
   "company": "Raymond Realty Limited",
-  "collected_at": "2026-07-03 05:39:38",
+  "collected_at": "2026-07-04 05:34:15",
   "directors": [
+    {
+      "name": "Mr. Harmohan H. Sahni",
+      "role": "MD & CEO",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": 56963788
+    },
     {
       "name": "Mr. Ankur  Jindal",
       "role": "Chief Financial Officer",
@@ -13,6 +20,13 @@
     {
       "name": "Mr. Sandeep  Maheshwari",
       "role": "Chief Operating Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vishal  Sharma",
+      "role": "Chief Sales & Marketing Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

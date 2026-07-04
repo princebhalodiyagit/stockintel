@@ -1,7 +1,7 @@
 {
   "ticker": "VERTOZ",
   "company": "Vertoz Limited",
-  "collected_at": "2026-07-03 05:47:54",
+  "collected_at": "2026-07-04 05:42:30",
   "directors": [
     {
       "name": "Mr. Ashish Rasiklal Shah",
@@ -39,13 +39,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Shashank  Verma",
-      "role": "Head of Sales",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Kishore M. Naidu",
       "role": "Chief Revenue Officer",
       "age": 50,
@@ -54,9 +47,9 @@
     },
     {
       "name": "Mr. Taranath  Shetty",
-      "role": "National Head of Agency",
-      "age": 46,
-      "year_born": 1979,
+      "role": "Sales Head of West India",
+      "age": 45,
+      "year_born": 1980,
       "total_pay": "N/A"
     },
     {
@@ -64,6 +57,13 @@
       "role": "Business Head of Strategic Initiatives",
       "age": 42,
       "year_born": 1983,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Shashank  Verma",
+      "role": "Sales Head of North India",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     },
     {

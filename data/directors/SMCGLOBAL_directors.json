@@ -1,7 +1,7 @@
 {
   "ticker": "SMCGLOBAL",
   "company": "SMC Global Securities Limited",
-  "collected_at": "2026-07-03 05:43:08",
+  "collected_at": "2026-07-04 05:37:46",
   "directors": [
     {
       "name": "Mr. Subhash Chand Aggarwal",
@@ -32,6 +32,13 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. Abhishek  Chawla",
+      "role": "Group Chief Product & Technology Officer",
+      "age": 41,
+      "year_born": 1984,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Anurag  Bansal",
       "role": "Whole-Time Director",
       "age": 50,
@@ -44,6 +51,27 @@
       "age": 33,
       "year_born": 1992,
       "total_pay": 17274000
+    },
+    {
+      "name": "Mr. Vinod Kumar Jamar",
+      "role": "President & Group Chief Financial Officer",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": 6518189
+    },
+    {
+      "name": "Mr. Yashpal  Chopra",
+      "role": "COO, Head of Operations & Broking and Chief Risk Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ayush  Aggarwal",
+      "role": "Chief Investment officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "ticker": "TATATECH",
   "company": "Tata Technologies Limited",
-  "collected_at": "2026-07-03 05:45:22",
+  "collected_at": "2026-07-04 05:40:00",
   "directors": [
     {
       "name": "Mr. Warren Kevin Harris",
@@ -46,10 +46,31 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Dr. Shanmugam  Rajarajan",
-      "role": "Chief Executive Officer of Tata Hal Technologies Limited",
+      "name": "Ms. Komal  Chhabra",
+      "role": "SVP of Strategy, Marketing & Corporate Development",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Geena  Binoy",
+      "role": "Chief Human Resource Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ashok G. Joshi BE",
+      "role": "Head of Vehicle Attributes & Technical Services",
+      "age": 69,
+      "year_born": 1956,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Petkar M. Rajendra Be, M Tech",
+      "role": "Head of Power Systems Engineering",
+      "age": 58,
+      "year_born": 1967,
       "total_pay": "N/A"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "ticker": "KIMS",
   "company": "Krishna Institute of Medical Sciences Limited",
-  "collected_at": "2026-07-03 05:31:00",
+  "collected_at": "2026-07-04 05:25:34",
   "directors": [
     {
       "name": "Dr. Bhaskara Rao Bollineni",
@@ -43,6 +43,20 @@
       "role": "Executive Director",
       "age": 33,
       "year_born": 1992,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Nitish  Shetty",
+      "role": "CEO for KIMS Bangalore Cluster",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Bhaskar  Reddy R. K",
+      "role": "Chief Risk Officer & Chief Internal Audit",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

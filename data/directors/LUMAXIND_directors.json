@@ -1,6 +1,70 @@
 {
   "ticker": "LUMAXIND",
   "company": "Lumax Industries Limited",
-  "collected_at": "2026-07-03 05:32:36",
-  "directors": []
+  "collected_at": "2026-07-04 05:27:10",
+  "directors": [
+    {
+      "name": "Mr. Deepak  Jain BBA",
+      "role": "Chairman & MD",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": 74099000
+    },
+    {
+      "name": "Mr. Raju Bhauso Ketkale",
+      "role": "Chief Executive Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 26886000
+    },
+    {
+      "name": "Mr. Ravi  Teltia",
+      "role": "VP & CFO",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 13473000
+    },
+    {
+      "name": "Mr. Raajesh Kumar Gupta",
+      "role": "Whole Time Director, Company Secretary & Compliance Officer",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": 10769000
+    },
+    {
+      "name": "Mr. Anmol  Jain BBA",
+      "role": "Joint MD & Director",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": 22044000
+    },
+    {
+      "name": "Mr. Tadayoshi  Aoki",
+      "role": "Senior Executive Director",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": 1813000
+    },
+    {
+      "name": "Mr. Norihisa  Sato",
+      "role": "Executive Vice President of Global Relationship",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 735309
+    },
+    {
+      "name": "Mr. Dinesh Kumar Kalra",
+      "role": "Executive Vice President of Project Management",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kenjiro  Nakazono",
+      "role": "Executive Director",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": 445000
+    }
+  ]
 }

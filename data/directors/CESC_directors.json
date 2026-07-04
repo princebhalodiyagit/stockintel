@@ -1,7 +1,7 @@
 {
   "ticker": "CESC",
   "company": "CESC Limited",
-  "collected_at": "2026-07-03 05:19:58",
+  "collected_at": "2026-07-04 05:14:25",
   "directors": [
     {
       "name": "Mr. Vineet  Sikka",
@@ -43,6 +43,13 @@
       "role": "MD of Generation & Additional Director",
       "age": 60,
       "year_born": 1965,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajeev  Chowdhury",
+      "role": "Head of Regulatory Affairs",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     },
     {

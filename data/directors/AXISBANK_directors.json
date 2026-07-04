@@ -1,7 +1,7 @@
 {
   "ticker": "AXISBANK",
   "company": "Axis Bank Limited",
-  "collected_at": "2026-07-03 05:17:11",
+  "collected_at": "2026-07-04 05:11:37",
   "directors": [
     {
       "name": "Mr. Amitabh  Chaudhry",
@@ -9,6 +9,69 @@
       "age": 61,
       "year_born": 1964,
       "total_pay": 102987665
+    },
+    {
+      "name": "Mr. Neeraj  Gambhir",
+      "role": "Executive Director",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": 46118160
+    },
+    {
+      "name": "Mr. Subrat  Mohanty",
+      "role": "Executive Director of Banking Operations & Transformation",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": 61294295
+    },
+    {
+      "name": "Mr. Munish  Sharda",
+      "role": "Executive Director",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": 57022882
+    },
+    {
+      "name": "Mr. Sudipto  Nag",
+      "role": "President & Head of Retail Portfolio Management Group",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Puneet Mahendra Sharma",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 18405083
+    },
+    {
+      "name": "Mr. Julius  Samson",
+      "role": "Head, Corporate Communication & Investor Relation",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Damini  Marwah",
+      "role": "Group Chief Legal Counsel and Chief Ethics Officer",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anuranjan  Kumar",
+      "role": "Chief Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anoop  Manohar",
+      "role": "Head of Marketing and Corporate Communications",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

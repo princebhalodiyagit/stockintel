@@ -1,7 +1,7 @@
 {
   "ticker": "EVERESTIND",
   "company": "Everest Industries Limited",
-  "collected_at": "2026-07-03 05:23:40",
+  "collected_at": "2026-07-04 05:18:06",
   "directors": [
     {
       "name": "Ms. Amruta Nihar Avasare",
@@ -50,6 +50,27 @@
       "role": "Senior VP and Head of Skill Development, CSR & Public Advocacy",
       "age": 60,
       "year_born": 1965,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Niranjan Madhusudan Gokhale",
+      "role": "VP, Head of Strategy, Internal Auditor & Chief Risk Officer",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Puneet  Sharma",
+      "role": "VP & Business Head of Roofing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Arpit Kumar Nagori",
+      "role": "GM of Corporate Finance",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

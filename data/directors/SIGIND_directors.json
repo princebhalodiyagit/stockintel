@@ -1,6 +1,28 @@
 {
   "ticker": "SIGIND",
   "company": "Signet Industries Limited",
-  "collected_at": "2026-07-03 05:42:41",
-  "directors": []
+  "collected_at": "2026-07-04 05:37:18",
+  "directors": [
+    {
+      "name": "Mr. Mukesh  Sangla B.A",
+      "role": "Chairman & MD",
+      "age": 70,
+      "year_born": 1955,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jagdish Chandra Paliwal",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Preeti  Singh",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

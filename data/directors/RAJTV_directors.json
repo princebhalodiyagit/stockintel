@@ -1,6 +1,77 @@
 {
   "ticker": "RAJTV",
   "company": "Raj Television Network Limited",
-  "collected_at": "2026-07-03 05:39:21",
-  "directors": []
+  "collected_at": "2026-07-04 05:33:58",
+  "directors": [
+    {
+      "name": "Mr. Mani Samy Pillai Raajhendhran",
+      "role": "Chairman, CEO & MD",
+      "age": 75,
+      "year_born": 1950,
+      "total_pay": 12000000
+    },
+    {
+      "name": "Mr. Mani  Ravindran",
+      "role": "Head & Director of Operations and Whole-Time Director",
+      "age": 66,
+      "year_born": 1959,
+      "total_pay": 12000000
+    },
+    {
+      "name": "Mr. Kannappa Pillai Mani Raghunathan",
+      "role": "Head & Director of Marketing and Whole-Time Director",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": 12000000
+    },
+    {
+      "name": "Mr. Manisami  Rajarathnam",
+      "role": "Head & Director of Distribution and Whole-Time Director",
+      "age": 73,
+      "year_born": 1952,
+      "total_pay": 12000000
+    },
+    {
+      "name": "Mr. Siluvaimuthu  Jeyaseelan",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Priyanka  Mudaliyar",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sanjay  Banerjee",
+      "role": "National Head of Sales & Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Nachiappan  Raajhendhran",
+      "role": "Chief Business Development Officer of Ecommerce & Internet Business",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Nandhini  Ravindran",
+      "role": "Head Content",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Sinna  Nachiappan",
+      "role": "Content Head",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

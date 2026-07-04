@@ -1,6 +1,70 @@
 {
   "ticker": "PRIMESECU",
   "company": "Prime Securities Limited",
-  "collected_at": "2026-07-03 05:38:42",
-  "directors": []
+  "collected_at": "2026-07-04 05:33:19",
+  "directors": [
+    {
+      "name": "Mr. Narayanswami  Jayakumar",
+      "role": "MD, Group CEO & DIrector",
+      "age": 65,
+      "year_born": 1960,
+      "total_pay": 51250000
+    },
+    {
+      "name": "Mr. Arun R. Shah B. Sc., C.A.",
+      "role": "Chief Financial Officer",
+      "age": 69,
+      "year_born": 1956,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ajay  Shah",
+      "role": "Exe. Director of Legal, Company Secretary, Compliance Officer & Chief Investor Relations Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Akshay  Gupta",
+      "role": "Whole-Time Director",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Apurva  Doshi",
+      "role": "Senior Vice President of Equity Capital Markets",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ganesh  Agarwal",
+      "role": "Managing Director of Mergers & Acquisitions / Private Equity",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ranen  Gandhi",
+      "role": "Managing Director of Debt Capital Markets",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sailesh  Balachandran",
+      "role": "Joint CEO & Executive Director of Prime Trigen Wealth Limited",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Maneesh  Kapoor",
+      "role": "Joint CEO & Executive Director of Prime Trigen Wealth Limited",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

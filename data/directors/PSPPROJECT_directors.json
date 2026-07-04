@@ -1,6 +1,49 @@
 {
   "ticker": "PSPPROJECT",
   "company": "PSP Projects Limited",
-  "collected_at": "2026-07-03 05:38:53",
-  "directors": []
+  "collected_at": "2026-07-04 05:33:30",
+  "directors": [
+    {
+      "name": "Mr. Prahaladbhai Shivrambhai Patel B.E.Civil",
+      "role": "Chairman & MD",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": 69000000
+    },
+    {
+      "name": "Ms. Pooja Prahaladbhai Patel",
+      "role": "Chief Executive Officer",
+      "age": 33,
+      "year_born": 1992,
+      "total_pay": 18000000
+    },
+    {
+      "name": "Ms. Hetal Yatin Patel",
+      "role": "Chief Financial Officer",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sagar Prahladbhai Patel",
+      "role": "Executive Director",
+      "age": 30,
+      "year_born": 1995,
+      "total_pay": 18000000
+    },
+    {
+      "name": "Ms. Pooja  Dhruve C.S.",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Prashant  Khandelwal",
+      "role": "Deputy Manager of Human Resource",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

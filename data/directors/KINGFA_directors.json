@@ -1,6 +1,77 @@
 {
   "ticker": "KINGFA",
   "company": "Kingfa Science & Technology (India) Limited",
-  "collected_at": "2026-07-03 05:31:01",
-  "directors": []
+  "collected_at": "2026-07-04 05:25:35",
+  "directors": [
+    {
+      "name": "Mr. Bo  Jingen",
+      "role": "Chairman & MD",
+      "age": 43,
+      "year_born": 1982,
+      "total_pay": 2475000
+    },
+    {
+      "name": "Mr. Chen  Xiaoqiong",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Doraiswami  Balaji",
+      "role": "Executive Director",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": 11375000
+    },
+    {
+      "name": "Mr. Dazhong  Wang",
+      "role": "Chief Executive Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sun  Yajie",
+      "role": "CTO & Executive Director",
+      "age": 44,
+      "year_born": 1981,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Deepak  Vyas",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Pranam  Ray",
+      "role": "Head of Sales & Marketing - PPE Division",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "S.  Shanmugasundaram",
+      "role": "Business Unit Head of West",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "R.  Jeevanandam",
+      "role": "Business Unit Head of South",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Rahul  Dev",
+      "role": "Business Unit Head of North",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

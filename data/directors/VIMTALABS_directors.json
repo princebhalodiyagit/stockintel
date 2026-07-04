@@ -1,6 +1,63 @@
 {
   "ticker": "VIMTALABS",
   "company": "Vimta Labs Limited",
-  "collected_at": "2026-07-03 05:48:04",
-  "directors": []
+  "collected_at": "2026-07-04 05:42:41",
+  "directors": [
+    {
+      "name": "Dr. Sivalinga Prasad Vasireddi",
+      "role": "Executive Chairman",
+      "age": 77,
+      "year_born": 1948,
+      "total_pay": 24160000
+    },
+    {
+      "name": "Ms. Harita  Vasireddi",
+      "role": "MD & Whole Time Director",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": 23280000
+    },
+    {
+      "name": "Mr. Siva Rama Krishna Kambhampati",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Harriman  Vungal D.Tech",
+      "role": "Executive Director of Operations, Member of Scientific Advisory Board & Executive Director",
+      "age": 74,
+      "year_born": 1951,
+      "total_pay": 21280000
+    },
+    {
+      "name": "Ms. Sujani  Vasireddi",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Satya Sreenivas Neerukonda",
+      "role": "Executive Director",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": 23280000
+    },
+    {
+      "name": "Dr. Upendra  Bhatnagar",
+      "role": "Senior Vice President of Preclinical",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Srinivas  Prathipati",
+      "role": "Associate Vice President of Food",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

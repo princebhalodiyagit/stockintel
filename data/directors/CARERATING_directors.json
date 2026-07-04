@@ -1,7 +1,7 @@
 {
   "ticker": "CARERATING",
   "company": "CARE Ratings Limited",
-  "collected_at": "2026-07-03 05:19:35",
+  "collected_at": "2026-07-04 05:14:01",
   "directors": [
     {
       "name": "Mr. Mehul Harshadray Pandya",
@@ -13,6 +13,13 @@
     {
       "name": "Mr. Jinesh  Shah",
       "role": "Group Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. A. Shiju Rawther",
+      "role": "Chief Information & Technology Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
@@ -39,6 +46,13 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Ms. Revati Parag Kasture",
+      "role": "CEO, CareEdge Global & Executive Director \u0096 Business Development of CareEdge Ratings",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Sachin  Gupta",
       "role": "Executive Director & Chief Ratings Officer",
       "age": "N/A",
@@ -48,6 +62,13 @@
     {
       "name": "Ms. Rajani  Sinha",
       "role": "Chief Economist",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Smita  Rajpurkar",
+      "role": "Head - Criteria, Policy & Regulatory Affairs",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

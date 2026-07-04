@@ -1,6 +1,77 @@
 {
   "ticker": "MAXHEALTH",
   "company": "Max Healthcare Institute Limited",
-  "collected_at": "2026-07-03 05:33:35",
-  "directors": []
+  "collected_at": "2026-07-04 05:28:09",
+  "directors": [
+    {
+      "name": "Mr. Abhay  Soi",
+      "role": "Executive Chairman & MD",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": 295193709
+    },
+    {
+      "name": "Mr. Yogesh Kumar Sareen",
+      "role": "Senior Director & CFO",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Dhiraj  Aroraa",
+      "role": "Senior VP, Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Prashant  Singh",
+      "role": "Director of Information Technology & Chief Information Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Gagan  Palta",
+      "role": "General Counsel & Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anas Abdul Wajid",
+      "role": "Senior Director and Chief Sales & Marketing Officer",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Umesh  Gupta",
+      "role": "Member of Group Medical Advisory Council, Senior Director - HR & Chief People Officer",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Sandeep  Budhiraja",
+      "role": "Member of Group Medical Advisory Council & Group Medical Director",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Anurag  Krishna",
+      "role": "Member of Group Medical Advisory Council & Chairman of Paediatrics & Paediatric Surgery",
+      "age": 67,
+      "year_born": 1958,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Colonel Harinder Singh Chehal",
+      "role": "Senior Director & COO - Cluster 2",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": "N/A"
+    }
+  ]
 }

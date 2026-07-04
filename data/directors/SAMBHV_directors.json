@@ -1,7 +1,7 @@
 {
   "ticker": "SAMBHV",
   "company": "Sambhv Steel Tubes Limited",
-  "collected_at": "2026-07-03 05:41:08",
+  "collected_at": "2026-07-04 05:35:44",
   "directors": [
     {
       "name": "Mr. Suresh Kumar Goyal",
@@ -32,13 +32,6 @@
       "total_pay": 9000000
     },
     {
-      "name": "Mr. Mayank  Agrawal",
-      "role": "Assistant Vice President of Investor Relations",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Niraj  Shrivastava",
       "role": "Company Secretary & Compliance Officer",
       "age": "N/A",
@@ -47,7 +40,7 @@
     },
     {
       "name": "Mr. Bikash  Agrawal",
-      "role": "Chief Strategy Officer",
+      "role": "Additional Director & CSO",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
@@ -71,6 +64,13 @@
       "role": "Founder & Chairman Emeritus",
       "age": 72,
       "year_born": 1953,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Sheetal  Goyal",
+      "role": "Head of Corporate Social Responsibility",
+      "age": 42,
+      "year_born": 1983,
       "total_pay": "N/A"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "ticker": "SHAREINDIA",
   "company": "Share India Securities Limited",
-  "collected_at": "2026-07-03 05:42:14",
+  "collected_at": "2026-07-04 05:36:51",
   "directors": [
     {
       "name": "Mr. Parveen  Gupta",
@@ -30,6 +30,48 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 3734000
+    },
+    {
+      "name": "Mr. Vijay Girdharlal Vora",
+      "role": "Whole-Time Director",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": 1387100
+    },
+    {
+      "name": "Mr. Kamlesh Vadilal Shah",
+      "role": "Joint MD & Executive Director",
+      "age": 66,
+      "year_born": 1959,
+      "total_pay": 4046090
+    },
+    {
+      "name": "Mr. Suresh Kumar Arora",
+      "role": "Whole Time Executive Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 13200000
+    },
+    {
+      "name": "Ms. Himani Rushabh Shah",
+      "role": "Chief Business Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 3559000
+    },
+    {
+      "name": "Mr. Vikas  Aggarwal",
+      "role": "Company Secretary",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sarthak  Bhalla",
+      "role": "Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

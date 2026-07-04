@@ -1,6 +1,77 @@
 {
   "ticker": "TATACHEM",
   "company": "Tata Chemicals Limited",
-  "collected_at": "2026-07-03 05:45:14",
-  "directors": []
+  "collected_at": "2026-07-04 05:39:52",
+  "directors": [
+    {
+      "name": "Mr. Ramakrishnan  Mukundan B.E.(Elec), MBA",
+      "role": "MD, CEO & Executive Director",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": 86656294
+    },
+    {
+      "name": "Mr. Nandakumar S. Tirumalai",
+      "role": "CFO & Chief Investor Relations Officer",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": 38470314
+    },
+    {
+      "name": "Mr. Jeraz E. Mahernosh",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 4761361
+    },
+    {
+      "name": "Mr. Subodh Kumar Srivastav",
+      "role": "Chief Marketing Officer",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. C. R. Sriniwas",
+      "role": "Chief Human Resources Officer",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Avalakki  Uday",
+      "role": "Head of Nutraceuticals",
+      "age": 70,
+      "year_born": 1955,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Richard A. Lobo",
+      "role": "Head of Strategy & Business Excellence",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rino  Raj",
+      "role": "VP & Site Head of Mithapur",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Alok  Chandra",
+      "role": "Chief Commercial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Narashimha V. Kamath",
+      "role": "Chief Safety, Sustainability & Manufacturing Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

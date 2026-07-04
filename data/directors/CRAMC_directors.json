@@ -1,7 +1,7 @@
 {
   "ticker": "CRAMC",
   "company": "Canara Robeco Asset Management Company Limited",
-  "collected_at": "2026-07-03 05:20:54",
+  "collected_at": "2026-07-04 05:15:22",
   "directors": [
     {
       "name": "Mr. Rajnish  Narula",
@@ -46,13 +46,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Gaurav Govind Goyal",
-      "role": "Head of Sales & Marketing",
-      "age": 50,
-      "year_born": 1975,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Atit  Turakhiya",
       "role": "Head of Corporate Development & MIS",
       "age": 47,
@@ -71,6 +64,13 @@
       "role": "Chief Investment Officer - Fixed Income",
       "age": 55,
       "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Shridatta Laxmanrao Bhandwaldar",
+      "role": "Chief Investment Officer - Equities",
+      "age": 45,
+      "year_born": 1980,
       "total_pay": "N/A"
     }
   ]

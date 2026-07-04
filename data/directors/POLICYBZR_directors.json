@@ -1,13 +1,76 @@
 {
   "ticker": "POLICYBZR",
   "company": "PB Fintech Limited",
-  "collected_at": "2026-07-03 05:38:14",
+  "collected_at": "2026-07-04 05:32:51",
   "directors": [
     {
-      "name": "Ms. Rasleen  Kaur",
-      "role": "Group Head of Corporate Strategy & Investor Relation",
-      "age": 36,
-      "year_born": 1989,
+      "name": "Mr. Yashish  Dahiya",
+      "role": "Executive Chairman & CEO",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": 6383545666
+    },
+    {
+      "name": "Mr. Alok  Bansal",
+      "role": "Co-Founder & Executive Vice Chairman",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": 2479749206
+    },
+    {
+      "name": "Mr. Mandeep  Mehta",
+      "role": "Group Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Anil  Kumar",
+      "role": "Senior Vice President of Technology",
+      "age": 42,
+      "year_born": 1983,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Rajiv Kumar Gupta",
+      "role": "President of Group Strategic Initiative & Public Policy and Chief Risk Officer",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Urmesh  Chandra",
+      "role": "Senior Vice President of Marketing",
+      "age": 43,
+      "year_born": 1982,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Naveen  Kukreja",
+      "role": "Group President",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Saurabh  Tiwari",
+      "role": "Chief Technology Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mohit  Khobragade",
+      "role": "Head of Investor Relations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Deepti  Rustagi",
+      "role": "Group Head of Legal & Compliance",
+      "age": 46,
+      "year_born": 1979,
       "total_pay": "N/A"
     }
   ]

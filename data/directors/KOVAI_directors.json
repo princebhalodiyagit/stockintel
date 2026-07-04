@@ -1,7 +1,7 @@
 {
   "ticker": "KOVAI",
   "company": "Kovai Medical Center & Hospital Limited",
-  "collected_at": "2026-07-03 05:31:27",
+  "collected_at": "2026-07-04 05:26:01",
   "directors": [
     {
       "name": "Dr. Nalla G. Palaniswami AB(USA), M.D.",
@@ -9,13 +9,6 @@
       "age": 84,
       "year_born": 1941,
       "total_pay": 72288000
-    },
-    {
-      "name": "Dr. Thavamani Devi Palaniswami AB (USA), M.D.",
-      "role": "Vice Chairman & Joint MD",
-      "age": 78,
-      "year_born": 1947,
-      "total_pay": 70398000
     },
     {
       "name": "Dr. Arun N. Palaniswami MBBS, MDAB",
@@ -71,6 +64,13 @@
       "role": "Vice Principal & Professor of Biochemistry - IHSR",
       "age": 65,
       "year_born": 1960,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Shaik  Mushahida",
+      "role": "Professor of Anaesthesiology",
+      "age": 61,
+      "year_born": 1964,
       "total_pay": "N/A"
     }
   ]

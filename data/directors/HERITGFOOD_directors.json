@@ -1,7 +1,7 @@
 {
   "ticker": "HERITGFOOD",
   "company": "Heritage Foods Limited",
-  "collected_at": "2026-07-03 05:26:53",
+  "collected_at": "2026-07-04 05:21:20",
   "directors": [
     {
       "name": "Mr. Srideep Madhavan Nair Kesavan",
@@ -53,13 +53,6 @@
       "total_pay": 105710000
     },
     {
-      "name": "Mr. Sagi Rammohan Rao",
-      "role": "Senior Vice President",
-      "age": 65,
-      "year_born": 1960,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Umakanta  Barik CS",
       "role": "Nodal Officer, Compliance Officer & Company Secretary",
       "age": 53,
@@ -69,6 +62,13 @@
     {
       "name": "Mr. Rahul  Pandey",
       "role": "Head of Sales",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Amit Vijay Shetty",
+      "role": "Chief Human Resources Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

@@ -1,6 +1,70 @@
 {
   "ticker": "KIRLPNU",
   "company": "Kirloskar Pneumatic Company Limited",
-  "collected_at": "2026-07-03 05:31:09",
-  "directors": []
+  "collected_at": "2026-07-04 05:25:43",
+  "directors": [
+    {
+      "name": "Mr. Rahul Chandrakant Kirloskar B.Sc",
+      "role": "Executive Chairman",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": 92080000
+    },
+    {
+      "name": "Mr. Ramesh V. Birajdar",
+      "role": "VP & CFO",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Aman Rahul Kirloskar",
+      "role": "MD & Director",
+      "age": 29,
+      "year_born": 1996,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Deepak Sharad Lokras",
+      "role": "President & SBU Head - Air Com. Division, Transmission Division & Nashik Manufacturing Division",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jitendra Rajaram Shah",
+      "role": "Company Secretary, Compliance Officer & Head of Legal",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 2410000
+    },
+    {
+      "name": "Mr. Ganesh  Chaudhari",
+      "role": "Chief Human Resources Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Neeraj Brahm Bhargava",
+      "role": "VP and SBU Head of ACD & TRM",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vijay Kumar Nudurumati",
+      "role": "Head of Defence, New Products & Projects",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Samit  Gujarathi",
+      "role": "Head of Process Gas System Division",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

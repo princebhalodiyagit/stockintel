@@ -1,6 +1,77 @@
 {
   "ticker": "SPIC",
   "company": "Southern Petrochemicals Industries Corporation  Limited",
-  "collected_at": "2026-07-03 05:43:35",
-  "directors": []
+  "collected_at": "2026-07-04 05:38:13",
+  "directors": [
+    {
+      "name": "Mr. K.  Gopalakrishnan",
+      "role": "Vice President of Corporate Affairs",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Narasimhan  Raghunathan",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. R. Venkata Krishnan",
+      "role": "Head of Legal",
+      "age": 66,
+      "year_born": 1959,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ramanan  Swaminathan",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "N.  Rajagopalan",
+      "role": "Head of IT",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. A. X. P. Ezhilan",
+      "role": "Chief Medical Officer",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "N.  Nachiappan",
+      "role": "Assistant Vice President of Imports & Distribution",
+      "age": 65,
+      "year_born": 1960,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. E.  Rajeshkumar",
+      "role": "Deputy General Manager of Phosphatic Production",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "S.S.  Manivannan",
+      "role": "Deputy General Manager of Engineering & Services",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "P.  Shanmugam",
+      "role": "Deputy General Manager of Maintenance",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    }
+  ]
 }

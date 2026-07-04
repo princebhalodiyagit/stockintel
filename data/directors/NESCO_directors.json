@@ -1,7 +1,7 @@
 {
   "ticker": "NESCO",
   "company": "Nesco Limited",
-  "collected_at": "2026-07-03 05:35:37",
+  "collected_at": "2026-07-04 05:30:12",
   "directors": [
     {
       "name": "Mr. Krishna Sumant Patel",
@@ -50,6 +50,13 @@
       "role": "Head of Projects",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajesh G. Upadhyay",
+      "role": "Executive Director of Commercial & Operations and Additional Whole-Time Director",
+      "age": 65,
+      "year_born": 1960,
       "total_pay": "N/A"
     }
   ]

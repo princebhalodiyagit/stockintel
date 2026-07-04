@@ -1,6 +1,77 @@
 {
   "ticker": "MANINDS",
   "company": "Man Industries (India) Limited",
-  "collected_at": "2026-07-03 05:33:12",
-  "directors": []
+  "collected_at": "2026-07-04 05:27:46",
+  "directors": [
+    {
+      "name": "Mr. Ramesh Chandra Mansukhani",
+      "role": "Executive Chairman",
+      "age": 69,
+      "year_born": 1956,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Nikhil Rameshchandra Mansukhani",
+      "role": "MD & Executive Director",
+      "age": 41,
+      "year_born": 1984,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sandeep Kumar Garg C.A., L.L.B.",
+      "role": "Chief Financial Officer",
+      "age": 65,
+      "year_born": 1960,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jaspreet Singh Bhatia",
+      "role": "Senior Vice President of Operations",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rahul  Rawat",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sanjay  Batra",
+      "role": "President of Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Munish  Jindal",
+      "role": "President of Projects",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mitesh  Shah",
+      "role": "Senior Vice President of ERW & Strategic Sourcing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ganesh  Tiwari",
+      "role": "Plant Head \u0096 Pithampur Facility",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Swatantra  Joshi",
+      "role": "Plant Head - Anjar Facility",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

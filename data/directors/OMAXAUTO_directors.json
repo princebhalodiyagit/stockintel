@@ -1,6 +1,56 @@
 {
   "ticker": "OMAXAUTO",
   "company": "Omax Autos Limited",
-  "collected_at": "2026-07-03 05:36:38",
-  "directors": []
+  "collected_at": "2026-07-04 05:31:14",
+  "directors": [
+    {
+      "name": "Mr. Jatender Kumar Mehta",
+      "role": "MD & Vice-Chairman",
+      "age": 76,
+      "year_born": 1949,
+      "total_pay": 30607296
+    },
+    {
+      "name": "Mr. Devashish  Mehta",
+      "role": "MD & Executive Director",
+      "age": 34,
+      "year_born": 1991,
+      "total_pay": 7622268
+    },
+    {
+      "name": "Mr. Tavinder  Singh",
+      "role": "Whole Time Director",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": 6030408
+    },
+    {
+      "name": "Mr. Sanjeev  Kumar",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 679860
+    },
+    {
+      "name": "Mr. Ram  Mohan",
+      "role": "Chief Technical Advisor",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Kannu  Sharma",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 30,
+      "year_born": 1995,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Tamio  Sugiura",
+      "role": "Chief Officer of Strategy & External Relations and Deputy GM",
+      "age": 76,
+      "year_born": 1949,
+      "total_pay": "N/A"
+    }
+  ]
 }

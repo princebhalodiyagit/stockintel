@@ -1,7 +1,7 @@
 {
   "ticker": "SANGAMIND",
   "company": "Sangam (India) Limited",
-  "collected_at": "2026-07-03 05:41:16",
+  "collected_at": "2026-07-04 05:35:52",
   "directors": [
     {
       "name": "Mr. Ram Pal Soni",
@@ -9,6 +9,34 @@
       "age": 79,
       "year_born": 1946,
       "total_pay": 51191000
+    },
+    {
+      "name": "Mr. Pranal  Modani",
+      "role": "Chief Executive Officer",
+      "age": 32,
+      "year_born": 1993,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Shri Niwas Modani M.B.A., M.Sc.",
+      "role": "Whole Time Vice Chairman",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": 28805000
+    },
+    {
+      "name": "Mr. Anil  Sharma",
+      "role": "President",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pawan Kumar Rawat",
+      "role": "Joint President",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Surat Ram Dakhera",
@@ -25,38 +53,24 @@
       "total_pay": 1900000
     },
     {
-      "name": "Mr. Susheel Kumar Pandey",
-      "role": "President of Works - Spinning Unit - II",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
+      "name": "Mr. Vinod Kumar Sodani B.Com, FCA",
+      "role": "CEO of Fabric & Garment Business and Executive Director",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": 18005000
     },
     {
-      "name": "Mr. L. L. Soni",
-      "role": "President of Corporate Affairs",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
+      "name": "Mr. Anurag  Soni",
+      "role": "MD & Whole Time Director",
+      "age": 37,
+      "year_born": 1988,
+      "total_pay": 23457000
     },
     {
-      "name": "Mr. S. K. Baghela",
-      "role": "President of Works",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Surender Kumar Chandna",
-      "role": "President of Works",
+      "name": "Mr. Mahendra Kumar Rathi",
+      "role": "Vice President",
       "age": 63,
       "year_born": 1962,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. M. Bhanu Pratap",
-      "role": "Joint President of Thermal Power Plant",
-      "age": "N/A",
-      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

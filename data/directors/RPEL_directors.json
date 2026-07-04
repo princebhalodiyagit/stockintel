@@ -1,8 +1,15 @@
 {
   "ticker": "RPEL",
   "company": "Raghav Productivity Enhancers Limited",
-  "collected_at": "2026-07-03 05:40:25",
+  "collected_at": "2026-07-04 05:35:01",
   "directors": [
+    {
+      "name": "Mr. Sanjay  Kabra",
+      "role": "Executive Chairman & Whole-Time Director",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": 5250000
+    },
     {
       "name": "Mr. Rajesh  Kabra",
       "role": "CEO, MD & Executive Director",
@@ -22,6 +29,20 @@
       "role": "Company Secretary & Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Raghav  Kabra",
+      "role": "Chief Operating & Innovation Officer",
+      "age": 28,
+      "year_born": 1997,
+      "total_pay": 1800000
+    },
+    {
+      "name": "Mr. Bharat  Tank",
+      "role": "President of Sale & Marketing",
+      "age": 56,
+      "year_born": 1969,
       "total_pay": "N/A"
     }
   ]

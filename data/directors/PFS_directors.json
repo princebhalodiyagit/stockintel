@@ -1,6 +1,77 @@
 {
   "ticker": "PFS",
   "company": "PTC India Financial Services Limited",
-  "collected_at": "2026-07-03 05:37:41",
-  "directors": []
+  "collected_at": "2026-07-04 05:32:18",
+  "directors": [
+    {
+      "name": "Mr. Rangachari  Balaji",
+      "role": "CEO, MD & Director",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": 8127140
+    },
+    {
+      "name": "Mr. Dilip  Srivastava",
+      "role": "Director of Finance, CFO & Additional Director",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": 5639854
+    },
+    {
+      "name": "Mr. Sitesh Kumar Sinha",
+      "role": "Executive VP & Chief Compliance Officer",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kalur  Srinivas",
+      "role": "Chief Credit Officer",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sanjeev  Kumar",
+      "role": "Whole Time Director of Operations & Additional Director",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ashish  Nigam",
+      "role": "CIO & CTO",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Devesh  Singh",
+      "role": "Chief Risk Officer",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Nidhi  Dahiya",
+      "role": "Manager & BR head",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Richa  Goyal",
+      "role": "Head of Internal Audit",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manohar  Balwani",
+      "role": "Company Secretary",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": "N/A"
+    }
+  ]
 }

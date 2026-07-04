@@ -1,6 +1,77 @@
 {
   "ticker": "LT",
   "company": "Larsen & Toubro Limited",
-  "collected_at": "2026-07-03 05:32:31",
-  "directors": []
+  "collected_at": "2026-07-04 05:27:04",
+  "directors": [
+    {
+      "name": "Mr. Sekharipuram Narayanan Subrahmanyan",
+      "role": "MD & Chairman",
+      "age": 65,
+      "year_born": 1960,
+      "total_pay": 1208300000
+    },
+    {
+      "name": "Mr. Ramamurthi Shankar Raman",
+      "role": "President, CFO & Whole-Time Director",
+      "age": 67,
+      "year_born": 1958,
+      "total_pay": 540300000
+    },
+    {
+      "name": "Mr. Subramanian  Sarma",
+      "role": "Deputy MD, President & Whole-Time Director",
+      "age": 67,
+      "year_born": 1958,
+      "total_pay": 557300000
+    },
+    {
+      "name": "Mr. Subramanian  Narayan",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Tharayil Madhava Das B.Tech.",
+      "role": "Senior EVP of Utilities & Whole-Time Director",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": 349500000
+    },
+    {
+      "name": "Mr. Sudhindra Vasantrao Desai",
+      "role": "Senior EVP of Civil Infrastructure & Whole-Time Director",
+      "age": 65,
+      "year_born": 1960,
+      "total_pay": 401600000
+    },
+    {
+      "name": "Mr. Anil Vithal Parab",
+      "role": "Senior EVP of Heavy Engineering & Manufacturing and Whole-Time Director",
+      "age": 64,
+      "year_born": 1961,
+      "total_pay": 252000000
+    },
+    {
+      "name": "Mr. R.  Govindan",
+      "role": "Senior Vice President of Corporate Finance & Enterprise Risk Management",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Parameswaran  Ramakrishnan",
+      "role": "Senior VP of Corporate Accounts, Taxation & Investor Relations and Chief Investor Relations Officer",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kumar  Hemant",
+      "role": "Group General Counsel",
+      "age": 67,
+      "year_born": 1958,
+      "total_pay": "N/A"
+    }
+  ]
 }

@@ -1,8 +1,15 @@
 {
   "ticker": "GHCLTEXTIL",
   "company": "GHCL Textiles Limited",
-  "collected_at": "2026-07-03 05:24:52",
+  "collected_at": "2026-07-04 05:19:18",
   "directors": [
+    {
+      "name": "Mr. Marshal Rajenderakumar Sonavane",
+      "role": "Chief Executive Officer",
+      "age": 37,
+      "year_born": 1988,
+      "total_pay": "N/A"
+    },
     {
       "name": "Mr. N.  Rajagopal",
       "role": "Head of Technical",
@@ -36,6 +43,34 @@
       "role": "Assistant General Manager of Marketing",
       "age": 38,
       "year_born": 1987,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. R. Ramesh Kumar",
+      "role": "Unit Head of Manaparai",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. S. Dhinesh Kumar",
+      "role": "Head of Raw Material & Procurement",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. R. Sathish Kumar",
+      "role": "Unit Head of Manaparai, Yarn Division",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. M. K. Ashokkumar",
+      "role": "Head of Industrial Relations",
+      "age": 52,
+      "year_born": 1973,
       "total_pay": "N/A"
     }
   ]

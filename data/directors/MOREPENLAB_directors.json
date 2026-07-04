@@ -1,6 +1,77 @@
 {
   "ticker": "MOREPENLAB",
   "company": "Morepen Laboratories Limited",
-  "collected_at": "2026-07-03 05:34:33",
-  "directors": []
+  "collected_at": "2026-07-04 05:29:08",
+  "directors": [
+    {
+      "name": "Mr. Sushil  Suri B.Sc., F.C.A.",
+      "role": "Chairman & MD",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": 32951000
+    },
+    {
+      "name": "Mr. Sanjay  Suri",
+      "role": "Whole-Time Director",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": 13116000
+    },
+    {
+      "name": "Mr. Ajay Kumar Sharma",
+      "role": "Chief Financial Officer",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": 9802000
+    },
+    {
+      "name": "Mr. Vivan  Prashar",
+      "role": "Functional Head of Operations - API",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Nishant Jayesh Doshi",
+      "role": "Vice President \u0096 Corporate Finance & Investor Relations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Bhola  Prasad",
+      "role": "General Manager of Process Engineering & Technology Transfer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Sunita  Suri",
+      "role": "Manager of Administration",
+      "age": 31,
+      "year_born": 1994,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vipul Kumar Srivastava",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 40,
+      "year_born": 1985,
+      "total_pay": 1844000
+    },
+    {
+      "name": "Mr. Vikas  Sharma",
+      "role": "Functional Head of Talent Acquisition & HRBP",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Amita  Sharma",
+      "role": "Chief Operating Officer of API",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": "N/A"
+    }
+  ]
 }

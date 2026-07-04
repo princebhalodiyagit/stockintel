@@ -1,6 +1,77 @@
 {
   "ticker": "SIGNATURE",
   "company": "Signatureglobal (India) Limited",
-  "collected_at": "2026-07-03 05:42:43",
-  "directors": []
+  "collected_at": "2026-07-04 05:37:20",
+  "directors": [
+    {
+      "name": "Mr. Pradeep Kumar Aggarwal",
+      "role": "Co-Founder & Chairman",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": 19620245
+    },
+    {
+      "name": "Mr. Rajat  Kathuria",
+      "role": "Chief Executive Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Lalit Kumar Aggarwal",
+      "role": "Co-Founder & Vice Chairman",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": 19620245
+    },
+    {
+      "name": "Mr. Ravi  Aggarwal",
+      "role": "Co-Founder, MD & Director",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": 19620245
+    },
+    {
+      "name": "Mr. Devender  Aggarwal",
+      "role": "Co-Founder & Joint MD",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": 19620245
+    },
+    {
+      "name": "Mr. Sanjeev Kumar Sharma",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sanjay Kumar Varshney",
+      "role": "Chief Operating Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Meghraj R Bothra",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Satyendra Pati Tripathi",
+      "role": "Chief Information Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jayanta  Barua",
+      "role": "Head of MARCOM",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

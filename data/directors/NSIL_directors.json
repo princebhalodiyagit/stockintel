@@ -1,6 +1,42 @@
 {
   "ticker": "NSIL",
   "company": "Nalwa Sons Investments Limited",
-  "collected_at": "2026-07-03 05:36:20",
-  "directors": []
+  "collected_at": "2026-07-04 05:30:55",
+  "directors": [
+    {
+      "name": "Mr. Mahender Kumar Goel",
+      "role": "Whole Time Director",
+      "age": 68,
+      "year_born": 1957,
+      "total_pay": 1270800
+    },
+    {
+      "name": "Mr. Deepak  Garg",
+      "role": "Chief Financial Officer & Director",
+      "age": 43,
+      "year_born": 1982,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ajay  Mittal",
+      "role": "Company Secretary, Compliance Officer & Director",
+      "age": 32,
+      "year_born": 1993,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Madan Lal Gupta",
+      "role": "Managing Director of Nalwa Trading Limited",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mahabir Prasad Swami",
+      "role": "Vice President",
+      "age": 69,
+      "year_born": 1956,
+      "total_pay": "N/A"
+    }
+  ]
 }

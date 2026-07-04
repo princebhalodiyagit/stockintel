@@ -1,6 +1,77 @@
 {
   "ticker": "RATNAMANI",
   "company": "Ratnamani Metals & Tubes Limited",
-  "collected_at": "2026-07-03 05:39:34",
-  "directors": []
+  "collected_at": "2026-07-04 05:34:11",
+  "directors": [
+    {
+      "name": "Mr. Prakash Mishrimal Sanghvi",
+      "role": "Chairman & MD",
+      "age": 69,
+      "year_born": 1956,
+      "total_pay": 249437000
+    },
+    {
+      "name": "Mr. Jayantilal Mishrimal Sanghvi B.Com",
+      "role": "Joint MD & Executive Director",
+      "age": 67,
+      "year_born": 1958,
+      "total_pay": 171848000
+    },
+    {
+      "name": "Mr. Shantilal Mishrimal Sanghvi",
+      "role": "Whole Time Director",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": 145523000
+    },
+    {
+      "name": "Mr. Manoj Prakash Sanghvi",
+      "role": "Whole Time Director & CEO",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": 7996000
+    },
+    {
+      "name": "Mr. Prashant Jayantilal Sanghvi",
+      "role": "Whole Time Director & Business Head of L.S.A.W.",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": 7384000
+    },
+    {
+      "name": "Mr. Vimal  Katta",
+      "role": "Senior VP of Finance & Accounts and CFO",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 10526000
+    },
+    {
+      "name": "Mr. Anil C. Maloo",
+      "role": "Company Secretary, Compliance Officer & Legal Head",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajanikant S. Patel",
+      "role": "Senior Vice President of Manufacturing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manjindersingh M. Randhawa",
+      "role": "Business Head of Stainless Steel Division",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Dhirendra Mohan Sharma",
+      "role": "Business Head of Carbon Steel (Line Pipes Products)",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

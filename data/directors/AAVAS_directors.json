@@ -1,8 +1,22 @@
 {
   "ticker": "AAVAS",
   "company": "Aavas Financiers Limited",
-  "collected_at": "2026-07-03 05:13:50",
+  "collected_at": "2026-07-04 05:08:13",
   "directors": [
+    {
+      "name": "Mr. Ghanshyam  Rawat",
+      "role": "Co-Founder, President & CFO",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ashutosh  Atre",
+      "role": "President & Chief Risk Officer",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
     {
       "name": "Ms. Jijy  Oommen",
       "role": "Chief Technology Officer",
@@ -43,6 +57,20 @@
       "role": "MD & CEO",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ghanshyam  Gupta",
+      "role": "Interim Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mukesh  Agarwal",
+      "role": "Senior Vice President of Accounts",
+      "age": 49,
+      "year_born": 1976,
       "total_pay": "N/A"
     }
   ]

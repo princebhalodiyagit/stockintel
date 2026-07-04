@@ -1,7 +1,7 @@
 {
   "ticker": "MEGASTAR",
   "company": "Megastar Foods Limited",
-  "collected_at": "2026-07-03 05:33:51",
+  "collected_at": "2026-07-04 05:28:26",
   "directors": [
     {
       "name": "Mr. Vikas  Goel",
@@ -30,6 +30,20 @@
       "age": 32,
       "year_born": 1993,
       "total_pay": 7839000
+    },
+    {
+      "name": "Mr. Harsh  Sharma",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Shiva  Chouhan",
+      "role": "Manager of Marketing, Sales & Supply Chain Management",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "ticker": "TRIVENI",
   "company": "Triveni Engineering & Industries Limited",
-  "collected_at": "2026-07-03 05:46:42",
+  "collected_at": "2026-07-04 05:41:21",
   "directors": [
     {
       "name": "Mr. Dhruv Manmohan Sawhney",
@@ -27,6 +27,13 @@
     {
       "name": "Ms. Geeta  Bhalla",
       "role": "Group VP, Compliance Officer & Company Secretary",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kumar  Sunit",
+      "role": "Head of Investor Relations & Value Creation",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
@@ -62,13 +69,6 @@
     {
       "name": "Mr. B. K. Agrawal",
       "role": "President of Corporate",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Dr. Ashok  Kumar",
-      "role": "VP of Sugar & Head of Khatauli Sugar Unit",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

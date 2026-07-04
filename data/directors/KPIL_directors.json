@@ -1,6 +1,77 @@
 {
   "ticker": "KPIL",
   "company": "Kalpataru Projects International Limited",
-  "collected_at": "2026-07-03 05:31:31",
-  "directors": []
+  "collected_at": "2026-07-04 05:26:04",
+  "directors": [
+    {
+      "name": "Mr. Ram Avtar Patodia",
+      "role": "President of Finance & Accounts and CFO",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 31464396
+    },
+    {
+      "name": "Ms. Shweta  Girotra",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 14313709
+    },
+    {
+      "name": "Mr. Shailendra Kumar Tripathi B. E. Civil",
+      "role": "Deputy MD & Additional Director",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": 82600000
+    },
+    {
+      "name": "Mr. Manish Dashrathmal Mohnot CA, ICWA",
+      "role": "MD, CEO & Executive Director",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": 217500000
+    },
+    {
+      "name": "Mr. Saugata  Basu",
+      "role": "Chief Digital & Information Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. M. A. Baraiya",
+      "role": "Chief Human Resource Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kamal Kishore Jain",
+      "role": "Director of Integrity & Chief Ethics Officer",
+      "age": 67,
+      "year_born": 1958,
+      "total_pay": 26400000
+    },
+    {
+      "name": "Mr. Anand  Chopra",
+      "role": "Business Head of Renewable Power Generation - Biomass",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ramesh  Bhootra",
+      "role": "Business Head of T&D International, BD and Subsidiaries",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Hitendra  Pooniwala",
+      "role": "Head of T&D International Business",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

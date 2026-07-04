@@ -1,6 +1,77 @@
 {
   "ticker": "TECHM",
   "company": "Tech Mahindra Limited",
-  "collected_at": "2026-07-03 05:45:35",
-  "directors": []
+  "collected_at": "2026-07-04 05:40:13",
+  "directors": [
+    {
+      "name": "Mr. Mohit  Joshi",
+      "role": "CEO, MD & Director",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": 688040887
+    },
+    {
+      "name": "Mr. Rohit  Anand",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 87000000
+    },
+    {
+      "name": "Mr. Atul  Soneja",
+      "role": "Chief Operating Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 89000000
+    },
+    {
+      "name": "Ms. Ruchie  Khanna",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 5000000
+    },
+    {
+      "name": "Ms. Pallavi  Katiyar",
+      "role": "Chief Information Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Kaustubh  Vaidya C.F.A.",
+      "role": "Head of Investor Relations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Abhilasha  Gupta",
+      "role": "Head of Corporate Communications & Public Affairs",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Peeyush  Dubey",
+      "role": "Chief Marketing Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Richard  Lobo",
+      "role": "Chief People Officer",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Marcus  Sch\u00fcler",
+      "role": "Senior Vice President of MBT GmbH",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

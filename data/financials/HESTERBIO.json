@@ -1,14 +1,14 @@
 {
   "ticker": "HESTERBIO",
-  "collected_at": "2026-07-03 05:26:55",
+  "collected_at": "2026-07-04 05:21:22",
   "company_info": {
     "name": "Hester Biosciences Limited",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - Specialty & Generic",
-    "market_cap": "N/A",
-    "current_price": 2223.1,
-    "pe_ratio": 33.971577,
-    "pb_ratio": 5.2497973,
+    "market_cap": 18701490176,
+    "current_price": 2198.4,
+    "pe_ratio": 33.594128,
+    "pb_ratio": 5.1914682,
     "roe": 0.16555001,
     "debt_to_equity": 52.964,
     "revenue": 3341210112,
@@ -16,6 +16,6 @@
     "eps": 65.44,
     "52_week_high": 2350.0,
     "52_week_low": 1239.3,
-    "dividend_yield": 0.51
+    "dividend_yield": 0.5
   }
 }

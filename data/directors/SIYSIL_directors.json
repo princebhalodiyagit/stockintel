@@ -1,6 +1,63 @@
 {
   "ticker": "SIYSIL",
   "company": "Siyaram Silk Mills Limited",
-  "collected_at": "2026-07-03 05:42:58",
-  "directors": []
+  "collected_at": "2026-07-04 05:37:36",
+  "directors": [
+    {
+      "name": "Mr. Rameshkumar Dharaprasad Poddar",
+      "role": "Executive Chairman & MD",
+      "age": 73,
+      "year_born": 1952,
+      "total_pay": 70831000
+    },
+    {
+      "name": "Mr. Pawan Kumar Dharaprasa Poddar B.Com",
+      "role": "Joint MD & Executive Director",
+      "age": 71,
+      "year_born": 1954,
+      "total_pay": 66309000
+    },
+    {
+      "name": "Mr. Ashok Kumar M. Jalan",
+      "role": "Senior President & Executive Director",
+      "age": 66,
+      "year_born": 1959,
+      "total_pay": 8629000
+    },
+    {
+      "name": "Mr. Gaurav Pramodkumar Poddar",
+      "role": "President & Executive Director",
+      "age": 40,
+      "year_born": 1985,
+      "total_pay": 65271000
+    },
+    {
+      "name": "Mr. Surendra S. Shetty",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Shrikishan Dharaprasad Poddar",
+      "role": "Executive Director",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": 66360000
+    },
+    {
+      "name": "Mr. Mahipal  Thakur",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ankit Promodkumar Poddar",
+      "role": "President of Export Marketing",
+      "age": 37,
+      "year_born": 1988,
+      "total_pay": "N/A"
+    }
+  ]
 }

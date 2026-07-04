@@ -1,7 +1,7 @@
 {
   "ticker": "POWERGRID",
   "company": "Power Grid Corporation of India Limited",
-  "collected_at": "2026-07-03 05:38:21",
+  "collected_at": "2026-07-04 05:32:58",
   "directors": [
     {
       "name": "Mr. Vamsi Rama Mohan Burra",
@@ -11,10 +11,31 @@
       "total_pay": 7845414
     },
     {
-      "name": "Mr. Satyaprakash  Dash",
+      "name": "Mr. Ravisankar  Ganesan",
+      "role": "CFO, Director of Finance & Director",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": 8922765
+    },
+    {
+      "name": "Mr. Naveen  Srivastava",
+      "role": "Director of Operations & Director",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": 9075673
+    },
+    {
+      "name": "Dr. Yatindra  Dwivedi",
+      "role": "Director of Personnel & Director",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": 9567806
+    },
+    {
+      "name": "Ms. Anjana  Luthra",
       "role": "Company Secretary & Compliance Officer",
-      "age": 52,
-      "year_born": 1973,
+      "age": 47,
+      "year_born": 1978,
       "total_pay": "N/A"
     },
     {

@@ -1,7 +1,7 @@
 {
   "ticker": "ESCORTS",
   "company": "Escorts Kubota Limited",
-  "collected_at": "2026-07-03 05:23:29",
+  "collected_at": "2026-07-04 05:17:56",
   "directors": [
     {
       "name": "Mr. Nikhil  Nanda",
@@ -9,6 +9,13 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 125900000
+    },
+    {
+      "name": "Mr. Bharat  Madan B.Com (Hons.), FCA",
+      "role": "CFO & Whole-Time Director",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": 46900000
     },
     {
       "name": "Mr. Arvind  Kumar",
@@ -25,15 +32,43 @@
       "total_pay": 31700000
     },
     {
-      "name": "Mr. Takayuki  Okada",
-      "role": "Chief Officer of Quality Assurance Division",
+      "name": "Mr. Akira  Kato",
+      "role": "Deputy MD, Chief Officer of Corporate Planning Division & Whole-Time Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 10760800
+    },
+    {
+      "name": "Mr. Kenji  Ennyu",
+      "role": "Chief Officer of Operation Division",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Prateek  Singhal",
-      "role": "Financial Analyst & Investors Relations",
+      "name": "Mr. Amit  Singhal",
+      "role": "Chief Officer of Human Resources & General Affairs Division",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sanjeev Kumar Bajaj Dgm",
+      "role": "Chief Officer of Construction Equipment Business Division",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kushal  Sharma",
+      "role": "Head of Internal Audit",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Neeraj Kumar Mehra",
+      "role": "Chief Officer of Tractor Business Division",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

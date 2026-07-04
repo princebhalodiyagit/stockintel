@@ -1,15 +1,8 @@
 {
   "ticker": "HINDCOPPER",
   "company": "Hindustan Copper Limited",
-  "collected_at": "2026-07-03 05:27:07",
+  "collected_at": "2026-07-04 05:21:34",
   "directors": [
-    {
-      "name": "Mr. Sanjiv Kumar Singh",
-      "role": "MD & Chairman",
-      "age": 59,
-      "year_born": 1966,
-      "total_pay": 11070000
-    },
     {
       "name": "Dr. Sanjeev Kumar Sinha",
       "role": "Director of Operations & Director",
@@ -61,7 +54,7 @@
     },
     {
       "name": "Mr. Shyam Sunder Sethi",
-      "role": "ED & Unit Head of Indian Copper Complex",
+      "role": "Executive Director (Operations) - Production, Safety & Law and Unit Head of Indian Copper Complex",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
@@ -69,6 +62,13 @@
     {
       "name": "Mr. Ghanshyam Das Gupta",
       "role": "ED & Unit Head of Khetri Copper Comptex",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Umesh  Singh",
+      "role": "Executive Director of Mines",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

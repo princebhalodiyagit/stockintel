@@ -1,7 +1,7 @@
 {
   "ticker": "UTKARSHBNK",
   "company": "Utkarsh Small Finance Bank Limited",
-  "collected_at": "2026-07-03 05:47:31",
+  "collected_at": "2026-07-04 05:42:07",
   "directors": [
     {
       "name": "Mr. Govind  Singh",
@@ -9,6 +9,13 @@
       "age": 60,
       "year_born": 1965,
       "total_pay": 43300000
+    },
+    {
+      "name": "Mr. Sarjukumar Pravin Simaria",
+      "role": "Additional Whole Time Executive Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Muthiah  Ganapathy",
@@ -50,6 +57,20 @@
       "role": "Chief Risk Officer",
       "age": 50,
       "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Suchita  Chatterjee",
+      "role": "Head of Internal Audit",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Sourabh  Ghosh",
+      "role": "Head of Consumer Banking",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

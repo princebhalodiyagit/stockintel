@@ -1,14 +1,42 @@
 {
   "ticker": "SWARAJENG",
   "company": "Swaraj Engines Limited",
-  "collected_at": "2026-07-03 05:44:51",
+  "collected_at": "2026-07-04 05:39:30",
   "directors": [
+    {
+      "name": "Mr. Devjit  Sarkar",
+      "role": "Whole Time Director & CEO",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 15586000
+    },
     {
       "name": "Mr. Mahesh  Gupta",
       "role": "Chief Financial Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Nayan  Jain",
+      "role": "Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mukesh  Bansal",
+      "role": "GM of Manufacturing & Plant Head",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajesh Kumar Kapila",
+      "role": "Company Secretary",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 642000
     }
   ]
 }

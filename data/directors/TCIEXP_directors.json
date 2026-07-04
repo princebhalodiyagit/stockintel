@@ -1,7 +1,7 @@
 {
   "ticker": "TCIEXP",
   "company": "TCI Express Limited",
-  "collected_at": "2026-07-03 05:45:27",
+  "collected_at": "2026-07-04 05:40:06",
   "directors": [
     {
       "name": "Mr. Chander  Agarwal B.Sc.",
@@ -55,6 +55,13 @@
     {
       "name": "Mr. Piush  Chachan",
       "role": "VP & Head of E-Com",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Soumya Ranjan Rout",
+      "role": "Head of IT",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

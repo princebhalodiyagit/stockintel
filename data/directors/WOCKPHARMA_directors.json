@@ -1,6 +1,77 @@
 {
   "ticker": "WOCKPHARMA",
   "company": "Wockhardt Limited",
-  "collected_at": "2026-07-03 05:48:58",
-  "directors": []
+  "collected_at": "2026-07-04 05:43:35",
+  "directors": [
+    {
+      "name": "Dr. Habil Fakhruddin Khorakiwala",
+      "role": "Founder & Executive Chairman",
+      "age": 84,
+      "year_born": 1941,
+      "total_pay": 37400000
+    },
+    {
+      "name": "Dr. Murtaza Habil Khorakiwala",
+      "role": "MD & Executive Director",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": 25200000
+    },
+    {
+      "name": "Dr. Huzaifa Habil Khorakiwala",
+      "role": "Executive Director",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": 25200000
+    },
+    {
+      "name": "Mr. Deepak R. Madnani",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Sachin  Bhagwat",
+      "role": "Chief Scientific Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Rashmi Dinesh Mamtura",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Debolina  Partap",
+      "role": "Senior Vice President of Legal",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Satej  Mehta",
+      "role": "Head of Human Resource",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anil V. Kamath AMRSH (Lon.), BCom (Hons), MBIM (Lon.), MIMA",
+      "role": "Senior Vice President of Business Development",
+      "age": 74,
+      "year_born": 1951,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Zoher T. Sihorwala",
+      "role": "Head of Global Regulatory Affairs",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    }
+  ]
 }

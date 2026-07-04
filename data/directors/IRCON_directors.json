@@ -1,15 +1,8 @@
 {
   "ticker": "IRCON",
   "company": "Ircon International Limited",
-  "collected_at": "2026-07-03 05:29:04",
+  "collected_at": "2026-07-04 05:23:34",
   "directors": [
-    {
-      "name": "Mr. Hari Mohan Gupta",
-      "role": "Chairman, MD & CEO",
-      "age": 59,
-      "year_born": 1966,
-      "total_pay": 7495313
-    },
     {
       "name": "Ms. Ragini  Advani",
       "role": "Director of Finance & Director",
@@ -69,6 +62,13 @@
     {
       "name": "Vimal Kishor Nagar",
       "role": "Chief General Manager of Electrical",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. P. V. Sreekanth",
+      "role": "Chief General Manager of Signal & Telecom",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

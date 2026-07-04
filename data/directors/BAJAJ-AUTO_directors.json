@@ -1,7 +1,7 @@
 {
   "ticker": "BAJAJ-AUTO",
   "company": "Bajaj Auto Limited",
-  "collected_at": "2026-07-03 05:17:19",
+  "collected_at": "2026-07-04 05:11:45",
   "directors": [
     {
       "name": "Mr. Rajivnayan Rahulkumar Bajaj",
@@ -57,6 +57,20 @@
       "role": "Chief Legal Officer",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ravi Kyran Ramasamy",
+      "role": "Chief Human Resources Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. S.  Ravikumar",
+      "role": "Chief Business Development Officer",
+      "age": 67,
+      "year_born": 1958,
       "total_pay": "N/A"
     }
   ]

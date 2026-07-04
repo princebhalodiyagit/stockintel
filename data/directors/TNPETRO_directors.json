@@ -1,6 +1,49 @@
 {
   "ticker": "TNPETRO",
   "company": "Tamilnadu PetroProducts Limited",
-  "collected_at": "2026-07-03 05:46:20",
-  "directors": []
+  "collected_at": "2026-07-04 05:40:59",
+  "directors": [
+    {
+      "name": "Mr. D. Senthi Kumar",
+      "role": "MD & Whole-Time Director",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": 9315000
+    },
+    {
+      "name": "Mr. C.  Parthiban",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. N.  Murugan",
+      "role": "Vice President of Operations",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Sangeetha  Sekar",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. S.  Sridharan",
+      "role": "Assistant Vice President of Marketing",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. K. Vasantha Kumar",
+      "role": "Deputy General Manager of Human Resources",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": "N/A"
+    }
+  ]
 }

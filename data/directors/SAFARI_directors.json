@@ -1,6 +1,49 @@
 {
   "ticker": "SAFARI",
   "company": "Safari Industries (India) Limited",
-  "collected_at": "2026-07-03 05:40:53",
-  "directors": []
+  "collected_at": "2026-07-04 05:35:29",
+  "directors": [
+    {
+      "name": "Mr. Sudhir Mohanlal Jatia",
+      "role": "Chairman & MD",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": 28100000
+    },
+    {
+      "name": "Mr. Vineet  Poddar",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 12057000
+    },
+    {
+      "name": "Mr. Abhijaat Akhilesh Sinha",
+      "role": "Company Secretary, Compliance Officer & Nodal Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pushkar  Jain",
+      "role": "Chief Marketing Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manish  Bhatia",
+      "role": "Chief Human Resource Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Satyabrata  Mitra",
+      "role": "Senior VP of Canteen Sales Department",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

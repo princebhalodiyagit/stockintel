@@ -1,7 +1,7 @@
 {
   "ticker": "SHRIRAMFIN",
   "company": "Shriram Finance Limited",
-  "collected_at": "2026-07-03 05:42:35",
+  "collected_at": "2026-07-04 05:37:12",
   "directors": [
     {
       "name": "Mr. Parag  Sharma",
@@ -16,6 +16,27 @@
       "age": 61,
       "year_born": 1964,
       "total_pay": 25639284
+    },
+    {
+      "name": "Mr. Sunder  Subramanian",
+      "role": "Joint MD, CFO & Whole Time Director",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": 15341740
+    },
+    {
+      "name": "Mr. A.  Ganesh",
+      "role": "President & Chief Human Resources Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sudarshan Holla Balnad",
+      "role": "Joint MD & COO",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Gouse Mohiddi Jilani",
@@ -46,17 +67,10 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Abhilash  Tewari",
-      "role": "Head of Internal Audit",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Hetal  Shah",
-      "role": "Vice President",
-      "age": "N/A",
-      "year_born": "N/A",
+      "name": "Mr. Hardeep  Singh Tur",
+      "role": "Joint MD & Chief Risk Officer",
+      "age": 56,
+      "year_born": 1969,
       "total_pay": "N/A"
     }
   ]

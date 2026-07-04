@@ -1,7 +1,7 @@
 {
   "ticker": "GARFIBRES",
   "company": "Garware Technical Fibres Limited",
-  "collected_at": "2026-07-03 05:24:35",
+  "collected_at": "2026-07-04 05:19:01",
   "directors": [
     {
       "name": "Mr. Vayu Ramesh Garware",
@@ -43,6 +43,13 @@
       "role": "Chief Human Resource Officer",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Thirumalai  Kulkarni",
+      "role": "President & COO of Geosynthetics Division",
+      "age": 54,
+      "year_born": 1971,
       "total_pay": "N/A"
     }
   ]

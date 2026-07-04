@@ -1,7 +1,7 @@
 {
   "ticker": "NAVKARURB",
   "company": "Navkar Urbanstructure Limited",
-  "collected_at": "2026-07-03 05:35:18",
+  "collected_at": "2026-07-04 05:29:54",
   "directors": [
     {
       "name": "Mr. Harsh Jitendrakumar Shah",
@@ -15,6 +15,13 @@
       "role": "CFO & Executive Director",
       "age": 56,
       "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Arpita  Kabra",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

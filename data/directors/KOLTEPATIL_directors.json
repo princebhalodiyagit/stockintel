@@ -1,7 +1,7 @@
 {
   "ticker": "KOLTEPATIL",
   "company": "Kolte - Patil Developers Limited",
-  "collected_at": "2026-07-03 05:31:19",
+  "collected_at": "2026-07-04 05:25:53",
   "directors": [
     {
       "name": "Mr. Ravi Prakash Porwal",
@@ -55,6 +55,13 @@
     {
       "name": "Mr. Pranav  Mehta",
       "role": "Chief Business Officer of Pune",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mahendra  Chauhan",
+      "role": "Business Head of Mumbai",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

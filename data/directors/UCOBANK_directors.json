@@ -1,8 +1,15 @@
 {
   "ticker": "UCOBANK",
   "company": "UCO Bank",
-  "collected_at": "2026-07-03 05:46:57",
+  "collected_at": "2026-07-04 05:41:36",
   "directors": [
+    {
+      "name": "Mr. Rajendra Kumar Saboo",
+      "role": "MD, CEO (Additional Charge) & Executive Director",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": 7768000
+    },
     {
       "name": "Mr. Vijaykumar Nivrutti Kamble",
       "role": "Executive Director",
@@ -13,13 +20,6 @@
     {
       "name": "Mr. Sumit  Khandelwal",
       "role": "Chief Financial Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Saroj Ranjan Nayak",
-      "role": "General Manager of Operations & Services Department",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

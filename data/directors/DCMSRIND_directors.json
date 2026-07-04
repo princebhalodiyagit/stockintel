@@ -1,7 +1,7 @@
 {
   "ticker": "DCMSRIND",
   "company": "DCM Shriram Industries Limited",
-  "collected_at": "2026-07-03 05:21:31",
+  "collected_at": "2026-07-04 05:16:00",
   "directors": [
     {
       "name": "Mr. Madhav Bansidhar Shriram B. Com., MBA",
@@ -29,6 +29,48 @@
       "role": "Compliance Officer, Senior VP of Legal & Taxation and Company Secretary",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rohan  Shriram",
+      "role": "Executive Director",
+      "age": 30,
+      "year_born": 1995,
+      "total_pay": 3484832
+    },
+    {
+      "name": "Mr. Uday  Shriram",
+      "role": "Executive Director & Joint President of Sugar Division",
+      "age": 32,
+      "year_born": 1993,
+      "total_pay": 3484832
+    },
+    {
+      "name": "Mr. G. S. Nair",
+      "role": "Senior Vice President of Company Law",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Narayan Rao Karanam",
+      "role": "President of Business Strategy",
+      "age": 75,
+      "year_born": 1950,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Bijoy Kumar Ghosh",
+      "role": "Group Senior Vice President of Comml.",
+      "age": 75,
+      "year_born": 1950,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Aseem Kumar Srivastava",
+      "role": "Chief Executive Officer of Chemicals",
+      "age": 57,
+      "year_born": 1968,
       "total_pay": "N/A"
     }
   ]

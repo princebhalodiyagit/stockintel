@@ -1,6 +1,56 @@
 {
   "ticker": "VARDHACRLC",
   "company": "Vardhman Acrylics Limited",
-  "collected_at": "2026-07-03 05:47:40",
-  "directors": []
+  "collected_at": "2026-07-04 05:42:16",
+  "directors": [
+    {
+      "name": "Mr. Vivek  Gupta BE (Hons), MBA",
+      "role": "Whole Time Director",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": 7161000
+    },
+    {
+      "name": "Mr. Raish  Shaikh",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Satin  Katyal",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 35,
+      "year_born": 1990,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Hitesh Bachubhai Patel",
+      "role": "Executive VP & Operational Head",
+      "age": 44,
+      "year_born": 1981,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Alpesh Hasmukhbhai Patel",
+      "role": "Chief Manager",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dinesh  Gaur",
+      "role": "Chief Manager",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Basudev Brijkishor Sharma",
+      "role": "Vice President",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    }
+  ]
 }

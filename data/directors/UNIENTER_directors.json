@@ -1,6 +1,35 @@
 {
   "ticker": "UNIENTER",
   "company": "Uniphos Enterprises Limited",
-  "collected_at": "2026-07-03 05:47:14",
-  "directors": []
+  "collected_at": "2026-07-04 05:41:51",
+  "directors": [
+    {
+      "name": "Mr. Bipin Premji Chheda",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Sandra Rajnikant Shroff",
+      "role": "MD & Director",
+      "age": 85,
+      "year_born": 1940,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. K. R. Srivastava B.Chem, DSM, PGDBMA(IIM)",
+      "role": "Chief Operating Officer",
+      "age": 67,
+      "year_born": 1958,
+      "total_pay": 5815197
+    },
+    {
+      "name": "Mr. Amit  Jain",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

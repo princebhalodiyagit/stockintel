@@ -1,6 +1,77 @@
 {
   "ticker": "PNB",
   "company": "Punjab National Bank",
-  "collected_at": "2026-07-03 05:38:05",
-  "directors": []
+  "collected_at": "2026-07-04 05:32:41",
+  "directors": [
+    {
+      "name": "Mr. Ashok  Chandra",
+      "role": "CEO, MD & Director",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": 5263544
+    },
+    {
+      "name": "Mr. Amit Kumar Srivastava",
+      "role": "Executive Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 1644565
+    },
+    {
+      "name": "Mr. M.  Paramasivam",
+      "role": "Executive Director",
+      "age": 68,
+      "year_born": 1957,
+      "total_pay": 7915615
+    },
+    {
+      "name": "Mr. D.  Surendran",
+      "role": "Executive Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 4769896
+    },
+    {
+      "name": "Raman  Grover",
+      "role": "CFO & Chief GM of Finance Division Head Office",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Bikramjit  Shom",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Deepak Kumar Srivastava",
+      "role": "Chief General Manager & HO Corporate Communication Division",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sumesh  Kumar",
+      "role": "Chief General Manager, HO HRD",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sunil Kumar Goyal",
+      "role": "Chief General Manager",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vishesh Kumar Srivastava F.R.M., M.Sc.",
+      "role": "Chief General Manager",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": "N/A"
+    }
+  ]
 }

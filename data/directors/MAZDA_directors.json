@@ -1,6 +1,49 @@
 {
   "ticker": "MAZDA",
   "company": "Mazda Limited",
-  "collected_at": "2026-07-03 05:33:38",
-  "directors": []
+  "collected_at": "2026-07-04 05:28:13",
+  "directors": [
+    {
+      "name": "Mr. Cyrus Jimmy Bhagwagar",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Nishith Chandrakant Kayasth",
+      "role": "Compliance Officer & Company Secretary",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Shanaya S. Mody Khatua",
+      "role": "Promoter & Whole-Time Director",
+      "age": 44,
+      "year_born": 1981,
+      "total_pay": 30000000
+    },
+    {
+      "name": "Mr. Percy Xerex Avari Mech. Engg.",
+      "role": "Promoter & Whole-Time Executive Director",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": 24224000
+    },
+    {
+      "name": "Mr. Pradip  Panchal",
+      "role": "Sales Head of Engineering",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Prashant  Desai",
+      "role": "Sales Head of Engineering",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

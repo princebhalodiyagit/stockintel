@@ -1,7 +1,7 @@
 {
   "ticker": "EICHERMOT",
   "company": "Eicher Motors Limited",
-  "collected_at": "2026-07-03 05:22:44",
+  "collected_at": "2026-07-04 05:17:12",
   "directors": [
     {
       "name": "Mr. Siddhartha Vikram Lal PGDME",
@@ -16,6 +16,13 @@
       "age": 56,
       "year_born": 1969,
       "total_pay": 193400000
+    },
+    {
+      "name": "Mr. Vinod Kumar Aggarwal AICWA, FCA",
+      "role": "Executive Vice Chairman",
+      "age": 66,
+      "year_born": 1959,
+      "total_pay": "N/A"
     },
     {
       "name": "Ms. Vidhya  Srinivasan",
@@ -64,13 +71,6 @@
       "role": "Head of Engines",
       "age": 52,
       "year_born": 1973,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Sudhakar  Bhagavatula",
-      "role": "Chief Digital & Information Officer",
-      "age": 58,
-      "year_born": 1967,
       "total_pay": "N/A"
     }
   ]

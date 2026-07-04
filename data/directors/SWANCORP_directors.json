@@ -1,6 +1,63 @@
 {
   "ticker": "SWANCORP",
   "company": "SWAN CORP LIMITED",
-  "collected_at": "2026-07-03 05:44:50",
-  "directors": []
+  "collected_at": "2026-07-04 05:39:29",
+  "directors": [
+    {
+      "name": "Mr. Nikhil Vasantlal Merchant",
+      "role": "MD & Executive Director",
+      "age": 65,
+      "year_born": 1960,
+      "total_pay": 13842000
+    },
+    {
+      "name": "Mr. Chetan K. Selarka",
+      "role": "CFO & Executive Director",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": 11345000
+    },
+    {
+      "name": "Mr. Kundan  Bhanawat",
+      "role": "Chief Operating Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Paresh Vasantlal Merchant",
+      "role": "Whole Time Director",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": 13842000
+    },
+    {
+      "name": "Mr. Bhavesh Pravin Shah",
+      "role": "Chief Investor Relations Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Saptarshi  Ganguly",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vivek  Verma",
+      "role": "Head of Human Resource",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kavin  Mirchandani",
+      "role": "Chief Strategy Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

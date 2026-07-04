@@ -1,8 +1,15 @@
 {
   "ticker": "RPPINFRA",
   "company": "R.P.P. Infra Projects Limited",
-  "collected_at": "2026-07-03 05:40:28",
+  "collected_at": "2026-07-04 05:35:04",
   "directors": [
+    {
+      "name": "Mr. Venkatesan Ellaiah Naidu",
+      "role": "Chief Executive Officer",
+      "age": 73,
+      "year_born": 1952,
+      "total_pay": 40000
+    },
     {
       "name": "Ms. Arulsundaram  Nithya",
       "role": "CFO & Whole Time Director",
@@ -13,6 +20,13 @@
     {
       "name": "Mr. I  Selvam",
       "role": "Whole-Time Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Nandhini  P.",
+      "role": "Human Resource Manager",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

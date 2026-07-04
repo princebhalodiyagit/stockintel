@@ -1,6 +1,77 @@
 {
   "ticker": "JMFINANCIL",
   "company": "JM Financial Limited",
-  "collected_at": "2026-07-03 05:29:59",
-  "directors": []
+  "collected_at": "2026-07-04 05:24:30",
+  "directors": [
+    {
+      "name": "Mr. Vishal Nimesh Kampani",
+      "role": "MD & Vice Chairman",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": 82590028
+    },
+    {
+      "name": "Mr. Adi  Patel",
+      "role": "MD & Additional Director",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": 75300216
+    },
+    {
+      "name": "Mr. Nishit  Shah",
+      "role": "MD & CFO",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Sonia  Dasgupta",
+      "role": "MD & CEO of Investment Banking",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Abhishek  Bhagat",
+      "role": "Managing Director of Technology, Media & Telecom",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Hemant Vijay Pandya",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Harish Kumar Lalchandani",
+      "role": "MD & Head of Legal at Distressed Credit",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Chintan  Maniar",
+      "role": "MD and Head of Sales & Trading Institutional Equities",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anil  Salvi",
+      "role": "MD & Group Head of Human Resources",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manish C. Sheth",
+      "role": "MD & CEO of JM Financial Home Loans Limited",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": 3618000
+    }
+  ]
 }

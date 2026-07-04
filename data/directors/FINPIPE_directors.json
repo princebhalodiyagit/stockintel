@@ -1,7 +1,7 @@
 {
   "ticker": "FINPIPE",
   "company": "Finolex Industries Limited",
-  "collected_at": "2026-07-03 05:24:02",
+  "collected_at": "2026-07-04 05:18:28",
   "directors": [
     {
       "name": "Mr. Prakash Pralhad Chhabria B.Sc.",
@@ -23,6 +23,13 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 6000000
+    },
+    {
+      "name": "Mr. Udipt  Agarwal",
+      "role": "MD & Whole-time Director",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Rambabu  Sanka",
@@ -62,13 +69,6 @@
     {
       "name": "Mr. Swad  Deshpande",
       "role": "President of Supply Chain Management",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Sumanto  Bhandari",
-      "role": "President of Purchase",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

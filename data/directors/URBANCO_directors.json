@@ -1,7 +1,7 @@
 {
   "ticker": "URBANCO",
   "company": "Urban Company Limited",
-  "collected_at": "2026-07-03 05:47:26",
+  "collected_at": "2026-07-04 05:42:03",
   "directors": [
     {
       "name": "Mr. Abhiraj Singh Bhal",
@@ -41,6 +41,13 @@
     {
       "name": "Ms. Sonali  Singh",
       "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rahul  Teotia",
+      "role": "Senior Vice President of Marketing",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

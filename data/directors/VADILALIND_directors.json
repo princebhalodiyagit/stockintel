@@ -1,7 +1,7 @@
 {
   "ticker": "VADILALIND",
   "company": "Vadilal Industries Limited",
-  "collected_at": "2026-07-03 05:47:36",
+  "collected_at": "2026-07-04 05:42:12",
   "directors": [
     {
       "name": "Ms. Rashmi Tushar Bhatt",
@@ -20,6 +20,13 @@
     {
       "name": "Mr. Anil  Kabra",
       "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Saibal  Bhattacharyya",
+      "role": "Chief Operating Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

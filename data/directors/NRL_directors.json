@@ -1,6 +1,49 @@
 {
   "ticker": "NRL",
   "company": "Nupur Recyclers Limited",
-  "collected_at": "2026-07-03 05:36:19",
-  "directors": []
+  "collected_at": "2026-07-04 05:30:54",
+  "directors": [
+    {
+      "name": "Mr. Rajesh  Gupta",
+      "role": "Chairman & MD",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": 3600000
+    },
+    {
+      "name": "Mr. Devender Kumar Poter",
+      "role": "CFO & Executive Director",
+      "age": 41,
+      "year_born": 1984,
+      "total_pay": 900000
+    },
+    {
+      "name": "Ms. Shilpa  Verma C.S.",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. .  Deepak",
+      "role": "Accounts Head",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pawan Kumar Shukla",
+      "role": "Sales & Marketing Head",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Abhishek  Yadav",
+      "role": "Head of Planning, Production & Control",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

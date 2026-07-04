@@ -1,20 +1,13 @@
 {
   "ticker": "KSHINTL",
   "company": "KSH International Limited",
-  "collected_at": "2026-07-03 05:31:48",
+  "collected_at": "2026-07-04 05:26:22",
   "directors": [
     {
       "name": "Mr. Kushal Subbayya Hegde",
       "role": "Executive Chairman",
       "age": 87,
       "year_born": 1938,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Rajesh Kushal Hegde",
-      "role": "MD & Executive Director",
-      "age": 55,
-      "year_born": 1970,
       "total_pay": "N/A"
     },
     {
@@ -53,6 +46,13 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. Rajesh Kushal Hegde",
+      "role": "MD & Executive Director",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Manoj  Dwivedi",
       "role": "Vice President of Round Wire Division",
       "age": "N/A",
@@ -60,15 +60,15 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Suresh  Patil",
-      "role": "Assistant Vice President of Operations",
-      "age": "N/A",
-      "year_born": "N/A",
+      "name": "Mr. Hukumchand Chandratan Lakhotiya",
+      "role": "Chief Executive Officer",
+      "age": 56,
+      "year_born": 1969,
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Dhruv  Chopra",
-      "role": "Head of Investor Relation",
+      "name": "Mr. Suresh  Patil",
+      "role": "Assistant Vice President of Operations",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

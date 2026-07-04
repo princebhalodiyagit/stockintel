@@ -1,7 +1,7 @@
 {
   "ticker": "BIRLAMONEY",
   "company": "Aditya Birla Money Limited",
-  "collected_at": "2026-07-03 05:18:38",
+  "collected_at": "2026-07-04 05:13:04",
   "directors": [
     {
       "name": "Mr. Ashok  Suvarna",
@@ -43,6 +43,20 @@
       "role": "Head of Equity Research, Head of PMS & Portfolio Manager",
       "age": 59,
       "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Devanathan  Sampathkumar",
+      "role": "Head of Internal Audit",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Amit  Lahoti C.F.A.",
+      "role": "Head of Equity Research",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

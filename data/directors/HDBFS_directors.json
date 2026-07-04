@@ -1,7 +1,7 @@
 {
   "ticker": "HDBFS",
   "company": "HDB Financial Services Limited",
-  "collected_at": "2026-07-03 05:26:42",
+  "collected_at": "2026-07-04 05:21:09",
   "directors": [
     {
       "name": "Mr. Ramesh  Ganesan M.B.A.",
@@ -46,6 +46,13 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. Vinod  Raghavan",
+      "role": "Chief Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Marupudi Venkata Swamy M.B.A.",
       "role": "Chief Digital & Marketing Officer",
       "age": 51,
@@ -64,13 +71,6 @@
       "role": "Chief Business Officer",
       "age": 53,
       "year_born": 1972,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Sathya  Ramanan M.B.A.",
-      "role": "Business Head of South & East",
-      "age": 50,
-      "year_born": 1975,
       "total_pay": "N/A"
     }
   ]

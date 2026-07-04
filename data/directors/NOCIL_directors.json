@@ -1,6 +1,77 @@
 {
   "ticker": "NOCIL",
   "company": "NOCIL Limited",
-  "collected_at": "2026-07-03 05:36:10",
-  "directors": []
+  "collected_at": "2026-07-04 05:30:45",
+  "directors": [
+    {
+      "name": "Mr. Hrishikesh Arvind Mafatlal B.Com.",
+      "role": "Executive Chairman",
+      "age": 70,
+      "year_born": 1955,
+      "total_pay": 37600000
+    },
+    {
+      "name": "Mr. V. S. Anand",
+      "role": "MD & Executive Director",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": 24200000
+    },
+    {
+      "name": "Mr. Prasanna  Pandit",
+      "role": "President of Operations & Technical",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. P.  Srinivasan",
+      "role": "President of Finance & CFO",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Amit Kundan Vyas",
+      "role": "Head of Legal, Assistant VP of Legal, Compliance Officer & Company Secretary",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Milind  Shevte",
+      "role": "Vice President of Marketing",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. R. M. Desai",
+      "role": "Vice President of Production, Operations & Personnel",
+      "age": 64,
+      "year_born": 1961,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Kashmeera  Prabhu",
+      "role": "Head of HR",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Brijesh  Parikh",
+      "role": "Site Head - Dahej",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Vikas  Padalkar",
+      "role": "AVP & Head of Research and Development",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

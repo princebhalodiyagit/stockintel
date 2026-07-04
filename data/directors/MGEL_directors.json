@@ -1,7 +1,7 @@
 {
   "ticker": "MGEL",
   "company": "Mangalam Global Enterprise Limited",
-  "collected_at": "2026-07-03 05:34:00",
+  "collected_at": "2026-07-04 05:28:35",
   "directors": [
     {
       "name": "Mr. Vipin Prakash O. Mangal",
@@ -15,6 +15,27 @@
       "role": "MD & Executive Director",
       "age": 30,
       "year_born": 1995,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Chandragupt Prakash V. Mangal",
+      "role": "MD & Executive Director",
+      "age": 28,
+      "year_born": 1997,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manish Purshottamdas Kella ACS, M.Com",
+      "role": "Chief Financial Officer",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Karansingh Imansingh Karki",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

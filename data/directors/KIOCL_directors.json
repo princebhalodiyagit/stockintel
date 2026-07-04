@@ -1,6 +1,56 @@
 {
   "ticker": "KIOCL",
   "company": "KIOCL Limited",
-  "collected_at": "2026-07-03 05:31:02",
-  "directors": []
+  "collected_at": "2026-07-04 05:25:36",
+  "directors": [
+    {
+      "name": "Mr. Ganti Venkat Kiran",
+      "role": "MD, Chairman, Director of Finance & Commercial",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 5038962
+    },
+    {
+      "name": "Mr. Ram Krishna Mishra",
+      "role": "Chief GM of Finance & CFO for Bengaluru",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 4820364
+    },
+    {
+      "name": "Mr. Clafton  Siddharth",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. C  Munikrishna",
+      "role": "Chief General Manager of HR",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vasudha Chandra Suratkal",
+      "role": "Chief General Manager of Mining for Bhubaneswar",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. P.  Palani",
+      "role": "Chief General Manager Incharge of Mangaluru",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. S V R Chandra Sekhar",
+      "role": "Chief Vigilance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

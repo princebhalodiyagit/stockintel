@@ -1,6 +1,35 @@
 {
   "ticker": "TPLPLASTEH",
   "company": "TPL Plastech Limited",
-  "collected_at": "2026-07-03 05:46:29",
-  "directors": []
+  "collected_at": "2026-07-04 05:41:08",
+  "directors": [
+    {
+      "name": "Mr. Jayesh Ajitkumar Ashar",
+      "role": "Chief Executive Officer",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": 627545
+    },
+    {
+      "name": "Mr. Pawan  Agarwal",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 1683036
+    },
+    {
+      "name": "Mr. Hemant Kumar Soni",
+      "role": "VP of Legal, Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 3228210
+    },
+    {
+      "name": "Mr. Rahul  Sharma",
+      "role": "Chief Operating Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

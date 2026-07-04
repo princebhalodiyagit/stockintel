@@ -1,6 +1,49 @@
 {
   "ticker": "MOTHERSON",
   "company": "Samvardhana Motherson International Limited",
-  "collected_at": "2026-07-03 05:34:35",
-  "directors": []
+  "collected_at": "2026-07-04 05:29:10",
+  "directors": [
+    {
+      "name": "Mr. Pankaj K. Mital",
+      "role": "COO & Whole-Time Director",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": 49297493
+    },
+    {
+      "name": "Mr. Gandharv  Tongia",
+      "role": "Group Chief Financial Officer",
+      "age": 43,
+      "year_born": 1982,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Alok  Goel",
+      "role": "Company Secretary, Compliance Officer & VP of Legal",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": 8715595
+    },
+    {
+      "name": "Mr. Rakesh  Satwah",
+      "role": "Managing Director of Kyungshin Industrial Motherson Limited (KIML)",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kunal  Malani",
+      "role": "President of Group Strategy & Transformation",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Hemant  Barge",
+      "role": "Chief Procurement Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

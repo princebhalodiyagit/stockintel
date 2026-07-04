@@ -1,6 +1,63 @@
 {
   "ticker": "PLATIND",
   "company": "Platinum Industries Limited",
-  "collected_at": "2026-07-03 05:38:02",
-  "directors": []
+  "collected_at": "2026-07-04 05:32:38",
+  "directors": [
+    {
+      "name": "Mr. Krishna Dushyant Rana",
+      "role": "Chairperson & MD",
+      "age": 41,
+      "year_born": 1984,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Bhagyashree Amit Mallawat",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 1360000
+    },
+    {
+      "name": "Ms. Parul Krishna Rana",
+      "role": "Executive Director",
+      "age": 42,
+      "year_born": 1983,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anup  Singh",
+      "role": "Executive Director & Executive Director of Plant Operations",
+      "age": 35,
+      "year_born": 1990,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ashok  Bothra",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Milind Baburao Magar",
+      "role": "Chief Operating Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ajay Kumar Jain",
+      "role": "Senior Manager \u0096 Accounts",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Yogesh  Chimankar",
+      "role": "General Manager of Sales",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

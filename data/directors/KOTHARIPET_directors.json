@@ -1,6 +1,49 @@
 {
   "ticker": "KOTHARIPET",
   "company": "Kothari Petrochemicals Limited",
-  "collected_at": "2026-07-03 05:31:23",
-  "directors": []
+  "collected_at": "2026-07-04 05:25:57",
+  "directors": [
+    {
+      "name": "Mr. Arjun Bhadrashyam Kothari",
+      "role": "MD & Executive Director",
+      "age": 34,
+      "year_born": 1991,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. S.  Sivamahesh",
+      "role": "Chief Financial Officer",
+      "age": 41,
+      "year_born": 1984,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. P.  Premapiriyan",
+      "role": "Plant Head of Manali & VP of Operations",
+      "age": 44,
+      "year_born": 1981,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. K.  Sreekanteswaran",
+      "role": "President of Legal & Taxation",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Muthukumaran  Rajavel",
+      "role": "Whole Time Director",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Priya Krishna Rao",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

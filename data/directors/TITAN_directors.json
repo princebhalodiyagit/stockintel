@@ -1,7 +1,7 @@
 {
   "ticker": "TITAN",
   "company": "Titan Company Limited",
-  "collected_at": "2026-07-03 05:46:15",
+  "collected_at": "2026-07-04 05:40:54",
   "directors": [
     {
       "name": "Mr. Ajoy  Chawla B.E., PGDM",
@@ -20,6 +20,13 @@
     {
       "name": "Mr. Ravi  Kuppuraj",
       "role": "COO & Business Head of Titan Smart Wearables Business",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Krishnan  Venkateswaran",
+      "role": "Chief Digital & Information Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
@@ -62,13 +69,6 @@
     {
       "name": "Mr. Biju  Alexander",
       "role": "Associate VP & Regional Business Head of South",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. R.  Rajagopalan",
-      "role": "Chief Manufacturing Officer of Watches & Wearables",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

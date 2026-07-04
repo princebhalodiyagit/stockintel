@@ -1,7 +1,7 @@
 {
   "ticker": "GLOTTIS",
   "company": "Glottis Limited",
-  "collected_at": "2026-07-03 05:25:10",
+  "collected_at": "2026-07-04 05:19:38",
   "directors": [
     {
       "name": "Mr. Ramkumar  Senthilvel",
@@ -23,6 +23,20 @@
       "age": 46,
       "year_born": 1979,
       "total_pay": 4333000
+    },
+    {
+      "name": "Mr. Muthukrishnakanth Rajagopal Nadar",
+      "role": "Chief Operating Officer",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rahman Khan H",
+      "role": "Chief Sales Officer",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": "N/A"
     },
     {
       "name": "Ms. Nibedita  Panda",

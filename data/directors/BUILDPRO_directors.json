@@ -1,6 +1,70 @@
 {
   "ticker": "BUILDPRO",
   "company": "Shankara Buildpro Limited",
-  "collected_at": "2026-07-03 05:19:19",
-  "directors": []
+  "collected_at": "2026-07-04 05:13:44",
+  "directors": [
+    {
+      "name": "Mr. Sukumar  Srinivas",
+      "role": "MD & Director",
+      "age": 65,
+      "year_born": 1960,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Alex  Varghese",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Ereena  Vikram",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mahantesh  Mahajaonker",
+      "role": "Manager of Sales",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Dhananjay Mirlay Srinivas",
+      "role": "Whole-time Director",
+      "age": 30,
+      "year_born": 1995,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Chowdappa  Ravikumar",
+      "role": "Whole-time Director",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Tamilalagan  Natesan",
+      "role": "General Manager",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Panchappa  Jyothi",
+      "role": "Deputy General Manager",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sachin  Kumar",
+      "role": "General Manager",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

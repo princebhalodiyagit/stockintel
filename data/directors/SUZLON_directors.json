@@ -1,6 +1,77 @@
 {
   "ticker": "SUZLON",
   "company": "Suzlon Energy Limited",
-  "collected_at": "2026-07-03 05:44:47",
-  "directors": []
+  "collected_at": "2026-07-04 05:39:27",
+  "directors": [
+    {
+      "name": "Mr. Vinod R. Tanti",
+      "role": "MD & Chairman",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": 65400000
+    },
+    {
+      "name": "Mr. Girish R. Tanti",
+      "role": "Executive Vice Chairman",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": 750000
+    },
+    {
+      "name": "Mr. Jayarama Prasad Chalasani",
+      "role": "Group Executive Council Member",
+      "age": 68,
+      "year_born": 1957,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ajay A. Kapur B.A., M.M.S.",
+      "role": "Group Chief Executive Officer",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rahul  Jain B Com CA",
+      "role": "Chief Financial Officer",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anand H. Bagrecha",
+      "role": "Vice President of Accounting & Reporting",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Manish  Jain",
+      "role": "Vice President of Corporate Finance",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Bernhard  Telgmann",
+      "role": "Chief Technology Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Geetanjali Santosh Vaidya",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 2404263
+    },
+    {
+      "name": "Mr. Sandeep  Chowdhury",
+      "role": "General Counsel",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

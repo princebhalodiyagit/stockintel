@@ -1,7 +1,7 @@
 {
   "ticker": "BHARATGEAR",
   "company": "Bharat Gears Limited",
-  "collected_at": "2026-07-03 05:18:23",
+  "collected_at": "2026-07-04 05:12:49",
   "directors": [
     {
       "name": "Mr. Surinder Paul Kanwar B.Com.",
@@ -9,13 +9,6 @@
       "age": 73,
       "year_born": 1952,
       "total_pay": 26186000
-    },
-    {
-      "name": "Mr. Sameer  Kanwar B.A., B.A. (Eco.)",
-      "role": "Joint MD & Executive Director",
-      "age": 48,
-      "year_born": 1977,
-      "total_pay": 17803000
     },
     {
       "name": "Mr. Milind  Pujari B.Com., F.C.A.",
@@ -71,6 +64,13 @@
       "role": "Head of Operations - Lonand Plant",
       "age": 65,
       "year_born": 1960,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kamal Kishore Miglani",
+      "role": "Senior Process Head of Finance & Accounts",
+      "age": 51,
+      "year_born": 1974,
       "total_pay": "N/A"
     }
   ]

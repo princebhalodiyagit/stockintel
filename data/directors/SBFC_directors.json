@@ -1,6 +1,77 @@
 {
   "ticker": "SBFC",
   "company": "SBFC Finance Limited",
-  "collected_at": "2026-07-03 05:41:34",
-  "directors": []
+  "collected_at": "2026-07-04 05:36:10",
+  "directors": [
+    {
+      "name": "Mr. Mahesh Kanyalal Dayani",
+      "role": "MD, CEO & Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 87700000
+    },
+    {
+      "name": "Mr. Aseem  Dhru B.Com, CA, CWA",
+      "role": "Executive Vice-Chairman",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": 127830000
+    },
+    {
+      "name": "Mr. Narayan  Barasia",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 33420000
+    },
+    {
+      "name": "Ms. Namrata  Sajnani",
+      "role": "Company Secretary & Chief Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 6050000
+    },
+    {
+      "name": "Mr. Agnivesh  Kumar",
+      "role": "Head of Operations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ganesh  Vaidya",
+      "role": "Chief Technology Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sanket  Agrawal",
+      "role": "Chief Strategy Officer & Investor Relations Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sumeet  Ghai",
+      "role": "Chief Human Resource Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pragnesh  Soneji",
+      "role": "Chief Business Officer of Gold Loans",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajeev Pravin Thakker",
+      "role": "Chief Risk Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

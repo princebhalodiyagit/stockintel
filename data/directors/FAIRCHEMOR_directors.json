@@ -1,7 +1,7 @@
 {
   "ticker": "FAIRCHEMOR",
   "company": "Fairchem Organics Limited",
-  "collected_at": "2026-07-03 05:23:49",
+  "collected_at": "2026-07-04 05:18:15",
   "directors": [
     {
       "name": "Mr. Nahoosh Jayvadan Jariwala",
@@ -9,6 +9,20 @@
       "age": 64,
       "year_born": 1961,
       "total_pay": 26014188
+    },
+    {
+      "name": "Mr. Bhavesh Bipinchandra Shah",
+      "role": "Chief Financial Officer",
+      "age": 44,
+      "year_born": 1981,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jatin  Jain",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

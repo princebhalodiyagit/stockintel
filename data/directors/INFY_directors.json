@@ -1,7 +1,7 @@
 {
   "ticker": "INFY",
   "company": "Infosys Limited",
-  "collected_at": "2026-07-03 05:28:42",
+  "collected_at": "2026-07-04 05:23:10",
   "directors": [
     {
       "name": "Mr. Nandan M. Nilekani",
@@ -18,17 +18,17 @@
       "total_pay": 826000000
     },
     {
-      "name": "Mr. Anand  Swaminathan",
-      "role": "Executive VP and Segment Head of Communication, Media & Technology",
-      "age": 53,
-      "year_born": 1972,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Ms. Inderpreet  Sawhney",
       "role": "Executive VP, Chief Legal Officer & Chief Compliance Officer",
       "age": 60,
       "year_born": 1965,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anand  Swaminathan",
+      "role": "Executive VP and Segment Head of Communication, Media & Technology",
+      "age": 53,
+      "year_born": 1972,
       "total_pay": "N/A"
     },
     {
@@ -39,10 +39,10 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Anant R. Adya",
-      "role": "Senior VP and Group Practice Engagement Manager of Cloud, Infrastructure & Cyber Security",
-      "age": "N/A",
-      "year_born": "N/A",
+      "name": "Mr. Anant Raghavendra Adya",
+      "role": "Senior VP & Service Offering Head",
+      "age": 52,
+      "year_born": 1973,
       "total_pay": "N/A"
     },
     {
@@ -54,7 +54,7 @@
     },
     {
       "name": "Mr. Dennis Kantilal Gada",
-      "role": "Senior VP & Head of Financial Services Industry",
+      "role": "Senior VP and Segment Head of Banking & Financial Services",
       "age": 45,
       "year_born": 1980,
       "total_pay": "N/A"
@@ -71,7 +71,7 @@
       "role": "Chief Financial Officer",
       "age": 51,
       "year_born": 1974,
-      "total_pay": 36589599
+      "total_pay": 36631544
     }
   ]
 }

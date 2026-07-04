@@ -1,6 +1,56 @@
 {
   "ticker": "JSWHL",
   "company": "JSW Holdings Limited",
-  "collected_at": "2026-07-03 05:30:11",
-  "directors": []
+  "collected_at": "2026-07-04 05:24:42",
+  "directors": [
+    {
+      "name": "Mr. Manoj Kumar Mohta B.Com, Ca, Icwa",
+      "role": "CEO, CFO & Whole-Time Director",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": 22521000
+    },
+    {
+      "name": "Ms. Tanvi Jindal Shete",
+      "role": "Founder & Museum of Solutions Director of  JSW Foundation",
+      "age": 38,
+      "year_born": 1987,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Akshat  Chechani",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Tarini Jindal Handa",
+      "role": "Managing Director of JSW Realty",
+      "age": 42,
+      "year_born": 1983,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jayant  Acharya",
+      "role": "Deputy Managing Director",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Prabodha  Acharya",
+      "role": "Group Chief Sustainability Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Arun Sitaram Maheshwari MBA",
+      "role": "Joint MD & CEO of JSW Infrastructure",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    }
+  ]
 }
