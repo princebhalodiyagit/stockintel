@@ -1,7 +1,7 @@
 {
   "ticker": "AXISBANK",
   "company": "Axis Bank Limited",
-  "collected_at": "2026-07-04 05:11:37",
+  "collected_at": "2026-07-05 06:06:41",
   "directors": [
     {
       "name": "Mr. Amitabh  Chaudhry",
@@ -32,20 +32,6 @@
       "total_pay": 57022882
     },
     {
-      "name": "Mr. Sudipto  Nag",
-      "role": "President & Head of Retail Portfolio Management Group",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Puneet Mahendra Sharma",
-      "role": "Chief Financial Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 18405083
-    },
-    {
       "name": "Mr. Julius  Samson",
       "role": "Head, Corporate Communication & Investor Relation",
       "age": "N/A",
@@ -71,6 +57,20 @@
       "role": "Head of Marketing and Corporate Communications",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jitendra Pratap Singh",
+      "role": "President of Commercial Banking Group",
+      "age": 64,
+      "year_born": 1961,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Arvind  Arya",
+      "role": "Executive VP & Head Wholesale Banking Operations",
+      "age": 62,
+      "year_born": 1963,
       "total_pay": "N/A"
     }
   ]

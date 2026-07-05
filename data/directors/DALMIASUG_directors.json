@@ -1,7 +1,7 @@
 {
   "ticker": "DALMIASUG",
   "company": "Dalmia Bharat Sugar and Industries Limited",
-  "collected_at": "2026-07-04 05:15:43",
+  "collected_at": "2026-07-05 06:40:15",
   "directors": [
     {
       "name": "Mr. Pankaj  Rastogi",
@@ -23,13 +23,6 @@
       "age": 57,
       "year_born": 1968,
       "total_pay": 153900000
-    },
-    {
-      "name": "Mr. Kuldeep  Kumar",
-      "role": "Deputy Executive Director & Nigohi Unit Head",
-      "age": 56,
-      "year_born": 1969,
-      "total_pay": "N/A"
     },
     {
       "name": "Mr. Naveen Kumar Gupta",
@@ -71,6 +64,13 @@
       "role": "Sales & Marketing Head",
       "age": 42,
       "year_born": 1983,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Abhishek  Baderia",
+      "role": "Head of Human Resource",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "ticker": "APOLLOTYRE",
   "company": "Apollo Tyres Limited",
-  "collected_at": "2026-07-04 05:10:19",
+  "collected_at": "2026-07-05 05:56:14",
   "directors": [
     {
       "name": "Mr. Onkar Singh Kanwar B Sc",
@@ -16,20 +16,6 @@
       "age": 54,
       "year_born": 1971,
       "total_pay": 400160000
-    },
-    {
-      "name": "Mr. Gaurav  Kumar B Tech, MBA",
-      "role": "CFO & Whole Time Director",
-      "age": 55,
-      "year_born": 1970,
-      "total_pay": 103510000
-    },
-    {
-      "name": "Mr. Sunam  Sarkar B Com (H), IMPM",
-      "role": "Member of Management Board & Director",
-      "age": 59,
-      "year_born": 1966,
-      "total_pay": 7010000
     },
     {
       "name": "Dr. Francesco  Gori",
@@ -71,6 +57,20 @@
       "role": "Unit Head of Limda Plant",
       "age": 59,
       "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Benoit  Rivallant",
+      "role": "Chief Commercial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Leenaja EM Janardanan Nambiar",
+      "role": "Group Head of Transformation & Corporate Controlling",
+      "age": 53,
+      "year_born": 1972,
       "total_pay": "N/A"
     }
   ]

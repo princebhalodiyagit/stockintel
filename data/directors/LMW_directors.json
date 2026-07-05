@@ -1,7 +1,7 @@
 {
   "ticker": "LMW",
   "company": "LMW Limited",
-  "collected_at": "2026-07-04 05:26:58",
+  "collected_at": "2026-07-05 08:11:32",
   "directors": [
     {
       "name": "Mr. Sanjay  Jayavarthanavelu MBA",
@@ -25,20 +25,6 @@
       "total_pay": 16076590
     },
     {
-      "name": "Mr. P.  Ananthan",
-      "role": "Vice President of Administration",
-      "age": 56,
-      "year_born": 1969,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Coimbatore Ramanathan Shivkumaran",
-      "role": "Compliance Officer & Company Secretary",
-      "age": 51,
-      "year_born": 1974,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. K. Soundhar Rajhan",
       "role": "Chief Strategy Officer",
       "age": 77,
@@ -53,24 +39,31 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. M.  Ranganathan",
-      "role": "Head of Human Resources & Investor Relations",
-      "age": 60,
-      "year_born": 1965,
+      "name": "Ms. Dhanalakshmi  Bangaruswamy",
+      "role": "Senior General Manager of Finance",
+      "age": 55,
+      "year_born": 1970,
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. N. Krishna Kumar",
-      "role": "President of ATC & FDY",
-      "age": 67,
-      "year_born": 1958,
+      "name": "Mr. Suresh Kumar Mishra",
+      "role": "Head of Manufacturing Composites of ATC",
+      "age": 45,
+      "year_born": 1980,
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. V.  Venugopal",
-      "role": "Senior Vice President of Foundry",
-      "age": 67,
-      "year_born": 1958,
+      "name": "Mr. Elangovan  P.",
+      "role": "Associate Vice President -TMD Quality",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. T  Chandrasekar",
+      "role": "Senior General Manager of Foundry",
+      "age": 46,
+      "year_born": 1979,
       "total_pay": "N/A"
     }
   ]

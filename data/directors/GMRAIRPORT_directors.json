@@ -1,7 +1,7 @@
 {
   "ticker": "GMRAIRPORT",
   "company": "GMR AIRPORTS LIMITED",
-  "collected_at": "2026-07-04 05:19:42",
+  "collected_at": "2026-07-05 07:12:59",
   "directors": [
     {
       "name": "Mr. Grandhi Mallikarjuna Rao",
@@ -39,13 +39,6 @@
       "total_pay": 24110325
     },
     {
-      "name": "Mr. Alexis Benjamin Riols",
-      "role": "Executive Director",
-      "age": 39,
-      "year_born": 1986,
-      "total_pay": 21113120
-    },
-    {
       "name": "Sudeep  Lakhtakia",
       "role": "Head of Security & Vigilance",
       "age": "N/A",
@@ -69,6 +62,13 @@
     {
       "name": "Ravi  Kapoor",
       "role": "Head of APM",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "V. K. Prasad",
+      "role": "Chief Development Officer of GGIAL",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

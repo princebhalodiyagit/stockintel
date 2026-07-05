@@ -1,7 +1,7 @@
 {
   "ticker": "HINDPETRO",
   "company": "Hindustan Petroleum Corporation Limited",
-  "collected_at": "2026-07-04 05:21:36",
+  "collected_at": "2026-07-05 07:28:32",
   "directors": [
     {
       "name": "Mr. Vikas  Kaushal",
@@ -16,13 +16,6 @@
       "age": 58,
       "year_born": 1967,
       "total_pay": 10560000
-    },
-    {
-      "name": "Mr. Suresh K. Shetty",
-      "role": "Director of Finance, Director of Human Resources & Whole-time Director",
-      "age": 57,
-      "year_born": 1968,
-      "total_pay": 10802000
     },
     {
       "name": "S.  Bharathan",
@@ -69,6 +62,13 @@
     {
       "name": "Mr. Sitaram G. Taparia",
       "role": "Chief Risk Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. S. P. Gaikwad",
+      "role": "Chief Executive Officer of HPCL Rajasthan Refinery Limited",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

@@ -1,7 +1,7 @@
 {
   "ticker": "SYNGENE",
   "company": "Syngene International Limited",
-  "collected_at": "2026-07-04 05:39:36",
+  "collected_at": "2026-07-05 09:54:55",
   "directors": [
     {
       "name": "Dr. Kiran  Mazumdar-Shaw B.Sc (Hons), B.Sc.",
@@ -9,13 +9,6 @@
       "age": 72,
       "year_born": 1953,
       "total_pay": 9950000
-    },
-    {
-      "name": "Mr. Peter James Jonathan Bains",
-      "role": "CEO, MD & Director",
-      "age": 68,
-      "year_born": 1957,
-      "total_pay": 400000
     },
     {
       "name": "Mr. Deepak  Jain",
@@ -71,6 +64,13 @@
       "role": "Head of Strategy & Corporate Development",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Maninder Kapoor Puri",
+      "role": "Chief Human Resources Officer",
+      "age": 52,
+      "year_born": 1973,
       "total_pay": "N/A"
     }
   ]

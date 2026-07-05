@@ -1,15 +1,8 @@
 {
   "ticker": "VOLTAS",
   "company": "Voltas Limited",
-  "collected_at": "2026-07-04 05:42:58",
+  "collected_at": "2026-07-05 10:22:16",
   "directors": [
-    {
-      "name": "Mr. Mukundan C. P. Menon",
-      "role": "MD & Director",
-      "age": 63,
-      "year_born": 1962,
-      "total_pay": 58900000
-    },
     {
       "name": "Mr. Kadangode V. Sridhar",
       "role": "Chief Financial Officer",
@@ -69,6 +62,13 @@
     {
       "name": "Mr. Sharad  Thussu",
       "role": "Head of Mining & Construction Equipment -UMPESL",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Astrid  Dias",
+      "role": "Head of Sustainability",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
