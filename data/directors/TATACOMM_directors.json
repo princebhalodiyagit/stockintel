@@ -1,7 +1,7 @@
 {
   "ticker": "TATACOMM",
   "company": "Tata Communications Limited",
-  "collected_at": "2026-07-06 06:27:17",
+  "collected_at": "2026-07-07 06:07:21",
   "directors": [
     {
       "name": "Mr. Ganapathi S. Lakshminarayanan",
@@ -22,13 +22,6 @@
       "role": "Chief Financial Officer",
       "age": 46,
       "year_born": 1979,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Sivasamban  Natarajan",
-      "role": "Executive VP & Global Operations Head",
-      "age": "N/A",
-      "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
@@ -71,6 +64,13 @@
       "role": "Head of Americas",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vivek  Manglik",
+      "role": "Executive Vice President of Interaction Fabric",
+      "age": 53,
+      "year_born": 1972,
       "total_pay": "N/A"
     }
   ]
