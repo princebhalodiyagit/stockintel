@@ -1,14 +1,14 @@
 {
   "ticker": "SULA",
-  "collected_at": "2026-07-07 06:06:21",
+  "collected_at": "2026-07-08 05:15:09",
   "company_info": {
     "name": "Sula Vineyards Limited",
     "sector": "Consumer Defensive",
     "industry": "Beverages - Wineries & Distilleries",
-    "market_cap": 12894247936,
-    "current_price": 152.69,
-    "pe_ratio": 50.226974,
-    "pb_ratio": 2.1951466,
+    "market_cap": 12667084800,
+    "current_price": 150.0,
+    "pe_ratio": 49.342106,
+    "pb_ratio": 2.1564739,
     "roe": 0.043709997,
     "debt_to_equity": 56.679,
     "revenue": 5558700032,
@@ -16,6 +16,6 @@
     "eps": 3.04,
     "52_week_high": 308.3,
     "52_week_low": 138.6,
-    "dividend_yield": 1.29
+    "dividend_yield": 1.3
   }
 }

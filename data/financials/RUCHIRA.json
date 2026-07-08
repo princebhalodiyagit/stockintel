@@ -1,14 +1,14 @@
 {
   "ticker": "RUCHIRA",
-  "collected_at": "2026-07-07 06:02:46",
+  "collected_at": "2026-07-08 05:11:40",
   "company_info": {
     "name": "Ruchira Papers Limited",
     "sector": "Basic Materials",
     "industry": "Paper & Paper Products",
-    "market_cap": 3126262016,
-    "current_price": 104.75,
-    "pe_ratio": 7.082488,
-    "pb_ratio": 0.6322582,
+    "market_cap": 3104773632,
+    "current_price": 104.03,
+    "pe_ratio": 7.0338063,
+    "pb_ratio": 0.62791234,
     "roe": 0.09184,
     "debt_to_equity": 37.048,
     "revenue": 6488038912,
@@ -16,6 +16,6 @@
     "eps": 14.79,
     "52_week_high": 173.0,
     "52_week_low": 95.17,
-    "dividend_yield": 4.53
+    "dividend_yield": 4.85
   }
 }

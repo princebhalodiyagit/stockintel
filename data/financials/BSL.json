@@ -1,14 +1,14 @@
 {
   "ticker": "BSL",
-  "collected_at": "2026-07-07 05:41:02",
+  "collected_at": "2026-07-08 04:50:20",
   "company_info": {
     "name": "BSL Limited",
     "sector": "Consumer Cyclical",
     "industry": "Textile Manufacturing",
-    "market_cap": 1337776000,
-    "current_price": 129.98,
-    "pe_ratio": 56.2684,
-    "pb_ratio": 1.1205655,
+    "market_cap": 1335923456,
+    "current_price": 129.8,
+    "pe_ratio": 56.19048,
+    "pb_ratio": 1.1190138,
     "roe": 0.01987,
     "debt_to_equity": 366.348,
     "revenue": 6570357248,
@@ -16,6 +16,6 @@
     "eps": 2.31,
     "52_week_high": 208.0,
     "52_week_low": 98.0,
-    "dividend_yield": 0.62
+    "dividend_yield": 0.61
   }
 }

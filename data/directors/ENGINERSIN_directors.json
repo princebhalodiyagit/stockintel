@@ -1,36 +1,8 @@
 {
   "ticker": "ENGINERSIN",
   "company": "Engineers India Limited",
-  "collected_at": "2026-07-07 05:45:04",
+  "collected_at": "2026-07-08 04:54:17",
   "directors": [
-    {
-      "name": "Mr. Sanjay  Jindal",
-      "role": "Director of Finance, CFO & Executive Director",
-      "age": 57,
-      "year_born": 1968,
-      "total_pay": 7211811
-    },
-    {
-      "name": "Mr. Rajiv  Agarwal",
-      "role": "Director of Technical & Executive Director",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 7429703
-    },
-    {
-      "name": "Mr. Rupesh Kumar Singh",
-      "role": "Director of Human Resource & Additional Executive Director",
-      "age": 56,
-      "year_born": 1969,
-      "total_pay": 2094981
-    },
-    {
-      "name": "Mr. Atul  Gupta",
-      "role": "Director of Commercial and Executive Director",
-      "age": 56,
-      "year_born": 1969,
-      "total_pay": 6924665
-    },
     {
       "name": "Mr. Subhas  Balakumar",
       "role": "Director of Projects & Executive Director",
@@ -69,6 +41,20 @@
     {
       "name": "Mr. R. P. Mehrotra",
       "role": "Chief General Manager and Head of TRG",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Shruti  Agnihotriy",
+      "role": "Chief Vigilance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajiv  Ranjan",
+      "role": "Chief Executive Officer of CEIL",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

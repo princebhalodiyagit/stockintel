@@ -1,14 +1,14 @@
 {
   "ticker": "COMPUSOFT",
-  "collected_at": "2026-07-07 05:42:25",
+  "collected_at": "2026-07-08 04:51:41",
   "company_info": {
     "name": "Compucom Software Limited",
     "sector": "Consumer Defensive",
     "industry": "Education & Training Services",
-    "market_cap": 1044452416,
-    "current_price": 13.2,
-    "pe_ratio": 36.666664,
-    "pb_ratio": 0.72040606,
+    "market_cap": 1032583680,
+    "current_price": 13.05,
+    "pe_ratio": 36.25,
+    "pb_ratio": 0.71221966,
     "roe": 0.020350002,
     "debt_to_equity": 34.173,
     "revenue": 341400992,
@@ -16,6 +16,6 @@
     "eps": 0.36,
     "52_week_high": 23.5,
     "52_week_low": 12.0,
-    "dividend_yield": 1.51
+    "dividend_yield": 1.52
   }
 }

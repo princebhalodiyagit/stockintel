@@ -1,7 +1,7 @@
 {
   "ticker": "BEL",
   "company": "Bharat Electronics Limited",
-  "collected_at": "2026-07-07 05:39:55",
+  "collected_at": "2026-07-08 04:49:12",
   "directors": [
     {
       "name": "Mr. Manoj  Jain",
@@ -16,20 +16,6 @@
       "age": 59,
       "year_born": 1966,
       "total_pay": 8362952
-    },
-    {
-      "name": "Mr. Kaipa Venkata Suresh Kumar",
-      "role": "Director of Marketing, Chief Indigenization Officer & Whole-Time Director",
-      "age": 59,
-      "year_born": 1966,
-      "total_pay": 8199614
-    },
-    {
-      "name": "Mr. Rajnish  Sharma",
-      "role": "Director of Bangalore Complex & Director",
-      "age": 57,
-      "year_born": 1968,
-      "total_pay": 6276605
     },
     {
       "name": "Mr. Sripada  Sreenivas",
@@ -69,6 +55,13 @@
     {
       "name": "Ms. Dharani  B",
       "role": "Chief Technology Officer of R&WS- CO",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ramesh  Mangipudi",
+      "role": "Chief Technical Officer (Communications)",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

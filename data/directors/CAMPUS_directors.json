@@ -1,7 +1,7 @@
 {
   "ticker": "CAMPUS",
   "company": "Campus Activewear Limited",
-  "collected_at": "2026-07-07 05:41:11",
+  "collected_at": "2026-07-08 04:50:29",
   "directors": [
     {
       "name": "Mr. Hari Krishan Agarwal",
@@ -16,13 +16,6 @@
       "age": 40,
       "year_born": 1985,
       "total_pay": 33000000
-    },
-    {
-      "name": "Mr. Sanjay  Chhabra",
-      "role": "CFO & Chief Risk Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
     },
     {
       "name": "Ms. Archana  Maini",
@@ -69,6 +62,13 @@
     {
       "name": "Mr. Chandresh  Sharma",
       "role": "Head of Development & Commercialization",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Murlidhar  Mishra",
+      "role": "Head of Production",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

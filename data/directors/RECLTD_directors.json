@@ -1,7 +1,7 @@
 {
   "ticker": "RECLTD",
   "company": "REC Limited",
-  "collected_at": "2026-07-07 06:01:46",
+  "collected_at": "2026-07-08 05:10:41",
   "directors": [
     {
       "name": "Mr. Jitendra  Srivastava",
@@ -39,20 +39,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Thangarajan Subash Chandira Bosh",
-      "role": "Director of Projects & Director",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Hemant  Kumar C.S.",
-      "role": "Executive Director",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Virender Kumar Adhana",
       "role": "Chief Vigilance Officer",
       "age": "N/A",
@@ -71,6 +57,20 @@
       "role": "Executive Director",
       "age": 68,
       "year_born": 1957,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. J.K.  Nayak",
+      "role": "Executive Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Rashmita  Jha",
+      "role": "Chief Vigilance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

@@ -1,14 +1,14 @@
 {
   "ticker": "CHEMCON",
-  "collected_at": "2026-07-07 05:41:54",
+  "collected_at": "2026-07-08 04:51:11",
   "company_info": {
     "name": "Chemcon Speciality Chemicals Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals",
-    "market_cap": 6740048896,
-    "current_price": 184.0,
-    "pe_ratio": 28.527132,
-    "pb_ratio": 1.3945204,
+    "market_cap": 6716238848,
+    "current_price": 183.35,
+    "pe_ratio": 28.42636,
+    "pb_ratio": 1.3895941,
     "roe": 0.04797,
     "debt_to_equity": 10.998,
     "revenue": 2399789056,
@@ -16,6 +16,6 @@
     "eps": 6.45,
     "52_week_high": 295.0,
     "52_week_low": 125.0,
-    "dividend_yield": 6.96
+    "dividend_yield": 7.08
   }
 }

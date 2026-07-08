@@ -1,14 +1,14 @@
 {
   "ticker": "AVTNPL",
-  "collected_at": "2026-07-07 05:38:56",
+  "collected_at": "2026-07-08 04:48:14",
   "company_info": {
     "name": "AVT Natural Products Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals",
-    "market_cap": 10758864896,
-    "current_price": 70.65,
-    "pe_ratio": 16.584507,
-    "pb_ratio": 1.9183253,
+    "market_cap": 10700996608,
+    "current_price": 70.27,
+    "pe_ratio": 16.495304,
+    "pb_ratio": 1.9080073,
     "roe": 0.12162,
     "debt_to_equity": 20.311,
     "revenue": 7132295168,
@@ -16,6 +16,6 @@
     "eps": 4.26,
     "52_week_high": 83.8,
     "52_week_low": 53.5,
-    "dividend_yield": 1.26
+    "dividend_yield": 1.27
   }
 }

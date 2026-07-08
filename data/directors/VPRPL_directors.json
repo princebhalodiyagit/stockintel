@@ -1,7 +1,7 @@
 {
   "ticker": "VPRPL",
   "company": "Vishnu Prakash R Punglia Limited",
-  "collected_at": "2026-07-07 06:10:28",
+  "collected_at": "2026-07-08 05:19:12",
   "directors": [
     {
       "name": "Mr. Vishnu Prakash Punglia",
@@ -16,13 +16,6 @@
       "age": 45,
       "year_born": 1980,
       "total_pay": 8450000
-    },
-    {
-      "name": "Mr. Sarfaraz  Ahmed",
-      "role": "Chief Financial Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
     },
     {
       "name": "Mr. Manohar Lal Punglia",
@@ -46,13 +39,6 @@
       "total_pay": 8450000
     },
     {
-      "name": "Ms. Nitisha  Jain",
-      "role": "Company Secretary & Compliance Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Vijay  Punglia",
       "role": "Regional Head of Madhya Pradesh, Gujarat, Daman & Maharashtra",
       "age": "N/A",
@@ -69,6 +55,13 @@
     {
       "name": "Mr. Vikas  Birla",
       "role": "Project Head of Uttar Pradesh",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Krishna Chandra Chandak",
+      "role": "Project Head of North East",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

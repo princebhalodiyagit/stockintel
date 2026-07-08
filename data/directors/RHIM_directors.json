@@ -1,22 +1,8 @@
 {
   "ticker": "RHIM",
   "company": "RHI MAGNESITA INDIA LIMITED",
-  "collected_at": "2026-07-07 06:02:06",
+  "collected_at": "2026-07-08 05:11:01",
   "directors": [
-    {
-      "name": "Mr. Parmod  Sagar",
-      "role": "CEO, MD, President & Executive Chairman",
-      "age": 60,
-      "year_born": 1965,
-      "total_pay": 57716000
-    },
-    {
-      "name": "Mr. Azim  Syed",
-      "role": "CFO & Whole Time Director",
-      "age": 44,
-      "year_born": 1981,
-      "total_pay": 45284906
-    },
     {
       "name": "Mr. Sanjay  Kumar",
       "role": "Compliance Officer & Company Secretary",
@@ -69,6 +55,20 @@
     {
       "name": "Mr. Ravikumar  Periyasamy",
       "role": "Head of Marketing, Solutions and R&D of India",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Deepak A. Vazirani",
+      "role": "Head of Supply Chain, Procurement & Commercial of India",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. KT  Rao",
+      "role": "Head of People & Culture and Communications of India",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
