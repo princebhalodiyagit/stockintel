@@ -1,15 +1,8 @@
 {
   "ticker": "IREDA",
   "company": "Indian Renewable Energy Development Agency Limited",
-  "collected_at": "2026-07-08 05:00:05",
+  "collected_at": "2026-07-09 07:33:04",
   "directors": [
-    {
-      "name": "Mr. Pradip Kumar Das",
-      "role": "Chairman & MD",
-      "age": 59,
-      "year_born": 1966,
-      "total_pay": 13085000
-    },
     {
       "name": "Dr. Bijay Kumar Mohanty",
       "role": "CFO, Director of Finance & Director",
@@ -71,6 +64,13 @@
       "role": "GM of F&A and Head of Internal Audit (HIA) & Internal Auditor (IA)",
       "age": 49,
       "year_born": 1976,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Tusar Kant Parida",
+      "role": "Executive Director (F&A) & Head of Resource Group",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

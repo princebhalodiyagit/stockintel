@@ -1,14 +1,14 @@
 {
   "ticker": "ALKALI",
-  "collected_at": "2026-07-08 04:46:18",
+  "collected_at": "2026-07-09 05:49:28",
   "company_info": {
     "name": "Alkali Metals Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals",
-    "market_cap": 860421760,
-    "current_price": 84.5,
-    "pe_ratio": 153.63637,
-    "pb_ratio": 1.9269799,
+    "market_cap": 849730112,
+    "current_price": 83.45,
+    "pe_ratio": 151.72726,
+    "pb_ratio": 1.9030352,
     "roe": 0.01248,
     "debt_to_equity": 40.789,
     "revenue": 930289984,
@@ -16,6 +16,6 @@
     "eps": 0.55,
     "52_week_high": 107.38,
     "52_week_low": 46.8,
-    "dividend_yield": 1.17
+    "dividend_yield": 1.18
   }
 }

@@ -1,14 +1,14 @@
 {
   "ticker": "BCLIND",
-  "collected_at": "2026-07-08 04:49:05",
+  "collected_at": "2026-07-09 06:12:42",
   "company_info": {
     "name": "BCL Industries Limited",
     "sector": "Consumer Defensive",
     "industry": "Beverages - Wineries & Distilleries",
-    "market_cap": 10165424128,
-    "current_price": 34.44,
-    "pe_ratio": 8.830769,
-    "pb_ratio": 1.116659,
+    "market_cap": 10041456640,
+    "current_price": 34.02,
+    "pe_ratio": 8.723077,
+    "pb_ratio": 1.1030414,
     "roe": 0.14187,
     "debt_to_equity": 59.845,
     "revenue": 27916568576,
@@ -16,6 +16,6 @@
     "eps": 3.9,
     "52_week_high": 49.3,
     "52_week_low": 25.53,
-    "dividend_yield": 0.73
+    "dividend_yield": 0.75
   }
 }

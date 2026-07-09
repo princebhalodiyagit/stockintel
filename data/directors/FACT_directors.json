@@ -1,7 +1,7 @@
 {
   "ticker": "FACT",
   "company": "Fertilizers and Chemicals Travancore Limited",
-  "collected_at": "2026-07-08 04:54:48",
+  "collected_at": "2026-07-09 06:59:24",
   "directors": [
     {
       "name": "Mr. Seshamani  Sakthimani",
@@ -23,13 +23,6 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 3025000
-    },
-    {
-      "name": "Mr. Anupam  Misra",
-      "role": "Director of Marketing & Whole Time Director",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 4789769
     },
     {
       "name": "Mr. C. Pradeep Kumar",
@@ -69,6 +62,13 @@
     {
       "name": "Mr. M.  Mohanchandran",
       "role": "Chief General Manager of CD",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sajo k F",
+      "role": "Chief General Manager of FEDO & FEW",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
