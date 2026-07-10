@@ -1,7 +1,7 @@
 {
   "ticker": "NESTLEIND",
   "company": "Nestle India Limited",
-  "collected_at": "2026-07-09 07:39:11",
+  "collected_at": "2026-07-10 05:56:36",
   "directors": [
     {
       "name": "Mr. Manish  Tiwary",
@@ -53,13 +53,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Jagdeep Singh Marahar",
-      "role": "Whole-time Director & Executive Director of Technical",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Himmat  Singh",
       "role": "Head of Corporate Affairs, Sustainability & Societal Initiatives",
       "age": "N/A",
@@ -71,6 +64,13 @@
       "role": "Head of Supply Chain, Exports & Imports Business",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Prateek  Tripathi",
+      "role": "Head of IS/ IT & Nestl\u00e9 Business Excellence",
+      "age": 44,
+      "year_born": 1981,
       "total_pay": "N/A"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "ticker": "SASKEN",
   "company": "Sasken Technologies Limited",
-  "collected_at": "2026-07-09 07:44:43",
+  "collected_at": "2026-07-10 06:02:41",
   "directors": [
     {
       "name": "Mr. Rajiv Chandrakant Mody",
@@ -15,27 +15,6 @@
       "role": "Chief Financial Officer",
       "age": 48,
       "year_born": 1977,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Paawan  Bhargava",
-      "role": "Company Secretary & Compliance Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ms. Rekha Sahay Ghosh",
-      "role": "Global Head of Marketing & Communication",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ms. Moumita  Kurup",
-      "role": "Global Head of Human Resource",
-      "age": "N/A",
-      "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
@@ -71,6 +50,27 @@
       "role": "Head of Sales of Automotive & Industrial",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Hareesh  Ramanna",
+      "role": "Chief Experience Officer of Sasken & President of Borqs India",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajeev  Ved",
+      "role": "Chief Growth & AI Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Nirmala  Datla",
+      "role": "Chief of Data Science & Engineering and Site Head of Hyderabad",
+      "age": 61,
+      "year_born": 1964,
       "total_pay": "N/A"
     }
   ]

@@ -1,14 +1,14 @@
 {
   "ticker": "CONTROLPR",
-  "collected_at": "2026-07-09 06:34:24",
+  "collected_at": "2026-07-10 05:41:00",
   "company_info": {
     "name": "Control Print Limited",
     "sector": "Industrials",
     "industry": "Business Equipment & Supplies",
-    "market_cap": 10603363328,
-    "current_price": 662.95,
-    "pe_ratio": 24.34631,
-    "pb_ratio": 2.3414626,
+    "market_cap": 10397837312,
+    "current_price": 650.1,
+    "pe_ratio": 23.874403,
+    "pb_ratio": 2.2960777,
     "roe": 0.10099,
     "debt_to_equity": 1.51,
     "revenue": 4820174848,
@@ -16,6 +16,6 @@
     "eps": 27.23,
     "52_week_high": 917.5,
     "52_week_low": 517.0,
-    "dividend_yield": 1.5
+    "dividend_yield": 1.53
   }
 }

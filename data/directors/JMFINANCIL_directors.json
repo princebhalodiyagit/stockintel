@@ -1,7 +1,7 @@
 {
   "ticker": "JMFINANCIL",
   "company": "JM Financial Limited",
-  "collected_at": "2026-07-09 07:33:54",
+  "collected_at": "2026-07-10 05:50:36",
   "directors": [
     {
       "name": "Mr. Vishal Nimesh Kampani",
@@ -16,13 +16,6 @@
       "age": 56,
       "year_born": 1969,
       "total_pay": 75300216
-    },
-    {
-      "name": "Mr. Nishit  Shah",
-      "role": "MD & CFO",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
     },
     {
       "name": "Ms. Sonia  Dasgupta",
@@ -72,6 +65,13 @@
       "age": 49,
       "year_born": 1976,
       "total_pay": 3618000
+    },
+    {
+      "name": "Mr. Ranganath  Char",
+      "role": "MD & COO of Real Estate Advisory",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

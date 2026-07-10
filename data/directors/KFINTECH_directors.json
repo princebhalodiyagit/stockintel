@@ -1,7 +1,7 @@
 {
   "ticker": "KFINTECH",
   "company": "Kfin Technologies Limited",
-  "collected_at": "2026-07-09 07:34:46",
+  "collected_at": "2026-07-10 05:51:31",
   "directors": [
     {
       "name": "Mr. Venkata Satya Naga Sreekanth Nadella",
@@ -9,13 +9,6 @@
       "age": 47,
       "year_born": 1978,
       "total_pay": 55770000
-    },
-    {
-      "name": "Mr. Vivek Narayan Mathur",
-      "role": "Chief Financial Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
     },
     {
       "name": "Mr. Nazish Hussain Mir",
@@ -69,6 +62,13 @@
     {
       "name": "Ms. Hanisha  Vadlamani",
       "role": "Chief Branding Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Senthil  Gunasekaran",
+      "role": "Chief Business Development Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

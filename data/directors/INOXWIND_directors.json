@@ -1,7 +1,7 @@
 {
   "ticker": "INOXWIND",
   "company": "Inox Wind Limited",
-  "collected_at": "2026-07-09 07:32:48",
+  "collected_at": "2026-07-10 05:49:23",
   "directors": [
     {
       "name": "Mr. Kailash Lal Tarachandani",
@@ -22,13 +22,6 @@
       "role": "Whole Time Director",
       "age": 53,
       "year_born": 1972,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Sanjeev  Agarwal",
-      "role": "Chief Executive Officer",
-      "age": 55,
-      "year_born": 1970,
       "total_pay": "N/A"
     },
     {
@@ -71,6 +64,13 @@
       "role": "Head Production of Una Unit",
       "age": 50,
       "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajinder  Singh",
+      "role": "Head of Supply Chain Management",
+      "age": 53,
+      "year_born": 1972,
       "total_pay": "N/A"
     }
   ]

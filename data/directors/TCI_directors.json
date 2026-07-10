@@ -1,7 +1,7 @@
 {
   "ticker": "TCI",
   "company": "Transport Corporation of India Limited",
-  "collected_at": "2026-07-09 07:48:31",
+  "collected_at": "2026-07-10 06:06:46",
   "directors": [
     {
       "name": "Mr. Dharmpal P. Agarwal B.Com.",
@@ -39,38 +39,24 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Ajit  Singh",
-      "role": "Chief Executive Officer of TCI Concor Multimodal Solutions Pvt Ltd",
+      "name": "Mr. Ram Ujagar Singh B.A",
+      "role": "CEO of TCI Seaways Division",
+      "age": 80,
+      "year_born": 1945,
+      "total_pay": 10570000
+    },
+    {
+      "name": "Ms. Hansa  Sharma",
+      "role": "Company Secretary & Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Pramod Kumar Jain",
-      "role": "Group Head of Department of Human Resource & Admin and CEO of TCI Global",
-      "age": 63,
-      "year_born": 1962,
-      "total_pay": 8834025
-    },
-    {
-      "name": "Mr. Prashant  Panda",
-      "role": "Head of Legal",
+      "name": "Simran  Sharma",
+      "role": "Finance Officer",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Sunil  Kumar",
-      "role": "Compliance Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Pabitra Mohan Panda",
-      "role": "Chief Operating Officer of TCI Express",
-      "age": 51,
-      "year_born": 1974,
       "total_pay": "N/A"
     }
   ]

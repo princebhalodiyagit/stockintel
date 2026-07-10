@@ -1,7 +1,7 @@
 {
   "ticker": "APOLLOTYRE",
   "company": "Apollo Tyres Limited",
-  "collected_at": "2026-07-09 05:55:28",
+  "collected_at": "2026-07-10 05:36:01",
   "directors": [
     {
       "name": "Mr. Onkar Singh Kanwar B Sc",
@@ -23,20 +23,6 @@
       "age": 73,
       "year_born": 1952,
       "total_pay": 7610000
-    },
-    {
-      "name": "Mr. Daniele  Lorenzetti",
-      "role": "Chief Technology Officer & Member of Management Board",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ms. Seema  Thapar",
-      "role": "Compliance Officer & Company Secretary",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
     },
     {
       "name": "Ms. R  Mahalakshmi",
@@ -71,6 +57,20 @@
       "role": "Group Head of Transformation & Corporate Controlling",
       "age": 53,
       "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. S.K.P  Amarnath",
+      "role": "Group Head of R&D (Asia)",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Hizmy  Hassen",
+      "role": "Chief Digital Officer",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

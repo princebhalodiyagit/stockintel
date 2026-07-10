@@ -1,7 +1,7 @@
 {
   "ticker": "BANDHANBNK",
   "company": "Bandhan Bank Limited",
-  "collected_at": "2026-07-09 06:10:48",
+  "collected_at": "2026-07-10 05:37:56",
   "directors": [
     {
       "name": "Mr. Partha Pratim Sengupta",
@@ -9,20 +9,6 @@
       "age": 63,
       "year_born": 1962,
       "total_pay": 19963008
-    },
-    {
-      "name": "Mr. Ratan Kumar Kesh",
-      "role": "COO & Executive Director",
-      "age": 54,
-      "year_born": 1971,
-      "total_pay": 31000000
-    },
-    {
-      "name": "Mr. Rajinder Kumar Babbar",
-      "role": "Chief Business Officer & Executive Director",
-      "age": 56,
-      "year_born": 1969,
-      "total_pay": 30000000
     },
     {
       "name": "Mr. Indranil  Banerjee",
@@ -71,6 +57,20 @@
       "role": "Head of Human Resources",
       "age": 54,
       "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Nand Kumar Singh",
+      "role": "Head of Credit Administration & Asset Operations",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Dibakar Chandra Ghosh",
+      "role": "Head of IT Operations - System & Networking",
+      "age": 57,
+      "year_born": 1968,
       "total_pay": "N/A"
     }
   ]

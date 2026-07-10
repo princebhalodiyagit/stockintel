@@ -1,7 +1,7 @@
 {
   "ticker": "KAJARIACER",
   "company": "Kajaria Ceramics Limited",
-  "collected_at": "2026-07-09 07:34:20",
+  "collected_at": "2026-07-10 05:51:04",
   "directors": [
     {
       "name": "Mr. Rishi  Kajaria",
@@ -9,13 +9,6 @@
       "age": 47,
       "year_born": 1978,
       "total_pay": 58000000
-    },
-    {
-      "name": "Mr. Chetan  Kajaria B.E., M.B.A.",
-      "role": "Executive Vice Chairman",
-      "age": 51,
-      "year_born": 1974,
-      "total_pay": 57400000
     },
     {
       "name": "Mr. Sanjeev  Agarwal",
@@ -69,6 +62,13 @@
     {
       "name": "Mr. Kartik  Kajaria",
       "role": "Head of Adhesive Division",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Anubhav  Sharma",
+      "role": "Head of Procurement",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
