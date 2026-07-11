@@ -1,21 +1,14 @@
 {
   "ticker": "MAXHEALTH",
   "company": "Max Healthcare Institute Limited",
-  "collected_at": "2026-07-10 05:54:26",
+  "collected_at": "2026-07-11 05:02:43",
   "directors": [
     {
       "name": "Mr. Abhay  Soi",
       "role": "Executive Chairman & MD",
       "age": 52,
       "year_born": 1973,
-      "total_pay": 295193709
-    },
-    {
-      "name": "Mr. Yogesh Kumar Sareen",
-      "role": "Senior Director & CFO",
-      "age": 60,
-      "year_born": 1965,
-      "total_pay": "N/A"
+      "total_pay": 273771228
     },
     {
       "name": "Mr. Dhiraj  Aroraa",
@@ -53,24 +46,10 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Dr. Sandeep  Budhiraja",
-      "role": "Member of Group Medical Advisory Council & Group Medical Director",
-      "age": 55,
-      "year_born": 1970,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Dr. Anurag  Krishna",
       "role": "Member of Group Medical Advisory Council & Chairman of Paediatrics & Paediatric Surgery",
       "age": 67,
       "year_born": 1958,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Colonel Harinder Singh Chehal",
-      "role": "Senior Director & COO - Cluster 2",
-      "age": 61,
-      "year_born": 1964,
       "total_pay": "N/A"
     }
   ]

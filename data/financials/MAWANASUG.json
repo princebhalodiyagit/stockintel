@@ -1,14 +1,14 @@
 {
   "ticker": "MAWANASUG",
-  "collected_at": "2026-07-10 05:54:23",
+  "collected_at": "2026-07-11 05:02:40",
   "company_info": {
     "name": "Mawana Sugars Limited",
     "sector": "Consumer Defensive",
     "industry": "Confectioners",
-    "market_cap": 4408861696,
-    "current_price": 112.71,
-    "pe_ratio": 11.889241,
-    "pb_ratio": 0.84031045,
+    "market_cap": 4381088768,
+    "current_price": 112.0,
+    "pe_ratio": 11.814346,
+    "pb_ratio": 0.835017,
     "roe": 0.07297,
     "debt_to_equity": 80.14,
     "revenue": 15715900416,
@@ -16,6 +16,6 @@
     "eps": 9.48,
     "52_week_high": 123.75,
     "52_week_low": 75.08,
-    "dividend_yield": 3.69
+    "dividend_yield": 3.57
   }
 }

@@ -1,22 +1,8 @@
 {
   "ticker": "MARICO",
   "company": "Marico Limited",
-  "collected_at": "2026-07-10 05:54:04",
+  "collected_at": "2026-07-11 05:02:30",
   "directors": [
-    {
-      "name": "Mr. Saugata  Gupta",
-      "role": "MD, CEO & Executive Director",
-      "age": 58,
-      "year_born": 1967,
-      "total_pay": 391369801
-    },
-    {
-      "name": "Dr. Harshraj Charandas Mariwala",
-      "role": "Founder & Non-Executive Chairman",
-      "age": 74,
-      "year_born": 1951,
-      "total_pay": 12650000
-    },
     {
       "name": "Mr. Pawan A. Agrawal",
       "role": "Group CFO & CEO of International Business",
@@ -69,6 +55,20 @@
     {
       "name": "Mr. Vikram  Karwal",
       "role": "Chief Marketing Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Amit  Prakash",
+      "role": "Chief Human Resource Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. John  Mason",
+      "role": "Executive VP & MD of Marico South Africa Pty. Limited",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

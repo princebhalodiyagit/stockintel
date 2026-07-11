@@ -1,7 +1,7 @@
 {
   "ticker": "IPCALAB",
   "company": "IPCA Laboratories Limited",
-  "collected_at": "2026-07-10 05:49:36",
+  "collected_at": "2026-07-11 04:57:33",
   "directors": [
     {
       "name": "Mr. Premchand  Godha A.C. A., B. Com., CA",
@@ -25,34 +25,6 @@
       "total_pay": 106020945
     },
     {
-      "name": "Mr. Prashant Premchand Godha",
-      "role": "Executive Director",
-      "age": 51,
-      "year_born": 1974,
-      "total_pay": 71884778
-    },
-    {
-      "name": "Mr. Pawan  Kothari",
-      "role": "Vice President of Operations",
-      "age": 60,
-      "year_born": 1965,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Vishnu Saran Singh Kushwaha",
-      "role": "Vice President of Technical",
-      "age": 57,
-      "year_born": 1968,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Harish Pandurang Kamath",
-      "role": "Compliance Officer, Corporate Counsel & Company Secretary",
-      "age": 66,
-      "year_born": 1959,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Sunil  Ghai",
       "role": "President of Marketing",
       "age": 62,
@@ -71,6 +43,34 @@
       "role": "President of R&D - Chemicals",
       "age": 71,
       "year_born": 1954,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Anil Kumar Pareek",
+      "role": "President of Medical Affairs & Clinical Research",
+      "age": 68,
+      "year_born": 1957,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Kavita N. Sehwani",
+      "role": "President of Generics",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pabitra Kumar Kalipada Bhattacharyya",
+      "role": "President of Operations- API",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sameer S. Tamhane",
+      "role": "Senior Vice President of Human Resources",
+      "age": 58,
+      "year_born": 1967,
       "total_pay": "N/A"
     }
   ]

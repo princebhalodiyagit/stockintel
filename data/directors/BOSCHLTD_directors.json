@@ -1,35 +1,21 @@
 {
   "ticker": "BOSCHLTD",
   "company": "Bosch Limited",
-  "collected_at": "2026-07-10 05:39:19",
+  "collected_at": "2026-07-11 04:46:17",
   "directors": [
     {
       "name": "Mr. Sandeep  Nelamangala",
       "role": "Joint MD, President of Bosch Mobility India & Whole Time Executive Director",
       "age": 54,
       "year_born": 1971,
-      "total_pay": 44015129
+      "total_pay": 46651581
     },
     {
       "name": "Mr. Guruprasad  Mudlapur",
       "role": "MD, CTO & Whole Time Executive Director",
       "age": 59,
       "year_born": 1966,
-      "total_pay": 48101347
-    },
-    {
-      "name": "Ms. Karin  Gilges",
-      "role": "Executive VP of Finance & Administration and CFO",
-      "age": 56,
-      "year_born": 1969,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. V.  Srinivasan",
-      "role": "Company Secretary & Compliance Officer",
-      "age": 57,
-      "year_born": 1968,
-      "total_pay": "N/A"
+      "total_pay": 48771079
     },
     {
       "name": "Mr. S.  Karthik",
@@ -71,6 +57,20 @@
       "role": "Regional President of Power Solutions Division",
       "age": 51,
       "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Reethi  Sethi",
+      "role": "Regional President of Mobility After Market India & Senior VP",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Pallavi  Shastri",
+      "role": "Senior Vice President -HR",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

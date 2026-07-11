@@ -1,21 +1,21 @@
 {
   "ticker": "HAWKINCOOK",
   "company": "Hawkins Cookers Limited",
-  "collected_at": "2026-07-10 05:47:03",
+  "collected_at": "2026-07-11 04:54:43",
   "directors": [
     {
       "name": "Mr. Subhadip Dutta Choudhury B.Tech, Elec. Engg., IIM, IITPGDBA",
       "role": "Chairman, CEO & MD",
       "age": 57,
       "year_born": 1968,
-      "total_pay": 71136000
+      "total_pay": 81494000
     },
     {
       "name": "Mr. Sudeep Mahavir Yadav",
       "role": "Vice Chairman & CFO",
       "age": 57,
       "year_born": 1968,
-      "total_pay": 52499000
+      "total_pay": 60529000
     },
     {
       "name": "Mr. Brahmananda  Pani",
@@ -29,14 +29,14 @@
       "role": "Whole-Time Director & Executive Director of Sales",
       "age": 63,
       "year_born": 1962,
-      "total_pay": 26451000
+      "total_pay": 30166000
     },
     {
       "name": "Mr. Neil Brahm Vasudeva",
       "role": "Whole-Time Director & Executive Director-Marketing",
       "age": 54,
       "year_born": 1971,
-      "total_pay": 23929000
+      "total_pay": 26256000
     },
     {
       "name": "Captain K. S. Khera",
@@ -64,13 +64,6 @@
       "role": "Vice President of Manufacturing",
       "age": 65,
       "year_born": 1960,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Abhijeet  Bhende",
-      "role": "Vice President - Information Technology",
-      "age": 60,
-      "year_born": 1965,
       "total_pay": "N/A"
     }
   ]

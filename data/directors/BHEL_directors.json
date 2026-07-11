@@ -1,35 +1,28 @@
 {
   "ticker": "BHEL",
   "company": "Bharat Heavy Electricals Limited",
-  "collected_at": "2026-07-10 05:38:42",
+  "collected_at": "2026-07-11 04:45:39",
   "directors": [
     {
       "name": "Mr. Koppu Sadashiv Murthy",
       "role": "Chairman & MD",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": 6569780
+      "total_pay": 7230311
     },
     {
       "name": "Mr. Rajesh Kumar Dwivedi",
       "role": "CFO, Director of Finance & Whole-Time Director",
       "age": 57,
       "year_born": 1968,
-      "total_pay": 5819450
-    },
-    {
-      "name": "Mr. Tajinder  Gupta",
-      "role": "Director of Power, Director of Human Resources & Whole-Time Director",
-      "age": 57,
-      "year_born": 1968,
-      "total_pay": 6697336
+      "total_pay": 6472225
     },
     {
       "name": "Ms. Bani  Varma",
       "role": "Head of EDN-Bengaluru, TBSG-ND, Director of Industrial Systems & Products & E, R&D WTD",
       "age": 57,
       "year_born": 1968,
-      "total_pay": 7056255
+      "total_pay": 7630269
     },
     {
       "name": "Ms. H.  Malathi",
@@ -69,6 +62,13 @@
     {
       "name": "Mr. Sumeet  Salhotra",
       "role": "General Manager & Head of COC - New Delhi",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ajay Kumar Verma",
+      "role": "GM, Head of COM - New Delhi & Executive Director",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

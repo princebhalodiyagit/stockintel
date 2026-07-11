@@ -1,7 +1,7 @@
 {
   "ticker": "HEXT",
   "company": "Hexaware Technologies Limited",
-  "collected_at": "2026-07-10 05:47:26",
+  "collected_at": "2026-07-11 04:55:09",
   "directors": [
     {
       "name": "Mr. Ramakarthikeyan  Srikrishna",
@@ -60,18 +60,18 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Srinivasan  Panchapakesan",
-      "role": "Senior Corporate Vice President and Global Delivery Head of Digital & Software",
-      "age": 56,
-      "year_born": 1969,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Ravi  Vaidyanathan",
       "role": "President & Global Head of Financial Services",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 60800000
+    },
+    {
+      "name": "Mr. Eswaran  Venkatachalam",
+      "role": "Executive VP and Global Head of Travel & Transportation",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 52300000
     }
   ]
 }
