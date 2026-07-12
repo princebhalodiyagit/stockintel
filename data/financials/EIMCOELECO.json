@@ -1,21 +1,21 @@
 {
   "ticker": "EIMCOELECO",
-  "collected_at": "2026-07-11 04:50:30",
+  "collected_at": "2026-07-12 05:00:31",
   "company_info": {
     "name": "Eimco Elecon (India) Limited",
     "sector": "Industrials",
     "industry": "Farm & Heavy Construction Machinery",
     "market_cap": 10063523840,
     "current_price": 1744.6,
-    "pe_ratio": 25.972904,
+    "pe_ratio": 25.379692,
     "pb_ratio": 2.152594,
-    "roe": 0.08608,
+    "roe": "N/A",
     "debt_to_equity": 0.93,
-    "revenue": 2329958912,
-    "net_income": 387132992,
-    "eps": 67.17,
-    "52_week_high": 2619.0,
+    "revenue": 2426168064,
+    "net_income": 396092000,
+    "eps": 68.74,
+    "52_week_high": 2588.0,
     "52_week_low": 1405.5,
-    "dividend_yield": 0.22
+    "dividend_yield": 0.23
   }
 }
