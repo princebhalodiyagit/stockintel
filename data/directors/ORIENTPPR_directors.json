@@ -1,7 +1,7 @@
 {
   "ticker": "ORIENTPPR",
   "company": "Orient Paper & Industries Limited",
-  "collected_at": "2026-07-12 05:14:40",
+  "collected_at": "2026-07-13 05:21:02",
   "directors": [
     {
       "name": "Mr. Anant  Agarwal",
@@ -15,6 +15,20 @@
       "role": "Chief Financial Officer",
       "age": 48,
       "year_born": 1977,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ram Prasad Dutta",
+      "role": "Compliance Officer & Company Secretary",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Yogendra Kumar Varshney",
+      "role": "Chief Operating Officer",
+      "age": 54,
+      "year_born": 1971,
       "total_pay": "N/A"
     },
     {
@@ -55,13 +69,6 @@
     {
       "name": "Mr. Saikat  Basu",
       "role": "Chief Sales Officer of Paper Business",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Pankaj  Sharma",
-      "role": "VP and Head of Engineering & Projects",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

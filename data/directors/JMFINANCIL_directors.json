@@ -1,7 +1,7 @@
 {
   "ticker": "JMFINANCIL",
   "company": "JM Financial Limited",
-  "collected_at": "2026-07-12 05:07:43",
+  "collected_at": "2026-07-13 05:14:13",
   "directors": [
     {
       "name": "Mr. Vishal Nimesh Kampani",
@@ -18,6 +18,13 @@
       "total_pay": 75300216
     },
     {
+      "name": "Mr. Nishit  Shah",
+      "role": "MD & CFO",
+      "age": 43,
+      "year_born": 1982,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Ms. Sonia  Dasgupta",
       "role": "MD & CEO of Investment Banking",
       "age": 53,
@@ -27,13 +34,6 @@
     {
       "name": "Mr. Abhishek  Bhagat",
       "role": "Managing Director of Technology, Media & Telecom",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Hemant Vijay Pandya",
-      "role": "Company Secretary & Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

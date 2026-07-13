@@ -1,7 +1,7 @@
 {
   "ticker": "RAYMOND",
   "company": "Raymond Limited",
-  "collected_at": "2026-07-12 05:17:14",
+  "collected_at": "2026-07-13 05:23:36",
   "directors": [
     {
       "name": "Mr. Gautam Hari Vijaypat Singhania",
@@ -9,6 +9,13 @@
       "age": 60,
       "year_born": 1965,
       "total_pay": 38367000
+    },
+    {
+      "name": "Mr. Rakesh Kumar Tiwary",
+      "role": "Group Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Rakesh Muljibhai Darji",
@@ -22,13 +29,6 @@
       "role": "Head of Corporate Communications",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Ram Krishna Bhatnagar",
-      "role": "VP and Head of Sales & Distribution",
-      "age": 65,
-      "year_born": 1960,
       "total_pay": "N/A"
     },
     {
@@ -46,15 +46,22 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Balasubramanian  V.",
-      "role": "Managing Director of JK Files & Engineering Ltd",
+      "name": "Mr. Navin  Sharma",
+      "role": "Chief Financial Officer of Engineering Business",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Ravi Raj Hudda",
-      "role": "Chief Digital & Information Officer",
+      "name": "Mr. Gautam  Maini",
+      "role": "Managing Director - Engineering Business",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Sanjeev  Sharma",
+      "role": "Joint MD & CEO of Precision Technology and Auto components Business",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

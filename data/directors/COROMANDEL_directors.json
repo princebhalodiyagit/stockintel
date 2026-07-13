@@ -1,7 +1,7 @@
 {
   "ticker": "COROMANDEL",
   "company": "Coromandel International Limited",
-  "collected_at": "2026-07-12 04:58:25",
+  "collected_at": "2026-07-13 05:05:15",
   "directors": [
     {
       "name": "Mr. Arun  Alagappan",
@@ -18,10 +18,17 @@
       "total_pay": 50680000
     },
     {
+      "name": "Mr. Narayanan  Vellayan",
+      "role": "Executive Director of Nutrient Business",
+      "age": 39,
+      "year_born": 1986,
+      "total_pay": 41806000
+    },
+    {
       "name": "Mr. Arunachalam  Vellayan",
       "role": "Whole-Time Director of Corporate & Strategic Planning",
-      "age": "N/A",
-      "year_born": "N/A",
+      "age": 43,
+      "year_born": 1982,
       "total_pay": 48174000
     },
     {
@@ -60,17 +67,10 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Ambadasu Ramachandra Rao B.Tech (Mech)",
-      "role": "Senior Vice President of Projects",
-      "age": 66,
-      "year_born": 1959,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Amir  Alvi",
-      "role": "Chief Operating Officer of Fertilisers",
-      "age": 57,
-      "year_born": 1968,
+      "name": "Mr. Anirban Deb Ray",
+      "role": "General Counsel",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

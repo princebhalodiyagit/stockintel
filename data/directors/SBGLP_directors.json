@@ -1,6 +1,49 @@
 {
   "ticker": "SBGLP",
   "company": "Suratwwala Business Group Limited",
-  "collected_at": "2026-07-12 05:19:12",
-  "directors": []
+  "collected_at": "2026-07-13 05:25:32",
+  "directors": [
+    {
+      "name": "Mr. Jatin Dhansukhlal Suratwala",
+      "role": "Chairman & MD",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": 4800000
+    },
+    {
+      "name": "Mr. Manish  Kasliwal",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Pooja  Thorave",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manoj Dhansukhlal Suratwala",
+      "role": "Whole Time Director",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": 4800000
+    },
+    {
+      "name": "Mr. Hitendra Arvind Suratwala",
+      "role": "Director of Sales",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Bhavana  Wakchaure",
+      "role": "Head of Human Resource",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

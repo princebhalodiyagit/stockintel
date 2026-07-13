@@ -1,7 +1,7 @@
 {
   "ticker": "CAMPUS",
   "company": "Campus Activewear Limited",
-  "collected_at": "2026-07-12 04:57:04",
+  "collected_at": "2026-07-13 05:03:56",
   "directors": [
     {
       "name": "Mr. Hari Krishan Agarwal",
@@ -16,6 +16,62 @@
       "age": 40,
       "year_born": 1985,
       "total_pay": 33000000
+    },
+    {
+      "name": "Ms. Archana  Maini",
+      "role": "General Counsel, Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Uplaksh  Tewary",
+      "role": "Chief Operating Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajneesh  Sharma",
+      "role": "Chief Technology Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Gaurav  Sharma",
+      "role": "Chief Marketing Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Alka  Monga",
+      "role": "Assistant Vice President of Human Resource",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Prerna  Aggarwal",
+      "role": "Chief Innovation Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Chandresh  Sharma",
+      "role": "Head of Development & Commercialization",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Murlidhar  Mishra",
+      "role": "Head of Production",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

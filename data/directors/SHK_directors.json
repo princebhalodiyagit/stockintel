@@ -1,7 +1,7 @@
 {
   "ticker": "SHK",
   "company": "S H Kelkar and Company Limited",
-  "collected_at": "2026-07-12 05:20:00",
+  "collected_at": "2026-07-13 05:26:20",
   "directors": [
     {
       "name": "Mr. Kedar Ramesh Vaze",
@@ -27,6 +27,13 @@
     {
       "name": "Mr. Swapneel  Kore",
       "role": "Chief Information Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Deepti S. Chandratre",
+      "role": "Global Legal Counsel & Company Secretary",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
@@ -62,13 +69,6 @@
     {
       "name": "Mr. B  Ramakrishnan",
       "role": "CEO of Fragrances, Asia & U.S.A.",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Natarajan  Krishnan",
-      "role": "Chief Executive Officer - Keva Flavours Private Limited",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

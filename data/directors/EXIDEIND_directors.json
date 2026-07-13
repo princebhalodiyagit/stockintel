@@ -1,7 +1,7 @@
 {
   "ticker": "EXIDEIND",
   "company": "Exide Industries Limited",
-  "collected_at": "2026-07-12 05:01:26",
+  "collected_at": "2026-07-13 05:08:08",
   "directors": [
     {
       "name": "Mr. Avik Kumar Roy",
@@ -16,6 +16,20 @@
       "age": 55,
       "year_born": 1970,
       "total_pay": 32736247
+    },
+    {
+      "name": "Mr. Pravin Ramchandra Saraf",
+      "role": "Executive Director",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": 26214759
+    },
+    {
+      "name": "Mr. Rajeev Ramesh Chand Khandelwal",
+      "role": "Executive Director",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": 39227408
     },
     {
       "name": "Mr. Amol  Mehra",
@@ -55,20 +69,6 @@
     {
       "name": "Mr. Indranil  Chatterjee",
       "role": "Executive VP & Head Operations",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Mandar Vighnahari Deo",
-      "role": "Managing Director & Chief Executive Officer at EESL",
-      "age": 49,
-      "year_born": 1976,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Amit  Banerjee",
-      "role": "General Manager of Operations",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

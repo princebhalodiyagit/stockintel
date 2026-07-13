@@ -1,7 +1,7 @@
 {
   "ticker": "TIL",
   "company": "TIL Limited",
-  "collected_at": "2026-07-12 05:23:41",
+  "collected_at": "2026-07-13 05:30:00",
   "directors": [
     {
       "name": "Mr. Sunil Kumar Chaturvedi B.Com., C.A.",
@@ -23,6 +23,27 @@
       "age": 49,
       "year_born": 1976,
       "total_pay": 7000000
+    },
+    {
+      "name": "Mr. Pinaki  Niyogy",
+      "role": "Chief Growth & Technology Officer",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": 11842324
+    },
+    {
+      "name": "Ms. Chandrani  Chatterjee",
+      "role": "Company Secretary & Head-Legal and Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 3800000
+    },
+    {
+      "name": "Mr. Ayan  Banerjee",
+      "role": "Director of Finance & Whole Time Director",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": 15937963
     },
     {
       "name": "Mr. Rishabh P. Nair",
@@ -50,27 +71,6 @@
       "role": "Head of Supply Chain & Commercial",
       "age": 57,
       "year_born": 1968,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Arvind  Rishi",
-      "role": "Head of Sales & Aftermarket - All India",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Nithyanandan  Elumalai",
-      "role": "Head of Product Engineering",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. P. S. Vombatkere",
-      "role": "Head of Naval Defence",
-      "age": "N/A",
-      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

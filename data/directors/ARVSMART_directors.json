@@ -1,7 +1,7 @@
 {
   "ticker": "ARVSMART",
   "company": "Arvind SmartSpaces Limited",
-  "collected_at": "2026-07-12 04:54:02",
+  "collected_at": "2026-07-13 05:00:58",
   "directors": [
     {
       "name": "Mr. Kamal Sham Lal Singal",
@@ -39,6 +39,13 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. Tarpit  Patni",
+      "role": "Head of Legal",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Vishal  Balesh",
       "role": "Chief Sales & Marketing Officer",
       "age": "N/A",
@@ -64,13 +71,6 @@
       "role": "Head of Process Assurances & Commercial Controls",
       "age": 56,
       "year_born": 1969,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Pankaj Bimal Mohan Jain",
-      "role": "Head of CRM",
-      "age": 53,
-      "year_born": 1972,
       "total_pay": "N/A"
     }
   ]

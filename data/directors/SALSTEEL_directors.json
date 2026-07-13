@@ -1,7 +1,7 @@
 {
   "ticker": "SALSTEEL",
   "company": "S.A.L. Steel Limited",
-  "collected_at": "2026-07-12 05:18:44",
+  "collected_at": "2026-07-13 05:25:04",
   "directors": [
     {
       "name": "Mr. Kaustubh  Agarwal",
@@ -15,6 +15,27 @@
       "role": "Additional Whole Time Director",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anil Kumar Singh",
+      "role": "CFO & Whole-Time Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Devilal J. Shah",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kiritkumar R. Shah",
+      "role": "Assistant General Manager of Marketing",
+      "age": 72,
+      "year_born": 1953,
       "total_pay": "N/A"
     }
   ]

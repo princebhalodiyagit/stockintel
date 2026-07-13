@@ -1,13 +1,69 @@
 {
   "ticker": "GRINDWELL",
   "company": "Grindwell Norton Limited",
-  "collected_at": "2026-07-12 05:03:39",
+  "collected_at": "2026-07-13 05:10:14",
   "directors": [
     {
       "name": "Mr. Venugopal Ramnath Shanbhag",
       "role": "MD & Whole-time Executive Director",
       "age": 55,
       "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Prakash  Sabarad",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Girish Thanwardas Shajani",
+      "role": "Company Secretary, Compliance Officer & Nodal Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Hari  Singudasu",
+      "role": "Executive Director",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anand  Bhushan",
+      "role": "Chief Operating Officer of INDEC",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Amit  Koul",
+      "role": "Vice President of Abrasives",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Denis  D'Silva",
+      "role": "Manager of Accounts",
+      "age": 69,
+      "year_born": 1956,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Anwesa  Sen",
+      "role": "Head of Human Resources",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Nilesh  Ved",
+      "role": "Head Internal Audit",
+      "age": 52,
+      "year_born": 1973,
       "total_pay": "N/A"
     }
   ]

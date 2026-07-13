@@ -1,6 +1,77 @@
 {
   "ticker": "TRF",
   "company": "TRF Limited",
-  "collected_at": "2026-07-12 05:24:12",
-  "directors": []
+  "collected_at": "2026-07-13 05:30:30",
+  "directors": [
+    {
+      "name": "Mr. Umesh Kumar Singh",
+      "role": "MD & Executive Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 17994000
+    },
+    {
+      "name": "Mr. Animesh  Upadhyay",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anil Kumar Singh",
+      "role": "Vice President of Operations",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manoranjan  Chakra",
+      "role": "Head of Finance & Accounts",
+      "age": 42,
+      "year_born": 1983,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Avishek  Ghosh",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Rajen  Sahay",
+      "role": "Head of Corporate Communications",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Abhijeet  Singh",
+      "role": "Chief Human Resources Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Vinod Kumar Singh",
+      "role": "General Manager of Manufacturing",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Farooq  Basha",
+      "role": "Head of Contracts",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Nripendra Nath Brian",
+      "role": "Head of QAD",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": "N/A"
+    }
+  ]
 }

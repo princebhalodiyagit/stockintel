@@ -1,7 +1,7 @@
 {
   "ticker": "BBL",
   "company": "Bharat Bijlee Limited",
-  "collected_at": "2026-07-12 04:55:37",
+  "collected_at": "2026-07-13 05:02:32",
   "directors": [
     {
       "name": "Mr. Nakul Prahlad Mehta",
@@ -30,6 +30,34 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 7500000
+    },
+    {
+      "name": "Mr. Shome Nikhil Danani",
+      "role": "Whole-time Director",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": 69315600
+    },
+    {
+      "name": "Gayatri  Hingorani",
+      "role": "General Manager of Corporate Communications",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Pravin  Gharlute",
+      "role": "Vice President of Human Resources",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Aarti  Madhankar",
+      "role": "General Manager of Human Resources",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

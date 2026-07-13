@@ -1,6 +1,21 @@
 {
   "ticker": "NBIFIN",
   "company": "N. B. I. Industrial Finance Company Limited",
-  "collected_at": "2026-07-12 05:13:02",
-  "directors": []
+  "collected_at": "2026-07-13 05:19:26",
+  "directors": [
+    {
+      "name": "Mr. Sundrapandiyapuram Pichumani Kumar",
+      "role": "Manager & CFO",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 2494000
+    },
+    {
+      "name": "Mr. Ashish  Kedia",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 2267000
+    }
+  ]
 }

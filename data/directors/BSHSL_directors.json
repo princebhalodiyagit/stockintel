@@ -1,13 +1,20 @@
 {
   "ticker": "BSHSL",
   "company": "Bombay Super Hybrid Seeds Limited",
-  "collected_at": "2026-07-12 04:56:54",
+  "collected_at": "2026-07-13 05:03:47",
   "directors": [
     {
       "name": "Mr. Arvindkumar Jadavjibhai Kakadia",
       "role": "Chairman & MD",
       "age": 42,
       "year_born": 1983,
+      "total_pay": 6000000
+    },
+    {
+      "name": "Mr. Kiritkumar Jadavjibhai Kakadia",
+      "role": "CFO & Whole Time Director",
+      "age": 44,
+      "year_born": 1981,
       "total_pay": 6000000
     },
     {
@@ -22,6 +29,13 @@
       "role": "Executive Director",
       "age": 67,
       "year_born": 1958,
+      "total_pay": 1200000
+    },
+    {
+      "name": "Mr. Kishorkumar Devrajbhai Kakadiya",
+      "role": "Executive Director",
+      "age": 59,
+      "year_born": 1966,
       "total_pay": 1200000
     },
     {

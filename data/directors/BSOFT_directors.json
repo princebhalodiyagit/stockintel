@@ -1,7 +1,7 @@
 {
   "ticker": "BSOFT",
   "company": "BIRLASOFT LIMITED",
-  "collected_at": "2026-07-12 04:56:56",
+  "collected_at": "2026-07-13 05:03:49",
   "directors": [
     {
       "name": "Mr. Angan Arun Guha",
@@ -9,6 +9,41 @@
       "age": 56,
       "year_born": 1969,
       "total_pay": 468010000
+    },
+    {
+      "name": "Mr. Chandrasekar  Thyagarajan",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vikram  Puranik",
+      "role": "Chief Operating Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anup V. Sable",
+      "role": "Executive VP & CTO",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Abhinandan  Singh",
+      "role": "Head of Investor Relations",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Sneha Prashant Padve",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Pankaj M. Sathe",
@@ -36,41 +71,6 @@
       "role": "Head of Sales",
       "age": 49,
       "year_born": 1976,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Probodh  Chiplunkar",
-      "role": "Global Head of Digital Transformation Business Unit",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Rajeev R. Kulkarni",
-      "role": "Global Head of ePLM Strategic Business Unit",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Satish  Kumar",
-      "role": "General Manager of Brazil and Head of Delivery & Smart Manufacturing",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Rohit S. Natekar",
-      "role": "Head of Sales",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ms. Sumedha A. Nashikkar",
-      "role": "Head of Process Excellence Group & Six Sigma",
-      "age": 63,
-      "year_born": 1962,
       "total_pay": "N/A"
     }
   ]

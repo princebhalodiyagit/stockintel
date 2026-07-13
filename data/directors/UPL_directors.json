@@ -1,6 +1,77 @@
 {
   "ticker": "UPL",
   "company": "UPL Limited",
-  "collected_at": "2026-07-12 05:24:57",
-  "directors": []
+  "collected_at": "2026-07-13 05:31:15",
+  "directors": [
+    {
+      "name": "Mr. Jaidev Rajnikant Shroff B.Sc.",
+      "role": "Chairman & Group CEO",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": 762703785
+    },
+    {
+      "name": "Mr. Vikram Rajnikant Shroff B.Sc., Chemistry",
+      "role": "Vice-Chairman & Co-CEO of UPL Group",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": 381351892
+    },
+    {
+      "name": "Mr. Raj Kumar Tiwari",
+      "role": "Whole-Time Director",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": 44400000
+    },
+    {
+      "name": "Mr. Bikash  Prasad",
+      "role": "Group Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Toshan Ajay Tamhane",
+      "role": "Global Chief Operating Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Rahul R. Jadhav",
+      "role": "Senior General Manager of Accounts",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anurag  Gupta",
+      "role": "Head of Investor Relations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sandeep Mohan Deshmukh",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sujoy  Mazumdar",
+      "role": "Group General Counsel",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. K. R. Srivastava B.Chem, DSM, PGDBMA(IIM)",
+      "role": "Chief Operating Officer of Specialty Chemicals",
+      "age": 67,
+      "year_born": 1958,
+      "total_pay": "N/A"
+    }
+  ]
 }

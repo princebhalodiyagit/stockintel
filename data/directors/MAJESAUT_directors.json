@@ -1,7 +1,7 @@
 {
   "ticker": "MAJESAUT",
   "company": "Majestic Auto Limited",
-  "collected_at": "2026-07-12 05:10:42",
+  "collected_at": "2026-07-13 05:17:08",
   "directors": [
     {
       "name": "Mr. Mahesh Chander Munjal",
@@ -16,6 +16,13 @@
       "age": 38,
       "year_born": 1987,
       "total_pay": 34211000
+    },
+    {
+      "name": "Mr. Nishant  Sharma",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

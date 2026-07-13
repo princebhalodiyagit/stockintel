@@ -1,20 +1,13 @@
 {
   "ticker": "KRISHNADEF",
   "company": "Krishna Defence And Allied Industries Limited",
-  "collected_at": "2026-07-12 05:09:21",
+  "collected_at": "2026-07-13 05:15:48",
   "directors": [
     {
       "name": "Mr. Ankur Ashwin Shah",
       "role": "MD & Director",
       "age": 47,
       "year_born": 1978,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Piyush Harjibhai Patel",
-      "role": "Chief Financial Officer",
-      "age": 50,
-      "year_born": 1975,
       "total_pay": "N/A"
     },
     {
@@ -25,7 +18,14 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Ajinkya  Gaikwad",
+      "name": "Mr. Manish  Shah",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ajinkya  Gaikwad",
       "role": "Head of Marketing & Defence",
       "age": "N/A",
       "year_born": "N/A",
@@ -34,6 +34,13 @@
     {
       "name": "Mr. Rohit  Shintre",
       "role": "Head of Product Development",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Harshadsinh  Mahida",
+      "role": "Additional Whole Time Director",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

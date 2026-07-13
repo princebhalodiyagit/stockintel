@@ -1,7 +1,7 @@
 {
   "ticker": "SPARC",
   "company": "Sun Pharma Advanced Research Company Limited",
-  "collected_at": "2026-07-12 05:21:08",
+  "collected_at": "2026-07-13 05:27:28",
   "directors": [
     {
       "name": "Mr. Anilkumar  Raghavan",
@@ -13,6 +13,13 @@
     {
       "name": "Mr. Anup  Rathi",
       "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Prasanna  Deshmukh",
+      "role": "Head of Human Resources & Administration",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
@@ -34,6 +41,34 @@
     {
       "name": "Mr. Narendra  Lakkad",
       "role": "Head of Corporate Development & Operations Management",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Siu-Long  Yao",
+      "role": "Head Clinical Development",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Nitin K. Damle Ph.D.",
+      "role": "Executive VP of Biologics & Chief Innovation Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Yashoraj  Zala",
+      "role": "Head of Drug Delivery Systems",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Vikram K. Ramanathan",
+      "role": "Head of Drug Discovery & Preclinical Development",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

@@ -1,7 +1,7 @@
 {
   "ticker": "HDFCBANK",
   "company": "HDFC Bank Limited",
-  "collected_at": "2026-07-12 05:04:29",
+  "collected_at": "2026-07-13 05:11:02",
   "directors": [
     {
       "name": "Mr. Sashidhar  Jagdishan",
@@ -27,8 +27,8 @@
     {
       "name": "Mr. Srinivasan  Vaidyanathan",
       "role": "Chief Financial Officer",
-      "age": 60,
-      "year_born": 1965,
+      "age": 61,
+      "year_born": 1964,
       "total_pay": 30179680
     },
     {
@@ -36,13 +36,6 @@
       "role": "Group Head of Operations, ATM & Administration",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Rakesh K. Singh",
-      "role": "Group Head of Private Banking, International Banking, Financial Institutions & BaaS",
-      "age": 55,
-      "year_born": 1970,
       "total_pay": "N/A"
     },
     {
@@ -71,6 +64,13 @@
       "role": "Head of Corporate Communications",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ravi  Santhanam",
+      "role": "Chief Marketing Officer & Group Head",
+      "age": 54,
+      "year_born": 1971,
       "total_pay": "N/A"
     }
   ]

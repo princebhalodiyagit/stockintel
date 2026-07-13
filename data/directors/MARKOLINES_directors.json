@@ -1,7 +1,7 @@
 {
   "ticker": "MARKOLINES",
   "company": "Markolines Pavement Technologies Limited",
-  "collected_at": "2026-07-12 05:11:07",
+  "collected_at": "2026-07-13 05:17:32",
   "directors": [
     {
       "name": "Mr. Sanjay Bhanudas Patil",
@@ -41,6 +41,13 @@
     {
       "name": "Mr. Sriniwas P. Nagarkar",
       "role": "Director of Technical",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Aniruddha M. Hublikar",
+      "role": "Company Secretary & Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

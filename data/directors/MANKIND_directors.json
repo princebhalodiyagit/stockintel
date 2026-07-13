@@ -1,35 +1,28 @@
 {
   "ticker": "MANKIND",
   "company": "Mankind Pharma Limited",
-  "collected_at": "2026-07-12 05:10:56",
+  "collected_at": "2026-07-13 05:17:22",
   "directors": [
-    {
-      "name": "Mr. Ramesh C. Juneja",
-      "role": "Whole-Time Director & Executive Chairman",
-      "age": 70,
-      "year_born": 1955,
-      "total_pay": 259400000
-    },
     {
       "name": "Mr. Sheetal  Arora",
       "role": "CEO & Whole-Time Director",
       "age": 50,
       "year_born": 1975,
-      "total_pay": 152300000
+      "total_pay": 83000000
     },
     {
       "name": "Mr. Rajeev  Juneja",
       "role": "Vice Chairman & MD",
       "age": 60,
       "year_born": 1965,
-      "total_pay": 287300000
+      "total_pay": 195700000
     },
     {
       "name": "Mr. Satish Kumar Sharma",
       "role": "Whole-Time Director",
       "age": 52,
       "year_born": 1973,
-      "total_pay": 10700000
+      "total_pay": 11600000
     },
     {
       "name": "Mr. Ashutosh  Dhawan MBA",
@@ -64,13 +57,6 @@
       "role": "Director of Finance, Human Resources & Admin",
       "age": 78,
       "year_born": 1947,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Hitesh Kumar Jain",
-      "role": "Company Secretary & Compliance officer",
-      "age": "N/A",
-      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

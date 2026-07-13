@@ -1,7 +1,7 @@
 {
   "ticker": "CROMPTON",
   "company": "Crompton Greaves Consumer Electricals Limited",
-  "collected_at": "2026-07-12 04:58:40",
+  "collected_at": "2026-07-13 05:05:28",
   "directors": [
     {
       "name": "Mr. Promeet Promode Ghosh",
@@ -27,6 +27,13 @@
     {
       "name": "Ms. Natasha  Kedia",
       "role": "Head of Investor Relations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajat  Chopra",
+      "role": "Group Sales & Service Head",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
@@ -60,15 +67,8 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Ketan  Chaudhari",
-      "role": "Head of Product Line - Small Domestic Appliances",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Malhar  Vadke",
-      "role": "Head of Product Line - Large Domestic Appliances",
+      "name": "Mr. Sachin  Phartiyal",
+      "role": "Head of Home Electricals Business Unit",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

@@ -1,7 +1,7 @@
 {
   "ticker": "DYCL",
   "company": "Dynamic Cables Limited",
-  "collected_at": "2026-07-12 05:00:16",
+  "collected_at": "2026-07-13 05:07:00",
   "directors": [
     {
       "name": "Mr. Ashish  Mangal",
@@ -25,13 +25,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Ms. Shalu  Mangal",
-      "role": "Vice President of Accounts",
-      "age": 46,
-      "year_born": 1979,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Govind  Saboo",
       "role": "Member of Advisory Board & Lead of Investor Relation Function",
       "age": 42,
@@ -47,14 +40,21 @@
     },
     {
       "name": "Ms. Aditi  Mangal",
-      "role": "Head of HR & Corporate Communication",
+      "role": "Head of Human Resource & Corporate Communication",
       "age": 24,
       "year_born": 2001,
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. Suresh  Kadam",
+      "role": "Vice- President of Marketing & Sales",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Rasik  Mangal",
-      "role": "Senior Manager of Marketing",
+      "role": "General Manager of Marketing",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
@@ -64,6 +64,13 @@
       "role": "Head of Design Department",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Shalu  Mangal",
+      "role": "Vice President of Accounts",
+      "age": 46,
+      "year_born": 1979,
       "total_pay": "N/A"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "ticker": "AXISBANK",
   "company": "Axis Bank Limited",
-  "collected_at": "2026-07-12 04:54:54",
+  "collected_at": "2026-07-13 05:01:50",
   "directors": [
     {
       "name": "Mr. Amitabh  Chaudhry",
@@ -19,7 +19,7 @@
     },
     {
       "name": "Mr. Subrat  Mohanty",
-      "role": "Executive Director of Banking Operations & Transformation",
+      "role": "Executive Director of Banking Operations & Transformation and Director",
       "age": 48,
       "year_born": 1977,
       "total_pay": 61294295
@@ -30,6 +30,13 @@
       "age": 54,
       "year_born": 1971,
       "total_pay": 57022882
+    },
+    {
+      "name": "Mr. Puneet Mahendra Sharma",
+      "role": "Group Head & Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 18405083
     },
     {
       "name": "Mr. Julius  Samson",
@@ -60,17 +67,10 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Jitendra Pratap Singh",
-      "role": "President of Commercial Banking Group",
-      "age": 64,
-      "year_born": 1961,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Arvind  Arya",
-      "role": "Executive VP & Head Wholesale Banking Operations",
-      "age": 62,
-      "year_born": 1963,
+      "name": "Ms. Rajkamal  Vempati",
+      "role": "Group Head of Human Resources",
+      "age": 48,
+      "year_born": 1977,
       "total_pay": "N/A"
     }
   ]

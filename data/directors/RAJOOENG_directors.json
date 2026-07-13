@@ -1,7 +1,7 @@
 {
   "ticker": "RAJOOENG",
   "company": "Rajoo Engineers Limited",
-  "collected_at": "2026-07-12 05:16:55",
+  "collected_at": "2026-07-13 05:23:17",
   "directors": [
     {
       "name": "Mr. Rajesh Nanalal Doshi B.Sc.",
@@ -23,6 +23,13 @@
       "age": 40,
       "year_born": 1985,
       "total_pay": 5100000
+    },
+    {
+      "name": "Mr. Sunil B. Jain",
+      "role": "President",
+      "age": 70,
+      "year_born": 1955,
+      "total_pay": 4800000
     },
     {
       "name": "Mr. Chintan B. Malkan",

@@ -1,7 +1,7 @@
 {
   "ticker": "UCOBANK",
   "company": "UCO Bank",
-  "collected_at": "2026-07-12 05:24:31",
+  "collected_at": "2026-07-13 05:30:49",
   "directors": [
     {
       "name": "Mr. Rajendra Kumar Saboo",
@@ -16,6 +16,27 @@
       "age": 58,
       "year_born": 1967,
       "total_pay": 5659000
+    },
+    {
+      "name": "Mr. Sumit  Khandelwal",
+      "role": "GM of Finance Department & CFO",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ankit  Rana",
+      "role": "GM of General Administration Department",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Neeraj  Daporkar",
+      "role": "GM & Chief Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Rajesh  Nagar",
@@ -41,6 +62,13 @@
     {
       "name": "Mr. Abhimannu  Rajak",
       "role": "Chief General Manager of Department of Information Technology",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vikash  Gupta",
+      "role": "Company Secretary",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

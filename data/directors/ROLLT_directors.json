@@ -1,6 +1,21 @@
 {
   "ticker": "ROLLT",
   "company": "Rollatainers Limited",
-  "collected_at": "2026-07-12 05:17:56",
-  "directors": []
+  "collected_at": "2026-07-13 05:24:17",
+  "directors": [
+    {
+      "name": "Mr. Anshul  Jolly",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Aditi  Jain",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 517980
+    }
+  ]
 }

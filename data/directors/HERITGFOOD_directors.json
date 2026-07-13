@@ -1,7 +1,7 @@
 {
   "ticker": "HERITGFOOD",
   "company": "Heritage Foods Limited",
-  "collected_at": "2026-07-12 05:04:38",
+  "collected_at": "2026-07-13 05:11:10",
   "directors": [
     {
       "name": "Mr. Srideep Madhavan Nair Kesavan",
@@ -18,10 +18,24 @@
       "total_pay": 96030000
     },
     {
+      "name": "Mr. A. Prabhakara Naidu CA",
+      "role": "Chief Financial Officer",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Jangam Samba Murthy B.Sc.",
       "role": "Chief Operating Officer",
       "age": 58,
       "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Puneet  Kusumbia",
+      "role": "Head of Marketing & VP of Marketing",
+      "age": 47,
+      "year_born": 1978,
       "total_pay": "N/A"
     },
     {
@@ -37,6 +51,27 @@
       "age": 38,
       "year_born": 1987,
       "total_pay": 76820000
+    },
+    {
+      "name": "Mr. L.  Srinivas",
+      "role": "Senior Vice President",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ashish Kumar Srivastava",
+      "role": "Vice President",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Umakanta  Barik CS",
+      "role": "Nodal Officer, Compliance Officer & Company Secretary",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": 4930000
     }
   ]
 }

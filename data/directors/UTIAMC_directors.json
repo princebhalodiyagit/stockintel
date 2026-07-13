@@ -1,6 +1,77 @@
 {
   "ticker": "UTIAMC",
   "company": "UTI Asset Management Company Limited",
-  "collected_at": "2026-07-12 05:25:01",
-  "directors": []
+  "collected_at": "2026-07-13 05:31:19",
+  "directors": [
+    {
+      "name": "Mr. Vetri Murugan Subramaniam",
+      "role": "Chief Investment Officer, MD & CEO",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": 266354172
+    },
+    {
+      "name": "Mr. Kapil  Udaiwal",
+      "role": "President & Head of Human Resources",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vinay  Lakhotia",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Lalit  Nambiar",
+      "role": "Senior Vice President, Head of Research and Fund Manager of Equities",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sandeep Vivek Samsi",
+      "role": "Head of Marketing, Corporate Communication & Investor Relations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Surojit  Saha",
+      "role": "Chief Legal Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Akshay  Dhumal",
+      "role": "Chief Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Peshotan  Dastoor",
+      "role": "Head of Sales",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. B. S. Pandit",
+      "role": "Executive Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Swati Anil Kulkarni CFA",
+      "role": "Executive Vice President and Fund Manager of Equities",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

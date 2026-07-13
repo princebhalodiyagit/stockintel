@@ -1,7 +1,7 @@
 {
   "ticker": "JSWSTEEL",
   "company": "JSW Steel Limited",
-  "collected_at": "2026-07-12 05:07:56",
+  "collected_at": "2026-07-13 05:14:26",
   "directors": [
     {
       "name": "Mr. Sajjan Kumar Jindal B.E.",
@@ -30,6 +30,13 @@
       "age": 55,
       "year_born": 1970,
       "total_pay": 65400000
+    },
+    {
+      "name": "Mr. Swayam  Saurabh",
+      "role": "Chief Financial Officer",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Ashwin Shivkumar Bajaj",
@@ -64,13 +71,6 @@
       "role": "Executive Vice President of Corporate Strategy & Development",
       "age": 54,
       "year_born": 1971,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. P. R. Kole B.Com, CA, LLB",
-      "role": "Senior Vice President of Finance & Accounts",
-      "age": 64,
-      "year_born": 1961,
       "total_pay": "N/A"
     }
   ]

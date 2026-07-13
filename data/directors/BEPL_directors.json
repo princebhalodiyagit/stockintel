@@ -1,7 +1,7 @@
 {
   "ticker": "BEPL",
   "company": "Bhansali Engineering Polymers Limited",
-  "collected_at": "2026-07-12 04:55:54",
+  "collected_at": "2026-07-13 05:02:48",
   "directors": [
     {
       "name": "Mr. Babulal Mishrimal Bhansali",
@@ -16,6 +16,34 @@
       "age": 42,
       "year_born": 1983,
       "total_pay": 123853000
+    },
+    {
+      "name": "Mr. Ashwin Manilal Patel",
+      "role": "Company Secretary, GM of Legal & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Dilip Krushnarao Shendre",
+      "role": "Whole-Time Director and Executive Director of Manufacturing & Projects",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": 4228000
+    },
+    {
+      "name": "Mr. Satendra  Pal",
+      "role": "Senior Vice President of Marketing",
+      "age": 66,
+      "year_born": 1959,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Jung Rea Cho",
+      "role": "Vice President of Marketing",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": "N/A"
     }
   ]
 }

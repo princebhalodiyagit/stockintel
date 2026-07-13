@@ -1,7 +1,7 @@
 {
   "ticker": "ADVANIHOTR",
   "company": "Advani Hotels & Resorts (India) Limited",
-  "collected_at": "2026-07-12 04:52:10",
+  "collected_at": "2026-07-13 04:59:09",
   "directors": [
     {
       "name": "Mr. Sunder Gurdas Advani",
@@ -43,6 +43,20 @@
       "role": "General Manager of Sales & Marketing",
       "age": 44,
       "year_born": 1981,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "R Jesu Raj",
+      "role": "Executive Chef",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Shaik Shahid Harihar",
+      "role": "Assistant Director of Revenue",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

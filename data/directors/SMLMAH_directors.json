@@ -1,13 +1,27 @@
 {
   "ticker": "SMLMAH",
   "company": "SML Mahindra Limited",
-  "collected_at": "2026-07-12 05:20:47",
+  "collected_at": "2026-07-13 05:27:07",
   "directors": [
     {
-      "name": "Dr. Venkataraman  Srinivasan",
-      "role": "CEO & Executive Director",
-      "age": 56,
-      "year_born": 1969,
+      "name": "Mr. Vinod Kumar Sahay",
+      "role": "Executive Chairman",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": 8000000
+    },
+    {
+      "name": "Mr. Pushkar  Patwardhan",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Parvesh  Madan",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     },
     {

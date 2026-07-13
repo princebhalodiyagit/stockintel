@@ -1,7 +1,7 @@
 {
   "ticker": "BEL",
   "company": "Bharat Electronics Limited",
-  "collected_at": "2026-07-12 04:55:49",
+  "collected_at": "2026-07-13 05:02:43",
   "directors": [
     {
       "name": "Mr. Manoj  Jain",
@@ -16,6 +16,62 @@
       "age": 59,
       "year_born": 1966,
       "total_pay": 8362952
+    },
+    {
+      "name": "Mr. Rajnish  Sharma",
+      "role": "Director of Marketing, Director of Bangalore Complex & Director",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": 6276605
+    },
+    {
+      "name": "Mr. Sripada  Sreenivas",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Binoy Kumar Das",
+      "role": "Part-Time Government Nominee Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Kalyani  Sethuraman",
+      "role": "Chief Vigilance Officer",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Hari Kumar Raghavan Nair",
+      "role": "Director of R&D and Director",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kamesh  Kasana",
+      "role": "Director of Other Units & Whole Time Director",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Dharani  B",
+      "role": "Chief Technology Officer of R&WS- CO",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ramesh  Mangipudi",
+      "role": "Chief Technical Officer (Communications)",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

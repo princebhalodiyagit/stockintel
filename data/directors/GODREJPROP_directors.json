@@ -1,7 +1,7 @@
 {
   "ticker": "GODREJPROP",
   "company": "Godrej Properties Limited",
-  "collected_at": "2026-07-12 05:03:14",
+  "collected_at": "2026-07-13 05:09:49",
   "directors": [
     {
       "name": "Mr. Pirojsha Adi Godrej",
@@ -11,11 +11,25 @@
       "total_pay": 245600000
     },
     {
+      "name": "Mr. Gaurav  Pandey",
+      "role": "MD, CEO & Director",
+      "age": 41,
+      "year_born": 1984,
+      "total_pay": 232100000
+    },
+    {
       "name": "Mr. Rajendra  Khetawat",
       "role": "Chief Financial Officer",
       "age": 52,
       "year_born": 1973,
       "total_pay": 29300000
+    },
+    {
+      "name": "Mr. Sandeep  Navlakhe",
+      "role": "Chief Operating Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Saurabh  Mohindru",
@@ -25,8 +39,15 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Lalit  Makhijani",
+      "name": "Mr. Subhasish  Pattanaik",
       "role": "Chief Sales, Marketing & Customer Centricity Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Megha  Goel",
+      "role": "Chief Human Resources Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
@@ -48,27 +69,6 @@
     {
       "name": "Mr. Rohit  Mohan",
       "role": "Chief Design & Sustainability Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Anil Kumar Goel",
-      "role": "Head of Operations, North Zone",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Anand  Kheria",
-      "role": "Region Head of Pune 1",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Amit  Kumar",
-      "role": "Head of Taxation & Treasury",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

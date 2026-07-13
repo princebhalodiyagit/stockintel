@@ -1,6 +1,77 @@
 {
   "ticker": "NMDC",
   "company": "NMDC Limited",
-  "collected_at": "2026-07-12 05:13:49",
-  "directors": []
+  "collected_at": "2026-07-13 05:20:11",
+  "directors": [
+    {
+      "name": "Mr. Amitava  Mukherjee",
+      "role": "MD & Chairman",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": 6989000
+    },
+    {
+      "name": "Mr. Vinay  Kumar",
+      "role": "Commercial Director, Technical Director & Director",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": 6949000
+    },
+    {
+      "name": "Mr. Joydeep  Dasgupta",
+      "role": "Director of Personnel, Director of Production & Director",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": 2189000
+    },
+    {
+      "name": "Mr. Anurag  Kapil",
+      "role": "Director of Finance",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Krishna Kumar Thakur",
+      "role": "Director of Personnel & Director",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Suresh Kumar Jain",
+      "role": "Chief General Manager of R.E.D",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. B.  Venkateswarlu",
+      "role": "Executive Director of BIOM - Bacheli Complex",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kishan  Ahuja",
+      "role": "Chief General Manager of Kirandul-Works",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. N. Ramakrishna Prasad",
+      "role": "Chief General Manager of Industrial Engineering & MS",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Padmanabha  Naik",
+      "role": "Chief General Manager - NCL",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

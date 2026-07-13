@@ -1,6 +1,77 @@
 {
   "ticker": "THOMASCOOK",
   "company": "Thomas Cook  (India)  Limited",
-  "collected_at": "2026-07-12 05:23:33",
-  "directors": []
+  "collected_at": "2026-07-13 05:29:52",
+  "directors": [
+    {
+      "name": "Mr. Mahesh Chandran Iyer",
+      "role": "MD, CEO & Director",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": 58355945
+    },
+    {
+      "name": "Mr. Debasis Bikash Nandy A.C.A., B.Com.",
+      "role": "President & Group CFO",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Brijesh Sureshcha Modi B.Com, C.A.",
+      "role": "President & CFO",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Amit  Madhan",
+      "role": "President and Group Head of Technology & ESG",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rambhau R. Kenkare",
+      "role": "President and Group Head of Legal, Secretarial & Administration",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Amit Jyotindra Parekh",
+      "role": "Compliance Officer & Company Secretary",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Abraham  Alapatt",
+      "role": "President and Group Head of Marketing, Service Quality, Value Added Services & Innovation",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. D. Rajeev Kale B.Com",
+      "role": "President and Country Head of Holidays, MICE & Visas",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Indiver  Rastogi",
+      "role": "President & Group Head of Global Business Travel",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Deepti  Sheth",
+      "role": "President & Group Head of Human Resources",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

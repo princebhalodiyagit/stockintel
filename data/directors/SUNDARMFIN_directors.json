@@ -1,7 +1,7 @@
 {
   "ticker": "SUNDARMFIN",
   "company": "Sundaram Finance Limited",
-  "collected_at": "2026-07-12 05:21:59",
+  "collected_at": "2026-07-13 05:28:18",
   "directors": [
     {
       "name": "Mr. Ayalur Natarajan Raju",
@@ -46,20 +46,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. K.  SankaraKumar",
-      "role": "Senior Vice President of Corporate Finance",
-      "age": 64,
-      "year_born": 1961,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. M. J. Kulkarni",
-      "role": "National Head of MH & CE",
-      "age": 65,
-      "year_born": 1960,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Rajesh  Venkat",
       "role": "Senior VP & Head of Tamil Nadu Region & Analytics",
       "age": 51,
@@ -67,10 +53,24 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Ms. Bama  Balakrishnan",
+      "role": "Senior VP of Finance",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": "N/A"
+    },
+    {
       "name": "N.  Ramachandran",
       "role": "Executive Director of Human Resource",
       "age": 68,
       "year_born": 1957,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "S.  Kumar",
+      "role": "Deputy GM & Head of Administration",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

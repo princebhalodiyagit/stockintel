@@ -1,7 +1,7 @@
 {
   "ticker": "MAHSEAMLES",
   "company": "Maharashtra Seamless Limited",
-  "collected_at": "2026-07-12 05:10:41",
+  "collected_at": "2026-07-13 05:17:06",
   "directors": [
     {
       "name": "Mr. Saket  Jindal B.B.A.",
@@ -16,6 +16,48 @@
       "age": 45,
       "year_born": 1980,
       "total_pay": 40800000
+    },
+    {
+      "name": "Mr. Ram Ji Nigam",
+      "role": "Compliance Officer & Company Secretary",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. S. P. Raj",
+      "role": "Whole-Time Director",
+      "age": 71,
+      "year_born": 1954,
+      "total_pay": 5630000
+    },
+    {
+      "name": "Kaushal  Bengani",
+      "role": "Deputy General Manager - Investor Relations & Finance",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. J.  Satyanaraya Rao",
+      "role": "Vice President of Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Shiv Kumar Singhal",
+      "role": "President of Commercial",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": 2884150
+    },
+    {
+      "name": "Mr. Mukesh  Dubey",
+      "role": "President of Technical",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

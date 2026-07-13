@@ -1,7 +1,7 @@
 {
   "ticker": "GRPLTD",
   "company": "GRP Limited",
-  "collected_at": "2026-07-12 05:03:45",
+  "collected_at": "2026-07-13 05:10:19",
   "directors": [
     {
       "name": "Mr. Harsh Rajendra Gandhi",
@@ -27,6 +27,27 @@
     {
       "name": "Mr. Kushaba  Giramkar",
       "role": "President  of Operations, Procurement & Projects",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Sonal Laxmikant Jaju",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sanjeeb  Lahiri",
+      "role": "Chief Human Resources Officer",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Nikhil  Gondane",
+      "role": "Head of Information Systems",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

@@ -1,7 +1,7 @@
 {
   "ticker": "POWERGRID",
   "company": "Power Grid Corporation of India Limited",
-  "collected_at": "2026-07-12 05:15:59",
+  "collected_at": "2026-07-13 05:22:19",
   "directors": [
     {
       "name": "Mr. Vamsi Rama Mohan Burra",
@@ -16,6 +16,20 @@
       "age": 57,
       "year_born": 1968,
       "total_pay": 9075673
+    },
+    {
+      "name": "Dr. Yatindra  Dwivedi",
+      "role": "Director of Finance, Director of Personnel & Director",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": 9567806
+    },
+    {
+      "name": "Venkata Subrahamanayam Vallurie",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     },
     {
       "name": "Ms. Anjana  Luthra",
@@ -55,13 +69,6 @@
     {
       "name": "Mr. Sanjay Kumar Gupta",
       "role": "COO of International Business & Executive Director",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Venkata Subrahamanayam Vallurie",
-      "role": "Chief General Manager of F&A",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

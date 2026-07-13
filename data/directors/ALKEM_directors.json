@@ -1,7 +1,7 @@
 {
   "ticker": "ALKEM",
   "company": "Alkem Laboratories Limited",
-  "collected_at": "2026-07-12 04:52:56",
+  "collected_at": "2026-07-13 04:59:53",
   "directors": [
     {
       "name": "Mr. Basudeo Narian Singh",
@@ -39,13 +39,6 @@
       "total_pay": 110900000
     },
     {
-      "name": "Dr. Vikas  Gupta",
-      "role": "Chief Executive Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
       "name": "Dr. Akhilesh D. Sharma",
       "role": "President & Chief Medical Officer",
       "age": 56,
@@ -71,6 +64,13 @@
       "role": "CFO & President of Finance",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Satish Kumar Singh",
+      "role": "Head of Operations",
+      "age": 65,
+      "year_born": 1960,
       "total_pay": "N/A"
     }
   ]

@@ -1,6 +1,77 @@
 {
   "ticker": "V2RETAIL",
   "company": "V2 Retail Limited",
-  "collected_at": "2026-07-12 05:25:06",
-  "directors": []
+  "collected_at": "2026-07-13 05:31:24",
+  "directors": [
+    {
+      "name": "Mr. Ram Chandra Agarwal B.Com.",
+      "role": "Chairman & MD",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Akash  Agarwal",
+      "role": "CEO & Whole Time Director",
+      "age": 33,
+      "year_born": 1992,
+      "total_pay": 6000000
+    },
+    {
+      "name": "Mr. Pratik  Adukia",
+      "role": "CFO and Head of Finance, Buying & Merchandising",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Shivam  Aggarwal",
+      "role": "Head of Legal & Secretarial, Company Secretary and Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Uma  Agarwal B.A.",
+      "role": "Whole Time Director",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Amarnath  Yadav",
+      "role": "Head of Finance, Accounts & Taxation",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Abhishek  Khemka",
+      "role": "Head of Sourcing & Production",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sunil  Kumar",
+      "role": "Head of CEO Committee",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Shakti Prasad Mohanty",
+      "role": "Head of Business Development & Project",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pardeep  Jajoria",
+      "role": "Head of Allocation, Replenishment & Planning",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

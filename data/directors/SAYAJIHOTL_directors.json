@@ -1,11 +1,18 @@
 {
   "ticker": "SAYAJIHOTL",
   "company": "Sayaji Hotels Limited",
-  "collected_at": "2026-07-12 05:19:08",
+  "collected_at": "2026-07-13 05:25:28",
   "directors": [
     {
       "name": "Mr. Raoof Razak Dhanani",
       "role": "MD & Executive Director",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Suchitra Sajid Dhanani",
+      "role": "VP & Whole Time Director",
       "age": 61,
       "year_born": 1964,
       "total_pay": "N/A"

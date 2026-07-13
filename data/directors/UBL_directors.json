@@ -1,7 +1,7 @@
 {
   "ticker": "UBL",
   "company": "United Breweries Limited",
-  "collected_at": "2026-07-12 05:24:29",
+  "collected_at": "2026-07-13 05:30:47",
   "directors": [
     {
       "name": "Mr. Vivek  Gupta",
@@ -41,6 +41,13 @@
     {
       "name": "Mr. Vikram  Bahl",
       "role": "Chief Marketing Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Parul  Malhotra",
+      "role": "Chief Human Resources Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

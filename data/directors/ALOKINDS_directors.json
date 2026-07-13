@@ -1,8 +1,43 @@
 {
   "ticker": "ALOKINDS",
   "company": "Alok Industries Limited",
-  "collected_at": "2026-07-12 04:53:01",
+  "collected_at": "2026-07-13 04:59:59",
   "directors": [
+    {
+      "name": "Mr. Jinendra Kumar Jain",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anshul Kumar Jain",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anil Kumar Mungad",
+      "role": "Head of Commercial",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Biji  Chacko",
+      "role": "Chief Operating Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajbir  Saini",
+      "role": "Manager & Chief Human Resource Officer",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": "N/A"
+    },
     {
       "name": "Mr. Suresh Chandra Goyal",
       "role": "Director of Projects for Vapi & CEO of Infrastructure Business",
@@ -37,13 +72,6 @@
       "age": 57,
       "year_born": 1968,
       "total_pay": 3679224
-    },
-    {
-      "name": "Mr. Madhusudan V. Nagori",
-      "role": "President of Corporate Accounts",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
     }
   ]
 }

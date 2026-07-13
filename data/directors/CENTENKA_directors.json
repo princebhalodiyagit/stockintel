@@ -1,7 +1,7 @@
 {
   "ticker": "CENTENKA",
   "company": "Century Enka Limited",
-  "collected_at": "2026-07-12 04:57:31",
+  "collected_at": "2026-07-13 05:04:23",
   "directors": [
     {
       "name": "Mr. Suresh  Sodani",
@@ -48,6 +48,13 @@
     {
       "name": "Mr. Alok  Upadhyaya",
       "role": "Senior VP & Unit Head of Pune Plant",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sandeep  Kumar",
+      "role": "Vice President of Commercial",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

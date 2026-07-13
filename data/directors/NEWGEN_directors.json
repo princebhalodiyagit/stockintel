@@ -1,7 +1,7 @@
 {
   "ticker": "NEWGEN",
   "company": "Newgen Software Technologies Limited",
-  "collected_at": "2026-07-12 05:13:22",
+  "collected_at": "2026-07-13 05:19:45",
   "directors": [
     {
       "name": "Mr. Diwakar  Nigam",
@@ -9,6 +9,20 @@
       "age": 71,
       "year_born": 1954,
       "total_pay": 84192560
+    },
+    {
+      "name": "Mr. Virender  Jeet",
+      "role": "Chief Executive Officer",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. T. S. Varadarajan",
+      "role": "Co-Founder & Vice Chairman of the Board",
+      "age": 73,
+      "year_born": 1952,
+      "total_pay": 46663817
     },
     {
       "name": "Mr. Arun Kumar Gupta",
@@ -22,6 +36,41 @@
       "role": "Chief Operating Officer",
       "age": 53,
       "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajvinder Singh Kohli",
+      "role": "Head of GSI Sales & Senior VP of Sales",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Surender Jeet Raj",
+      "role": "Executive Vice President of Global Business Strategy & HR",
+      "age": 67,
+      "year_born": 1958,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Priyadarshini  Nigam",
+      "role": "Whole-Time Director",
+      "age": 68,
+      "year_born": 1957,
+      "total_pay": 28585868
+    },
+    {
+      "name": "Mr. Atin  Kumar",
+      "role": "Head of Global Delivery",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ashok  Kapoor",
+      "role": "Head of Marketing",
+      "age": 60,
+      "year_born": 1965,
       "total_pay": "N/A"
     }
   ]

@@ -1,13 +1,76 @@
 {
   "ticker": "CANBK",
   "company": "Canara Bank",
-  "collected_at": "2026-07-12 04:57:06",
+  "collected_at": "2026-07-13 05:03:58",
   "directors": [
     {
       "name": "Mr. Amit  Mittal",
       "role": "Group CFO & GM",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Santanu Kumar Majumdar",
+      "role": "Executive Director",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": 4281356
+    },
+    {
+      "name": "Mr. Bhavendra  Kumar",
+      "role": "Executive Director",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": 6750553
+    },
+    {
+      "name": "Mr. Hardeep Singh Ahluwalia",
+      "role": "Executive Director",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": 4898832
+    },
+    {
+      "name": "Mr. Sunil Kumar Chugh",
+      "role": "Executive Director",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": 4852558
+    },
+    {
+      "name": "Mr. Santosh Kumar Barik",
+      "role": "AGM & Company Secretary",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Brajesh Kumar Singh",
+      "role": "MD, CEO & Director",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Arun  Nagappan",
+      "role": "Chief Technology Officer & GM",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Adarsh M S",
+      "role": "Chief Information Officer & GM",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rakesh  Kashyap",
+      "role": "Chief GM & Group Chief Compliance Officer",
+      "age": 56,
+      "year_born": 1969,
       "total_pay": "N/A"
     }
   ]

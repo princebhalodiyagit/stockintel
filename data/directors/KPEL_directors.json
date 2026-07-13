@@ -1,7 +1,7 @@
 {
   "ticker": "KPEL",
   "company": "K.P. Energy Limited",
-  "collected_at": "2026-07-12 05:09:11",
+  "collected_at": "2026-07-13 05:15:39",
   "directors": [
     {
       "name": "Ms. Shabana Virender Bajari",
@@ -29,6 +29,13 @@
       "role": "Whole time Director",
       "age": 28,
       "year_born": 1997,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Alok  Das",
+      "role": "Group Chief Executive Officer",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

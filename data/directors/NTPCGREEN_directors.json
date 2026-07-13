@@ -1,7 +1,7 @@
 {
   "ticker": "NTPCGREEN",
   "company": "NTPC Green Energy Limited",
-  "collected_at": "2026-07-12 05:14:03",
+  "collected_at": "2026-07-13 05:20:26",
   "directors": [
     {
       "name": "Mr. Neeraj  Sharma",
@@ -55,6 +55,13 @@
     {
       "name": "Mr. Kishore Kumar Hota",
       "role": "Chief General Manager",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Sushuma  Kumari",
+      "role": "Chief General Manager of RE-Asset Management Group",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

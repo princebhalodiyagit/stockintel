@@ -1,13 +1,76 @@
 {
   "ticker": "MOTHERSON",
   "company": "Samvardhana Motherson International Limited",
-  "collected_at": "2026-07-12 05:12:16",
+  "collected_at": "2026-07-13 05:18:41",
   "directors": [
+    {
+      "name": "Mr. Pankaj K. Mital",
+      "role": "COO, President of SAMIL & Whole-Time Director",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": 56527296
+    },
     {
       "name": "Mr. Gandharv  Tongia",
       "role": "Group Chief Financial Officer",
       "age": 43,
       "year_born": 1982,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kumar  Gaurav",
+      "role": "Group Chief Information Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Alok  Goel",
+      "role": "Company Secretary, Compliance Officer & VP of Legal",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": 8715595
+    },
+    {
+      "name": "Mr. Rakesh  Satwah",
+      "role": "Managing Director of Kyungshin Industrial Motherson Limited (KIML)",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Amit  Bhakri",
+      "role": "President of Motherson Automotive Technologies & Engineering",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kunal  Malani",
+      "role": "President of Group Strategy & Transformation",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Hemant  Barge",
+      "role": "Chief Procurement Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vishal  Kabadi",
+      "role": "President of Lighting, Electronics & Metal Division - Motherson Group",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. N. R. Sumanth",
+      "role": "Chief Operating Officer of Motherson Innovative Engineering Solutions",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "ticker": "KIOCL",
   "company": "KIOCL Limited",
-  "collected_at": "2026-07-12 05:08:45",
+  "collected_at": "2026-07-13 05:15:13",
   "directors": [
     {
       "name": "Mr. Ganti Venkat Kiran",
@@ -29,6 +29,13 @@
       "role": "Chief General Manager of HR",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vasudha Chandra Suratkal",
+      "role": "Chief General Manager of Mining",
+      "age": 56,
+      "year_born": 1969,
       "total_pay": "N/A"
     },
     {

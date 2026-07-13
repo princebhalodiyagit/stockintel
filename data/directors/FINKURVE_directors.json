@@ -1,8 +1,15 @@
 {
   "ticker": "FINKURVE",
   "company": "Finkurve Financial Services Limited",
-  "collected_at": "2026-07-12 05:01:42",
+  "collected_at": "2026-07-13 05:08:23",
   "directors": [
+    {
+      "name": "Mr. Aakash Nemichand Jain",
+      "role": "Chief Financial Officer",
+      "age": 32,
+      "year_born": 1993,
+      "total_pay": "N/A"
+    },
     {
       "name": "Mr. Priyank Rakesh Kothari",
       "role": "VP of Operations & Whole time Director",
@@ -15,6 +22,55 @@
       "role": "Chief Executive Officer",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Husain Mohammed Pittalwala",
+      "role": "Compliance Head",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Shantanu  Suravase",
+      "role": "Project Management and Communications in the Director's Office",
+      "age": 33,
+      "year_born": 1992,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Aldrin  Lobo",
+      "role": "Head of Forex & Business",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Geo  George",
+      "role": "South Head - Gold Loan",
+      "age": 42,
+      "year_born": 1983,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Raju Bipinkumar Shah",
+      "role": "Chief Risk Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Kajal  Parmar",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Sweta  Kothari",
+      "role": "Product Manager",
+      "age": 42,
+      "year_born": 1983,
       "total_pay": "N/A"
     }
   ]

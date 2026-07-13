@@ -1,14 +1,14 @@
 {
   "ticker": "AGI",
-  "collected_at": "2026-07-12 04:52:26",
+  "collected_at": "2026-07-13 04:59:24",
   "company_info": {
     "name": "AGI Greenpac Limited",
     "sector": "Consumer Cyclical",
     "industry": "Packaging & Containers",
-    "market_cap": 46164815872,
-    "current_price": 713.55,
-    "pe_ratio": 13.123965,
-    "pb_ratio": 1.9180677,
+    "market_cap": 45417562112,
+    "current_price": 702.0,
+    "pe_ratio": 12.911532,
+    "pb_ratio": 1.8870206,
     "roe": 0.15612,
     "debt_to_equity": 10.126,
     "revenue": 26653200384,
@@ -16,6 +16,6 @@
     "eps": 54.37,
     "52_week_high": 1009.0,
     "52_week_low": 465.0,
-    "dividend_yield": 0.99
+    "dividend_yield": 0.98
   }
 }

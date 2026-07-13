@@ -1,7 +1,7 @@
 {
   "ticker": "IRFC",
   "company": "Indian Railway Finance Corporation Limited",
-  "collected_at": "2026-07-12 05:06:51",
+  "collected_at": "2026-07-13 05:13:23",
   "directors": [
     {
       "name": "Mr. Manoj Kumar Dubey",
@@ -16,6 +16,13 @@
       "age": 45,
       "year_born": 1980,
       "total_pay": 4300000
+    },
+    {
+      "name": "Ms. Deepa  Kotnis",
+      "role": "CFO & Executive Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     },
     {
       "name": "Shwet Ketu Mishra",

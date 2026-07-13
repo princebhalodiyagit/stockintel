@@ -1,7 +1,7 @@
 {
   "ticker": "MEESHO",
   "company": "Meesho Limited",
-  "collected_at": "2026-07-12 05:11:32",
+  "collected_at": "2026-07-13 05:17:57",
   "directors": [
     {
       "name": "Mr. Vidit  Aatrey",
@@ -27,6 +27,27 @@
     {
       "name": "Mr. Rahul  Bhardwaj",
       "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Prasanna  Arunachalam",
+      "role": "Chief Product Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Debdoot  Mukherjee",
+      "role": "Chief Data Scientist",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Aman  Mehta",
+      "role": "VP & Head of Design",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

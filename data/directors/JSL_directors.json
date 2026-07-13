@@ -1,7 +1,7 @@
 {
   "ticker": "JSL",
   "company": "Jindal Stainless Limited",
-  "collected_at": "2026-07-12 05:07:49",
+  "collected_at": "2026-07-13 05:14:19",
   "directors": [
     {
       "name": "Mr. Ratan Kumar Jindal",
@@ -12,7 +12,7 @@
     },
     {
       "name": "Mr. Tarun Kumar Khulbe",
-      "role": "CEO, CFO & Whole Time Director",
+      "role": "CEO & Whole Time Director",
       "age": 60,
       "year_born": 1965,
       "total_pay": 51600000
@@ -39,6 +39,13 @@
       "total_pay": 342600000
     },
     {
+      "name": "Mr. Kunjal  Mehta",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Sanjay  Mishra",
       "role": "Chief Digital & Information Officer",
       "age": "N/A",
@@ -62,13 +69,6 @@
     {
       "name": "Mr. Kalyan Kumar Bhattacherjee",
       "role": "Chief Sustainability Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Vijay Kumar Bindlish",
-      "role": "Unit Head of Hisar",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

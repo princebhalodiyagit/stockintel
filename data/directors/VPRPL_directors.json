@@ -1,7 +1,7 @@
 {
   "ticker": "VPRPL",
   "company": "Vishnu Prakash R Punglia Limited",
-  "collected_at": "2026-07-12 05:25:56",
+  "collected_at": "2026-07-13 05:32:12",
   "directors": [
     {
       "name": "Mr. Vishnu Prakash Punglia",
@@ -16,6 +16,41 @@
       "age": 45,
       "year_born": 1980,
       "total_pay": 8450000
+    },
+    {
+      "name": "Mr. Manohar Lal Punglia",
+      "role": "MD & Executive Director",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": 10400000
+    },
+    {
+      "name": "Mr. Ajay  Pungalia",
+      "role": "Whole-Time Director",
+      "age": 41,
+      "year_born": 1984,
+      "total_pay": 8450000
+    },
+    {
+      "name": "Mr. Kamal Kishor Pungalia",
+      "role": "Whole-Time Director",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": 8450000
+    },
+    {
+      "name": "Mr. Vinod Kumar Pungliya",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Monica  Purohit",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Vijay  Punglia",
@@ -34,13 +69,6 @@
     {
       "name": "Mr. Vikas  Birla",
       "role": "Project Head of Uttar Pradesh",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Krishna Chandra Chandak",
-      "role": "Project Head of North East",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

@@ -1,7 +1,7 @@
 {
   "ticker": "MANORAMA",
   "company": "Manorama Industries Limited",
-  "collected_at": "2026-07-12 05:10:58",
+  "collected_at": "2026-07-13 05:17:23",
   "directors": [
     {
       "name": "Mr. Ashish Ramesh Saraf",
@@ -11,6 +11,13 @@
       "total_pay": 98500000
     },
     {
+      "name": "Ms. Vinita Ashish Saraf",
+      "role": "Executive Vice Chairperson",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": 38780000
+    },
+    {
       "name": "Mr. Ashok Kumar Jain C.A.",
       "role": "CFO, Additional Director of Finance & Whole-Time Director",
       "age": 42,
@@ -18,17 +25,52 @@
       "total_pay": 6538000
     },
     {
-      "name": "Mr. Chandan  Gupta",
-      "role": "Vice President of Sales",
+      "name": "Mr. Deepak  Sharma",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 2610000
+    },
+    {
+      "name": "Mr. Shrey Ashish Saraf",
+      "role": "Whole Time Director",
+      "age": 31,
+      "year_born": 1994,
+      "total_pay": 6773000
+    },
+    {
+      "name": "Dr. Gautam Kumar Pal",
+      "role": "Whole Time Director",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": 418075000
+    },
+    {
+      "name": "Mr. Deep  Saraf",
+      "role": "Deputy CEO & Chief Coordinator",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 23073000
+    },
+    {
+      "name": "Mr. Sandeep  Agrawal",
+      "role": "Chief Operations Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Sten Andreas Appel",
-      "role": "Vice President of New & Existing Projects",
-      "age": 60,
-      "year_born": 1965,
+      "name": "Ms. Ekta  Kadel",
+      "role": "Associate Vice President of IR",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Yogendra  Puri Goswami",
+      "role": "Vice President of Sales",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

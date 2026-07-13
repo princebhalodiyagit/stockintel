@@ -1,7 +1,7 @@
 {
   "ticker": "BHARATSE",
   "company": "Bharat Seats Limited",
-  "collected_at": "2026-07-12 04:56:07",
+  "collected_at": "2026-07-13 05:03:01",
   "directors": [
     {
       "name": "Mr. Rajiv  Arora",
@@ -30,6 +30,48 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 3579000
+    },
+    {
+      "name": "Mr. Rishabh  Relan",
+      "role": "Whole Time Director",
+      "age": 35,
+      "year_born": 1990,
+      "total_pay": 10852015
+    },
+    {
+      "name": "Mr. Ajay  Gogna",
+      "role": "Senior Vice President",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Yogesh  Bansal",
+      "role": "Vice President - Operations",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ajay  Raina",
+      "role": "Chief Operating Officer",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sanjeev  Kawatra",
+      "role": "Vice President of Business Development & Marketing",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajiv Kumar Govila",
+      "role": "Senior Vice President",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": "N/A"
     }
   ]
 }

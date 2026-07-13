@@ -1,7 +1,7 @@
 {
   "ticker": "TCPLPACK",
   "company": "TCPL Packaging Limited",
-  "collected_at": "2026-07-12 05:23:05",
+  "collected_at": "2026-07-13 05:29:24",
   "directors": [
     {
       "name": "Mr. Saket Kahini Kanoria",
@@ -50,6 +50,13 @@
       "role": "Senior General Manager of Marketing",
       "age": 55,
       "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Jenny Rose Kunnappally",
+      "role": "Executive Officer",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

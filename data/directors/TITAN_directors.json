@@ -1,8 +1,15 @@
 {
   "ticker": "TITAN",
   "company": "Titan Company Limited",
-  "collected_at": "2026-07-12 05:23:50",
+  "collected_at": "2026-07-13 05:30:08",
   "directors": [
+    {
+      "name": "Mr. Ajoy  Chawla B.E., PGDM",
+      "role": "MD & Director",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": 40397925
+    },
     {
       "name": "Mr. Ashok Kumar Sonthalia A.C.A., B.Sc.",
       "role": "Chief Financial Officer",
@@ -11,8 +18,57 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Krishnan  Venkateswaran",
+      "name": "Ms. Ruma  Kishore",
       "role": "Chief Digital & Information Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Dinesh Shivanna Shetty",
+      "role": "General Counsel, Compliance Officer & Company Secretary",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 8162400
+    },
+    {
+      "name": "Mr. Swadesh Kumar Behera",
+      "role": "Chief People Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Arun  Narayan",
+      "role": "CEO of Jewellery Division",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Revathi  Kant",
+      "role": "Chief Design Officer",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. N. E. Sridhar",
+      "role": "Chief Sustainability Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kuruvilla  Markose",
+      "role": "CEO of Watches Division",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manish  Gupta",
+      "role": "Chief Executive Officer of Fragrances & Womens Bag",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

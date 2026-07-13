@@ -1,7 +1,7 @@
 {
   "ticker": "ORIENTTECH",
   "company": "Orient Technologies Limited",
-  "collected_at": "2026-07-12 05:14:41",
+  "collected_at": "2026-07-13 05:21:03",
   "directors": [
     {
       "name": "Mr. Ajay Baliram Sawant",
@@ -39,6 +39,13 @@
       "total_pay": 4800000
     },
     {
+      "name": "Alkesh  Wandre",
+      "role": "Head of Finance",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Suresh  Bachwani",
       "role": "Chief Technology Officer",
       "age": "N/A",
@@ -62,13 +69,6 @@
     {
       "name": "Mansi  Sawant",
       "role": "Head of People & Culture",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Pradip Narayan Pillai",
-      "role": "Product Head of Cloud",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

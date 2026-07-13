@@ -1,6 +1,77 @@
 {
   "ticker": "MOTISONS",
   "company": "Motisons Jewellers Limited",
-  "collected_at": "2026-07-12 05:12:18",
-  "directors": []
+  "collected_at": "2026-07-13 05:18:43",
+  "directors": [
+    {
+      "name": "Mr. Sandeep  Chhabra",
+      "role": "Chairman & Whole Time Director",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": 4200000
+    },
+    {
+      "name": "Mr. Sanjay  Chhabra",
+      "role": "Vice Chairman & MD",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": 4200000
+    },
+    {
+      "name": "Mr. Laksh  Chhabra",
+      "role": "Joint MD & Director",
+      "age": 24,
+      "year_born": 2001,
+      "total_pay": 900000
+    },
+    {
+      "name": "Mr. Nawal Kishore Agrawal",
+      "role": "President",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Lalit  Musal",
+      "role": "President",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kaustubh  Chhabra",
+      "role": "Chief Financial Officer",
+      "age": 25,
+      "year_born": 2000,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Bhavesh  Surolia",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 31,
+      "year_born": 1994,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Nirmal  Gangwal",
+      "role": "Vice President",
+      "age": 44,
+      "year_born": 1981,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Akshat  Jain",
+      "role": "Senior Accounts Officer",
+      "age": 32,
+      "year_born": 1993,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manish  Jain",
+      "role": "HR Head",
+      "age": 39,
+      "year_born": 1986,
+      "total_pay": "N/A"
+    }
+  ]
 }

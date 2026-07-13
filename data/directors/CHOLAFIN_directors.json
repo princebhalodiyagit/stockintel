@@ -1,7 +1,7 @@
 {
   "ticker": "CHOLAFIN",
   "company": "Cholamandalam Investment and Finance Company Limited",
-  "collected_at": "2026-07-12 04:57:53",
+  "collected_at": "2026-07-13 05:04:44",
   "directors": [
     {
       "name": "Mr. Murugappan Vellayan Subbiah",
@@ -18,6 +18,13 @@
       "total_pay": 77700000
     },
     {
+      "name": "Mr. Dharmalingam Arul Selvan",
+      "role": "President & CFO",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": 58219380
+    },
+    {
       "name": "Mr. Durgaprasad  Swaminathan",
       "role": "Chief Information Officer",
       "age": "N/A",
@@ -30,6 +37,41 @@
       "age": 57,
       "year_born": 1968,
       "total_pay": 26313386
+    },
+    {
+      "name": "Mr. Jeeva  Balakrishnan",
+      "role": "Chief Human Resources Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rupinder  Singh",
+      "role": "Senior VP & Business Head \u0096 Home Equity",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Shaji  Varghese",
+      "role": "President of Housing Finance",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ajay  Bhatia",
+      "role": "Chief Risk Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Aman  Sharma",
+      "role": "Chief Processing Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

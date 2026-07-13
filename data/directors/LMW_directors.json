@@ -1,7 +1,7 @@
 {
   "ticker": "LMW",
   "company": "LMW Limited",
-  "collected_at": "2026-07-12 05:10:07",
+  "collected_at": "2026-07-13 05:16:33",
   "directors": [
     {
       "name": "Mr. Sanjay  Jayavarthanavelu MBA",
@@ -18,10 +18,59 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. Muthulingam  Sankar",
+      "role": "Director of Operations & Whole Time Director",
+      "age": 68,
+      "year_born": 1957,
+      "total_pay": 16076590
+    },
+    {
+      "name": "Mr. Coimbatore Ramanathan Shivkumaran",
+      "role": "Compliance Officer & Company Secretary",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. N. Krishna Kumar",
+      "role": "President of ATC & FDY",
+      "age": 67,
+      "year_born": 1958,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. K. Soundhar Rajhan",
       "role": "Chief Strategy Officer",
       "age": 77,
       "year_born": 1948,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. S.  Rajasekaran",
+      "role": "President of Textile Machinery Division",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. S Siva Arvinth Ganga",
+      "role": "President of MTD",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. M.  Ranganathan",
+      "role": "Head of Human Resources & Investor Relations",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. V.  Venugopal",
+      "role": "Senior Vice President of Foundry",
+      "age": 67,
+      "year_born": 1958,
       "total_pay": "N/A"
     }
   ]

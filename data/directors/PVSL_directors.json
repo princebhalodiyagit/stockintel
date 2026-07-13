@@ -1,6 +1,77 @@
 {
   "ticker": "PVSL",
   "company": "Popular Vehicles and Services Limited",
-  "collected_at": "2026-07-12 05:16:40",
-  "directors": []
+  "collected_at": "2026-07-13 05:23:02",
+  "directors": [
+    {
+      "name": "Mr. Raj  Narayan",
+      "role": "Chief Executive Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 14490000
+    },
+    {
+      "name": "Mr. Varun Thazhathu Veedu",
+      "role": "Company Secretary &  Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 3070000
+    },
+    {
+      "name": "Mr. John Kuttukaran Paul",
+      "role": "Whole Time Director",
+      "age": 72,
+      "year_born": 1953,
+      "total_pay": 12470000
+    },
+    {
+      "name": "Mr. Naveen  Philip",
+      "role": "MD & Director",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": 10630000
+    },
+    {
+      "name": "Mr. Abraham  Mammen",
+      "role": "Group Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Nikhil  John",
+      "role": "Head Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Arun  Somashekaran",
+      "role": "Head Sales",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jobin  Thomas",
+      "role": "Head Human Resource",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajesh  Bhaskaran",
+      "role": "Head of Information Technology",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pramod Sasidharan Nair",
+      "role": "Branch Head for Nexa Trivandrum",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

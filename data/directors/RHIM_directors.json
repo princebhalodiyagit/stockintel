@@ -1,6 +1,77 @@
 {
   "ticker": "RHIM",
   "company": "RHI MAGNESITA INDIA LIMITED",
-  "collected_at": "2026-07-12 05:17:41",
-  "directors": []
+  "collected_at": "2026-07-13 05:24:02",
+  "directors": [
+    {
+      "name": "Mr. Azim  Syed",
+      "role": "Chief Financial Officer",
+      "age": 44,
+      "year_born": 1981,
+      "total_pay": 45284906
+    },
+    {
+      "name": "Mr. Sanjay  Kumar",
+      "role": "Compliance Officer & Company Secretary",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 4437000
+    },
+    {
+      "name": "Mr. Pankaj  Malhan",
+      "role": "CEO, MD & Non- Independent Executive Director",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rudraraju Venkata Suryanarayana Raju",
+      "role": "Chief Operating Officer",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": 17129000
+    },
+    {
+      "name": "Mr. Manoj K. Gupta",
+      "role": "Joint Vice President of Finance & Accounts",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sanjeev  Bhardwaj",
+      "role": "Head of Finance",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Purshottam  Dass",
+      "role": "Senior Vice President of Operations",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jyotirmoy  Bhattacherjee",
+      "role": "Head of Steel Sales of india",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Bikash Kumar Nandi",
+      "role": "Senior Vice President of Production",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ravikumar  Periyasamy",
+      "role": "Head of Marketing, Solutions and R&D of India",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

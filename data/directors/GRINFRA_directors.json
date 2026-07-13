@@ -1,7 +1,7 @@
 {
   "ticker": "GRINFRA",
   "company": "G R Infraprojects Limited",
-  "collected_at": "2026-07-12 05:03:41",
+  "collected_at": "2026-07-13 05:10:15",
   "directors": [
     {
       "name": "Mr. Ajendra Kumar Agarwal",
@@ -15,6 +15,62 @@
       "role": "Chief Financial Officer",
       "age": 50,
       "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vinod Kumar Chauhan",
+      "role": "Senior Vice President of Operation",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Bharat Bhushan Aggarwal",
+      "role": "Senior Vice President of HR & Admin",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Devki Nandan Agarwal",
+      "role": "President of Plant & Equipments",
+      "age": 69,
+      "year_born": 1956,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mahendra Kumar Agarwal",
+      "role": "President of Procurement",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ajai Kumar Singh Chauhan",
+      "role": "President & Head of Contracts Management",
+      "age": 65,
+      "year_born": 1960,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vikas  Agarwal",
+      "role": "Whole Time Director",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": 51000000
+    },
+    {
+      "name": "Mr. Hemant Kumar Garg",
+      "role": "Senior Vice President of Design",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sandeep  Mehta",
+      "role": "Senior Vice President",
+      "age": 52,
+      "year_born": 1973,
       "total_pay": "N/A"
     }
   ]

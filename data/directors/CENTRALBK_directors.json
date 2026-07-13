@@ -1,56 +1,28 @@
 {
   "ticker": "CENTRALBK",
   "company": "Central Bank of India",
-  "collected_at": "2026-07-12 04:57:33",
+  "collected_at": "2026-07-13 05:04:25",
   "directors": [
     {
-      "name": "Mr. Malladi Venkat Murali Krishna",
-      "role": "Executive Director",
-      "age": 58,
-      "year_born": 1967,
-      "total_pay": 7339000
-    },
-    {
-      "name": "Mr. Mahendra Dwarika Prasad Dohare",
-      "role": "Executive Director",
-      "age": 54,
-      "year_born": 1971,
-      "total_pay": 6768000
-    },
-    {
-      "name": "Mr. Kalyan  Kumar",
-      "role": "MD & CEO",
+      "name": "Mohit  Kodnani",
+      "role": "Chief General Manager of DIT",
       "age": 56,
       "year_born": 1969,
-      "total_pay": 2066000
-    },
-    {
-      "name": "Ms. Kavita  Thakur",
-      "role": "GM of Compliance Department & Chief Compliance Officer",
-      "age": 55,
-      "year_born": 1970,
       "total_pay": "N/A"
     },
     {
-      "name": "Dr. Bhaskar  Gorugantu",
-      "role": "Chief Risk Officer",
-      "age": 51,
-      "year_born": 1974,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Sunil  Arora",
-      "role": "Chief Vigilance Officer",
+      "name": "Mr. Vijay Vasantrao Murar",
+      "role": "General Manager of Treasury & ID",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. E. Ratan Kumar",
-      "role": "Executive Director",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 1486000
+      "name": "Mr. Chandrakant C. Bhagwat",
+      "role": "Assistant GM, Company Secretary & Compliance Officer",
+      "age": 37,
+      "year_born": 1988,
+      "total_pay": "N/A"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "ticker": "ASTERDM",
   "company": "Aster DM Healthcare Limited",
-  "collected_at": "2026-07-12 04:54:22",
+  "collected_at": "2026-07-13 05:01:18",
   "directors": [
     {
       "name": "Dr. Mandayapurath Azad Moopen DTCD, M.D., MBBS",
@@ -18,6 +18,20 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. S. Ramesh Kumar",
+      "role": "Group Chief Operating Officer",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Hitesh  Dhaddha",
+      "role": "Chief of Investor Relations and Merger & Amalgamation",
+      "age": 41,
+      "year_born": 1984,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Thadathil Joseph Wilson ACA",
       "role": "Group Head of Governance & Corporate Affairs and Non-Executive Non-Independent Director",
       "age": 64,
@@ -30,6 +44,13 @@
       "age": 44,
       "year_born": 1981,
       "total_pay": 3000000
+    },
+    {
+      "name": "Dr. N.  Prashanth",
+      "role": "Chief Executive Officer of Karnataka Cluster",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Hemish  Purushottam",
@@ -50,27 +71,6 @@
       "role": "Group General Counsel",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Pritpal  Singh",
-      "role": "Chief of Internal Audit, Risk & Compliance Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Rahul  Kadavakolu",
-      "role": "Group Chief Marketing Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Vineesh Kumar Ghei",
-      "role": "Country Head Sales, Marketing & RCM",
-      "age": 51,
-      "year_born": 1974,
       "total_pay": "N/A"
     }
   ]

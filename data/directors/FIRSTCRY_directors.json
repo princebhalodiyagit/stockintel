@@ -1,7 +1,7 @@
 {
   "ticker": "FIRSTCRY",
   "company": "Brainbees Solutions Limited",
-  "collected_at": "2026-07-12 05:01:45",
+  "collected_at": "2026-07-13 05:08:26",
   "directors": [
     {
       "name": "Mr. Supam  Maheshwari",
@@ -9,6 +9,13 @@
       "age": 52,
       "year_born": 1973,
       "total_pay": 42800000
+    },
+    {
+      "name": "Mr. Gautam  Sharma",
+      "role": "Chief Financial Officer",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": 54380000
     },
     {
       "name": "Mr. Prashant  Jadhav",
@@ -62,13 +69,6 @@
     {
       "name": "Mr. Mayank  Badola",
       "role": "Chief Operating Officer of Offline Business",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Anuj  Jain",
-      "role": "Chief Executive Officer of Globalbees Brands",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

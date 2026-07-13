@@ -1,13 +1,41 @@
 {
   "ticker": "GICHSGFIN",
   "company": "GIC Housing Finance Limited",
-  "collected_at": "2026-07-12 05:02:37",
+  "collected_at": "2026-07-13 05:09:13",
   "directors": [
+    {
+      "name": "Mr. Sachindra Dattaram Salvi",
+      "role": "Managing Director, CEO & Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 7876181
+    },
+    {
+      "name": "Mr. Achuta Rama Murthy Sombhatla",
+      "role": "Senior VP and Head of Sales & Marketing",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Birudeo Babu Phonde",
+      "role": "Head of HR & Admin",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
     {
       "name": "Ms. Supriya  Joshi",
       "role": "Head of Internal Audit",
       "age": 56,
       "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sajid  Munshi",
+      "role": "Senior Vice President & Collections Head",
+      "age": 53,
+      "year_born": 1972,
       "total_pay": "N/A"
     },
     {
@@ -19,7 +47,7 @@
     },
     {
       "name": "Ms. Paba  Koshy",
-      "role": "Senior VP & Head of Operations Department",
+      "role": "Chief Financial Officer & Head of Operations Department",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

@@ -1,13 +1,20 @@
 {
   "ticker": "ANTHEM",
   "company": "Anthem Biosciences Limited",
-  "collected_at": "2026-07-12 04:53:25",
+  "collected_at": "2026-07-13 05:00:22",
   "directors": [
     {
       "name": "Mr. Ajay  Bhardwaj B.Tech., M.S",
       "role": "Founder, Chairman, MD & CEO",
       "age": 65,
       "year_born": 1960,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. K. Ravindra Chandrappa",
+      "role": "Co-Founder, COO, Whole-Time Director & Executive Director",
+      "age": 59,
+      "year_born": 1966,
       "total_pay": "N/A"
     },
     {
@@ -18,6 +25,13 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Dr. Ganesh  Sambasivam",
+      "role": "Chief Scientific Officer, Whole-time Director & Executive Director",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Ms. Divya  Prasad",
       "role": "Company Secretary & Compliance Officer",
       "age": "N/A",
@@ -25,10 +39,38 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Nitin  Gopal",
-      "role": "Deputy General Manager \u0096 I",
+      "name": "Mr. Ishaan  Bhardwaj",
+      "role": "Vice President",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ravi  Kalla",
+      "role": "Chief Information Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Satish  Sharma",
+      "role": "Vice President of Sales",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rupesh N. Kinekar",
+      "role": "Vice President of Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Malay Jiban Barua B.Sc. (Tech), M.Sc.(Tech)",
+      "role": "VP & Head of Operations of Specialty Ingredients",
+      "age": 57,
+      "year_born": 1968,
       "total_pay": "N/A"
     }
   ]

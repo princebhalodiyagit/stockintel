@@ -1,7 +1,7 @@
 {
   "ticker": "BHAGCHEM",
   "company": "Bhagiradha Chemicals & Industries Limited",
-  "collected_at": "2026-07-12 04:55:59",
+  "collected_at": "2026-07-13 05:02:54",
   "directors": [
     {
       "name": "Mr. Arvind Kumar Anegondi",
@@ -9,6 +9,27 @@
       "age": 47,
       "year_born": 1978,
       "total_pay": 15164000
+    },
+    {
+      "name": "Mr. Ranjit Kumar Kilaru",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Mandala  Sharanya",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Chandra Sekhar Singavarapu",
+      "role": "MD & Non-Independent Executive Director",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": 23372000
     },
     {
       "name": "Mr. M. Venkateswara Rao",

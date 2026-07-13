@@ -1,6 +1,35 @@
 {
   "ticker": "NIBL",
   "company": "NRB Industrial Bearings Limited",
-  "collected_at": "2026-07-12 05:13:31",
-  "directors": []
+  "collected_at": "2026-07-13 05:19:54",
+  "directors": [
+    {
+      "name": "Mr. Deveshsingh Trilochansingh Sahney BBA(UK), MBA",
+      "role": "Executive Chairman & MD",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vikas  Mandalwar",
+      "role": "Group Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Vandana Deepakkumar Yadav",
+      "role": "Group Company Secretary & Group Legal Head",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vikas  Khanna",
+      "role": "Chief Business Officer- Automotive",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

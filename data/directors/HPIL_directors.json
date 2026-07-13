@@ -1,7 +1,7 @@
 {
   "ticker": "HPIL",
   "company": "Hindprakash Industries Limited",
-  "collected_at": "2026-07-12 05:05:12",
+  "collected_at": "2026-07-13 05:11:44",
   "directors": [
     {
       "name": "Mr. Sanjay Prakash Mangal",
@@ -16,6 +16,13 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 736000
+    },
+    {
+      "name": "Mr. Santosh Narayan Nambiar",
+      "role": "Whole-Time Director",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
     }
   ]
 }

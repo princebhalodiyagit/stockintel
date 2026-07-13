@@ -1,7 +1,7 @@
 {
   "ticker": "MATRIMONY",
   "company": "Matrimony.Com Limited",
-  "collected_at": "2026-07-12 05:11:14",
+  "collected_at": "2026-07-13 05:17:39",
   "directors": [
     {
       "name": "Mr. Murugavel  Janakiraman",
@@ -9,6 +9,69 @@
       "age": 55,
       "year_born": 1970,
       "total_pay": 26424000
+    },
+    {
+      "name": "Mr. Arjun  Bhatia",
+      "role": "Chief Marketing Officer & Senior VP of Marketing",
+      "age": 44,
+      "year_born": 1981,
+      "total_pay": 10615000
+    },
+    {
+      "name": "Mr. Venu Muraleedharan Menon",
+      "role": "Chief Human Resources Officer",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": 7619000
+    },
+    {
+      "name": "Ms. Saichithra  S.",
+      "role": "Chief Product Officer",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": 11083000
+    },
+    {
+      "name": "Vinodha  Priyan",
+      "role": "Senior Vice President of Tele Marketing & Head of CBS",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": 6177000
+    },
+    {
+      "name": "Mr. Ajay  Kumar",
+      "role": "Senior VP of Retail & Head of Bharat matrimony",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": 6183000
+    },
+    {
+      "name": "Mr. Kiran  Vijayakumar",
+      "role": "Senior VP of Product Engineering & VP of Technology",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": 8268000
+    },
+    {
+      "name": "Mr. Harigovind  Krishnasamy",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sankara Narayanan Kailasam",
+      "role": "Chief Operating Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vijayanand  Sankar",
+      "role": "Compliance Officer, Senior GM of Secretarial & Company Secretary",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": "N/A"
     }
   ]
 }

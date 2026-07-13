@@ -1,7 +1,7 @@
 {
   "ticker": "INDOBORAX",
   "company": "Indo Borax & Chemicals Limited",
-  "collected_at": "2026-07-12 05:06:09",
+  "collected_at": "2026-07-13 05:12:40",
   "directors": [
     {
       "name": "Mr. Suresh  Kalra",
@@ -9,6 +9,34 @@
       "age": 51,
       "year_born": 1974,
       "total_pay": 13372000
+    },
+    {
+      "name": "Mr. Harsh  Malhotra",
+      "role": "Additional Executive Director",
+      "age": 32,
+      "year_born": 1993,
+      "total_pay": 2363000
+    },
+    {
+      "name": "Mr. Shashikant  Bharuka",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pravin Prabhakar Chavan",
+      "role": "Compliance Officer & Company Secretary",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 2775000
+    },
+    {
+      "name": "Mr. Kamlesh  Joshi",
+      "role": "Chief Commercial Officer & CHRO",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

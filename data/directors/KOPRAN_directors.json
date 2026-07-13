@@ -1,7 +1,7 @@
 {
   "ticker": "KOPRAN",
   "company": "Kopran Limited",
-  "collected_at": "2026-07-12 05:09:03",
+  "collected_at": "2026-07-13 05:15:31",
   "directors": [
     {
       "name": "Mr. Surendra Shrikrishna Somani B.Com.",
@@ -30,6 +30,20 @@
       "age": 64,
       "year_born": 1961,
       "total_pay": 9382167
+    },
+    {
+      "name": "Mr. Vijay L Thange",
+      "role": "Chief Technical Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Vandana  Somani",
+      "role": "Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "ticker": "RANASUG",
   "company": "Rana Sugars Limited",
-  "collected_at": "2026-07-12 05:17:09",
+  "collected_at": "2026-07-13 05:23:31",
   "directors": [
     {
       "name": "Mr. Rana Veer Pratap Singh",
@@ -50,6 +50,27 @@
       "role": "Vice President of Sales",
       "age": 54,
       "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Parmod  Sharma",
+      "role": "President of Taxation",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Krishan Pratap Singh",
+      "role": "Chief General Manager - Cane Development",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Jaswinder  Singh",
+      "role": "Chief General Manager - Engineering",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

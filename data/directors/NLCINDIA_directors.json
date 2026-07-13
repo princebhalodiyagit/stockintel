@@ -1,8 +1,36 @@
 {
   "ticker": "NLCINDIA",
   "company": "NLC India Limited",
-  "collected_at": "2026-07-12 05:13:48",
+  "collected_at": "2026-07-13 05:20:10",
   "directors": [
+    {
+      "name": "Dr. Prasanna Kumar Acharya",
+      "role": "CFO, Director of Finance & Director",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": 5061756
+    },
+    {
+      "name": "Mr. Samir  Swarup",
+      "role": "Director of Human Resources & Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 8987364
+    },
+    {
+      "name": "Dr. Suresh Chandra Suman",
+      "role": "Director of Mines, Planning & Projects and Director",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": 8319233
+    },
+    {
+      "name": "Mr. Sanoj Kumar Jha I.A.S.",
+      "role": "MD & Chairman",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    },
     {
       "name": "Mr. Sushanta Kumar Panda",
       "role": "Company Secretary & Compliance Officer",
@@ -41,34 +69,6 @@
     {
       "name": "Mr. S.  Harikrishnan",
       "role": "Chief General Manager of Mine-II",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Ramachandra R. Parashar",
-      "role": "Executive Director",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. E.  Esaikkimuthu",
-      "role": "Chief General Manager of SPP / Tirunelveli",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. K.  Ganesan",
-      "role": "Chief General Manager of P&BD",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. K. S. Gopalakrishnan",
-      "role": "Chief GM & CEO of NTPL",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

@@ -1,6 +1,77 @@
 {
   "ticker": "SUNFLAG",
   "company": "Sunflag Iron And Steel Company Limited",
-  "collected_at": "2026-07-12 05:22:03",
-  "directors": []
+  "collected_at": "2026-07-13 05:28:22",
+  "directors": [
+    {
+      "name": "Mr. S. Mahadevan Iyer",
+      "role": "Chief Financial Officer",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ramchandra Vasant Dalvi B.Tech",
+      "role": "Whole-time Director & Director of Technical",
+      "age": 75,
+      "year_born": 1950,
+      "total_pay": 13840702
+    },
+    {
+      "name": "Mr. Pranav Ravi Bhardwaj",
+      "role": "MD & Executive Director",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": 53383213
+    },
+    {
+      "name": "Mr. D. S. Kalne",
+      "role": "Vice President of Finance",
+      "age": 69,
+      "year_born": 1956,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Dev Dyuti Sen",
+      "role": "Chief Executive Officer",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Satyadev  Bhardwaj",
+      "role": "Founder",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ashutosh  Mishra C.S.",
+      "role": "Head Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. S. K. Chanda",
+      "role": "Head-Marketing",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Malepati Thejo Vardhan",
+      "role": "Business Head - Super Alloys & Forging",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Goudappa K. Ramanagouda",
+      "role": "Head-SMS",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    }
+  ]
 }
