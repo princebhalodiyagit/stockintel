@@ -1,7 +1,7 @@
 {
   "ticker": "HGINFRA",
   "company": "H.G. Infra Engineering Limited",
-  "collected_at": "2026-07-13 05:11:17",
+  "collected_at": "2026-07-14 04:40:29",
   "directors": [
     {
       "name": "Mr. Harendra  Singh",
@@ -9,13 +9,6 @@
       "age": 58,
       "year_born": 1967,
       "total_pay": 45000000
-    },
-    {
-      "name": "Mr. Rajeev  Mishra",
-      "role": "CFO & Chief Risk Officer",
-      "age": 51,
-      "year_born": 1974,
-      "total_pay": "N/A"
     },
     {
       "name": "Ms. Ankita  Mehra",
@@ -71,6 +64,13 @@
       "role": "Chief General Manager",
       "age": 49,
       "year_born": 1976,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ravi  Prakash",
+      "role": "Director Operations \u0096 Head Transportation",
+      "age": 61,
+      "year_born": 1964,
       "total_pay": "N/A"
     }
   ]

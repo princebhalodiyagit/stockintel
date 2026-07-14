@@ -1,14 +1,14 @@
 {
   "ticker": "MARUTI",
-  "collected_at": "2026-07-13 05:17:35",
+  "collected_at": "2026-07-14 04:48:02",
   "company_info": {
     "name": "Maruti Suzuki India Limited",
     "sector": "Consumer Cyclical",
     "industry": "Auto Manufacturers",
-    "market_cap": 4330580869120,
-    "current_price": 13774.0,
-    "pe_ratio": 29.502228,
-    "pb_ratio": 4.04135,
+    "market_cap": 4305742987264,
+    "current_price": 13695.0,
+    "pe_ratio": 29.33302,
+    "pb_ratio": 4.018171,
     "roe": 0.14434,
     "debt_to_equity": 0.096,
     "revenue": 1833160015872,
@@ -16,6 +16,6 @@
     "eps": 466.88,
     "52_week_high": 17370.0,
     "52_week_low": 12201.0,
-    "dividend_yield": 1.02
+    "dividend_yield": 1.01
   }
 }

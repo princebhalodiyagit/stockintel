@@ -1,14 +1,14 @@
 {
   "ticker": "BRIGADE",
-  "collected_at": "2026-07-13 05:03:42",
+  "collected_at": "2026-07-14 04:32:22",
   "company_info": {
     "name": "Brigade Enterprises Limited",
     "sector": "Real Estate",
     "industry": "Real Estate - Development",
-    "market_cap": 186679017472,
-    "current_price": 572.35,
-    "pe_ratio": 28.950428,
-    "pb_ratio": 2.7371416,
+    "market_cap": 185814712320,
+    "current_price": 569.7,
+    "pe_ratio": 28.81639,
+    "pb_ratio": 2.7244687,
     "roe": 0.10786,
     "debt_to_equity": 84.316,
     "revenue": 56972201984,
@@ -16,6 +16,6 @@
     "eps": 19.77,
     "52_week_high": 856.5,
     "52_week_low": 450.75,
-    "dividend_yield": 0.35
+    "dividend_yield": 0.33
   }
 }

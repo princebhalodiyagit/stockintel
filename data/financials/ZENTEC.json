@@ -1,14 +1,14 @@
 {
   "ticker": "ZENTEC",
-  "collected_at": "2026-07-13 05:33:06",
+  "collected_at": "2026-07-14 05:06:28",
   "company_info": {
     "name": "Zen Technologies Limited",
     "sector": "Industrials",
     "industry": "Aerospace & Defense",
-    "market_cap": 165378179072,
-    "current_price": 1838.8,
-    "pe_ratio": 85.76492,
-    "pb_ratio": 9.201315,
+    "market_cap": 164685643776,
+    "current_price": 1831.1,
+    "pe_ratio": 85.40578,
+    "pb_ratio": 9.162785,
     "roe": 0.11828,
     "debt_to_equity": 0.95,
     "revenue": 6876899840,
@@ -16,6 +16,6 @@
     "eps": 21.44,
     "52_week_high": 2024.0,
     "52_week_low": 1223.0,
-    "dividend_yield": 0.06
+    "dividend_yield": 0.05
   }
 }

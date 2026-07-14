@@ -1,14 +1,14 @@
 {
   "ticker": "TSFINV",
-  "collected_at": "2026-07-13 05:30:37",
+  "collected_at": "2026-07-14 05:03:49",
   "company_info": {
     "name": "TSF Investments Limited",
     "sector": "Financial Services",
     "industry": "Asset Management",
-    "market_cap": 106671398912,
-    "current_price": 483.35,
-    "pe_ratio": 20.585606,
-    "pb_ratio": 1.7799472,
+    "market_cap": 106097598464,
+    "current_price": 480.75,
+    "pe_ratio": 20.474873,
+    "pb_ratio": 1.7703726,
     "roe": 0.090629995,
     "debt_to_equity": 3.85,
     "revenue": 9848902656,
@@ -16,6 +16,6 @@
     "eps": 23.48,
     "52_week_high": 701.5,
     "52_week_low": 331.7,
-    "dividend_yield": 2.68
+    "dividend_yield": 2.67
   }
 }
