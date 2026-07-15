@@ -1,14 +1,14 @@
 {
   "ticker": "GUFICBIO",
-  "collected_at": "2026-07-14 04:39:38",
+  "collected_at": "2026-07-15 04:39:00",
   "company_info": {
     "name": "Gufic Biosciences Limited",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - Specialty & Generic",
-    "market_cap": 40138072064,
-    "current_price": 400.25,
-    "pe_ratio": 62.539062,
-    "pb_ratio": 6.0457983,
+    "market_cap": 40313565184,
+    "current_price": 402.0,
+    "pe_ratio": 62.8125,
+    "pb_ratio": 6.0722322,
     "roe": 0.10144,
     "debt_to_equity": 60.866,
     "revenue": 9440065536,
@@ -16,6 +16,6 @@
     "eps": 6.4,
     "52_week_high": 448.0,
     "52_week_low": 268.0,
-    "dividend_yield": 0.03
+    "dividend_yield": 0.02
   }
 }

@@ -1,7 +1,7 @@
 {
   "ticker": "UNOMINDA",
   "company": "UNO Minda Limited",
-  "collected_at": "2026-07-14 05:04:29",
+  "collected_at": "2026-07-15 05:01:58",
   "directors": [
     {
       "name": "Mr. Ravi  Mehra ACS, FCA",
@@ -22,13 +22,6 @@
       "role": "Group Chief Financial Officer",
       "age": 49,
       "year_born": 1976,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Amit Kumar Jain",
-      "role": "Group Chief Technology Officer",
-      "age": "N/A",
-      "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
@@ -71,6 +64,13 @@
       "role": "Senior President of Head- Real Estate & Corporate Affairs",
       "age": 60,
       "year_born": 1965,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Naveesh  Garg",
+      "role": "Chief Executive Officer of Electronics & Control Systems Domain",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

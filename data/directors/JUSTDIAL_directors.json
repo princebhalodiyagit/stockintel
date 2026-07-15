@@ -1,7 +1,7 @@
 {
   "ticker": "JUSTDIAL",
   "company": "Just Dial Limited",
-  "collected_at": "2026-07-14 04:44:15",
+  "collected_at": "2026-07-15 04:43:35",
   "directors": [
     {
       "name": "Mr. Venkatachalam Sthanu-Subramani Mani",
@@ -9,13 +9,6 @@
       "age": 59,
       "year_born": 1966,
       "total_pay": 30000000
-    },
-    {
-      "name": "Mr. Abhishek  Bansal",
-      "role": "Chief Financial Officer",
-      "age": 40,
-      "year_born": 1985,
-      "total_pay": "N/A"
     },
     {
       "name": "Mr. Manan Yogendra Udani",
@@ -69,6 +62,13 @@
     {
       "name": "Mr. Vishal  Parikh",
       "role": "Chief Product Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sumeet  Vaid",
+      "role": "Chief Revenue Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

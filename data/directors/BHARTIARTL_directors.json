@@ -1,7 +1,7 @@
 {
   "ticker": "BHARTIARTL",
   "company": "Bharti Airtel Limited",
-  "collected_at": "2026-07-14 04:31:41",
+  "collected_at": "2026-07-15 04:30:36",
   "directors": [
     {
       "name": "Mr. Sunil Bharti Mittal",
@@ -9,27 +9,6 @@
       "age": 68,
       "year_born": 1957,
       "total_pay": 333413535
-    },
-    {
-      "name": "Mr. Gopal Krishna Vittal",
-      "role": "Executive Vice Chairman",
-      "age": 59,
-      "year_born": 1966,
-      "total_pay": 217291098
-    },
-    {
-      "name": "Mr. Pankaj  Tewari",
-      "role": "Senior VP & Company Secretary",
-      "age": 52,
-      "year_born": 1973,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Akhil  Garg",
-      "role": "Chief Financial Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
     },
     {
       "name": "Mr. Randeep Singh Sekhon BE",
@@ -71,6 +50,27 @@
       "role": "CEO of Connected Homes & Chief Marketing Officer",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Amrita  Padda",
+      "role": "Chief People Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Venkatesh Vijay Raghavan",
+      "role": "Chief Executive Officer of Market Operations of AP",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anuj  Khungar",
+      "role": "Chief Technical Officer of Hub",
+      "age": 61,
+      "year_born": 1964,
       "total_pay": "N/A"
     }
   ]

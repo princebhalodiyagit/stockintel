@@ -1,7 +1,7 @@
 {
   "ticker": "HDFCBANK",
   "company": "HDFC Bank Limited",
-  "collected_at": "2026-07-14 04:40:13",
+  "collected_at": "2026-07-15 04:39:37",
   "directors": [
     {
       "name": "Mr. Sashidhar  Jagdishan",
@@ -32,13 +32,6 @@
       "total_pay": 30179680
     },
     {
-      "name": "Mr. Gourab  Roy",
-      "role": "Group Head of Operations, ATM & Administration",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Ajit Subhas Shetty",
       "role": "Investor Relations Officer",
       "age": "N/A",
@@ -60,17 +53,24 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Ms. Madhu  Chhibber",
-      "role": "Head of Corporate Communications",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Ravi  Santhanam",
       "role": "Chief Marketing Officer & Group Head",
       "age": 54,
       "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ashish  Parthasarthy",
+      "role": "Head of Branch Banking, Infrastructure, Treasury & Virtual Channels",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jimmy Minocher Tata",
+      "role": "Group Chief Credit Officer",
+      "age": 59,
+      "year_born": 1966,
       "total_pay": "N/A"
     }
   ]

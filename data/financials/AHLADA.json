@@ -1,14 +1,14 @@
 {
   "ticker": "AHLADA",
-  "collected_at": "2026-07-14 04:27:21",
+  "collected_at": "2026-07-15 04:26:36",
   "company_info": {
     "name": "Ahlada Engineers Limited",
     "sector": "Industrials",
     "industry": "Building Products & Equipment",
-    "market_cap": 498233792,
-    "current_price": 38.56,
-    "pe_ratio": 21.30387,
-    "pb_ratio": 0.36353353,
+    "market_cap": 506373984,
+    "current_price": 39.19,
+    "pe_ratio": 21.651934,
+    "pb_ratio": 0.36947298,
     "roe": 0.0012899999,
     "debt_to_equity": 27.946,
     "revenue": 1008452992,
@@ -16,6 +16,6 @@
     "eps": 1.81,
     "52_week_high": 72.5,
     "52_week_low": 31.22,
-    "dividend_yield": 4.19
+    "dividend_yield": 4.15
   }
 }

@@ -1,28 +1,21 @@
 {
   "ticker": "LUPIN",
   "company": "Lupin Limited",
-  "collected_at": "2026-07-14 04:47:12",
+  "collected_at": "2026-07-15 04:46:03",
   "directors": [
     {
       "name": "Ms. Vinita D. Gupta",
       "role": "CEO & Executive Director",
       "age": 57,
       "year_born": 1968,
-      "total_pay": 271300000
+      "total_pay": 266900000
     },
     {
       "name": "Mr. Ramesh  Swaminathan",
       "role": "Executive Director, Global CFO, CRO & Head of API Plus SBU and IT",
       "age": 59,
       "year_born": 1966,
-      "total_pay": 82500000
-    },
-    {
-      "name": "Mr. Nilesh Deshbandhu Gupta",
-      "role": "MD & Executive Director",
-      "age": 50,
-      "year_born": 1975,
-      "total_pay": 110500000
+      "total_pay": 93300000
     },
     {
       "name": "Mr. Christoph  Funke",
@@ -69,6 +62,13 @@
     {
       "name": "Dr. Sofia  Mumtaz",
       "role": "President of Legal and Compliance, Canada, ANZ, and NEA business",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Cyrus  Karkaria",
+      "role": "President of Biotech Business",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

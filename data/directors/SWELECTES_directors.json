@@ -1,77 +1,28 @@
 {
   "ticker": "SWELECTES",
   "company": "Swelect Energy Systems Limited",
-  "collected_at": "2026-07-14 05:01:57",
+  "collected_at": "2026-07-15 04:59:18",
   "directors": [
-    {
-      "name": "Mr. Arthanari  Balan",
-      "role": "Joint MD & Executive Director",
-      "age": 72,
-      "year_born": 1953,
-      "total_pay": 5302000
-    },
-    {
-      "name": "Mr. Ramasamy Gounder Chellappan B.E., I.E.E.E.",
-      "role": "Whole-time Director & Vice Chairman",
-      "age": 72,
-      "year_born": 1953,
-      "total_pay": 8879000
-    },
-    {
-      "name": "Ms. Nikhila  Ramesh",
-      "role": "Chief Financial Officer",
-      "age": 31,
-      "year_born": 1994,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ms. J.  Bhuvaneswari",
-      "role": "Company Secretary & Compliance Officer",
-      "age": 50,
-      "year_born": 1975,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ms. Preetha  Balan",
-      "role": "VP of HR & Process",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
     {
       "name": "Mr. Konganapuram Venkatesan Nachiappan",
       "role": "Whole Time Director",
       "age": 60,
       "year_born": 1965,
-      "total_pay": 4579000
+      "total_pay": 4438000
     },
     {
       "name": "Mr. Venkatagiri Chellappan Raghunath",
       "role": "Whole Time Director",
       "age": 44,
       "year_born": 1981,
-      "total_pay": 3140000
+      "total_pay": 3236000
     },
     {
       "name": "Ms. Venkatagiri Chellappan Mirunalini",
       "role": "Whole Time Director",
       "age": 41,
       "year_born": 1984,
-      "total_pay": 3098000
-    },
-    {
-      "name": "Dr. Arulkumar Pudur Shanmugasundaram Ph.D.",
-      "role": "MD & CEO",
-      "age": 57,
-      "year_born": 1968,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. V. Venkatesh Kumar",
-      "role": "Vice President of Operational & Special Projects",
-      "age": 54,
-      "year_born": 1971,
-      "total_pay": "N/A"
+      "total_pay": 3170000
     }
   ]
 }
