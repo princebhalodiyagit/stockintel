@@ -1,14 +1,14 @@
 {
   "ticker": "SMCGLOBAL",
-  "collected_at": "2026-07-15 04:57:23",
+  "collected_at": "2026-07-16 05:11:41",
   "company_info": {
     "name": "SMC Global Securities Limited",
     "sector": "Financial Services",
     "industry": "Capital Markets",
-    "market_cap": 16800162816,
-    "current_price": 80.23,
-    "pe_ratio": 16.474333,
-    "pb_ratio": 1.28838,
+    "market_cap": 17131013120,
+    "current_price": 81.81,
+    "pe_ratio": 16.798767,
+    "pb_ratio": 1.3137525,
     "roe": 0.081750005,
     "debt_to_equity": 163.316,
     "revenue": 16552204288,
@@ -16,6 +16,6 @@
     "eps": 4.87,
     "52_week_high": 94.9,
     "52_week_low": 54.44,
-    "dividend_yield": 1.57
+    "dividend_yield": 1.51
   }
 }

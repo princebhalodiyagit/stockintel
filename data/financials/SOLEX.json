@@ -1,14 +1,14 @@
 {
   "ticker": "SOLEX",
-  "collected_at": "2026-07-15 04:57:33",
+  "collected_at": "2026-07-16 05:11:51",
   "company_info": {
     "name": "Solex Energy Limited",
     "sector": "Technology",
     "industry": "Solar",
-    "market_cap": 10956964864,
-    "current_price": 1014.3,
-    "pe_ratio": 11.408165,
-    "pb_ratio": 4.331339,
+    "market_cap": 10799248384,
+    "current_price": 999.7,
+    "pe_ratio": 11.243955,
+    "pb_ratio": 4.268993,
     "roe": 0.47055998,
     "debt_to_equity": 132.242,
     "revenue": 16180629504,
@@ -16,6 +16,6 @@
     "eps": 88.91,
     "52_week_high": 1985.0,
     "52_week_low": 795.45,
-    "dividend_yield": 0.05
+    "dividend_yield": 0.06
   }
 }

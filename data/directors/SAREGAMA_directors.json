@@ -1,7 +1,7 @@
 {
   "ticker": "SAREGAMA",
   "company": "Saregama India Limited",
-  "collected_at": "2026-07-15 04:55:33",
+  "collected_at": "2026-07-16 05:09:40",
   "directors": [
     {
       "name": "Mr. Vikram  Mehra",
@@ -9,13 +9,6 @@
       "age": 54,
       "year_born": 1971,
       "total_pay": 125549000
-    },
-    {
-      "name": "Mr. Kuldeep  Kothari",
-      "role": "Deputy GM & Interim CFO",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
     },
     {
       "name": "Mr. Yazad  Anklesaria",
@@ -71,6 +64,13 @@
       "role": "Senior Vice President of Music",
       "age": 52,
       "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Aditi  Shrivastava",
+      "role": "Co-Founder & Chief Executive Officer of Pocket Aces Pictures Private Limited",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

@@ -1,22 +1,8 @@
 {
   "ticker": "GODREJAGRO",
   "company": "Godrej Agrovet Limited",
-  "collected_at": "2026-07-15 04:38:11",
+  "collected_at": "2026-07-16 04:51:06",
   "directors": [
-    {
-      "name": "Mr. Burjis Nadir Godrej",
-      "role": "Executive Director",
-      "age": 33,
-      "year_born": 1992,
-      "total_pay": 14184766
-    },
-    {
-      "name": "Mr. Sunil  Kataria",
-      "role": "MD, CEO & Director",
-      "age": 57,
-      "year_born": 1968,
-      "total_pay": "N/A"
-    },
     {
       "name": "Mr. Subramanian  Varadaraj",
       "role": "CFO and Head of Legal & IT",
@@ -69,6 +55,20 @@
     {
       "name": "Mr. Sougata  Niyogi",
       "role": "Chief Executive Officer of Oil Palm Business",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Captain A.Y.  Rajendra",
+      "role": "Chief Executive Officer of Aqua Feed & Animal Feed Business",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sivaram  Yadavalli",
+      "role": "Head of Strategy, Digital & Business Development",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

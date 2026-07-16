@@ -1,14 +1,14 @@
 {
   "ticker": "FDC",
-  "collected_at": "2026-07-15 04:36:26",
+  "collected_at": "2026-07-16 04:49:13",
   "company_info": {
     "name": "FDC Limited",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - Specialty & Generic",
-    "market_cap": 69226848256,
-    "current_price": 425.2,
-    "pe_ratio": 24.592249,
-    "pb_ratio": 2.7859862,
+    "market_cap": 67777835008,
+    "current_price": 416.3,
+    "pe_ratio": 24.0775,
+    "pb_ratio": 2.7276716,
     "roe": 0.118090004,
     "debt_to_equity": 0.622,
     "revenue": 21709332480,
@@ -16,6 +16,6 @@
     "eps": 17.29,
     "52_week_high": 527.8,
     "52_week_low": 312.95,
-    "dividend_yield": 2.34
+    "dividend_yield": 2.37
   }
 }

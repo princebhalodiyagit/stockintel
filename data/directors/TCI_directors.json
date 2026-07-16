@@ -1,7 +1,7 @@
 {
   "ticker": "TCI",
   "company": "Transport Corporation of India Limited",
-  "collected_at": "2026-07-15 04:59:54",
+  "collected_at": "2026-07-16 05:14:21",
   "directors": [
     {
       "name": "Mr. Dharmpal P. Agarwal B.Com.",
@@ -22,13 +22,6 @@
       "role": "Group Chief Financial Officer",
       "age": 52,
       "year_born": 1973,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Rajkiran  Kanagala",
-      "role": "Chief Business Officer",
-      "age": 54,
-      "year_born": 1971,
       "total_pay": "N/A"
     },
     {
@@ -67,8 +60,15 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Sunil  Kumar",
-      "role": "Compliance Officer",
+      "name": "Mr. Pabitra Mohan Panda",
+      "role": "Chief Operating Officer of TCI Express",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Uday Prakash Maydeo",
+      "role": "Head of IT",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

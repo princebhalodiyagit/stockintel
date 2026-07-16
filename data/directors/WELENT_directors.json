@@ -1,7 +1,7 @@
 {
   "ticker": "WELENT",
   "company": "Welspun Enterprises Limited",
-  "collected_at": "2026-07-15 05:03:22",
+  "collected_at": "2026-07-16 05:18:04",
   "directors": [
     {
       "name": "Mr. Balkrishan Gopiram K. Goenka",
@@ -9,13 +9,6 @@
       "age": 59,
       "year_born": 1966,
       "total_pay": 75000000
-    },
-    {
-      "name": "Mr. Sandeep Kumar Garg C.A., L.L.B.",
-      "role": "MD & Director",
-      "age": 65,
-      "year_born": 1960,
-      "total_pay": 55000000
     },
     {
       "name": "Mr. Abhishek  Chaudhary",
@@ -71,6 +64,13 @@
       "role": "Senior Vice President of Execution",
       "age": 59,
       "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Yogen  Lal",
+      "role": "CEO of Business Development & Strategy",
+      "age": 57,
+      "year_born": 1968,
       "total_pay": "N/A"
     }
   ]
