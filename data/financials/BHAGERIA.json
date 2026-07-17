@@ -1,14 +1,14 @@
 {
   "ticker": "BHAGERIA",
-  "collected_at": "2026-07-16 04:42:47",
+  "collected_at": "2026-07-17 04:44:14",
   "company_info": {
     "name": "Bhageria Industries Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals",
-    "market_cap": 8990701568,
-    "current_price": 206.0,
-    "pe_ratio": 19.507574,
-    "pb_ratio": 1.5062554,
+    "market_cap": 8903412736,
+    "current_price": 204.0,
+    "pe_ratio": 19.318182,
+    "pb_ratio": 1.4916315,
     "roe": 0.07739,
     "debt_to_equity": 18.402,
     "revenue": 8739649536,
@@ -16,6 +16,6 @@
     "eps": 10.56,
     "52_week_high": 244.6,
     "52_week_low": 127.51,
-    "dividend_yield": 1.2
+    "dividend_yield": 1.21
   }
 }

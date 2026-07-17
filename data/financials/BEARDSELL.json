@@ -1,14 +1,14 @@
 {
   "ticker": "BEARDSELL",
-  "collected_at": "2026-07-16 04:42:30",
+  "collected_at": "2026-07-17 04:43:59",
   "company_info": {
     "name": "Beardsell Limited",
     "sector": "Industrials",
     "industry": "Building Products & Equipment",
-    "market_cap": 1090433024,
-    "current_price": 27.65,
-    "pe_ratio": 9.534482,
-    "pb_ratio": 1.1861862,
+    "market_cap": 1092404992,
+    "current_price": 27.7,
+    "pe_ratio": 9.551724,
+    "pb_ratio": 1.1883312,
     "roe": 0.13226,
     "debt_to_equity": 24.168,
     "revenue": 2750400000,
@@ -16,6 +16,6 @@
     "eps": 2.9,
     "52_week_high": 38.6,
     "52_week_low": 20.02,
-    "dividend_yield": 0.34
+    "dividend_yield": 0.35
   }
 }

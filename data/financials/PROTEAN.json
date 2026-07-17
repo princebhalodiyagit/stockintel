@@ -1,14 +1,14 @@
 {
   "ticker": "PROTEAN",
-  "collected_at": "2026-07-16 05:06:39",
+  "collected_at": "2026-07-17 05:04:28",
   "company_info": {
     "name": "Protean eGov Technologies Limited",
     "sector": "Technology",
     "industry": "Information Technology Services",
-    "market_cap": 24088367104,
-    "current_price": 593.0,
-    "pe_ratio": 23.998383,
-    "pb_ratio": 2.232563,
+    "market_cap": 23631378432,
+    "current_price": 581.75,
+    "pe_ratio": 23.5431,
+    "pb_ratio": 2.1902082,
     "roe": 0.09689999,
     "debt_to_equity": 8.121,
     "revenue": 9977499648,
@@ -16,6 +16,6 @@
     "eps": 24.71,
     "52_week_high": 945.5,
     "52_week_low": 444.0,
-    "dividend_yield": 1.7
+    "dividend_yield": 1.69
   }
 }

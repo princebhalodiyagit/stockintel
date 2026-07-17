@@ -1,14 +1,14 @@
 {
   "ticker": "PNCINFRA",
-  "collected_at": "2026-07-16 05:05:54",
+  "collected_at": "2026-07-17 05:03:50",
   "company_info": {
     "name": "PNC Infratech Limited",
     "sector": "Industrials",
     "industry": "Engineering & Construction",
-    "market_cap": 62082478080,
-    "current_price": 242.0,
-    "pe_ratio": 7.4645286,
-    "pb_ratio": 0.9120614,
+    "market_cap": 62159441920,
+    "current_price": 242.3,
+    "pe_ratio": 7.473782,
+    "pb_ratio": 0.9131921,
     "roe": 0.1299,
     "debt_to_equity": 75.883,
     "revenue": 53681016832,
@@ -16,6 +16,6 @@
     "eps": 32.42,
     "52_week_high": 331.8,
     "52_week_low": 158.17,
-    "dividend_yield": 0.25
+    "dividend_yield": 0.24
   }
 }
