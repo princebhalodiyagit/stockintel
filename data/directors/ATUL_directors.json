@@ -1,7 +1,7 @@
 {
   "ticker": "ATUL",
   "company": "Atul Limited",
-  "collected_at": "2026-07-17 04:42:46",
+  "collected_at": "2026-07-18 04:27:47",
   "directors": [
     {
       "name": "Mr. Sunil Siddharth Lalbhai",
@@ -25,25 +25,11 @@
       "total_pay": 25814415
     },
     {
-      "name": "Mr. Vivek  Gadre",
-      "role": "Whole-time Director",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 24542378
-    },
-    {
       "name": "Mr. Lalit P. Patni",
       "role": "Company Secretary & Chief Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 8543610
-    },
-    {
-      "name": "Mr. Deepak  Ahuja",
-      "role": "Vice President of Human Resources",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
     },
     {
       "name": "Mr. Prabhakar  Chebiyyam",
@@ -71,6 +57,20 @@
       "role": "President",
       "age": 59,
       "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajeev  Kumar",
+      "role": "President",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Tejas  Shukla",
+      "role": "Executive Vice President",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

@@ -1,27 +1,13 @@
 {
   "ticker": "CROMPTON",
   "company": "Crompton Greaves Consumer Electricals Limited",
-  "collected_at": "2026-07-17 04:46:52",
+  "collected_at": "2026-07-18 04:32:57",
   "directors": [
-    {
-      "name": "Mr. Promeet Promode Ghosh",
-      "role": "MD & CEO",
-      "age": 57,
-      "year_born": 1968,
-      "total_pay": 126205987
-    },
     {
       "name": "Mr. Kaleeswaran  Arunachalam",
       "role": "Group CFO & Head of Strategy",
       "age": 45,
       "year_born": 1980,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ms. Anita  Pansare",
-      "role": "Head Innovation & Chief Technology Officer",
-      "age": "N/A",
-      "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
@@ -69,6 +55,20 @@
     {
       "name": "Mr. Sachin  Phartiyal",
       "role": "Head of Home Electricals Business Unit",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ketan  Chaudhari",
+      "role": "Head of Product Line - Small Domestic Appliances",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Malhar  Vadke",
+      "role": "Head of Product Line - Large Domestic Appliances",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

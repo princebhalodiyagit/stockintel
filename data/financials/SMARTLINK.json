@@ -1,14 +1,14 @@
 {
   "ticker": "SMARTLINK",
-  "collected_at": "2026-07-17 05:08:41",
+  "collected_at": "2026-07-18 05:00:20",
   "company_info": {
     "name": "Smartlink Holdings Limited",
     "sector": "Technology",
     "industry": "Communication Equipment",
-    "market_cap": 2102231296,
-    "current_price": 210.75,
-    "pe_ratio": 15.990136,
-    "pb_ratio": 1.0020112,
+    "market_cap": 2076396032,
+    "current_price": 208.16,
+    "pe_ratio": 15.793627,
+    "pb_ratio": 0.98969704,
     "roe": 0.06474,
     "debt_to_equity": 1.194,
     "revenue": 2693475072,
@@ -16,6 +16,6 @@
     "eps": 13.18,
     "52_week_high": 215.25,
     "52_week_low": 103.5,
-    "dividend_yield": 1.02
+    "dividend_yield": 0.97
   }
 }

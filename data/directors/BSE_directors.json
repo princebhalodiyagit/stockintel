@@ -1,7 +1,7 @@
 {
   "ticker": "BSE",
   "company": "BSE Limited",
-  "collected_at": "2026-07-17 04:45:07",
+  "collected_at": "2026-07-18 04:30:45",
   "directors": [
     {
       "name": "Mr. Sundararaman  Ramamurthy",
@@ -29,13 +29,6 @@
       "role": "Company Secretary & Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ms. Sushri Kamala Kantharaj",
-      "role": "Chief Regulatory Officer",
-      "age": 59,
-      "year_born": 1966,
       "total_pay": "N/A"
     },
     {
@@ -71,6 +64,13 @@
       "role": "Chief Technology Officer",
       "age": 45,
       "year_born": 1980,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Yogesh  Joshi",
+      "role": "Head of Investor Relations",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

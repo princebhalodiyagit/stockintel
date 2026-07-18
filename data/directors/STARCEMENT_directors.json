@@ -1,20 +1,13 @@
 {
   "ticker": "STARCEMENT",
   "company": "Star Cement Limited",
-  "collected_at": "2026-07-17 05:09:26",
+  "collected_at": "2026-07-18 05:01:16",
   "directors": [
     {
       "name": "Mr. Sajjan  Bhajanka",
       "role": "MD & Chairman",
       "age": 73,
       "year_born": 1952,
-      "total_pay": 19800000
-    },
-    {
-      "name": "Mr. Prem Kumar Bhajanka",
-      "role": "Vice Chairman & MD",
-      "age": 67,
-      "year_born": 1958,
       "total_pay": 19800000
     },
     {
@@ -58,20 +51,6 @@
       "age": 54,
       "year_born": 1971,
       "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Pankaj  Kejriwal",
-      "role": "Executive Director",
-      "age": 54,
-      "year_born": 1971,
-      "total_pay": 29000000
-    },
-    {
-      "name": "Mr. Sanjay  Agarwal",
-      "role": "MD & Executive Non-Independent Director",
-      "age": 64,
-      "year_born": 1961,
-      "total_pay": 19800000
     }
   ]
 }

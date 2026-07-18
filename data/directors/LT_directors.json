@@ -1,7 +1,7 @@
 {
   "ticker": "LT",
   "company": "Larsen & Toubro Limited",
-  "collected_at": "2026-07-17 04:58:16",
+  "collected_at": "2026-07-18 04:47:14",
   "directors": [
     {
       "name": "Mr. Sekharipuram Narayanan Subrahmanyan",
@@ -32,27 +32,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Tharayil Madhava Das B.Tech.",
-      "role": "Senior EVP of Utilities & Whole-Time Director",
-      "age": 62,
-      "year_born": 1963,
-      "total_pay": 349500000
-    },
-    {
-      "name": "Mr. Sudhindra Vasantrao Desai",
-      "role": "Senior EVP of Civil Infrastructure & Whole-Time Director",
-      "age": 65,
-      "year_born": 1960,
-      "total_pay": 401600000
-    },
-    {
-      "name": "Mr. Anil Vithal Parab",
-      "role": "Senior EVP of Heavy Engineering & Manufacturing and Whole-Time Director",
-      "age": 64,
-      "year_born": 1961,
-      "total_pay": 252000000
-    },
-    {
       "name": "Mr. Parameswaran  Ramakrishnan",
       "role": "CFO, Senior VP of Corporate Accounts, Taxation & IR and Chief IR Officer",
       "age": 57,
@@ -71,6 +50,27 @@
       "role": "Group General Counsel",
       "age": 67,
       "year_born": 1958,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "SPS Prince Jeevanand",
+      "role": "Head of HR",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sharat Chandra Bhargava",
+      "role": "Senior Vice President of Electrical & Automation",
+      "age": 75,
+      "year_born": 1950,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Shaji  John",
+      "role": "Chief of Solar Initiatives",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

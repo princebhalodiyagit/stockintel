@@ -1,14 +1,14 @@
 {
   "ticker": "FIEMIND",
-  "collected_at": "2026-07-17 04:49:43",
+  "collected_at": "2026-07-18 04:36:32",
   "company_info": {
     "name": "Fiem Industries Limited",
     "sector": "Consumer Cyclical",
     "industry": "Auto Parts",
-    "market_cap": 60435202048,
-    "current_price": 2296.2,
-    "pe_ratio": 23.655094,
-    "pb_ratio": 4.974049,
+    "market_cap": 59803529216,
+    "current_price": 2272.2,
+    "pe_ratio": 23.40785,
+    "pb_ratio": 4.92206,
     "roe": 0.22686,
     "debt_to_equity": 5.395,
     "revenue": 27924768768,
@@ -16,6 +16,6 @@
     "eps": 97.07,
     "52_week_high": 2555.3,
     "52_week_low": 1794.0,
-    "dividend_yield": 1.77
+    "dividend_yield": 1.73
   }
 }

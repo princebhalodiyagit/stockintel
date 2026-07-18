@@ -1,7 +1,7 @@
 {
   "ticker": "DIVISLAB",
   "company": "Divi's Laboratories Limited",
-  "collected_at": "2026-07-17 04:48:00",
+  "collected_at": "2026-07-18 04:34:22",
   "directors": [
     {
       "name": "Dr. Kiran Satchandra Divi B. Pharm., M.Pharm",
@@ -53,13 +53,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. M. Satish Choudhury",
-      "role": "Company Secretary & Compliance Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Satya Prakash Divi B.Tech (Mech), MBA, MS (CIS)",
       "role": "Vice President of Sales, Marketing & Logistics",
       "age": 48,
@@ -71,6 +64,13 @@
       "role": "Global Quality Head",
       "age": 56,
       "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. M. Ramesh Babu B.Sc.",
+      "role": "Chief Technologist - PDSC",
+      "age": 59,
+      "year_born": 1966,
       "total_pay": "N/A"
     }
   ]

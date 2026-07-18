@@ -1,27 +1,13 @@
 {
   "ticker": "NITTAGELA",
   "company": "Nitta Gelatin India Limited",
-  "collected_at": "2026-07-17 05:01:49",
+  "collected_at": "2026-07-18 04:51:38",
   "directors": [
-    {
-      "name": "Mr. Praveen  Venkataramanan",
-      "role": "Managing Director",
-      "age": 53,
-      "year_born": 1972,
-      "total_pay": 21240022
-    },
     {
       "name": "Mr. Hidenori  Takemiya",
       "role": "President & Director",
       "age": 60,
       "year_born": 1965,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Uppiliyappan  C",
-      "role": "Chief Financial Officer",
-      "age": "N/A",
-      "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
@@ -44,13 +30,6 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 1645693
-    },
-    {
-      "name": "Mr. Pradeep  T",
-      "role": "Head of Commercial",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
     }
   ]
 }
