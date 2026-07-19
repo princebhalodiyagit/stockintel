@@ -1,15 +1,8 @@
 {
   "ticker": "ORIENTPPR",
   "company": "Orient Paper & Industries Limited",
-  "collected_at": "2026-07-17 05:02:43",
+  "collected_at": "2026-07-19 05:09:50",
   "directors": [
-    {
-      "name": "Mr. Anant  Agarwal",
-      "role": "MD, CEO & Director",
-      "age": 52,
-      "year_born": 1973,
-      "total_pay": 24440219
-    },
     {
       "name": "Mr. Amit  Poddar",
       "role": "Chief Financial Officer",
@@ -69,6 +62,13 @@
     {
       "name": "Mr. Saikat  Basu",
       "role": "Chief Sales Officer of Paper Business",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pankaj  Sharma",
+      "role": "VP and Head of Engineering & Projects",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

@@ -1,7 +1,7 @@
 {
   "ticker": "KIRLOSBROS",
   "company": "Kirloskar Brothers Limited",
-  "collected_at": "2026-07-17 04:56:50",
+  "collected_at": "2026-07-19 05:04:01",
   "directors": [
     {
       "name": "Mr. Sanjay Chandrakant Kirloskar",
@@ -9,13 +9,6 @@
       "age": 68,
       "year_born": 1957,
       "total_pay": 69010000
-    },
-    {
-      "name": "Ms. Rama Sanjay Kirloskar",
-      "role": "Joint MD & Executive Non-Independent Director",
-      "age": 34,
-      "year_born": 1991,
-      "total_pay": 65060000
     },
     {
       "name": "Anil R. Nerlekar",
@@ -46,20 +39,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Vikas  Agarwal",
-      "role": "VP & Head - Water, Irrigation and Power Sector",
-      "age": 49,
-      "year_born": 1976,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Shingo  Nakamura",
-      "role": "VP and Head - Total Quality & Productive Maintenance",
-      "age": 69,
-      "year_born": 1956,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Sunil  Nair",
       "role": "VP and Head \u0096 Procurement & Strategic Projects",
       "age": 46,
@@ -71,6 +50,27 @@
       "role": "Plant Head of Ahmedabad Operations",
       "age": 45,
       "year_born": 1980,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Pradeep  Kulkarni",
+      "role": "Associate VP & Head of Quality",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Raju  Pendhare",
+      "role": "GM & Plant Head of Dewas plant",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Bhalchandra  Limaye",
+      "role": "Deputy GM & Head of Project Execution",
+      "age": 58,
+      "year_born": 1967,
       "total_pay": "N/A"
     }
   ]
