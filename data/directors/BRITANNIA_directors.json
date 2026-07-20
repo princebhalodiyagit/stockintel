@@ -1,22 +1,8 @@
 {
   "ticker": "BRITANNIA",
   "company": "Britannia Industries Limited",
-  "collected_at": "2026-07-19 04:52:17",
+  "collected_at": "2026-07-20 05:10:00",
   "directors": [
-    {
-      "name": "Mr. Natarajan  Venkataraman",
-      "role": "CFO & Executive Director",
-      "age": 60,
-      "year_born": 1965,
-      "total_pay": 42900000
-    },
-    {
-      "name": "Mr. Rakshit  Hargave",
-      "role": "MD, CEO & Executive Director",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 85200000
-    },
     {
       "name": "Mr. Ramamurthy  Jayaraman",
       "role": "Vice President of Corporate Finance",
@@ -69,6 +55,20 @@
     {
       "name": "Mr. Manoj  Balgi",
       "role": "Chief Manufacturing & Procurement Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vipin Kumar Kataria",
+      "role": "Chief Commercial Officer of Sales & Replenishment",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Yogesh  Vaidya",
+      "role": "Head of Contract Manufacturing",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

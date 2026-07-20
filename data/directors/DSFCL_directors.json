@@ -1,15 +1,8 @@
 {
   "ticker": "DSFCL",
   "company": "DCM Shriram Fine Chemicals Limited",
-  "collected_at": "2026-07-19 04:55:30",
+  "collected_at": "2026-07-20 05:13:22",
   "directors": [
-    {
-      "name": "Mr. Akshay  Dhar",
-      "role": "MD, CEO & Director",
-      "age": 40,
-      "year_born": 1985,
-      "total_pay": 8485181
-    },
     {
       "name": "Mr. Naresh  Handa",
       "role": "Chief Financial Officer",
@@ -23,20 +16,6 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 2011000
-    },
-    {
-      "name": "Dr. Sandeep  Bajaj",
-      "role": "Director of Business Development & Executive Director",
-      "age": 55,
-      "year_born": 1970,
-      "total_pay": 2714046
-    },
-    {
-      "name": "Ms. Urvashi  Tilakdhar",
-      "role": "Senior MD & Director",
-      "age": 68,
-      "year_born": 1957,
-      "total_pay": 12673579
     },
     {
       "name": "Mr. Jaideep  Dan",
@@ -71,6 +50,13 @@
       "role": "Deputy GM of TECH",
       "age": 50,
       "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Praveen  Kumar",
+      "role": "Deputy GM of Tech",
+      "age": 28,
+      "year_born": 1997,
       "total_pay": "N/A"
     }
   ]

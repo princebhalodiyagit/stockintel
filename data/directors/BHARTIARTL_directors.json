@@ -1,7 +1,7 @@
 {
   "ticker": "BHARTIARTL",
   "company": "Bharti Airtel Limited",
-  "collected_at": "2026-07-19 04:51:36",
+  "collected_at": "2026-07-20 05:09:17",
   "directors": [
     {
       "name": "Mr. Sunil Bharti Mittal",
@@ -46,13 +46,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Siddharth  Sharma",
-      "role": "CEO of Connected Homes & Chief Marketing Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
       "name": "Ms. Amrita  Padda",
       "role": "Chief People Officer",
       "age": "N/A",
@@ -71,6 +64,13 @@
       "role": "Chief Technical Officer of Hub",
       "age": 61,
       "year_born": 1964,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anant  Arora",
+      "role": "Chief Executive Officer of Strategic Account of Airtel Business",
+      "age": 58,
+      "year_born": 1967,
       "total_pay": "N/A"
     }
   ]

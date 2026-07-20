@@ -1,7 +1,7 @@
 {
   "ticker": "BIRLACORPN",
   "company": "Birla Corporation Limited",
-  "collected_at": "2026-07-19 04:51:45",
+  "collected_at": "2026-07-20 05:09:27",
   "directors": [
     {
       "name": "Mr. Sandip Ranjan Ghose",
@@ -46,13 +46,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. P. K. Paliwal",
-      "role": "Joint President of Durgapur Cement Works & Durga Hitech Cement",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Prahlad Kr Choudhary B.E.",
       "role": "President Maihar Unit",
       "age": "N/A",
@@ -71,6 +64,13 @@
       "role": "President of Birla Cement Works & Chanderia Cement Works",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Abhijit  Dutta",
+      "role": "Unit Head of Mukutban & Vice President of Mukutban Unit",
+      "age": 56,
+      "year_born": 1969,
       "total_pay": "N/A"
     }
   ]

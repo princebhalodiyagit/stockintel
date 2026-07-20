@@ -1,21 +1,21 @@
 {
   "ticker": "ONWARDTEC",
-  "collected_at": "2026-07-19 05:09:37",
+  "collected_at": "2026-07-20 05:27:52",
   "company_info": {
     "name": "Onward Technologies Limited",
     "sector": "Technology",
     "industry": "Information Technology Services",
-    "market_cap": 6268511744,
-    "current_price": 285.8,
-    "pe_ratio": 15.105707,
-    "pb_ratio": 2.5652301,
-    "roe": 0.18552999,
+    "market_cap": 5981187072,
+    "current_price": 272.7,
+    "pe_ratio": 14.41332,
+    "pb_ratio": 2.4476497,
+    "roe": "N/A",
     "debt_to_equity": 15.717,
-    "revenue": 5438523904,
-    "net_income": 443239008,
+    "revenue": 5601312768,
+    "net_income": 427624000,
     "eps": 18.92,
     "52_week_high": 357.6,
     "52_week_low": 208.25,
-    "dividend_yield": 2.82
+    "dividend_yield": 2.8
   }
 }
