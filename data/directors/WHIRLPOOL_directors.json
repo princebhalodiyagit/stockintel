@@ -1,7 +1,7 @@
 {
   "ticker": "WHIRLPOOL",
   "company": "Whirlpool of India Limited",
-  "collected_at": "2026-07-20 05:40:05",
+  "collected_at": "2026-07-21 05:21:06",
   "directors": [
     {
       "name": "Mr. Narasimhan  Eswar",
@@ -9,13 +9,6 @@
       "age": 56,
       "year_born": 1969,
       "total_pay": 126830000
-    },
-    {
-      "name": "Mr. Anuj  Lal",
-      "role": "Executive Director",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 16941660
     },
     {
       "name": "Mr. Aditya  Jain",
@@ -72,6 +65,13 @@
       "age": 58,
       "year_born": 1967,
       "total_pay": 17692832
+    },
+    {
+      "name": "Ganesh  Subramanian",
+      "role": "Head of Service Quality & Systems and Training",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": "N/A"
     }
   ]
 }

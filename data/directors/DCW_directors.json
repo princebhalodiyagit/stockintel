@@ -1,7 +1,7 @@
 {
   "ticker": "DCW",
   "company": "DCW Limited",
-  "collected_at": "2026-07-20 05:12:24",
+  "collected_at": "2026-07-21 04:52:57",
   "directors": [
     {
       "name": "Mr. Bakul Premchand Jain B.Com., MBA",
@@ -23,13 +23,6 @@
       "age": 54,
       "year_born": 1971,
       "total_pay": 18625000
-    },
-    {
-      "name": "Mr. Amitabh  Gupta M.Sc.",
-      "role": "Chief Executive Officer",
-      "age": 74,
-      "year_born": 1951,
-      "total_pay": "N/A"
     },
     {
       "name": "Ms. Sonalika  Jain",
@@ -71,6 +64,13 @@
       "role": "Chief Operating Officer",
       "age": 64,
       "year_born": 1961,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Bhagwat  Patil",
+      "role": "Chief Technology Officer",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]
