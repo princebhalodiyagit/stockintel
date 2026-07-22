@@ -1,76 +1,55 @@
 {
   "ticker": "NIVABUPA",
   "company": "Niva Bupa Health Insurance Company Limited",
-  "collected_at": "2026-07-21 05:08:02",
+  "collected_at": "2026-07-22 05:07:10",
   "directors": [
     {
       "name": "Mr. Krishnan  Ramachandran",
       "role": "MD, CEO & Executive Director",
       "age": 53,
       "year_born": 1972,
-      "total_pay": 116100000
+      "total_pay": 50930000
     },
     {
       "name": "Mr. Vishwanath  Mahendra",
       "role": "CFO & Executive Director",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": 24931000
+    },
+    {
+      "name": "Ms. Smriti  Manchanda",
+      "role": "Head of Internal Audit & Senior VP",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
-      "name": "Dr. Bhabatosh  Mishra",
-      "role": "Director & COO",
+      "name": "Mr. Vipul  Sharma",
+      "role": "Executive VP & Chief Risk Officer",
       "age": 49,
       "year_born": 1976,
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Vikas  Jain",
-      "role": "Executive VP & Chief Investment Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 7159797
-    },
-    {
-      "name": "Mr. Dhiresh  Rustogi",
-      "role": "CTO & Director",
+      "name": "Ms. Rudrakshi  Razdan",
+      "role": "Head of Brand Marketing",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Rajat  Bajaj",
-      "role": "Director and Chief of Legal, Compliance, Secretarial & Regulatory Affairs",
+      "name": "Mr. Manish  Sen",
+      "role": "Executive VP & Appointed Actuary",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
-      "name": "Ms. Aparna  Sharma",
-      "role": "Company Secretary & Compliance Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Nimish  Agrawal",
-      "role": "Director, Chief Marketing Officer & Head of Digital SBU",
-      "age": 40,
-      "year_born": 1985,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Tarun  Katyal",
-      "role": "Chief Sustainability & HR Officer and Director",
-      "age": 33,
-      "year_born": 1992,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Aseem  Gupta",
-      "role": "Head of Bancassurance and Alliances & Director",
-      "age": 50,
-      "year_born": 1975,
+      "name": "Suraj  Mishra",
+      "role": "Senior Director - Talent Academy",
+      "age": 61,
+      "year_born": 1964,
       "total_pay": "N/A"
     }
   ]

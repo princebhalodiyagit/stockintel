@@ -1,14 +1,14 @@
 {
   "ticker": "MOTILALOFS",
-  "collected_at": "2026-07-21 05:06:29",
+  "collected_at": "2026-07-22 05:05:42",
   "company_info": {
     "name": "Motilal Oswal Financial Services Limited",
     "sector": "Financial Services",
     "industry": "Capital Markets",
-    "market_cap": 583209189376,
-    "current_price": 968.55,
-    "pe_ratio": 31.79744,
-    "pb_ratio": 4.523018,
+    "market_cap": 568426496000,
+    "current_price": 944.0,
+    "pe_ratio": 30.991465,
+    "pb_ratio": 4.408372,
     "roe": 0.1555,
     "debt_to_equity": 165.8,
     "revenue": 80511303680,
@@ -16,6 +16,6 @@
     "eps": 30.46,
     "52_week_high": 1097.1,
     "52_week_low": 614.9,
-    "dividend_yield": 1.14
+    "dividend_yield": 1.13
   }
 }

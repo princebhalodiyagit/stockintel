@@ -1,14 +1,14 @@
 {
   "ticker": "ARKADE",
-  "collected_at": "2026-07-21 04:47:28",
+  "collected_at": "2026-07-22 04:47:43",
   "company_info": {
     "name": "Arkade Developers Limited",
     "sector": "Real Estate",
     "industry": "Real Estate - Development",
-    "market_cap": 25439629312,
-    "current_price": 137.02,
-    "pe_ratio": 472.4828,
-    "pb_ratio": 2.8814166,
+    "market_cap": 25508323328,
+    "current_price": 137.39,
+    "pe_ratio": 473.75864,
+    "pb_ratio": 2.889197,
     "roe": 0.006,
     "debt_to_equity": 11.23,
     "revenue": 8164018176,
@@ -16,6 +16,6 @@
     "eps": 0.29,
     "52_week_high": 211.9,
     "52_week_low": 92.62,
-    "dividend_yield": 1.43
+    "dividend_yield": 1.45
   }
 }

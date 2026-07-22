@@ -1,7 +1,7 @@
 {
   "ticker": "LAURUSLABS",
   "company": "Laurus Labs Limited",
-  "collected_at": "2026-07-21 05:03:49",
+  "collected_at": "2026-07-22 05:03:14",
   "directors": [
     {
       "name": "Dr. Satyanarayana  Chava M.Sc., Ph.D.",
@@ -23,13 +23,6 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
-    },
-    {
-      "name": "Dr. Lakshmana Rao Venkata Chunduru M.Sc., Ph.D.",
-      "role": "Executive Director of Quality & Executive Director",
-      "age": 63,
-      "year_born": 1962,
-      "total_pay": 45600000
     },
     {
       "name": "Mr. Krishna Chaitanya Chava",
@@ -71,6 +64,13 @@
       "role": "Executive Vice President of Manufacturing",
       "age": 62,
       "year_born": 1963,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Martyn Oliver-James Peck",
+      "role": "Executive Vice President of Business Development",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

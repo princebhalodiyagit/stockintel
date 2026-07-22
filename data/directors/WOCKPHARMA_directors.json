@@ -1,42 +1,21 @@
 {
   "ticker": "WOCKPHARMA",
   "company": "Wockhardt Limited",
-  "collected_at": "2026-07-21 05:21:13",
+  "collected_at": "2026-07-22 05:19:51",
   "directors": [
     {
       "name": "Dr. Habil Fakhruddin Khorakiwala",
       "role": "Founder & Executive Chairman",
       "age": 84,
       "year_born": 1941,
-      "total_pay": 37400000
+      "total_pay": 50000000
     },
     {
       "name": "Dr. Murtaza Habil Khorakiwala",
       "role": "MD & Executive Director",
       "age": 52,
       "year_born": 1973,
-      "total_pay": 25200000
-    },
-    {
-      "name": "Dr. Huzaifa Habil Khorakiwala",
-      "role": "Executive Director",
-      "age": 54,
-      "year_born": 1971,
-      "total_pay": 25200000
-    },
-    {
-      "name": "Mr. Deepak R. Madnani",
-      "role": "Chief Financial Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Dr. Sachin  Bhagwat",
-      "role": "Chief Scientific Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
+      "total_pay": 28100000
     },
     {
       "name": "Ms. Rashmi Dinesh Mamtura",
@@ -71,6 +50,27 @@
       "role": "Head of Global Regulatory Affairs",
       "age": 55,
       "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Prakash  Gupta",
+      "role": "President of Supply Chain",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ravindra Kamalakar Limaye MPharm",
+      "role": "Managing Director of Wockhardt UK",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Lalit  Aggarwal",
+      "role": "President of Manufacturing",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

@@ -1,20 +1,13 @@
 {
   "ticker": "AAVAS",
   "company": "Aavas Financiers Limited",
-  "collected_at": "2026-07-21 04:45:05",
+  "collected_at": "2026-07-22 04:45:28",
   "directors": [
     {
       "name": "Mr. Ghanshyam  Rawat",
       "role": "Co-Founder, President & CFO",
       "age": 56,
       "year_born": 1969,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Ashutosh  Atre",
-      "role": "President & Chief Risk Officer",
-      "age": 54,
-      "year_born": 1971,
       "total_pay": "N/A"
     },
     {
@@ -71,6 +64,13 @@
       "role": "Senior Vice President of Accounts",
       "age": 49,
       "year_born": 1976,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rakesh  Shinde",
+      "role": "Head of Investor Relations",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

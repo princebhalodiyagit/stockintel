@@ -1,14 +1,14 @@
 {
   "ticker": "DOLATALGO",
-  "collected_at": "2026-07-21 04:53:42",
+  "collected_at": "2026-07-22 04:53:40",
   "company_info": {
     "name": "Dolat Algotech Limited",
     "sector": "Financial Services",
     "industry": "Capital Markets",
-    "market_cap": 12179198976,
-    "current_price": 69.2,
-    "pe_ratio": 9.453551,
-    "pb_ratio": 1.0792264,
+    "market_cap": 12017280000,
+    "current_price": 68.28,
+    "pe_ratio": 9.327868,
+    "pb_ratio": 1.0648783,
     "roe": 0.12114,
     "debt_to_equity": 25.082,
     "revenue": 3603510016,
@@ -16,6 +16,6 @@
     "eps": 7.32,
     "52_week_high": 97.27,
     "52_week_low": 65.0,
-    "dividend_yield": 0.14
+    "dividend_yield": 0.15
   }
 }

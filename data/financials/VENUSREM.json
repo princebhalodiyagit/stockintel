@@ -1,21 +1,21 @@
 {
   "ticker": "VENUSREM",
-  "collected_at": "2026-07-21 05:20:04",
+  "collected_at": "2026-07-22 05:18:43",
   "company_info": {
     "name": "Venus Remedies Limited",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - Specialty & Generic",
-    "market_cap": 23767660544,
-    "current_price": 1776.0,
-    "pe_ratio": 23.11898,
-    "pb_ratio": 3.576391,
-    "roe": 0.16785,
+    "market_cap": 22737192960,
+    "current_price": 1699.0,
+    "pe_ratio": 19.551208,
+    "pb_ratio": 3.4213336,
+    "roe": "N/A",
     "debt_to_equity": 1.87,
-    "revenue": 7696000000,
-    "net_income": 1027800000,
-    "eps": 76.82,
+    "revenue": 8104900096,
+    "net_income": 1161500032,
+    "eps": 86.9,
     "52_week_high": 2044.3,
     "52_week_low": 424.0,
-    "dividend_yield": 0.56
+    "dividend_yield": 0.59
   }
 }

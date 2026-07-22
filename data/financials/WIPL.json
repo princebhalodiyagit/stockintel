@@ -1,14 +1,14 @@
 {
   "ticker": "WIPL",
-  "collected_at": "2026-07-21 05:21:11",
+  "collected_at": "2026-07-22 05:19:48",
   "company_info": {
     "name": "The Western India Plywoods Limited",
     "sector": "Basic Materials",
     "industry": "Lumber & Wood Production",
-    "market_cap": 1427570560,
-    "current_price": 168.2,
-    "pe_ratio": 195.58139,
-    "pb_ratio": 2.8502192,
+    "market_cap": 1409068160,
+    "current_price": 166.02,
+    "pe_ratio": 193.04651,
+    "pb_ratio": 2.8132784,
     "roe": 0.0100300005,
     "debt_to_equity": 20.837,
     "revenue": 1188800000,
@@ -16,6 +16,6 @@
     "eps": 0.86,
     "52_week_high": 193.2,
     "52_week_low": 133.1,
-    "dividend_yield": 0.72
+    "dividend_yield": 0.71
   }
 }

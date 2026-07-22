@@ -1,14 +1,14 @@
 {
   "ticker": "NITIRAJ",
-  "collected_at": "2026-07-21 05:08:00",
+  "collected_at": "2026-07-22 05:07:07",
   "company_info": {
     "name": "Nitiraj Engineers Limited",
     "sector": "Technology",
     "industry": "Scientific & Technical Instruments",
-    "market_cap": 2269366528,
-    "current_price": 221.38,
-    "pe_ratio": 217.03923,
-    "pb_ratio": 2.7642095,
+    "market_cap": 2183462912,
+    "current_price": 213.0,
+    "pe_ratio": 208.82353,
+    "pb_ratio": 2.6595745,
     "roe": 0.01284,
     "debt_to_equity": 0.028,
     "revenue": 464107008,
@@ -16,6 +16,6 @@
     "eps": 1.02,
     "52_week_high": 236.98,
     "52_week_low": 168.0,
-    "dividend_yield": 0.69
+    "dividend_yield": 0.67
   }
 }

@@ -1,7 +1,7 @@
 {
   "ticker": "APLLTD",
   "company": "Alembic Pharmaceuticals Limited",
-  "collected_at": "2026-07-21 04:47:07",
+  "collected_at": "2026-07-22 04:47:24",
   "directors": [
     {
       "name": "Mr. Chirayu Ramanbhai Amin",
@@ -9,20 +9,6 @@
       "age": 79,
       "year_born": 1946,
       "total_pay": 142200000
-    },
-    {
-      "name": "Mr. Shaunak Chirayu Amin",
-      "role": "MD & Executive Director",
-      "age": 47,
-      "year_born": 1978,
-      "total_pay": 191300000
-    },
-    {
-      "name": "Mr. Pranav Chirayu Amin",
-      "role": "MD & Executive Director",
-      "age": 50,
-      "year_born": 1975,
-      "total_pay": 191300000
     },
     {
       "name": "Mr. G.  Krishnan",
@@ -53,13 +39,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Amresh  Choudhary",
-      "role": "Head-Legal & Taxation",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Udit C. Amin",
       "role": "Chief Business Development Officer",
       "age": 45,
@@ -67,11 +46,32 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Ajay Kumar Desai",
-      "role": "Senior Vice President of Finance",
+      "name": "Mr. Nilesh N. Wadhwa",
+      "role": "Head of International Business & Strategy",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pradeep  Chakravarty",
+      "role": "Head of Global Quality",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": 9200000
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manuj  Desai",
+      "role": "Head of Information Technology",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sudhakar  Pandiyan",
+      "role": "Head of Technical Operations (Sterile and Oncology)",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

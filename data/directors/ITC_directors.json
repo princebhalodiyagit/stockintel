@@ -1,7 +1,7 @@
 {
   "ticker": "ITC",
   "company": "ITC Limited",
-  "collected_at": "2026-07-21 05:00:52",
+  "collected_at": "2026-07-22 05:00:28",
   "directors": [
     {
       "name": "Mr. Sanjiv  Puri",
@@ -30,13 +30,6 @@
       "age": 61,
       "year_born": 1964,
       "total_pay": 107989000
-    },
-    {
-      "name": "Mr. Anil K. Rajput",
-      "role": "President of ITC Corporate Affairs",
-      "age": 69,
-      "year_born": 1956,
-      "total_pay": "N/A"
     },
     {
       "name": "Mr. Hemant  Malik",
@@ -71,6 +64,13 @@
       "role": "Chief Digital & Information Officer",
       "age": 48,
       "year_born": 1977,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Shanmuga Sundaram Angamuthu",
+      "role": "General Counsel & Head of Corporate Legal",
+      "age": 58,
+      "year_born": 1967,
       "total_pay": "N/A"
     }
   ]

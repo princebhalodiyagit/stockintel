@@ -1,14 +1,14 @@
 {
   "ticker": "LLOYDSENT",
-  "collected_at": "2026-07-21 05:04:09",
+  "collected_at": "2026-07-22 05:03:32",
   "company_info": {
     "name": "Lloyds Enterprises Limited",
     "sector": "Basic Materials",
     "industry": "Steel",
-    "market_cap": 126841192448,
-    "current_price": 83.09,
-    "pe_ratio": 46.679775,
-    "pb_ratio": 2.9973664,
+    "market_cap": 121131892736,
+    "current_price": 79.35,
+    "pe_ratio": 44.57865,
+    "pb_ratio": 2.8624508,
     "roe": 0.097440004,
     "debt_to_equity": 14.694,
     "revenue": 17562900480,
@@ -16,6 +16,6 @@
     "eps": 1.78,
     "52_week_high": 88.4,
     "52_week_low": 40.69,
-    "dividend_yield": 0.32
+    "dividend_yield": 0.3
   }
 }

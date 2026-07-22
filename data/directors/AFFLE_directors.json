@@ -1,7 +1,7 @@
 {
   "ticker": "AFFLE",
   "company": "Affle 3i Limited",
-  "collected_at": "2026-07-21 04:45:53",
+  "collected_at": "2026-07-22 04:46:13",
   "directors": [
     {
       "name": "Mr. Anuj Khanna Sohum",
@@ -46,13 +46,6 @@
       "total_pay": 2290000
     },
     {
-      "name": "Mr. Nikhil  Kumar",
-      "role": "Chief Growth and Marketing Officer for India & Emerging Markets",
-      "age": 41,
-      "year_born": 1984,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Nishant  Malik",
       "role": "Senior Director of Client & Platform Operations",
       "age": 40,
@@ -71,6 +64,13 @@
       "role": "VP Global Strategic Partnerships of Sales & Marketing",
       "age": 44,
       "year_born": 1981,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jien Foong Yong",
+      "role": "Chief Architect and Technology Officer",
+      "age": 51,
+      "year_born": 1974,
       "total_pay": "N/A"
     }
   ]

@@ -1,14 +1,14 @@
 {
   "ticker": "UNIENTER",
-  "collected_at": "2026-07-21 05:19:26",
+  "collected_at": "2026-07-22 05:18:05",
   "company_info": {
     "name": "Uniphos Enterprises Limited",
     "sector": "Basic Materials",
     "industry": "Chemicals",
-    "market_cap": 7135404032,
-    "current_price": 102.6,
-    "pe_ratio": 34.42953,
-    "pb_ratio": 0.29162556,
+    "market_cap": 7113149440,
+    "current_price": 102.28,
+    "pe_ratio": 34.322147,
+    "pb_ratio": 0.290716,
     "roe": 0.00798,
     "debt_to_equity": "N/A",
     "revenue": 320027008,
@@ -16,6 +16,6 @@
     "eps": 2.98,
     "52_week_high": 168.5,
     "52_week_low": 87.51,
-    "dividend_yield": 3.38
+    "dividend_yield": 3.44
   }
 }

@@ -1,14 +1,14 @@
 {
   "ticker": "AAATECH",
-  "collected_at": "2026-07-21 04:44:54",
+  "collected_at": "2026-07-22 04:45:18",
   "company_info": {
     "name": "AAA Technologies Limited",
     "sector": "Technology",
     "industry": "Information Technology Services",
-    "market_cap": 1183144064,
-    "current_price": 92.24,
-    "pe_ratio": 57.291924,
-    "pb_ratio": 3.8539317,
+    "market_cap": 1173267456,
+    "current_price": 91.47,
+    "pe_ratio": 56.813663,
+    "pb_ratio": 3.82176,
     "roe": 0.06677,
     "debt_to_equity": "N/A",
     "revenue": 203786000,
@@ -16,6 +16,6 @@
     "eps": 1.61,
     "52_week_high": 136.0,
     "52_week_low": 76.11,
-    "dividend_yield": 1.68
+    "dividend_yield": 1.62
   }
 }
