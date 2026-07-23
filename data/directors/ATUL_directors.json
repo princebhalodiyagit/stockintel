@@ -1,7 +1,7 @@
 {
   "ticker": "ATUL",
   "company": "Atul Limited",
-  "collected_at": "2026-07-22 04:48:22",
+  "collected_at": "2026-07-23 04:53:13",
   "directors": [
     {
       "name": "Mr. Sunil Siddharth Lalbhai",
@@ -30,13 +30,6 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 8543610
-    },
-    {
-      "name": "Mr. Prabhakar  Chebiyyam",
-      "role": "President",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
     },
     {
       "name": "Dr. Parasu Veera Uppara B.Tech., Ph.D.",
@@ -68,6 +61,13 @@
     },
     {
       "name": "Mr. Tejas  Shukla",
+      "role": "Executive Vice President",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Barun  Ghosh",
       "role": "Executive Vice President",
       "age": "N/A",
       "year_born": "N/A",

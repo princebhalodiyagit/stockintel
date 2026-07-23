@@ -1,14 +1,14 @@
 {
   "ticker": "SBCL",
-  "collected_at": "2026-07-22 05:12:31",
+  "collected_at": "2026-07-23 05:21:13",
   "company_info": {
     "name": "Shivalik Bimetal Controls Limited",
     "sector": "Industrials",
     "industry": "Metal Fabrication",
-    "market_cap": 42808561664,
-    "current_price": 743.15,
-    "pe_ratio": 44.606846,
-    "pb_ratio": 8.8577795,
+    "market_cap": 42750959616,
+    "current_price": 742.15,
+    "pe_ratio": 44.54682,
+    "pb_ratio": 8.8458605,
     "roe": 0.21614,
     "debt_to_equity": 14.779,
     "revenue": 5708606976,
@@ -16,6 +16,6 @@
     "eps": 16.66,
     "52_week_high": 814.0,
     "52_week_low": 368.6,
-    "dividend_yield": 0.54
+    "dividend_yield": 0.53
   }
 }
