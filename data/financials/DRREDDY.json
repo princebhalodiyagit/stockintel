@@ -1,21 +1,21 @@
 {
   "ticker": "DRREDDY",
-  "collected_at": "2026-07-23 04:59:36",
+  "collected_at": "2026-07-24 04:58:07",
   "company_info": {
     "name": "Dr. Reddy's Laboratories Limited",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - Specialty & Generic",
-    "market_cap": 959134040064,
-    "current_price": 1151.8,
-    "pe_ratio": 22.857712,
-    "pb_ratio": 2.5435932,
-    "roe": 0.11835,
+    "market_cap": 947475841024,
+    "current_price": 1137.8,
+    "pe_ratio": 29.032919,
+    "pb_ratio": 2.512676,
+    "roe": "N/A",
     "debt_to_equity": 20.328,
-    "revenue": 335933014016,
-    "net_income": 42850000896,
-    "eps": 50.39,
+    "revenue": 331186012160,
+    "net_income": 33106999296,
+    "eps": 39.19,
     "52_week_high": 1414.9,
     "52_week_low": 1101.0,
-    "dividend_yield": 0.66
+    "dividend_yield": 0.68
   }
 }

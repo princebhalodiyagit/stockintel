@@ -1,14 +1,14 @@
 {
   "ticker": "RUBFILA",
-  "collected_at": "2026-07-23 05:20:12",
+  "collected_at": "2026-07-24 05:21:39",
   "company_info": {
     "name": "Rubfila International Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals",
-    "market_cap": 3926798336,
-    "current_price": 72.36,
-    "pe_ratio": 14.385685,
-    "pb_ratio": 1.1419013,
+    "market_cap": 3908889856,
+    "current_price": 72.03,
+    "pe_ratio": 14.320079,
+    "pb_ratio": 1.1366936,
     "roe": 0.08805,
     "debt_to_equity": 0.326,
     "revenue": 6024995840,
@@ -16,6 +16,6 @@
     "eps": 5.03,
     "52_week_high": 89.24,
     "52_week_low": 57.31,
-    "dividend_yield": 2.72
+    "dividend_yield": 2.75
   }
 }

@@ -1,21 +1,21 @@
 {
   "ticker": "AURIONPRO",
-  "collected_at": "2026-07-23 04:53:17",
+  "collected_at": "2026-07-24 04:50:55",
   "company_info": {
     "name": "Aurionpro Solutions Limited",
-    "sector": "N/A",
-    "industry": "N/A",
-    "market_cap": 45471100928,
-    "current_price": "N/A",
-    "pe_ratio": 21.352087,
-    "pb_ratio": 2.550567,
-    "roe": "N/A",
-    "debt_to_equity": "N/A",
-    "revenue": "N/A",
-    "net_income": "N/A",
-    "eps": "N/A",
-    "52_week_high": 1558.3,
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "market_cap": 44402720768,
+    "current_price": 804.2,
+    "pe_ratio": 20.86122,
+    "pb_ratio": 2.4906392,
+    "roe": 0.13245,
+    "debt_to_equity": 3.478,
+    "revenue": 14110851072,
+    "net_income": 2129586048,
+    "eps": 38.55,
+    "52_week_high": 1507.0,
     "52_week_low": 719.6,
-    "dividend_yield": 0.72
+    "dividend_yield": 0.73
   }
 }

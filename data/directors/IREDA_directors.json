@@ -1,15 +1,8 @@
 {
   "ticker": "IREDA",
   "company": "Indian Renewable Energy Development Agency Limited",
-  "collected_at": "2026-07-23 05:07:06",
+  "collected_at": "2026-07-24 05:06:40",
   "directors": [
-    {
-      "name": "Dr. Bijay Kumar Mohanty",
-      "role": "CFO, Director of Finance and MD & Chairman(Additional Charge)",
-      "age": 55,
-      "year_born": 1970,
-      "total_pay": 6640000
-    },
     {
       "name": "Mr. Kuber  Malhotra",
       "role": "CTO & General Manager of Information Technology",
@@ -72,6 +65,13 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Ekta  Madan",
+      "role": "Senior Manager of Corporate Affairs, Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 1997400
     }
   ]
 }

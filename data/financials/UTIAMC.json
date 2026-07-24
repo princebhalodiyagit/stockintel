@@ -1,21 +1,21 @@
 {
   "ticker": "UTIAMC",
-  "collected_at": "2026-07-23 05:27:49",
+  "collected_at": "2026-07-24 05:30:27",
   "company_info": {
     "name": "UTI Asset Management Company Limited",
     "sector": "Financial Services",
     "industry": "Asset Management",
-    "market_cap": 117352062976,
-    "current_price": 913.0,
-    "pe_ratio": 29.04868,
-    "pb_ratio": 2.6048503,
-    "roe": 0.09776,
+    "market_cap": 113817362432,
+    "current_price": 885.5,
+    "pe_ratio": 24.85963,
+    "pb_ratio": 2.5263908,
+    "roe": "N/A",
     "debt_to_equity": 3.129,
-    "revenue": 16980500480,
-    "net_income": 4041200128,
-    "eps": 31.43,
-    "52_week_high": 1489.2,
-    "52_week_low": 896.5,
-    "dividend_yield": 4.35
+    "revenue": 17346699264,
+    "net_income": 4611299840,
+    "eps": 35.62,
+    "52_week_high": 1425.0,
+    "52_week_low": 883.0,
+    "dividend_yield": 4.4
   }
 }

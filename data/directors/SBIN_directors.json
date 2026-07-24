@@ -1,7 +1,7 @@
 {
   "ticker": "SBIN",
   "company": "State Bank of India",
-  "collected_at": "2026-07-23 05:21:19",
+  "collected_at": "2026-07-24 05:22:56",
   "directors": [
     {
       "name": "Mr. Rana Ashutosh Kumar Singh",
@@ -39,13 +39,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Binod Kumar Mishra",
-      "role": "Deputy MD & COO",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. G. S. Rana",
       "role": "Deputy MD of Human Resources & CDO",
       "age": "N/A",
@@ -71,6 +64,13 @@
       "role": "DMD, CCO & Chief Sustainability Officer",
       "age": 59,
       "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Hemant  Karaulia",
+      "role": "Chief General Manager of Resources CC Mumbai",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

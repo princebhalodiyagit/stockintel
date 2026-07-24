@@ -1,14 +1,14 @@
 {
   "ticker": "SNOWMAN",
-  "collected_at": "2026-07-23 05:23:07",
+  "collected_at": "2026-07-24 05:24:58",
   "company_info": {
     "name": "Snowman Logistics Limited",
     "sector": "Industrials",
     "industry": "Integrated Freight & Logistics",
-    "market_cap": 6099924480,
-    "current_price": 36.48,
-    "pe_ratio": 182.4,
-    "pb_ratio": 1.5241278,
+    "market_cap": 5961138176,
+    "current_price": 35.65,
+    "pe_ratio": 178.25,
+    "pb_ratio": 1.4894507,
     "roe": 0.00816,
     "debt_to_equity": 77.682,
     "revenue": 6043810816,
@@ -16,6 +16,6 @@
     "eps": 0.2,
     "52_week_high": 64.05,
     "52_week_low": 30.5,
-    "dividend_yield": 1.35
+    "dividend_yield": 1.36
   }
 }

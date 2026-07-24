@@ -1,7 +1,7 @@
 {
   "ticker": "DEEPAKNTR",
   "company": "Deepak Nitrite Limited",
-  "collected_at": "2026-07-23 04:58:42",
+  "collected_at": "2026-07-24 04:57:05",
   "directors": [
     {
       "name": "Mr. Deepak Chimanlal Mehta B.Sc.",
@@ -53,13 +53,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Subash  Dhar",
-      "role": "Head of Technology",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. K. C. Bahuguna",
       "role": "Chief Information Officer",
       "age": "N/A",
@@ -71,6 +64,13 @@
       "role": "Company Secretary & Compliance Officer",
       "age": 53,
       "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Subimat  Mondal",
+      "role": "Group Chief Human Resource Officer",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

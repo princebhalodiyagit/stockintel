@@ -1,21 +1,21 @@
 {
   "ticker": "SUNTECK",
-  "collected_at": "2026-07-23 05:24:30",
+  "collected_at": "2026-07-24 05:26:36",
   "company_info": {
     "name": "Sunteck Realty Limited",
     "sector": "Real Estate",
     "industry": "Real Estate - Development",
-    "market_cap": 44074635264,
-    "current_price": 300.15,
-    "pe_ratio": 22.349216,
-    "pb_ratio": 1.2185764,
-    "roe": 0.052270003,
+    "market_cap": 44419715072,
+    "current_price": 302.5,
+    "pe_ratio": 20.804676,
+    "pb_ratio": 1.2281172,
+    "roe": "N/A",
     "debt_to_equity": 17.311,
-    "revenue": 11238425600,
-    "net_income": 2043684992,
-    "eps": 13.43,
+    "revenue": 11270864896,
+    "net_income": 2132130944,
+    "eps": 14.54,
     "52_week_high": 473.0,
     "52_week_low": 270.75,
-    "dividend_yield": 0.47
+    "dividend_yield": 0.52
   }
 }

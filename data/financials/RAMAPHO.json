@@ -1,14 +1,14 @@
 {
   "ticker": "RAMAPHO",
-  "collected_at": "2026-07-23 05:18:47",
+  "collected_at": "2026-07-24 05:20:02",
   "company_info": {
     "name": "Rama Phosphates Limited",
     "sector": "Basic Materials",
     "industry": "Agricultural Inputs",
-    "market_cap": 4411979264,
-    "current_price": 124.68,
-    "pe_ratio": 8.367785,
-    "pb_ratio": 1.0443348,
+    "market_cap": 4375177216,
+    "current_price": 123.64,
+    "pe_ratio": 8.297987,
+    "pb_ratio": 1.0356237,
     "roe": 0.13282,
     "debt_to_equity": 32.867,
     "revenue": 8930434048,
@@ -16,6 +16,6 @@
     "eps": 14.9,
     "52_week_high": 217.19,
     "52_week_low": 103.5,
-    "dividend_yield": 0.59
+    "dividend_yield": 0.6
   }
 }

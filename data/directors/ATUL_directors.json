@@ -1,7 +1,7 @@
 {
   "ticker": "ATUL",
   "company": "Atul Limited",
-  "collected_at": "2026-07-23 04:53:13",
+  "collected_at": "2026-07-24 04:50:51",
   "directors": [
     {
       "name": "Mr. Sunil Siddharth Lalbhai",
@@ -23,13 +23,6 @@
       "age": 66,
       "year_born": 1959,
       "total_pay": 25814415
-    },
-    {
-      "name": "Mr. Lalit P. Patni",
-      "role": "Company Secretary & Chief Compliance Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 8543610
     },
     {
       "name": "Dr. Parasu Veera Uppara B.Tech., Ph.D.",
@@ -69,6 +62,13 @@
     {
       "name": "Mr. Barun  Ghosh",
       "role": "Executive Vice President",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Praveen  Shankar",
+      "role": "President",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
