@@ -1,21 +1,21 @@
 {
   "ticker": "GANDHAR",
-  "collected_at": "2026-07-24 05:00:37",
+  "collected_at": "2026-07-25 04:54:31",
   "company_info": {
     "name": "Gandhar Oil Refinery (India) Limited",
     "sector": "Energy",
     "industry": "Oil & Gas Refining & Marketing",
-    "market_cap": 27999418368,
-    "current_price": 287.1,
-    "pe_ratio": 17.31598,
-    "pb_ratio": 2.0684617,
-    "roe": 0.1021,
+    "market_cap": 27647049728,
+    "current_price": 282.46,
+    "pe_ratio": 9.158884,
+    "pb_ratio": 2.0424306,
+    "roe": "N/A",
     "debt_to_equity": 22.511,
-    "revenue": 42411798528,
-    "net_income": 1353699968,
-    "eps": 16.52,
-    "52_week_high": 295.0,
+    "revenue": 50701500416,
+    "net_income": 3014299904,
+    "eps": 30.84,
+    "52_week_high": 303.17,
     "52_week_low": 115.0,
-    "dividend_yield": 0.55
+    "dividend_yield": 1.15
   }
 }

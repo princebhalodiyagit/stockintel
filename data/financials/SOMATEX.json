@@ -1,14 +1,14 @@
 {
   "ticker": "SOMATEX",
-  "collected_at": "2026-07-24 05:25:07",
+  "collected_at": "2026-07-25 05:16:09",
   "company_info": {
     "name": "Soma Textiles & Industries Limited",
     "sector": "Consumer Cyclical",
     "industry": "Textile Manufacturing",
-    "market_cap": 3444641792,
-    "current_price": 101.39,
-    "pe_ratio": 34.02349,
-    "pb_ratio": 1.9975176,
+    "market_cap": 3433430016,
+    "current_price": 101.06,
+    "pe_ratio": 33.91275,
+    "pb_ratio": 1.9910161,
     "roe": 0.06033,
     "debt_to_equity": 0.17,
     "revenue": 808816000,
@@ -16,6 +16,6 @@
     "eps": 2.98,
     "52_week_high": 161.25,
     "52_week_low": 62.15,
-    "dividend_yield": 0.5
+    "dividend_yield": 0.49
   }
 }

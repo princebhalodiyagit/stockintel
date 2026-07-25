@@ -1,7 +1,7 @@
 {
   "ticker": "ARVIND",
   "company": "Arvind Limited",
-  "collected_at": "2026-07-24 04:50:05",
+  "collected_at": "2026-07-25 04:45:09",
   "directors": [
     {
       "name": "Mr. Sanjaybhai Shrenikbhai Lalbhai",
@@ -30,13 +30,6 @@
       "age": 65,
       "year_born": 1960,
       "total_pay": 45200000
-    },
-    {
-      "name": "Mr. Nigam Gautambhai Shah",
-      "role": "Chief Financial Officer",
-      "age": 43,
-      "year_born": 1982,
-      "total_pay": "N/A"
     },
     {
       "name": "Mr. Satya Prakash Mishra",
@@ -69,6 +62,13 @@
     {
       "name": "Ms. Rachna  Mehra",
       "role": "Chief Human Resource Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Abhishek  Bansal",
+      "role": "Vice President of Corporate Sustainability",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

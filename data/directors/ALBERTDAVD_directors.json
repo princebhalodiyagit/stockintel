@@ -1,7 +1,7 @@
 {
   "ticker": "ALBERTDAVD",
   "company": "Albert David Limited",
-  "collected_at": "2026-07-24 04:48:34",
+  "collected_at": "2026-07-25 04:43:49",
   "directors": [
     {
       "name": "Arun Kumar Kothari",
@@ -9,13 +9,6 @@
       "age": 72,
       "year_born": 1953,
       "total_pay": 26039540
-    },
-    {
-      "name": "Mr. Amit  Mahla",
-      "role": "Chief Executive Officer",
-      "age": 51,
-      "year_born": 1974,
-      "total_pay": "N/A"
     },
     {
       "name": "Mr. Ranadeep  Bhattacharya",
@@ -43,34 +36,6 @@
       "role": "Plant Head - Kolkata",
       "age": 56,
       "year_born": 1969,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Anil Kumar Semwal",
-      "role": "Head of QA (Contract Manufacturing)",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Dr. Kuntal  Ganguly",
-      "role": "Head of R&D",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Saikath  Banerjee",
-      "role": "Cluster Head",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Swapan Kumar Gayen",
-      "role": "Head of IT",
-      "age": "N/A",
-      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

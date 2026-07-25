@@ -1,7 +1,7 @@
 {
   "ticker": "SAPPHIRE",
   "company": "Sapphire Foods India Limited",
-  "collected_at": "2026-07-24 05:22:34",
+  "collected_at": "2026-07-25 05:13:54",
   "directors": [
     {
       "name": "Mr. Sanjay  Purohit",
@@ -39,13 +39,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Deepak  Taluja",
-      "role": "President & CEO of KFC",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
       "name": "Ms. Nandita Bapat Avadhoot",
       "role": "Executive VP & Chief Development Officer",
       "age": "N/A",
@@ -71,6 +64,13 @@
       "role": "Executive Vice President of SCM",
       "age": 56,
       "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Saurabh  Girdhar",
+      "role": "Chief Operating Officer of Pizza Hut - Bengaluru & Kerala",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

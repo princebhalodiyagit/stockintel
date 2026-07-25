@@ -1,21 +1,21 @@
 {
   "ticker": "ABDL",
-  "collected_at": "2026-07-24 04:47:05",
+  "collected_at": "2026-07-25 04:42:31",
   "company_info": {
     "name": "Allied Blenders and Distillers Limited",
     "sector": "Consumer Defensive",
     "industry": "Beverages - Wineries & Distilleries",
-    "market_cap": 171853922304,
-    "current_price": 614.4,
-    "pe_ratio": 76.704124,
-    "pb_ratio": 10.336126,
-    "roe": 0.13551,
+    "market_cap": 173630078976,
+    "current_price": 620.75,
+    "pe_ratio": 76.35301,
+    "pb_ratio": 10.442952,
+    "roe": "N/A",
     "debt_to_equity": 68.251,
-    "revenue": 39227785216,
-    "net_income": 2283220992,
-    "eps": 8.01,
+    "revenue": 39531139072,
+    "net_income": 2209796096,
+    "eps": 8.13,
     "52_week_high": 711.7,
     "52_week_low": 382.1,
-    "dividend_yield": 0.88
+    "dividend_yield": 0.9
   }
 }

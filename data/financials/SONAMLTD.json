@@ -1,21 +1,21 @@
 {
   "ticker": "SONAMLTD",
-  "collected_at": "2026-07-24 05:25:12",
+  "collected_at": "2026-07-25 05:16:14",
   "company_info": {
     "name": "Sonam Limited",
     "sector": "Consumer Cyclical",
     "industry": "Furnishings, Fixtures & Appliances",
-    "market_cap": 2110086656,
-    "current_price": 52.71,
-    "pe_ratio": 28.803278,
-    "pb_ratio": 3.349644,
-    "roe": 0.09843001,
-    "debt_to_equity": "N/A",
-    "revenue": 1390792960,
-    "net_income": 61223000,
+    "market_cap": 2122096256,
+    "current_price": 53.01,
+    "pe_ratio": 28.96721,
+    "pb_ratio": 3.3687086,
+    "roe": "N/A",
+    "debt_to_equity": 29.697,
+    "revenue": 1997188992,
+    "net_income": 90015000,
     "eps": 1.83,
     "52_week_high": 63.0,
     "52_week_low": 37.4,
-    "dividend_yield": "N/A"
+    "dividend_yield": 1.12
   }
 }

@@ -1,14 +1,14 @@
 {
   "ticker": "EDELWEISS",
-  "collected_at": "2026-07-24 04:58:25",
+  "collected_at": "2026-07-25 04:52:33",
   "company_info": {
     "name": "Edelweiss Financial Services Limited",
     "sector": "Financial Services",
     "industry": "Financial Conglomerates",
-    "market_cap": 108169633792,
-    "current_price": 114.28,
-    "pe_ratio": 15.983216,
-    "pb_ratio": 2.3397417,
+    "market_cap": 110763130880,
+    "current_price": 117.02,
+    "pe_ratio": 16.366432,
+    "pb_ratio": 2.3958397,
     "roe": 0.11472999,
     "debt_to_equity": 319.986,
     "revenue": 68621238272,
@@ -16,6 +16,6 @@
     "eps": 7.15,
     "52_week_high": 133.9,
     "52_week_low": 91.78,
-    "dividend_yield": 1.28
+    "dividend_yield": 1.29
   }
 }

@@ -1,7 +1,7 @@
 {
   "ticker": "JKTYRE",
   "company": "JK Tyre & Industries Limited",
-  "collected_at": "2026-07-24 05:07:44",
+  "collected_at": "2026-07-25 05:00:51",
   "directors": [
     {
       "name": "Dr. Raghupati  Singhania B.Sc.",
@@ -11,32 +11,11 @@
       "total_pay": 436300000
     },
     {
-      "name": "Mr. Anshuman  Singhania",
-      "role": "MD & Whole-Time Director",
-      "age": 44,
-      "year_born": 1981,
-      "total_pay": 390000000
-    },
-    {
       "name": "Dr. Arun Kumar Bajoria",
       "role": "President of International & Executive Director",
       "age": 79,
       "year_born": 1946,
       "total_pay": 53400000
-    },
-    {
-      "name": "Mr. Sanjeev  Aggarwal",
-      "role": "Chief Financial Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 18099100
-    },
-    {
-      "name": "Dr. Arun Kumar Jaura",
-      "role": "Chief Technology Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
     },
     {
       "name": "Mr. Kamal Kumar Manik",
@@ -69,6 +48,27 @@
     {
       "name": "Mr. Bharat  Aggarwal",
       "role": "Head of International Trade",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ashish  Pandey",
+      "role": "Senior Vice President of OHT & International",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anil Kumar Makkar",
+      "role": "Group Chief Sustainability Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mukesh Kumar Jha",
+      "role": "Head of Internal Audit",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
