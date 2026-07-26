@@ -1,7 +1,7 @@
 {
   "ticker": "TATATECH",
   "company": "Tata Technologies Limited",
-  "collected_at": "2026-07-25 05:18:30",
+  "collected_at": "2026-07-26 05:25:46",
   "directors": [
     {
       "name": "Mr. Warren Kevin Harris",
@@ -9,13 +9,6 @@
       "age": 62,
       "year_born": 1963,
       "total_pay": 85099069
-    },
-    {
-      "name": "Mr. Sriram  Lakshminarayanan",
-      "role": "President & CTO",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
     },
     {
       "name": "Mr. Uttam  Gujrati",
@@ -71,6 +64,13 @@
       "role": "Head of Power Systems Engineering",
       "age": 58,
       "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anand  Bhade",
+      "role": "President of APAC Sales and Global Marketing & Communications",
+      "age": 52,
+      "year_born": 1973,
       "total_pay": "N/A"
     }
   ]

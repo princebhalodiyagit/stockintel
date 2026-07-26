@@ -1,21 +1,21 @@
 {
   "ticker": "RECLTD",
-  "collected_at": "2026-07-25 05:12:02",
+  "collected_at": "2026-07-26 05:20:33",
   "company_info": {
     "name": "REC Limited",
     "sector": "Financial Services",
     "industry": "Credit Services",
     "market_cap": 952173789184,
     "current_price": 361.6,
-    "pe_ratio": 5.8004494,
+    "pe_ratio": 5.9493256,
     "pb_ratio": 1.1307173,
-    "roe": 0.19957,
+    "roe": "N/A",
     "debt_to_equity": 607.463,
-    "revenue": 231146405888,
-    "net_income": 163081699328,
-    "eps": 62.34,
-    "52_week_high": 408.25,
+    "revenue": 233036201984,
+    "net_income": 160352206848,
+    "eps": 60.78,
+    "52_week_high": 403.6,
     "52_week_low": 304.05,
-    "dividend_yield": 6.47
+    "dividend_yield": 6.42
   }
 }

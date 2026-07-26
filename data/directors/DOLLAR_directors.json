@@ -1,7 +1,7 @@
 {
   "ticker": "DOLLAR",
   "company": "Dollar Industries Limited",
-  "collected_at": "2026-07-25 04:52:06",
+  "collected_at": "2026-07-26 05:04:17",
   "directors": [
     {
       "name": "Mr. Vinod Kumar Gupta B.Sc., L.L.B.",
@@ -53,13 +53,6 @@
       "total_pay": 16500000
     },
     {
-      "name": "Mr. Din Dayal Gupta",
-      "role": "Founder & Chairman Emeritus",
-      "age": 88,
-      "year_born": 1937,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Ankur  Bubna",
       "role": "AGM- Finance & Accounts",
       "age": 36,
@@ -71,6 +64,13 @@
       "role": "Vice President of Sales",
       "age": 32,
       "year_born": 1993,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Vedika  Gupta",
+      "role": "Vice President of Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

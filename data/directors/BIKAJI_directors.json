@@ -1,7 +1,7 @@
 {
   "ticker": "BIKAJI",
   "company": "Bikaji Foods International Limited",
-  "collected_at": "2026-07-25 04:47:47",
+  "collected_at": "2026-07-26 05:00:47",
   "directors": [
     {
       "name": "Mr. Deepak  Agarwal",
@@ -9,34 +9,6 @@
       "age": 44,
       "year_born": 1981,
       "total_pay": 79056000
-    },
-    {
-      "name": "Mr. Rishabh Narendra Jain",
-      "role": "Chief Financial Officer",
-      "age": 40,
-      "year_born": 1985,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Manoj  Verma",
-      "role": "Chief Operating Officer",
-      "age": 55,
-      "year_born": 1970,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Rahul  Joshi",
-      "role": "Head of Legal, Company Secretary & Compliance Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ms. Shweta  Agarwal",
-      "role": "Executive Director",
-      "age": 44,
-      "year_born": 1981,
-      "total_pay": 26352000
     },
     {
       "name": "Ms. Neha  Rao",
@@ -69,6 +41,34 @@
     {
       "name": "Mr. Vineet  Manocha",
       "role": "President of Culinary",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Simran  Dhingra",
+      "role": "Head of Exports",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vaibhav  Arora",
+      "role": "Vice President of Retail",
+      "age": 40,
+      "year_born": 1985,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Shivraj  Choudhary",
+      "role": "Vice President of Engineering & Project",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Deepu  Sharma",
+      "role": "Vice President of Operations (Frozen)",
       "age": 54,
       "year_born": 1971,
       "total_pay": "N/A"

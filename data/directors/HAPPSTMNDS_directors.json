@@ -1,7 +1,7 @@
 {
   "ticker": "HAPPSTMNDS",
   "company": "Happiest Minds Technologies Limited",
-  "collected_at": "2026-07-25 04:56:46",
+  "collected_at": "2026-07-26 05:08:10",
   "directors": [
     {
       "name": "Mr. Ashok  Soota B.E, M.B.A",
@@ -16,27 +16,6 @@
       "age": 54,
       "year_born": 1971,
       "total_pay": 57800000
-    },
-    {
-      "name": "Mr. Venkatraman  Narayanan",
-      "role": "MD, Executive Director & Member of Executive Board",
-      "age": 54,
-      "year_born": 1971,
-      "total_pay": 35600000
-    },
-    {
-      "name": "Mr. Praveen Kumar Darshankar",
-      "role": "Head of Legal, Company Secretary and Compliance Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 7300000
-    },
-    {
-      "name": "Mr. Anand  Balakrishnan",
-      "role": "Chief Financial Officer",
-      "age": 51,
-      "year_born": 1974,
-      "total_pay": 11300000
     },
     {
       "name": "Mr. Ram Mohan Chaluvaiya",
@@ -69,6 +48,27 @@
     {
       "name": "Mr. Sachin  Khurana",
       "role": "Chief People Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Raja  Sekher",
+      "role": "Head of Engineering & Business Excellence",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vijay  Bharti",
+      "role": "Chief Information Security Officer",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sridhar  Mantha",
+      "role": "CEO of Generative AI Business Services",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

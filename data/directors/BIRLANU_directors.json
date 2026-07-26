@@ -1,7 +1,7 @@
 {
   "ticker": "BIRLANU",
   "company": "BirlaNu Limited",
-  "collected_at": "2026-07-25 04:47:55",
+  "collected_at": "2026-07-26 05:00:53",
   "directors": [
     {
       "name": "Mr. Akshat  Seth",
@@ -23,13 +23,6 @@
       "age": 50,
       "year_born": 1975,
       "total_pay": 12197000
-    },
-    {
-      "name": "Mr. Agam  Bhatnagar",
-      "role": "COO and Business Head of Pipes & Fittings Business",
-      "age": 48,
-      "year_born": 1977,
-      "total_pay": "N/A"
     },
     {
       "name": "Mr. Rajesh  Rajan",
@@ -71,6 +64,13 @@
       "role": "Head of Manufacturing Roofing",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. S. P. Vivek Chandra Rao",
+      "role": "Head of Occupational Health",
+      "age": 73,
+      "year_born": 1952,
       "total_pay": "N/A"
     }
   ]
