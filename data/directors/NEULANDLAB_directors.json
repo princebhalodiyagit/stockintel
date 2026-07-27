@@ -1,7 +1,7 @@
 {
   "ticker": "NEULANDLAB",
   "company": "Neuland Laboratories Limited",
-  "collected_at": "2026-07-26 05:16:47",
+  "collected_at": "2026-07-27 05:30:08",
   "directors": [
     {
       "name": "Dr. Davuluri Rama Mohan Rao",
@@ -53,13 +53,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Sudheer  Yarabolu",
-      "role": "Global Head Sales & BD",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Hemchandra  Peruvelli",
       "role": "Chief Human Resources Officer",
       "age": 53,
@@ -71,6 +64,13 @@
       "role": "Chief Procurement Officer",
       "age": 57,
       "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Shashank  Mahashabde",
+      "role": "President of Business Development & Contract Manufacturing",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

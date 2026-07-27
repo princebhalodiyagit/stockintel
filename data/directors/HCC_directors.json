@@ -1,28 +1,14 @@
 {
   "ticker": "HCC",
   "company": "Hindustan Construction Company Limited",
-  "collected_at": "2026-07-26 05:08:21",
+  "collected_at": "2026-07-27 05:21:28",
   "directors": [
     {
       "name": "Mr. Arjun  Dhawan",
       "role": "MD & Executive Vice Chairman",
       "age": 49,
       "year_born": 1976,
-      "total_pay": 60000000
-    },
-    {
-      "name": "Mr. Nitesh Kumar Jha",
-      "role": "Company Secretary & Compliance Officer",
-      "age": 52,
-      "year_born": 1973,
-      "total_pay": 7100000
-    },
-    {
-      "name": "Mr. Rahul  Shukla",
-      "role": "Chief Financial Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
+      "total_pay": 90000000
     },
     {
       "name": "Suresh  Karki",
@@ -69,6 +55,20 @@
     {
       "name": "Mr. Gurudas Digambar Naik",
       "role": "Executive Vice President of Contracts",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Sanjay  Dave",
+      "role": "Senior Vice President of Hydro Electric Projects",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mohammad  Azharuddin",
+      "role": "Head of Procurement & Sub-Contracts",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

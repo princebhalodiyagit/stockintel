@@ -1,7 +1,7 @@
 {
   "ticker": "SUZLON",
   "company": "Suzlon Energy Limited",
-  "collected_at": "2026-07-26 05:25:16",
+  "collected_at": "2026-07-27 05:38:58",
   "directors": [
     {
       "name": "Mr. Vinod R. Tanti",
@@ -9,13 +9,6 @@
       "age": 62,
       "year_born": 1963,
       "total_pay": 65400000
-    },
-    {
-      "name": "Mr. Girish R. Tanti",
-      "role": "Executive Vice Chairman",
-      "age": 55,
-      "year_born": 1970,
-      "total_pay": 750000
     },
     {
       "name": "Mr. Jayarama Prasad Chalasani",
@@ -53,13 +46,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Bernhard  Telgmann",
-      "role": "Chief Technology Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
       "name": "Ms. Geetanjali Santosh Vaidya",
       "role": "Company Secretary & Compliance Officer",
       "age": "N/A",
@@ -69,6 +55,20 @@
     {
       "name": "Mr. Sandeep  Chowdhury",
       "role": "General Counsel",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Antonius Wilhelmus Peter van Megen",
+      "role": "Vice President of International Corporate Development",
+      "age": 73,
+      "year_born": 1952,
+      "total_pay": 9475000
+    },
+    {
+      "name": "Dr. V. B. Rao",
+      "role": "Senior Vice President of Sales & Marketing",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

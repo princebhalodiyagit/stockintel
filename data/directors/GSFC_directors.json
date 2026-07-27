@@ -1,7 +1,7 @@
 {
   "ticker": "GSFC",
   "company": "Gujarat State Fertilizers & Chemicals Limited",
-  "collected_at": "2026-07-26 05:07:49",
+  "collected_at": "2026-07-27 05:20:56",
   "directors": [
     {
       "name": "Dr. Rajender  Kumar I.A.S.",
@@ -46,13 +46,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. N. B. Dalal",
-      "role": "Senior Vice President of MM & IR",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Alpesh B. Gupta",
       "role": "Senior Vice President of Sikka Unit",
       "age": 58,
@@ -71,6 +64,13 @@
       "role": "Senior Vice President Project Execution & Civil",
       "age": 59,
       "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Piyul. R. Shah",
+      "role": "Senior Vice President of PDC",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

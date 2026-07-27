@@ -1,15 +1,8 @@
 {
   "ticker": "TRIDENT",
   "company": "Trident Limited",
-  "collected_at": "2026-07-26 05:26:59",
+  "collected_at": "2026-07-27 05:40:47",
   "directors": [
-    {
-      "name": "Mr. Samir  Joshipura PGD",
-      "role": "Group Chief Executive Officer",
-      "age": 50,
-      "year_born": 1975,
-      "total_pay": "N/A"
-    },
     {
       "name": "Mr. Deepak  Nanda B.Sc, M.Sc.",
       "role": "MD, Whole-Time Director & Member of Management Board",
@@ -69,6 +62,13 @@
     {
       "name": "Rajan  Jha",
       "role": "Chief Technology Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Manish  Kapoor",
+      "role": "Chief Information Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

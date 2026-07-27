@@ -1,7 +1,7 @@
 {
   "ticker": "WIPRO",
   "company": "Wipro Limited",
-  "collected_at": "2026-07-26 05:29:06",
+  "collected_at": "2026-07-27 05:42:57",
   "directors": [
     {
       "name": "Mr. Rishad Azim Hasham Premji Jr.",
@@ -16,13 +16,6 @@
       "age": 58,
       "year_born": 1967,
       "total_pay": 496410000
-    },
-    {
-      "name": "Ms. Aparna C. Iyer",
-      "role": "Senior VP, CFO & Member of Executive Board",
-      "age": 43,
-      "year_born": 1982,
-      "total_pay": 69187295
     },
     {
       "name": "Ms. Tejal  Patil",
@@ -50,7 +43,7 @@
       "role": "Chief Sustainability Officer",
       "age": 56,
       "year_born": 1969,
-      "total_pay": 4118373
+      "total_pay": 4125930
     },
     {
       "name": "Mr. P.  Subrahmanyam",
@@ -71,6 +64,13 @@
       "role": "VP & Head of Global Delivery of CIS",
       "age": 53,
       "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Dipak Kumar Bohra",
+      "role": "SVP & Chief of Internal Audit",
+      "age": 52,
+      "year_born": 1973,
       "total_pay": "N/A"
     }
   ]

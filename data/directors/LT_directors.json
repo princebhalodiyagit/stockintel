@@ -1,7 +1,7 @@
 {
   "ticker": "LT",
   "company": "Larsen & Toubro Limited",
-  "collected_at": "2026-07-26 05:13:51",
+  "collected_at": "2026-07-27 05:27:08",
   "directors": [
     {
       "name": "Mr. Sekharipuram Narayanan Subrahmanyan",
@@ -9,13 +9,6 @@
       "age": 65,
       "year_born": 1960,
       "total_pay": 1208300000
-    },
-    {
-      "name": "Mr. Ramamurthi Shankar Raman",
-      "role": "President & Whole-Time Director",
-      "age": 67,
-      "year_born": 1958,
-      "total_pay": 540300000
     },
     {
       "name": "Mr. Subramanian  Sarma",
@@ -69,6 +62,13 @@
     {
       "name": "Mr. Shaji  John",
       "role": "Chief of Solar Initiatives",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Major Gautam  Kar",
+      "role": "Head of Corporate Infrastructure & Administrative Services",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

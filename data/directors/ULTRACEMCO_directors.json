@@ -1,7 +1,7 @@
 {
   "ticker": "ULTRACEMCO",
   "company": "UltraTech Cement Limited",
-  "collected_at": "2026-07-26 05:27:24",
+  "collected_at": "2026-07-27 05:41:13",
   "directors": [
     {
       "name": "Mr. Kailash Chandra Jhanwar B.Com, C.S (Inter), FCA",
@@ -9,27 +9,6 @@
       "age": 68,
       "year_born": 1957,
       "total_pay": 286902115
-    },
-    {
-      "name": "Mr. Atul  Daga",
-      "role": "Business Head & Chief Financial Officer",
-      "age": 60,
-      "year_born": 1965,
-      "total_pay": 31657799
-    },
-    {
-      "name": "Mr. Vivek  Agrawal B.Tech., M.B.A.",
-      "role": "Whole-time Director & Chief Marketing Officer",
-      "age": 63,
-      "year_born": 1962,
-      "total_pay": 140568567
-    },
-    {
-      "name": "Mr. Jayant  Dua",
-      "role": "MD & Director",
-      "age": 60,
-      "year_born": 1965,
-      "total_pay": "N/A"
     },
     {
       "name": "Mr. Pramod  Rajgaria",
@@ -71,6 +50,27 @@
       "role": "Group Executive President of Corporate Communication & CSR",
       "age": 80,
       "year_born": 1945,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Chandrashekhar  Chavan",
+      "role": "Chief Human Resources Officer",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. E. R. Raj Narayanan",
+      "role": "Chief Manufacturing Officer",
+      "age": 64,
+      "year_born": 1961,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anand  Mohta",
+      "role": "Joint Executive President of Business Analysis & Development",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]
