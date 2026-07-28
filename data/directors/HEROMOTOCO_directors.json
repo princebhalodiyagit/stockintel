@@ -1,15 +1,8 @@
 {
   "ticker": "HEROMOTOCO",
   "company": "Hero MotoCorp Limited",
-  "collected_at": "2026-07-27 05:21:44",
+  "collected_at": "2026-07-28 04:55:01",
   "directors": [
-    {
-      "name": "Dr. Pawan Kant Munjal B.E. (Mech.)",
-      "role": "Executive Chairman",
-      "age": 71,
-      "year_born": 1954,
-      "total_pay": 1223100000
-    },
     {
       "name": "Ms. Latika  Taneja",
       "role": "Head of Corporate Communications, Affairs & Social Responsibility",
@@ -69,6 +62,13 @@
     {
       "name": "Mr. Ravi  Avalur",
       "role": "Business Unit Head",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manish  Srivastava",
+      "role": "Chief Quality Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

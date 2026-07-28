@@ -1,14 +1,14 @@
 {
   "ticker": "HAWKINCOOK",
-  "collected_at": "2026-07-27 05:21:25",
+  "collected_at": "2026-07-28 04:54:40",
   "company_info": {
     "name": "Hawkins Cookers Limited",
     "sector": "Consumer Cyclical",
     "industry": "Furnishings, Fixtures & Appliances",
-    "market_cap": 46770724864,
-    "current_price": 8845.0,
-    "pe_ratio": 35.656696,
-    "pb_ratio": 10.504477,
+    "market_cap": 46712557568,
+    "current_price": 8834.0,
+    "pe_ratio": 35.61235,
+    "pb_ratio": 10.491413,
     "roe": 0.31669,
     "debt_to_equity": 6.6,
     "revenue": 12529272832,
@@ -16,6 +16,6 @@
     "eps": 248.06,
     "52_week_high": 9600.0,
     "52_week_low": 7109.0,
-    "dividend_yield": 1.66
+    "dividend_yield": 1.61
   }
 }
