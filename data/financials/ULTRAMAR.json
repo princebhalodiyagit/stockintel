@@ -1,14 +1,14 @@
 {
   "ticker": "ULTRAMAR",
-  "collected_at": "2026-07-28 05:16:00",
+  "collected_at": "2026-07-29 05:18:38",
   "company_info": {
     "name": "Ultramarine & Pigments Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals",
-    "market_cap": 10938319872,
-    "current_price": 374.6,
-    "pe_ratio": 13.538128,
-    "pb_ratio": 1.2574605,
+    "market_cap": 10925179904,
+    "current_price": 374.15,
+    "pe_ratio": 13.521865,
+    "pb_ratio": 1.2559499,
     "roe": 0.08765,
     "debt_to_equity": 9.891,
     "revenue": 7747660800,
@@ -16,6 +16,6 @@
     "eps": 27.67,
     "52_week_high": 443.0,
     "52_week_low": 364.1,
-    "dividend_yield": 1.58
+    "dividend_yield": 1.6
   }
 }

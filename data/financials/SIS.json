@@ -1,14 +1,14 @@
 {
   "ticker": "SIS",
-  "collected_at": "2026-07-28 05:11:42",
+  "collected_at": "2026-07-29 05:14:31",
   "company_info": {
     "name": "SIS Limited",
     "sector": "Industrials",
     "industry": "Security & Protection Services",
-    "market_cap": 61059035136,
-    "current_price": 432.1,
-    "pe_ratio": 44.684593,
-    "pb_ratio": 2.398317,
+    "market_cap": 60907687936,
+    "current_price": 431.05,
+    "pe_ratio": 44.576008,
+    "pb_ratio": 2.3924892,
     "roe": 0.05565,
     "debt_to_equity": 70.299,
     "revenue": 159815303168,
@@ -16,6 +16,6 @@
     "eps": 9.67,
     "52_week_high": 480.95,
     "52_week_low": 257.05,
-    "dividend_yield": 3.2
+    "dividend_yield": 3.22
   }
 }

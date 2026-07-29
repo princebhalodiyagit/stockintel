@@ -1,14 +1,14 @@
 {
   "ticker": "MUNJALAU",
-  "collected_at": "2026-07-28 05:03:16",
+  "collected_at": "2026-07-29 05:06:32",
   "company_info": {
     "name": "Munjal Auto Industries Limited",
     "sector": "Consumer Cyclical",
     "industry": "Auto Parts",
-    "market_cap": 10280999936,
-    "current_price": 102.81,
-    "pe_ratio": 25.574627,
-    "pb_ratio": 1.995497,
+    "market_cap": 10250000384,
+    "current_price": 102.5,
+    "pe_ratio": 25.497513,
+    "pb_ratio": 1.98948,
     "roe": 0.10316,
     "debt_to_equity": 90.747,
     "revenue": 22951540736,
@@ -16,6 +16,6 @@
     "eps": 4.02,
     "52_week_high": 114.99,
     "52_week_low": 67.2,
-    "dividend_yield": 1.0
+    "dividend_yield": 0.95
   }
 }

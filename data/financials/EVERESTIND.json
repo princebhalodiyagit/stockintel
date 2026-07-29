@@ -1,21 +1,21 @@
 {
   "ticker": "EVERESTIND",
-  "collected_at": "2026-07-28 04:51:38",
+  "collected_at": "2026-07-29 04:55:03",
   "company_info": {
     "name": "Everest Industries Limited",
     "sector": "Industrials",
     "industry": "Building Products & Equipment",
-    "market_cap": 8340126720,
-    "current_price": 526.0,
+    "market_cap": 7809751552,
+    "current_price": 492.55,
     "pe_ratio": "N/A",
-    "pb_ratio": 1.6865461,
-    "roe": -0.18639,
+    "pb_ratio": 1.5792933,
+    "roe": "N/A",
     "debt_to_equity": 45.885,
-    "revenue": 14169984000,
-    "net_income": -1016870016,
-    "eps": -64.22,
+    "revenue": 13516680192,
+    "net_income": -12282000,
+    "eps": -64.18,
     "52_week_high": 750.0,
     "52_week_low": 284.9,
-    "dividend_yield": 0.19
+    "dividend_yield": 0.18
   }
 }
