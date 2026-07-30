@@ -1,22 +1,8 @@
 {
   "ticker": "NIVABUPA",
   "company": "Niva Bupa Health Insurance Company Limited",
-  "collected_at": "2026-07-29 05:07:43",
+  "collected_at": "2026-07-30 04:55:36",
   "directors": [
-    {
-      "name": "Mr. Krishnan  Ramachandran",
-      "role": "MD, CEO & Executive Director",
-      "age": 53,
-      "year_born": 1972,
-      "total_pay": 50930000
-    },
-    {
-      "name": "Mr. Vishwanath  Mahendra",
-      "role": "CFO & Executive Director",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 24931000
-    },
     {
       "name": "Ms. Smriti  Manchanda",
       "role": "Head of Internal Audit & Senior VP",
@@ -36,20 +22,6 @@
       "role": "Head of Brand Marketing",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Manish  Sen",
-      "role": "Executive VP & Appointed Actuary",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Suraj  Mishra",
-      "role": "Senior Director - Talent Academy",
-      "age": 61,
-      "year_born": 1964,
       "total_pay": "N/A"
     }
   ]

@@ -1,14 +1,14 @@
 {
   "ticker": "GPTINFRA",
-  "collected_at": "2026-07-29 04:57:02",
+  "collected_at": "2026-07-30 04:44:42",
   "company_info": {
     "name": "GPT Infraprojects Limited",
     "sector": "Industrials",
     "industry": "Engineering & Construction",
-    "market_cap": 15576964096,
-    "current_price": 123.27,
-    "pe_ratio": 16.00909,
-    "pb_ratio": 2.5853608,
+    "market_cap": 15197870080,
+    "current_price": 120.27,
+    "pe_ratio": 15.61948,
+    "pb_ratio": 2.5224411,
     "roe": 0.17464,
     "debt_to_equity": 49.76,
     "revenue": 12899169280,
@@ -16,6 +16,6 @@
     "eps": 7.7,
     "52_week_high": 150.0,
     "52_week_low": 96.22,
-    "dividend_yield": 3.31
+    "dividend_yield": 3.27
   }
 }

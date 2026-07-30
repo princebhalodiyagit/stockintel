@@ -1,7 +1,7 @@
 {
   "ticker": "TRIDENT",
   "company": "Trident Limited",
-  "collected_at": "2026-07-29 05:18:09",
+  "collected_at": "2026-07-30 05:06:44",
   "directors": [
     {
       "name": "Mr. Deepak  Nanda B.Sc, M.Sc.",
@@ -16,13 +16,6 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Pardeep Kumar Markanday MBA",
-      "role": "COO of Home Textiles, CEO of Growth & Projects and Member of Management Board",
-      "age": 68,
-      "year_born": 1957,
-      "total_pay": 1100000
     },
     {
       "name": "Mr. Abhishek  Gupta",
@@ -71,6 +64,13 @@
       "role": "Chief Information Officer",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajnish  Gera",
+      "role": "CEO of Paper",
+      "age": 53,
+      "year_born": 1972,
       "total_pay": "N/A"
     }
   ]

@@ -1,14 +1,14 @@
 {
   "ticker": "CSLFINANCE",
-  "collected_at": "2026-07-29 04:52:31",
+  "collected_at": "2026-07-30 04:39:49",
   "company_info": {
     "name": "CSL Finance Limited",
     "sector": "Financial Services",
     "industry": "Credit Services",
-    "market_cap": 4842229760,
-    "current_price": 215.33,
-    "pe_ratio": 5.7421336,
-    "pb_ratio": 0.7894689,
+    "market_cap": 4774767616,
+    "current_price": 212.33,
+    "pe_ratio": 5.662133,
+    "pb_ratio": 0.7784699,
     "roe": 0.14805001,
     "debt_to_equity": 137.666,
     "revenue": 2570204928,
@@ -16,6 +16,6 @@
     "eps": 37.5,
     "52_week_high": 324.7,
     "52_week_low": 209.7,
-    "dividend_yield": 1.38
+    "dividend_yield": 1.4
   }
 }

@@ -1,21 +1,21 @@
 {
   "ticker": "SIRCA",
-  "collected_at": "2026-07-29 05:14:30",
+  "collected_at": "2026-07-30 05:02:51",
   "company_info": {
     "name": "Sirca Paints India Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals",
-    "market_cap": 22571024384,
-    "current_price": 396.45,
-    "pe_ratio": 34.14729,
-    "pb_ratio": 5.0002522,
-    "roe": 0.15767999,
+    "market_cap": 23254218752,
+    "current_price": 408.45,
+    "pe_ratio": 34.323532,
+    "pb_ratio": 4.8823786,
+    "roe": "N/A",
     "debt_to_equity": 6.802,
-    "revenue": 4924840960,
-    "net_income": 650184000,
-    "eps": 11.61,
+    "revenue": 5096463872,
+    "net_income": 670193984,
+    "eps": 11.9,
     "52_week_high": 539.0,
     "52_week_low": 385.0,
-    "dividend_yield": 0.5
+    "dividend_yield": 0.51
   }
 }

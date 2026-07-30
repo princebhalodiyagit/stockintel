@@ -1,14 +1,14 @@
 {
   "ticker": "SPCENET",
-  "collected_at": "2026-07-29 05:15:05",
+  "collected_at": "2026-07-30 05:03:27",
   "company_info": {
     "name": "Spacenet Enterprises India Limited",
     "sector": "Financial Services",
     "industry": "Capital Markets",
-    "market_cap": 1901915520,
-    "current_price": 3.35,
-    "pe_ratio": 11.551724,
-    "pb_ratio": 0.9809663,
+    "market_cap": 1867851392,
+    "current_price": 3.29,
+    "pe_ratio": 11.344828,
+    "pb_ratio": 0.9633968,
     "roe": 0.09779,
     "debt_to_equity": 13.671,
     "revenue": 1947115008,
@@ -16,6 +16,6 @@
     "eps": 0.29,
     "52_week_high": 11.24,
     "52_week_low": 3.0,
-    "dividend_yield": 0.58
+    "dividend_yield": 0.6
   }
 }

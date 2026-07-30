@@ -1,7 +1,7 @@
 {
   "ticker": "STLTECH",
   "company": "Sterlite Technologies Limited",
-  "collected_at": "2026-07-29 05:15:37",
+  "collected_at": "2026-07-30 05:04:02",
   "directors": [
     {
       "name": "Mr. Ankit  Agarwal",
@@ -16,27 +16,6 @@
       "age": 71,
       "year_born": 1954,
       "total_pay": 48400000
-    },
-    {
-      "name": "Mr. Venkatesh  Murthy",
-      "role": "Director of Operations, COO of Optical Network Business & Whole-time Director",
-      "age": 53,
-      "year_born": 1972,
-      "total_pay": 16000000
-    },
-    {
-      "name": "Ms. Mrunal  Asawadekar",
-      "role": "Company Secretary & Compliance Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Ajay  Jhanjhari",
-      "role": "Group Chief Financial Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
     },
     {
       "name": "Dr. Badri  Gomatam",
@@ -71,6 +50,27 @@
       "role": "Chief Delivery & Technology Officer - Telecom Services",
       "age": 60,
       "year_born": 1965,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Philip  Coppin",
+      "role": "Global Head of Tech Pre-Sales, Optical Network Business",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rahul  Puri",
+      "role": "CEO of Optical Networking Business",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Binod  Balachandran",
+      "role": "Int Head of Glob Business for Optical Conn. & COO - Optical Interconn. & DC Terminated Solutions",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

@@ -1,21 +1,21 @@
 {
   "ticker": "SUPREMEIND",
-  "collected_at": "2026-07-29 05:16:06",
+  "collected_at": "2026-07-30 05:04:34",
   "company_info": {
     "name": "The Supreme Industries Limited",
     "sector": "Industrials",
     "industry": "Building Products & Equipment",
-    "market_cap": 430921646080,
-    "current_price": 3390.9,
-    "pe_ratio": 44.383507,
-    "pb_ratio": 6.9821744,
-    "roe": 0.16128999,
+    "market_cap": 440795922432,
+    "current_price": 3468.6,
+    "pe_ratio": 42.74307,
+    "pb_ratio": 7.142166,
+    "roe": "N/A",
     "debt_to_equity": 1.473,
-    "revenue": 112176799744,
-    "net_income": 9539800064,
-    "eps": 76.4,
+    "revenue": 113261297664,
+    "net_income": 10323999744,
+    "eps": 81.15,
     "52_week_high": 4664.9,
     "52_week_low": 3140.0,
-    "dividend_yield": 1.08
+    "dividend_yield": 1.06
   }
 }

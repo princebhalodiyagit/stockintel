@@ -1,14 +1,14 @@
 {
   "ticker": "MMFL",
-  "collected_at": "2026-07-29 05:05:54",
+  "collected_at": "2026-07-30 04:53:38",
   "company_info": {
     "name": "M M Forgings Limited",
     "sector": "Industrials",
     "industry": "Metal Fabrication",
-    "market_cap": 26506598400,
-    "current_price": 549.0,
-    "pe_ratio": 26.885406,
-    "pb_ratio": 2.7180102,
+    "market_cap": 26062407680,
+    "current_price": 539.8,
+    "pe_ratio": 26.434868,
+    "pb_ratio": 2.6724625,
     "roe": 0.10556,
     "debt_to_equity": 126.624,
     "revenue": 15898732544,
@@ -16,6 +16,6 @@
     "eps": 20.42,
     "52_week_high": 565.0,
     "52_week_low": 288.1,
-    "dividend_yield": 1.43
+    "dividend_yield": 1.45
   }
 }

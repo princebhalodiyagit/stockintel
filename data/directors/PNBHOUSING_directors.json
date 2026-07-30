@@ -1,28 +1,14 @@
 {
   "ticker": "PNBHOUSING",
   "company": "PNB Housing Finance Limited",
-  "collected_at": "2026-07-29 05:09:44",
+  "collected_at": "2026-07-30 04:57:43",
   "directors": [
-    {
-      "name": "Mr. Vinay  Gupta",
-      "role": "Chief Financial Officer",
-      "age": 45,
-      "year_born": 1980,
-      "total_pay": 15700000
-    },
     {
       "name": "Ms. Veena G. Kamath",
       "role": "Company Secretary",
       "age": 54,
       "year_born": 1971,
-      "total_pay": 7300000
-    },
-    {
-      "name": "Mr. Ajai Kumar Shukla",
-      "role": "CEO & MD",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
+      "total_pay": 8600000
     },
     {
       "name": "Mr. Anubhav  Rajput",
@@ -34,13 +20,6 @@
     {
       "name": "Chaitanya  Yadav",
       "role": "National Head of Corporate Planning & Investor Relations",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ms. Valli  Sekar",
-      "role": "Chief Sales & Collection Officer - Affordable",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
@@ -67,8 +46,29 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Jatul  Anand",
-      "role": "Chief Credit & Collections Officer",
+      "name": "Mr. Krishna  Kant",
+      "role": "Chief Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vikas  Rana",
+      "role": "Head of Construction Finance Business",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vipin  Malhotra",
+      "role": "Head of Internal Audit",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rahul  Jain",
+      "role": "Chief Strategy Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

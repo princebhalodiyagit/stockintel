@@ -1,21 +1,21 @@
 {
   "ticker": "DCMSHRIRAM",
-  "collected_at": "2026-07-29 04:52:59",
+  "collected_at": "2026-07-30 04:40:19",
   "company_info": {
     "name": "DCM Shriram Limited",
     "sector": "Industrials",
     "industry": "Conglomerates",
-    "market_cap": 168683356160,
-    "current_price": 1089.3,
-    "pe_ratio": 19.899525,
-    "pb_ratio": 2.2577384,
-    "roe": 0.11617,
+    "market_cap": 162907258880,
+    "current_price": 1052.0,
+    "pe_ratio": 11.450963,
+    "pb_ratio": 2.1804283,
+    "roe": "N/A",
     "debt_to_equity": 37.802,
-    "revenue": 135381499904,
-    "net_income": 8534400000,
-    "eps": 54.74,
+    "revenue": 138404806656,
+    "net_income": 14328099840,
+    "eps": 91.87,
     "52_week_high": 1460.0,
     "52_week_low": 945.1,
-    "dividend_yield": 1.41
+    "dividend_yield": 1.39
   }
 }

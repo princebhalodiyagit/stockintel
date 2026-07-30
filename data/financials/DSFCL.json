@@ -1,14 +1,14 @@
 {
   "ticker": "DSFCL",
-  "collected_at": "2026-07-29 04:53:56",
+  "collected_at": "2026-07-30 04:41:20",
   "company_info": {
     "name": "DCM Shriram Fine Chemicals Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals",
-    "market_cap": 2347048960,
-    "current_price": 26.98,
+    "market_cap": 2309642496,
+    "current_price": 26.55,
     "pe_ratio": "N/A",
-    "pb_ratio": 1.112348,
+    "pb_ratio": 1.0946196,
     "roe": -0.01661,
     "debt_to_equity": 6.031,
     "revenue": 3855506944,
@@ -16,6 +16,6 @@
     "eps": -0.41,
     "52_week_high": 52.5,
     "52_week_low": 17.28,
-    "dividend_yield": 1.46
+    "dividend_yield": 1.48
   }
 }

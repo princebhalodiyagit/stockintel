@@ -1,21 +1,21 @@
 {
   "ticker": "LT",
-  "collected_at": "2026-07-29 05:04:12",
+  "collected_at": "2026-07-30 04:51:51",
   "company_info": {
     "name": "Larsen & Toubro Limited",
     "sector": "Industrials",
     "industry": "Engineering & Construction",
-    "market_cap": 5431231512576,
-    "current_price": 3947.5,
-    "pe_ratio": 33.555763,
-    "pb_ratio": 4.9687214,
-    "roe": 0.16951999,
+    "market_cap": 5357897777152,
+    "current_price": 3894.2,
+    "pe_ratio": 31.445414,
+    "pb_ratio": 4.901633,
+    "roe": "N/A",
     "debt_to_equity": 97.64,
-    "revenue": 2916180295680,
-    "net_income": 178064293888,
-    "eps": 117.64,
+    "revenue": 2969008078848,
+    "net_income": 183120904192,
+    "eps": 123.84,
     "52_week_high": 4440.0,
     "52_week_low": 3288.1,
-    "dividend_yield": 1.0
+    "dividend_yield": 0.99
   }
 }
