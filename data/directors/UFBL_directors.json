@@ -1,15 +1,8 @@
 {
   "ticker": "UFBL",
   "company": "United Foodbrands Limited",
-  "collected_at": "2026-07-30 05:07:07",
+  "collected_at": "2026-07-31 05:31:45",
   "directors": [
-    {
-      "name": "Mr. Rahul  Agrawal",
-      "role": "CEO & Whole Time Director",
-      "age": 43,
-      "year_born": 1982,
-      "total_pay": 27750000
-    },
     {
       "name": "Mr. Kayum Razak Dhanani",
       "role": "MD & Executive Director",
@@ -72,6 +65,13 @@
       "age": 51,
       "year_born": 1974,
       "total_pay": 21780200
+    },
+    {
+      "name": "Mr. Amit  Wadhera",
+      "role": "Chief Culinary Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

@@ -1,21 +1,21 @@
 {
   "ticker": "CUB",
-  "collected_at": "2026-07-30 04:39:50",
+  "collected_at": "2026-07-31 05:05:09",
   "company_info": {
     "name": "City Union Bank Limited",
     "sector": "Financial Services",
     "industry": "Banks - Regional",
-    "market_cap": 220539338752,
-    "current_price": 222.59,
-    "pe_ratio": 15.730742,
-    "pb_ratio": 2.0873618,
-    "roe": 0.13241,
+    "market_cap": 208491364352,
+    "current_price": 210.43,
+    "pe_ratio": 15.798048,
+    "pb_ratio": 1.97333,
+    "roe": "N/A",
     "debt_to_equity": "N/A",
-    "revenue": 35256610816,
-    "net_income": 13262310400,
-    "eps": 14.15,
+    "revenue": 37122211840,
+    "net_income": 14028846080,
+    "eps": 13.32,
     "52_week_high": 245.38,
     "52_week_low": 145.125,
-    "dividend_yield": 0.9
+    "dividend_yield": 0.87
   }
 }

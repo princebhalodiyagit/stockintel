@@ -1,7 +1,7 @@
 {
   "ticker": "METROPOLIS",
   "company": "Metropolis Healthcare Limited",
-  "collected_at": "2026-07-30 04:53:20",
+  "collected_at": "2026-07-31 05:18:27",
   "directors": [
     {
       "name": "Ms. Ameera Sushil Shah",
@@ -9,20 +9,6 @@
       "age": 46,
       "year_born": 1979,
       "total_pay": 61483946
-    },
-    {
-      "name": "Dr. Sushil Kanubhai Shah",
-      "role": "Founder, Non-Executive Director & Chairman Emeritus",
-      "age": 79,
-      "year_born": 1946,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Surendran  Chemmenkotil",
-      "role": "Chief Executive Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 52847583
     },
     {
       "name": "Mr. Sameer Prakash Patel",
@@ -69,6 +55,20 @@
     {
       "name": "Ms. Diya  Suri",
       "role": "Chief People Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Nilesh Jadavji Shah",
+      "role": "President of Internal Assurance & Advisor to CEO",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. H. N. Ravikumar",
+      "role": "Managing Director of RV Metropolis",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

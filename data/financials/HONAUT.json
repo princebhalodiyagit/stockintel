@@ -1,21 +1,21 @@
 {
   "ticker": "HONAUT",
-  "collected_at": "2026-07-30 04:46:31",
+  "collected_at": "2026-07-31 05:11:40",
   "company_info": {
     "name": "Honeywell Automation India Limited",
     "sector": "Industrials",
     "industry": "Electrical Equipment & Parts",
-    "market_cap": 354071314432,
-    "current_price": 40020.0,
-    "pe_ratio": 63.156902,
-    "pb_ratio": 7.928781,
-    "roe": 0.12352,
+    "market_cap": 341729247232,
+    "current_price": 38625.0,
+    "pe_ratio": 62.135033,
+    "pb_ratio": 7.652403,
+    "roe": "N/A",
     "debt_to_equity": 2.476,
-    "revenue": 46819000320,
-    "net_income": 5249999872,
-    "eps": 633.66,
+    "revenue": 47032000512,
+    "net_income": 5511000064,
+    "eps": 621.63,
     "52_week_high": 41495.0,
     "52_week_low": 26220.0,
-    "dividend_yield": 0.29
+    "dividend_yield": 0.27
   }
 }
