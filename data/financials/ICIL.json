@@ -1,14 +1,14 @@
 {
   "ticker": "ICIL",
-  "collected_at": "2026-07-31 05:11:59",
+  "collected_at": "2026-08-01 05:04:38",
   "company_info": {
     "name": "Indo Count Industries Limited",
     "sector": "Consumer Cyclical",
     "industry": "Textile Manufacturing",
-    "market_cap": 79231631360,
-    "current_price": 400.05,
-    "pe_ratio": 62.50781,
-    "pb_ratio": 3.3420491,
+    "market_cap": 79469305856,
+    "current_price": 401.25,
+    "pe_ratio": 62.695312,
+    "pb_ratio": 3.3520741,
     "roe": 0.05469,
     "debt_to_equity": 56.992,
     "revenue": 41413488640,
@@ -16,6 +16,6 @@
     "eps": 6.4,
     "52_week_high": 463.8,
     "52_week_low": 216.9,
-    "dividend_yield": 0.48
+    "dividend_yield": 0.5
   }
 }

@@ -1,7 +1,7 @@
 {
   "ticker": "GODREJIND",
   "company": "Godrej Industries Limited",
-  "collected_at": "2026-07-31 05:09:38",
+  "collected_at": "2026-08-01 05:02:19",
   "directors": [
     {
       "name": "Mr. Nadir Burjorji Godrej B.S., M.S.",
@@ -9,20 +9,6 @@
       "age": 74,
       "year_born": 1951,
       "total_pay": 103824000
-    },
-    {
-      "name": "Ms. Tanya Arvind Dubash",
-      "role": "Chief Brand Officer & Whole-Time Director",
-      "age": 57,
-      "year_born": 1968,
-      "total_pay": 104467739
-    },
-    {
-      "name": "Mr. Vishal  Sharma",
-      "role": "CEO of GIL Chemicals & Whole-Time Director",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 92304118
     },
     {
       "name": "Mr. Clement G. Pinto",
@@ -71,6 +57,20 @@
       "role": "MD & CEO of Godrej Fund Management",
       "age": 46,
       "year_born": 1979,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Gaurav  Pandey",
+      "role": "MD & Chief Executive Officer of Godrej Properties",
+      "age": 41,
+      "year_born": 1984,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Dorab Erach Mistry",
+      "role": "Executive",
+      "age": 72,
+      "year_born": 1953,
       "total_pay": "N/A"
     }
   ]

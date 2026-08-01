@@ -1,15 +1,8 @@
 {
   "ticker": "KARURVYSYA",
   "company": "Karur Vysya Bank Limited",
-  "collected_at": "2026-07-31 05:15:06",
+  "collected_at": "2026-08-01 05:07:41",
   "directors": [
-    {
-      "name": "Mr. Ramesh Babu Boddu",
-      "role": "MD, CEO & Director",
-      "age": 65,
-      "year_born": 1960,
-      "total_pay": 35307875
-    },
     {
       "name": "Mr. J.  Natarajan C.A., C.A.I.I.B., L.L.B., M.A.",
       "role": "President",
@@ -69,6 +62,13 @@
     {
       "name": "Mr. K. P. Muthu Kumar",
       "role": "Head of Commercial Banking Group",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. S.  Saravanan",
+      "role": "GM & Chief Information Technology Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

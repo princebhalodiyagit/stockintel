@@ -1,7 +1,7 @@
 {
   "ticker": "BRIGADE",
   "company": "Brigade Enterprises Limited",
-  "collected_at": "2026-07-31 05:03:10",
+  "collected_at": "2026-08-01 04:55:53",
   "directors": [
     {
       "name": "Mr. Mysore Ramachandrasetty Jaishankar",
@@ -18,13 +18,6 @@
       "total_pay": 45000000
     },
     {
-      "name": "Mr. Roshin  Mathew",
-      "role": "President of Engineering & Whole-Time Director",
-      "age": 63,
-      "year_born": 1962,
-      "total_pay": 43800000
-    },
-    {
       "name": "Ms. Nirupa  Shankar",
       "role": "Joint MD & Director",
       "age": 43,
@@ -39,22 +32,8 @@
       "total_pay": 41800000
     },
     {
-      "name": "Mr. Pradyumna Krishna Kumar",
-      "role": "Executive Director",
-      "age": 41,
-      "year_born": 1984,
-      "total_pay": 36000000
-    },
-    {
       "name": "Mr. Yogesh  Patel",
       "role": "Chief Financial Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Saras  Agarwal",
-      "role": "Chief Executive Officer of Investments",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
@@ -71,6 +50,27 @@
       "role": "Senior Vice President of HR & Admin",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Palanimuthu Om Prakash",
+      "role": "Compliance Officer & Company Secretary",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Miriam  Macwana",
+      "role": "General Manager of Corporate Communications",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Viswa Prathap Desu",
+      "role": "Chief Operating Officer of Residential",
+      "age": 59,
+      "year_born": 1966,
       "total_pay": "N/A"
     }
   ]

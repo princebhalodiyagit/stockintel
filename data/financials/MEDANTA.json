@@ -1,21 +1,21 @@
 {
   "ticker": "MEDANTA",
-  "collected_at": "2026-07-31 05:18:15",
+  "collected_at": "2026-08-01 05:10:46",
   "company_info": {
     "name": "Global Health Limited",
     "sector": "Healthcare",
     "industry": "Medical Care Facilities",
-    "market_cap": 370832015360,
-    "current_price": 1380.0,
-    "pe_ratio": 66.892876,
-    "pb_ratio": 9.357773,
-    "roe": 0.15032,
+    "market_cap": 377711198208,
+    "current_price": 1405.6,
+    "pe_ratio": 67.96905,
+    "pb_ratio": 9.531365,
+    "roe": "N/A",
     "debt_to_equity": 29.869,
-    "revenue": 44102660096,
-    "net_income": 5564599808,
-    "eps": 20.63,
+    "revenue": 46834728960,
+    "net_income": 5561780224,
+    "eps": 20.68,
     "52_week_high": 1456.5,
     "52_week_low": 956.0,
-    "dividend_yield": 0.03
+    "dividend_yield": 0.04
   }
 }

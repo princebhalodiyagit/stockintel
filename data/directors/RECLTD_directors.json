@@ -1,14 +1,14 @@
 {
   "ticker": "RECLTD",
   "company": "REC Limited",
-  "collected_at": "2026-07-31 05:24:22",
+  "collected_at": "2026-08-01 05:16:48",
   "directors": [
     {
       "name": "Jitendra  Srivastava",
       "role": "Chairman & MD",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": "N/A"
+      "total_pay": 3749535
     },
     {
       "name": "Rajesh  Kumar",
@@ -39,18 +39,11 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Ms. Taruna  Gupta",
-      "role": "Executive Director",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
       "name": "Thangarajan Subash Chandira Bosh",
       "role": "Director of Projects & Director",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": "N/A"
+      "total_pay": 3606903
     },
     {
       "name": "Mr. Hemant  Kumar C.S.",
@@ -60,14 +53,21 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Virender Kumar Adhana",
-      "role": "Chief Vigilance Officer",
+      "name": "Mr. Saurabh  Rastogi",
+      "role": "Executive Director",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Saurabh  Rastogi",
+      "name": "Mr. Prabhat Kumar Singh",
+      "role": "Executive Director",
+      "age": 68,
+      "year_born": 1957,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. J.K.  Nayak",
       "role": "Executive Director",
       "age": "N/A",
       "year_born": "N/A",

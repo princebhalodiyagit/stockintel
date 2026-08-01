@@ -1,21 +1,21 @@
 {
   "ticker": "AJANTPHARM",
-  "collected_at": "2026-07-31 04:58:51",
+  "collected_at": "2026-08-01 04:51:32",
   "company_info": {
     "name": "Ajanta Pharma Limited",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - Specialty & Generic",
-    "market_cap": 419796189184,
-    "current_price": 3360.1,
-    "pe_ratio": 39.26727,
-    "pb_ratio": 9.271671,
-    "roe": 0.25393,
+    "market_cap": 432926916608,
+    "current_price": 3465.2,
+    "pe_ratio": 38.1672,
+    "pb_ratio": 9.561678,
+    "roe": "N/A",
     "debt_to_equity": 5.747,
-    "revenue": 54528598016,
-    "net_income": 10560000000,
-    "eps": 85.57,
+    "revenue": 58207399936,
+    "net_income": 11348799488,
+    "eps": 90.79,
     "52_week_high": 3598.8,
     "52_week_low": 2329.9,
-    "dividend_yield": 1.65
+    "dividend_yield": 1.85
   }
 }

@@ -1,21 +1,21 @@
 {
   "ticker": "GHCLTEXTIL",
-  "collected_at": "2026-07-31 05:09:00",
+  "collected_at": "2026-08-01 05:01:41",
   "company_info": {
     "name": "GHCL Textiles Limited",
     "sector": "Consumer Cyclical",
     "industry": "Textile Manufacturing",
-    "market_cap": 10981851136,
-    "current_price": 114.89,
-    "pe_ratio": 15.610054,
-    "pb_ratio": 0.7309082,
-    "roe": 0.047870003,
+    "market_cap": 10860456960,
+    "current_price": 113.62,
+    "pe_ratio": 15.4375,
+    "pb_ratio": 0.7228287,
+    "roe": "N/A",
     "debt_to_equity": 8.933,
-    "revenue": 13185999872,
-    "net_income": 703699968,
+    "revenue": 14581300224,
+    "net_income": 962000000,
     "eps": 7.36,
-    "52_week_high": 120.9,
+    "52_week_high": 124.9,
     "52_week_low": 65.26,
-    "dividend_yield": 0.5
+    "dividend_yield": 0.53
   }
 }
