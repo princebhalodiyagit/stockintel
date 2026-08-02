@@ -1,28 +1,21 @@
 {
   "ticker": "FEDERALBNK",
   "company": "The Federal Bank  Limited",
-  "collected_at": "2026-08-01 05:00:43",
+  "collected_at": "2026-08-02 05:03:58",
   "directors": [
     {
       "name": "Mr. Krishnan Venkat Subramanian",
       "role": "CEO, MD & Director",
       "age": 64,
       "year_born": 1961,
-      "total_pay": 18300000
+      "total_pay": 40200000
     },
     {
       "name": "Mr. Harsh  Dugar",
       "role": "Executive Director",
       "age": 53,
       "year_born": 1972,
-      "total_pay": 16618000
-    },
-    {
-      "name": "Mr. Manikandan  M.",
-      "role": "VP & CFO",
-      "age": 34,
-      "year_born": 1991,
-      "total_pay": "N/A"
+      "total_pay": 22300000
     },
     {
       "name": "Mr. Johnson K. Jose",
@@ -60,17 +53,24 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Divakar Sudhakar Dixit",
-      "role": "Group President & Chief Credit Officer",
-      "age": 52,
-      "year_born": 1973,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Damodaran  C.",
       "role": "Executive Vice President & Chief Risk Officer",
       "age": 53,
       "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Venkatraman  Venkateswaran",
+      "role": "Executive Director",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": 15800000
+    },
+    {
+      "name": "Mr. Sanjesh  Kumar",
+      "role": "Group President & Chief Internal Auditor",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "ticker": "MINDACORP",
   "company": "Minda Corporation Limited",
-  "collected_at": "2026-08-01 05:11:09",
+  "collected_at": "2026-08-02 05:14:36",
   "directors": [
     {
       "name": "Mr. Ashok  Minda",
@@ -9,34 +9,6 @@
       "age": 64,
       "year_born": 1961,
       "total_pay": 142040000
-    },
-    {
-      "name": "Mr. Pardeep  Mann",
-      "role": "Company Secretary & Compliance Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Aakash  Minda",
-      "role": "Executive Director",
-      "age": 36,
-      "year_born": 1989,
-      "total_pay": 29160000
-    },
-    {
-      "name": "Mr. Naresh Kumar Modi",
-      "role": "CEO of MIL, SMAD & Uzbekistan and Executive Director",
-      "age": 59,
-      "year_born": 1966,
-      "total_pay": 28600000
-    },
-    {
-      "name": "Mr. Ajay  Agarwal",
-      "role": "Group CFO, Group Chief Risk Officer and President of Finance & Strategy",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
     },
     {
       "name": "Mr. D.  Suresh",
@@ -71,6 +43,34 @@
       "role": "CEO of BV- IV (After Market Division)",
       "age": 45,
       "year_born": 1980,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pankaj  Garg",
+      "role": "Head of Corporate Audit & Governance",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Hitendra Narain Mishra",
+      "role": "Chief Executive Officer of Die Casting Division",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Supratik  Roy",
+      "role": "Chief Executive Officer of Emerging Business",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Deepak  Arora",
+      "role": "Chief Executive Officer of Electrical Distribution System Division & Wiring Harness Division",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

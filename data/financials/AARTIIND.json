@@ -1,6 +1,6 @@
 {
   "ticker": "AARTIIND",
-  "collected_at": "2026-08-01 04:50:23",
+  "collected_at": "2026-08-02 04:53:27",
   "company_info": {
     "name": "Aarti Industries Limited",
     "sector": "Basic Materials",
@@ -9,13 +9,13 @@
     "current_price": 489.1,
     "pe_ratio": 33.454174,
     "pb_ratio": 2.9689028,
-    "roe": 0.07249,
+    "roe": "N/A",
     "debt_to_equity": 83.392,
-    "revenue": 82859999232,
-    "net_income": 4190000128,
+    "revenue": 89980002304,
+    "net_income": 5310000128,
     "eps": 14.62,
     "52_week_high": 523.1,
     "52_week_low": 338.05,
-    "dividend_yield": 0.21
+    "dividend_yield": 0.2
   }
 }

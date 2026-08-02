@@ -1,21 +1,21 @@
 {
   "ticker": "STAR",
-  "collected_at": "2026-08-01 05:21:01",
+  "collected_at": "2026-08-02 05:24:48",
   "company_info": {
     "name": "Strides Pharma Science Limited",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - Specialty & Generic",
     "market_cap": 94477033472,
     "current_price": 1025.0,
-    "pe_ratio": 14.72278,
+    "pe_ratio": 15.4089,
     "pb_ratio": 3.040226,
-    "roe": 0.20033,
+    "roe": "N/A",
     "debt_to_equity": 55.821,
-    "revenue": 48586829824,
-    "net_income": 5561930240,
-    "eps": 69.62,
+    "revenue": 50043539456,
+    "net_income": 6134989824,
+    "eps": 66.52,
     "52_week_high": 1231.0,
     "52_week_low": 768.65,
-    "dividend_yield": 0.47
+    "dividend_yield": 0.49
   }
 }
