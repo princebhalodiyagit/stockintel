@@ -1,7 +1,7 @@
 {
   "ticker": "NEWGEN",
   "company": "Newgen Software Technologies Limited",
-  "collected_at": "2026-08-02 05:16:15",
+  "collected_at": "2026-08-03 05:24:42",
   "directors": [
     {
       "name": "Mr. Diwakar  Nigam",
@@ -9,13 +9,6 @@
       "age": 71,
       "year_born": 1954,
       "total_pay": 84192560
-    },
-    {
-      "name": "Mr. Virender  Jeet",
-      "role": "Chief Executive Officer",
-      "age": 56,
-      "year_born": 1969,
-      "total_pay": "N/A"
     },
     {
       "name": "Mr. T. S. Varadarajan",
@@ -29,13 +22,6 @@
       "role": "Chief Financial Officer",
       "age": 56,
       "year_born": 1969,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Tarun  Nandwani",
-      "role": "Chief Operating Officer",
-      "age": 53,
-      "year_born": 1972,
       "total_pay": "N/A"
     },
     {
@@ -71,6 +57,20 @@
       "role": "Head of Marketing",
       "age": 60,
       "year_born": 1965,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vivek  Bhatnagar",
+      "role": "Senior Vice President of Sales - MEA & Head of Sales International",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sunil  Pandita",
+      "role": "Senior VP of Sales - India & South Asia and Head of Domestic Sales",
+      "age": 53,
+      "year_born": 1972,
       "total_pay": "N/A"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "ticker": "MUNJALSHOW",
   "company": "Munjal Showa Limited",
-  "collected_at": "2026-08-02 05:15:26",
+  "collected_at": "2026-08-03 05:23:54",
   "directors": [
     {
       "name": "Mr. Yogesh Chander Munjal",
@@ -25,41 +25,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Avi  Munjal",
-      "role": "Senior Vice President of Business Development Department",
-      "age": 29,
-      "year_born": 1996,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Amit  Aggarwal",
-      "role": "VP of Management Department & Plant Head",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Abhay  Khare",
-      "role": "Vice President",
-      "age": 55,
-      "year_born": 1970,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Prahlad Kumar Godara",
-      "role": "Vice President of P & A",
-      "age": 66,
-      "year_born": 1959,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Ravinder  Sharma",
-      "role": "Company Secretary & Compliance Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 523000
-    },
-    {
       "name": "Masashi  Nitta",
       "role": "Technical Advisor",
       "age": 41,
@@ -71,6 +36,20 @@
       "role": "General Manager",
       "age": 58,
       "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Puru  Sethi",
+      "role": "Deputy General Manager",
+      "age": 40,
+      "year_born": 1985,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Yajan Kant Munjal",
+      "role": "General Manager of Business Development & Excellence Department",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

@@ -1,21 +1,21 @@
 {
   "ticker": "NUCLEUS",
-  "collected_at": "2026-08-02 05:16:59",
+  "collected_at": "2026-08-03 05:25:23",
   "company_info": {
     "name": "Nucleus Software Exports Limited",
     "sector": "Technology",
     "industry": "Software - Application",
-    "market_cap": 18060476416,
-    "current_price": 686.05,
-    "pe_ratio": 17.121288,
-    "pb_ratio": 1.9908878,
-    "roe": 0.13561,
+    "market_cap": 18296088576,
+    "current_price": 695.0,
+    "pe_ratio": 17.344646,
+    "pb_ratio": 2.0168602,
+    "roe": "N/A",
     "debt_to_equity": 0.942,
-    "revenue": 8760299520,
-    "net_income": 1167399936,
+    "revenue": 8687399936,
+    "net_income": 1054099968,
     "eps": 40.07,
     "52_week_high": 1084.8,
     "52_week_low": 682.0,
-    "dividend_yield": 1.69
+    "dividend_yield": 1.82
   }
 }

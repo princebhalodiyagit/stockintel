@@ -1,21 +1,21 @@
 {
   "ticker": "ACI",
-  "collected_at": "2026-08-02 04:53:50",
+  "collected_at": "2026-08-03 05:03:01",
   "company_info": {
     "name": "Archean Chemical Industries Limited",
     "sector": "Basic Materials",
     "industry": "Chemicals",
-    "market_cap": 64895905792,
-    "current_price": 525.65,
-    "pe_ratio": 66.706856,
-    "pb_ratio": 3.3548417,
-    "roe": 0.05552,
+    "market_cap": 65828016128,
+    "current_price": 533.2,
+    "pe_ratio": 67.66498,
+    "pb_ratio": 3.4030278,
+    "roe": "N/A",
     "debt_to_equity": 24.128,
-    "revenue": 10810507264,
-    "net_income": 1068593984,
+    "revenue": 11158896640,
+    "net_income": 973465024,
     "eps": 7.88,
     "52_week_high": 727.6,
     "52_week_low": 483.0,
-    "dividend_yield": 0.45
+    "dividend_yield": 0.48
   }
 }
