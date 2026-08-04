@@ -1,7 +1,7 @@
 {
   "ticker": "PIIND",
   "company": "PI Industries Limited",
-  "collected_at": "2026-08-03 05:26:52",
+  "collected_at": "2026-08-04 05:10:46",
   "directors": [
     {
       "name": "Mr. Mayank  Singhal",
@@ -9,6 +9,13 @@
       "age": 52,
       "year_born": 1973,
       "total_pay": 260300000
+    },
+    {
+      "name": "Mr. Rajnish  Sarna",
+      "role": "Non-Executive Non-Independent Director",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": 100200000
     },
     {
       "name": "Mr. Sanjay  Agarwal",
@@ -22,6 +29,20 @@
       "role": "Global Chief Information Officer",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Amit  Goel",
+      "role": "Chief Legal Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Shruti Ratnakar Joshi",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 46,
+      "year_born": 1979,
       "total_pay": "N/A"
     },
     {
@@ -50,20 +71,6 @@
       "role": "Global CEO of PI Health Sciences",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Jagresh  Rana",
-      "role": "CEO of AgSciences & CEO of Biologicals business",
-      "age": 54,
-      "year_born": 1971,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Marco  Busch",
-      "role": "Global Chief Scientific Officer of PI AgSciences, R&D",
-      "age": 53,
-      "year_born": 1972,
       "total_pay": "N/A"
     }
   ]

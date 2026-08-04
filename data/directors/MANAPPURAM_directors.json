@@ -1,7 +1,7 @@
 {
   "ticker": "MANAPPURAM",
   "company": "Manappuram Finance Limited",
-  "collected_at": "2026-08-03 05:22:07",
+  "collected_at": "2026-08-04 05:05:09",
   "directors": [
     {
       "name": "Mr. Vazhappully Padmanabhan Nandakumar M.Sc",
@@ -9,6 +9,69 @@
       "age": 71,
       "year_born": 1954,
       "total_pay": 225874000
+    },
+    {
+      "name": "Mr. Deepak Kumar Gupta Reddy",
+      "role": "Chief Executive Officer",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": 30730000
+    },
+    {
+      "name": "Dr. Sumitha  Nandan V",
+      "role": "Executive Vice-Chairperson of the Board",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": 35214000
+    },
+    {
+      "name": "Mr. Sreekanth  P V",
+      "role": "President & Group Head of Operations, Services and Digital",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Buvanesh  Tharashankar",
+      "role": "Group Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 9640000
+    },
+    {
+      "name": "Mr. Sanjay Gangadharan Nambiar",
+      "role": "Group General Counsel",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. A. L. Bindu B.Com. ACA.",
+      "role": "Head of Finance Center of Excellence & AI",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": 19190000
+    },
+    {
+      "name": "Mr. Raju Narayanan Kalathiparambil",
+      "role": "Executive Vice President of Analytics & Business Review",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. K. Senthil Kumar",
+      "role": "Executive VP, CEO of Vehicle & Equipment Finance and Head Credit-VEF",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kamal P. Parmar",
+      "role": "Senior VP & Business Head of Commercial Vehicle Finance",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
     }
   ]
 }

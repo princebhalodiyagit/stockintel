@@ -1,7 +1,7 @@
 {
   "ticker": "ALKEM",
   "company": "Alkem Laboratories Limited",
-  "collected_at": "2026-08-03 05:04:05",
+  "collected_at": "2026-08-04 04:43:30",
   "directors": [
     {
       "name": "Mr. Basudeo Narian Singh",
@@ -23,6 +23,13 @@
       "age": 62,
       "year_born": 1963,
       "total_pay": 113100000
+    },
+    {
+      "name": "Mr. Srinivas Balmiki Prasad Singh",
+      "role": "Executive Director",
+      "age": 37,
+      "year_born": 1988,
+      "total_pay": 107200000
     },
     {
       "name": "Ms. Madhurima  Singh",
@@ -64,13 +71,6 @@
       "role": "Head of Operations",
       "age": 65,
       "year_born": 1960,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Ramanarayana  Parhi",
-      "role": "VP & Chief Information Officer",
-      "age": "N/A",
-      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

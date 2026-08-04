@@ -1,7 +1,7 @@
 {
   "ticker": "ASKAUTOLTD",
   "company": "ASK Automotive Limited",
-  "collected_at": "2026-08-03 05:05:29",
+  "collected_at": "2026-08-04 04:45:13",
   "directors": [
     {
       "name": "Mr. Kuldip Singh Rathee",
@@ -9,6 +9,34 @@
       "age": 71,
       "year_born": 1954,
       "total_pay": 70215600
+    },
+    {
+      "name": "Mr. Prashant  Rathee",
+      "role": "Joint MD & Whole-Time Director",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": 30476832
+    },
+    {
+      "name": "Mr. Aman  Rathee",
+      "role": "Joint MD & Whole-Time Director",
+      "age": 43,
+      "year_born": 1982,
+      "total_pay": 30476832
+    },
+    {
+      "name": "Mr. Naresh Kumar Sharma",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Rajani  Sharma",
+      "role": "Senior VP of Legal, Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Rajesh  Kataria",
@@ -34,6 +62,13 @@
     {
       "name": "Mr. Harveer  Singh",
       "role": "President of Advanced Braking System",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Chandra Shekhar Tyagi",
+      "role": "Senior Vice President of Purchase",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

@@ -1,7 +1,7 @@
 {
   "ticker": "TTKPRESTIG",
   "company": "TTK Prestige Limited",
-  "collected_at": "2026-08-03 05:35:52",
+  "collected_at": "2026-08-04 05:21:33",
   "directors": [
     {
       "name": "Mr. Venkatesh  Vijayaraghavan",
@@ -18,6 +18,41 @@
       "total_pay": 28776496
     },
     {
+      "name": "Mr. Tamilselvan  Sankaralingam",
+      "role": "Chief Technology Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. K. V. Manjula",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anil  Gurnani",
+      "role": "Chief Sales & Marketing Officer",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manas  Martha",
+      "role": "Chief Human Resource Officer",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. B. P. Srikanth",
+      "role": "Chief Manufacturing Officer",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Chanchal  Saxena",
       "role": "Chief Information & Digital Officer",
       "age": "N/A",
@@ -25,11 +60,18 @@
       "total_pay": "N/A"
     },
     {
-      "name": "N.  Radhakrishnan",
-      "role": "Head of International Business",
-      "age": 63,
-      "year_born": 1962,
+      "name": "Mr. G. Ramesh Babu",
+      "role": "Senior Deputy General Manager of Legal",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Krishnamurthy  Shankaran AICWA, B.Com., FCS, MAC",
+      "role": "Whole Time Director",
+      "age": 72,
+      "year_born": 1953,
+      "total_pay": 24352532
     }
   ]
 }

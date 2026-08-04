@@ -1,7 +1,7 @@
 {
   "ticker": "PNB",
   "company": "Punjab National Bank",
-  "collected_at": "2026-08-03 05:27:06",
+  "collected_at": "2026-08-04 05:11:02",
   "directors": [
     {
       "name": "Mr. Ashok  Chandra",
@@ -23,6 +23,13 @@
       "age": 68,
       "year_born": 1957,
       "total_pay": 7915615
+    },
+    {
+      "name": "Mr. D.  Surendran",
+      "role": "Executive Director",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": 4769896
     },
     {
       "name": "Raman  Grover",
@@ -64,13 +71,6 @@
       "role": "Chief General Manager",
       "age": 59,
       "year_born": 1966,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Sanjeevan  Nikhar",
-      "role": "Chief General Manager",
-      "age": "N/A",
-      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

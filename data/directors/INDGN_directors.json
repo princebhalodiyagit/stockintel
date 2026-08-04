@@ -1,8 +1,15 @@
 {
   "ticker": "INDGN",
   "company": "Indegene Limited",
-  "collected_at": "2026-08-03 05:17:08",
+  "collected_at": "2026-08-04 04:59:10",
   "directors": [
+    {
+      "name": "Mr. Manish  Gupta",
+      "role": "Executive Chairman & CEO",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": 36452500
+    },
     {
       "name": "Dr. Sanjay Suresh Parikh Ph.D.",
       "role": "Executive Director & Executive VP",
@@ -62,13 +69,6 @@
     {
       "name": "Mr. Marut  Setia",
       "role": "Senior Vice President of Global Growth Markets, Accounts & Medical Devices",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Peter  Marchesini",
-      "role": "Senior Vice President",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

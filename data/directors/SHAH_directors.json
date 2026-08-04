@@ -1,7 +1,7 @@
 {
   "ticker": "SHAH",
   "company": "Shah Metacorp Limited",
-  "collected_at": "2026-08-03 05:31:08",
+  "collected_at": "2026-08-04 05:15:53",
   "directors": [
     {
       "name": "Ms. Mona Viral Shah",
@@ -30,6 +30,13 @@
       "age": 45,
       "year_born": 1980,
       "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mahendra Deo Dutt Kumar Shukla",
+      "role": "Executive Director",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": 300000
     }
   ]
 }

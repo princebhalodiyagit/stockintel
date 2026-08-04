@@ -1,7 +1,7 @@
 {
   "ticker": "GALAXYSURF",
   "company": "Galaxy Surfactants Limited",
-  "collected_at": "2026-08-03 05:13:20",
+  "collected_at": "2026-08-04 04:54:41",
   "directors": [
     {
       "name": "Mr. Natarajan Krishnan Kulumani A.I.C.W.A, B.Com..",
@@ -9,6 +9,69 @@
       "age": 60,
       "year_born": 1965,
       "total_pay": 32300000
+    },
+    {
+      "name": "Mr. Vaijanath S. Kulkarni",
+      "role": "COO & Executive Director",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": 28500000
+    },
+    {
+      "name": "Mr. Abhijit  Damle",
+      "role": "Chief Financial Officer",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": 10800000
+    },
+    {
+      "name": "Mr. Niranjan Arun Ketkar",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 2500000
+    },
+    {
+      "name": "Mr. Yogesh  Kalra",
+      "role": "VP of Business Creation",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Sagar Anil Trailokya",
+      "role": "VP of Quality",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Garikiparthy Sesha Samba Murty",
+      "role": "VP of Conversion & Head of NPT and SHE",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anand  Gurav",
+      "role": "Head of Business Commercial and Operations, IT and Communication Management Process",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kamaljit  Sahota",
+      "role": "Head of IT and Communication Management",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Tarun  Bhargava",
+      "role": "Head of Global Customer Delight",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

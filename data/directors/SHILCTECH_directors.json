@@ -1,7 +1,7 @@
 {
   "ticker": "SHILCTECH",
   "company": "Shilchar Technologies Limited",
-  "collected_at": "2026-08-03 05:31:24",
+  "collected_at": "2026-08-04 05:16:10",
   "directors": [
     {
       "name": "Mr. Alay Jitendra Shah",
@@ -9,6 +9,69 @@
       "age": 59,
       "year_born": 1966,
       "total_pay": 83201000
+    },
+    {
+      "name": "Mr. Prajesh K. Purohit",
+      "role": "CFO and Senior Manager of Finance & Accounts",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Vishnupriya  Civichan",
+      "role": "Company Secretary & Compliance officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Aashay Alay Shah",
+      "role": "Whole Time Director",
+      "age": 34,
+      "year_born": 1991,
+      "total_pay": 15426000
+    },
+    {
+      "name": "Mr. Aatman Alay Shah",
+      "role": "Whole Time Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 11547000
+    },
+    {
+      "name": "Mr. Rajendra K. Nath",
+      "role": "Chief Operating Officer",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vishwas  Desai",
+      "role": "Senior Manager of EHS, Human Resources & Administration",
+      "age": 40,
+      "year_born": 1985,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Nikky  Vaidya",
+      "role": "Manager of Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Bhargav  Bhatt",
+      "role": "Chief Technical Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ashok  Bhambhani",
+      "role": "Head of Business Development",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": "N/A"
     }
   ]
 }

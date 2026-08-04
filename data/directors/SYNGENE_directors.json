@@ -1,7 +1,7 @@
 {
   "ticker": "SYNGENE",
   "company": "Syngene International Limited",
-  "collected_at": "2026-08-03 05:34:04",
+  "collected_at": "2026-08-04 05:19:24",
   "directors": [
     {
       "name": "Dr. Kiran  Mazumdar-Shaw B.Sc (Hons), B.Sc.",
@@ -15,6 +15,13 @@
       "role": "CEO, MD & Director",
       "age": 47,
       "year_born": 1978,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Deepak  Jain",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
@@ -34,6 +41,34 @@
     {
       "name": "Mr. G.  Krishnan",
       "role": "Head of Investor Relations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Chethan  Yogesh",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ajay  Tandon",
+      "role": "Head of Strategy & Corporate Development",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Maninder Kapoor Puri",
+      "role": "Chief Human Resources Officer",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Purushottam Shashikant Singnurkar",
+      "role": "Head of Formulations Development",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

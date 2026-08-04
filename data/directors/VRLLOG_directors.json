@@ -1,7 +1,7 @@
 {
   "ticker": "VRLLOG",
   "company": "VRL Logistics Limited",
-  "collected_at": "2026-08-03 05:37:28",
+  "collected_at": "2026-08-04 05:23:29",
   "directors": [
     {
       "name": "Dr. Vijay Basavanneppa Sankeshwar B.Com.",
@@ -22,6 +22,55 @@
       "role": "CFO & Investor Relation Officer",
       "age": 48,
       "year_born": 1977,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Raghavendra B. Malgi B.Com., C.A., L.L.B.",
+      "role": "Vice President of Accounts",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Laxminarayan Ramanand Bhat D.M.E",
+      "role": "CTO & Whole Time Director",
+      "age": 66,
+      "year_born": 1959,
+      "total_pay": 19804000
+    },
+    {
+      "name": "Mr. Aniruddha Anil Phadnavis A.C.A., A.C.S., B.Com., L.L.B.",
+      "role": "GM of Finance, Compliance Officer & Company Secretary",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Druvaraj N. Kulkarni",
+      "role": "Vice President of Finance",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Bapu U. Makkannavar B.E.",
+      "role": "Vice President",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Praveen Nageshwarprasad Singh",
+      "role": "Vice President",
+      "age": 43,
+      "year_born": 1982,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Vani  Sankeshwar",
+      "role": "President",
+      "age": 46,
+      "year_born": 1979,
       "total_pay": "N/A"
     }
   ]

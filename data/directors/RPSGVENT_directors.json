@@ -1,7 +1,7 @@
 {
   "ticker": "RPSGVENT",
   "company": "RPSG VENTURES LIMITED",
-  "collected_at": "2026-08-03 05:29:33",
+  "collected_at": "2026-08-04 05:13:57",
   "directors": [
     {
       "name": "Mr. Sudip Kumar Ghosh",
@@ -20,6 +20,13 @@
     {
       "name": "Mr. Abhishek  Malhotra",
       "role": "President of Strategy",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sayak  Chatterjee",
+      "role": "Company Secretary",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

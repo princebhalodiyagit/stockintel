@@ -1,6 +1,56 @@
 {
   "ticker": "CONCORDBIO",
   "company": "Concord Biotech Limited",
-  "collected_at": "2026-08-03 05:09:37",
-  "directors": []
+  "collected_at": "2026-08-04 04:50:12",
+  "directors": [
+    {
+      "name": "Mr. Ankur  Vaid",
+      "role": "Joint MD, CEO & Executive Director",
+      "age": 43,
+      "year_born": 1982,
+      "total_pay": 39086000
+    },
+    {
+      "name": "Mr. Raviraj  Karia",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 2266000
+    },
+    {
+      "name": "Mr. Prakash Lalchand Sajnani",
+      "role": "Assistant VP of Accounts & Finance",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 742000
+    },
+    {
+      "name": "Mr. Paritosh  Trivedi",
+      "role": "Company Secretary, Compliance Officer & Nodal Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 176000
+    },
+    {
+      "name": "Mr. Devang  Bhatt",
+      "role": "VP of Sales & Marketing and Head of Limbasi Plant-3",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manoj  Kumar",
+      "role": "VP of Formulation Division & Head of Valthera Unit-2",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sundeep  Bengani",
+      "role": "General Manager of International Business Development",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

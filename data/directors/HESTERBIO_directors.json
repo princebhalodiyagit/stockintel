@@ -1,14 +1,28 @@
 {
   "ticker": "HESTERBIO",
   "company": "Hester Biosciences Limited",
-  "collected_at": "2026-08-03 05:15:53",
+  "collected_at": "2026-08-04 04:57:41",
   "directors": [
+    {
+      "name": "Mr. Rajiv Dinesh Gandhi B.Com",
+      "role": "CEO, MD & Executive Director",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": 50850000
+    },
     {
       "name": "Ms. Priya Rajiv Gandhi",
       "role": "Executive Director",
       "age": 32,
       "year_born": 1993,
       "total_pay": 10080000
+    },
+    {
+      "name": "Mr. Ashish Dineshbhai Desai",
+      "role": "Chief Financial Officer",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Vinod  Mali",

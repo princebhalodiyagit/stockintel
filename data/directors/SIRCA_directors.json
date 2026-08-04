@@ -1,7 +1,7 @@
 {
   "ticker": "SIRCA",
   "company": "Sirca Paints India Limited",
-  "collected_at": "2026-08-03 05:32:04",
+  "collected_at": "2026-08-04 05:16:58",
   "directors": [
     {
       "name": "Mr. Sanjay  Agarwal",
@@ -16,6 +16,34 @@
       "age": 38,
       "year_born": 1987,
       "total_pay": 10471000
+    },
+    {
+      "name": "Ms. Shallu  Arora",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Chirag  Goel",
+      "role": "Chief Operating Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Hira  Kumar",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Opender Krishan Kaul",
+      "role": "President of Sales",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

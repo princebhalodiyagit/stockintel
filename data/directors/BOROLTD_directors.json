@@ -1,7 +1,7 @@
 {
   "ticker": "BOROLTD",
   "company": "Borosil Limited",
-  "collected_at": "2026-08-03 05:07:56",
+  "collected_at": "2026-08-04 04:48:11",
   "directors": [
     {
       "name": "Mr. Shreevar  Kheruka",
@@ -30,6 +30,48 @@
       "age": 56,
       "year_born": 1969,
       "total_pay": 30000
+    },
+    {
+      "name": "Mr. Dhaval  Patel",
+      "role": "Investor Relations Executive",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mandar Anil Chandrachud",
+      "role": "Vice President of Legal",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Bhaunik  Shah",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Sweta  Kochar",
+      "role": "Chief Human Resource Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ritesh  Kumar",
+      "role": "Senior Vice President",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Dev Rishi Bhatnagar",
+      "role": "VP & Cluster Head of Jaipur Operations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

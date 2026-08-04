@@ -1,7 +1,7 @@
 {
   "ticker": "HINDZINC",
   "company": "Hindustan Zinc Limited",
-  "collected_at": "2026-08-03 05:16:10",
+  "collected_at": "2026-08-04 04:58:02",
   "directors": [
     {
       "name": "Mr. Amitabh  Gupta",
@@ -9,6 +9,13 @@
       "age": 63,
       "year_born": 1962,
       "total_pay": 34993297
+    },
+    {
+      "name": "Mr. Kishor Kumar Sugumaran",
+      "role": "Chief Operating Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     },
     {
       "name": "Ms. Raksha  Jain",
@@ -62,13 +69,6 @@
     {
       "name": "Mr. Ram  Murari",
       "role": "IBU CEO Rampura Agucha",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "S  Kartik",
-      "role": "CEO of ACID Business",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

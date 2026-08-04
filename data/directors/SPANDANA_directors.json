@@ -1,8 +1,29 @@
 {
   "ticker": "SPANDANA",
   "company": "Spandana Sphoorty Financial Limited",
-  "collected_at": "2026-08-03 05:32:37",
+  "collected_at": "2026-08-04 05:17:38",
   "directors": [
+    {
+      "name": "Mr. Venkatesh  Krishnan",
+      "role": "MD & CEO",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 15000000
+    },
+    {
+      "name": "Mr. Ashish Kumar Damani",
+      "role": "President & CFO",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": 44500000
+    },
+    {
+      "name": "Mr. Vinay Prakash Tripathi",
+      "role": "Company Secretary",
+      "age": 43,
+      "year_born": 1982,
+      "total_pay": 6600000
+    },
     {
       "name": "Mr. Ganesh  KV",
       "role": "Chief Operating Officer",
@@ -48,27 +69,6 @@
     {
       "name": "Mr. Ajay  Ganotra",
       "role": "Chief Business Officer of North",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Sushanta Kumar Tripathy",
-      "role": "Chief Business Officer of Secured Lending",
-      "age": 45,
-      "year_born": 1980,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Venkata Ramana Ratnakaram",
-      "role": "Chief Information Security Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. A. Bhanu Prakash",
-      "role": "Vice President - CSR & Sustainability",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

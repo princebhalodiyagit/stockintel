@@ -1,7 +1,7 @@
 {
   "ticker": "GSFC",
   "company": "Gujarat State Fertilizers & Chemicals Limited",
-  "collected_at": "2026-08-03 05:14:59",
+  "collected_at": "2026-08-04 04:56:40",
   "directors": [
     {
       "name": "Dr. Rajender  Kumar I.A.S.",
@@ -15,6 +15,13 @@
       "role": "Senior VP of Finance & CFO",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Satishchandra B. Patel",
+      "role": "Senior VP of Operations, IR & SU and Factory Manager",
+      "age": 57,
+      "year_born": 1968,
       "total_pay": "N/A"
     },
     {
@@ -46,6 +53,13 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. N. B. Dalal",
+      "role": "Senior Vice President of MM & Marketing-AB",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Alpesh B. Gupta",
       "role": "Senior Vice President of Sikka Unit",
       "age": 58,
@@ -57,20 +71,6 @@
       "role": "Senior Vice President Design, Construction & Insp.",
       "age": 59,
       "year_born": 1966,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Nainesh M. Pandya",
-      "role": "Senior Vice President Project Execution & Civil",
-      "age": 59,
-      "year_born": 1966,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Piyul. R. Shah",
-      "role": "Senior Vice President of PDC",
-      "age": "N/A",
-      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "ticker": "KRITIKA",
   "company": "Kritika Wires Limited",
-  "collected_at": "2026-08-03 05:20:40",
+  "collected_at": "2026-08-04 05:03:24",
   "directors": [
     {
       "name": "Mr. Naresh Kumar Agarwal",
@@ -20,6 +20,20 @@
     {
       "name": "Mr. Anand Kumar Sharma",
       "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ankush  Agarwal",
+      "role": "Whole Time Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 2880000
+    },
+    {
+      "name": "Ms. Komal  Kanodia",
+      "role": "Company Secretary & Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

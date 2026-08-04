@@ -1,7 +1,7 @@
 {
   "ticker": "GRAPHITE",
   "company": "Graphite India Limited",
-  "collected_at": "2026-08-03 05:14:41",
+  "collected_at": "2026-08-04 04:56:18",
   "directors": [
     {
       "name": "Mr. Ashutosh  Dixit",
@@ -50,6 +50,27 @@
       "role": "Senior Vice President - Satpur Plant and Power Division",
       "age": 52,
       "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ranadeep  Chakraborty",
+      "role": "Senior Vice President of Operations & Works",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Siddhant  Bangur",
+      "role": "Senior VP & Business Development Executive",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. P.  Bhattacharya",
+      "role": "Vice President of IT",
+      "age": 54,
+      "year_born": 1971,
       "total_pay": "N/A"
     }
   ]

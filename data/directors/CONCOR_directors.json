@@ -1,15 +1,8 @@
 {
   "ticker": "CONCOR",
   "company": "Container Corporation of India Limited",
-  "collected_at": "2026-08-03 05:09:36",
+  "collected_at": "2026-08-04 04:50:11",
   "directors": [
-    {
-      "name": "Mr. Sanjay  Swarup",
-      "role": "Chairman & MD",
-      "age": 59,
-      "year_born": 1966,
-      "total_pay": 9336000
-    },
     {
       "name": "Mr. Vijoy Kumar Singh",
       "role": "Director of International Marketing & Operations and Director",
@@ -71,6 +64,13 @@
       "role": "Director & Director of Finance",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Shankar  Mazumdar",
+      "role": "Principal Executive Director (Law)",
+      "age": 57,
+      "year_born": 1968,
       "total_pay": "N/A"
     }
   ]

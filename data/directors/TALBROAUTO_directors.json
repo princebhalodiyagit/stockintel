@@ -1,8 +1,22 @@
 {
   "ticker": "TALBROAUTO",
   "company": "Talbros Automotive Components Limited",
-  "collected_at": "2026-08-03 05:34:10",
+  "collected_at": "2026-08-04 05:19:31",
   "directors": [
+    {
+      "name": "Mr. Umesh  Talwar",
+      "role": "Chairman & MD",
+      "age": 75,
+      "year_born": 1950,
+      "total_pay": 19499676
+    },
+    {
+      "name": "Mr. Anuj  Talwar",
+      "role": "MD & Executive Non-Independent Director",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": 19499676
+    },
     {
       "name": "Mr. Manish  Khanna",
       "role": "Chief Financial Officer",
@@ -22,6 +36,13 @@
       "role": "Chief Executive Officer",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Varun  Talwar",
+      "role": "Vice Chairman & MD",
+      "age": 56,
+      "year_born": 1969,
       "total_pay": "N/A"
     },
     {

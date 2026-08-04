@@ -1,8 +1,15 @@
 {
   "ticker": "DEEPAKNTR",
   "company": "Deepak Nitrite Limited",
-  "collected_at": "2026-08-03 05:10:37",
+  "collected_at": "2026-08-04 04:51:24",
   "directors": [
+    {
+      "name": "Dr. Deepak Chimanlal Mehta B.Sc.",
+      "role": "Chairman & MD",
+      "age": 69,
+      "year_born": 1956,
+      "total_pay": 86200000
+    },
     {
       "name": "Mr. Somsekhar Asimkumar Nanda",
       "role": "CFO & Chief Risk Officer",
@@ -25,6 +32,13 @@
       "total_pay": 53800000
     },
     {
+      "name": "Mr. Girish R. Satarkar",
+      "role": "Whole-Time Executive Director",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": 27100000
+    },
+    {
       "name": "Mr. Meghav D. Mehta",
       "role": "Deputy MD & Non-Executive Non-Independent Director",
       "age": 39,
@@ -36,6 +50,27 @@
       "role": "Senior General Manager of Accounts & Taxation",
       "age": 65,
       "year_born": 1960,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. K. C. Bahuguna",
+      "role": "Chief Information Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Arvind  Bajpai",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Subimat  Mondal",
+      "role": "Group Chief Human Resource Officer",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

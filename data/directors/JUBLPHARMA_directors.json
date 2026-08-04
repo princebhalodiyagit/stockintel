@@ -1,7 +1,7 @@
 {
   "ticker": "JUBLPHARMA",
   "company": "Jubilant Pharmova Limited",
-  "collected_at": "2026-08-03 05:19:19",
+  "collected_at": "2026-08-04 05:01:48",
   "directors": [
     {
       "name": "Mr. Priyavrat  Bhartia MBA",
@@ -53,6 +53,13 @@
       "total_pay": 6860000
     },
     {
+      "name": "Mr. Shantanu  Jha",
+      "role": "Group Chief Human Resources Officer & Acting CEO- CRDMO of Jubilant Biosys",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Rajagopal  Sankaraiah B.Sc., CA, F.C.A.",
       "role": "Advisor",
       "age": 66,
@@ -64,13 +71,6 @@
       "role": "Senior Vice President of Corporate Affairs",
       "age": 79,
       "year_born": 1946,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Chandan Singh Sengar B.Sc., M.B.A.",
-      "role": "President of Life Science Chemicals",
-      "age": 61,
-      "year_born": 1964,
       "total_pay": "N/A"
     }
   ]

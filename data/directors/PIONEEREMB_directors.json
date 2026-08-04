@@ -1,7 +1,7 @@
 {
   "ticker": "PIONEEREMB",
   "company": "Pioneer Embroideries Limited",
-  "collected_at": "2026-08-03 05:26:56",
+  "collected_at": "2026-08-04 05:10:51",
   "directors": [
     {
       "name": "Mr. Raj Kumar Sekhani",
@@ -9,6 +9,34 @@
       "age": 66,
       "year_born": 1959,
       "total_pay": 8400000
+    },
+    {
+      "name": "Mr. Aarav  Sekhani",
+      "role": "Vice President of Marketing",
+      "age": 40,
+      "year_born": 1985,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Saurabh  Maheshwari",
+      "role": "Executive Director",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": 4800000
+    },
+    {
+      "name": "Mr. Deepak  Sipani",
+      "role": "Chief Financial Officer",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": 1919000
+    },
+    {
+      "name": "Ms. Ami Samir Thakkar",
+      "role": "Compliance Officer & Company Secretary",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 631000
     },
     {
       "name": "Mr. Gangadharan Kandam Rama Panicker",
@@ -43,13 +71,6 @@
       "role": "Senior Vice President of International Trade-EL",
       "age": 52,
       "year_born": 1973,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. B. S. Khulbe",
-      "role": "Marketing Head of Specialized Polyester Filament Yarn",
-      "age": 58,
-      "year_born": 1967,
       "total_pay": "N/A"
     }
   ]

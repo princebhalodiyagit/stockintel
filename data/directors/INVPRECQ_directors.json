@@ -1,6 +1,35 @@
 {
   "ticker": "INVPRECQ",
   "company": "Investment & Precision Castings Limited",
-  "collected_at": "2026-08-03 05:17:55",
-  "directors": []
+  "collected_at": "2026-08-04 05:00:07",
+  "directors": [
+    {
+      "name": "Mr. Jainam Piyushkumar Tamboli",
+      "role": "CFO & Whole Time Director",
+      "age": 32,
+      "year_born": 1993,
+      "total_pay": 4628000
+    },
+    {
+      "name": "Ms. Hetalben Bhanuprasad Kapadia",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 240000
+    },
+    {
+      "name": "Mr. Pratapkumar  Pandurangarao Bolisetty",
+      "role": "Whole Time Director",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": 3200000
+    },
+    {
+      "name": "Mr. Piyush Indulal Tamboli",
+      "role": "Chairman & MD",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": 30094000
+    }
+  ]
 }

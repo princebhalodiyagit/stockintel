@@ -1,7 +1,7 @@
 {
   "ticker": "STARCEMENT",
   "company": "Star Cement Limited",
-  "collected_at": "2026-08-03 05:33:00",
+  "collected_at": "2026-08-04 05:18:05",
   "directors": [
     {
       "name": "Mr. Sajjan  Bhajanka",
@@ -9,6 +9,13 @@
       "age": 73,
       "year_born": 1952,
       "total_pay": 19800000
+    },
+    {
+      "name": "Mr. Tushar  Bhajanka",
+      "role": "MD, CEO & Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Mukesh  Saxena",
@@ -51,6 +58,20 @@
       "age": 54,
       "year_born": 1971,
       "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pankaj  Kejriwal",
+      "role": "Executive Director",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": 29000000
+    },
+    {
+      "name": "Mr. Sanjay  Agarwal",
+      "role": "MD & Executive Non-Independent Director",
+      "age": 64,
+      "year_born": 1961,
+      "total_pay": 19800000
     }
   ]
 }

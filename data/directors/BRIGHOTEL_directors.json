@@ -1,7 +1,7 @@
 {
   "ticker": "BRIGHOTEL",
   "company": "Brigade Hotel Ventures Limited",
-  "collected_at": "2026-08-03 05:08:05",
+  "collected_at": "2026-08-04 04:48:22",
   "directors": [
     {
       "name": "Ms. Nirupa  Shankar",
@@ -23,6 +23,20 @@
       "age": 37,
       "year_born": 1988,
       "total_pay": 3400000
+    },
+    {
+      "name": "Ms. Sujaya  Nag",
+      "role": "Senior Vice President of HR & Admin",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Arindam  Mukherjee",
+      "role": "President of Engineering - Hospitality",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": "N/A"
     }
   ]
 }

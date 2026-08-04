@@ -1,8 +1,15 @@
 {
   "ticker": "SKFINDIA",
   "company": "SKF India Limited",
-  "collected_at": "2026-08-03 05:32:09",
+  "collected_at": "2026-08-04 05:17:04",
   "directors": [
+    {
+      "name": "Mr. Shailesh Kumar Sharma",
+      "role": "MD & Director",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": 19839699
+    },
     {
       "name": "Mr. Mayank  Holani",
       "role": "Chief Financial Officer",
@@ -62,13 +69,6 @@
     {
       "name": "Mr. Jaiveer  Singh",
       "role": "Head of Regional IT - APEC",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Tanul  Singhal",
-      "role": "Head of Corporate Affairs & CSR",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

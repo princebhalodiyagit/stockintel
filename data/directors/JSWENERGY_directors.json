@@ -1,7 +1,7 @@
 {
   "ticker": "JSWENERGY",
   "company": "JSW Energy Limited",
-  "collected_at": "2026-08-03 05:19:09",
+  "collected_at": "2026-08-04 05:01:37",
   "directors": [
     {
       "name": "Mr. Sajjan Kumar Jindal B.E.",
@@ -16,6 +16,13 @@
       "age": 59,
       "year_born": 1966,
       "total_pay": 44900000
+    },
+    {
+      "name": "Mr. Chandrasekaran  Prabhakaran",
+      "role": "Chief Financial Officer",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Chittur Ramakrishnan Lakshman",
@@ -64,13 +71,6 @@
       "role": "Senior Vice President",
       "age": 69,
       "year_born": 1956,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Aditya  Agarwal MBA",
-      "role": "Chief Operating Officer of Renewable",
-      "age": 55,
-      "year_born": 1970,
       "total_pay": "N/A"
     }
   ]

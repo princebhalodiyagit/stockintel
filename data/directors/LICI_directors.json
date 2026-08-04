@@ -1,6 +1,77 @@
 {
   "ticker": "LICI",
   "company": "Life Insurance Corporation Of India",
-  "collected_at": "2026-08-03 05:21:18",
-  "directors": []
+  "collected_at": "2026-08-04 05:04:09",
+  "directors": [
+    {
+      "name": "Mr. Doraiswamy  Ramchandran",
+      "role": "MD, CEO & Director",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": 12276000
+    },
+    {
+      "name": "Mr. Dinesh  Pant",
+      "role": "MD & Director",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": 6712000
+    },
+    {
+      "name": "Mr. Ratnakar  Patnaik",
+      "role": "MD & Director",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": 5833000
+    },
+    {
+      "name": "Mr. Ramakrishnan  Chander",
+      "role": "MD & Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 2886000
+    },
+    {
+      "name": "Mr. Arindam Das Gupta",
+      "role": "Chief Investment Officer & Executive Director of Investment \u0096 Front Office",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. K. R. Ashok",
+      "role": "Executive Director of Acturial/Administration/IT Implementation",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Jayasimhan Madabhushi Matam Tirumala",
+      "role": "Chief Compliance Officer & Executive Director of Board & Secretarial/Regulatory Compliance",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pradeep  Shenoy",
+      "role": "Executive Director of Corporate Communication",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Govind Prasad Agarwal",
+      "role": "Additional Executive Director & Director of Marketing/Product Development",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Salil  Vishwanath",
+      "role": "Executive Director of Human Resources Development/OD",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

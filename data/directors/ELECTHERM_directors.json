@@ -1,7 +1,7 @@
 {
   "ticker": "ELECTHERM",
   "company": "Electrotherm (India) Limited",
-  "collected_at": "2026-08-03 05:11:54",
+  "collected_at": "2026-08-04 04:52:58",
   "directors": [
     {
       "name": "Mr. Amit Kumar Patwarika",
@@ -16,6 +16,13 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 2200000
+    },
+    {
+      "name": "Mr. Harish  Mukati",
+      "role": "CEO of Steel Division & Additional Whole Time Director",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": 6832800
     },
     {
       "name": "Mr. Suraj Shailesh Bhandari",
@@ -36,6 +43,13 @@
       "role": "Senior Vice President",
       "age": 52,
       "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Tushar  Jani",
+      "role": "Additional Whole Time Director",
+      "age": 61,
+      "year_born": 1964,
       "total_pay": "N/A"
     }
   ]

@@ -1,8 +1,22 @@
 {
   "ticker": "BRITANNIA",
   "company": "Britannia Industries Limited",
-  "collected_at": "2026-08-03 05:08:06",
+  "collected_at": "2026-08-04 04:48:23",
   "directors": [
+    {
+      "name": "Mr. Rakshit  Hargave",
+      "role": "MD, CEO & Executive Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 85200000
+    },
+    {
+      "name": "Mr. Natarajan  Venkataraman",
+      "role": "CFO & Executive Director",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": 42900000
+    },
     {
       "name": "Mr. Ramamurthy  Jayaraman",
       "role": "Vice President of Corporate Finance",
@@ -46,29 +60,15 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. Patnam Maruthi Srinivas",
+      "role": "Vice President of Human Resources",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Manoj  Balgi",
       "role": "Chief Manufacturing & Procurement Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Vipin Kumar Kataria",
-      "role": "Chief Commercial Officer of Sales & Replenishment",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Yogesh  Vaidya",
-      "role": "Head of Contract Manufacturing",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Deepak  Ahuja",
-      "role": "Head of Exports",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

@@ -1,7 +1,7 @@
 {
   "ticker": "DMART",
   "company": "Avenue Supermarts Limited",
-  "collected_at": "2026-08-03 05:11:11",
+  "collected_at": "2026-08-04 04:52:05",
   "directors": [
     {
       "name": "Mr. Ramakant  Baheti",
@@ -18,6 +18,13 @@
       "total_pay": 13915692
     },
     {
+      "name": "Mr. Narayanan  Bhaskaran",
+      "role": "Chief Operating Officer of West & Central & Whole-Time Director",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": 56617732
+    },
+    {
       "name": "Mr. Anshul  Asawa",
       "role": "CEO, MD & Director",
       "age": "N/A",
@@ -30,6 +37,41 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 17714017
+    },
+    {
+      "name": "Mr. Lalit  Ahuja",
+      "role": "Chief Operating Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Biswabrata  Chakravorty",
+      "role": "Group Chief Digital & Information Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rushabh  Ghiya",
+      "role": "Head of Investor Relations & Chief of Staff",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Ashu  Gupta",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 4435156
+    },
+    {
+      "name": "Mr. Allan  Nott",
+      "role": "General Counsel",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

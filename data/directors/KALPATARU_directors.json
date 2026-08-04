@@ -1,7 +1,7 @@
 {
   "ticker": "KALPATARU",
   "company": "Kalpataru Limited",
-  "collected_at": "2026-08-03 05:19:29",
+  "collected_at": "2026-08-04 05:02:00",
   "directors": [
     {
       "name": "Mr. Parag Mufatraj Munot MBA",
@@ -9,6 +9,55 @@
       "age": 56,
       "year_born": 1969,
       "total_pay": 43200000
+    },
+    {
+      "name": "Mr. Chandrashekhar Gopal Joglekar",
+      "role": "Director of Finance & CFO",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sachin A. Kanitkar",
+      "role": "Director of Operations",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Gajendra  Mewara",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Narendra Kumar S. Lodha",
+      "role": "Director of Business Development & Executive Director",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": 50100000
+    },
+    {
+      "name": "Mr. Bavneesh Y. Gulati",
+      "role": "Director of Human Resources",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ashvin  Mehta",
+      "role": "Senior Vice President of Business Development",
+      "age": 75,
+      "year_born": 1950,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jayant C. Oswal",
+      "role": "Head of Pune Operations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Venkatesh Gajanan Bhandare",
@@ -22,13 +71,6 @@
       "role": "Vice President of Liaison",
       "age": 73,
       "year_born": 1952,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Colonel Ravinder Pal Singh Malik",
-      "role": "Vice President of Projects",
-      "age": 81,
-      "year_born": 1944,
       "total_pay": "N/A"
     }
   ]

@@ -1,8 +1,22 @@
 {
   "ticker": "AXITA",
   "company": "Axita Cotton Limited",
-  "collected_at": "2026-08-03 05:06:09",
+  "collected_at": "2026-08-04 04:46:02",
   "directors": [
+    {
+      "name": "Mr. Nitinbhai Govindbhai Patel",
+      "role": "Promoter, Chairman & MD",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": 3000000
+    },
+    {
+      "name": "Mr. Kushal Nitinbhai Patel",
+      "role": "Promoter, MD, Sustainability Officer & Director",
+      "age": 37,
+      "year_born": 1988,
+      "total_pay": 2990000
+    },
     {
       "name": "Mr. Harsh Kalpeshbhai Shah",
       "role": "Chief Financial Officer",

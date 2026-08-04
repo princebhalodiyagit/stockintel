@@ -1,7 +1,7 @@
 {
   "ticker": "GMMPFAUDLR",
   "company": "GMM Pfaudler Limited",
-  "collected_at": "2026-08-03 05:14:09",
+  "collected_at": "2026-08-04 04:55:41",
   "directors": [
     {
       "name": "Mr. Tarak Ashok Patel",
@@ -9,6 +9,13 @@
       "age": 50,
       "year_born": 1975,
       "total_pay": 100000000
+    },
+    {
+      "name": "Mr. Gregory  Gelhaus",
+      "role": "Group Chief Executive Officer",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Alexander  Poempner",

@@ -1,7 +1,7 @@
 {
   "ticker": "POONAWALLA",
   "company": "Poonawalla Fincorp Limited",
-  "collected_at": "2026-08-03 05:27:20",
+  "collected_at": "2026-08-04 05:11:20",
   "directors": [
     {
       "name": "Mr. Arvind  Kapil",
@@ -32,6 +32,13 @@
       "total_pay": 53900000
     },
     {
+      "name": "Ms. Shabnum  Zaman",
+      "role": "Nodal Officer, Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 12600000
+    },
+    {
       "name": "Mr. Vadakke Madathil Maneesh Kumar",
       "role": "Head of Operations",
       "age": "N/A",
@@ -55,6 +62,13 @@
     {
       "name": "Mr. Bholananda  Behera",
       "role": "Chief Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Siddhartha  Gupta",
+      "role": "Head of\u00ad Marketing, Digital, Analytics & Transformation",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

@@ -1,7 +1,7 @@
 {
   "ticker": "GRASIM",
   "company": "Grasim Industries Limited",
-  "collected_at": "2026-08-03 05:14:42",
+  "collected_at": "2026-08-04 04:56:19",
   "directors": [
     {
       "name": "Mr. Himanshu  Kapania",
@@ -39,6 +39,13 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. S. Vadiraj Kulkarni B.E. (Text.)",
+      "role": "Business Head of Cellulosic Fibres",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Krishna Kishore Maheshwari F.C.A., M.Com.",
       "role": "Business Head of Cement",
       "age": 70,
@@ -64,13 +71,6 @@
       "role": "Chief Marketing Officer of Cellulosic Fibre",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Anil  Rustogi",
-      "role": "Chief Financial Officer of Pulp & Fibre Business",
-      "age": 58,
-      "year_born": 1967,
       "total_pay": "N/A"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "ticker": "KRITI",
   "company": "Kriti Industries (India) Limited",
-  "collected_at": "2026-08-03 05:20:40",
+  "collected_at": "2026-08-04 05:03:23",
   "directors": [
     {
       "name": "Mr. Shiv Singh Mehta B.E., MBA",
@@ -9,6 +9,20 @@
       "age": 71,
       "year_born": 1954,
       "total_pay": 7320000
+    },
+    {
+      "name": "Mr. Rajesh  Sisodia",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Purnima  Mehta B.A. (Hons), PGDBM",
+      "role": "Whole-Time Director",
+      "age": 65,
+      "year_born": 1960,
+      "total_pay": 5976000
     },
     {
       "name": "Ms. Aditi  Randhar C.S.",

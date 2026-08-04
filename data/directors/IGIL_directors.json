@@ -1,7 +1,7 @@
 {
   "ticker": "IGIL",
   "company": "International Gemmological Institute (India) Limited",
-  "collected_at": "2026-08-03 05:16:54",
+  "collected_at": "2026-08-04 04:58:53",
   "directors": [
     {
       "name": "Mr. Tehmasp Nariman Printer",
@@ -13,6 +13,13 @@
     {
       "name": "Mr. Eashwar Subramanian Iyer",
       "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manu  Sharma",
+      "role": "Chief Operating Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
@@ -48,6 +55,20 @@
     {
       "name": "Ms. Kareena  Shahani",
       "role": "India Head - Laboratory and Operations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Sindhu  Loyal",
+      "role": "Director of Finance & Operations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sim Woon Yong",
+      "role": "Country Head - China",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

@@ -1,7 +1,7 @@
 {
   "ticker": "TMB",
   "company": "Tamilnad Mercantile Bank Limited",
-  "collected_at": "2026-08-03 05:35:23",
+  "collected_at": "2026-08-04 05:20:57",
   "directors": [
     {
       "name": "Mr. Salee Sukumaran Nair",
@@ -15,6 +15,62 @@
       "role": "Executive VP & CFO",
       "age": 62,
       "year_born": 1963,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. D.  Ramesh",
+      "role": "Executive Vice President of HRD & Corporate Services",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. K.  Vijayan",
+      "role": "Executive VP & Chief Quality Control Officer",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. P. R. Ashok Kumar",
+      "role": "Executive Vice President & Country Head Branch Banking",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vincent Menachery Devassy B.Com., CAIIB, L.L.B.",
+      "role": "Whole Time Executive Director",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": 7790449
+    },
+    {
+      "name": "Mr. Jebananth  Julius P.",
+      "role": "Vice President",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. R.  Gouthaman",
+      "role": "Vice President",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Swapnil Ashok Yelgaonkar",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Laxman Karkala Kudva",
+      "role": "Executive VP & Chief Risk Officer",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

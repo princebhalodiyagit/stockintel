@@ -1,7 +1,7 @@
 {
   "ticker": "RSWM",
   "company": "RSWM Limited",
-  "collected_at": "2026-08-03 05:29:40",
+  "collected_at": "2026-08-04 05:14:04",
   "directors": [
     {
       "name": "Mr. Riju  Jhunjhunwala",
@@ -46,6 +46,13 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. Suketu Narendrabhai Shah",
+      "role": "Business Head & Chief Executive of Denim Business",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Naresh Kumar Bahedia",
       "role": "Chief Executive & Business Head of Synthetic Yarn",
       "age": 56,
@@ -64,13 +71,6 @@
       "role": "President & CFO",
       "age": 44,
       "year_born": 1981,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. P. S. Puri FCA",
-      "role": "President of Corporate Finance",
-      "age": 78,
-      "year_born": 1947,
       "total_pay": "N/A"
     }
   ]

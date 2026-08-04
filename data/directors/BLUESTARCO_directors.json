@@ -1,7 +1,7 @@
 {
   "ticker": "BLUESTARCO",
   "company": "Blue Star Limited",
-  "collected_at": "2026-08-03 05:07:47",
+  "collected_at": "2026-08-04 04:48:00",
   "directors": [
     {
       "name": "Mr. Vir S. Advani B.A., B.S.",
@@ -9,6 +9,13 @@
       "age": 49,
       "year_born": 1976,
       "total_pay": 154260000
+    },
+    {
+      "name": "Mr. B.  Thiagarajan",
+      "role": "MD & Executive Director",
+      "age": 67,
+      "year_born": 1958,
+      "total_pay": 124840000
     },
     {
       "name": "Mr. Nikhil  Sohoni",
@@ -48,6 +55,20 @@
     {
       "name": "Mr. Arun  Rajan",
       "role": "Group Chief Human Resources Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Wilson  Jebaraj",
+      "role": "Executive Vice President of Electro-Mechanical Projects",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Thomas F. Overs",
+      "role": "Chief Executive Officer of Blue Star North America Inc.",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

@@ -1,7 +1,7 @@
 {
   "ticker": "KPITTECH",
   "company": "KPIT Technologies Limited",
-  "collected_at": "2026-08-03 05:20:32",
+  "collected_at": "2026-08-04 05:03:14",
   "directors": [
     {
       "name": "Mr. Kishor Parshuram Patil C.A., Esq.",
@@ -53,6 +53,13 @@
       "total_pay": 63240000
     },
     {
+      "name": "Mr. Omkar S. Panse",
+      "role": "Chief Technology Officer",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Mohit  Kochar",
       "role": "Senior VP & Chief Marketing Officer",
       "age": "N/A",
@@ -64,13 +71,6 @@
       "role": "Global HR Head & Senior VP",
       "age": 48,
       "year_born": 1977,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Suneel  Pandita",
-      "role": "Senior VP & Practice Business Leader",
-      "age": 59,
-      "year_born": 1966,
       "total_pay": "N/A"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "ticker": "ORIENTALTL",
   "company": "Oriental Trimex Limited",
-  "collected_at": "2026-08-03 05:25:54",
+  "collected_at": "2026-08-04 05:09:37",
   "directors": [
     {
       "name": "Mr. Rajesh Kumar Punia",
@@ -16,6 +16,20 @@
       "age": 59,
       "year_born": 1966,
       "total_pay": 2400000
+    },
+    {
+      "name": "Mr. Gunasekaran  A",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Amreen  .",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

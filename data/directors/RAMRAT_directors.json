@@ -1,7 +1,7 @@
 {
   "ticker": "RAMRAT",
   "company": "Ram Ratna Wires Limited",
-  "collected_at": "2026-08-03 05:28:34",
+  "collected_at": "2026-08-04 05:12:44",
   "directors": [
     {
       "name": "Mr. Mahendrakumar Rameshwarlal Kabra",
@@ -30,6 +30,34 @@
       "age": 48,
       "year_born": 1977,
       "total_pay": 11633000
+    },
+    {
+      "name": "Mr. Sumeet Mahendrakumar Kabra",
+      "role": "Whole Time Director",
+      "age": 43,
+      "year_born": 1982,
+      "total_pay": 32251000
+    },
+    {
+      "name": "Mr. Iqbal Singh Saggu",
+      "role": "CFO & Senior VP of Finance",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajeev  Maheshwari",
+      "role": "Senior Vice President of Accounts & Taxation",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Saurabh  Gupta",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

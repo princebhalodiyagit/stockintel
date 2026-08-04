@@ -1,7 +1,7 @@
 {
   "ticker": "ABCOTS",
   "company": "A B Cotspin India Limited",
-  "collected_at": "2026-08-03 05:02:49",
+  "collected_at": "2026-08-04 04:41:58",
   "directors": [
     {
       "name": "Mr. Deepak  Garg",
@@ -22,6 +22,13 @@
       "role": "Whole Time Director",
       "age": 81,
       "year_born": 1944,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Saurav  Dua",
+      "role": "Head of Production",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

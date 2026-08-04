@@ -1,7 +1,7 @@
 {
   "ticker": "ARTEMISMED",
   "company": "Artemis Medicare Services Limited",
-  "collected_at": "2026-08-03 05:05:09",
+  "collected_at": "2026-08-04 04:44:48",
   "directors": [
     {
       "name": "Dr. Devlina  Chakravarty DMRD, DNB, M.D., Radiology",
@@ -55,6 +55,13 @@
     {
       "name": "Dr. Manju  Aggarwal M.D., MBBS",
       "role": "Chief Medical Services & Chairperson of Nephrology",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Vishal  Arora",
+      "role": "Chief Business Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

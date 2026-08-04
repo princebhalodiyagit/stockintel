@@ -1,8 +1,15 @@
 {
   "ticker": "TRIDENT",
   "company": "Trident Limited",
-  "collected_at": "2026-08-03 05:35:45",
+  "collected_at": "2026-08-04 05:21:24",
   "directors": [
+    {
+      "name": "Mr. Samir Prabodhchandra Joshipura PGD",
+      "role": "Group Chief Executive Officer",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": "N/A"
+    },
     {
       "name": "Mr. Deepak  Nanda B.Sc, M.Sc.",
       "role": "MD, Whole-Time Director & Member of Management Board",
@@ -16,6 +23,13 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pardeep Kumar Markanday MBA",
+      "role": "CEO of Yarn (Punjab & MP) and Growth & Projects, COO of Home Textiles & Member of Mgmt. Board",
+      "age": 68,
+      "year_born": 1957,
+      "total_pay": 1100000
     },
     {
       "name": "Mr. Abhishek  Gupta",
@@ -57,20 +71,6 @@
       "role": "Chief Technology Officer",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Manish  Kapoor",
-      "role": "Chief Information Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Rajnish  Gera",
-      "role": "CEO of Paper",
-      "age": 53,
-      "year_born": 1972,
       "total_pay": "N/A"
     }
   ]

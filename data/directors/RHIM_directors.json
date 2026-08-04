@@ -1,7 +1,7 @@
 {
   "ticker": "RHIM",
   "company": "RHI MAGNESITA INDIA LIMITED",
-  "collected_at": "2026-08-03 05:29:07",
+  "collected_at": "2026-08-04 05:13:24",
   "directors": [
     {
       "name": "Mr. Azim  Syed",
@@ -16,6 +16,13 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 4437000
+    },
+    {
+      "name": "Mr. Pankaj  Malhan",
+      "role": "President, CEO, MD & Non- Independent Executive Director",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Rudraraju Venkata Suryanarayana Raju",
@@ -62,13 +69,6 @@
     {
       "name": "Mr. Ravikumar  Periyasamy",
       "role": "Head of Marketing, Solutions and R&D of India",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Deepak A. Vazirani",
-      "role": "Head of Supply Chain, Procurement & Commercial of India",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

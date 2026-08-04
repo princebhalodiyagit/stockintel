@@ -1,7 +1,7 @@
 {
   "ticker": "SGIL",
   "company": "Synergy Green Industries Limited",
-  "collected_at": "2026-08-03 05:31:04",
+  "collected_at": "2026-08-04 05:15:48",
   "directors": [
     {
       "name": "Mr. Sachin Rajendra Shirgaokar",
@@ -9,6 +9,13 @@
       "age": 59,
       "year_born": 1966,
       "total_pay": 12586000
+    },
+    {
+      "name": "Mr. Sohan Sanjeev Shirgaokar",
+      "role": "Joint MD & Executive Director",
+      "age": 43,
+      "year_born": 1982,
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Pratik Pradipkumar Dukande",
@@ -23,6 +30,27 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 1146000
+    },
+    {
+      "name": "Mr. Vendavagali Srinivasa Reddy",
+      "role": "Whole Time Director",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": 10211000
+    },
+    {
+      "name": "Mr. Mani  Ganesan",
+      "role": "General Manager of Operations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sandip Mahadev Jangam",
+      "role": "Deputy Manager of HR & Admin",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

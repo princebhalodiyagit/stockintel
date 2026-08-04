@@ -1,13 +1,20 @@
 {
   "ticker": "MAPMYINDIA",
   "company": "C.E. Info Systems Limited",
-  "collected_at": "2026-08-03 05:22:19",
+  "collected_at": "2026-08-04 05:05:23",
   "directors": [
     {
       "name": "Mr. Rakesh Kumar Verma",
       "role": "Co-Founder, Group Chairman of the Board & MD",
       "age": 75,
       "year_born": 1950,
+      "total_pay": 15000000
+    },
+    {
+      "name": "Ms. Rashmi  Verma",
+      "role": "Co-Founder, CTO, Chief Human Resources Officer & Whole-Time Executive Director",
+      "age": 69,
+      "year_born": 1956,
       "total_pay": 15000000
     },
     {
@@ -25,8 +32,29 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. Rohan  Verma",
+      "role": "Joint MD & Executive Director",
+      "age": 40,
+      "year_born": 1985,
+      "total_pay": 15000000
+    },
+    {
+      "name": "Ms. Sapna  Ahuja",
+      "role": "President of Automotive Business & COO",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Ankeet  Bhat",
       "role": "President of Enterprise Business",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Shishir Kumar Verma",
+      "role": "COO of Gtropy & CHRO of Mappls DT and Gtropy Companies",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
@@ -36,6 +64,13 @@
       "role": "CTO of Gtropy",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Nikhil  Kumar",
+      "role": "President & Executive Director of Mappls DT",
+      "age": 54,
+      "year_born": 1971,
       "total_pay": "N/A"
     }
   ]

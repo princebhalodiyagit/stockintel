@@ -1,13 +1,27 @@
 {
   "ticker": "SINGERIND",
   "company": "Singer India Limited",
-  "collected_at": "2026-08-03 05:32:02",
+  "collected_at": "2026-08-04 05:16:56",
   "directors": [
+    {
+      "name": "Mr. Rakesh  Khanna",
+      "role": "Executive Vice Chairman & MD",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": 52290000
+    },
     {
       "name": "Mr. Hridayesh Kumar Vyas",
       "role": "Chief Operating Officer",
       "age": 55,
       "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anuj Kumar Vasdev",
+      "role": "Chief Financial Officer",
+      "age": 52,
+      "year_born": 1973,
       "total_pay": "N/A"
     },
     {
@@ -57,20 +71,6 @@
       "role": "Managing Director APAC (SVP Worldwide)",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. John  NG",
-      "role": "General Manager- Singer (Malaysia) Sdn. Bhd.",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Suresh Kumar Jangra",
-      "role": "VP of Engineering Excellence and Head- R&D",
-      "age": 45,
-      "year_born": 1980,
       "total_pay": "N/A"
     }
   ]

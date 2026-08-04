@@ -1,7 +1,7 @@
 {
   "ticker": "CELLO",
   "company": "Cello World Limited",
-  "collected_at": "2026-08-03 05:08:45",
+  "collected_at": "2026-08-04 04:49:09",
   "directors": [
     {
       "name": "Mr. Pradeep Ghisulal Rathod",
@@ -29,6 +29,48 @@
       "role": "Chief Financial Officer",
       "age": 57,
       "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Satish  Pancholi",
+      "role": "General Manager of Finance & Accounts",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Hemangi Pragnesh Trivedi",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Sudhakar  Pawar",
+      "role": "President of Sales (Trade)",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Madhusudan R. Jangid",
+      "role": "Chief Financial Officer of Wim Plast Limited",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sreyas  Jain",
+      "role": "Chief Financial Officer of Unomax Stationery Private Limited",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajesh  Bang",
+      "role": "Chief Financial Officer of Cello Household Products Private Limited",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "ticker": "MAXIND",
   "company": "Max India Limited",
-  "collected_at": "2026-08-03 05:22:35",
+  "collected_at": "2026-08-04 05:05:42",
   "directors": [
     {
       "name": "Mr. Analjit  Singh BA, BS, MBA",
@@ -25,10 +25,24 @@
       "total_pay": 22142000
     },
     {
+      "name": "Ms. Trapti  Kushwaha",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 2950000
+    },
+    {
       "name": "Mr. Ajay  Agrawal",
       "role": "Head of Investor Relations",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Simardeep  Kaur",
+      "role": "Chief Human Resource Officer",
+      "age": 44,
+      "year_born": 1981,
       "total_pay": "N/A"
     },
     {

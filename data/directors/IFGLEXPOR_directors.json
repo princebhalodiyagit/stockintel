@@ -1,7 +1,7 @@
 {
   "ticker": "IFGLEXPOR",
   "company": "IFGL Refractories Limited",
-  "collected_at": "2026-08-03 05:16:51",
+  "collected_at": "2026-08-04 04:58:49",
   "directors": [
     {
       "name": "Mr. Shishir Kumar Bajoria",
@@ -9,6 +9,69 @@
       "age": 68,
       "year_born": 1957,
       "total_pay": 33110000
+    },
+    {
+      "name": "Mr. Mihir Prakash Bajoria",
+      "role": "MD & Non-Executive Non-Independent Director",
+      "age": 40,
+      "year_born": 1985,
+      "total_pay": 2923000
+    },
+    {
+      "name": "Mr. Amit  Agarwal",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 5840000
+    },
+    {
+      "name": "Mr. Hirdesh  Sehgal",
+      "role": "Chief Operating Officer",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajesh  Agarwal FCS",
+      "role": "General Counsel & Executive Director",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": 20946000
+    },
+    {
+      "name": "Ms. Mansi  Damani",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 5226000
+    },
+    {
+      "name": "M.  Chatterjee",
+      "role": "Vice President of International Business",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "S.  Mattoo",
+      "role": "Vice President of International Business",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "S Kumar Addepally",
+      "role": "Vice President of International Business",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "B  Parida",
+      "role": "Vice President of Technical Marketing",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
     }
   ]
 }

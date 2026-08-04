@@ -1,7 +1,7 @@
 {
   "ticker": "SGFIN",
   "company": "SG Finserve Limited",
-  "collected_at": "2026-08-03 05:31:03",
+  "collected_at": "2026-08-04 05:15:47",
   "directors": [
     {
       "name": "Mr. Vinay  Gupta",
@@ -62,6 +62,13 @@
     {
       "name": "Mr. Lalit  Gupta",
       "role": "Chief Business Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ankit  Sharma",
+      "role": "Company Secretary & Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

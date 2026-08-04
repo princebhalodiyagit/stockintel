@@ -1,6 +1,77 @@
 {
   "ticker": "BOSCHLTD",
   "company": "Bosch Limited",
-  "collected_at": "2026-08-03 05:08:00",
-  "directors": []
+  "collected_at": "2026-08-04 04:48:16",
+  "directors": [
+    {
+      "name": "Mr. Sandeep  Nelamangala",
+      "role": "Joint MD, President of Bosch Mobility India & Whole Time Executive Director",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": 46651581
+    },
+    {
+      "name": "Mr. Guruprasad  Mudlapur",
+      "role": "MD, CTO & Whole Time Executive Director",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": 48771079
+    },
+    {
+      "name": "Ms. Karin Gabriele Gilges",
+      "role": "Executive VP of Finance & Administration",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Hueseyin  Oezmeral",
+      "role": "Executive Vice President of Manufacturing & Quality",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Raman Kumar Singh",
+      "role": "Senior Vice President -HR",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Chindal  Cheong",
+      "role": "Vice President",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Christoph  Wossner",
+      "role": "Vice President",
+      "age": 42,
+      "year_born": 1983,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Tillmann  Olsen",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. S.  Karthik",
+      "role": "Vice-President of Corporate Finance & Accounts",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 13610000
+    },
+    {
+      "name": "Mr. Venkataraman  Srinivasan",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": "N/A"
+    }
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "ticker": "REPRO",
   "company": "Repro India Limited",
-  "collected_at": "2026-08-03 05:29:03",
+  "collected_at": "2026-08-04 05:13:19",
   "directors": [
     {
       "name": "Mr. Vinod Inderjit Vohra",
@@ -30,6 +30,20 @@
       "age": 36,
       "year_born": 1989,
       "total_pay": 2300000
+    },
+    {
+      "name": "Mr. Mukesh Rajnikant Dhruve",
+      "role": "Whole Time Director",
+      "age": 65,
+      "year_born": 1960,
+      "total_pay": 6039000
+    },
+    {
+      "name": "Mr. Rajeev Inderjit Vohra",
+      "role": "Whole Time Director",
+      "age": 65,
+      "year_born": 1960,
+      "total_pay": 6039000
     },
     {
       "name": "Shobhit  Verma",

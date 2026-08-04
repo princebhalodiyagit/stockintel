@@ -1,7 +1,7 @@
 {
   "ticker": "JIOFIN",
   "company": "Jio Financial Services Limited",
-  "collected_at": "2026-08-03 05:18:48",
+  "collected_at": "2026-08-04 05:01:12",
   "directors": [
     {
       "name": "Mr. Hitesh Kumar Sethia",
@@ -39,6 +39,13 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. Dipak  Daga",
+      "role": "Head of Strategy & Chief Investor Relations Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. R.  Shyam Sunder",
       "role": "Group General Counsel",
       "age": "N/A",
@@ -57,6 +64,13 @@
       "role": "Group Head of Internal Audit",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kashinathan  Hariharan",
+      "role": "MD & CEO at Jio Payment Solutions Limited",
+      "age": 54,
+      "year_born": 1971,
       "total_pay": "N/A"
     }
   ]

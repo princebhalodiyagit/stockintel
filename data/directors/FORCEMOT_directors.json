@@ -1,7 +1,7 @@
 {
   "ticker": "FORCEMOT",
   "company": "FORCE MOTORS LTD",
-  "collected_at": "2026-08-03 05:13:09",
+  "collected_at": "2026-08-04 04:54:28",
   "directors": [
     {
       "name": "Dr. Abhaykumar Navalmal Firodia",
@@ -46,10 +46,31 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. Rakesh  Maru",
+      "role": "President of Sales, Service, Marketing (Domestic & International Business)",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
       "name": "Ms. Archana Ashok Gharte",
       "role": "General Manager of Group Corporate HR, Learning & Development",
       "age": 47,
       "year_born": 1978,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pradeep S. Dhadiwal",
+      "role": "President of Special Projects",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 2207812
+    },
+    {
+      "name": "Mr. Praveen C. Karnavat",
+      "role": "President of R&D and Strategic Sourcing",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

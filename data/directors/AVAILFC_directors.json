@@ -1,13 +1,20 @@
 {
   "ticker": "AVAILFC",
   "company": "Available Finance Limited",
-  "collected_at": "2026-08-03 05:05:55",
+  "collected_at": "2026-08-04 04:45:45",
   "directors": [
     {
       "name": "Mr. Mahesh  Nirmal",
       "role": "Chief Executive Officer",
       "age": 36,
       "year_born": 1989,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Suyash  Choudhary C.S.",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 31,
+      "year_born": 1994,
       "total_pay": "N/A"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "ticker": "ICICIBANK",
   "company": "ICICI Bank Limited",
-  "collected_at": "2026-08-03 05:16:37",
+  "collected_at": "2026-08-04 04:58:34",
   "directors": [
     {
       "name": "Mr. Sandeep  Bakhshi B.E.",
@@ -30,6 +30,13 @@
       "age": 58,
       "year_born": 1967,
       "total_pay": 87639588
+    },
+    {
+      "name": "Mr. Anindya  Banerjee",
+      "role": "Group CFO & Head of Investor Relations",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": 11356505
     },
     {
       "name": "Mr. Laxminarayan  Achar",
@@ -62,13 +69,6 @@
     {
       "name": "Mr. Rajendra  Khandelwal",
       "role": "Chief Internal Auditor",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Vivek  Ranjan",
-      "role": "Chief Manager",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

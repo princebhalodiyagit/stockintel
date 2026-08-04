@@ -1,6 +1,42 @@
 {
   "ticker": "NOVARTIND",
   "company": "Novartis India Limited",
-  "collected_at": "2026-08-03 05:25:15",
-  "directors": []
+  "collected_at": "2026-08-04 05:08:51",
+  "directors": [
+    {
+      "name": "Ms. Shilpa Shashank Joshi",
+      "role": "CFO & Whole-Time Director",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": 12534028
+    },
+    {
+      "name": "Mr. Falin Ishwarlal Majmudar",
+      "role": "Head of External Supply Operations & Whole\u0096Time Director",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": 12205046
+    },
+    {
+      "name": "Vikas  Gupta",
+      "role": "Managing Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Chandni Bhupendra Maru",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Vasant  Narasimhan M.D.",
+      "role": "Chief Executive Officer of Novartis",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": "N/A"
+    }
+  ]
 }

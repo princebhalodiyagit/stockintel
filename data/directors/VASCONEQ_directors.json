@@ -1,8 +1,15 @@
 {
   "ticker": "VASCONEQ",
   "company": "Vascon Engineers Limited",
-  "collected_at": "2026-08-03 05:36:44",
+  "collected_at": "2026-08-04 05:22:37",
   "directors": [
+    {
+      "name": "Dr. Santosh Pursram Sundararajan",
+      "role": "Group CEO & Whole Time Director",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": 108589000
+    },
     {
       "name": "Mr. Somnath B. Biswas",
       "role": "President of Finance & Accounts and CFO",
@@ -64,13 +71,6 @@
       "role": "Director of Projects",
       "age": 47,
       "year_born": 1978,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Prasad  Hinge",
-      "role": "Assistant Vice President of Contracts & Estimation and Purchase Utilities",
-      "age": 48,
-      "year_born": 1977,
       "total_pay": "N/A"
     }
   ]

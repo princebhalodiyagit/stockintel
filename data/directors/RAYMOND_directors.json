@@ -1,7 +1,7 @@
 {
   "ticker": "RAYMOND",
   "company": "Raymond Limited",
-  "collected_at": "2026-08-03 05:28:40",
+  "collected_at": "2026-08-04 05:12:52",
   "directors": [
     {
       "name": "Mr. Gautam Hari Vijaypat Singhania",
@@ -22,6 +22,13 @@
       "role": "Secretarial Director, Company Secretary & Compliance Officer",
       "age": 51,
       "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Shalini  Singh",
+      "role": "Head of Corporate Communications",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
@@ -57,6 +64,13 @@
       "role": "Joint MD & CEO of Precision Technology and Auto components Business",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Bhanu Prakash Srivastava",
+      "role": "CEO-Defence",
+      "age": 60,
+      "year_born": 1965,
       "total_pay": "N/A"
     }
   ]

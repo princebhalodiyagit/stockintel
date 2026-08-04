@@ -1,7 +1,7 @@
 {
   "ticker": "BIOCON",
   "company": "Biocon Limited",
-  "collected_at": "2026-08-03 05:07:30",
+  "collected_at": "2026-08-04 04:47:41",
   "directors": [
     {
       "name": "Dr. Kiran  Mazumdar-Shaw B.Sc (Hons), B.Sc.",
@@ -22,6 +22,55 @@
       "role": "Chief Financial Officer",
       "age": 48,
       "year_born": 1977,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Rhonda  Duffy",
+      "role": "Chief Operations Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Mandar S. Ghatnekar",
+      "role": "Chief Technology Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajesh Umakant Shanoy",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Naveen  Narayanan",
+      "role": "Chief Human Resources Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Anuj  Goel",
+      "role": "Chief Development Officer",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Akhilesh Kumar Nand",
+      "role": "Head of Governance, Risk & Compliance",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Matthew  Erick",
+      "role": "Chief Commercial Officer of Advanced Markets - Biocon Biologics",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

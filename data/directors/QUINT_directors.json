@@ -1,7 +1,7 @@
 {
   "ticker": "QUINT",
   "company": "Quint Digital Limited",
-  "collected_at": "2026-08-03 05:28:11",
+  "collected_at": "2026-08-04 05:12:18",
   "directors": [
     {
       "name": "Ms. Ritu  Kapur",
@@ -18,6 +18,20 @@
       "total_pay": 175000
     },
     {
+      "name": "Mr. Vivek  Agarwal",
+      "role": "Chief Financial Officer",
+      "age": 37,
+      "year_born": 1988,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Tarun  Belwal",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 32,
+      "year_born": 1993,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Rolly  Kapoor",
       "role": "Vice President of Sales",
       "age": 46,
@@ -29,6 +43,34 @@
       "role": "Business Head of Special Projects",
       "age": 53,
       "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Prateek  Chhillar",
+      "role": "National Sales Head",
+      "age": 39,
+      "year_born": 1986,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Kaizad  Patel",
+      "role": "Senior Manager Sales",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Tarun  Jain",
+      "role": "Head of Product",
+      "age": 31,
+      "year_born": 1994,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Rituraj  Das",
+      "role": "Associate Editor of Special Features",
+      "age": 38,
+      "year_born": 1987,
       "total_pay": "N/A"
     }
   ]

@@ -1,13 +1,20 @@
 {
   "ticker": "CENTEXT",
   "company": "Century Extrusions Limited",
-  "collected_at": "2026-08-03 05:08:48",
+  "collected_at": "2026-08-04 04:49:13",
   "directors": [
     {
       "name": "Mr. Shivanshu  Jhunjhunwala",
       "role": "MD & Executive Chairman",
       "age": 32,
       "year_born": 1993,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Gajendra V. Khedkar",
+      "role": "President",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     },
     {

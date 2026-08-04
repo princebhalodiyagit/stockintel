@@ -1,6 +1,56 @@
 {
   "ticker": "MENONBE",
   "company": "Menon Bearings Limited",
-  "collected_at": "2026-08-03 05:22:52",
-  "directors": []
+  "collected_at": "2026-08-04 05:06:03",
+  "directors": [
+    {
+      "name": "Mr. Nitin Ram Menon",
+      "role": "Executive Chairman of the Board",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": 16876000
+    },
+    {
+      "name": "Mr. Arun Ramchandra Aradhye",
+      "role": "MD & Director",
+      "age": 69,
+      "year_born": 1956,
+      "total_pay": 9626000
+    },
+    {
+      "name": "Mr. Chandrakant Ramchandra Ghatage",
+      "role": "Chief Financial Officer",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Siddheshwar Sunil Kadane",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Amit Gajanan Talikoti",
+      "role": "Deputy General Manager of Marketing",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Prashant Dattatraya Hanamar",
+      "role": "Deputy General Manager",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Nilesh Maniklal Tiwari",
+      "role": "Assistant General Manager",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
+    }
+  ]
 }

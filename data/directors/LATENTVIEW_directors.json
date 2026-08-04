@@ -1,7 +1,7 @@
 {
   "ticker": "LATENTVIEW",
   "company": "Latent View Analytics Limited",
-  "collected_at": "2026-08-03 05:21:02",
+  "collected_at": "2026-08-04 05:03:50",
   "directors": [
     {
       "name": "Mr. Adugudi Viswanathan Venkatraman",
@@ -9,6 +9,69 @@
       "age": 55,
       "year_born": 1970,
       "total_pay": 16500000
+    },
+    {
+      "name": "Ms. Pramadwathi  Jandhyala",
+      "role": "Co-Founder & Executive Director",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": 16500000
+    },
+    {
+      "name": "Mr. Parthasarathy  Srinivasan",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 3350000
+    },
+    {
+      "name": "Mr. Sundara Rajan Sethuraman",
+      "role": "Strategic Advisor to the CEO",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 33680000
+    },
+    {
+      "name": "Ms. Sonal  Ramrakhiani",
+      "role": "Chief Executive Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ramesh  Hariharan",
+      "role": "Co-Founder and Head of Innovation & Technology",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Remadevi  Thottathil",
+      "role": "Chief Human Resources Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Sunil  Kalra",
+      "role": "Head of Partnerships",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Prashant  Vishnupad",
+      "role": "Business Head of Industrials",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Parijat  Banerjee",
+      "role": "Business Head of Financial Services",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

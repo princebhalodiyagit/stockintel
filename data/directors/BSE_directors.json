@@ -1,7 +1,7 @@
 {
   "ticker": "BSE",
   "company": "BSE Limited",
-  "collected_at": "2026-08-03 05:08:08",
+  "collected_at": "2026-08-04 04:48:26",
   "directors": [
     {
       "name": "Mr. Sundararaman  Ramamurthy",
@@ -11,10 +11,66 @@
       "total_pay": 83519753
     },
     {
+      "name": "Mr. Deepak  Goel",
+      "role": "Chief Financial Officer",
+      "age": 43,
+      "year_born": 1982,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Viral  Davda",
+      "role": "Chief Technology Officer",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ramesh  Gurram CISA, CISM, CISSP",
+      "role": "Chief Information Security Officer",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Sushri Kamala Kantharaj",
+      "role": "Chief Regulatory Officer",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Sunil  Ramrakhiani",
       "role": "Chief Business Officer",
       "age": 48,
       "year_born": 1977,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sameer  Narkar",
+      "role": "Chief General Manager of Information Technology",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vivek  Jain",
+      "role": "Chief of Staff & HR Strategy",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sanjay  Jain",
+      "role": "Chief Risk Officer",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vishal  Koul",
+      "role": "Deputy Chief Technology Officer",
+      "age": 47,
+      "year_born": 1978,
       "total_pay": "N/A"
     }
   ]

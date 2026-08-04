@@ -1,7 +1,7 @@
 {
   "ticker": "SATIN",
   "company": "Satin Creditcare Network Limited",
-  "collected_at": "2026-08-03 05:30:35",
+  "collected_at": "2026-08-04 05:15:12",
   "directors": [
     {
       "name": "Dr. Harvinder Pal Singh",
@@ -9,6 +9,27 @@
       "age": 65,
       "year_born": 1960,
       "total_pay": 49919760
+    },
+    {
+      "name": "Mr. Amit Kumar Gupta",
+      "role": "Chief Financial Officer",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vikas  Gupta",
+      "role": "Company Secretary & Chief Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jugal  Kataria",
+      "role": "Group Controller",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Sunil  Yadav",
@@ -48,13 +69,6 @@
     {
       "name": "Mr. Vikas  Wadhera",
       "role": "Chief Risk Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Ankit  Bhatia",
-      "role": "Chief Audit Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

@@ -1,7 +1,7 @@
 {
   "ticker": "ANUHPHR",
   "company": "Anuh Pharma Limited",
-  "collected_at": "2026-08-03 05:04:35",
+  "collected_at": "2026-08-04 04:44:08",
   "directors": [
     {
       "name": "Mr. Ritesh Bipin Shah MBA",
@@ -16,6 +16,13 @@
       "age": 39,
       "year_born": 1986,
       "total_pay": 8250360
+    },
+    {
+      "name": "Mr. Bipin Nemchand Shah",
+      "role": "Non-Executive Vice Chairman of the Board",
+      "age": 76,
+      "year_born": 1949,
+      "total_pay": 490000
     },
     {
       "name": "Mr. Darshan Dhirajlal Rampariya",
@@ -34,6 +41,27 @@
     {
       "name": "Mr. Babu K. Moghaveera",
       "role": "Assistant General Manager of Technical",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Amit R. Saratkar",
+      "role": "Assistant General Manager of HR Strategy and Transformation",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajendrakumar C. Kotadia",
+      "role": "Chief Marketing Officer of Emerging Markets",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vinayak  Shenoy",
+      "role": "Chief Marketing Officer of Mature Markets",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

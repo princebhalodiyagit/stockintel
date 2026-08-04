@@ -1,7 +1,7 @@
 {
   "ticker": "SYMPHONY",
   "company": "Symphony Limited",
-  "collected_at": "2026-08-03 05:34:02",
+  "collected_at": "2026-08-04 05:19:21",
   "directors": [
     {
       "name": "Mr. Achal Anil Bakeri MBA",
@@ -9,6 +9,34 @@
       "age": 65,
       "year_born": 1960,
       "total_pay": 909000
+    },
+    {
+      "name": "Mr. Nrupesh Chandravadan Shah B.Com, FCA and CS",
+      "role": "MD of Corporate Affairs & Executive Director",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": 16881000
+    },
+    {
+      "name": "Mr. Girish  Thakkar",
+      "role": "VP of Finance & Accounts and CFO",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Biren  Parikh",
+      "role": "Chief Information Officer",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mayur Chimanbhai Barvadiya B.Com., L.L.B.",
+      "role": "Compliance Officer, Company Secretary & Head of Legal",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Shambhu  Kumar",
@@ -22,6 +50,27 @@
       "role": "Chief Marketing Officer",
       "age": 44,
       "year_born": 1981,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jayesh  Gupta B.Com.",
+      "role": "Senior Vice President of Sales",
+      "age": 64,
+      "year_born": 1961,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajesh  Mishra B.E.",
+      "role": "Chief Growth Officer",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Juan  Bendeck MBA",
+      "role": "CEO & General Director of IMPCO S de R L De CV",
+      "age": 59,
+      "year_born": 1966,
       "total_pay": "N/A"
     }
   ]

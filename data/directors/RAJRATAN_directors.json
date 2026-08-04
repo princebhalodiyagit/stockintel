@@ -1,7 +1,7 @@
 {
   "ticker": "RAJRATAN",
   "company": "Rajratan Global Wire Limited",
-  "collected_at": "2026-08-03 05:28:22",
+  "collected_at": "2026-08-04 05:12:31",
   "directors": [
     {
       "name": "Mr. Sunil  Chordia BSc., DCMA, MBA",
@@ -16,6 +16,13 @@
       "age": 36,
       "year_born": 1989,
       "total_pay": 12530000
+    },
+    {
+      "name": "Mr. Hitesh  Jain",
+      "role": "Chief Financial Officer",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Shubham  Jain",

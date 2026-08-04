@@ -1,13 +1,76 @@
 {
   "ticker": "JPPOWER",
   "company": "Jaiprakash Power Ventures Limited",
-  "collected_at": "2026-08-03 05:19:03",
+  "collected_at": "2026-08-04 05:01:29",
   "directors": [
     {
       "name": "Mr. Ram Kumar Porwal",
       "role": "CFO and Joint President of F&A",
       "age": 62,
       "year_born": 1963,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Madan Gopal Gupta",
+      "role": "Chief Operating Officer",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Modali Kali Venkata Rama Rao",
+      "role": "Chief Technical Officer",
+      "age": 70,
+      "year_born": 1955,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mahesh Kumar Chaturvedi",
+      "role": "GM, Company Secretary & Compliance Officer",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Venkat Ramana Reddy Muthyala",
+      "role": "Chief of Project for Nigrie & Amelia",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Savan Jayendra Patel",
+      "role": "Additional Whole Time Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ashok  Sharma",
+      "role": "Joint President (Comm)",
+      "age": 66,
+      "year_born": 1959,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Major General Pankaj  Chauhan",
+      "role": "Senior VP & Unit Head of Vishnuprayag",
+      "age": 39,
+      "year_born": 1986,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kamlesh  Soni",
+      "role": "Chief of Project for Bina",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Major General Sanjay  Thapa",
+      "role": "Senior Joint President & Unit Head of Amelia",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

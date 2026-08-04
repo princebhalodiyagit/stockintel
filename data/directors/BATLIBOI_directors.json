@@ -1,7 +1,7 @@
 {
   "ticker": "BATLIBOI",
   "company": "Batliboi Limited",
-  "collected_at": "2026-08-03 05:06:48",
+  "collected_at": "2026-08-04 04:46:50",
   "directors": [
     {
       "name": "Mr. Nirmal Pratap Bhogilal B. Sc. (Engg), B.Sc., Eng.",
@@ -16,6 +16,62 @@
       "age": 65,
       "year_born": 1960,
       "total_pay": 15892730
+    },
+    {
+      "name": "Mr. Kapil  Arora",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Pooja Rohit Sawant",
+      "role": "Compliance Officer & Company Secretary",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kabir Nirmal Bhogilal",
+      "role": "Additional Whole Time Director",
+      "age": 44,
+      "year_born": 1981,
+      "total_pay": 8748300
+    },
+    {
+      "name": "Uday Kumar Shetty",
+      "role": "GM of Operations",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Vishwas  Bansal",
+      "role": "General Manager of Finance & Accounts",
+      "age": 43,
+      "year_born": 1982,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Daniel  Vaz",
+      "role": "Chief Executive Officer of Air Engineering Group",
+      "age": 64,
+      "year_born": 1961,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Abhay V. Sidham",
+      "role": "Chief Executive Officer of Textile Machinery Group",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vishal  Shah",
+      "role": "Chief Executive Officer of Environmental Engineering Group",
+      "age": 43,
+      "year_born": 1982,
+      "total_pay": "N/A"
     }
   ]
 }

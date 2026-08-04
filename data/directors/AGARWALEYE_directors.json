@@ -1,7 +1,7 @@
 {
   "ticker": "AGARWALEYE",
   "company": "Dr. Agarwal's Health Care Limited",
-  "collected_at": "2026-08-03 05:03:34",
+  "collected_at": "2026-08-04 04:42:53",
   "directors": [
     {
       "name": "Dr. Adil  Agarwal M.B.B.S, M.S, MBA",
@@ -9,6 +9,13 @@
       "age": 42,
       "year_born": 1983,
       "total_pay": 50100000
+    },
+    {
+      "name": "Mr. Yashwanth  Venkat",
+      "role": "Chief Financial Officer",
+      "age": 39,
+      "year_born": 1986,
+      "total_pay": 3300000
     },
     {
       "name": "Dr. Anosh  Agarwal M.B.B.S, MBA, MS Ophthal",

@@ -1,7 +1,7 @@
 {
   "ticker": "ATUL",
   "company": "Atul Limited",
-  "collected_at": "2026-08-03 05:05:45",
+  "collected_at": "2026-08-04 04:45:33",
   "directors": [
     {
       "name": "Mr. Sunil Siddharth Lalbhai",
@@ -25,6 +25,34 @@
       "total_pay": 25814415
     },
     {
+      "name": "Mr. Vivek  Gadre",
+      "role": "Whole-time Director",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": 24542378
+    },
+    {
+      "name": "Mr. Vinay  Desai",
+      "role": "Executive VP of Technology & Manufacturing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Lalit P. Patni",
+      "role": "Company Secretary & Chief Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 8543610
+    },
+    {
+      "name": "Mr. Deepak  Ahuja",
+      "role": "President & VP of Human Resources",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
       "name": "Dr. Parasu Veera Uppara B.Tech., Ph.D.",
       "role": "President of Aromatics Business",
       "age": 52,
@@ -43,34 +71,6 @@
       "role": "President",
       "age": 59,
       "year_born": 1966,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Rajeev  Kumar",
-      "role": "President",
-      "age": 53,
-      "year_born": 1972,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Tejas  Shukla",
-      "role": "Executive Vice President",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Barun  Ghosh",
-      "role": "Executive Vice President",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Praveen  Shankar",
-      "role": "President",
-      "age": "N/A",
-      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

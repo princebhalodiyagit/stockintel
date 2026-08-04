@@ -1,6 +1,77 @@
 {
   "ticker": "IKIO",
   "company": "IKIO Technologies Limited",
-  "collected_at": "2026-08-03 05:17:00",
-  "directors": []
+  "collected_at": "2026-08-04 04:59:01",
+  "directors": [
+    {
+      "name": "Mr. Hardeep  Singh",
+      "role": "Chairman & MD",
+      "age": 66,
+      "year_born": 1959,
+      "total_pay": 9360000
+    },
+    {
+      "name": "Mr. Sanjeet  Singh",
+      "role": "Group CEO, CFO & Whole-Time Director",
+      "age": 38,
+      "year_born": 1987,
+      "total_pay": 1800000
+    },
+    {
+      "name": "Mr. Narendra  Prasad",
+      "role": "Chief Technical Officer & Chief Information Security Officer",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sandeep Kumar Agarwal",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Surmeet  Kaur",
+      "role": "Whole-Time Director",
+      "age": 64,
+      "year_born": 1961,
+      "total_pay": 7920000
+    },
+    {
+      "name": "Mr. Shailesh  Shirvastava",
+      "role": "Vice President of International Operations",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manoj  Misra",
+      "role": "Chief Information Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vivek  Vashisth",
+      "role": "Corporate Head of HR & Admin",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manoj  Chetal",
+      "role": "Plant Head of LED Lighting Division",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kozhuppakalam Gopi Siju",
+      "role": "Operation Head of LED Lighting Division",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": "N/A"
+    }
+  ]
 }

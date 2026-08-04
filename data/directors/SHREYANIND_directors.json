@@ -1,7 +1,7 @@
 {
   "ticker": "SHREYANIND",
   "company": "Shreyans Industries Limited",
-  "collected_at": "2026-08-03 05:31:38",
+  "collected_at": "2026-08-04 05:16:27",
   "directors": [
     {
       "name": "Mr. Rajneesh  Oswal",
@@ -25,6 +25,13 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. Parminder  Singh",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Kunal  Oswal",
       "role": "Whole Time Director",
       "age": 51,
@@ -36,6 +43,13 @@
       "role": "Senior Vice President",
       "age": 67,
       "year_born": 1958,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Sandeep Kumar Jain",
+      "role": "Vice President",
+      "age": 56,
+      "year_born": 1969,
       "total_pay": "N/A"
     },
     {
@@ -53,10 +67,10 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Krishan Lal Sharma",
+      "name": "Hitesh  Chadha",
       "role": "Senior General Manager",
-      "age": 64,
-      "year_born": 1961,
+      "age": 54,
+      "year_born": 1971,
       "total_pay": "N/A"
     }
   ]

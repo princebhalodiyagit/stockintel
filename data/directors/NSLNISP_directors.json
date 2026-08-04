@@ -1,7 +1,7 @@
 {
   "ticker": "NSLNISP",
   "company": "NMDC Steel Limited",
-  "collected_at": "2026-08-03 05:25:20",
+  "collected_at": "2026-08-04 05:08:59",
   "directors": [
     {
       "name": "Mr. Amitava  Mukherjee",
@@ -43,6 +43,13 @@
       "role": "Director of Production & Director",
       "age": 57,
       "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vivek Nishant Nath",
+      "role": "Director of Commercial & Director",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

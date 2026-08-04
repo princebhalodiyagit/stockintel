@@ -1,74 +1,25 @@
 {
   "ticker": "JUSTDIAL",
   "company": "Just Dial Limited",
-  "collected_at": "2026-08-03 05:19:21",
+  "collected_at": "2026-08-04 05:01:51",
   "directors": [
+    {
+      "name": "Mr. Venkatachalam Sthanu-Subramani Mani",
+      "role": "Founder & Executive Director",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": 30000000
+    },
+    {
+      "name": "Mr. Dinesh  Taluja",
+      "role": "Chief Financial Officer",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": "N/A"
+    },
     {
       "name": "Mr. Manan Yogendra Udani",
       "role": "Company Secretary & Compliance Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. V.  Krishnan",
-      "role": "Group President",
-      "age": 54,
-      "year_born": 1971,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Shwetank  Dixit",
-      "role": "Chief Growth Officer and VP of Strategy, Operations & Analytics",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Abhishek  Roy",
-      "role": "Head of PR",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Rajesh  Madhavan",
-      "role": "Chief People Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Ajay  Mohan",
-      "role": "Chief Business Officer",
-      "age": 49,
-      "year_born": 1976,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Prashant  Nagar",
-      "role": "Chief Business Officer of Feet on Street \u0096 FOS",
-      "age": 52,
-      "year_born": 1973,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Vishal  Parikh",
-      "role": "Chief Product Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Sumeet  Vaid",
-      "role": "Chief Revenue Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Suhail  Siddiqui",
-      "role": "Chief Business Officer of North & East",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

@@ -1,6 +1,77 @@
 {
   "ticker": "IFBAGRO",
   "company": "IFB Agro Industries Limited",
-  "collected_at": "2026-08-03 05:16:48",
-  "directors": []
+  "collected_at": "2026-08-04 04:58:46",
+  "directors": [
+    {
+      "name": "Mr. Bikramjit  Nag B.B.A.",
+      "role": "Executive Chairman of the Board",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": 10769231
+    },
+    {
+      "name": "Mr. Arup Kumar Banerjee",
+      "role": "Executive Vice Chairman",
+      "age": 73,
+      "year_born": 1952,
+      "total_pay": 18000000
+    },
+    {
+      "name": "Mr. Rahul  Choudhary",
+      "role": "CFO & Executive Director of Finance, Strategy & Acquisition and Executive Director",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Debasis  Ghosh",
+      "role": "Chief Executive Officer of IMIL Business",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Santanu  Ghosh",
+      "role": "CEO of Distillery Business, Executive Director of Operations & Executive Director",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Swapan Kumar Bayen",
+      "role": "President of Projects & Diversification",
+      "age": 69,
+      "year_born": 1956,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Soumitra  Chakraborty",
+      "role": "Chief Executive Officer of Marine Business",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Goutam  Bhattacharyya",
+      "role": "Vice President of Information Technology",
+      "age": 67,
+      "year_born": 1958,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Dasarai  Suresh",
+      "role": "General Manager of Operations & Plant Head Rajahmundry",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kuntal  Roy",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 37,
+      "year_born": 1988,
+      "total_pay": "N/A"
+    }
+  ]
 }

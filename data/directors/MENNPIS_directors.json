@@ -1,7 +1,7 @@
 {
   "ticker": "MENNPIS",
   "company": "Menon Pistons Limited",
-  "collected_at": "2026-08-03 05:22:51",
+  "collected_at": "2026-08-04 05:06:02",
   "directors": [
     {
       "name": "Mr. Sachin Ram Menon",
@@ -15,6 +15,13 @@
       "role": "Chief Financial Officer",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Amit Arun Deshpande",
+      "role": "Vice President",
+      "age": 50,
+      "year_born": 1975,
       "total_pay": "N/A"
     },
     {
@@ -36,6 +43,13 @@
       "role": "Company Secretary & Compliance Manager",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Nivedita Sachin Menon",
+      "role": "Executive Additional Director",
+      "age": 24,
+      "year_born": 2001,
       "total_pay": "N/A"
     }
   ]

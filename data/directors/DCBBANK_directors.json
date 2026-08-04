@@ -1,8 +1,22 @@
 {
   "ticker": "DCBBANK",
   "company": "DCB Bank Limited",
-  "collected_at": "2026-08-03 05:10:25",
+  "collected_at": "2026-08-04 04:51:10",
   "directors": [
+    {
+      "name": "Mr. Praveen Achuthan Kutty B.Com., MBA",
+      "role": "CEO, MD & Director",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": 29106042
+    },
+    {
+      "name": "Mr. Krishnan Sridhar Seshadri CAIIB, M.Com",
+      "role": "Whole-Time Director",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": 13128021
+    },
     {
       "name": "Mr. Ravi Kumar Vadlamani",
       "role": "Chief Financial Officer",
@@ -57,20 +71,6 @@
       "role": "Head of Collections & Commercial Vehicles",
       "age": 55,
       "year_born": 1970,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Jayaraman K. Vishwanath B.E.(Mech)",
-      "role": "Head of Corporate Banking, Construction Finance & SME",
-      "age": 57,
-      "year_born": 1968,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Damodar  Agarwal",
-      "role": "Head of Strategic Initiatives & Alternate Channels",
-      "age": "N/A",
-      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

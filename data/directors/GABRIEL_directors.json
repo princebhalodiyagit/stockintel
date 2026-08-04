@@ -1,7 +1,7 @@
 {
   "ticker": "GABRIEL",
   "company": "Gabriel India Limited",
-  "collected_at": "2026-08-03 05:13:16",
+  "collected_at": "2026-08-04 04:54:37",
   "directors": [
     {
       "name": "Ms. Anjali Anand Singh",
@@ -9,6 +9,13 @@
       "age": 44,
       "year_born": 1981,
       "total_pay": 57600000
+    },
+    {
+      "name": "Mr. Atul  Jaggi",
+      "role": "MD & Executive Director",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": 29820000
     },
     {
       "name": "Mr. R.  Vasudevan",
@@ -20,6 +27,13 @@
     {
       "name": "Mr. Mohit  Srivastava",
       "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anand Dinkar Sontakke",
+      "role": "Chief Operating Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
@@ -57,13 +71,6 @@
       "role": "Vice President of Marketing & Executive Officer",
       "age": 67,
       "year_born": 1958,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Amitabh  Srivastava",
-      "role": "President & COO of Aftermarket and Railways Business Units",
-      "age": 56,
-      "year_born": 1969,
       "total_pay": "N/A"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "ticker": "VGUARD",
   "company": "V-Guard Industries Limited",
-  "collected_at": "2026-08-03 05:37:00",
+  "collected_at": "2026-08-04 05:22:56",
   "directors": [
     {
       "name": "Mr. Mithun K. Chittilappilly",
@@ -32,6 +32,27 @@
       "total_pay": 7000000
     },
     {
+      "name": "Mr. Antony  Sebastian K.",
+      "role": "Executive Director",
+      "age": 65,
+      "year_born": 1960,
+      "total_pay": 11096000
+    },
+    {
+      "name": "Mr. Saleesh  Sekhar",
+      "role": "CFO of VCPL",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Shubham  Choubey",
+      "role": "Chief of Staff",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Kochouseph Thomas Chittilappilly",
       "role": "Founder & Promoter",
       "age": 75,
@@ -41,6 +62,13 @@
     {
       "name": "Mr. Atul Shekhar Singh",
       "role": "Chief Information Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Roopak  Ahluwalia",
+      "role": "Sr GM & Head of Legal",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

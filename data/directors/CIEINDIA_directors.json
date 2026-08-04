@@ -1,7 +1,7 @@
 {
   "ticker": "CIEINDIA",
   "company": "CIE Automotive India Limited",
-  "collected_at": "2026-08-03 05:09:12",
+  "collected_at": "2026-08-04 04:49:41",
   "directors": [
     {
       "name": "Mr. Ander Arenaza Alvarez",
@@ -60,18 +60,18 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. Rajendra  Vadlapudi",
+      "role": "Executive Officer",
+      "age": 39,
+      "year_born": 1986,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Anup  Mishra",
       "role": "Chief Business Controller & CIO",
       "age": 57,
       "year_born": 1968,
       "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Advait  Halbe",
-      "role": "Head of Marketing",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 2497703
     }
   ]
 }

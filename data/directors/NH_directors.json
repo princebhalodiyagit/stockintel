@@ -1,7 +1,7 @@
 {
   "ticker": "NH",
   "company": "Narayana Hrudayalaya Ltd.",
-  "collected_at": "2026-08-03 05:24:47",
+  "collected_at": "2026-08-04 05:08:19",
   "directors": [
     {
       "name": "Dr. Devi Prasad Shetty M.S.",
@@ -46,10 +46,31 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. Jagadeesh  R",
+      "role": "Group Chief Digital Officer & CIO",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Nishant  Singh",
       "role": "Vice President of Finance, Mergers & Acquisitions and Investor Relations",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sirshendu  Mookherjee",
+      "role": "Group Chief Human Resources Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Srikanth  Raman",
+      "role": "Group Head of Internal Audit",
+      "age": 59,
+      "year_born": 1966,
       "total_pay": "N/A"
     }
   ]

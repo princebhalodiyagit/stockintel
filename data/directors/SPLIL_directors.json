@@ -1,6 +1,42 @@
 {
   "ticker": "SPLIL",
   "company": "SPL Industries Limited",
-  "collected_at": "2026-08-03 05:32:44",
-  "directors": []
+  "collected_at": "2026-08-04 05:17:47",
+  "directors": [
+    {
+      "name": "Ms. Komal  Adlakha",
+      "role": "Chief Financial Officer",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vishal  Srivastava",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 31,
+      "year_born": 1994,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Shashi  Agarwal",
+      "role": "Whole-Time Director",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": 6000000
+    },
+    {
+      "name": "Trilok Singh Rawat",
+      "role": "Manager of HR & Compliance",
+      "age": 40,
+      "year_born": 1985,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Anuj  Tyagi",
+      "role": "Chief Engineer cum Safety Officer",
+      "age": 40,
+      "year_born": 1985,
+      "total_pay": "N/A"
+    }
+  ]
 }

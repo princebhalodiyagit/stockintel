@@ -1,7 +1,7 @@
 {
   "ticker": "BHARATGEAR",
   "company": "Bharat Gears Limited",
-  "collected_at": "2026-08-03 05:07:19",
+  "collected_at": "2026-08-04 04:47:27",
   "directors": [
     {
       "name": "Mr. Surinder Paul Kanwar B.Com.",
@@ -15,6 +15,13 @@
       "role": "Chief Financial Officer",
       "age": 55,
       "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Naresh Kumar Verma B.Com.",
+      "role": "Executive Director of Operations & Whole-Time Director",
+      "age": 65,
+      "year_born": 1960,
       "total_pay": "N/A"
     },
     {
@@ -64,13 +71,6 @@
       "role": "Senior Process Head of Finance & Accounts",
       "age": 51,
       "year_born": 1974,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Kiran  Rai",
-      "role": "Head of OE of Marketing & Business Development",
-      "age": "N/A",
-      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

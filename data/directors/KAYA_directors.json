@@ -1,13 +1,55 @@
 {
   "ticker": "KAYA",
   "company": "Kaya Limited",
-  "collected_at": "2026-08-03 05:19:42",
+  "collected_at": "2026-08-04 05:02:15",
   "directors": [
     {
       "name": "Dr. Harshraj Charandas Mariwala",
       "role": "Chairman & MD",
       "age": 74,
       "year_born": 1951,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Brijesh  Goyal",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Lokesh  Wagadre",
+      "role": "VP and Head of Information & Technology",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Aparna  Santhanam",
+      "role": "Head Medical Operations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Saurav  Jha",
+      "role": "Chief Business Transformation Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Dhivya  Ashok",
+      "role": "Chief Operating Officer for South & East Regions",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Piyush  Jaiswal",
+      "role": "Chief Operating Officer of North & West",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

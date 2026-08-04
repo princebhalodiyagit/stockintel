@@ -1,6 +1,63 @@
 {
   "ticker": "INGERRAND",
   "company": "Ingersoll Rand (India) Limited",
-  "collected_at": "2026-08-03 05:17:42",
-  "directors": []
+  "collected_at": "2026-08-04 04:59:51",
+  "directors": [
+    {
+      "name": "Mr. Sunil  Khanduja",
+      "role": "MD, Director of Operations & Executive Non-Independent Chairman of the Board",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": 20367000
+    },
+    {
+      "name": "Mr. Shubhakar Rajaram Payyadi",
+      "role": "CFO, GM of Corporate Finance, Compliance Officer, Company Secretary & Additional Whole-Time Director",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": 15299000
+    },
+    {
+      "name": "Shashikanth Kini P.",
+      "role": "Head of Accounts Payable",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Pramod M Hegde",
+      "role": "Head of Legal & Secretarial",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mahadev  Patel",
+      "role": "Head of Human Resources",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Udayan  Khastagir",
+      "role": "Director of Internal Audit",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Aginvesh  Mishra",
+      "role": "Head of Credit & Collection",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pravin  Shah",
+      "role": "General Manager of Supply Quality & Development for Industrial Technologies-Asia Pacific",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": "N/A"
+    }
+  ]
 }

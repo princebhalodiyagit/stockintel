@@ -1,7 +1,7 @@
 {
   "ticker": "LODHA",
   "company": "Lodha Developers Limited",
-  "collected_at": "2026-08-03 05:21:26",
+  "collected_at": "2026-08-04 05:04:18",
   "directors": [
     {
       "name": "Mr. Abhishek Mangal Prabhat Lodha",
@@ -23,6 +23,13 @@
       "age": 46,
       "year_born": 1979,
       "total_pay": 7130000
+    },
+    {
+      "name": "Mr. Shaishav Pankaj Dharia M.B.A.",
+      "role": "Dir. of Lodha Green Digi. Infra., CEO of Ext. East. Suburbs & Rental Assets and Whole Time Director",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": 63640000
     },
     {
       "name": "Mr. Sushil Kumar Modi CFA",
@@ -64,13 +71,6 @@
       "role": "Chief Executive Officer of Pune",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Piyush R. Vora",
-      "role": "Head of Department of Business Development",
-      "age": 52,
-      "year_born": 1973,
       "total_pay": "N/A"
     }
   ]

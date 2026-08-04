@@ -1,7 +1,7 @@
 {
   "ticker": "SHREECEM",
   "company": "SHREE CEMENT LIMITED",
-  "collected_at": "2026-08-03 05:31:34",
+  "collected_at": "2026-08-04 05:16:22",
   "directors": [
     {
       "name": "Mr. Hari Mohan Bangur",
@@ -23,6 +23,55 @@
       "age": 45,
       "year_born": 1980,
       "total_pay": 341300000
+    },
+    {
+      "name": "Mr. Subhash  Jajoo",
+      "role": "Chief Finance Officer",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kamlesh Kumar Jain",
+      "role": "Joint President of Finance & Accounts",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. M. S. R. Kali Prasad",
+      "role": "Chief Digital & Information Officer",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Shyam Sunder Khandelwal",
+      "role": "Chief Compliance Officer, Company Secretary & Chief Investor Relations Officer",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Navin  Malhotra",
+      "role": "President of Sales",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manmohan M. Rathi",
+      "role": "CHRO & Head of Power Management",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kirit Chhaganlal Gandhi",
+      "role": "President of Fuel Procurement",
+      "age": 69,
+      "year_born": 1956,
+      "total_pay": "N/A"
     }
   ]
 }

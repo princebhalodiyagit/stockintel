@@ -1,7 +1,7 @@
 {
   "ticker": "KCP",
   "company": "KCP Limited",
-  "collected_at": "2026-08-03 05:19:44",
+  "collected_at": "2026-08-04 05:02:18",
   "directors": [
     {
       "name": "Dr. Velagapudi Lakshmana Indira Dutt B.A.",
@@ -16,6 +16,13 @@
       "age": 54,
       "year_born": 1971,
       "total_pay": 54200000
+    },
+    {
+      "name": "Mr. Anis Tyebali Hyderi",
+      "role": "Chief Financial Officer",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Ravi Kumar Chitturi",
@@ -64,13 +71,6 @@
       "role": "Vice President of Operations - CPU II  (CPU-Muktyala)",
       "age": 55,
       "year_born": 1970,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. K. B. Pranesh",
-      "role": "Managing Director of Fives Cail KCP Ltd",
-      "age": "N/A",
-      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

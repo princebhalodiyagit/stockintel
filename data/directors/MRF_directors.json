@@ -1,7 +1,7 @@
 {
   "ticker": "MRF",
   "company": "MRF Limited",
-  "collected_at": "2026-08-03 05:23:40",
+  "collected_at": "2026-08-04 05:07:01",
   "directors": [
     {
       "name": "Mr. K. M. Vinoo Mammen B.A.",
@@ -39,11 +39,39 @@
       "total_pay": 213343471
     },
     {
+      "name": "Mr. Madhu Plamootil Nainan",
+      "role": "Executive Vice President of Finance",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": 18163046
+    },
+    {
+      "name": "Mr. Thulsidass Velayudhan Tharayil",
+      "role": "VP, General Counsel, Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Raman  Kumar M.Sc.",
       "role": "Vice President of Sales",
       "age": 76,
       "year_born": 1949,
       "total_pay": 2488932
+    },
+    {
+      "name": "Mr. Rajat Kumar Nangia",
+      "role": "Executive Vice President of Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. C.M.  Cherian",
+      "role": "Executive Vice President of R & D",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

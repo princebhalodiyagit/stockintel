@@ -1,8 +1,15 @@
 {
   "ticker": "GEOJITFSL",
   "company": "Geojit Financial Services Limited",
-  "collected_at": "2026-08-03 05:13:43",
+  "collected_at": "2026-08-04 04:55:08",
   "directors": [
+    {
+      "name": "Mr. Chenayappillil John George CFP, M.Com",
+      "role": "MD & Executive Chairman",
+      "age": 66,
+      "year_born": 1959,
+      "total_pay": 28796724
+    },
     {
       "name": "Mr. Satish  Menon CFP",
       "role": "Whole Time Executive Director",
@@ -18,6 +25,13 @@
       "total_pay": 12316207
     },
     {
+      "name": "Ms. Mini  Nair",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Jayakrishnan  Sasidharan",
       "role": "Executive Director & Chief Information Officer",
       "age": 54,
@@ -30,6 +44,34 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 1817367
+    },
+    {
+      "name": "Mr. Kamal  Mampilly",
+      "role": "Chief of Human Resources",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. R. G. Renjith",
+      "role": "Senior Vice President",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rahul Roy Chowdhury",
+      "role": "Chief Executive Officer of Private Wealth Services",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Nemin  Doshi",
+      "role": "Equity Research Analyst",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

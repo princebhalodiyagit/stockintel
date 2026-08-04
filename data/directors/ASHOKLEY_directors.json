@@ -1,7 +1,7 @@
 {
   "ticker": "ASHOKLEY",
   "company": "Ashok Leyland Limited",
-  "collected_at": "2026-08-03 05:05:23",
+  "collected_at": "2026-08-04 04:45:07",
   "directors": [
     {
       "name": "Mr. Dheeraj Gopichand Hinduja",
@@ -16,6 +16,13 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 182341012
+    },
+    {
+      "name": "Mr. Kidambi Mani Balaji",
+      "role": "Whole Time Director & CFO",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": 74500000
     },
     {
       "name": "Dr. N.  Saravanan",
@@ -60,17 +67,10 @@
       "total_pay": 18503228
     },
     {
-      "name": "Mr. Rajesh  Mani",
-      "role": "Head of Marketing & Corporate Communication",
-      "age": 52,
-      "year_born": 1973,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Rakesh  Gupta",
-      "role": "Head of LCV",
-      "age": 66,
-      "year_born": 1959,
+      "name": "Mr. Ajay Pratap Singh",
+      "role": "General Counsel",
+      "age": 50,
+      "year_born": 1975,
       "total_pay": "N/A"
     }
   ]

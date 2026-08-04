@@ -1,7 +1,7 @@
 {
   "ticker": "RKFORGE",
   "company": "Ramkrishna Forgings Limited",
-  "collected_at": "2026-08-03 05:29:16",
+  "collected_at": "2026-08-04 05:13:36",
   "directors": [
     {
       "name": "Mr. Naresh  Jalan",
@@ -30,13 +30,6 @@
       "age": 45,
       "year_born": 1980,
       "total_pay": 12263000
-    },
-    {
-      "name": "Mr. Chaitanya  Jalan",
-      "role": "Whole Time Director",
-      "age": 27,
-      "year_born": 1998,
-      "total_pay": 31388000
     },
     {
       "name": "Mr. Sakti Prasad Senapati",
@@ -71,6 +64,13 @@
       "role": "Procurement Head",
       "age": 47,
       "year_born": 1978,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jayadev  Patasani",
+      "role": "Head of Plant IV",
+      "age": 53,
+      "year_born": 1972,
       "total_pay": "N/A"
     }
   ]

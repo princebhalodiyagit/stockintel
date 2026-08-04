@@ -1,7 +1,7 @@
 {
   "ticker": "TIRUMALCHM",
   "company": "Thirumalai Chemicals Limited",
-  "collected_at": "2026-08-03 05:35:19",
+  "collected_at": "2026-08-04 05:20:54",
   "directors": [
     {
       "name": "Mr. Rangaswamy  Parthasarathy B.Tech., M.S.",
@@ -9,6 +9,69 @@
       "age": 74,
       "year_born": 1951,
       "total_pay": 36795000
+    },
+    {
+      "name": "Mr. Sanjay  Sinha",
+      "role": "Chief Executive Officer",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Ramya  Bharathram",
+      "role": "CFO, MD & Whole-Time Director",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": 25590000
+    },
+    {
+      "name": "Mr. B.  Krishnamurthy",
+      "role": "Executive Vice President of Accounts & Systems",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. S.  Varadharajan",
+      "role": "Vice President of Marketing",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. P. Mohana Chandran Nair",
+      "role": "Whole-Time Director",
+      "age": 72,
+      "year_born": 1953,
+      "total_pay": 729329
+    },
+    {
+      "name": "Ms. J.  Radha B.Com., C.A.",
+      "role": "Executive Vice President of Finance",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. V.  Thirumalaisamy",
+      "role": "Executive Vice President of Project & Engineering",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. .  Easwaran",
+      "role": "Executive Vice President of Strategy & Business Development (New Products and Projects)",
+      "age": 44,
+      "year_born": 1981,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Aditya  Sharma",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

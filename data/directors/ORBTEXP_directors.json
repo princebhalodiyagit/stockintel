@@ -1,7 +1,7 @@
 {
   "ticker": "ORBTEXP",
   "company": "Orbit Exports Limited",
-  "collected_at": "2026-08-03 05:25:50",
+  "collected_at": "2026-08-04 05:09:33",
   "directors": [
     {
       "name": "Mr. Parth  Seth",
@@ -29,6 +29,27 @@
       "role": "Vice President of Finance & Accounts",
       "age": 57,
       "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Omprakash  J. Jat",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Vishakha Seth Mehra",
+      "role": "Senior Vice President of Sales & Marketing-Exports",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Harsh  Chaurasia",
+      "role": "Equity Research Analyst",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

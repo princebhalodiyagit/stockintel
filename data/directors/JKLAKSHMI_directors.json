@@ -1,7 +1,7 @@
 {
   "ticker": "JKLAKSHMI",
   "company": "JK Lakshmi Cement Limited",
-  "collected_at": "2026-08-03 05:18:54",
+  "collected_at": "2026-08-04 05:01:17",
   "directors": [
     {
       "name": "Ms. Vinita  Singhania",
@@ -11,15 +11,64 @@
       "total_pay": 286800000
     },
     {
-      "name": "Mr. Vinod  Prakash",
-      "role": "Head of Internal Audit",
+      "name": "Dr. Arun Kumar Shukla",
+      "role": "President & Director",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": 68400000
+    },
+    {
+      "name": "Mr. Shrivats  Singhania",
+      "role": "Deputy MD & Director",
+      "age": 40,
+      "year_born": 1985,
+      "total_pay": 123600000
+    },
+    {
+      "name": "Mr. Sudhir Anna Bidkar",
+      "role": "ED of Corporate Affairs & CFO",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": 32800000
+    },
+    {
+      "name": "Mr. C. K. Bagga",
+      "role": "Vice President of Accounts & Finance",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Rajesh Kumar Singh",
-      "role": "Head of IT",
+      "name": "Mr. Amit  Chaurasia",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ranjeev  Sharan",
+      "role": "Chief of Sales",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Tapomoy  Deb",
+      "role": "Sr. Vice President of Human Resources",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Brijesh Kumar Daga",
+      "role": "Senior Vice President",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 12200000
+    },
+    {
+      "name": "Mr. Ajit M. Desai",
+      "role": "Senior Vice President of Marketing",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

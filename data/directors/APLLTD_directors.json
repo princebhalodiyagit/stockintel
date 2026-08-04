@@ -1,7 +1,7 @@
 {
   "ticker": "APLLTD",
   "company": "Alembic Pharmaceuticals Limited",
-  "collected_at": "2026-08-03 05:04:43",
+  "collected_at": "2026-08-04 04:44:18",
   "directors": [
     {
       "name": "Mr. Chirayu Ramanbhai Amin",
@@ -9,6 +9,20 @@
       "age": 79,
       "year_born": 1946,
       "total_pay": 142200000
+    },
+    {
+      "name": "Mr. Pranav Chirayu Amin",
+      "role": "MD & Executive Director",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": 191300000
+    },
+    {
+      "name": "Mr. Shaunak Chirayu Amin",
+      "role": "MD & Executive Director",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": 191300000
     },
     {
       "name": "Mr. G.  Krishnan",
@@ -34,6 +48,27 @@
     {
       "name": "Ms. Manisha  Saraf",
       "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Udit C. Amin",
+      "role": "Chief Business Development Officer",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Karunanithi  P.",
+      "role": "Executive Vice President of Sales & Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Namita  Patwari",
+      "role": "Chief Human Resources Officer & Chief Customer Experience Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

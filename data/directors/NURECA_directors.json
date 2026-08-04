@@ -1,7 +1,7 @@
 {
   "ticker": "NURECA",
   "company": "Nureca Limited",
-  "collected_at": "2026-08-03 05:25:25",
+  "collected_at": "2026-08-04 05:09:04",
   "directors": [
     {
       "name": "Mr. Saurabh  Goyal",
@@ -30,6 +30,34 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
+    },
+    {
+      "name": "Puja  Goel",
+      "role": "Sr. Manager of HR & ADMIN",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Gurvikram  Singh",
+      "role": "Assistant Manager of Investors Relations & Corporate Affairs",
+      "age": 35,
+      "year_born": 1990,
+      "total_pay": 260000
+    },
+    {
+      "name": "Mr. Vishal  Tiwari",
+      "role": "Sr. Manager of Sales",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Smita  Goyal",
+      "role": "Additional Whole-Time Director",
+      "age": 40,
+      "year_born": 1985,
+      "total_pay": 19000
     }
   ]
 }

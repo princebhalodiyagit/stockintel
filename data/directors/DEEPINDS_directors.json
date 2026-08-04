@@ -1,7 +1,7 @@
 {
   "ticker": "DEEPINDS",
   "company": "Deep Industries Limited",
-  "collected_at": "2026-08-03 05:10:38",
+  "collected_at": "2026-08-04 04:51:26",
   "directors": [
     {
       "name": "Mr. Parasbhai Shantilal Khimji Savla",
@@ -23,6 +23,20 @@
       "age": 46,
       "year_born": 1979,
       "total_pay": 5294000
+    },
+    {
+      "name": "Mr. Dharen Shantilal Savla",
+      "role": "President",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": 4557300
+    },
+    {
+      "name": "Mr. Rajeev Kumar Sinha",
+      "role": "Chief Operating Officer",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": "N/A"
     }
   ]
 }

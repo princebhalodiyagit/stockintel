@@ -1,6 +1,56 @@
 {
   "ticker": "EVEREADY",
   "company": "Eveready Industries India Limited",
-  "collected_at": "2026-08-03 05:12:35",
-  "directors": []
+  "collected_at": "2026-08-04 04:53:47",
+  "directors": [
+    {
+      "name": "Mr. Anirban  Banerjee",
+      "role": "Chief Executive Officer",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": 35831960
+    },
+    {
+      "name": "Mr. Bibek  Agarwala",
+      "role": "Executive Director & CFO",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 25600000
+    },
+    {
+      "name": "Ms. Shampa Ghosh Ray",
+      "role": "Associate VP of Legal, Company Secretary & Compliance Officer",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": 9085000
+    },
+    {
+      "name": "Mr. Arun Kumar Sahay",
+      "role": "Senior VP & Head of Operations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anand  Singh",
+      "role": "Vice President of Technology & Innovation",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. S. Muthar Basha",
+      "role": "Senior Vice President of Sales",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sandeep  Banerjee",
+      "role": "Chief Human Resources Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

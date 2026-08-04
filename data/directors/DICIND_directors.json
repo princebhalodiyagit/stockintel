@@ -1,7 +1,7 @@
 {
   "ticker": "DICIND",
   "company": "DIC India Limited",
-  "collected_at": "2026-08-03 05:10:59",
+  "collected_at": "2026-08-04 04:51:51",
   "directors": [
     {
       "name": "Mr. Manish  Bhatia",
@@ -15,6 +15,13 @@
       "role": "Chief Financial Officer",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Meghna  Saini",
+      "role": "Head of Legal, Company Secretary & Compliance Officer",
+      "age": 33,
+      "year_born": 1992,
       "total_pay": "N/A"
     },
     {

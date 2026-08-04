@@ -1,7 +1,7 @@
 {
   "ticker": "ATGL",
   "company": "Adani Total Gas Limited",
-  "collected_at": "2026-08-03 05:05:40",
+  "collected_at": "2026-08-04 04:45:27",
   "directors": [
     {
       "name": "Mr. Preyash  Jhaveri",
@@ -16,6 +16,20 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 3200000
+    },
+    {
+      "name": "Mr. Suresh P. Manglani",
+      "role": "Executive Director",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": 93115000
+    },
+    {
+      "name": "Mr. Sanjay  Pandita",
+      "role": "CEO & Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Adish  Vakharia",

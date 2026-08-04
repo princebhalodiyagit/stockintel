@@ -1,7 +1,7 @@
 {
   "ticker": "WPIL",
   "company": "WPIL Limited",
-  "collected_at": "2026-08-03 05:38:04",
+  "collected_at": "2026-08-04 05:24:11",
   "directors": [
     {
       "name": "Mr. Prakash  Agarwal",
@@ -30,6 +30,13 @@
       "age": 62,
       "year_born": 1963,
       "total_pay": 17209667
+    },
+    {
+      "name": "Mr. Debraj  Roy",
+      "role": "Executive Director of Projects & Executive Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 9279034
     }
   ]
 }

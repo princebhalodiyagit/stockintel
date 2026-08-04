@@ -1,8 +1,15 @@
 {
   "ticker": "JARO",
   "company": "Jaro Institute of Technology Management and Research Limited",
-  "collected_at": "2026-08-03 05:18:31",
+  "collected_at": "2026-08-04 05:00:51",
   "directors": [
+    {
+      "name": "Dr. Sanjay Namdeo Salunkhe",
+      "role": "MD & Chairman",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": "N/A"
+    },
     {
       "name": "Ms. Ranjita  Raman",
       "role": "CEO & Whole-Time Director",
@@ -22,6 +29,48 @@
       "role": "Company Secretary & Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. M A Prashanth Kumar",
+      "role": "Senior Manager of IT & Admin",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Supriya Surendra Gade",
+      "role": "General Manager of Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sushant  Mallya",
+      "role": "Vice President of Human Resource",
+      "age": 41,
+      "year_born": 1984,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Shraddha Sachin Jadhav",
+      "role": "Chief Manager of Back End Operations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Karthikevan  S.",
+      "role": "Chief Manager",
+      "age": 28,
+      "year_born": 1997,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Prateek  Bajpai",
+      "role": "Chief Manager",
+      "age": 37,
+      "year_born": 1988,
       "total_pay": "N/A"
     }
   ]

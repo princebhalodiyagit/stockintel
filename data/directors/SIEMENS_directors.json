@@ -1,8 +1,43 @@
 {
   "ticker": "SIEMENS",
   "company": "Siemens Limited",
-  "collected_at": "2026-08-03 05:31:47",
+  "collected_at": "2026-08-04 05:16:38",
   "directors": [
+    {
+      "name": "Mr. Sunil Dass Mathur B.Sc.",
+      "role": "CEO, MD & Whole-Time Director",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": 222460640
+    },
+    {
+      "name": "Mr. Wolfgang  Wrumnig",
+      "role": "CFO & Whole -Time Executive Director",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": 123260770
+    },
+    {
+      "name": "Mr. Vineet  Rastogi",
+      "role": "Head of Accounting & Controlling and Business CFO",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Radhika  Arora",
+      "role": "Head of Investor Relations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ketan Nandkishor Thaker",
+      "role": "Compliance Officer, Company Secretary & Nodal Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 15000000
+    },
     {
       "name": "Dr. Laurenz  Littmann",
       "role": "General Counsel",
@@ -32,15 +67,8 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Jignesh  Shah",
-      "role": "Head of Tax",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ms. Soundaram  Sundaram",
-      "role": "Head of Treasury",
+      "name": "Mr. Robert Harald Kottukapally Demann",
+      "role": "Business Chief Executive Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

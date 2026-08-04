@@ -1,7 +1,7 @@
 {
   "ticker": "HGINFRA",
   "company": "H.G. Infra Engineering Limited",
-  "collected_at": "2026-08-03 05:15:57",
+  "collected_at": "2026-08-04 04:57:46",
   "directors": [
     {
       "name": "Mr. Harendra  Singh",
@@ -9,6 +9,69 @@
       "age": 58,
       "year_born": 1967,
       "total_pay": 54000000
+    },
+    {
+      "name": "Mr. Rajeev  Mishra",
+      "role": "Head of Investor Relations & Corporate Affairs",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Ankita  Mehra",
+      "role": "Compliance Officer & Company Secretary",
+      "age": 37,
+      "year_born": 1988,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vijendra  Singh",
+      "role": "Whole-Time Director",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": 23000000
+    },
+    {
+      "name": "Mr. Devendra Bhushan Gupta",
+      "role": "Whole-Time Director",
+      "age": 65,
+      "year_born": 1960,
+      "total_pay": 5952000
+    },
+    {
+      "name": "Mr. Vikas  Jain",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Chandra Pal Mehta",
+      "role": "President-Technical",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Yash Pal Soni",
+      "role": "Chief Information Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Janesh  Kumar",
+      "role": "Chief Human Resource Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rakesh Kumar Shivarn",
+      "role": "Project Head & Senior GM of Civil",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "ticker": "UNITEDPOLY",
   "company": "United Polyfab Gujarat Limited",
-  "collected_at": "2026-08-03 05:36:23",
+  "collected_at": "2026-08-04 05:22:11",
   "directors": [
     {
       "name": "Mr. Gagan Nirmalkumar Mittal",
@@ -16,6 +16,13 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 640000
+    },
+    {
+      "name": "Ms. Vishakha  Rawal",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 32,
+      "year_born": 1993,
+      "total_pay": "N/A"
     }
   ]
 }

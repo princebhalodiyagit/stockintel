@@ -1,7 +1,7 @@
 {
   "ticker": "SUTLEJTEX",
   "company": "Sutlej Textiles and Industries Limited",
-  "collected_at": "2026-08-03 05:33:52",
+  "collected_at": "2026-08-04 05:19:08",
   "directors": [
     {
       "name": "Mr. Chandra Shekhar Nopany ACA",
@@ -9,6 +9,13 @@
       "age": 60,
       "year_born": 1965,
       "total_pay": 19883000
+    },
+    {
+      "name": "Mr. Ashish Kumar Hari Mohan Srivastava",
+      "role": "CEO & Whole Time Director",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": 37909682
     },
     {
       "name": "Mr. Sachin Jaikishan Karwa",
@@ -62,13 +69,6 @@
     {
       "name": "Mr. Chandrashekhar  Thete",
       "role": "VP of Operations, Senior VP of Works & Unit Head of the Damanganga Units",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Narinder  Thapa",
-      "role": "Chief Business Officer - Protech Business",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

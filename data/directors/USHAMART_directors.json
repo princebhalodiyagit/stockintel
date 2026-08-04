@@ -1,7 +1,7 @@
 {
   "ticker": "USHAMART",
   "company": "Usha Martin Limited",
-  "collected_at": "2026-08-03 05:36:31",
+  "collected_at": "2026-08-04 05:22:21",
   "directors": [
     {
       "name": "Mr. Rajeev  Jhawar",
@@ -32,24 +32,45 @@
       "total_pay": 9503000
     },
     {
+      "name": "Murari Lal Rathi",
+      "role": "Vice President of Accounts & Commercial",
+      "age": 67,
+      "year_born": 1958,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Prabodh  Kumar",
+      "role": "Assistant VP & Head Manufacturing of Wire Rope Division",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jeffrey  Schipani",
+      "role": "President of Usha Martin Americas Inc",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Malay  Vyas",
+      "role": "Chief Executive Officer of Usha Martin Americas Inc",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ghanshyam Das Lakhotia",
+      "role": "Vice President of Finance, Treasury & Purchase",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Santanu  Das",
       "role": "Assistant Vice President of Sales & Marketing",
       "age": 56,
       "year_born": 1969,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ranajit  Chakraborty",
-      "role": "Vice President of Power Plant",
-      "age": 66,
-      "year_born": 1959,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Rajesh  Dutta",
-      "role": "General Manager of Information Technology",
-      "age": 51,
-      "year_born": 1974,
       "total_pay": "N/A"
     }
   ]

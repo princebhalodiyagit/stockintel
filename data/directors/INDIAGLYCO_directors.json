@@ -1,7 +1,7 @@
 {
   "ticker": "INDIAGLYCO",
   "company": "India Glycols Limited",
-  "collected_at": "2026-08-03 05:17:12",
+  "collected_at": "2026-08-04 04:59:14",
   "directors": [
     {
       "name": "Mr. Uma Shankar Bhartia",
@@ -32,17 +32,45 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Manish  Pant",
-      "role": "Senior VP & Group Head of MIS",
-      "age": "N/A",
-      "year_born": "N/A",
+      "name": "Ms. Pragya Bhartia Barwale",
+      "role": "Executive Director",
+      "age": 43,
+      "year_born": 1982,
+      "total_pay": 85215742
+    },
+    {
+      "name": "Mr. Alok  Singhal",
+      "role": "Whole-time Director",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": 10553721
+    },
+    {
+      "name": "Mr. Ankur  Jain",
+      "role": "Head of Legal, Compliance Officer & Company Secretary",
+      "age": 49,
+      "year_born": 1976,
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Raju  Vaziraney",
-      "role": "President of IMFL",
-      "age": 64,
-      "year_born": 1961,
+      "name": "Mr. Dev Chander Jha",
+      "role": "Chief Human Resource Officer",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Prof. Rakesh Kumar Khandal",
+      "role": "President of R&D and Business Development",
+      "age": 67,
+      "year_born": 1958,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. R. K. Sharma",
+      "role": "Head of Sustainability",
+      "age": 61,
+      "year_born": 1964,
       "total_pay": "N/A"
     }
   ]

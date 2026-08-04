@@ -1,7 +1,7 @@
 {
   "ticker": "SAKAR",
   "company": "Sakar Healthcare Limited",
-  "collected_at": "2026-08-03 05:30:06",
+  "collected_at": "2026-08-04 05:14:35",
   "directors": [
     {
       "name": "Mr. Sanjay Surendra Shah",
@@ -34,6 +34,13 @@
     {
       "name": "Mr. Sudhir  Ghuleas",
       "role": "Chief Operating Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Raviraj  Karia",
+      "role": "Senior Vice President of Finance & Accounts",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

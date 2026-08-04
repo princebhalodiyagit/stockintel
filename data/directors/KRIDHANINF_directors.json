@@ -1,8 +1,15 @@
 {
   "ticker": "KRIDHANINF",
   "company": "Kridhan Infra Limited",
-  "collected_at": "2026-08-03 05:20:35",
+  "collected_at": "2026-08-04 05:03:18",
   "directors": [
+    {
+      "name": "Mr. Gautam Joginderlal Suri",
+      "role": "Executive Director",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": 394000
+    },
     {
       "name": "Mr. Raghubir Singh Parmar",
       "role": "Assistant General Manager of Operations",
@@ -15,6 +22,20 @@
       "role": "General Manager of Technical & New Project",
       "age": 60,
       "year_born": 1965,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Ekta  Rathod",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pankaj  Patil",
+      "role": "Head of Business Development",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

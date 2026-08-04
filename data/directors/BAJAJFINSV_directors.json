@@ -1,7 +1,7 @@
 {
   "ticker": "BAJAJFINSV",
   "company": "Bajaj Finserv Limited",
-  "collected_at": "2026-08-03 05:06:18",
+  "collected_at": "2026-08-04 04:46:13",
   "directors": [
     {
       "name": "Mr. Sanjivnayan Rahulkumar Bajaj",
@@ -11,18 +11,67 @@
       "total_pay": 485900000
     },
     {
-      "name": "Dr. Tapan  Singhel",
-      "role": "MD & CEO of Bajaj Allianz General Insurance Company Limited",
+      "name": "Mr. Rajeev A. Jain",
+      "role": "MD of Bajaj Finance Ltd & Director",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": 2000000
+    },
+    {
+      "name": "Mr. Ramandeep Singh Sahni",
+      "role": "Chief Financial Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
-      "name": "Lila  Poonawala",
-      "role": "Director of Bajaj Housing Finance Ltd.",
+      "name": "Ms. Lakshmi Venugopalan Iyer",
+      "role": "Group President of Investments",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": 1700000
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. V.  Rajagopalan",
+      "role": "President of Legal & Taxation",
+      "age": 69,
+      "year_born": 1956,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Uma Omkar Shende",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Freeda  Dsouza",
+      "role": "Head of Group Corporate Communications",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anupam Krishna Sirbhaiya",
+      "role": "Group Chief Human Resources Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sreenivasan  Sivasubramoniam C.F.A.",
+      "role": "President of Insurance & Special Projects",
+      "age": 64,
+      "year_born": 1961,
+      "total_pay": 59791373
+    },
+    {
+      "name": "Mr. Tarun  Chugh",
+      "role": "MD & CEO of Bajaj Allianz Life Insurance Company Ltd.",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

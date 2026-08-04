@@ -1,7 +1,7 @@
 {
   "ticker": "YASHO",
   "company": "Yasho Industries Limited",
-  "collected_at": "2026-08-03 05:38:11",
+  "collected_at": "2026-08-04 05:24:19",
   "directors": [
     {
       "name": "Mr. Vinod Harilal Jhaveri",
@@ -16,6 +16,27 @@
       "age": 59,
       "year_born": 1966,
       "total_pay": 38865000
+    },
+    {
+      "name": "Mr. Dishit P. Jhaveri",
+      "role": "Head of Technical",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Yayesh Vinod Jhaveri",
+      "role": "Whole Time Director",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": 29971000
+    },
+    {
+      "name": "Mr. Chirag  Shah",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 887000
     },
     {
       "name": "Ms. Rupali Sugriv Verma",

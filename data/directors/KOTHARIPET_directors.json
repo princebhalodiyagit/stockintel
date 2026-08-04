@@ -1,7 +1,7 @@
 {
   "ticker": "KOTHARIPET",
   "company": "Kothari Petrochemicals Limited",
-  "collected_at": "2026-08-03 05:20:24",
+  "collected_at": "2026-08-04 05:03:04",
   "directors": [
     {
       "name": "Mr. Arjun Bhadrashyam Kothari",
@@ -15,6 +15,13 @@
       "role": "Chief Financial Officer",
       "age": 41,
       "year_born": 1984,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. P.  Premapiriyan",
+      "role": "Plant Head of Manali & VP of Operations",
+      "age": 45,
+      "year_born": 1980,
       "total_pay": "N/A"
     },
     {
@@ -36,6 +43,34 @@
       "role": "Company Secretary & Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "C. Vijay Anand",
+      "role": "Head of Business Strategy & Projects",
+      "age": 43,
+      "year_born": 1982,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "C. Srinivasa Rao",
+      "role": "Senior Manager of Treasury",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. S. V. Ramesh",
+      "role": "General Manager of Supply Chain Management & Commercial",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "J  Janarthanan",
+      "role": "Deputy General Manager of Taxation",
+      "age": 51,
+      "year_born": 1974,
       "total_pay": "N/A"
     }
   ]

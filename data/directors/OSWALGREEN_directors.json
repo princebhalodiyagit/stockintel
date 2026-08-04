@@ -1,7 +1,7 @@
 {
   "ticker": "OSWALGREEN",
   "company": "Oswal Greentech Limited",
-  "collected_at": "2026-08-03 05:26:05",
+  "collected_at": "2026-08-04 05:09:51",
   "directors": [
     {
       "name": "Dr. Aruna  Oswal",
@@ -29,6 +29,48 @@
       "role": "VP of Legal & General Counsel",
       "age": 55,
       "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Harshendra  Mandloi",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sanjay  Sethi",
+      "role": "Vice President of Marketing",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Shikha  Sabherwal",
+      "role": "Deputy General Manager of Marketing",
+      "age": 40,
+      "year_born": 1985,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anil  Malhotra",
+      "role": "Assistant Manager",
+      "age": 64,
+      "year_born": 1961,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sanjay  Rawat",
+      "role": "Assistant Manager",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Narinder  Kumar",
+      "role": "Vice President of Finance",
+      "age": 60,
+      "year_born": 1965,
       "total_pay": "N/A"
     }
   ]

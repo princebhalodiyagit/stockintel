@@ -1,7 +1,7 @@
 {
   "ticker": "LUPIN",
   "company": "Lupin Limited",
-  "collected_at": "2026-08-03 05:21:38",
+  "collected_at": "2026-08-04 05:04:33",
   "directors": [
     {
       "name": "Ms. Vinita D. Gupta",
@@ -16,6 +16,13 @@
       "age": 59,
       "year_born": 1966,
       "total_pay": 93300000
+    },
+    {
+      "name": "Mr. Nilesh Deshbandhu Gupta",
+      "role": "MD & Executive Director",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": 128100000
     },
     {
       "name": "Mr. Christoph  Funke",
@@ -62,13 +69,6 @@
     {
       "name": "Dr. Sofia  Mumtaz",
       "role": "President of Legal and Compliance, Canada, ANZ, and NEA business",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Dr. Cyrus  Karkaria",
-      "role": "President of Biotech Business",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

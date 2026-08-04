@@ -1,7 +1,7 @@
 {
   "ticker": "PRUDENT",
   "company": "Prudent Corporate Advisory Services Limited",
-  "collected_at": "2026-08-03 05:27:53",
+  "collected_at": "2026-08-04 05:11:57",
   "directors": [
     {
       "name": "Mr. Sanjay Rameshchandra Shah",
@@ -27,6 +27,27 @@
     {
       "name": "Parth  Parekh",
       "role": "Head of Investor Relations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kunal Amrishbhai Chauhan C.S.",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 148000
+    },
+    {
+      "name": "Ms. Maitry Dhruvin Shah",
+      "role": "Head of Digital Initiative",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Nihal  Shah",
+      "role": "Fundamental Research Analyst",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

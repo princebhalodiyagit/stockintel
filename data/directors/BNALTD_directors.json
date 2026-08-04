@@ -1,7 +1,7 @@
 {
   "ticker": "BNALTD",
   "company": "B & A Limited",
-  "collected_at": "2026-08-03 05:07:52",
+  "collected_at": "2026-08-04 04:48:06",
   "directors": [
     {
       "name": "Mr. Somnath  Chatterjee B.Com",
@@ -16,6 +16,27 @@
       "age": 75,
       "year_born": 1950,
       "total_pay": 2041000
+    },
+    {
+      "name": "Ms. Binita  Pandey",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 965000
+    },
+    {
+      "name": "Mr. Dhruba Jyoti Dowerah",
+      "role": "Deputy MD & Whole Time Director",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": 4240000
+    },
+    {
+      "name": "Mr. Partha  Mukhopadhyay",
+      "role": "VP of Legal & Taxation",
+      "age": 66,
+      "year_born": 1959,
+      "total_pay": "N/A"
     }
   ]
 }

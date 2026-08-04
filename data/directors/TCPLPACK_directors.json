@@ -1,7 +1,7 @@
 {
   "ticker": "TCPLPACK",
   "company": "TCPL Packaging Limited",
-  "collected_at": "2026-08-03 05:34:36",
+  "collected_at": "2026-08-04 05:20:01",
   "directors": [
     {
       "name": "Mr. Saket Kahini Kanoria",
@@ -25,8 +25,50 @@
       "total_pay": 24424000
     },
     {
+      "name": "Mr. Vidur  Kanoria",
+      "role": "Executive Director",
+      "age": 31,
+      "year_born": 1994,
+      "total_pay": 24796000
+    },
+    {
       "name": "Mr. Jitendra  Jain",
       "role": "CFO and VP of Finance & Accounts",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manoj  Nair",
+      "role": "Senior VP of Operations & HR",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Harish Venkappa Anchan",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Amit  Kar",
+      "role": "Senior General Manager of Marketing",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Gopal  Sawant",
+      "role": "Senior General Manager of Quality & Sustainability",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Biswadip  Naha",
+      "role": "Senior VP of Planning & Purchase",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

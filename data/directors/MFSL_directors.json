@@ -1,7 +1,7 @@
 {
   "ticker": "MFSL",
   "company": "Max Financial Services Limited",
-  "collected_at": "2026-08-03 05:22:58",
+  "collected_at": "2026-08-04 05:06:10",
   "directors": [
     {
       "name": "Mr. Analjit  Singh BA, BS, MBA",
@@ -22,6 +22,20 @@
       "role": "Chief Financial Officer",
       "age": 42,
       "year_born": 1983,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Siddhi  Suneja",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ramachandra Vishnu Pai",
+      "role": "Manager of Administration",
+      "age": 58,
+      "year_born": 1967,
       "total_pay": "N/A"
     },
     {
@@ -57,13 +71,6 @@
       "role": "Executive Assistant to Executive President",
       "age": 50,
       "year_born": 1975,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Jyoti  Sethi",
-      "role": "Secretary & Executive Assistant",
-      "age": 46,
-      "year_born": 1979,
       "total_pay": "N/A"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "ticker": "GLOBAL",
   "company": "Global Education Limited",
-  "collected_at": "2026-08-03 05:14:01",
+  "collected_at": "2026-08-04 04:55:31",
   "directors": [
     {
       "name": "Mr. Aditya Praneet Bhandari",
@@ -9,6 +9,13 @@
       "age": 35,
       "year_born": 1990,
       "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anshul Lalit Jain",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 840000
     },
     {
       "name": "Ms. Preeti  Pacheriwala C.S.",

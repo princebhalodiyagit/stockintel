@@ -1,7 +1,7 @@
 {
   "ticker": "CAPLIPOINT",
   "company": "Caplin Point Laboratories Limited",
-  "collected_at": "2026-08-03 05:08:28",
+  "collected_at": "2026-08-04 04:48:50",
   "directors": [
     {
       "name": "Dr. Sridhar  Ganesan",
@@ -9,6 +9,13 @@
       "age": 70,
       "year_born": 1955,
       "total_pay": 5700000
+    },
+    {
+      "name": "Mr. D.  Muralidharan",
+      "role": "Chief Financial Officer - Finance & Accounts",
+      "age": 68,
+      "year_born": 1957,
+      "total_pay": 5400000
     },
     {
       "name": "Mr. Venkatram Ganapathisu Bramanian",
@@ -64,13 +71,6 @@
       "role": "Vice President",
       "age": 47,
       "year_born": 1978,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Anand G. K.",
-      "role": "Vice President",
-      "age": 53,
-      "year_born": 1972,
       "total_pay": "N/A"
     }
   ]
