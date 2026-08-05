@@ -1,14 +1,14 @@
 {
   "ticker": "IRFC",
-  "collected_at": "2026-08-04 05:00:21",
+  "collected_at": "2026-08-05 04:57:12",
   "company_info": {
     "name": "Indian Railway Finance Corporation Limited",
     "sector": "Financial Services",
     "industry": "Credit Services",
-    "market_cap": 1176688263168,
-    "current_price": 90.04,
-    "pe_ratio": 16.40073,
-    "pb_ratio": 2.0716472,
+    "market_cap": 1171591528448,
+    "current_price": 89.65,
+    "pe_ratio": 16.32969,
+    "pb_ratio": 2.062674,
     "roe": "N/A",
     "debt_to_equity": 773.347,
     "revenue": 73924100096,
@@ -16,6 +16,6 @@
     "eps": 5.49,
     "52_week_high": 137.17,
     "52_week_low": 86.02,
-    "dividend_yield": 3.25
+    "dividend_yield": 3.21
   }
 }

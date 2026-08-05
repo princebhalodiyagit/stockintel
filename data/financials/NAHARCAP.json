@@ -1,14 +1,14 @@
 {
   "ticker": "NAHARCAP",
-  "collected_at": "2026-08-04 05:07:27",
+  "collected_at": "2026-08-05 05:03:15",
   "company_info": {
     "name": "Nahar Capital and Financial Services Limited",
     "sector": "Financial Services",
     "industry": "Capital Markets",
-    "market_cap": 4450796032,
-    "current_price": 265.78,
-    "pe_ratio": 7.046129,
-    "pb_ratio": 0.2769563,
+    "market_cap": 4461346304,
+    "current_price": 266.41,
+    "pe_ratio": 7.0628314,
+    "pb_ratio": 0.2776128,
     "roe": 0.03982,
     "debt_to_equity": 0.603,
     "revenue": 489412000,
@@ -16,6 +16,6 @@
     "eps": 37.72,
     "52_week_high": 316.9,
     "52_week_low": 191.0,
-    "dividend_yield": 0.6
+    "dividend_yield": 0.57
   }
 }

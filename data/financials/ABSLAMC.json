@@ -1,14 +1,14 @@
 {
   "ticker": "ABSLAMC",
-  "collected_at": "2026-08-04 04:42:07",
+  "collected_at": "2026-08-05 04:42:03",
   "company_info": {
     "name": "Aditya Birla Sun Life AMC Limited",
     "sector": "Financial Services",
     "industry": "Asset Management",
     "market_cap": "N/A",
-    "current_price": 1001.0,
-    "pe_ratio": 28.756104,
-    "pb_ratio": 7.152861,
+    "current_price": 1001.9,
+    "pe_ratio": 28.78196,
+    "pb_ratio": 7.159292,
     "roe": "N/A",
     "debt_to_equity": 1.577,
     "revenue": 21167800320,
@@ -16,6 +16,6 @@
     "eps": 34.81,
     "52_week_high": 1224.9,
     "52_week_low": 708.0,
-    "dividend_yield": 2.52
+    "dividend_yield": 2.51
   }
 }

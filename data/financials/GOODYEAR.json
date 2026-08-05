@@ -1,14 +1,14 @@
 {
   "ticker": "GOODYEAR",
-  "collected_at": "2026-08-04 04:56:07",
+  "collected_at": "2026-08-05 04:53:39",
   "company_info": {
     "name": "Goodyear India Limited",
     "sector": "Consumer Cyclical",
     "industry": "Auto Parts",
-    "market_cap": 19929462784,
-    "current_price": 864.0,
-    "pe_ratio": 32.408104,
-    "pb_ratio": 3.2876587,
+    "market_cap": 19043708928,
+    "current_price": 825.6,
+    "pe_ratio": 30.967741,
+    "pb_ratio": 3.1415405,
     "roe": 0.101730004,
     "debt_to_equity": 4.446,
     "revenue": 24762499072,
@@ -16,6 +16,6 @@
     "eps": 26.66,
     "52_week_high": 1273.7,
     "52_week_low": 711.25,
-    "dividend_yield": 3.18
+    "dividend_yield": 3.09
   }
 }

@@ -1,21 +1,21 @@
 {
   "ticker": "SUNDARMFIN",
-  "collected_at": "2026-08-04 05:18:41",
+  "collected_at": "2026-08-05 05:12:39",
   "company_info": {
     "name": "Sundaram Finance Limited",
     "sector": "Financial Services",
     "industry": "Credit Services",
-    "market_cap": 525958250496,
-    "current_price": 4772.0,
-    "pe_ratio": 25.570679,
-    "pb_ratio": 3.5598233,
-    "roe": 0.14659001,
+    "market_cap": 528107470848,
+    "current_price": 4791.5,
+    "pe_ratio": 25.9056,
+    "pb_ratio": 3.57437,
+    "roe": "N/A",
     "debt_to_equity": 409.161,
-    "revenue": 45525901312,
-    "net_income": 20588599296,
-    "eps": 186.62,
+    "revenue": 48162701312,
+    "net_income": 22198398976,
+    "eps": 184.96,
     "52_week_high": 5642.0,
     "52_week_low": 4000.0,
-    "dividend_yield": 0.86
+    "dividend_yield": 0.83
   }
 }

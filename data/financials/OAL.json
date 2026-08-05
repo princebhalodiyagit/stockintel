@@ -1,14 +1,14 @@
 {
   "ticker": "OAL",
-  "collected_at": "2026-08-04 05:09:08",
+  "collected_at": "2026-08-05 05:04:41",
   "company_info": {
     "name": "Oriental Aromatics Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals",
-    "market_cap": 12815281152,
-    "current_price": 380.8,
-    "pe_ratio": 242.54776,
-    "pb_ratio": 1.9284722,
+    "market_cap": 12721051648,
+    "current_price": 378.0,
+    "pe_ratio": 240.76433,
+    "pb_ratio": 1.9142923,
     "roe": "N/A",
     "debt_to_equity": 60.585,
     "revenue": 10650798080,
@@ -16,6 +16,6 @@
     "eps": 1.57,
     "52_week_high": 400.0,
     "52_week_low": 228.0,
-    "dividend_yield": 0.14
+    "dividend_yield": 0.13
   }
 }

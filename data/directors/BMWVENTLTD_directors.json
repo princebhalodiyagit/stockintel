@@ -1,7 +1,7 @@
 {
   "ticker": "BMWVENTLTD",
   "company": "BMW Ventures Limited",
-  "collected_at": "2026-08-04 04:48:04",
+  "collected_at": "2026-08-05 04:46:59",
   "directors": [
     {
       "name": "Mr. Bijay Kumar Kishorepuria",
@@ -16,27 +16,6 @@
       "age": 48,
       "year_born": 1977,
       "total_pay": 14400000
-    },
-    {
-      "name": "Mr. Birendra  Yadav",
-      "role": "Chief Financial Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 1080000
-    },
-    {
-      "name": "Ms. Ruchika Maheshwari Kejriwal",
-      "role": "Company Secretary & Compliance Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 605000
-    },
-    {
-      "name": "Ms. Rachna  Kishorepuria",
-      "role": "Whole-Time Director",
-      "age": 46,
-      "year_born": 1979,
-      "total_pay": 9600000
     },
     {
       "name": "Mr. Sanjeev Kumar Pathak",
@@ -71,6 +50,13 @@
       "role": "Head of Cash Management",
       "age": 38,
       "year_born": 1987,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ajay Kumar Singh",
+      "role": "Heads of Accounts",
+      "age": 46,
+      "year_born": 1979,
       "total_pay": "N/A"
     }
   ]

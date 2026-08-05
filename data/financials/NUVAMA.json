@@ -1,14 +1,14 @@
 {
   "ticker": "NUVAMA",
-  "collected_at": "2026-08-04 05:09:04",
+  "collected_at": "2026-08-05 05:04:38",
   "company_info": {
     "name": "Nuvama Wealth Management Limited",
     "sector": "Financial Services",
     "industry": "Asset Management",
-    "market_cap": 319872663552,
-    "current_price": 1751.8,
-    "pe_ratio": 30.068659,
-    "pb_ratio": 7.735958,
+    "market_cap": 309866364928,
+    "current_price": 1697.0,
+    "pe_ratio": 29.128048,
+    "pb_ratio": 7.493961,
     "roe": "N/A",
     "debt_to_equity": 282.325,
     "revenue": 38526898176,
@@ -16,6 +16,6 @@
     "eps": 58.26,
     "52_week_high": 2066.0,
     "52_week_low": 1096.9,
-    "dividend_yield": 1.55
+    "dividend_yield": 1.59
   }
 }

@@ -1,21 +1,21 @@
 {
   "ticker": "TEXRAIL",
-  "collected_at": "2026-08-04 05:20:20",
+  "collected_at": "2026-08-05 05:14:02",
   "company_info": {
     "name": "Texmaco Rail & Engineering Limited",
     "sector": "Industrials",
     "industry": "Railroads",
-    "market_cap": 44563877888,
-    "current_price": 109.53,
-    "pe_ratio": 22.583506,
-    "pb_ratio": 1.5256574,
-    "roe": 0.073850006,
+    "market_cap": 44205838336,
+    "current_price": 108.65,
+    "pe_ratio": 23.265524,
+    "pb_ratio": 1.5133998,
+    "roe": "N/A",
     "debt_to_equity": 37.094,
-    "revenue": 43772665856,
-    "net_income": 1951478016,
-    "eps": 4.85,
+    "revenue": 42233466880,
+    "net_income": 2151931904,
+    "eps": 4.67,
     "52_week_high": 153.0,
     "52_week_low": 78.05,
-    "dividend_yield": 0.67
+    "dividend_yield": 0.66
   }
 }

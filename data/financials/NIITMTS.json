@@ -1,14 +1,14 @@
 {
   "ticker": "NIITMTS",
-  "collected_at": "2026-08-04 05:08:25",
+  "collected_at": "2026-08-05 05:04:05",
   "company_info": {
     "name": "NIIT Learning Systems Limited",
     "sector": "Consumer Defensive",
     "industry": "Education & Training Services",
-    "market_cap": 34551459840,
-    "current_price": 250.71,
-    "pe_ratio": 13.7375345,
-    "pb_ratio": 2.2335763,
+    "market_cap": 34248267776,
+    "current_price": 248.51,
+    "pe_ratio": 13.616986,
+    "pb_ratio": 2.2139764,
     "roe": "N/A",
     "debt_to_equity": 20.621,
     "revenue": 20657108992,
@@ -16,6 +16,6 @@
     "eps": 18.25,
     "52_week_high": 443.9,
     "52_week_low": 203.3,
-    "dividend_yield": 1.25
+    "dividend_yield": 1.22
   }
 }

@@ -1,14 +1,14 @@
 {
   "ticker": "STARCEMENT",
-  "collected_at": "2026-08-04 05:18:05",
+  "collected_at": "2026-08-05 05:12:09",
   "company_info": {
     "name": "Star Cement Limited",
     "sector": "Basic Materials",
     "industry": "Building Materials",
-    "market_cap": 82452807680,
-    "current_price": 204.0,
-    "pe_ratio": 20.966085,
-    "pb_ratio": 2.5866988,
+    "market_cap": 82646810624,
+    "current_price": 204.48,
+    "pe_ratio": 21.015417,
+    "pb_ratio": 2.5927851,
     "roe": 0.12871,
     "debt_to_equity": 18.924,
     "revenue": 37764874240,
@@ -16,6 +16,6 @@
     "eps": 9.73,
     "52_week_high": 308.95,
     "52_week_low": 196.53,
-    "dividend_yield": 0.99
+    "dividend_yield": 0.98
   }
 }

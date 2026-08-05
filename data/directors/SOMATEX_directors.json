@@ -1,8 +1,22 @@
 {
   "ticker": "SOMATEX",
   "company": "Soma Textiles & Industries Limited",
-  "collected_at": "2026-08-04 05:17:26",
+  "collected_at": "2026-08-05 05:11:36",
   "directors": [
+    {
+      "name": "Mr. Ameet Harjinder Gadhoke",
+      "role": "MD & Executive Director",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Shrikant Bhairaveshwar Bhat",
+      "role": "Whole-time Director & CFO",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": 7479650
+    },
     {
       "name": "Ms. Reena  Prasad",
       "role": "Company Secretary & Compliance Officer",

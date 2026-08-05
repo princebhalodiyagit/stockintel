@@ -1,14 +1,14 @@
 {
   "ticker": "ASTRAZEN",
-  "collected_at": "2026-08-04 04:45:23",
+  "collected_at": "2026-08-05 04:44:45",
   "company_info": {
     "name": "AstraZeneca Pharma India Limited",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - Specialty & Generic",
-    "market_cap": 205999996928,
-    "current_price": 8240.0,
-    "pe_ratio": 109.38537,
-    "pb_ratio": 23.60247,
+    "market_cap": 205212499968,
+    "current_price": 8208.5,
+    "pe_ratio": 108.96721,
+    "pb_ratio": 23.512243,
     "roe": 0.22825001,
     "debt_to_equity": 12.679,
     "revenue": 22755799040,
@@ -16,6 +16,6 @@
     "eps": 75.33,
     "52_week_high": 9849.5,
     "52_week_low": 7551.5,
-    "dividend_yield": 0.44
+    "dividend_yield": 0.43
   }
 }

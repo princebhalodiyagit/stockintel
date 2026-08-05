@@ -1,14 +1,14 @@
 {
   "ticker": "BIMETAL",
-  "collected_at": "2026-08-04 04:47:39",
+  "collected_at": "2026-08-05 04:46:38",
   "company_info": {
     "name": "Bimetal Bearings Limited",
     "sector": "Consumer Cyclical",
     "industry": "Auto Parts",
-    "market_cap": 2448191232,
-    "current_price": 640.05,
-    "pe_ratio": 20.868927,
-    "pb_ratio": 1.0685236,
+    "market_cap": 2419886336,
+    "current_price": 632.65,
+    "pe_ratio": 20.62765,
+    "pb_ratio": 1.0561699,
     "roe": 0.05156,
     "debt_to_equity": 1.604,
     "revenue": 2969836032,
@@ -16,6 +16,6 @@
     "eps": 30.67,
     "52_week_high": 750.75,
     "52_week_low": 470.9,
-    "dividend_yield": 2.02
+    "dividend_yield": 2.12
   }
 }

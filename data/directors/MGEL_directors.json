@@ -1,8 +1,22 @@
 {
   "ticker": "MGEL",
   "company": "Mangalam Global Enterprise Limited",
-  "collected_at": "2026-08-04 05:06:11",
+  "collected_at": "2026-08-05 05:02:11",
   "directors": [
+    {
+      "name": "Mr. Vipin Prakash Mangal",
+      "role": "Executive Chairman",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Chanakya Prakash Mangal",
+      "role": "MD & Executive Director",
+      "age": 30,
+      "year_born": 1995,
+      "total_pay": "N/A"
+    },
     {
       "name": "Mr. Manish Purshottamdas Kella ACS, M.Com",
       "role": "Chief Financial Officer",

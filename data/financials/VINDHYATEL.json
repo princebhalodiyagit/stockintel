@@ -1,14 +1,14 @@
 {
   "ticker": "VINDHYATEL",
-  "collected_at": "2026-08-04 05:23:07",
+  "collected_at": "2026-08-05 05:16:24",
   "company_info": {
     "name": "Vindhya Telelinks Limited",
     "sector": "Industrials",
     "industry": "Engineering & Construction",
-    "market_cap": 28013070336,
-    "current_price": 2363.8,
-    "pe_ratio": 12.716806,
-    "pb_ratio": 0.65931547,
+    "market_cap": 27885080576,
+    "current_price": 2353.0,
+    "pe_ratio": 12.658704,
+    "pb_ratio": 0.65630305,
     "roe": 0.05311,
     "debt_to_equity": 34.118,
     "revenue": 35932078080,
@@ -16,6 +16,6 @@
     "eps": 185.88,
     "52_week_high": 2484.9,
     "52_week_low": 963.9,
-    "dividend_yield": 0.3
+    "dividend_yield": 0.25
   }
 }
