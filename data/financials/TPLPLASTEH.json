@@ -1,21 +1,21 @@
 {
   "ticker": "TPLPLASTEH",
-  "collected_at": "2026-08-05 05:14:45",
+  "collected_at": "2026-08-06 05:19:56",
   "company_info": {
     "name": "TPL Plastech Limited",
     "sector": "Consumer Cyclical",
     "industry": "Packaging & Containers",
-    "market_cap": 6197338112,
-    "current_price": 79.45,
-    "pe_ratio": 21.300266,
-    "pb_ratio": 3.6787515,
-    "roe": 0.18370001,
+    "market_cap": 6162236928,
+    "current_price": 79.0,
+    "pe_ratio": 21.179625,
+    "pb_ratio": 3.6579154,
+    "roe": "N/A",
     "debt_to_equity": 11.202,
-    "revenue": 4225533952,
-    "net_income": 290707008,
+    "revenue": 4565400064,
+    "net_income": 301200992,
     "eps": 3.73,
     "52_week_high": 90.33,
     "52_week_low": 50.01,
-    "dividend_yield": 1.23
+    "dividend_yield": 1.24
   }
 }
