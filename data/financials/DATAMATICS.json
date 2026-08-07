@@ -1,21 +1,21 @@
 {
   "ticker": "DATAMATICS",
-  "collected_at": "2026-08-06 04:50:53",
+  "collected_at": "2026-08-07 04:17:00",
   "company_info": {
     "name": "Datamatics Global Services Limited",
     "sector": "Technology",
     "industry": "Information Technology Services",
-    "market_cap": 50778296320,
-    "current_price": 859.1,
-    "pe_ratio": 25.046648,
-    "pb_ratio": 3.288786,
-    "roe": 0.1348,
+    "market_cap": 50518228992,
+    "current_price": 854.7,
+    "pe_ratio": 26.709375,
+    "pb_ratio": 3.2719421,
+    "roe": "N/A",
     "debt_to_equity": 14.384,
-    "revenue": 19871500288,
-    "net_income": 1942099968,
-    "eps": 34.3,
+    "revenue": 20393699328,
+    "net_income": 2161499904,
+    "eps": 32.0,
     "52_week_high": 1120.0,
     "52_week_low": 632.0,
-    "dividend_yield": 0.61
+    "dividend_yield": 0.57
   }
 }

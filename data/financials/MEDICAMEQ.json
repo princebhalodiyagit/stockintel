@@ -1,14 +1,14 @@
 {
   "ticker": "MEDICAMEQ",
-  "collected_at": "2026-08-06 05:05:19",
+  "collected_at": "2026-08-07 04:29:23",
   "company_info": {
     "name": "Medicamen Biotech Limited",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - Specialty & Generic",
-    "market_cap": 3254940160,
-    "current_price": 239.99,
-    "pe_ratio": 33.239613,
-    "pb_ratio": 1.0241889,
+    "market_cap": 3211267840,
+    "current_price": 236.77,
+    "pe_ratio": 32.79363,
+    "pb_ratio": 1.0104471,
     "roe": 0.0401,
     "debt_to_equity": 17.341,
     "revenue": 2008829056,
@@ -16,6 +16,6 @@
     "eps": 7.22,
     "52_week_high": 447.65,
     "52_week_low": 212.4,
-    "dividend_yield": 0.42
+    "dividend_yield": 0.41
   }
 }

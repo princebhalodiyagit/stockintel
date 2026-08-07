@@ -1,7 +1,7 @@
 {
   "ticker": "AWL",
   "company": "AWL Agri Business Limited",
-  "collected_at": "2026-08-06 04:46:11",
+  "collected_at": "2026-08-07 04:12:53",
   "directors": [
     {
       "name": "Mr. Shrikant  Kanhere",
@@ -30,13 +30,6 @@
       "age": 58,
       "year_born": 1967,
       "total_pay": 27700000
-    },
-    {
-      "name": "Mr. Pankaj  Goyal",
-      "role": "Interim Chief Financial Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
     },
     {
       "name": "Mr. Venkata Rao Damera",
@@ -69,6 +62,13 @@
     {
       "name": "Mr. Siddhartha  Ghosh",
       "role": "Chief Human Resource Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajneesh  Bansal",
+      "role": "Joint President of Supply Chain & Logistics",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

@@ -1,22 +1,8 @@
 {
   "ticker": "HAL",
   "company": "Hindustan Aeronautics Limited",
-  "collected_at": "2026-08-06 04:56:41",
+  "collected_at": "2026-08-07 04:22:01",
   "directors": [
-    {
-      "name": "Dr. Barenya  Senapati",
-      "role": "CFO, Director of Finance & Director",
-      "age": 58,
-      "year_born": 1967,
-      "total_pay": 6460000
-    },
-    {
-      "name": "Mr. K.  Ravi",
-      "role": "Director of Operations & Director",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 6371000
-    },
     {
       "name": "Mr. Shailesh  Bansal",
       "role": "Company Secretary & Compliance Officer",
@@ -25,36 +11,8 @@
       "total_pay": 5500000
     },
     {
-      "name": "Mr. Atasi Baran Pradhan",
-      "role": "Executive Director",
-      "age": 60,
-      "year_born": 1965,
-      "total_pay": 10800000
-    },
-    {
       "name": "Ms. Nirmala  S",
       "role": "Executive Director (Tech) and Chief Designer of RWR&DC",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. N.  Nagabushanam",
-      "role": "Chief of Project CH/CK",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Wing Commander Unni K. Pillai",
-      "role": "Executive Director of CTP-RW",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. R. V. Huliraj",
-      "role": "Chief Designer of ARDL",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
@@ -69,6 +27,48 @@
     {
       "name": "Mr. Puneet  Kumar",
       "role": "Chief of Project, TAD, Kanpur",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Abhishek  Singh",
+      "role": "Chief Designer, RWRDC",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kamalesh Kumar Srivastava B.Tech., M.B.A.",
+      "role": "Chief of Project, Avionics Division, Korwa",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ravindra  Kumar",
+      "role": "Chief of Project, LCA Tejas",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Group Captain H V Thakur",
+      "role": "Chief Test Pilot (FW)",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Tumane  A M B.E.",
+      "role": "Head of SPOC",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ramananda  S.",
+      "role": "CD, ARDC",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

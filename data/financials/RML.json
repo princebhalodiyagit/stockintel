@@ -1,21 +1,21 @@
 {
   "ticker": "RML",
-  "collected_at": "2026-08-06 05:12:42",
+  "collected_at": "2026-08-07 04:35:53",
   "company_info": {
     "name": "Rane (Madras) Limited",
     "sector": "Consumer Cyclical",
     "industry": "Auto Parts",
-    "market_cap": 30798825472,
-    "current_price": 1114.4,
-    "pe_ratio": 30.20873,
-    "pb_ratio": 4.1034403,
-    "roe": 0.15123,
+    "market_cap": 29074266112,
+    "current_price": 1052.0,
+    "pe_ratio": 28.948816,
+    "pb_ratio": 3.8736713,
+    "roe": "N/A",
     "debt_to_equity": 100.193,
-    "revenue": 38629199872,
-    "net_income": 1074800000,
-    "eps": 36.89,
+    "revenue": 40291299328,
+    "net_income": 1190499968,
+    "eps": 36.34,
     "52_week_high": 1323.9,
     "52_week_low": 608.5,
-    "dividend_yield": 1.32
+    "dividend_yield": 1.44
   }
 }

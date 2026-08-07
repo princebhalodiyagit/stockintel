@@ -1,14 +1,14 @@
 {
   "ticker": "SIGMA",
-  "collected_at": "2026-08-06 05:15:35",
+  "collected_at": "2026-08-07 04:38:22",
   "company_info": {
     "name": "Sigma Solve Limited",
     "sector": "Technology",
     "industry": "Information Technology Services",
-    "market_cap": 4977392128,
-    "current_price": 48.43,
-    "pe_ratio": 20.875,
-    "pb_ratio": 6.4841347,
+    "market_cap": 4779036160,
+    "current_price": 46.5,
+    "pe_ratio": 20.043104,
+    "pb_ratio": 6.2257333,
     "roe": "N/A",
     "debt_to_equity": 2.611,
     "revenue": 979912000,
@@ -16,6 +16,6 @@
     "eps": 2.32,
     "52_week_high": 65.5,
     "52_week_low": 35.46,
-    "dividend_yield": 0.1
+    "dividend_yield": 0.11
   }
 }

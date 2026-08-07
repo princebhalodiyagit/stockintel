@@ -1,21 +1,21 @@
 {
   "ticker": "SAREGAMA",
-  "collected_at": "2026-08-06 05:14:04",
+  "collected_at": "2026-08-07 04:37:04",
   "company_info": {
     "name": "Saregama India Limited",
     "sector": "Communication Services",
     "industry": "Entertainment",
-    "market_cap": 102160842752,
-    "current_price": 532.2,
-    "pe_ratio": 49.553074,
-    "pb_ratio": 6.1408167,
-    "roe": 0.12567,
+    "market_cap": 101767323648,
+    "current_price": 530.15,
+    "pe_ratio": 52.0265,
+    "pb_ratio": 6.1171627,
+    "roe": "N/A",
     "debt_to_equity": 4.281,
-    "revenue": 9846200320,
-    "net_income": 2070700032,
-    "eps": 10.74,
-    "52_week_high": 561.9,
+    "revenue": 10414499840,
+    "net_income": 2219699968,
+    "eps": 10.19,
+    "52_week_high": 574.5,
     "52_week_low": 307.05,
-    "dividend_yield": 1.75
+    "dividend_yield": 1.62
   }
 }

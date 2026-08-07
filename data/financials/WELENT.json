@@ -1,21 +1,21 @@
 {
   "ticker": "WELENT",
-  "collected_at": "2026-08-06 05:22:27",
+  "collected_at": "2026-08-07 04:44:20",
   "company_info": {
     "name": "Welspun Enterprises Limited",
     "sector": "Industrials",
     "industry": "Engineering & Construction",
-    "market_cap": 77713489920,
-    "current_price": 573.05,
-    "pe_ratio": 21.855453,
-    "pb_ratio": 2.5220163,
-    "roe": 0.13603,
+    "market_cap": 78059307008,
+    "current_price": 575.6,
+    "pe_ratio": 24.083681,
+    "pb_ratio": 2.533239,
+    "roe": "N/A",
     "debt_to_equity": 60.918,
-    "revenue": 36153798656,
-    "net_income": 3631800064,
-    "eps": 26.22,
+    "revenue": 35532300288,
+    "net_income": 3404699904,
+    "eps": 23.9,
     "52_week_high": 634.9,
     "52_week_low": 412.0,
-    "dividend_yield": 0.49
+    "dividend_yield": 0.51
   }
 }

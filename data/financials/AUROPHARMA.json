@@ -1,21 +1,21 @@
 {
   "ticker": "AUROPHARMA",
-  "collected_at": "2026-08-06 04:45:52",
+  "collected_at": "2026-08-07 04:12:37",
   "company_info": {
     "name": "Aurobindo Pharma Limited",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - Specialty & Generic",
-    "market_cap": 917842821120,
-    "current_price": 1596.0,
-    "pe_ratio": 26.018593,
-    "pb_ratio": 2.4451594,
-    "roe": 0.09932999,
+    "market_cap": 920029298688,
+    "current_price": 1599.0,
+    "pe_ratio": 26.910131,
+    "pb_ratio": 2.4509842,
+    "roe": "N/A",
     "debt_to_equity": 21.31,
-    "revenue": 336530800640,
-    "net_income": 35047501824,
-    "eps": 61.31,
+    "revenue": 350416011264,
+    "net_income": 37125599232,
+    "eps": 59.42,
     "52_week_high": 1636.8,
     "52_week_low": 1016.1,
-    "dividend_yield": 0.26
+    "dividend_yield": 0.25
   }
 }

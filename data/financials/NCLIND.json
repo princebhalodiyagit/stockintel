@@ -1,14 +1,14 @@
 {
   "ticker": "NCLIND",
-  "collected_at": "2026-08-06 05:07:09",
+  "collected_at": "2026-08-07 04:30:59",
   "company_info": {
     "name": "NCL Industries Limited",
     "sector": "Basic Materials",
     "industry": "Building Materials",
-    "market_cap": 7968660992,
-    "current_price": 176.17,
-    "pe_ratio": 6.316601,
-    "pb_ratio": 0.80179685,
+    "market_cap": 7974993408,
+    "current_price": 176.31,
+    "pe_ratio": 6.321621,
+    "pb_ratio": 0.802434,
     "roe": 0.13762,
     "debt_to_equity": 31.936,
     "revenue": 14220844032,
@@ -16,6 +16,6 @@
     "eps": 27.89,
     "52_week_high": 225.0,
     "52_week_low": 147.5,
-    "dividend_yield": 1.92
+    "dividend_yield": 2.01
   }
 }

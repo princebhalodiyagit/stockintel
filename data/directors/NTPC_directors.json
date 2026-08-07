@@ -1,62 +1,41 @@
 {
   "ticker": "NTPC",
   "company": "NTPC Limited",
-  "collected_at": "2026-08-06 05:08:16",
+  "collected_at": "2026-08-07 04:32:00",
   "directors": [
     {
       "name": "Gurdeep  Singh",
       "role": "Chairman of the Board & MD",
       "age": 60,
       "year_born": 1965,
-      "total_pay": 17392486
+      "total_pay": 27451520
     },
     {
       "name": "Mr. Jaikumar  Srinivasan",
       "role": "CFO, Director of Finance & Director",
       "age": 59,
       "year_born": 1966,
-      "total_pay": 8829429
-    },
-    {
-      "name": "Mr. Ravindra  Kumar",
-      "role": "Director of Operations & Director",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 10563273
+      "total_pay": 34198128
     },
     {
       "name": "Mr. Anil Kumar Jadli",
       "role": "Director of HR & Director",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": 8211556
+      "total_pay": 11071036
     },
     {
       "name": "Mr. Kothandpani Shanmugha Sundaram",
       "role": "Director of Projects & Executive Director",
       "age": 58,
       "year_born": 1967,
-      "total_pay": 10498677
-    },
-    {
-      "name": "Mr. Shivam  Srivastava",
-      "role": "Fuel Director",
-      "age": 57,
-      "year_born": 1968,
-      "total_pay": 10204708
+      "total_pay": 11756192
     },
     {
       "name": "Ms. Ritu  Arora",
       "role": "GM, Company Secretary & Compliance Officer",
       "age": 49,
       "year_born": 1976,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Sandeep  Naik",
-      "role": "Executive Director",
-      "age": "N/A",
-      "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
@@ -68,6 +47,27 @@
     },
     {
       "name": "Mr. Balaji Bhagwatrao Narare",
+      "role": "Executive Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vijay  Chand",
+      "role": "Executive Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anil  Shrivastava",
+      "role": "Executive Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kariveda Narasimha Reddy",
       "role": "Executive Director",
       "age": "N/A",
       "year_born": "N/A",

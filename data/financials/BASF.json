@@ -1,21 +1,21 @@
 {
   "ticker": "BASF",
-  "collected_at": "2026-08-06 04:46:54",
+  "collected_at": "2026-08-07 04:13:33",
   "company_info": {
     "name": "BASF India Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals",
-    "market_cap": 178566234112,
-    "current_price": 4125.3,
-    "pe_ratio": 42.833557,
-    "pb_ratio": 4.512144,
-    "roe": 0.10965,
+    "market_cap": 177626955776,
+    "current_price": 4103.6,
+    "pe_ratio": 28.101076,
+    "pb_ratio": 4.4884095,
+    "roe": "N/A",
     "debt_to_equity": 3.35,
-    "revenue": 149440004096,
-    "net_income": 4162299904,
-    "eps": 96.31,
+    "revenue": 160269402112,
+    "net_income": 6173100032,
+    "eps": 146.03,
     "52_week_high": 4829.9,
     "52_week_low": 3122.2,
-    "dividend_yield": 0.67
+    "dividend_yield": 0.62
   }
 }

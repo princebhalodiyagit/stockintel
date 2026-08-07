@@ -1,15 +1,8 @@
 {
   "ticker": "SPANDANA",
   "company": "Spandana Sphoorty Financial Limited",
-  "collected_at": "2026-08-06 05:16:29",
+  "collected_at": "2026-08-07 04:39:09",
   "directors": [
-    {
-      "name": "Mr. Venkatesh  Krishnan",
-      "role": "MD & CEO",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 15000000
-    },
     {
       "name": "Mr. Ashish Kumar Damani",
       "role": "President & CFO",
@@ -67,10 +60,17 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Ajay  Ganotra",
-      "role": "Chief Business Officer of North",
+      "name": "Mr. A. Bhanu Prakash",
+      "role": "Vice President - CSR & Sustainability",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. G.  Parthasarathy",
+      "role": "Chief Risk Officer",
+      "age": 47,
+      "year_born": 1978,
       "total_pay": "N/A"
     }
   ]

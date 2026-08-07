@@ -1,18 +1,11 @@
 {
   "ticker": "CCCL",
   "company": "Consolidated Construction Consortium Limited",
-  "collected_at": "2026-08-06 04:49:02",
+  "collected_at": "2026-08-07 04:15:23",
   "directors": [
     {
       "name": "Mr. Ramaswami  Sarabeswar B.E, M.B.A.",
       "role": "Executive Chairman",
-      "age": 71,
-      "year_born": 1954,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Subramoney  Sivaramakrishnan",
-      "role": "MD & Vice Chairman",
       "age": 71,
       "year_born": 1954,
       "total_pay": "N/A"
@@ -30,20 +23,6 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. S. Kaushik Ram",
-      "role": "President of Business Development & Whole Time Director",
-      "age": 43,
-      "year_born": 1982,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ms. Kameswari  Subramanian",
-      "role": "MD, CEO & Director",
-      "age": 69,
-      "year_born": 1956,
-      "total_pay": 200000
     },
     {
       "name": "Mr. G.  Viswanathan",
@@ -71,6 +50,13 @@
       "role": "Sector Head of Operations",
       "age": 50,
       "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "J. Charles Selvakumar",
+      "role": "Sector Head of Operations",
+      "age": 60,
+      "year_born": 1965,
       "total_pay": "N/A"
     }
   ]

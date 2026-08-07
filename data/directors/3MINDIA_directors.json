@@ -1,49 +1,14 @@
 {
   "ticker": "3MINDIA",
   "company": "3M India Limited",
-  "collected_at": "2026-08-06 04:42:04",
+  "collected_at": "2026-08-07 04:09:18",
   "directors": [
-    {
-      "name": "Ms. Priya  Menon",
-      "role": "General Counsel",
-      "age": 52,
-      "year_born": 1973,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Aseem  Joshi",
-      "role": "Managing Director",
-      "age": 48,
-      "year_born": 1977,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Nikhil  Arora",
-      "role": "Chief Financial Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
     {
       "name": "Mr. Pratap Rudra Bhuvanagiri",
       "role": "Company Secretary & Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 8900000
-    },
-    {
-      "name": "Ms. Tushara  Nair",
-      "role": "General Manager of Marketing, Transportation & Electronics Business",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Jayanand Vasudeorao Kaginalkar",
-      "role": "Executive Whole-time Director",
-      "age": 60,
-      "year_born": 1965,
-      "total_pay": 32493469
     },
     {
       "name": "Mr. Ashutosh  Shirodkar",
@@ -71,6 +36,13 @@
       "role": "Divisional Sales Manager of Automotive After Market Division",
       "age": 47,
       "year_born": 1978,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Radhika  Anne",
+      "role": "Divisional Sales Manager of Medical Solutions Division",
+      "age": 50,
+      "year_born": 1975,
       "total_pay": "N/A"
     }
   ]

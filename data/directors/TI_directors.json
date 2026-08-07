@@ -1,7 +1,7 @@
 {
   "ticker": "TI",
   "company": "Tilaknagar Industries Limited",
-  "collected_at": "2026-08-06 05:19:23",
+  "collected_at": "2026-08-07 04:41:40",
   "directors": [
     {
       "name": "Mr. Amit A. Dahanukar B.E (Elec.), M.S(USA)",
@@ -32,20 +32,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Ms. Hemangi Joshi Naik",
-      "role": "General Manager of Legal",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Minuzeer Yazdi Bamboat",
-      "role": "Company Secretary & Compliance Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Ahmed  Rahimtoola",
       "role": "Chief Marketing Officer",
       "age": "N/A",
@@ -71,6 +57,20 @@
       "role": "Senior Vice President of Corporate Affairs",
       "age": 60,
       "year_born": 1965,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ameya  Deshpande",
+      "role": "Chief Strategy Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Nishchal  Dubey",
+      "role": "President of Institutional Sales",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]
