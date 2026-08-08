@@ -1,21 +1,21 @@
 {
   "ticker": "BSE",
-  "collected_at": "2026-08-07 04:14:55",
+  "collected_at": "2026-08-08 03:15:22",
   "company_info": {
     "name": "BSE Limited",
     "sector": "Financial Services",
     "industry": "Financial Data & Stock Exchanges",
-    "market_cap": 1412110876672,
-    "current_price": 3478.0,
-    "pe_ratio": 59.193054,
-    "pb_ratio": 17.90708,
-    "roe": 0.36003,
+    "market_cap": 1404028846080,
+    "current_price": 3457.1,
+    "pe_ratio": 56.822815,
+    "pb_ratio": 17.804592,
+    "roe": "N/A",
     "debt_to_equity": 0.0,
-    "revenue": 51242500096,
-    "net_income": 24850300928,
-    "eps": 58.74,
+    "revenue": 57884401664,
+    "net_income": 28315899904,
+    "eps": 60.84,
     "52_week_high": 4446.8,
     "52_week_low": 2021.5,
-    "dividend_yield": 0.28
+    "dividend_yield": 0.29
   }
 }

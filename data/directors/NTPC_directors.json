@@ -1,7 +1,7 @@
 {
   "ticker": "NTPC",
   "company": "NTPC Limited",
-  "collected_at": "2026-08-07 04:32:00",
+  "collected_at": "2026-08-08 03:36:52",
   "directors": [
     {
       "name": "Gurdeep  Singh",
@@ -23,13 +23,6 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 11071036
-    },
-    {
-      "name": "Mr. Kothandpani Shanmugha Sundaram",
-      "role": "Director of Projects & Executive Director",
-      "age": 58,
-      "year_born": 1967,
-      "total_pay": 11756192
     },
     {
       "name": "Ms. Ritu  Arora",
@@ -68,6 +61,13 @@
     },
     {
       "name": "Mr. Kariveda Narasimha Reddy",
+      "role": "Executive Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Abhay Kumar Srivastava",
       "role": "Executive Director",
       "age": "N/A",
       "year_born": "N/A",

@@ -1,21 +1,21 @@
 {
   "ticker": "SINCLAIR",
-  "collected_at": "2026-08-07 04:38:33",
+  "collected_at": "2026-08-08 03:45:03",
   "company_info": {
     "name": "Sinclairs Hotels Limited",
     "sector": "Consumer Cyclical",
     "industry": "Lodging",
-    "market_cap": 3983414528,
-    "current_price": 77.71,
-    "pe_ratio": 42.6978,
-    "pb_ratio": 3.4464252,
-    "roe": 0.07633,
+    "market_cap": 3948557824,
+    "current_price": 77.03,
+    "pe_ratio": 43.519775,
+    "pb_ratio": 3.4162674,
+    "roe": "N/A",
     "debt_to_equity": 28.381,
-    "revenue": 592390976,
-    "net_income": 90544000,
-    "eps": 1.82,
+    "revenue": 644540992,
+    "net_income": 107795000,
+    "eps": 1.77,
     "52_week_high": 114.75,
     "52_week_low": 68.82,
-    "dividend_yield": 1.08
+    "dividend_yield": 1.04
   }
 }

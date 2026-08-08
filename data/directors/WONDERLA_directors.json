@@ -1,7 +1,7 @@
 {
   "ticker": "WONDERLA",
   "company": "Wonderla Holidays Limited",
-  "collected_at": "2026-08-07 04:44:37",
+  "collected_at": "2026-08-08 03:52:34",
   "directors": [
     {
       "name": "Mr. Arun Kochouseph Chittilappilly",
@@ -53,13 +53,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Kalpataru  Nayak",
-      "role": "Bhubaneswar Park Head",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Nithish  K U",
       "role": "Head of Wonderla Kochi",
       "age": "N/A",
@@ -71,6 +64,13 @@
       "role": "Talent Head",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. M. A. Ravikumar",
+      "role": "General Manager of Administration",
+      "age": 59,
+      "year_born": 1966,
       "total_pay": "N/A"
     }
   ]

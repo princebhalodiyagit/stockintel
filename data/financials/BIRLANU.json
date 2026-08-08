@@ -1,21 +1,21 @@
 {
   "ticker": "BIRLANU",
-  "collected_at": "2026-08-07 04:14:21",
+  "collected_at": "2026-08-08 03:14:41",
   "company_info": {
     "name": "BirlaNu Limited",
     "sector": "Industrials",
     "industry": "Building Products & Equipment",
-    "market_cap": 11680852992,
-    "current_price": 1549.0,
+    "market_cap": "N/A",
+    "current_price": 1641.5,
     "pe_ratio": "N/A",
-    "pb_ratio": 1.0519682,
-    "roe": -0.10299,
+    "pb_ratio": 1.1147875,
+    "roe": "N/A",
     "debt_to_equity": 100.118,
-    "revenue": 37303967744,
-    "net_income": -1195612032,
-    "eps": -158.51,
+    "revenue": 38398369792,
+    "net_income": -1088412032,
+    "eps": -169.07,
     "52_week_high": 2086.9,
     "52_week_low": 1190.1,
-    "dividend_yield": 1.07
+    "dividend_yield": 0.97
   }
 }

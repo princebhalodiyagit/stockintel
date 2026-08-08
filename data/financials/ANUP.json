@@ -1,21 +1,21 @@
 {
   "ticker": "ANUP",
-  "collected_at": "2026-08-07 04:11:23",
+  "collected_at": "2026-08-08 03:11:01",
   "company_info": {
     "name": "The Anup Engineering Limited",
     "sector": "Industrials",
     "industry": "Specialty Industrial Machinery",
-    "market_cap": 38931152896,
-    "current_price": 1943.5,
-    "pe_ratio": 39.318226,
-    "pb_ratio": 5.6339703,
-    "roe": 0.16945,
+    "market_cap": 37979660288,
+    "current_price": 1896.0,
+    "pe_ratio": 36.231606,
+    "pb_ratio": 5.4962735,
+    "roe": "N/A",
     "debt_to_equity": 17.66,
-    "revenue": 8222877184,
-    "net_income": 1103923968,
-    "eps": 49.43,
+    "revenue": 7704905216,
+    "net_income": 847016000,
+    "eps": 52.33,
     "52_week_high": 2576.0,
     "52_week_low": 1422.3,
-    "dividend_yield": 0.54
+    "dividend_yield": 0.6
   }
 }

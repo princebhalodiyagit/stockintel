@@ -1,21 +1,21 @@
 {
   "ticker": "LICI",
-  "collected_at": "2026-08-07 04:27:54",
+  "collected_at": "2026-08-08 03:31:47",
   "company_info": {
     "name": "Life Insurance Corporation of India",
     "sector": "Financial Services",
     "industry": "Insurance - Life",
-    "market_cap": 2476552749056,
-    "current_price": 391.55,
-    "pe_ratio": 8.618753,
-    "pb_ratio": 2.8046186,
-    "roe": 0.40769002,
+    "market_cap": 4984098258944,
+    "current_price": 394.0,
+    "pe_ratio": 8.674593,
+    "pb_ratio": 2.8221679,
+    "roe": "N/A",
     "debt_to_equity": 0.431,
-    "revenue": 9810999246848,
-    "net_income": 620190105600,
-    "eps": 45.43,
+    "revenue": 9968073834496,
+    "net_income": 649223929856,
+    "eps": 45.42,
     "52_week_high": 468.475,
     "52_week_low": 360.75,
-    "dividend_yield": 2.54
+    "dividend_yield": 2.58
   }
 }

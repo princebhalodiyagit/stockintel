@@ -1,21 +1,21 @@
 {
   "ticker": "EMCURE",
-  "collected_at": "2026-08-07 04:18:47",
+  "collected_at": "2026-08-08 03:20:14",
   "company_info": {
     "name": "Emcure Pharmaceuticals Limited",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - Specialty & Generic",
-    "market_cap": 373366390784,
-    "current_price": 1968.4,
-    "pe_ratio": 40.821236,
-    "pb_ratio": 7.5381813,
-    "roe": 0.19573,
+    "market_cap": 375263199232,
+    "current_price": 1978.4,
+    "pe_ratio": 40.540985,
+    "pb_ratio": 7.5764775,
+    "roe": "N/A",
     "debt_to_equity": 30.567,
-    "revenue": 92035399680,
-    "net_income": 9243610112,
-    "eps": 48.22,
+    "revenue": 96818249728,
+    "net_income": 10113880064,
+    "eps": 48.8,
     "52_week_high": 2009.2,
     "52_week_low": 1260.0,
-    "dividend_yield": 0.15
+    "dividend_yield": 0.19
   }
 }

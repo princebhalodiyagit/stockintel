@@ -1,7 +1,7 @@
 {
   "ticker": "SOUTHBANK",
   "company": "The South Indian Bank Limited",
-  "collected_at": "2026-08-07 04:39:06",
+  "collected_at": "2026-08-08 03:45:45",
   "directors": [
     {
       "name": "Mr. Peruvemba Ramachandran Seshadri B.E.",
@@ -46,13 +46,6 @@
       "total_pay": 2217272
     },
     {
-      "name": "Mr. T. M. Mohan",
-      "role": "GM & Head of Legal",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Jimmy  Mathew A.C.M.A., A.C.S.",
       "role": "Senior GM, Head of HR & Company Secretary",
       "age": 48,
@@ -71,6 +64,13 @@
       "role": "Senior General Manager and Head of Banking Operations Group",
       "age": 54,
       "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Shibu K. Thomas",
+      "role": "GM & Head - IT Assurance",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

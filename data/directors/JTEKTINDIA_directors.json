@@ -1,21 +1,21 @@
 {
   "ticker": "JTEKTINDIA",
   "company": "Jtekt India Limited",
-  "collected_at": "2026-08-07 04:25:51",
+  "collected_at": "2026-08-08 03:29:13",
   "directors": [
     {
       "name": "Mr. Minoru  Sugisawa",
       "role": "MD & Chairman",
       "age": 53,
       "year_born": 1972,
-      "total_pay": 7460156
+      "total_pay": 8747281
     },
     {
       "name": "Mr. Rajiv  Chanana",
       "role": "Whole-time Director",
       "age": 58,
       "year_born": 1967,
-      "total_pay": 10576380
+      "total_pay": 11494380
     },
     {
       "name": "Mr. Shinji  Yamakawa",
@@ -53,13 +53,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Masaru  Takahashi",
-      "role": "Senior Vice President",
-      "age": 54,
-      "year_born": 1971,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Yasuki  Doi",
       "role": "Senior Vice President",
       "age": 45,
@@ -71,7 +64,14 @@
       "role": "Whole time Director",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": 1505160
+      "total_pay": 11341264
+    },
+    {
+      "name": "Mr. Takahiro  Yukimura",
+      "role": "Vice President",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": "N/A"
     }
   ]
 }

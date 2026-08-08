@@ -1,14 +1,14 @@
 {
   "ticker": "INDNIPPON",
-  "collected_at": "2026-08-07 04:24:00",
+  "collected_at": "2026-08-08 03:26:53",
   "company_info": {
     "name": "India Nippon Electricals Limited",
     "sector": "Consumer Cyclical",
     "industry": "Auto Parts",
-    "market_cap": 26424084480,
-    "current_price": 1168.1,
-    "pe_ratio": 23.790224,
-    "pb_ratio": 3.2172327,
+    "market_cap": 26376581120,
+    "current_price": 1166.0,
+    "pe_ratio": 23.747456,
+    "pb_ratio": 3.211449,
     "roe": 0.14508,
     "debt_to_equity": "N/A",
     "revenue": 10684800000,
@@ -16,6 +16,6 @@
     "eps": 49.1,
     "52_week_high": 1278.2,
     "52_week_low": 675.0,
-    "dividend_yield": 1.36
+    "dividend_yield": 1.34
   }
 }
