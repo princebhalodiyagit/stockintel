@@ -1,7 +1,7 @@
 {
   "ticker": "SHYAMMETL",
   "company": "Shyam Metalics and Energy Limited",
-  "collected_at": "2026-08-08 03:44:45",
+  "collected_at": "2026-08-09 03:48:21",
   "directors": [
     {
       "name": "Mr. Brij Bhushan Agarwal",
@@ -30,13 +30,6 @@
       "age": 54,
       "year_born": 1971,
       "total_pay": 5804452
-    },
-    {
-      "name": "Mr. Sheetij  Agarwal",
-      "role": "Whole-Time Director",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 6000000
     },
     {
       "name": "Suryakant Kahal Singh",
@@ -71,6 +64,13 @@
       "role": "General Manager of Commercial",
       "age": 42,
       "year_born": 1983,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Aneesh  Mishra",
+      "role": "Associate President",
+      "age": 45,
+      "year_born": 1980,
       "total_pay": "N/A"
     }
   ]

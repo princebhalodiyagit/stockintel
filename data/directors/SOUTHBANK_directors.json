@@ -1,7 +1,7 @@
 {
   "ticker": "SOUTHBANK",
   "company": "The South Indian Bank Limited",
-  "collected_at": "2026-08-08 03:45:45",
+  "collected_at": "2026-08-09 03:49:16",
   "directors": [
     {
       "name": "Mr. Peruvemba Ramachandran Seshadri B.E.",
@@ -16,13 +16,6 @@
       "age": 56,
       "year_born": 1969,
       "total_pay": 16229974
-    },
-    {
-      "name": "Mr. Vinod  Francis",
-      "role": "Senior GM & CFO",
-      "age": 45,
-      "year_born": 1980,
-      "total_pay": "N/A"
     },
     {
       "name": "Mr. Anto George T.",
@@ -44,34 +37,6 @@
       "age": 56,
       "year_born": 1969,
       "total_pay": 2217272
-    },
-    {
-      "name": "Mr. Jimmy  Mathew A.C.M.A., A.C.S.",
-      "role": "Senior GM, Head of HR & Company Secretary",
-      "age": 48,
-      "year_born": 1977,
-      "total_pay": 2170906
-    },
-    {
-      "name": "Mr. Nandakumar  G.",
-      "role": "Senior GM, Head of Internal Audit & Chief of Internal Vigilance",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. K.  Sivaraman",
-      "role": "Senior General Manager and Head of Banking Operations Group",
-      "age": 54,
-      "year_born": 1971,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Shibu K. Thomas",
-      "role": "GM & Head - IT Assurance",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
     }
   ]
 }

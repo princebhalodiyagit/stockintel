@@ -1,7 +1,7 @@
 {
   "ticker": "LMW",
   "company": "LMW Limited",
-  "collected_at": "2026-08-08 03:31:56",
+  "collected_at": "2026-08-09 03:36:44",
   "directors": [
     {
       "name": "Mr. Sanjay  Jayavarthanavelu MBA",
@@ -39,13 +39,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. K. Soundhar Rajhan",
-      "role": "Chief Strategy Officer",
-      "age": 77,
-      "year_born": 1948,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. S.  Rajasekaran",
       "role": "President of Textile Machinery Division",
       "age": 58,
@@ -71,6 +64,13 @@
       "role": "Senior Vice President of Foundry",
       "age": 67,
       "year_born": 1958,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Dhanalakshmi  Bangaruswamy",
+      "role": "Associate Vice President of Finance",
+      "age": 55,
+      "year_born": 1970,
       "total_pay": "N/A"
     }
   ]

@@ -1,6 +1,6 @@
 {
   "ticker": "PPAP",
-  "collected_at": "2026-08-08 03:39:24",
+  "collected_at": "2026-08-09 03:43:31",
   "company_info": {
     "name": "PPAP Automotive Limited",
     "sector": "Consumer Cyclical",
@@ -9,13 +9,13 @@
     "current_price": 321.35,
     "pe_ratio": 10.536066,
     "pb_ratio": 1.3297223,
-    "roe": 0.13734001,
+    "roe": "N/A",
     "debt_to_equity": 60.801,
-    "revenue": 5670521856,
-    "net_income": 431939008,
+    "revenue": 6085228032,
+    "net_income": 463307008,
     "eps": 30.5,
     "52_week_high": 379.5,
     "52_week_low": 176.0,
-    "dividend_yield": 0.8
+    "dividend_yield": 0.78
   }
 }
