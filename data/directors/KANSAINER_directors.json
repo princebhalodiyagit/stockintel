@@ -1,15 +1,8 @@
 {
   "ticker": "KANSAINER",
   "company": "Kansai Nerolac Paints Limited",
-  "collected_at": "2026-08-09 03:34:42",
+  "collected_at": "2026-08-10 03:44:22",
   "directors": [
-    {
-      "name": "Mr. Pravin Digambar Chaudhari B.E., MMS",
-      "role": "MD & Director",
-      "age": 57,
-      "year_born": 1968,
-      "total_pay": 29610000
-    },
     {
       "name": "Mr. Yash  Ahuja",
       "role": "CFO & Chief Risk Officer",
@@ -69,6 +62,13 @@
     {
       "name": "Mr. Debashish  Vanikar",
       "role": "CEO of Nerofix Pvt. Ltd & Head of Construction Chemicals",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Amrita  Rekhi",
+      "role": "Chief Business Officer of Industrial",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

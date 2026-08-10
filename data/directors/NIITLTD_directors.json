@@ -1,7 +1,7 @@
 {
   "ticker": "NIITLTD",
   "company": "NIIT Limited",
-  "collected_at": "2026-08-09 03:40:38",
+  "collected_at": "2026-08-10 03:49:35",
   "directors": [
     {
       "name": "Mr. Rajendra Singh Pawar B. Tech",
@@ -39,13 +39,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Udai  Singh BE, ME",
-      "role": "President of Generative AI",
-      "age": 57,
-      "year_born": 1968,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Pradeep  Narayanan",
       "role": "President of NIIT Digital & Growth Initiatives",
       "age": 66,
@@ -71,6 +64,13 @@
       "role": "Senior Vice President",
       "age": 52,
       "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Harsh  Kundra",
+      "role": "Head of Technology",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

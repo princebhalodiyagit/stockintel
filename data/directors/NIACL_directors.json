@@ -1,7 +1,7 @@
 {
   "ticker": "NIACL",
   "company": "The New India Assurance Company Limited",
-  "collected_at": "2026-08-09 03:40:35",
+  "collected_at": "2026-08-10 03:49:32",
   "directors": [
     {
       "name": "Mr. James  Day",
@@ -39,13 +39,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Ms. Girija  Subramanian",
-      "role": "MD & Chairman",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Vimal Kumar Jain",
       "role": "CFO & Deputy GM",
       "age": "N/A",
@@ -71,6 +64,13 @@
       "role": "GM & Chief Compliance Officer",
       "age": 54,
       "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Prashant Kumar Biswas",
+      "role": "GM & Chief Marketing Officer",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]
