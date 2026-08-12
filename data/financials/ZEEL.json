@@ -1,21 +1,21 @@
 {
   "ticker": "ZEEL",
-  "collected_at": "2026-08-11 03:53:49",
+  "collected_at": "2026-08-12 04:12:16",
   "company_info": {
     "name": "Zee Entertainment Enterprises Limited",
     "sector": "Communication Services",
     "industry": "Broadcasting",
-    "market_cap": 88137261056,
-    "current_price": 91.76,
-    "pe_ratio": 32.53901,
-    "pb_ratio": 0.7417108,
-    "roe": 0.02332,
+    "market_cap": 88415813632,
+    "current_price": 92.05,
+    "pe_ratio": 32.641846,
+    "pb_ratio": 0.74405485,
+    "roe": "N/A",
     "debt_to_equity": 2.26,
-    "revenue": 80989003776,
-    "net_income": 2731000064,
+    "revenue": 81876000768,
+    "net_income": 2056999936,
     "eps": 2.82,
     "52_week_high": 124.14,
     "52_week_low": 68.0,
-    "dividend_yield": 2.58
+    "dividend_yield": 2.57
   }
 }

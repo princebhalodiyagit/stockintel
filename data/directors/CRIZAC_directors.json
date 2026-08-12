@@ -1,15 +1,8 @@
 {
   "ticker": "CRIZAC",
   "company": "Crizac Limited",
-  "collected_at": "2026-08-11 03:25:30",
+  "collected_at": "2026-08-12 03:44:31",
   "directors": [
-    {
-      "name": "Dr. Vikash  Agarwal",
-      "role": "Chairman & MD",
-      "age": 48,
-      "year_born": 1977,
-      "total_pay": "N/A"
-    },
     {
       "name": "Mr. Manish  Agarwal",
       "role": "CFO & Whole Time Director",
@@ -36,13 +29,6 @@
       "role": "Chief Product & Marketing Officer",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Christopher Flood Nagle",
-      "role": "Chief Executive Officer of Crizac Ltd",
-      "age": 31,
-      "year_born": 1994,
       "total_pay": "N/A"
     }
   ]

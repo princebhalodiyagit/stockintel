@@ -1,14 +1,14 @@
 {
   "ticker": "VMART",
-  "collected_at": "2026-08-11 03:52:53",
+  "collected_at": "2026-08-12 04:11:20",
   "company_info": {
     "name": "V-Mart Retail Limited",
     "sector": "Consumer Cyclical",
     "industry": "Department Stores",
-    "market_cap": 64503812096,
-    "current_price": 810.6,
-    "pe_ratio": 46.936882,
-    "pb_ratio": 6.7720428,
+    "market_cap": 64436174848,
+    "current_price": 809.75,
+    "pe_ratio": 46.887665,
+    "pb_ratio": 6.7649417,
     "roe": "N/A",
     "debt_to_equity": 100.682,
     "revenue": 39929499648,
@@ -16,6 +16,6 @@
     "eps": 17.27,
     "52_week_high": 888.0,
     "52_week_low": 457.9,
-    "dividend_yield": 0.13
+    "dividend_yield": 0.12
   }
 }

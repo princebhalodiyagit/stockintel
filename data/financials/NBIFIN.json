@@ -1,14 +1,14 @@
 {
   "ticker": "NBIFIN",
-  "collected_at": "2026-08-11 03:39:52",
+  "collected_at": "2026-08-12 03:58:38",
   "company_info": {
     "name": "N.B.I. Industrial Finance Company Limited",
     "sector": "Financial Services",
     "industry": "Capital Markets",
-    "market_cap": 6361496064,
-    "current_price": 2152.9,
-    "pe_ratio": 51.283943,
-    "pb_ratio": 0.24111623,
+    "market_cap": 6432708608,
+    "current_price": 2177.0,
+    "pe_ratio": 51.85803,
+    "pb_ratio": 0.24381533,
     "roe": 0.00418,
     "debt_to_equity": "N/A",
     "revenue": 198575008,
@@ -16,6 +16,6 @@
     "eps": 41.98,
     "52_week_high": 2991.0,
     "52_week_low": 1539.0,
-    "dividend_yield": 0.04
+    "dividend_yield": 0.03
   }
 }

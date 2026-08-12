@@ -1,14 +1,14 @@
 {
   "ticker": "MANINFRA",
-  "collected_at": "2026-08-11 03:37:44",
+  "collected_at": "2026-08-12 03:56:33",
   "company_info": {
     "name": "Man Infraconstruction Limited",
     "sector": "Industrials",
     "industry": "Engineering & Construction",
-    "market_cap": 45872660480,
-    "current_price": 113.64,
-    "pe_ratio": 22.4142,
-    "pb_ratio": 2.0240088,
+    "market_cap": 45521469440,
+    "current_price": 112.77,
+    "pe_ratio": 22.242601,
+    "pb_ratio": 2.0085135,
     "roe": 0.10152,
     "debt_to_equity": 2.766,
     "revenue": 6304613888,
@@ -16,6 +16,6 @@
     "eps": 5.07,
     "52_week_high": 169.6,
     "52_week_low": 77.12,
-    "dividend_yield": 1.42
+    "dividend_yield": 1.43
   }
 }
