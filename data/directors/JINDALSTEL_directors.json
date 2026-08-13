@@ -1,7 +1,7 @@
 {
   "ticker": "JINDALSTEL",
   "company": "JINDAL STEEL LIMITED",
-  "collected_at": "2026-08-12 03:53:09",
+  "collected_at": "2026-08-13 03:56:13",
   "directors": [
     {
       "name": "Mr. Vivek Kumar Mittal",
@@ -15,6 +15,62 @@
       "role": "President",
       "age": 50,
       "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anirban  Basu",
+      "role": "President and Head of Supply Chain & Logistics",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Dilip Kumar Sinha",
+      "role": "President",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vishal  Chandak B.Com., C.A., M.B.A.",
+      "role": "VP & Head of Investor Relations",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Damodar  Mittal",
+      "role": "Whole-Time Director",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": 21548000
+    },
+    {
+      "name": "Mr. Gaurav  Khurana",
+      "role": "Executive Vice President",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Indradyumna  Datta",
+      "role": "Executive VP & Head of Digital",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ashok  Mahunta",
+      "role": "Executive Vice President",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Amit  Khokhar",
+      "role": "Executive Vice President",
+      "age": 56,
+      "year_born": 1969,
       "total_pay": "N/A"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "ticker": "SURYALA",
   "company": "Suryalata Spinning Mills Limited",
-  "collected_at": "2026-08-12 04:07:51",
+  "collected_at": "2026-08-13 04:11:05",
   "directors": [
     {
       "name": "Mr. Mahender Kumar Agarwal",
@@ -29,6 +29,27 @@
       "role": "Company Secretary & Compliance Officer",
       "age": 62,
       "year_born": 1963,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Madhavi  Agarwal",
+      "role": "Whole-Time Director",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": 5253208
+    },
+    {
+      "name": "Mr. D. V. Ramana Reddy",
+      "role": "General Manager of HR and P&A",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kaushlendra Kumar Sinha",
+      "role": "Chief General Manager",
+      "age": 69,
+      "year_born": 1956,
       "total_pay": "N/A"
     }
   ]

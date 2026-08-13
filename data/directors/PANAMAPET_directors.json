@@ -1,7 +1,7 @@
 {
   "ticker": "PANAMAPET",
   "company": "Panama Petrochem Limited",
-  "collected_at": "2026-08-12 04:00:29",
+  "collected_at": "2026-08-13 04:03:36",
   "directors": [
     {
       "name": "Mr. Arif A. Rayani",
@@ -64,6 +64,13 @@
       "role": "General Manager of Sales",
       "age": 68,
       "year_born": 1957,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Nilima Shahnawaz Kheraj",
+      "role": "Chief HR Officer",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

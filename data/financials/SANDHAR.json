@@ -1,21 +1,21 @@
 {
   "ticker": "SANDHAR",
-  "collected_at": "2026-08-12 04:04:26",
+  "collected_at": "2026-08-13 04:07:36",
   "company_info": {
     "name": "Sandhar Technologies Limited",
     "sector": "Consumer Cyclical",
     "industry": "Auto Parts",
-    "market_cap": 38297853952,
-    "current_price": 634.75,
-    "pe_ratio": 19.217379,
-    "pb_ratio": 2.8668664,
-    "roe": 0.1607,
+    "market_cap": 38125899776,
+    "current_price": 631.9,
+    "pe_ratio": 19.131094,
+    "pb_ratio": 2.8539944,
+    "roe": "N/A",
     "debt_to_equity": 86.084,
-    "revenue": 48520859648,
-    "net_income": 1986593024,
+    "revenue": 51365961728,
+    "net_income": 2079293056,
     "eps": 33.03,
     "52_week_high": 763.2,
     "52_week_low": 405.2,
-    "dividend_yield": 0.54
+    "dividend_yield": 0.64
   }
 }

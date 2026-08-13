@@ -1,7 +1,7 @@
 {
   "ticker": "AUROPHARMA",
   "company": "Aurobindo Pharma Limited",
-  "collected_at": "2026-08-12 03:40:33",
+  "collected_at": "2026-08-13 03:43:34",
   "directors": [
     {
       "name": "Mr. Kambam Nithyananda Reddy",
@@ -9,6 +9,13 @@
       "age": 67,
       "year_born": 1958,
       "total_pay": 54690000
+    },
+    {
+      "name": "Dr. Mettu Madan Mohan Reddy",
+      "role": "Whole-Time Director",
+      "age": 65,
+      "year_born": 1960,
+      "total_pay": 69780000
     },
     {
       "name": "Dr. Makkapati  Satakarni B.E., M.B.A., Ph.D.",
@@ -62,13 +69,6 @@
     {
       "name": "Dr. K. Suresh Kumar",
       "role": "Associate President of HR",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. G. P. Prasad",
-      "role": "Senior Vice President of Global Finance & Operations",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

@@ -1,7 +1,7 @@
 {
   "ticker": "SURAJLTD",
   "company": "Suraj Limited",
-  "collected_at": "2026-08-12 04:07:48",
+  "collected_at": "2026-08-13 04:11:01",
   "directors": [
     {
       "name": "Mr. Ashokkumar Tarachand Shah",
@@ -23,6 +23,13 @@
       "age": 54,
       "year_born": 1971,
       "total_pay": 6720000
+    },
+    {
+      "name": "Ms. Rashmi Krunal Lakhani",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     },
     {
       "name": "Ms. Shilpa Mangaldas Patel",

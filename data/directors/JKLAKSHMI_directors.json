@@ -1,7 +1,7 @@
 {
   "ticker": "JKLAKSHMI",
   "company": "JK Lakshmi Cement Limited",
-  "collected_at": "2026-08-12 03:53:18",
+  "collected_at": "2026-08-13 03:56:20",
   "directors": [
     {
       "name": "Ms. Vinita  Singhania",
@@ -51,6 +51,27 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Aniruddha  Sinha",
+      "role": "Head of Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Tapomoy  Deb",
+      "role": "Sr. Vice President of Human Resources",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Brijesh Kumar Daga",
+      "role": "Senior Vice President",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 12200000
     }
   ]
 }

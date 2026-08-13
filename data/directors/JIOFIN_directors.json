@@ -1,7 +1,7 @@
 {
   "ticker": "JIOFIN",
   "company": "Jio Financial Services Limited",
-  "collected_at": "2026-08-12 03:53:13",
+  "collected_at": "2026-08-13 03:56:16",
   "directors": [
     {
       "name": "Mr. Hitesh Kumar Sethia",
@@ -9,6 +9,13 @@
       "age": 46,
       "year_born": 1979,
       "total_pay": 104050000
+    },
+    {
+      "name": "Ms. Mohana  Venkatachalam",
+      "role": "Group Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 18200000
     },
     {
       "name": "Ms. Annapoorna  Venkataramanan",
@@ -34,6 +41,34 @@
     {
       "name": "Mr. Dipak  Daga",
       "role": "Head of Strategy & Chief Investor Relations Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sudheer Reddy Govula",
+      "role": "Group Chief Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. R.  Shyam Sunder",
+      "role": "Group General Counsel",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manish Kumar Singh",
+      "role": "Group Chief Human Resources Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Rupali Adhikari Sawant",
+      "role": "Group Head of Internal Audit",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

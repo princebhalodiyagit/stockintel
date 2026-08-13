@@ -1,7 +1,7 @@
 {
   "ticker": "HEIDELBERG",
   "company": "HeidelbergCement India Limited",
-  "collected_at": "2026-08-12 03:50:16",
+  "collected_at": "2026-08-13 03:53:19",
   "directors": [
     {
       "name": "Mr. Joydeep  Mukherjee",
@@ -50,6 +50,13 @@
       "role": "Head of Works-Damoh",
       "age": 52,
       "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Gulshan  Bajaj",
+      "role": "Head of Internal Audit",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

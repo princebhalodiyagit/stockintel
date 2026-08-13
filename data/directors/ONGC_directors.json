@@ -1,7 +1,7 @@
 {
   "ticker": "ONGC",
   "company": "Oil & Natural Gas Corporation Limited",
-  "collected_at": "2026-08-12 04:00:00",
+  "collected_at": "2026-08-13 04:03:07",
   "directors": [
     {
       "name": "Mr. Arun Kumar Singh B.Sc., B.Sc. (Engg.)",
@@ -16,6 +16,62 @@
       "age": 58,
       "year_born": 1967,
       "total_pay": 10650000
+    },
+    {
+      "name": "Mr. Shashi Bhushan Singh",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 2360000
+    },
+    {
+      "name": "Mr. Manish  Patil",
+      "role": "Director of Human Resources & Executive Director",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": 10840000
+    },
+    {
+      "name": "Mr. Om Prakash Sinha",
+      "role": "Director of Exploration & Director",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": 7630000
+    },
+    {
+      "name": "Mr. Anupam  Agarwal",
+      "role": "CFO & Director",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. S.  Dhandapani",
+      "role": "Chief of Corporate Finance and Group General Manager",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Lakhi Chand Sah",
+      "role": "Chief Engineer of Production",
+      "age": 72,
+      "year_born": 1953,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kamal Kumar Sharma",
+      "role": "Chief Manager of MM",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sunil  Jain",
+      "role": "Chief Engineer of Drilling",
+      "age": 67,
+      "year_born": 1958,
+      "total_pay": "N/A"
     }
   ]
 }

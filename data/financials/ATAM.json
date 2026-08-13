@@ -1,14 +1,14 @@
 {
   "ticker": "ATAM",
-  "collected_at": "2026-08-12 03:40:20",
+  "collected_at": "2026-08-13 03:43:23",
   "company_info": {
     "name": "Atam Valves Limited",
     "sector": "Industrials",
     "industry": "Specialty Industrial Machinery",
-    "market_cap": 725493312,
-    "current_price": 63.29,
-    "pe_ratio": 29.995262,
-    "pb_ratio": 1.8992318,
+    "market_cap": 743719424,
+    "current_price": 64.88,
+    "pe_ratio": 30.748816,
+    "pb_ratio": 1.946945,
     "roe": 0.06482,
     "debt_to_equity": 39.253,
     "revenue": 472928992,
@@ -16,6 +16,6 @@
     "eps": 2.11,
     "52_week_high": 111.0,
     "52_week_low": 48.5,
-    "dividend_yield": 1.31
+    "dividend_yield": 1.34
   }
 }

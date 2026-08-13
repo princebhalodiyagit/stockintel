@@ -1,7 +1,7 @@
 {
   "ticker": "HGINFRA",
   "company": "H.G. Infra Engineering Limited",
-  "collected_at": "2026-08-12 03:50:25",
+  "collected_at": "2026-08-13 03:53:28",
   "directors": [
     {
       "name": "Mr. Harendra  Singh",
@@ -25,6 +25,13 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. Vijendra Singh Choudhary",
+      "role": "Whole-Time Director",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": 23000000
+    },
+    {
       "name": "Mr. Devendra Bhushan Gupta",
       "role": "Whole-Time Director",
       "age": 65,
@@ -36,6 +43,13 @@
       "role": "Chief Financial Officer",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sanjay  Bafna",
+      "role": "Senior Vice President- Finance and Accounts",
+      "age": 56,
+      "year_born": 1969,
       "total_pay": "N/A"
     },
     {
@@ -57,20 +71,6 @@
       "role": "Project Head & Senior GM of Civil",
       "age": 53,
       "year_born": 1972,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Vinod Kumar Giri",
-      "role": "Senior Vice President of Operations",
-      "age": 58,
-      "year_born": 1967,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Jay Kumar Sah",
-      "role": "Chief General Manager",
-      "age": 49,
-      "year_born": 1976,
       "total_pay": "N/A"
     }
   ]

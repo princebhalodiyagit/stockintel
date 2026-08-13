@@ -1,7 +1,7 @@
 {
   "ticker": "REMSONSIND",
   "company": "Remsons Industries Limited",
-  "collected_at": "2026-08-12 04:03:08",
+  "collected_at": "2026-08-13 04:06:16",
   "directors": [
     {
       "name": "Mr. Krishna R. Kejriwal",
@@ -9,6 +9,41 @@
       "age": 73,
       "year_born": 1952,
       "total_pay": 9558000
+    },
+    {
+      "name": "Mr. Rahul Krishna Kejriwal",
+      "role": "CEO & Whole-Time Director",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": 5914000
+    },
+    {
+      "name": "Mr. Debendra  Panda",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rohit Hasmukhbhai Darji",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Chand Krishna Kejriwal",
+      "role": "Whole Time Director",
+      "age": 69,
+      "year_born": 1956,
+      "total_pay": 4505000
+    },
+    {
+      "name": "Mr. Amit  Srivastava",
+      "role": "Advisor",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "ticker": "GREENLAM",
   "company": "Greenlam Industries Limited",
-  "collected_at": "2026-08-12 03:49:17",
+  "collected_at": "2026-08-13 03:52:21",
   "directors": [
     {
       "name": "Mr. Saurabh  Mittal B.Com",
@@ -64,6 +64,13 @@
       "role": "Vice President of Engineered Doors & Frames of Operations",
       "age": 57,
       "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Sunil Kumar Khedwal",
+      "role": "General Manager of Finance & Accounts",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "ticker": "KSCL",
   "company": "Kaveri Seed Company Limited",
-  "collected_at": "2026-08-12 03:55:09",
+  "collected_at": "2026-08-13 03:58:12",
   "directors": [
     {
       "name": "Mr. Gundavaram Venkata Bhaskar Rao",
@@ -16,6 +16,62 @@
       "age": 72,
       "year_born": 1953,
       "total_pay": 45021880
+    },
+    {
+      "name": "Ms. Sreelatha  Vishnubhotla",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Chennameneni  Vamsheedhar",
+      "role": "Whole Time Director",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": 22227989
+    },
+    {
+      "name": "Dr. Gundavaram  Pawan",
+      "role": "Whole-Time Director",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": 16073718
+    },
+    {
+      "name": "Mr. Chennameneni Mithun Chand",
+      "role": "Whole Time Director",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": 15322961
+    },
+    {
+      "name": "Mr. Satish Jagannath Patil",
+      "role": "Chief Operating Officer",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Hari Singh Chauhan",
+      "role": "President of Sales & Marketing",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pindi Malla Reddy",
+      "role": "Head of Human Resources",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. N. P. Sharma",
+      "role": "Head of Research & Development",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

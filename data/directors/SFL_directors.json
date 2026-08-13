@@ -1,7 +1,7 @@
 {
   "ticker": "SFL",
   "company": "Sheela Foam Limited",
-  "collected_at": "2026-08-12 04:05:09",
+  "collected_at": "2026-08-13 04:08:18",
   "directors": [
     {
       "name": "Mr. Rahul  Gautam",
@@ -64,6 +64,13 @@
       "role": "Chief Sustainability Officer",
       "age": 55,
       "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Md. Iquebal Ahmad",
+      "role": "Compliance Officer & Company Secretary",
+      "age": 50,
+      "year_born": 1975,
       "total_pay": "N/A"
     }
   ]

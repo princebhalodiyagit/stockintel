@@ -1,6 +1,77 @@
 {
   "ticker": "CONCOR",
   "company": "Container Corporation of India Limited",
-  "collected_at": "2026-08-12 03:44:12",
-  "directors": []
+  "collected_at": "2026-08-13 03:47:13",
+  "directors": [
+    {
+      "name": "Mr. Ajit Kumar Panda",
+      "role": "Chairman & MD",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": 7166000
+    },
+    {
+      "name": "Mr. Vijoy Kumar Singh",
+      "role": "Director of International Marketing & Operations, Director of Projects & Services(A.C.) and Director",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": 622000
+    },
+    {
+      "name": "Mr. Vivek  Gupta",
+      "role": "Director of Finance, CFO & Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Harish  Chandra",
+      "role": "Principal Executive Director of Finance, Compliance Officer & Company Secretary",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 10300000
+    },
+    {
+      "name": "Mr. Sharad  Verma",
+      "role": "Principal Executive Director (Area Head- I)",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Shailendra  Singh",
+      "role": "Chief Technical Examiner",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Amit  Misra",
+      "role": "Chief Vigilance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Harbrinder Singh Bajwa",
+      "role": "Director & Director of Domestic Division (Additional Charge)",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Swayambhu  Arya",
+      "role": "Group General Manager of P&S",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Shankar  Mazumdar",
+      "role": "Principal Executive Director (Law)",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": "N/A"
+    }
+  ]
 }

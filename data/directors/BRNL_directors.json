@@ -1,7 +1,7 @@
 {
   "ticker": "BRNL",
   "company": "Bharat Road Network Limited",
-  "collected_at": "2026-08-12 03:42:47",
+  "collected_at": "2026-08-13 03:45:49",
   "directors": [
     {
       "name": "Ms. Manisha  Chandalia",
@@ -18,13 +18,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Bajrang Kumar Choudhary",
-      "role": "Managing Director",
-      "age": 57,
-      "year_born": 1968,
-      "total_pay": 12438140
-    },
-    {
       "name": "Mr. Anirup  Sen",
       "role": "Chief Executive Officer",
       "age": "N/A",
@@ -36,6 +29,27 @@
       "role": "Senior Executive",
       "age": 41,
       "year_born": 1984,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Amitabh Kumar Jha",
+      "role": "Managing Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Rahul  Dhandhania",
+      "role": "Vice President",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Praveen Kumar Jain",
+      "role": "Vice President",
+      "age": 57,
+      "year_born": 1968,
       "total_pay": "N/A"
     }
   ]

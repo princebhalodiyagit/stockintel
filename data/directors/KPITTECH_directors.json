@@ -1,7 +1,7 @@
 {
   "ticker": "KPITTECH",
   "company": "KPIT Technologies Limited",
-  "collected_at": "2026-08-12 03:54:53",
+  "collected_at": "2026-08-13 03:57:56",
   "directors": [
     {
       "name": "Mr. Kishor Parshuram Patil C.A., Esq.",
@@ -36,6 +36,41 @@
       "role": "Head of Delivery & Operations and Member of Executive Board",
       "age": 56,
       "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Chinmay Shashishekhar Pandit",
+      "role": "President of Americas, Chief Risk Officer, Member of Exec Board & Whole-Time Director",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": 56970000
+    },
+    {
+      "name": "Mr. Sunil S. Phansalkar",
+      "role": "Chief Investor Relation Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ashish  Malhotra",
+      "role": "General Counsel & Company Secretary",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": 12980000
+    },
+    {
+      "name": "Pradeep  Sawant",
+      "role": "Vice President",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Samir A. Kulkarni",
+      "role": "Vice President",
+      "age": 49,
+      "year_born": 1976,
       "total_pay": "N/A"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "ticker": "PWL",
   "company": "Physicswallah Limited",
-  "collected_at": "2026-08-12 04:02:16",
+  "collected_at": "2026-08-13 04:05:23",
   "directors": [
     {
       "name": "Mr. Alakh  Pandey",
@@ -41,6 +41,20 @@
     {
       "name": "Mr. Satish  Sharma",
       "role": "Chief Marketing Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pulkit  Swarup",
+      "role": "Senior Vice President of Tech Engineering",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Vivek  Gaur",
+      "role": "Chief Growth Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

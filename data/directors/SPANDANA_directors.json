@@ -1,8 +1,15 @@
 {
   "ticker": "SPANDANA",
   "company": "Spandana Sphoorty Financial Limited",
-  "collected_at": "2026-08-12 04:06:41",
+  "collected_at": "2026-08-13 04:09:54",
   "directors": [
+    {
+      "name": "Mr. Venkatesh  Krishnan",
+      "role": "MD, CEO & Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 15000000
+    },
     {
       "name": "Mr. Ashish Kumar Damani",
       "role": "President & CFO",
@@ -55,6 +62,13 @@
     {
       "name": "Ms. Shilpa  Jain",
       "role": "Chief of Financial Reporting & Assurance",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. A. Bhanu Prakash",
+      "role": "Vice President - CSR & Sustainability",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

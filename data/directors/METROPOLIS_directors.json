@@ -1,7 +1,7 @@
 {
   "ticker": "METROPOLIS",
   "company": "Metropolis Healthcare Limited",
-  "collected_at": "2026-08-12 03:57:16",
+  "collected_at": "2026-08-13 04:00:20",
   "directors": [
     {
       "name": "Ms. Ameera Sushil Shah",
@@ -11,8 +11,29 @@
       "total_pay": 61483946
     },
     {
+      "name": "Mr. Surendran  Chemmenkotil",
+      "role": "MD & Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 52847583
+    },
+    {
+      "name": "Dr. Sushil Kanubhai Shah",
+      "role": "Founder, Non-Executive Director & Chairman Emeritus",
+      "age": 79,
+      "year_born": 1946,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Sameer Prakash Patel",
       "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Kirti  Chadha",
+      "role": "Chief Scientific & Innovation Officer and Group Head of CSR",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

@@ -1,7 +1,7 @@
 {
   "ticker": "CARERATING",
   "company": "CARE Ratings Limited",
-  "collected_at": "2026-08-12 03:43:10",
+  "collected_at": "2026-08-13 03:46:11",
   "directors": [
     {
       "name": "Mr. Mehul Harshadray Pandya",
@@ -50,6 +50,27 @@
       "role": "CEO, CareEdge Global & Executive Director \u0096 Business Development of CareEdge Ratings",
       "age": 53,
       "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sanjay Kumar Agarwal",
+      "role": "Chief Risk Officer",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sachin  Gupta",
+      "role": "Executive Director & Chief Ratings Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Rajani  Sinha",
+      "role": "Chief Economist",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

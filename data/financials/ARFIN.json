@@ -1,21 +1,21 @@
 {
   "ticker": "ARFIN",
-  "collected_at": "2026-08-12 03:39:39",
+  "collected_at": "2026-08-13 03:42:42",
   "company_info": {
     "name": "Arfin India Limited",
     "sector": "Basic Materials",
     "industry": "Aluminum",
-    "market_cap": 14354909184,
-    "current_price": 85.08,
-    "pe_ratio": 92.478264,
-    "pb_ratio": 8.5207815,
-    "roe": 0.094469994,
+    "market_cap": 14297542656,
+    "current_price": 84.74,
+    "pe_ratio": 92.10869,
+    "pb_ratio": 8.486731,
+    "roe": "N/A",
     "debt_to_equity": 75.884,
-    "revenue": 6179917824,
-    "net_income": 154512992,
+    "revenue": 7216355840,
+    "net_income": 184448000,
     "eps": 0.92,
     "52_week_high": 106.2,
     "52_week_low": 32.0,
-    "dividend_yield": 0.25
+    "dividend_yield": 0.26
   }
 }

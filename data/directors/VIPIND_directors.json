@@ -1,7 +1,7 @@
 {
   "ticker": "VIPIND",
   "company": "VIP Industries Limited",
-  "collected_at": "2026-08-12 04:11:13",
+  "collected_at": "2026-08-13 04:14:31",
   "directors": [
     {
       "name": "Mr. Atul  Jain",
@@ -34,6 +34,13 @@
     {
       "name": "Mr. Alok  Pathak",
       "role": "Chief Sales Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Akash  Shukla",
+      "role": "Vice President of Human Resources",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

@@ -1,15 +1,8 @@
 {
   "ticker": "ALLCARGO",
   "company": "Allcargo Logistics Limited",
-  "collected_at": "2026-08-12 03:38:50",
+  "collected_at": "2026-08-13 03:41:53",
   "directors": [
-    {
-      "name": "Dr. Shashi Kiran Janardhan Shetty",
-      "role": "Founder & Chairman",
-      "age": 68,
-      "year_born": 1957,
-      "total_pay": 121048000
-    },
     {
       "name": "Mr. Adarsh Sudhakar Hegde",
       "role": "Executive Director",
@@ -71,6 +64,13 @@
       "role": "Global Head of KAM",
       "age": 62,
       "year_born": 1963,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Simon  Bajada",
+      "role": "Regional Chief Executive Officer of Europe",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

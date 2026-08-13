@@ -1,7 +1,7 @@
 {
   "ticker": "HYUNDAI",
   "company": "Hyundai Motor India Limited",
-  "collected_at": "2026-08-12 03:51:01",
+  "collected_at": "2026-08-13 03:54:04",
   "directors": [
     {
       "name": "Mr. Tarun  Garg",
@@ -16,6 +16,27 @@
       "age": 59,
       "year_born": 1966,
       "total_pay": 49437090
+    },
+    {
+      "name": "Mr. Dong Huwy Park",
+      "role": "COO & Whole- time Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 20535313
+    },
+    {
+      "name": "Mr. Pradeep  Chugh",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 11200000
+    },
+    {
+      "name": "Mr. Gopalakrishnan Chathapuram Sivaramakrishnan",
+      "role": "Chief Manufacturing Officer & Whole Time Director",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": 40914378
     },
     {
       "name": "Mr. K. S. Hariharan",
@@ -48,27 +69,6 @@
     {
       "name": "Mr. Youngmyung  Park",
       "role": "Function Head of People Strategy",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Anish  Agarwal",
-      "role": "Head of Lucknow Zone",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Pankaj  Tiwari",
-      "role": "Head of Central Zone",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Anup  Vajram",
-      "role": "Domain Head of India Quality Centre",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

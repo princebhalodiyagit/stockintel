@@ -1,7 +1,7 @@
 {
   "ticker": "ENTERO",
   "company": "Entero Healthcare Solutions Limited",
-  "collected_at": "2026-08-12 03:46:48",
+  "collected_at": "2026-08-13 03:49:51",
   "directors": [
     {
       "name": "Mr. Prabhat  Agrawal",
@@ -29,6 +29,20 @@
       "role": "VP of Legal and General Counsel, Company Secretary & Compliance Officer",
       "age": 54,
       "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Akanksha  Gupta",
+      "role": "Head of Investor Relations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Abhitesh  Kumar",
+      "role": "Chief Growth Officer",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

@@ -1,21 +1,21 @@
 {
   "ticker": "ZYDUSLIFE",
-  "collected_at": "2026-08-12 04:12:30",
+  "collected_at": "2026-08-13 04:15:48",
   "company_info": {
     "name": "Zydus Lifesciences Limited",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - Specialty & Generic",
-    "market_cap": 1157603131392,
-    "current_price": 1160.5,
-    "pe_ratio": 23.14981,
-    "pb_ratio": 4.3071775,
-    "roe": 0.18318,
+    "market_cap": 1174061973504,
+    "current_price": 1177.0,
+    "pe_ratio": 25.90799,
+    "pb_ratio": 4.368417,
+    "roe": "N/A",
     "debt_to_equity": 42.304,
-    "revenue": 271483994112,
-    "net_income": 50400002048,
-    "eps": 50.13,
+    "revenue": 285916987392,
+    "net_income": 45129998336,
+    "eps": 45.43,
     "52_week_high": 1205.0,
     "52_week_low": 835.5,
-    "dividend_yield": 0.09
+    "dividend_yield": 0.08
   }
 }

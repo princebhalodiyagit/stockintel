@@ -1,8 +1,15 @@
 {
   "ticker": "AVTNPL",
   "company": "AVT Natural Products Limited",
-  "collected_at": "2026-08-12 03:40:45",
+  "collected_at": "2026-08-13 03:43:47",
   "directors": [
+    {
+      "name": "Mr. K  Nandakumar",
+      "role": "Manager & CEO",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
     {
       "name": "Mr. A.  Ramadas",
       "role": "Chief Risk Management Officer, CFO & Senior VP",
@@ -36,6 +43,13 @@
       "role": "Senior Vice President of Speciality Tea Division",
       "age": 59,
       "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Yoganand Yeshwant Barve",
+      "role": "Sr. Vice President of Agro Operations",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

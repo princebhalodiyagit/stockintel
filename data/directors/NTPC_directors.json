@@ -1,7 +1,7 @@
 {
   "ticker": "NTPC",
   "company": "NTPC Limited",
-  "collected_at": "2026-08-12 03:59:37",
+  "collected_at": "2026-08-13 04:02:44",
   "directors": [
     {
       "name": "Gurdeep  Singh",
@@ -18,6 +18,13 @@
       "total_pay": 34198128
     },
     {
+      "name": "Mr. Ravindra  Kumar",
+      "role": "Director of Operations & Director",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": 11911288
+    },
+    {
       "name": "Mr. Anil Kumar Jadli",
       "role": "Director of HR & Director",
       "age": "N/A",
@@ -25,10 +32,31 @@
       "total_pay": 11071036
     },
     {
+      "name": "Mr. Shivam  Srivastava",
+      "role": "Fuel Director & Director",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": 11401961
+    },
+    {
+      "name": "Mr. Kothandpani Shanmugha Sundaram",
+      "role": "Director of Projects & Executive Director",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": 11756192
+    },
+    {
       "name": "Ms. Ritu  Arora",
       "role": "GM, Company Secretary & Compliance Officer",
       "age": 49,
       "year_born": 1976,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sandeep  Naik",
+      "role": "Chief Risk Officer",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
@@ -40,34 +68,6 @@
     },
     {
       "name": "Mr. Balaji Bhagwatrao Narare",
-      "role": "Executive Director",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Vijay  Chand",
-      "role": "Executive Director",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Anil  Shrivastava",
-      "role": "Executive Director",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Kariveda Narasimha Reddy",
-      "role": "Executive Director",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Abhay Kumar Srivastava",
       "role": "Executive Director",
       "age": "N/A",
       "year_born": "N/A",

@@ -1,7 +1,7 @@
 {
   "ticker": "ZENTEC",
   "company": "Zen Technologies Limited",
-  "collected_at": "2026-08-12 04:12:21",
+  "collected_at": "2026-08-13 04:15:39",
   "directors": [
     {
       "name": "Mr. Ashok  Atluri B.Com, PGDACS",
@@ -16,6 +16,27 @@
       "age": 63,
       "year_born": 1962,
       "total_pay": 63583000
+    },
+    {
+      "name": "Mr. Hari Haran Chalat",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sourav  Dhar",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Shilpa  Choudari",
+      "role": "Whole-Time Executive Director",
+      "age": 44,
+      "year_born": 1981,
+      "total_pay": 6000000
     },
     {
       "name": "Dr. Sreenivas Rao Yellamanchali",
@@ -48,13 +69,6 @@
     {
       "name": "Ms. Anisha  Atluri",
       "role": "Head of Recruitment",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Arjun Dutt Atluri",
-      "role": "Vice President",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

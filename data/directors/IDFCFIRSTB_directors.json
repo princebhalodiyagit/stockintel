@@ -1,7 +1,7 @@
 {
   "ticker": "IDFCFIRSTB",
   "company": "IDFC First Bank Limited",
-  "collected_at": "2026-08-12 03:51:13",
+  "collected_at": "2026-08-13 03:54:16",
   "directors": [
     {
       "name": "Mr. Vembu  Vaidyanathan AMP (HBS), MBA",
@@ -9,6 +9,13 @@
       "age": 57,
       "year_born": 1968,
       "total_pay": 55865726
+    },
+    {
+      "name": "Mr. Pradeep  Natarajan",
+      "role": "Head of Retail Banking & Executive Director",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": 62897465
     },
     {
       "name": "Mr. Sudhanshu  Jain",
@@ -62,13 +69,6 @@
     {
       "name": "Mr. Chetan  Sanghvi",
       "role": "Chief Risk Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Deep  Chelawat",
-      "role": "Chief Internal Auditor",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

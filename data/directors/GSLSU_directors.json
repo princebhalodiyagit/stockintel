@@ -1,7 +1,7 @@
 {
   "ticker": "GSLSU",
   "company": "Global Surfaces Limited",
-  "collected_at": "2026-08-12 03:49:30",
+  "collected_at": "2026-08-13 03:52:34",
   "directors": [
     {
       "name": "Mr. Mayank  Shah",
@@ -29,6 +29,13 @@
       "role": "Senior Vice President of Operations",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sanjeev  Bansal",
+      "role": "Vice President of Sales & Marketing",
+      "age": 57,
+      "year_born": 1968,
       "total_pay": "N/A"
     }
   ]

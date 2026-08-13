@@ -1,7 +1,7 @@
 {
   "ticker": "GAIL",
   "company": "GAIL (India) Limited",
-  "collected_at": "2026-08-12 03:47:50",
+  "collected_at": "2026-08-13 03:50:53",
   "directors": [
     {
       "name": "Mr. Deepak  Gupta",
@@ -9,6 +9,13 @@
       "age": 55,
       "year_born": 1970,
       "total_pay": 11536000
+    },
+    {
+      "name": "Mr. Sanjay  Kumar",
+      "role": "Director of Marketing & Executive Director",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": 11772000
     },
     {
       "name": "Mr. Ayush  Gupta",

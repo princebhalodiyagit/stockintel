@@ -1,8 +1,15 @@
 {
   "ticker": "JTEKTINDIA",
   "company": "Jtekt India Limited",
-  "collected_at": "2026-08-12 03:53:37",
+  "collected_at": "2026-08-13 03:56:39",
   "directors": [
+    {
+      "name": "Mr. Minoru  Sugisawa",
+      "role": "MD & Chairman",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": 8747281
+    },
     {
       "name": "Mr. Rajiv  Chanana",
       "role": "Whole-time Director",
@@ -11,17 +18,59 @@
       "total_pay": 11494380
     },
     {
-      "name": "Mr. Gagan  Puri",
-      "role": "Function Head of Production Administration Department",
-      "age": "N/A",
-      "year_born": "N/A",
+      "name": "Mr. Eiji  Maekawa",
+      "role": "Senior Vice President",
+      "age": 55,
+      "year_born": 1970,
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Arun  Arora",
-      "role": "Assistant VP & Head of Cost Control Department",
-      "age": "N/A",
-      "year_born": "N/A",
+      "name": "Mr. Yasushi  Shidahara",
+      "role": "Senior Vice President",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Miharu  Tabata",
+      "role": "Senior Vice President",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Tomohira  Sakuma",
+      "role": "Senior Vice President",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Yasuki  Doi",
+      "role": "Senior Vice President",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Yosuke  Fujiwara",
+      "role": "Whole time Director",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": 11341264
+    },
+    {
+      "name": "Mr. Kazuhiro  Nishinaka",
+      "role": "Senior Vice President",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Takahiro  Yukimura",
+      "role": "Vice President",
+      "age": 45,
+      "year_born": 1980,
       "total_pay": "N/A"
     }
   ]

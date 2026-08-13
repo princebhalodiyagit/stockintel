@@ -1,8 +1,43 @@
 {
   "ticker": "ICIL",
   "company": "Indo Count Industries Limited",
-  "collected_at": "2026-08-12 03:51:08",
+  "collected_at": "2026-08-13 03:54:11",
   "directors": [
+    {
+      "name": "Mr. Anil Kumar Jain B.Com",
+      "role": "Executive Non-Independent Chairman",
+      "age": 72,
+      "year_born": 1953,
+      "total_pay": 125092000
+    },
+    {
+      "name": "Mr. Kamal Sukhamoy Mitra",
+      "role": "Whole Time Director",
+      "age": 72,
+      "year_born": 1953,
+      "total_pay": 8501000
+    },
+    {
+      "name": "Mr. Mohit Anilkumar Jain",
+      "role": "Executive Vice Chairman",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": 98743000
+    },
+    {
+      "name": "Mr. Manish  Bhatia",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Satnam Singh Saini",
+      "role": "GM of Legal, Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
     {
       "name": "Mr. Bijay Kumar Agarwal",
       "role": "Head of Accounts & Finance",

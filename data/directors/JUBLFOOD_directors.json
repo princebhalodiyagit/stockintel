@@ -1,7 +1,7 @@
 {
   "ticker": "JUBLFOOD",
   "company": "Jubilant Foodworks Limited",
-  "collected_at": "2026-08-12 03:53:40",
+  "collected_at": "2026-08-13 03:56:42",
   "directors": [
     {
       "name": "Mr. Shyam Sunder  Bhartia",
@@ -32,13 +32,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Ms. Mona  Aggarwal",
-      "role": "Assistant VP, Company Secretary & Compliance Officer",
-      "age": 46,
-      "year_born": 1979,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Pawan Bhargav Kumar",
       "role": "Executive VP & CTO",
       "age": 46,
@@ -60,17 +53,24 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Ms. Deepti  Gupta",
-      "role": "Executive VP & Chief Human Resources Officer",
-      "age": 43,
-      "year_born": 1982,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Neeraj  Katoch",
       "role": "Senior Vice President of Strategic Expansion & Alternate Channels",
       "age": 50,
       "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vaneet  Singla",
+      "role": "Executive VP & Chief Product Officer",
+      "age": 42,
+      "year_born": 1983,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Amardeep Singh Ahluwalia",
+      "role": "Executive VP & Chief Corporate Affairs Officer",
+      "age": 61,
+      "year_born": 1964,
       "total_pay": "N/A"
     }
   ]

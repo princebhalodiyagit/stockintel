@@ -1,8 +1,15 @@
 {
   "ticker": "IDEA",
   "company": "Vodafone Idea Limited",
-  "collected_at": "2026-08-12 03:51:11",
+  "collected_at": "2026-08-13 03:54:14",
   "directors": [
+    {
+      "name": "Mr. Abhijit  Kishore",
+      "role": "Chief Executive Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
     {
       "name": "Mr. Tejas  Mehta",
       "role": "Chief Financial Officer",
@@ -62,13 +69,6 @@
     {
       "name": "Mr. Rajinder  Singh",
       "role": "Executive Vice President",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ms. Shabnam  Syed",
-      "role": "Executive Vice President of Postpaid Marketing",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

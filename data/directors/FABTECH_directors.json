@@ -1,15 +1,8 @@
 {
   "ticker": "FABTECH",
   "company": "Fabtech Technologies Limited",
-  "collected_at": "2026-08-12 03:47:15",
+  "collected_at": "2026-08-13 03:50:18",
   "directors": [
-    {
-      "name": "Mr. Ashwani Kumar Singh",
-      "role": "Chief Executive Officer",
-      "age": 52,
-      "year_born": 1973,
-      "total_pay": "N/A"
-    },
     {
       "name": "Mr. Kalpesh Chimanlal Chauhan",
       "role": "Chief Financial Officer",
@@ -22,6 +15,27 @@
       "role": "Company Secretary & Compliance Officer",
       "age": 28,
       "year_born": 1997,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Hemant Mohan Anavkar",
+      "role": "Executive Director",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": 5562000
+    },
+    {
+      "name": "Ms. Saroja Venkatesh Chandan",
+      "role": "Executive Director of International Sales",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ajaj Abdul Rahiman Kazi",
+      "role": "Senior Vice President",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

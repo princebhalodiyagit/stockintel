@@ -1,21 +1,21 @@
 {
   "ticker": "ISGEC",
-  "collected_at": "2026-08-12 03:52:36",
+  "collected_at": "2026-08-13 03:55:39",
   "company_info": {
     "name": "Isgec Heavy Engineering Limited",
     "sector": "Industrials",
     "industry": "Specialty Industrial Machinery",
-    "market_cap": 56415518720,
-    "current_price": 767.25,
-    "pe_ratio": 51.91137,
-    "pb_ratio": 2.0613806,
-    "roe": 0.05371,
+    "market_cap": 55319924736,
+    "current_price": 752.35,
+    "pe_ratio": 53.893265,
+    "pb_ratio": 2.0213485,
+    "roe": "N/A",
     "debt_to_equity": 32.93,
-    "revenue": 67892600832,
-    "net_income": 1089299968,
-    "eps": 14.78,
+    "revenue": 74083500032,
+    "net_income": 1109500032,
+    "eps": 13.96,
     "52_week_high": 1113.9,
     "52_week_low": 683.95,
-    "dividend_yield": 0.62
+    "dividend_yield": 0.74
   }
 }

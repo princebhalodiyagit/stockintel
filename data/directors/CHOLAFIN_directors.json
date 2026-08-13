@@ -1,7 +1,7 @@
 {
   "ticker": "CHOLAFIN",
   "company": "Cholamandalam Investment and Finance Company Limited",
-  "collected_at": "2026-08-12 03:43:47",
+  "collected_at": "2026-08-13 03:46:48",
   "directors": [
     {
       "name": "Mr. Murugappan Vellayan Subbiah",
@@ -23,6 +23,20 @@
       "age": 62,
       "year_born": 1963,
       "total_pay": 58219380
+    },
+    {
+      "name": "Ms. Pangurayirath  Sujatha",
+      "role": "Compliance Officer & Company Secretary",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": 38789836
+    },
+    {
+      "name": "Mr. Durgaprasad  Swaminathan",
+      "role": "Chief Information Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Jeeva  Balakrishnan",
@@ -55,20 +69,6 @@
     {
       "name": "Mr. Aman  Sharma",
       "role": "Chief Processing Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Manickam  S.",
-      "role": "Chief Internal Audit Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ranjit  Ramachandran",
-      "role": "President & Chief Business Officer of Gold Loans",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

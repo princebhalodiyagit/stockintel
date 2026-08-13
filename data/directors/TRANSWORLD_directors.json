@@ -1,7 +1,7 @@
 {
   "ticker": "TRANSWORLD",
   "company": "TRANSWORLD SHIPPING LINES LIMITED",
-  "collected_at": "2026-08-12 04:09:39",
+  "collected_at": "2026-08-13 04:12:55",
   "directors": [
     {
       "name": "Mr. Ramesh Sivaswamy Iyer Ramakrishnan",
@@ -9,6 +9,13 @@
       "age": 64,
       "year_born": 1961,
       "total_pay": 38833330
+    },
+    {
+      "name": "Captain Ashish  Chauhan",
+      "role": "Chief Executive Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Rajesh  Desai",
@@ -23,6 +30,13 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
+    },
+    {
+      "name": "Captain Milind Kashinath Patankar",
+      "role": "MD & Director",
+      "age": 65,
+      "year_born": 1960,
+      "total_pay": 17020990
     },
     {
       "name": "Captain Rakesh  Prasad",

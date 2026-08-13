@@ -1,7 +1,7 @@
 {
   "ticker": "SBIN",
   "company": "State Bank of India",
-  "collected_at": "2026-08-12 04:04:50",
+  "collected_at": "2026-08-13 04:07:59",
   "directors": [
     {
       "name": "Mr. Rana Ashutosh Kumar Singh",
@@ -18,11 +18,60 @@
       "total_pay": 3207199
     },
     {
+      "name": "Mr. Ashwini Kumar Tewari",
+      "role": "MD of Corporate Banking (CAG & CCG) and Subsidiaries and Director",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": 4272892
+    },
+    {
       "name": "Mr. Rama Mohan Rao Amara",
       "role": "Managing Director of Retail Business & Operations & Director",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 4397892
+    },
+    {
+      "name": "Mr. Sunil Ramgopal Agrawal",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sahadevan  Radhakrishnan",
+      "role": "Deputy MD & COO",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. G. S. Rana",
+      "role": "Deputy MD of Human Resources & CDO",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sandeep  Tewari",
+      "role": "Managing Director Corporate Banking & Subsidiaries",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Hemant  Kumar",
+      "role": "Chief General Manager of Centralised Collection & Recovery Unit",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Ruma  Dey",
+      "role": "Deputy MD  & Group Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "ticker": "BAJAJHIND",
   "company": "Bajaj Hindusthan Sugar Limited",
-  "collected_at": "2026-08-12 03:41:03",
+  "collected_at": "2026-08-13 03:44:05",
   "directors": [
     {
       "name": "Mr. Ajay Kumar Sharma",
@@ -11,6 +11,13 @@
       "total_pay": 11686824
     },
     {
+      "name": "Mr. Sunil Kumar Ojha",
+      "role": "Chief Financial Officer",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Akash  Sharma",
       "role": "President of Finance & Accounts",
       "age": 61,
@@ -18,10 +25,52 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. Kausik  Adhikari",
+      "role": "Assistant VP, Compliance Officer & Company Secretary",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": 6800000
+    },
+    {
       "name": "Mr. Naval Kishore Kashyap",
       "role": "Senior Vice President of Indirect Taxation",
       "age": 65,
       "year_born": 1960,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Suresh  Maheshwari",
+      "role": "Senior Vice President of Finance & Accounts",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Narendra Kumar Soni",
+      "role": "Senior Vice President of Finance & Accounts",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Lalit  Rathi",
+      "role": "Chief Tax Officer of Group Corporate Tax",
+      "age": 40,
+      "year_born": 1985,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Amit  Agrawal",
+      "role": "President of Sales & Marketing",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajendra  Mishra",
+      "role": "Vice President of Finance & Accounts",
+      "age": 61,
+      "year_born": 1964,
       "total_pay": "N/A"
     }
   ]

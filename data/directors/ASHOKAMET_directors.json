@@ -1,13 +1,20 @@
 {
   "ticker": "ASHOKAMET",
   "company": "Ashoka Metcast Limited",
-  "collected_at": "2026-08-12 03:40:04",
+  "collected_at": "2026-08-13 03:43:07",
   "directors": [
     {
       "name": "Mr. Ashok Chinubhai Shah B.S. Chem., I.JSA",
       "role": "MD & Director",
       "age": 81,
       "year_born": 1944,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ankur  Rastogi",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

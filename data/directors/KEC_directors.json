@@ -1,7 +1,7 @@
 {
   "ticker": "KEC",
   "company": "KEC International Limited",
-  "collected_at": "2026-08-12 03:54:09",
+  "collected_at": "2026-08-13 03:57:12",
   "directors": [
     {
       "name": "Mr. Vimal  Kejriwal B.Com., D.T.M., F.C.A., F.C.S.",
@@ -11,8 +11,22 @@
       "total_pay": 125800000
     },
     {
+      "name": "Mr. Rajeev  Aggarwal",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 54800000
+    },
+    {
       "name": "Mr. Suraj Prakash Eksambekar",
       "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Somraj  Roy",
+      "role": "Chief Human Resources Officer & Executive Director",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
@@ -25,10 +39,38 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. Mayank  Agrawal",
+      "role": "Senior Vice President of Materials, Excellence and Project Assurance",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Ganesh  Srinivasan",
       "role": "President of T&D",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ankur  Dev",
+      "role": "Executive Director of Transportation",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Raman  Kapil",
+      "role": "President of Civil",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manish Kumar Srivastava",
+      "role": "Managing Director of KEC Asian Cables Ltd.",
+      "age": 52,
+      "year_born": 1973,
       "total_pay": "N/A"
     }
   ]

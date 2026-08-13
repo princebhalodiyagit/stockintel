@@ -1,7 +1,7 @@
 {
   "ticker": "KSL",
   "company": "Kalyani Steels Limited",
-  "collected_at": "2026-08-12 03:55:11",
+  "collected_at": "2026-08-13 03:58:14",
   "directors": [
     {
       "name": "Mr. Ravindra Kumar Goyal",
@@ -9,6 +9,13 @@
       "age": 67,
       "year_born": 1958,
       "total_pay": 161540000
+    },
+    {
+      "name": "Ms. Deepti Rajeev Puranik",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Sanjay V. Yewale",

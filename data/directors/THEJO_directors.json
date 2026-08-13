@@ -1,7 +1,7 @@
 {
   "ticker": "THEJO",
   "company": "Thejo Engineering Limited",
-  "collected_at": "2026-08-12 04:09:01",
+  "collected_at": "2026-08-13 04:12:17",
   "directors": [
     {
       "name": "Mr. Vadakkakara Antony George",
@@ -32,6 +32,13 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. Rajesh  John",
+      "role": "Deputy MD, Director of Sales & Whole-Time Director",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": 7453000
+    },
+    {
       "name": "Mr. Thomas K. Abraham",
       "role": "Senior Vice President of HR & Administration",
       "age": 57,
@@ -50,6 +57,20 @@
       "role": "Managing Director -TAPL",
       "age": 53,
       "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sivaraman  Sathish",
+      "role": "Senior Vice President of Manufacturing",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sukumaran  Premjit",
+      "role": "Senior Vice President of Sales & Services of India Operations",
+      "age": 52,
+      "year_born": 1973,
       "total_pay": "N/A"
     }
   ]

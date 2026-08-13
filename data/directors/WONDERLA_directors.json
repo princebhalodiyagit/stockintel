@@ -1,7 +1,7 @@
 {
   "ticker": "WONDERLA",
   "company": "Wonderla Holidays Limited",
-  "collected_at": "2026-08-12 04:12:00",
+  "collected_at": "2026-08-13 04:15:19",
   "directors": [
     {
       "name": "Mr. Arun Kochouseph Chittilappilly",
@@ -15,6 +15,13 @@
       "role": "Chief Financial Officer",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Dheeran Singh Choudhary",
+      "role": "Chief Operating Officer",
+      "age": 38,
+      "year_born": 1987,
       "total_pay": "N/A"
     },
     {
@@ -43,6 +50,13 @@
       "role": "Deputy General Manager of Technical",
       "age": 50,
       "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Pallavi  Nayak",
+      "role": "Vice President of Marketing & Growth",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     },
     {

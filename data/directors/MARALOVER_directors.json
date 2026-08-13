@@ -1,7 +1,7 @@
 {
   "ticker": "MARALOVER",
   "company": "Maral Overseas Limited",
-  "collected_at": "2026-08-12 03:56:41",
+  "collected_at": "2026-08-13 03:59:44",
   "directors": [
     {
       "name": "Mr. Shekhar  Agarwal B.Tech. (ME), M.Sc.",
@@ -9,6 +9,27 @@
       "age": 73,
       "year_born": 1952,
       "total_pay": 25462000
+    },
+    {
+      "name": "Mr. Manoj  Gupta",
+      "role": "Chief Financial Officer",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Arvind Kumar Bhokse",
+      "role": "Vice President of Operations",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Navjot  Walia",
+      "role": "AVP of Marketing",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Naveen  Maheshwari",
@@ -29,6 +50,20 @@
       "role": "President of Yarn & Fabric and Head of Sarovar Plant",
       "age": 49,
       "year_born": 1976,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sandeep  Singh",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Gajendra Kumar Lodha",
+      "role": "Vice President of Commercial",
+      "age": 48,
+      "year_born": 1977,
       "total_pay": "N/A"
     }
   ]

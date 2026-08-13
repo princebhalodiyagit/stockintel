@@ -1,7 +1,7 @@
 {
   "ticker": "VARROC",
   "company": "Varroc Engineering Limited",
-  "collected_at": "2026-08-12 04:10:43",
+  "collected_at": "2026-08-13 04:14:00",
   "directors": [
     {
       "name": "Mr. Tarang  Jain",
@@ -16,6 +16,13 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Avinash Ramdas Chintawar",
+      "role": "COO & Executive Non-independent Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 10070000
     },
     {
       "name": "Mr. Anil  Ghatiya",
@@ -37,41 +44,6 @@
       "age": 30,
       "year_born": 1995,
       "total_pay": 17890000
-    },
-    {
-      "name": "Mr. Bikash  Dugar",
-      "role": "Head of Investor Relations",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ms. Namrata  Parashar",
-      "role": "Head of Marketing & Communications",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Avijit  Roy",
-      "role": "Group Chief Human Resource Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Manoj  Dhar",
-      "role": "Group Chief Internal Auditor & Risk Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Vinayak  Mahajan",
-      "role": "Head of Operations for CAT-CON & EMS",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
     }
   ]
 }

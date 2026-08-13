@@ -1,8 +1,15 @@
 {
   "ticker": "KPEL",
   "company": "K.P. Energy Limited",
-  "collected_at": "2026-08-12 03:54:50",
+  "collected_at": "2026-08-13 03:57:53",
   "directors": [
+    {
+      "name": "Ms. Shabana Virender Belim",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
     {
       "name": "Mr. Karmit Haribhadrabhai Sheth",
       "role": "Compliance Officer & Company Secretary",
@@ -29,6 +36,13 @@
       "role": "Group Chief Executive Officer",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Prof. Sunil Kumar Maheshwari",
+      "role": "Whole Time Director",
+      "age": 61,
+      "year_born": 1964,
       "total_pay": "N/A"
     }
   ]

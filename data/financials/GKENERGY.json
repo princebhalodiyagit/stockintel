@@ -1,21 +1,21 @@
 {
   "ticker": "GKENERGY",
-  "collected_at": "2026-08-12 03:48:26",
+  "collected_at": "2026-08-13 03:51:30",
   "company_info": {
     "name": "GK Energy Limited",
     "sector": "Utilities",
     "industry": "Utilities - Renewable",
-    "market_cap": 26467653632,
-    "current_price": 130.5,
-    "pe_ratio": 11.972478,
-    "pb_ratio": 2.9833345,
-    "roe": 0.37255,
+    "market_cap": 26143143936,
+    "current_price": 128.9,
+    "pe_ratio": 12.069287,
+    "pb_ratio": 2.946757,
+    "roe": "N/A",
     "debt_to_equity": 23.151,
-    "revenue": 17152799744,
-    "net_income": 2042969984,
-    "eps": 10.9,
+    "revenue": 18956859392,
+    "net_income": 2266319872,
+    "eps": 10.68,
     "52_week_high": 239.6,
     "52_week_low": 87.2,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.38
   }
 }

@@ -1,21 +1,21 @@
 {
   "ticker": "NBCC",
-  "collected_at": "2026-08-12 03:58:37",
+  "collected_at": "2026-08-13 04:01:43",
   "company_info": {
     "name": "NBCC (India) Limited",
     "sector": "Industrials",
     "industry": "Engineering & Construction",
-    "market_cap": 251963998208,
-    "current_price": 93.32,
-    "pe_ratio": 35.348484,
-    "pb_ratio": 8.388314,
-    "roe": 0.25225002,
+    "market_cap": 250020003840,
+    "current_price": 92.6,
+    "pe_ratio": 34.296295,
+    "pb_ratio": 8.323595,
+    "roe": "N/A",
     "debt_to_equity": 0.008,
-    "revenue": 131958865920,
-    "net_income": 7200312832,
-    "eps": 2.64,
+    "revenue": 130513002496,
+    "net_income": 7427320832,
+    "eps": 2.7,
     "52_week_high": 125.85,
     "52_week_low": 77.18,
-    "dividend_yield": 0.72
+    "dividend_yield": 1.15
   }
 }

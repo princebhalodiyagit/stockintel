@@ -1,7 +1,7 @@
 {
   "ticker": "YATRA",
   "company": "Yatra Online Limited",
-  "collected_at": "2026-08-12 04:12:12",
+  "collected_at": "2026-08-13 04:15:30",
   "directors": [
     {
       "name": "Mr. Dhruv  Shringi",
@@ -30,6 +30,13 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anuj Kumar Sethi",
+      "role": "Chief Financial Officer",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": 9917500
     },
     {
       "name": "Ms. Jyoti  Chawla",

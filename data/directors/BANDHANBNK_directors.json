@@ -1,14 +1,35 @@
 {
   "ticker": "BANDHANBNK",
   "company": "Bandhan Bank Limited",
-  "collected_at": "2026-08-12 03:41:21",
+  "collected_at": "2026-08-13 03:44:23",
   "directors": [
+    {
+      "name": "Mr. Partha Pratim Sengupta",
+      "role": "MD, CEO & Director",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": 34000000
+    },
     {
       "name": "Mr. Rajeev  Mantri",
       "role": "Executive President & CFO",
       "age": 48,
       "year_born": 1977,
       "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ratan Kumar Kesh",
+      "role": "COO & Executive Director",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": 32860000
+    },
+    {
+      "name": "Mr. Rajinder Kumar Babbar",
+      "role": "Chief Business Officer & Executive Director",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": 33000000
     },
     {
       "name": "Mr. Indranil  Banerjee",
@@ -27,6 +48,13 @@
     {
       "name": "Mr. Pinaki  Halder",
       "role": "Chief Information Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vikash  Mundhra",
+      "role": "Head of Investor Relations",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

@@ -1,21 +1,21 @@
 {
   "ticker": "SPAL",
-  "collected_at": "2026-08-12 04:06:40",
+  "collected_at": "2026-08-13 04:09:53",
   "company_info": {
     "name": "S.P. Apparels Limited",
     "sector": "Consumer Cyclical",
     "industry": "Apparel Manufacturing",
-    "market_cap": 25577558016,
-    "current_price": 1017.45,
-    "pe_ratio": 25.253164,
-    "pb_ratio": 2.7008123,
-    "roe": 0.11281,
+    "market_cap": 24964167680,
+    "current_price": 993.05,
+    "pe_ratio": 24.776695,
+    "pb_ratio": 2.6360426,
+    "roe": "N/A",
     "debt_to_equity": 44.596,
-    "revenue": 15786370048,
-    "net_income": 1009449984,
-    "eps": 40.29,
+    "revenue": 15781959680,
+    "net_income": 1051640000,
+    "eps": 40.08,
     "52_week_high": 1221.9,
     "52_week_low": 600.0,
-    "dividend_yield": 0.19
+    "dividend_yield": 0.28
   }
 }

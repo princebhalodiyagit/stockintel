@@ -1,7 +1,7 @@
 {
   "ticker": "THACKER",
   "company": "Thacker & Company Limited",
-  "collected_at": "2026-08-12 04:08:58",
+  "collected_at": "2026-08-13 04:12:13",
   "directors": [
     {
       "name": "Mr. Raju Rasiklal Adhia",
@@ -9,6 +9,13 @@
       "age": 64,
       "year_born": 1961,
       "total_pay": 1296000
+    },
+    {
+      "name": "Ms. Siddhi Dilip Kul",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

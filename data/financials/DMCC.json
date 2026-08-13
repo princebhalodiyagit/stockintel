@@ -1,21 +1,21 @@
 {
   "ticker": "DMCC",
-  "collected_at": "2026-08-12 03:45:45",
+  "collected_at": "2026-08-13 03:48:47",
   "company_info": {
     "name": "DMCC Speciality Chemicals Limited",
     "sector": "Basic Materials",
     "industry": "Chemicals",
-    "market_cap": 7457039872,
-    "current_price": 299.0,
-    "pe_ratio": 27.281021,
-    "pb_ratio": 10.847089,
-    "roe": 0.114879996,
+    "market_cap": 7496943616,
+    "current_price": 300.6,
+    "pe_ratio": 27.402006,
+    "pb_ratio": 10.905133,
+    "roe": "N/A",
     "debt_to_equity": 28.623,
-    "revenue": 5815810048,
-    "net_income": 273287008,
-    "eps": 10.96,
+    "revenue": 7074734080,
+    "net_income": 399779008,
+    "eps": 10.97,
     "52_week_high": 350.0,
     "52_week_low": 191.35,
-    "dividend_yield": 0.9
+    "dividend_yield": 0.83
   }
 }

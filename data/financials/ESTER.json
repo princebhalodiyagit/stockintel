@@ -1,21 +1,21 @@
 {
   "ticker": "ESTER",
-  "collected_at": "2026-08-12 03:47:00",
+  "collected_at": "2026-08-13 03:50:03",
   "company_info": {
     "name": "Ester Industries Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals",
-    "market_cap": 10492081152,
-    "current_price": 100.6,
+    "market_cap": 10078029824,
+    "current_price": 96.63,
     "pe_ratio": "N/A",
-    "pb_ratio": 1.249379,
-    "roe": -0.03533,
+    "pb_ratio": 1.2000746,
+    "roe": "N/A",
     "debt_to_equity": 93.137,
-    "revenue": 13751949312,
-    "net_income": -274710016,
-    "eps": -2.82,
+    "revenue": 14703036416,
+    "net_income": -16977000,
+    "eps": -2.6,
     "52_week_high": 132.45,
     "52_week_low": 68.55,
-    "dividend_yield": 0.6
+    "dividend_yield": 0.24
   }
 }

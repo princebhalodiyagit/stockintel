@@ -1,7 +1,7 @@
 {
   "ticker": "SCHAEFFLER",
   "company": "Schaeffler India Limited",
-  "collected_at": "2026-08-12 04:04:52",
+  "collected_at": "2026-08-13 04:08:01",
   "directors": [
     {
       "name": "Mr. Harsha Gopal Kadam",
@@ -16,6 +16,13 @@
       "age": 57,
       "year_born": 1968,
       "total_pay": 15500000
+    },
+    {
+      "name": "Mr. Sameer  Mathur",
+      "role": "Chief Operations Officer",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": "N/A"
     },
     {
       "name": "Ms. Madhurisha  Vippatoori",
@@ -62,13 +69,6 @@
     {
       "name": "Mr. Seshan  Iyer",
       "role": "President of Industrial India",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Prateek  Kumar",
-      "role": "Head of Corporate Quality",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

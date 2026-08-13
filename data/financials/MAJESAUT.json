@@ -1,21 +1,21 @@
 {
   "ticker": "MAJESAUT",
-  "collected_at": "2026-08-12 03:56:20",
+  "collected_at": "2026-08-13 03:59:23",
   "company_info": {
     "name": "Majestic Auto Limited",
     "sector": "Real Estate",
     "industry": "Real Estate Services",
-    "market_cap": 4165229824,
-    "current_price": 400.6,
-    "pe_ratio": 4.783855,
-    "pb_ratio": 0.6230607,
-    "roe": 0.14349,
+    "market_cap": 3957280256,
+    "current_price": 380.6,
+    "pe_ratio": 4.3191104,
+    "pb_ratio": 0.59195435,
+    "roe": "N/A",
     "debt_to_equity": 2.283,
-    "revenue": 353892000,
-    "net_income": 916457024,
-    "eps": 83.74,
+    "revenue": 348895008,
+    "net_income": 966521984,
+    "eps": 88.12,
     "52_week_high": 500.0,
     "52_week_low": 274.0,
-    "dividend_yield": 11.27
+    "dividend_yield": 11.86
   }
 }

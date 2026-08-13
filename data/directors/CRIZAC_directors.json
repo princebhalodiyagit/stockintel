@@ -1,18 +1,18 @@
 {
   "ticker": "CRIZAC",
   "company": "Crizac Limited",
-  "collected_at": "2026-08-12 03:44:31",
+  "collected_at": "2026-08-13 03:47:32",
   "directors": [
-    {
-      "name": "Mr. Manish  Agarwal",
-      "role": "CFO & Whole Time Director",
-      "age": 45,
-      "year_born": 1980,
-      "total_pay": "N/A"
-    },
     {
       "name": "Ms. Priya  Fulfagar",
       "role": "Chief Operating Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sibendu  Roy",
+      "role": "Chief Technology Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
@@ -25,8 +25,15 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Nikhil  Jain",
-      "role": "Chief Product & Marketing Officer",
+      "name": "Ms. Salaria  Zaheer",
+      "role": "Chief Marketing Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Anindita  Das",
+      "role": "Chief Business Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

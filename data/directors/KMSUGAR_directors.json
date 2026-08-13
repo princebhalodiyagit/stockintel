@@ -1,7 +1,7 @@
 {
   "ticker": "KMSUGAR",
   "company": "K.M.Sugar Mills Limited",
-  "collected_at": "2026-08-12 03:54:36",
+  "collected_at": "2026-08-13 03:57:39",
   "directors": [
     {
       "name": "Mr. Subhash Chandra Agarwal",
@@ -64,6 +64,13 @@
       "role": "Chief General Manager of Cane",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Naina Devi Jhunjhunwala",
+      "role": "Whole-Time Director",
+      "age": 80,
+      "year_born": 1945,
       "total_pay": "N/A"
     }
   ]

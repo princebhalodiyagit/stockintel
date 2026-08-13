@@ -1,7 +1,7 @@
 {
   "ticker": "OAL",
   "company": "Oriental Aromatics Limited",
-  "collected_at": "2026-08-12 03:59:44",
+  "collected_at": "2026-08-13 04:02:51",
   "directors": [
     {
       "name": "Mr. Dharmil Anil Bodani",
@@ -23,6 +23,13 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Satish Kumar Ray",
+      "role": "Executive Director of Operations",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": 4156236
     },
     {
       "name": "Ms. Anita Parag Satoskar",

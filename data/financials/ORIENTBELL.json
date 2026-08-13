@@ -1,21 +1,21 @@
 {
   "ticker": "ORIENTBELL",
-  "collected_at": "2026-08-12 04:00:08",
+  "collected_at": "2026-08-13 04:03:15",
   "company_info": {
     "name": "Orient Bell Limited",
     "sector": "Industrials",
     "industry": "Building Products & Equipment",
-    "market_cap": 5363439616,
-    "current_price": 364.6,
-    "pe_ratio": 43.14793,
-    "pb_ratio": 1.631101,
-    "roe": 0.03853,
+    "market_cap": 5325192192,
+    "current_price": 362.0,
+    "pe_ratio": 42.992874,
+    "pb_ratio": 1.6194694,
+    "roe": "N/A",
     "debt_to_equity": 9.489,
-    "revenue": 6914525184,
-    "net_income": 124255000,
-    "eps": 8.45,
-    "52_week_high": 365.9,
+    "revenue": 7527809024,
+    "net_income": 211191008,
+    "eps": 8.42,
+    "52_week_high": 367.7,
     "52_week_low": 238.75,
-    "dividend_yield": 0.31
+    "dividend_yield": 0.28
   }
 }

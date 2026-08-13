@@ -1,8 +1,36 @@
 {
   "ticker": "SJVN",
   "company": "SJVN Limited",
-  "collected_at": "2026-08-12 04:06:12",
+  "collected_at": "2026-08-13 04:09:25",
   "directors": [
+    {
+      "name": "Mr. Parthajit  De",
+      "role": "CFO & Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 5723000
+    },
+    {
+      "name": "Mr. Soumendra  Das",
+      "role": "Compliance Officer & Company Secretary",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 6000000
+    },
+    {
+      "name": "Mr. Ajay Kumar Sharma",
+      "role": "Whole-time Director",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": 9000000
+    },
+    {
+      "name": "Mr. Bhupender  Gupta",
+      "role": "Chairman & MD",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
     {
       "name": "Mr. Chandra Shekhar Yadav",
       "role": "Executive Director of Human Resource",
@@ -41,34 +69,6 @@
     {
       "name": "Mr. Het Ram Thakur",
       "role": "Head of Project of Naitwar Mori HEP",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Sanjay  Uppal",
-      "role": "Head of Business Development & Management Services - New Delhi",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Sanjeev  Gupta",
-      "role": "Executive Director of HOP & Etalin HEP",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Shashi Kant Soodis",
-      "role": "Head of Corporate Electrical Contract",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. J. S. Nayyar",
-      "role": "Head of Corporate Facility Management Department",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

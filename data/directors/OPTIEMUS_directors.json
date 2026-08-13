@@ -1,7 +1,7 @@
 {
   "ticker": "OPTIEMUS",
   "company": "Optiemus Infracom Limited",
-  "collected_at": "2026-08-12 04:00:03",
+  "collected_at": "2026-08-13 04:03:10",
   "directors": [
     {
       "name": "Mr. Ashok Kumar Gupta",
@@ -36,6 +36,20 @@
       "role": "Senior Manager of Human Resources",
       "age": 43,
       "year_born": 1982,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mohit  Gupta",
+      "role": "Head of New Projects",
+      "age": 33,
+      "year_born": 1992,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajesh Kumar Rana",
+      "role": "Taxation Head",
+      "age": 49,
+      "year_born": 1976,
       "total_pay": "N/A"
     }
   ]

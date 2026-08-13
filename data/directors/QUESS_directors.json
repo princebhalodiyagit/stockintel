@@ -1,13 +1,76 @@
 {
   "ticker": "QUESS",
   "company": "Quess Corp Limited",
-  "collected_at": "2026-08-12 04:02:20",
+  "collected_at": "2026-08-13 04:05:27",
   "directors": [
     {
-      "name": "Mr. Lohit  Bhatia",
-      "role": "Chief Executive Officer",
-      "age": 49,
-      "year_born": 1976,
+      "name": "Mr. Neeraj  Jain",
+      "role": "Chief Financial Officer",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kushal  Maheshwari",
+      "role": "Head of Treasury & Investor Relations and Senior VP of Investor Relations & Strategic Finance",
+      "age": 42,
+      "year_born": 1983,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kundan Kumar Lal",
+      "role": "Senior VP, Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Deepalakshmi  V.",
+      "role": "Senior Vice President of Legal,General Counsel",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manish  Sridhar",
+      "role": "Vice President Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Sunitha  Karthikeyan",
+      "role": "Senior Vice President & Head of HR",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vijay  Sivaram",
+      "role": "Chief Executive Officer of IT Staffing, Recruitment & Search",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sanjay Balakrishna Shetty",
+      "role": "Chief Business Officer Recruitment, GCC & International Services",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Deepaka  Tulupule",
+      "role": "Chief Financial Officer of WFM Platform",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ishaan  Sarkar",
+      "role": "Chief Business Officer of Food Services",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

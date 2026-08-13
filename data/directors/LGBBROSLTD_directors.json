@@ -1,7 +1,7 @@
 {
   "ticker": "LGBBROSLTD",
   "company": "LG Balakrishnan & Bros Limited",
-  "collected_at": "2026-08-12 03:55:33",
+  "collected_at": "2026-08-13 03:58:36",
   "directors": [
     {
       "name": "Mr. Balakrishnan  Vijayakumar",
@@ -22,6 +22,13 @@
       "role": "Chief Financial Officer",
       "age": 56,
       "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "A.  Ramadass",
+      "role": "Chief Technical Officer",
+      "age": 55,
+      "year_born": 1970,
       "total_pay": "N/A"
     },
     {

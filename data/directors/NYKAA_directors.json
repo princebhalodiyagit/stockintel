@@ -1,7 +1,7 @@
 {
   "ticker": "NYKAA",
   "company": "FSN E-Commerce Ventures Limited",
-  "collected_at": "2026-08-12 03:59:43",
+  "collected_at": "2026-08-13 04:02:50",
   "directors": [
     {
       "name": "Ms. Falguni Sanjay Nayar",
@@ -13,6 +13,41 @@
     {
       "name": "Mr. Padmanabhan  Ganesh",
       "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Chetan Rajendra Sharma",
+      "role": "VP, Group Company Secretary & Compliance Officer",
+      "age": 37,
+      "year_born": 1988,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Adwaita  Nayar",
+      "role": "Executive Director",
+      "age": 35,
+      "year_born": 1990,
+      "total_pay": 39100000
+    },
+    {
+      "name": "Mr. Anchit  Nayar",
+      "role": "Executive Director",
+      "age": 35,
+      "year_born": 1990,
+      "total_pay": 1500000
+    },
+    {
+      "name": "Mr. Rajesh  Uppalapati",
+      "role": "Chief Technology Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sujeet Roopchand Jain",
+      "role": "Chief Legal & Regulatory Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
@@ -34,27 +69,6 @@
     {
       "name": "Mr. Rajendra Nath Punde",
       "role": "Senior Vice President of Legal",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Vikas  Gupta",
-      "role": "Chief Executive Officer of eB2B",
-      "age": 49,
-      "year_born": 1976,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Vishal  Gupta",
-      "role": "Chief Executive Officer of Nykaa Distribution",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ms. Sukhleen  Aneja",
-      "role": "SVP & Business Head for Kay Beauty",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

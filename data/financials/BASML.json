@@ -1,21 +1,21 @@
 {
   "ticker": "BASML",
-  "collected_at": "2026-08-12 03:41:28",
+  "collected_at": "2026-08-13 03:44:30",
   "company_info": {
     "name": "Bannari Amman Spinning Mills Ltd",
     "sector": "Consumer Cyclical",
     "industry": "Textile Manufacturing",
-    "market_cap": 2152282624,
-    "current_price": 26.93,
-    "pe_ratio": 14.026042,
-    "pb_ratio": 0.4544304,
-    "roe": 0.03375,
+    "market_cap": 2064369152,
+    "current_price": 25.83,
+    "pe_ratio": 13.453125,
+    "pb_ratio": 0.43586844,
+    "roe": "N/A",
     "debt_to_equity": 83.809,
-    "revenue": 8703240192,
-    "net_income": 149942000,
+    "revenue": 8695942144,
+    "net_income": 238826000,
     "eps": 1.92,
     "52_week_high": 31.9,
     "52_week_low": 17.05,
-    "dividend_yield": 0.92
+    "dividend_yield": 0.93
   }
 }
