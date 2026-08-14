@@ -1,7 +1,7 @@
 {
   "ticker": "GODREJCP",
   "company": "Godrej Consumer Products Limited",
-  "collected_at": "2026-08-13 03:51:57",
+  "collected_at": "2026-08-14 03:49:31",
   "directors": [
     {
       "name": "Ms. Nisaba Adi Godrej",
@@ -9,13 +9,6 @@
       "age": 47,
       "year_born": 1978,
       "total_pay": 76300000
-    },
-    {
-      "name": "Mr. Sudhir  Sitapati",
-      "role": "CEO, MD & Director",
-      "age": 49,
-      "year_born": 1976,
-      "total_pay": 315400000
     },
     {
       "name": "Mr. Aasif Huseini Malbari",
@@ -71,6 +64,13 @@
       "role": "Head of Corporate Audit & Assurance and Whistle Blowing Officer",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pradeep Kumar M.",
+      "role": "Chief Customer Officer",
+      "age": 54,
+      "year_born": 1971,
       "total_pay": "N/A"
     }
   ]

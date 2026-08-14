@@ -1,21 +1,21 @@
 {
   "ticker": "CAPLIPOINT",
-  "collected_at": "2026-08-13 03:46:09",
+  "collected_at": "2026-08-14 03:43:39",
   "company_info": {
     "name": "Caplin Point Laboratories Limited",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - Specialty & Generic",
-    "market_cap": 189611180032,
-    "current_price": 2498.7,
-    "pe_ratio": 31.528057,
-    "pb_ratio": 5.3990703,
-    "roe": 0.19939,
+    "market_cap": 190006427648,
+    "current_price": 2499.7,
+    "pe_ratio": 28.640009,
+    "pb_ratio": 5.410325,
+    "roe": "N/A",
     "debt_to_equity": 0.127,
-    "revenue": 21871900672,
-    "net_income": 6412400128,
-    "eps": 79.12,
+    "revenue": 22873300992,
+    "net_income": 6653499904,
+    "eps": 87.28,
     "52_week_high": 2699.0,
     "52_week_low": 1500.3,
-    "dividend_yield": 0.3
+    "dividend_yield": 0.32
   }
 }

@@ -1,7 +1,7 @@
 {
   "ticker": "LUMAXIND",
   "company": "Lumax Industries Limited",
-  "collected_at": "2026-08-13 03:58:59",
+  "collected_at": "2026-08-14 03:56:42",
   "directors": [
     {
       "name": "Mr. Deepak  Jain BBA",
@@ -16,13 +16,6 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 43656000
-    },
-    {
-      "name": "Mr. Ravi  Teltia",
-      "role": "VP & CFO",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 15594000
     },
     {
       "name": "Mr. Raajesh Kumar Gupta",
@@ -44,6 +37,13 @@
       "age": 59,
       "year_born": 1966,
       "total_pay": 1813000
+    },
+    {
+      "name": "Mr. Kenjiro  Nakazono",
+      "role": "Executive Director",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": 2257164
     }
   ]
 }

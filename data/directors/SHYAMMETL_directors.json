@@ -1,15 +1,8 @@
 {
   "ticker": "SHYAMMETL",
   "company": "Shyam Metalics and Energy Limited",
-  "collected_at": "2026-08-13 04:09:03",
+  "collected_at": "2026-08-14 04:06:54",
   "directors": [
-    {
-      "name": "Mr. Brij Bhushan Agarwal",
-      "role": "Chairman & MD",
-      "age": 53,
-      "year_born": 1972,
-      "total_pay": 26500000
-    },
     {
       "name": "Mr. Sanjay Kumar Agarwal",
       "role": "Joint MD & Director",
@@ -23,55 +16,6 @@
       "age": 51,
       "year_born": 1974,
       "total_pay": 9780000
-    },
-    {
-      "name": "Mr. Dev Kumar Tiwari",
-      "role": "Whole-Time Director",
-      "age": 54,
-      "year_born": 1971,
-      "total_pay": 6764412
-    },
-    {
-      "name": "Mr. Sheetij  Agarwal",
-      "role": "Whole-Time Director",
-      "age": 27,
-      "year_born": 1998,
-      "total_pay": 13500000
-    },
-    {
-      "name": "Suryakant Kahal Singh",
-      "role": "Chief Operating Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Pankaj  Harlalka",
-      "role": "Head of Investor Relations",
-      "age": 52,
-      "year_born": 1973,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Birendra Kumar Jain",
-      "role": "Company Secretary & Compliance Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 1609349
-    },
-    {
-      "name": "Sharad Kumar Sinha",
-      "role": "Corporate HR Head",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Amit  Agrawal",
-      "role": "General Manager of Commercial",
-      "age": 42,
-      "year_born": 1983,
-      "total_pay": "N/A"
     }
   ]
 }

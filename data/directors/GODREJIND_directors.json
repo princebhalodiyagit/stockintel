@@ -1,7 +1,7 @@
 {
   "ticker": "GODREJIND",
   "company": "Godrej Industries Limited",
-  "collected_at": "2026-08-13 03:51:58",
+  "collected_at": "2026-08-14 03:49:32",
   "directors": [
     {
       "name": "Mr. Nadir Burjorji Godrej B.S., M.S.",
@@ -53,13 +53,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Sudhir  Sitapati",
-      "role": "MD & Chief Executive Officer of Godrej Consumer Products",
-      "age": 49,
-      "year_born": 1976,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Manish  Shah",
       "role": "MD & Chief Executive Officer of Godrej Capital",
       "age": "N/A",
@@ -71,6 +64,13 @@
       "role": "MD & CEO of Godrej Fund Management",
       "age": 46,
       "year_born": 1979,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Gaurav  Pandey",
+      "role": "MD & Chief Executive Officer of Godrej Properties",
+      "age": 41,
+      "year_born": 1984,
       "total_pay": "N/A"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "ticker": "UNIMECH",
   "company": "Unimech Aerospace and Manufacturing Limited",
-  "collected_at": "2026-08-13 04:13:35",
+  "collected_at": "2026-08-14 04:11:28",
   "directors": [
     {
       "name": "Mr. Anil Kumar Puttan",
@@ -39,13 +39,6 @@
       "total_pay": 10800000
     },
     {
-      "name": "Mr. Ravi Bangalore Ramarao",
-      "role": "VP-Technology & IT",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Aakash  Jaiswal",
       "role": "AGM-Investor Relations & Analyst",
       "age": 33,
@@ -67,10 +60,17 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Ramesh  Jaiswara",
-      "role": "Business Unit Head",
-      "age": 51,
-      "year_born": 1974,
+      "name": "Preethi  D. T.",
+      "role": "Finance Controller",
+      "age": 38,
+      "year_born": 1987,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Meenakshi  N. H.",
+      "role": "Finance Controller",
+      "age": 38,
+      "year_born": 1987,
       "total_pay": "N/A"
     }
   ]
