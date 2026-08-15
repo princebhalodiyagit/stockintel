@@ -1,32 +1,11 @@
 {
   "ticker": "GODREJCP",
   "company": "Godrej Consumer Products Limited",
-  "collected_at": "2026-08-14 03:49:31",
+  "collected_at": "2026-08-15 02:44:23",
   "directors": [
-    {
-      "name": "Ms. Nisaba Adi Godrej",
-      "role": "Executive Chairperson",
-      "age": 47,
-      "year_born": 1978,
-      "total_pay": 76300000
-    },
-    {
-      "name": "Mr. Aasif Huseini Malbari",
-      "role": "President of GAUM & Global CFO",
-      "age": 51,
-      "year_born": 1974,
-      "total_pay": "N/A"
-    },
     {
       "name": "Ms. Divya Narayana Murthy",
       "role": "Head of Legal",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ms. Tejal Virendra Jariwala",
-      "role": "Company Secretary & Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
@@ -71,6 +50,27 @@
       "role": "Chief Customer Officer",
       "age": 54,
       "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Venkateswara Rao Yadlapalli",
+      "role": "Head of Research & Development",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jishnu  Batabyal",
+      "role": "Group Head of Business Development of Godrej Industries Group",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jose  Toscano",
+      "role": "President of Americas",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

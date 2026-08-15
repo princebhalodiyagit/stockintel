@@ -1,7 +1,7 @@
 {
   "ticker": "EPL",
   "company": "EPL Limited",
-  "collected_at": "2026-08-14 03:47:27",
+  "collected_at": "2026-08-15 02:42:15",
   "directors": [
     {
       "name": "Mr. Deepak  Goyal",
@@ -53,13 +53,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Rajesh  Bhogavalli",
-      "role": "President of SCM & Sustainability (Global)",
-      "age": 49,
-      "year_born": 1976,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Hemant  Bakshi",
       "role": "MD, Global CEO & Executive Director",
       "age": 61,
@@ -69,6 +62,13 @@
     {
       "name": "Mr. Rajiv  Verma",
       "role": "President of Technology & Printing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kelvin  Wang",
+      "role": "President of EAP Region",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

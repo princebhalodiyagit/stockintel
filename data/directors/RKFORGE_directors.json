@@ -1,7 +1,7 @@
 {
   "ticker": "RKFORGE",
   "company": "Ramkrishna Forgings Limited",
-  "collected_at": "2026-08-14 04:04:22",
+  "collected_at": "2026-08-15 02:59:51",
   "directors": [
     {
       "name": "Mr. Naresh  Jalan",
@@ -60,17 +60,17 @@
       "total_pay": 22130000
     },
     {
-      "name": "Mr. Rahul Kumar Bagaria",
-      "role": "Executive Director of Account & Finance",
-      "age": 47,
-      "year_born": 1978,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Bhupendra  Lodhi",
       "role": "Chief Human Resource Officer",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jayadev  Patasani",
+      "role": "Head of Plant IV",
+      "age": 53,
+      "year_born": 1972,
       "total_pay": "N/A"
     }
   ]

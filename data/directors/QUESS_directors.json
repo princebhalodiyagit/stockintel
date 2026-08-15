@@ -1,7 +1,7 @@
 {
   "ticker": "QUESS",
   "company": "Quess Corp Limited",
-  "collected_at": "2026-08-14 04:03:15",
+  "collected_at": "2026-08-15 02:58:42",
   "directors": [
     {
       "name": "Mr. Neeraj  Jain",
@@ -39,13 +39,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Sunitha  Karthikeyan",
-      "role": "Senior Vice President & Head of HR",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Vijay  Sivaram",
       "role": "Chief Executive Officer of IT Staffing, Recruitment & Search",
       "age": 45,
@@ -67,10 +60,17 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Ishaan  Sarkar",
-      "role": "Chief Business Officer of Food Services",
-      "age": "N/A",
-      "year_born": "N/A",
+      "name": "Mr. Ramneek  Teng",
+      "role": "Chief Executive Officer of Industrial Asset Management - Hofincons",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Munish  Kumar",
+      "role": "CEO of Facility Management and Security Services",
+      "age": 49,
+      "year_born": 1976,
       "total_pay": "N/A"
     }
   ]

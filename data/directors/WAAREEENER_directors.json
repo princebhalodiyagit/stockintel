@@ -1,7 +1,7 @@
 {
   "ticker": "WAAREEENER",
   "company": "Waaree Energies Limited",
-  "collected_at": "2026-08-14 04:12:45",
+  "collected_at": "2026-08-15 03:08:37",
   "directors": [
     {
       "name": "Mr. Hitesh Chimanlal Doshi",
@@ -30,13 +30,6 @@
       "age": 60,
       "year_born": 1965,
       "total_pay": 592000
-    },
-    {
-      "name": "Mr. Jignesh Devchandbhai Rathod",
-      "role": "CEO & Whole-Time Director",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
     },
     {
       "name": "Ashish  Sharma",
@@ -71,6 +64,13 @@
       "role": "Director of Sales",
       "age": 55,
       "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Aniruddha Arvind Khekale",
+      "role": "Chief Human Resources Officer",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

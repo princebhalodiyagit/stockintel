@@ -1,7 +1,7 @@
 {
   "ticker": "DRREDDY",
   "company": "Dr. Reddy's Laboratories Limited",
-  "collected_at": "2026-08-14 03:46:33",
+  "collected_at": "2026-08-15 02:41:20",
   "directors": [
     {
       "name": "Mr. Gunupati Venkateswara Prasad B.E.",
@@ -39,13 +39,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Deepak  Sapra M.B.A.",
-      "role": "Global Head of Pharmaceutical Services and Active Ingredients & Member of Management Council",
-      "age": 50,
-      "year_born": 1975,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Motupalli Venkata Ramana M.B.A.",
       "role": "CEO of Global Generics & Member of Management Council",
       "age": 56,
@@ -71,6 +64,13 @@
       "role": "Chief Digital & Information Officer and Member of the Management Council",
       "age": 45,
       "year_born": 1980,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Milan  Kalawadia",
+      "role": "CEO of North America & Member of Management Council",
+      "age": 48,
+      "year_born": 1977,
       "total_pay": "N/A"
     }
   ]

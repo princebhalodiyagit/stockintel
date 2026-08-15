@@ -1,21 +1,21 @@
 {
   "ticker": "EKC",
-  "collected_at": "2026-08-14 03:46:55",
+  "collected_at": "2026-08-15 02:41:43",
   "company_info": {
     "name": "Everest Kanto Cylinder Limited",
     "sector": "Industrials",
     "industry": "Specialty Industrial Machinery",
-    "market_cap": 13066584064,
-    "current_price": 116.45,
-    "pe_ratio": 8.5688,
-    "pb_ratio": 0.93353426,
-    "roe": 0.11256,
+    "market_cap": 12388850688,
+    "current_price": 110.41,
+    "pe_ratio": 8.434683,
+    "pb_ratio": 0.885114,
+    "roe": "N/A",
     "debt_to_equity": 19.067,
-    "revenue": 14705699840,
-    "net_income": 1468499968,
-    "eps": 13.59,
+    "revenue": 14340599808,
+    "net_income": 1252899968,
+    "eps": 13.09,
     "52_week_high": 154.55,
     "52_week_low": 90.25,
-    "dividend_yield": 0.62
+    "dividend_yield": 0.6
   }
 }

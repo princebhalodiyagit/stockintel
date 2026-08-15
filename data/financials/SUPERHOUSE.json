@@ -1,21 +1,21 @@
 {
   "ticker": "SUPERHOUSE",
-  "collected_at": "2026-08-14 04:08:48",
+  "collected_at": "2026-08-15 03:04:29",
   "company_info": {
     "name": "Superhouse Limited",
     "sector": "Consumer Cyclical",
     "industry": "Footwear & Accessories",
-    "market_cap": 1874139776,
-    "current_price": 169.99,
-    "pe_ratio": 59.22997,
-    "pb_ratio": 0.32900825,
-    "roe": 0.00759,
+    "market_cap": 1868958080,
+    "current_price": 169.52,
+    "pe_ratio": 59.066204,
+    "pb_ratio": 0.32809857,
+    "roe": "N/A",
     "debt_to_equity": 37.099,
-    "revenue": 6772606976,
-    "net_income": 30802000,
+    "revenue": 6765203968,
+    "net_income": 72054000,
     "eps": 2.87,
     "52_week_high": 201.95,
     "52_week_low": 128.55,
-    "dividend_yield": 0.5
+    "dividend_yield": 0.48
   }
 }

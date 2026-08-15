@@ -1,7 +1,7 @@
 {
   "ticker": "MASFIN",
   "company": "MAS Financial Services Limited",
-  "collected_at": "2026-08-14 03:57:35",
+  "collected_at": "2026-08-15 02:52:47",
   "directors": [
     {
       "name": "Mr. Kamlesh Chimanlal Gandhi",
@@ -9,20 +9,6 @@
       "age": 59,
       "year_born": 1966,
       "total_pay": 91200000
-    },
-    {
-      "name": "Ms. Darshana Saumil Pandya",
-      "role": "CEO & Executive Director",
-      "age": 53,
-      "year_born": 1972,
-      "total_pay": 14900000
-    },
-    {
-      "name": "Mr. Dhvanil Kamlesh Gandhi",
-      "role": "Executive Director",
-      "age": 32,
-      "year_born": 1993,
-      "total_pay": 7700000
     },
     {
       "name": "Mr. Saumil Dipakbhai Pandya",
@@ -67,10 +53,24 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Sunil J. Shah",
-      "role": "Head of portfolio",
-      "age": 54,
-      "year_born": 1971,
+      "name": "Mr. Nishant  Jain",
+      "role": "Chief Risk Officer",
+      "age": 37,
+      "year_born": 1988,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Gaurang Arvindbhai Kasudia",
+      "role": "Head of EDP",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Nipul J. Mehta",
+      "role": "Chief Operating Officer of Retail Assets",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

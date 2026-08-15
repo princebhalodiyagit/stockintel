@@ -1,14 +1,14 @@
 {
   "ticker": "IPL",
-  "collected_at": "2026-08-14 03:53:07",
+  "collected_at": "2026-08-15 02:48:07",
   "company_info": {
     "name": "India Pesticides Limited",
     "sector": "Basic Materials",
     "industry": "Agricultural Inputs",
-    "market_cap": 16353217536,
-    "current_price": 142.0,
-    "pe_ratio": 15.187165,
-    "pb_ratio": 1.6195625,
+    "market_cap": 16182775808,
+    "current_price": 140.52,
+    "pe_ratio": 15.028877,
+    "pb_ratio": 1.6026826,
     "roe": "N/A",
     "debt_to_equity": 10.912,
     "revenue": 10339999744,
@@ -16,6 +16,6 @@
     "eps": 9.35,
     "52_week_high": 245.84,
     "52_week_low": 125.0,
-    "dividend_yield": 0.52
+    "dividend_yield": 0.53
   }
 }

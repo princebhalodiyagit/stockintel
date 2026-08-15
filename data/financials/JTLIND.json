@@ -1,14 +1,14 @@
 {
   "ticker": "JTLIND",
-  "collected_at": "2026-08-14 03:54:20",
+  "collected_at": "2026-08-15 02:49:23",
   "company_info": {
     "name": "JTL Industries Limited",
     "sector": "Basic Materials",
     "industry": "Steel",
-    "market_cap": 30023573504,
-    "current_price": 76.38,
-    "pe_ratio": 24.63871,
-    "pb_ratio": 1.8417689,
+    "market_cap": 29575460864,
+    "current_price": 75.24,
+    "pe_ratio": 24.270967,
+    "pb_ratio": 1.8142798,
     "roe": "N/A",
     "debt_to_equity": 16.038,
     "revenue": 23141109760,
@@ -16,6 +16,6 @@
     "eps": 3.1,
     "52_week_high": 87.2,
     "52_week_low": 40.25,
-    "dividend_yield": 0.17
+    "dividend_yield": 0.16
   }
 }

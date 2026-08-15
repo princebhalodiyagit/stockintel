@@ -1,15 +1,8 @@
 {
   "ticker": "GRAVITA",
   "company": "Gravita India Limited",
-  "collected_at": "2026-08-14 03:49:54",
+  "collected_at": "2026-08-15 02:44:46",
   "directors": [
-    {
-      "name": "Mr. Rajat  Agrawal",
-      "role": "Founder, MD & Executive Non-Independent Chairman",
-      "age": 58,
-      "year_born": 1967,
-      "total_pay": 66591000
-    },
     {
       "name": "Dr. Yogesh  Malhotra",
       "role": "CEO & Whole Time Director",
@@ -37,13 +30,6 @@
       "age": 56,
       "year_born": 1969,
       "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Naveen Prakash Sharma",
-      "role": "Executive Director",
-      "age": 55,
-      "year_born": 1970,
-      "total_pay": 6899000
     }
   ]
 }

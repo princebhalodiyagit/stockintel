@@ -1,21 +1,21 @@
 {
   "ticker": "BAJAJINDEF",
-  "collected_at": "2026-08-14 03:41:34",
+  "collected_at": "2026-08-15 02:36:03",
   "company_info": {
     "name": "Indef Manufacturing Limited",
     "sector": "Industrials",
     "industry": "Farm & Heavy Construction Machinery",
-    "market_cap": 6984640000,
-    "current_price": 218.27,
-    "pe_ratio": 29.57588,
-    "pb_ratio": 2.5891438,
-    "roe": 0.08966,
+    "market_cap": 6948800000,
+    "current_price": 217.15,
+    "pe_ratio": 29.424118,
+    "pb_ratio": 2.575858,
+    "roe": "N/A",
     "debt_to_equity": 1.818,
-    "revenue": 2076941056,
-    "net_income": 236283008,
+    "revenue": 2024520960,
+    "net_income": 234782000,
     "eps": 7.38,
     "52_week_high": 442.6,
     "52_week_low": 207.25,
-    "dividend_yield": 0.86
+    "dividend_yield": 0.92
   }
 }

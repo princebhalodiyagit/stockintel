@@ -1,21 +1,14 @@
 {
   "ticker": "AUBANK",
   "company": "AU Small Finance Bank Limited",
-  "collected_at": "2026-08-14 03:40:58",
+  "collected_at": "2026-08-15 02:35:26",
   "directors": [
     {
       "name": "Mr. Sanjay  Agarwal C.A.",
       "role": "Founder, MD, CEO & Executive Director",
       "age": 54,
       "year_born": 1971,
-      "total_pay": 40100000
-    },
-    {
-      "name": "Mr. Uttam  Tibrewal",
-      "role": "Deputy Chief Executive Officer",
-      "age": 54,
-      "year_born": 1971,
-      "total_pay": 28900000
+      "total_pay": 55200000
     },
     {
       "name": "Mr. Manmohan  Parnami",
@@ -36,13 +29,6 @@
       "role": "Chief Information Officer",
       "age": 41,
       "year_born": 1984,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Manoj  Tibrewal",
-      "role": "Head of Customer Experience and Group Head of HR, Admin & Infra",
-      "age": 55,
-      "year_born": 1970,
       "total_pay": "N/A"
     },
     {
@@ -71,6 +57,20 @@
       "role": "President of Core Market Banking",
       "age": 43,
       "year_born": 1982,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vivek  Tripathi",
+      "role": "Chief Credit Officer & Whole-Time Director",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Yogesh  Jain",
+      "role": "Deputy CEO",
+      "age": 44,
+      "year_born": 1981,
       "total_pay": "N/A"
     }
   ]

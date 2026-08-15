@@ -1,21 +1,21 @@
 {
   "ticker": "SOLARINDS",
-  "collected_at": "2026-08-14 04:07:32",
+  "collected_at": "2026-08-15 03:03:11",
   "company_info": {
     "name": "Solar Industries India Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals",
-    "market_cap": 1772700172288,
-    "current_price": 19590.0,
-    "pe_ratio": 97.36096,
-    "pb_ratio": 28.24032,
-    "roe": 0.31228,
+    "market_cap": 1806995947520,
+    "current_price": 19969.0,
+    "pe_ratio": 92.59053,
+    "pb_ratio": 28.786674,
+    "roe": "N/A",
     "debt_to_equity": 23.271,
-    "revenue": 98377400320,
-    "net_income": 16775499776,
-    "eps": 201.21,
+    "revenue": 113514897408,
+    "net_income": 19914000384,
+    "eps": 215.67,
     "52_week_high": 20400.0,
     "52_week_low": 11646.0,
-    "dividend_yield": 0.06
+    "dividend_yield": 0.05
   }
 }

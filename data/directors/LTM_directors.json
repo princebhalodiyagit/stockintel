@@ -1,15 +1,8 @@
 {
   "ticker": "LTM",
   "company": "LTM Limited",
-  "collected_at": "2026-08-14 03:56:40",
+  "collected_at": "2026-08-15 02:51:50",
   "directors": [
-    {
-      "name": "Mr. Venugopal  Lambu",
-      "role": "CEO, MD & Director",
-      "age": 52,
-      "year_born": 1973,
-      "total_pay": 272640000
-    },
     {
       "name": "Mr. Vipul  Chandra",
       "role": "CFO & Whole-time Director",
@@ -69,6 +62,13 @@
     {
       "name": "Dibyendu  Halder",
       "role": "Head of Media & Entertainment \u0096 Americas",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ramesh  Kannan",
+      "role": "Head of Oil & Gas \u0096 Americas",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

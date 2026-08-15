@@ -1,21 +1,21 @@
 {
   "ticker": "SHREYANIND",
-  "collected_at": "2026-08-14 04:06:47",
+  "collected_at": "2026-08-15 03:02:19",
   "company_info": {
     "name": "Shreyans Industries Limited",
     "sector": "Basic Materials",
     "industry": "Paper & Paper Products",
-    "market_cap": 1838665088,
-    "current_price": 133.0,
-    "pe_ratio": 28.479656,
-    "pb_ratio": 0.43081808,
-    "roe": 0.01516,
+    "market_cap": 1800924160,
+    "current_price": 130.27,
+    "pe_ratio": 27.835472,
+    "pb_ratio": 0.421975,
+    "roe": "N/A",
     "debt_to_equity": 14.387,
-    "revenue": 6228308992,
-    "net_income": 64678000,
-    "eps": 4.67,
+    "revenue": 6282392064,
+    "net_income": -140354000,
+    "eps": 4.68,
     "52_week_high": 247.22,
     "52_week_low": 122.0,
-    "dividend_yield": 1.07
+    "dividend_yield": 1.13
   }
 }

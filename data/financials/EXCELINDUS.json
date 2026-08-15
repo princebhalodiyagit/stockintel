@@ -1,21 +1,21 @@
 {
   "ticker": "EXCELINDUS",
-  "collected_at": "2026-08-14 03:47:44",
+  "collected_at": "2026-08-15 02:42:33",
   "company_info": {
     "name": "Excel Industries Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals",
-    "market_cap": 13065348096,
-    "current_price": 1039.35,
-    "pe_ratio": 17.259216,
-    "pb_ratio": 0.76710796,
-    "roe": 0.04597,
+    "market_cap": 12742282240,
+    "current_price": 1013.65,
+    "pe_ratio": 16.843636,
+    "pb_ratio": 0.7481397,
+    "roe": "N/A",
     "debt_to_equity": 0.463,
-    "revenue": 10945215488,
-    "net_income": 756654016,
-    "eps": 60.22,
+    "revenue": 10733398016,
+    "net_income": 713734976,
+    "eps": 60.18,
     "52_week_high": 1348.8,
     "52_week_low": 800.05,
-    "dividend_yield": 1.31
+    "dividend_yield": 1.32
   }
 }

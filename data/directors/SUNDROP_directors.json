@@ -1,15 +1,8 @@
 {
   "ticker": "SUNDROP",
   "company": "Sundrop Brands Limited",
-  "collected_at": "2026-08-14 04:08:43",
+  "collected_at": "2026-08-15 03:04:24",
   "directors": [
-    {
-      "name": "Mr. Asheesh Kumar Sharma B.Sc., PGDBM",
-      "role": "Whole-Time Director, CEO & Director",
-      "age": 55,
-      "year_born": 1970,
-      "total_pay": 21007701
-    },
     {
       "name": "Mr. Nitish  Bajaj",
       "role": "Group MD & Executive Director",
@@ -69,6 +62,13 @@
     {
       "name": "Mr. Hitesh  Yadav",
       "role": "Head of Procurement & Business Development",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rupish  Saldi",
+      "role": "Head of Strategy & Business Transformation",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

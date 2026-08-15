@@ -1,15 +1,8 @@
 {
   "ticker": "GILLETTE",
   "company": "Gillette India Limited",
-  "collected_at": "2026-08-14 03:49:00",
+  "collected_at": "2026-08-15 02:43:52",
   "directors": [
-    {
-      "name": "Mr. Kumar  Venkatasubramanian",
-      "role": "Managing Director",
-      "age": 49,
-      "year_born": 1976,
-      "total_pay": 8808000
-    },
     {
       "name": "Ms. Flavia Peter Machado",
       "role": "Company Secretary & Compliance Officer",
@@ -23,20 +16,6 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 33217000
-    },
-    {
-      "name": "Mr. Kapil  Sharma",
-      "role": "Category Head of Grooming",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Kartik  Harugoli",
-      "role": "Head of Purchases",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
     }
   ]
 }

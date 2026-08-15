@@ -1,15 +1,8 @@
 {
   "ticker": "VGUARD",
   "company": "V-Guard Industries Limited",
-  "collected_at": "2026-08-14 04:12:11",
+  "collected_at": "2026-08-15 03:08:02",
   "directors": [
-    {
-      "name": "Mr. Mithun K. Chittilappilly",
-      "role": "MD & Executive Director",
-      "age": 45,
-      "year_born": 1980,
-      "total_pay": 106756000
-    },
     {
       "name": "Mr. Sudarshan  Kasturi",
       "role": "Senior VP & CFO",
@@ -69,6 +62,13 @@
     {
       "name": "Mr. Roopak  Ahluwalia",
       "role": "Sr GM & Head of Legal",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Nandagopal  Nair",
+      "role": "VP and Head of Brand & Communications",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

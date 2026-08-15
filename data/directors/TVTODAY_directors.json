@@ -1,7 +1,7 @@
 {
   "ticker": "TVTODAY",
   "company": "TV Today Network Limited",
-  "collected_at": "2026-08-14 04:11:08",
+  "collected_at": "2026-08-15 03:06:57",
   "directors": [
     {
       "name": "Mr. Aroon  Purie",
@@ -11,25 +11,11 @@
       "total_pay": 21820933
     },
     {
-      "name": "Ms. Kalli Purie Bhandal",
-      "role": "MD & Vice Chairperson",
-      "age": 53,
-      "year_born": 1972,
-      "total_pay": 59930555
-    },
-    {
       "name": "Mr. Dinesh  Bhatia",
       "role": "Group Chief Executive Officer",
       "age": 60,
       "year_born": 1965,
       "total_pay": 31185923
-    },
-    {
-      "name": "Mr. Supriya  Prasad PGDP",
-      "role": "Managing Editor",
-      "age": 54,
-      "year_born": 1971,
-      "total_pay": "N/A"
     },
     {
       "name": "Mr. Yatender Kumar Tyagi",
@@ -71,6 +57,20 @@
       "role": "Bureau Chief",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Salil  Kumar",
+      "role": "Chief Executive Officer of Digital Business",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vijayant  Kumar",
+      "role": "Chief Technology Officer of Television",
+      "age": 54,
+      "year_born": 1971,
       "total_pay": "N/A"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "ticker": "FIVESTAR",
   "company": "Five-Star Business Finance Limited",
-  "collected_at": "2026-08-14 03:48:08",
+  "collected_at": "2026-08-15 02:42:58",
   "directors": [
     {
       "name": "Mr. Lakshmipathy  Deenadayalan",
@@ -23,13 +23,6 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 2831000
-    },
-    {
-      "name": "Mr. Vishnuram  Jagannathan",
-      "role": "Chief Operating Officer",
-      "age": 44,
-      "year_born": 1981,
-      "total_pay": "N/A"
     },
     {
       "name": "Mr. K. Arun Kumar",
@@ -71,6 +64,13 @@
       "role": "Chief People Officer",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Parthasarathy  Srinivasan",
+      "role": "Chief Credit Officer",
+      "age": 43,
+      "year_born": 1982,
       "total_pay": "N/A"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "ticker": "SENCO",
   "company": "Senco Gold Limited",
-  "collected_at": "2026-08-14 04:06:06",
+  "collected_at": "2026-08-15 03:01:37",
   "directors": [
     {
       "name": "Ms. Ranjana  Sen",
@@ -25,13 +25,6 @@
       "total_pay": 10412227
     },
     {
-      "name": "Mr. Sanjay  Banka",
-      "role": "Chief Financial Officer",
-      "age": 56,
-      "year_born": 1969,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Sanjay  Banerjee",
       "role": "Chief Operating Officer",
       "age": 63,
@@ -46,24 +39,10 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Mukund  Chandak",
-      "role": "Company Secretary, Compliance Officer & Chief GM of Legal",
-      "age": 42,
-      "year_born": 1983,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Ms. Subhashri  Sengupta",
       "role": "Chief Human Resources Officer",
       "age": 52,
       "year_born": 1973,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Debjit  Mallick",
-      "role": "Chief General Manager of Gold Merchandising",
-      "age": "N/A",
-      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]
