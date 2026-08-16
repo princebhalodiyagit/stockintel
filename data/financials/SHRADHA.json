@@ -1,6 +1,6 @@
 {
   "ticker": "SHRADHA",
-  "collected_at": "2026-08-15 03:02:13",
+  "collected_at": "2026-08-16 03:15:41",
   "company_info": {
     "name": "Shradha Realty Limited",
     "sector": "Real Estate",
@@ -9,13 +9,13 @@
     "current_price": 34.45,
     "pe_ratio": 8.381995,
     "pb_ratio": 0.93504876,
-    "roe": 0.11311,
+    "roe": "N/A",
     "debt_to_equity": 30.406,
-    "revenue": 1170514048,
-    "net_income": 268595008,
+    "revenue": 1169828992,
+    "net_income": 266159008,
     "eps": 4.11,
     "52_week_high": 65.02,
     "52_week_low": 26.34,
-    "dividend_yield": 1.33
+    "dividend_yield": 1.74
   }
 }

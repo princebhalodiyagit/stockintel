@@ -1,6 +1,6 @@
 {
   "ticker": "WINDLAS",
-  "collected_at": "2026-08-15 03:09:01",
+  "collected_at": "2026-08-16 03:23:31",
   "company_info": {
     "name": "Windlas Biotech Limited",
     "sector": "Healthcare",
@@ -9,13 +9,13 @@
     "current_price": 949.45,
     "pe_ratio": 30.489725,
     "pb_ratio": 3.731528,
-    "roe": 0.122320004,
+    "roe": "N/A",
     "debt_to_equity": 6.067,
-    "revenue": 9040889856,
-    "net_income": 664560000,
+    "revenue": 9420980224,
+    "net_income": 664440000,
     "eps": 31.14,
     "52_week_high": 1097.9,
     "52_week_low": 697.4,
-    "dividend_yield": 0.71
+    "dividend_yield": 0.66
   }
 }

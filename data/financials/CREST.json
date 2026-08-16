@@ -1,21 +1,21 @@
 {
   "ticker": "CREST",
-  "collected_at": "2026-08-15 02:39:42",
+  "collected_at": "2026-08-16 02:49:32",
   "company_info": {
     "name": "Crest Ventures Limited",
     "sector": "Financial Services",
     "industry": "Financial Conglomerates",
     "market_cap": 10198652928,
     "current_price": 360.8,
-    "pe_ratio": 21.919806,
+    "pe_ratio": 21.933128,
     "pb_ratio": 0.7802903,
-    "roe": 0.03751,
+    "roe": "N/A",
     "debt_to_equity": 15.374,
-    "revenue": 1592280064,
-    "net_income": 468343008,
-    "eps": 16.46,
+    "revenue": 1264018048,
+    "net_income": 329852000,
+    "eps": 16.45,
     "52_week_high": 418.0,
     "52_week_low": 298.15,
-    "dividend_yield": 0.27
+    "dividend_yield": 0.28
   }
 }
