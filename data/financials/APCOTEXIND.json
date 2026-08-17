@@ -1,14 +1,14 @@
 {
   "ticker": "APCOTEXIND",
-  "collected_at": "2026-08-16 02:43:19",
+  "collected_at": "2026-08-17 02:42:37",
   "company_info": {
     "name": "Apcotex Industries Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals",
-    "market_cap": 31081054208,
-    "current_price": 599.5,
-    "pe_ratio": 19.27033,
-    "pb_ratio": 5.0050926,
+    "market_cap": 30982547456,
+    "current_price": 597.6,
+    "pe_ratio": 19.209257,
+    "pb_ratio": 4.9892297,
     "roe": "N/A",
     "debt_to_equity": 15.522,
     "revenue": 15913681920,
@@ -16,6 +16,6 @@
     "eps": 31.11,
     "52_week_high": 712.0,
     "52_week_low": 310.45,
-    "dividend_yield": 1.35
+    "dividend_yield": 1.33
   }
 }

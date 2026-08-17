@@ -1,14 +1,14 @@
 {
   "ticker": "ARIES",
-  "collected_at": "2026-08-16 02:43:40",
+  "collected_at": "2026-08-17 02:42:54",
   "company_info": {
     "name": "Aries Agro Limited",
     "sector": "Basic Materials",
     "industry": "Agricultural Inputs",
-    "market_cap": 5377294336,
-    "current_price": 413.5,
-    "pe_ratio": 12.54551,
-    "pb_ratio": 1.6073109,
+    "market_cap": 5396800512,
+    "current_price": 415.0,
+    "pe_ratio": 12.59102,
+    "pb_ratio": 1.6131415,
     "roe": "N/A",
     "debt_to_equity": 16.482,
     "revenue": 7661265920,
@@ -16,6 +16,6 @@
     "eps": 32.96,
     "52_week_high": 459.9,
     "52_week_low": 285.35,
-    "dividend_yield": 0.36
+    "dividend_yield": 0.39
   }
 }

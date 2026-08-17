@@ -1,15 +1,8 @@
 {
   "ticker": "GODREJAGRO",
   "company": "Godrej Agrovet Limited",
-  "collected_at": "2026-08-16 02:54:59",
+  "collected_at": "2026-08-17 02:52:37",
   "directors": [
-    {
-      "name": "Mr. Sunil  Kataria",
-      "role": "MD, CEO & Director",
-      "age": 57,
-      "year_born": 1968,
-      "total_pay": 106744258
-    },
     {
       "name": "Mr. Subramanian  Varadaraj",
       "role": "CFO and Head of Finance & Legal",
@@ -69,6 +62,13 @@
     {
       "name": "Captain A.Y.  Rajendra",
       "role": "Chief Executive Officer of Aqua Feed & Animal Feed Business",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sivaram  Yadavalli",
+      "role": "Head \u0096 Strategy & Business Development",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

@@ -1,21 +1,21 @@
 {
   "ticker": "GLAND",
-  "collected_at": "2026-08-16 02:54:30",
+  "collected_at": "2026-08-17 02:51:55",
   "company_info": {
     "name": "Gland Pharma Limited",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - Specialty & Generic",
-    "market_cap": 489983967232,
-    "current_price": 2970.2,
-    "pe_ratio": 43.48119,
-    "pb_ratio": 4.7244797,
-    "roe": 0.10532,
+    "market_cap": 489934454784,
+    "current_price": 2969.9,
+    "pe_ratio": 43.476795,
+    "pb_ratio": 4.7240024,
+    "roe": "N/A",
     "debt_to_equity": 2.738,
-    "revenue": 64306499584,
-    "net_income": 10273160192,
+    "revenue": 67252989952,
+    "net_income": 11287929856,
     "eps": 68.31,
     "52_week_high": 3039.8,
     "52_week_low": 1573.6,
-    "dividend_yield": 0.77
+    "dividend_yield": 0.67
   }
 }

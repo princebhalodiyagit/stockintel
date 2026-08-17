@@ -1,6 +1,42 @@
 {
   "ticker": "PVSL",
   "company": "Popular Vehicles and Services Limited",
-  "collected_at": "2026-08-16 03:11:32",
-  "directors": []
+  "collected_at": "2026-08-17 03:06:57",
+  "directors": [
+    {
+      "name": "Mr. Raj  Narayan",
+      "role": "Chief Executive Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 14340000
+    },
+    {
+      "name": "Mr. Abraham  Mammen",
+      "role": "Group Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 8560000
+    },
+    {
+      "name": "Mr. Varun Thazhathu Veedu",
+      "role": "Company Secretary &  Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 3410000
+    },
+    {
+      "name": "Mr. Naveen  Philip",
+      "role": "MD & Director",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": 10630000
+    },
+    {
+      "name": "Mr. N.C. Dilip Kumar",
+      "role": "Group Marketing Head",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

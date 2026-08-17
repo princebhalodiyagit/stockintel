@@ -1,21 +1,21 @@
 {
   "ticker": "AVANTIFEED",
-  "collected_at": "2026-08-16 02:44:52",
+  "collected_at": "2026-08-17 02:43:53",
   "company_info": {
     "name": "Avanti Feeds Limited",
     "sector": "Consumer Defensive",
     "industry": "Packaged Foods",
-    "market_cap": 117361991680,
-    "current_price": 861.4,
-    "pe_ratio": 22.121214,
-    "pb_ratio": 3.5715175,
-    "roe": 0.19055,
+    "market_cap": 117375614976,
+    "current_price": 861.5,
+    "pe_ratio": 22.123781,
+    "pb_ratio": 3.571932,
+    "roe": "N/A",
     "debt_to_equity": 0.357,
-    "revenue": 60658581504,
-    "net_income": 6050165760,
+    "revenue": 63750623232,
+    "net_income": 5302288896,
     "eps": 38.94,
     "52_week_high": 1593.8,
     "52_week_low": 614.25,
-    "dividend_yield": 1.15
+    "dividend_yield": 1.16
   }
 }

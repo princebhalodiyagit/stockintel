@@ -1,6 +1,63 @@
 {
   "ticker": "INNOVACAP",
   "company": "Innova Captab Limited",
-  "collected_at": "2026-08-16 02:59:03",
-  "directors": []
+  "collected_at": "2026-08-17 02:56:29",
+  "directors": [
+    {
+      "name": "Mr. Manoj Kumar Lohariwala",
+      "role": "Executive Chairman",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": 14826961
+    },
+    {
+      "name": "Mr. Vinay Kumar Lohariwala",
+      "role": "MD & Director",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": 14826961
+    },
+    {
+      "name": "Mr. Lokesh  Bhasin",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 9520000
+    },
+    {
+      "name": "Ms. Neeharika  Shukla",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 1500000
+    },
+    {
+      "name": "Mr. Jayant Vasudeo Rao",
+      "role": "Whole-time Director",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": 1972051
+    },
+    {
+      "name": "Mr. MukeshKumar Siyaram Singh",
+      "role": "Deputy Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 3620000
+    },
+    {
+      "name": "Mr. Ayush Kumar Garg",
+      "role": "Head of Investor Relations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Rakhi  Makhloga",
+      "role": "Company Secretary of Sharon Bio - Medicine Limited",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 990000
+    }
+  ]
 }

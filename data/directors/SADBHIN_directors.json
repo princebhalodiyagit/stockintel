@@ -1,6 +1,28 @@
 {
   "ticker": "SADBHIN",
   "company": "Sadbhav Infrastructure Project Limited",
-  "collected_at": "2026-08-16 03:13:47",
-  "directors": []
+  "collected_at": "2026-08-17 03:08:50",
+  "directors": [
+    {
+      "name": "Mr. Shashin Vishnubhai Patel MBA",
+      "role": "Executive Chairman & Whole Time Director",
+      "age": 44,
+      "year_born": 1981,
+      "total_pay": 18000000
+    },
+    {
+      "name": "Mr. Kaivan  Vora",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kedar  Pandya",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

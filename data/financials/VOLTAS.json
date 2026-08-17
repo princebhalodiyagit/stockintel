@@ -1,6 +1,6 @@
 {
   "ticker": "VOLTAS",
-  "collected_at": "2026-08-16 03:22:52",
+  "collected_at": "2026-08-17 03:16:30",
   "company_info": {
     "name": "Voltas Limited",
     "sector": "Consumer Cyclical",
@@ -9,13 +9,13 @@
     "current_price": 1320.5,
     "pe_ratio": 97.09559,
     "pb_ratio": 6.8525496,
-    "roe": 0.057189997,
+    "roe": "N/A",
     "debt_to_equity": 15.51,
-    "revenue": 142445002752,
-    "net_income": 3758799872,
+    "revenue": 149794193408,
+    "net_income": 4491800064,
     "eps": 13.6,
     "52_week_high": 1582.5,
     "52_week_low": 1186.8,
-    "dividend_yield": 0.31
+    "dividend_yield": 0.3
   }
 }

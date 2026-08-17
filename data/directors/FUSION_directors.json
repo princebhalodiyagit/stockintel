@@ -1,7 +1,7 @@
 {
   "ticker": "FUSION",
   "company": "Fusion Finance Limited",
-  "collected_at": "2026-08-16 02:53:38",
+  "collected_at": "2026-08-17 02:51:12",
   "directors": [
     {
       "name": "Mr. Sanjay  Garyali",
@@ -39,13 +39,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Jitender  Sharma",
-      "role": "Deputy COO for MSME Business",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Krishan  Gopal",
       "role": "Chief Financial Officer",
       "age": 42,
@@ -71,6 +64,13 @@
       "role": "Chief Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Satish  Mani",
+      "role": "Chief Vigilance Officer & Interim Head of Internal Audit",
+      "age": 52,
+      "year_born": 1973,
       "total_pay": "N/A"
     }
   ]

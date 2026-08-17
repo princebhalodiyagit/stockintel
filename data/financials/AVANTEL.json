@@ -1,14 +1,14 @@
 {
   "ticker": "AVANTEL",
-  "collected_at": "2026-08-16 02:44:51",
+  "collected_at": "2026-08-17 02:43:52",
   "company_info": {
     "name": "Avantel Limited",
     "sector": "Technology",
     "industry": "Communication Equipment",
-    "market_cap": 42115170304,
-    "current_price": 158.5,
-    "pe_ratio": 368.60464,
-    "pb_ratio": 12.451881,
+    "market_cap": 42077970432,
+    "current_price": 158.36,
+    "pe_ratio": 368.27905,
+    "pb_ratio": 12.440883,
     "roe": "N/A",
     "debt_to_equity": 10.164,
     "revenue": 2413811968,
@@ -16,6 +16,6 @@
     "eps": 0.43,
     "52_week_high": 215.0,
     "52_week_low": 117.05,
-    "dividend_yield": 0.12
+    "dividend_yield": 0.13
   }
 }

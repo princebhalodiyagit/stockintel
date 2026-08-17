@@ -1,14 +1,14 @@
 {
   "ticker": "SUPRIYA",
-  "collected_at": "2026-08-16 03:18:19",
+  "collected_at": "2026-08-17 03:12:42",
   "company_info": {
     "name": "Supriya Lifescience Limited",
     "sector": "Healthcare",
     "industry": "Biotechnology",
-    "market_cap": 63714209792,
-    "current_price": 791.65,
-    "pe_ratio": 30.483252,
-    "pb_ratio": 5.3212657,
+    "market_cap": 63585435648,
+    "current_price": 790.05,
+    "pe_ratio": 30.42164,
+    "pb_ratio": 5.3105106,
     "roe": "N/A",
     "debt_to_equity": 0.454,
     "revenue": 8725220352,
@@ -16,6 +16,6 @@
     "eps": 25.97,
     "52_week_high": 1085.0,
     "52_week_low": 545.5,
-    "dividend_yield": 0.12
+    "dividend_yield": 0.13
   }
 }
