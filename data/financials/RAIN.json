@@ -1,14 +1,14 @@
 {
   "ticker": "RAIN",
-  "collected_at": "2026-08-17 03:07:11",
+  "collected_at": "2026-08-18 03:09:52",
   "company_info": {
     "name": "Rain Industries Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals",
-    "market_cap": 69825363968,
-    "current_price": 207.6,
-    "pe_ratio": 13.007519,
-    "pb_ratio": 0.9373646,
+    "market_cap": 69256937472,
+    "current_price": 205.91,
+    "pe_ratio": 12.901629,
+    "pb_ratio": 0.9297338,
     "roe": 0.08547,
     "debt_to_equity": 130.481,
     "revenue": 184643141632,
@@ -16,6 +16,6 @@
     "eps": 15.96,
     "52_week_high": 252.0,
     "52_week_low": 99.9,
-    "dividend_yield": 0.47
+    "dividend_yield": 0.48
   }
 }

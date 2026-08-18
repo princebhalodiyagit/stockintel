@@ -1,21 +1,21 @@
 {
   "ticker": "INTLCONV",
-  "collected_at": "2026-08-17 02:56:39",
+  "collected_at": "2026-08-18 02:55:28",
   "company_info": {
     "name": "International Conveyors Limited",
     "sector": "Industrials",
     "industry": "Specialty Industrial Machinery",
-    "market_cap": 5038699008,
-    "current_price": 79.0,
-    "pe_ratio": 7.35568,
-    "pb_ratio": 1.1874521,
-    "roe": 0.17397,
+    "market_cap": 5042525696,
+    "current_price": 79.06,
+    "pe_ratio": 7.0526314,
+    "pb_ratio": 1.1883539,
+    "roe": "N/A",
     "debt_to_equity": 17.291,
-    "revenue": 2131299968,
-    "net_income": 683800000,
-    "eps": 10.74,
+    "revenue": 2129900032,
+    "net_income": 1361299968,
+    "eps": 11.21,
     "52_week_high": 114.54,
     "52_week_low": 60.0,
-    "dividend_yield": 1.03
+    "dividend_yield": 0.99
   }
 }

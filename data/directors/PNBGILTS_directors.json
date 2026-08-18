@@ -1,7 +1,7 @@
 {
   "ticker": "PNBGILTS",
   "company": "PNB Gilts Limited",
-  "collected_at": "2026-08-17 03:06:00",
+  "collected_at": "2026-08-18 03:08:24",
   "directors": [
     {
       "name": "Ms. Monika  Kochar B.Com., L.L.B.",
@@ -9,13 +9,6 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 4032000
-    },
-    {
-      "name": "Mr. Pareed  Sunil CAIIB, M.A.",
-      "role": "MD, CEO & Director",
-      "age": 54,
-      "year_born": 1971,
-      "total_pay": "N/A"
     },
     {
       "name": "Ms. Kishkanda  Garg",
@@ -69,6 +62,13 @@
     {
       "name": "Ms. .  Priyanka",
       "role": "Chief Risk Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anuj  Prakash",
+      "role": "Chief Information Security Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

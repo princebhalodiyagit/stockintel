@@ -1,21 +1,21 @@
 {
   "ticker": "SUZLON",
   "company": "Suzlon Energy Limited",
-  "collected_at": "2026-08-17 03:12:55",
+  "collected_at": "2026-08-18 03:17:22",
   "directors": [
     {
       "name": "Mr. Vinod R. Tanti",
       "role": "MD & Chairman",
       "age": 62,
       "year_born": 1963,
-      "total_pay": 65400000
+      "total_pay": 72900000
     },
     {
       "name": "Mr. Girish R. Tanti",
       "role": "Co-Founder & Vice Chairman",
       "age": 55,
       "year_born": 1970,
-      "total_pay": 750000
+      "total_pay": 29500000
     },
     {
       "name": "Mr. Jayarama Prasad Chalasani",
@@ -46,13 +46,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Manish  Jain",
-      "role": "Vice President of Corporate Finance",
-      "age": 55,
-      "year_born": 1970,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Bernhard  Telgmann",
       "role": "President of Technology",
       "age": "N/A",
@@ -72,6 +65,13 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Antonius Wilhelmus Peter van Megen",
+      "role": "Vice President of International Corporate Development",
+      "age": 73,
+      "year_born": 1952,
+      "total_pay": 9475000
     }
   ]
 }

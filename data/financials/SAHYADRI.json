@@ -1,21 +1,21 @@
 {
   "ticker": "SAHYADRI",
-  "collected_at": "2026-08-17 03:08:56",
+  "collected_at": "2026-08-18 03:12:10",
   "company_info": {
     "name": "Sahyadri Industries Limited",
     "sector": "Industrials",
     "industry": "Building Products & Equipment",
-    "market_cap": 3951614208,
-    "current_price": 361.0,
-    "pe_ratio": 13.622642,
-    "pb_ratio": 0.9730878,
-    "roe": 0.07394,
+    "market_cap": 4248806400,
+    "current_price": 388.15,
+    "pe_ratio": 13.585929,
+    "pb_ratio": 1.0462714,
+    "roe": "N/A",
     "debt_to_equity": 4.085,
-    "revenue": 6787299840,
-    "net_income": 290000000,
-    "eps": 26.5,
-    "52_week_high": 379.0,
+    "revenue": 7227299840,
+    "net_income": 447500000,
+    "eps": 28.57,
+    "52_week_high": 401.1,
     "52_week_low": 200.1,
-    "dividend_yield": 0.44
+    "dividend_yield": 1.11
   }
 }

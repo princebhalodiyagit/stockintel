@@ -1,21 +1,21 @@
 {
   "ticker": "AIAENG",
-  "collected_at": "2026-08-17 02:41:40",
+  "collected_at": "2026-08-18 02:36:49",
   "company_info": {
     "name": "AIA Engineering Limited",
     "sector": "Industrials",
     "industry": "Specialty Industrial Machinery",
-    "market_cap": 417142046720,
-    "current_price": 4470.0,
-    "pe_ratio": 32.908783,
-    "pb_ratio": 5.196871,
-    "roe": 0.16951999,
+    "market_cap": 409079185408,
+    "current_price": 4383.6,
+    "pe_ratio": 33.004066,
+    "pb_ratio": 5.0964212,
+    "roe": "N/A",
     "debt_to_equity": 0.128,
-    "revenue": 44198641664,
-    "net_income": 12701582336,
-    "eps": 135.83,
+    "revenue": 45489397760,
+    "net_income": 12662475776,
+    "eps": 132.82,
     "52_week_high": 5180.0,
     "52_week_low": 3001.1,
-    "dividend_yield": 0.33
+    "dividend_yield": 0.36
   }
 }

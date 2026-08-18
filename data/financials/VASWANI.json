@@ -1,21 +1,21 @@
 {
   "ticker": "VASWANI",
-  "collected_at": "2026-08-17 03:15:49",
+  "collected_at": "2026-08-18 03:21:09",
   "company_info": {
     "name": "Vaswani Industries Limited",
     "sector": "Basic Materials",
     "industry": "Steel",
-    "market_cap": 1719888256,
-    "current_price": 52.12,
-    "pe_ratio": 39.78626,
-    "pb_ratio": 1.121439,
-    "roe": 0.029509999,
+    "market_cap": 1582614016,
+    "current_price": 47.96,
+    "pe_ratio": 36.610687,
+    "pb_ratio": 1.0319304,
+    "roe": "N/A",
     "debt_to_equity": 184.536,
-    "revenue": 4673709056,
-    "net_income": 42435000,
+    "revenue": 4711890944,
+    "net_income": -623000,
     "eps": 1.31,
     "52_week_high": 69.99,
-    "52_week_low": 49.1,
+    "52_week_low": 44.5,
     "dividend_yield": "N/A"
   }
 }

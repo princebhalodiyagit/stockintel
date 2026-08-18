@@ -1,14 +1,14 @@
 {
   "ticker": "SOUTHBANK",
-  "collected_at": "2026-08-17 03:11:31",
+  "collected_at": "2026-08-18 03:15:33",
   "company_info": {
     "name": "The South Indian Bank Limited",
     "sector": "Financial Services",
     "industry": "Banks - Regional",
-    "market_cap": 119284572160,
-    "current_price": 45.56,
-    "pe_ratio": 7.9097223,
-    "pb_ratio": 1.0113432,
+    "market_cap": 118394388480,
+    "current_price": 45.22,
+    "pe_ratio": 7.850694,
+    "pb_ratio": 1.0037959,
     "roe": 0.13596,
     "debt_to_equity": "N/A",
     "revenue": 51337699328,
@@ -16,6 +16,6 @@
     "eps": 5.76,
     "52_week_high": 49.9,
     "52_week_low": 28.11,
-    "dividend_yield": 0.99
+    "dividend_yield": 0.98
   }
 }

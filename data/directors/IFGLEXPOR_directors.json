@@ -1,7 +1,7 @@
 {
   "ticker": "IFGLEXPOR",
   "company": "IFGL Refractories Limited",
-  "collected_at": "2026-08-17 02:55:38",
+  "collected_at": "2026-08-18 02:54:08",
   "directors": [
     {
       "name": "Mr. Shishir Kumar Bajoria",
@@ -9,13 +9,6 @@
       "age": 68,
       "year_born": 1957,
       "total_pay": 33110000
-    },
-    {
-      "name": "Mr. Mihir Prakash Bajoria",
-      "role": "MD & Non-Executive Non-Independent Director",
-      "age": 40,
-      "year_born": 1985,
-      "total_pay": 2923000
     },
     {
       "name": "Mr. Amit  Agarwal",
@@ -30,13 +23,6 @@
       "age": 60,
       "year_born": 1965,
       "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Rajesh  Agarwal FCS",
-      "role": "General Counsel & Executive Director",
-      "age": 62,
-      "year_born": 1963,
-      "total_pay": 20946000
     },
     {
       "name": "Ms. Mansi  Damani",
@@ -71,6 +57,20 @@
       "role": "Vice President of Technical Marketing",
       "age": 52,
       "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Akshay  Bajoria",
+      "role": "President of Business Development & Strategy",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Thorsten  Reuther",
+      "role": "Managing Director of Hofmann Ceramic GmbH",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

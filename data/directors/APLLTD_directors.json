@@ -1,7 +1,7 @@
 {
   "ticker": "APLLTD",
   "company": "Alembic Pharmaceuticals Limited",
-  "collected_at": "2026-08-17 02:42:41",
+  "collected_at": "2026-08-18 02:38:06",
   "directors": [
     {
       "name": "Mr. Chirayu Ramanbhai Amin",
@@ -53,13 +53,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Ms. Manisha  Saraf",
-      "role": "Company Secretary & Compliance Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Karunanithi  P.",
       "role": "Executive Vice President of Sales & Marketing",
       "age": "N/A",
@@ -71,6 +64,13 @@
       "role": "Chief Human Resources Officer & Chief Customer Experience Officer",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Udit C. Amin",
+      "role": "Chief Business Development Officer",
+      "age": 45,
+      "year_born": 1980,
       "total_pay": "N/A"
     }
   ]

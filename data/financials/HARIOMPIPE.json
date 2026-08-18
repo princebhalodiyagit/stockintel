@@ -1,21 +1,21 @@
 {
   "ticker": "HARIOMPIPE",
-  "collected_at": "2026-08-17 02:53:58",
+  "collected_at": "2026-08-18 02:52:19",
   "company_info": {
     "name": "Hariom Pipe Industries Limited",
     "sector": "Basic Materials",
     "industry": "Steel",
-    "market_cap": 10915969024,
-    "current_price": 352.5,
-    "pe_ratio": 14.411284,
-    "pb_ratio": 1.688372,
-    "roe": 0.12392,
+    "market_cap": 10728616960,
+    "current_price": 346.45,
+    "pe_ratio": 14.163942,
+    "pb_ratio": 1.6593943,
+    "roe": "N/A",
     "debt_to_equity": 62.241,
-    "revenue": 16669539328,
-    "net_income": 757078016,
+    "revenue": 16351726592,
+    "net_income": 687030976,
     "eps": 24.46,
     "52_week_high": 572.2,
     "52_week_low": 268.05,
-    "dividend_yield": 0.16
+    "dividend_yield": 0.17
   }
 }
