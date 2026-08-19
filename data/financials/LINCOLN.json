@@ -1,21 +1,21 @@
 {
   "ticker": "LINCOLN",
-  "collected_at": "2026-08-18 03:00:25",
+  "collected_at": "2026-08-19 02:56:40",
   "company_info": {
     "name": "Lincoln Pharmaceuticals Limited",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - Specialty & Generic",
-    "market_cap": 12485530624,
-    "current_price": 623.35,
-    "pe_ratio": 14.212266,
-    "pb_ratio": 1.6475877,
-    "roe": 0.12299,
+    "market_cap": 12400404480,
+    "current_price": 619.1,
+    "pe_ratio": 14.1089325,
+    "pb_ratio": 1.6363544,
+    "roe": "N/A",
     "debt_to_equity": 0.584,
-    "revenue": 6710299136,
-    "net_income": 878937984,
-    "eps": 43.86,
+    "revenue": 6942453248,
+    "net_income": 964531008,
+    "eps": 43.88,
     "52_week_high": 770.0,
     "52_week_low": 440.0,
-    "dividend_yield": 0.3
+    "dividend_yield": 0.29
   }
 }

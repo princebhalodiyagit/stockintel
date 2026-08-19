@@ -1,14 +1,14 @@
 {
   "ticker": "XCHANGING",
-  "collected_at": "2026-08-18 03:23:03",
+  "collected_at": "2026-08-19 03:14:00",
   "company_info": {
     "name": "Xchanging Solutions Limited",
     "sector": "Technology",
     "industry": "Information Technology Services",
-    "market_cap": 6875837440,
-    "current_price": 61.72,
-    "pe_ratio": 11.558052,
-    "pb_ratio": 1.7334158,
+    "market_cap": 6933767168,
+    "current_price": 62.24,
+    "pe_ratio": 11.655431,
+    "pb_ratio": 1.74802,
     "roe": "N/A",
     "debt_to_equity": 17.954,
     "revenue": 2065699968,
@@ -16,6 +16,6 @@
     "eps": 5.34,
     "52_week_high": 103.0,
     "52_week_low": 47.5,
-    "dividend_yield": 3.13
+    "dividend_yield": 3.24
   }
 }

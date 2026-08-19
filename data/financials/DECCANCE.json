@@ -1,21 +1,21 @@
 {
   "ticker": "DECCANCE",
-  "collected_at": "2026-08-18 02:45:55",
+  "collected_at": "2026-08-19 02:45:46",
   "company_info": {
     "name": "Deccan Cements Limited",
     "sector": "Basic Materials",
     "industry": "Building Materials",
-    "market_cap": 7620080128,
-    "current_price": 544.0,
-    "pe_ratio": 26.666668,
-    "pb_ratio": 1.0148705,
-    "roe": 0.0388,
+    "market_cap": 7641791488,
+    "current_price": 545.55,
+    "pe_ratio": 26.742647,
+    "pb_ratio": 1.0177621,
+    "roe": "N/A",
     "debt_to_equity": 100.269,
-    "revenue": 6356142080,
-    "net_income": 285780992,
+    "revenue": 7043931136,
+    "net_income": 58399000,
     "eps": 20.4,
     "52_week_high": 1164.9,
     "52_week_low": 525.0,
-    "dividend_yield": 0.11
+    "dividend_yield": 0.09
   }
 }
