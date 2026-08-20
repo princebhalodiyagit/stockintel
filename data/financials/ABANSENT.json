@@ -1,21 +1,21 @@
 {
   "ticker": "ABANSENT",
-  "collected_at": "2026-08-19 02:37:49",
+  "collected_at": "2026-08-20 02:36:27",
   "company_info": {
     "name": "ABans Enterprises Limited",
     "sector": "Financial Services",
     "industry": "Capital Markets",
     "market_cap": "N/A",
-    "current_price": 30.3,
-    "pe_ratio": "N/A",
-    "pb_ratio": 0.97634846,
+    "current_price": 28.79,
+    "pe_ratio": 50.508774,
+    "pb_ratio": 0.92769223,
     "roe": "N/A",
     "debt_to_equity": 74.518,
     "revenue": 143455059968,
     "net_income": 319764000,
-    "eps": "N/A",
-    "52_week_high": 48.85,
-    "52_week_low": 22.3,
+    "eps": 0.57,
+    "52_week_high": 32.79,
+    "52_week_low": 28.79,
     "dividend_yield": "N/A"
   }
 }

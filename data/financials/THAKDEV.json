@@ -1,21 +1,21 @@
 {
   "ticker": "THAKDEV",
-  "collected_at": "2026-08-19 03:10:35",
+  "collected_at": "2026-08-20 03:09:18",
   "company_info": {
     "name": "Thakkers Developers Limited",
     "sector": "",
     "industry": "",
     "market_cap": "N/A",
-    "current_price": 154.79,
-    "pe_ratio": "N/A",
-    "pb_ratio": 0.89202255,
+    "current_price": 150.0,
+    "pe_ratio": 26.408451,
+    "pb_ratio": 0.8644188,
     "roe": 0.033269998,
     "debt_to_equity": 10.931,
     "revenue": 346656000,
     "net_income": 51128000,
-    "eps": "N/A",
-    "52_week_high": 163.01,
-    "52_week_low": 115.1,
+    "eps": 5.68,
+    "52_week_high": 160.0,
+    "52_week_low": 140.0,
     "dividend_yield": "N/A"
   }
 }

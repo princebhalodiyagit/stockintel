@@ -1,7 +1,7 @@
 {
   "ticker": "HARIOMPIPE",
   "company": "Hariom Pipe Industries Limited",
-  "collected_at": "2026-08-19 02:50:44",
+  "collected_at": "2026-08-20 02:49:17",
   "directors": [
     {
       "name": "Mr. Rupesh Kumar Gupta",
@@ -30,13 +30,6 @@
       "age": 44,
       "year_born": 1981,
       "total_pay": 14400000
-    },
-    {
-      "name": "Mr. Sanjay Madanlalji Bhansali",
-      "role": "Chief Operations Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
     },
     {
       "name": "Mr. Sumit  Maheshwari",
@@ -71,6 +64,13 @@
       "role": "Human Resource Officer",
       "age": 46,
       "year_born": 1979,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Gangadharan  Sathyan",
+      "role": "General Manager",
+      "age": 58,
+      "year_born": 1967,
       "total_pay": "N/A"
     }
   ]
