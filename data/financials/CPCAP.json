@@ -1,14 +1,14 @@
 {
   "ticker": "CPCAP",
-  "collected_at": "2026-08-20 02:43:30",
+  "collected_at": "2026-08-21 02:50:42",
   "company_info": {
     "name": "CP Capital Limited",
     "sector": "Financial Services",
     "industry": "Credit Services",
-    "market_cap": 2246849280,
-    "current_price": 123.46,
-    "pe_ratio": 5.276068,
-    "pb_ratio": 0.39224157,
+    "market_cap": 2248669184,
+    "current_price": 123.56,
+    "pe_ratio": 5.2803416,
+    "pb_ratio": 0.3925593,
     "roe": "N/A",
     "debt_to_equity": 13.476,
     "revenue": 790505024,
@@ -16,6 +16,6 @@
     "eps": 23.4,
     "52_week_high": 160.9,
     "52_week_low": 73.51,
-    "dividend_yield": 5.25
+    "dividend_yield": "N/A"
   }
 }

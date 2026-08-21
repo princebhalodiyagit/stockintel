@@ -1,14 +1,14 @@
 {
   "ticker": "TVTODAY",
-  "collected_at": "2026-08-20 03:10:22",
+  "collected_at": "2026-08-21 03:17:45",
   "company_info": {
     "name": "T.V. Today Network Limited",
     "sector": "Communication Services",
     "industry": "Broadcasting",
-    "market_cap": 7005692416,
-    "current_price": 117.41,
-    "pe_ratio": 30.4171,
-    "pb_ratio": 0.78727335,
+    "market_cap": 6959150592,
+    "current_price": 116.63,
+    "pe_ratio": 30.215027,
+    "pb_ratio": 0.7820431,
     "roe": "N/A",
     "debt_to_equity": 1.647,
     "revenue": 8177299968,
@@ -16,6 +16,6 @@
     "eps": 3.86,
     "52_week_high": 156.48,
     "52_week_low": 93.5,
-    "dividend_yield": 2.64
+    "dividend_yield": 2.56
   }
 }

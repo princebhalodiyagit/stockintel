@@ -1,14 +1,14 @@
 {
   "ticker": "LTTS",
-  "collected_at": "2026-08-20 02:55:32",
+  "collected_at": "2026-08-21 03:02:48",
   "company_info": {
     "name": "L&T Technology Services Limited",
     "sector": "Technology",
     "industry": "Information Technology Services",
-    "market_cap": 375578263552,
-    "current_price": 3540.9,
-    "pe_ratio": 29.326653,
-    "pb_ratio": 5.7986417,
+    "market_cap": 379662139392,
+    "current_price": 3579.1,
+    "pe_ratio": 29.643036,
+    "pb_ratio": 5.861199,
     "roe": "N/A",
     "debt_to_equity": 8.911,
     "revenue": 112984997888,
@@ -16,6 +16,6 @@
     "eps": 120.74,
     "52_week_high": 4726.0,
     "52_week_low": 3010.0,
-    "dividend_yield": 1.65
+    "dividend_yield": 1.64
   }
 }

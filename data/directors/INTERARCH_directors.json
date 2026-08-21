@@ -1,28 +1,28 @@
 {
   "ticker": "INTERARCH",
   "company": "Interarch Building Solutions Limited",
-  "collected_at": "2026-08-20 02:51:45",
+  "collected_at": "2026-08-21 02:59:01",
   "directors": [
     {
       "name": "Mr. Manish Kumar Garg",
       "role": "CEO & Executive Director",
       "age": 52,
       "year_born": 1973,
-      "total_pay": 18730000
+      "total_pay": 45612000
     },
     {
       "name": "Mr. Arvind  Nanda",
       "role": "Co-Founder, MD & Director",
       "age": 71,
       "year_born": 1954,
-      "total_pay": 6732000
+      "total_pay": 8525000
     },
     {
       "name": "Mr. Gautam  Suri",
       "role": "Co-Founder, CTO & Whole-time Director",
       "age": 73,
       "year_born": 1952,
-      "total_pay": 5436000
+      "total_pay": 4983000
     },
     {
       "name": "Mr. Pushpendra Kumar Bansal",
@@ -53,24 +53,24 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Vikas  Kaushal",
-      "role": "President of Sales & Marketing",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Mahesh  Verma",
-      "role": "President of Operations",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Viraj  Nanda",
       "role": "Executive Director",
       "age": 29,
       "year_born": 1996,
+      "total_pay": 5182000
+    },
+    {
+      "name": "Rinku  Kedia",
+      "role": "Vice President",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sonam  Mallik",
+      "role": "Head of Information Technology",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

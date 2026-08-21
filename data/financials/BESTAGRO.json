@@ -1,14 +1,14 @@
 {
   "ticker": "BESTAGRO",
-  "collected_at": "2026-08-20 02:40:54",
+  "collected_at": "2026-08-21 02:48:00",
   "company_info": {
     "name": "Best Agrolife Limited",
     "sector": "Basic Materials",
     "industry": "Agricultural Inputs",
-    "market_cap": 6494027776,
-    "current_price": 18.31,
-    "pe_ratio": 21.797619,
-    "pb_ratio": 0.844713,
+    "market_cap": 6426640896,
+    "current_price": 18.12,
+    "pe_ratio": 21.57143,
+    "pb_ratio": 0.83594763,
     "roe": "N/A",
     "debt_to_equity": 57.549,
     "revenue": 12716300288,
@@ -16,6 +16,6 @@
     "eps": 0.84,
     "52_week_high": 34.4,
     "52_week_low": 12.3,
-    "dividend_yield": 1.08
+    "dividend_yield": 1.09
   }
 }

@@ -1,14 +1,14 @@
 {
   "ticker": "VSTIND",
-  "collected_at": "2026-08-20 03:11:57",
+  "collected_at": "2026-08-21 03:19:24",
   "company_info": {
     "name": "VST Industries Limited",
     "sector": "Consumer Defensive",
     "industry": "Tobacco",
-    "market_cap": 35829661696,
-    "current_price": 211.33,
-    "pe_ratio": 12.87028,
-    "pb_ratio": 2.483051,
+    "market_cap": 36089065472,
+    "current_price": 212.86,
+    "pe_ratio": 12.963459,
+    "pb_ratio": 2.501028,
     "roe": "N/A",
     "debt_to_equity": "N/A",
     "revenue": 14230991872,
@@ -16,6 +16,6 @@
     "eps": 16.42,
     "52_week_high": 286.78,
     "52_week_low": 200.0,
-    "dividend_yield": 5.58
+    "dividend_yield": 5.68
   }
 }

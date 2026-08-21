@@ -1,7 +1,7 @@
 {
   "ticker": "MATRIMONY",
   "company": "Matrimony.Com Limited",
-  "collected_at": "2026-08-20 02:56:31",
+  "collected_at": "2026-08-21 03:03:46",
   "directors": [
     {
       "name": "Mr. Murugavel  Janakiraman",
@@ -9,13 +9,6 @@
       "age": 55,
       "year_born": 1970,
       "total_pay": 34179000
-    },
-    {
-      "name": "Mr. Harigovind  Krishnasamy",
-      "role": "Chief Financial Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 8355000
     },
     {
       "name": "Mr. Arjun  Bhatia",
@@ -71,6 +64,13 @@
       "role": "Chief Operating Officer",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vijayanand  Sankar",
+      "role": "Compliance Officer, Senior GM of Secretarial & Company Secretary",
+      "age": 45,
+      "year_born": 1980,
       "total_pay": "N/A"
     }
   ]

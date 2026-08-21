@@ -1,14 +1,14 @@
 {
   "ticker": "KDDL",
-  "collected_at": "2026-08-20 02:53:40",
+  "collected_at": "2026-08-21 03:00:57",
   "company_info": {
     "name": "KDDL Limited",
     "sector": "Consumer Cyclical",
     "industry": "Luxury Goods",
-    "market_cap": 48583385088,
-    "current_price": 3950.1,
-    "pe_ratio": 50.001266,
-    "pb_ratio": 4.497162,
+    "market_cap": 48492371968,
+    "current_price": 3942.7,
+    "pe_ratio": 49.907593,
+    "pb_ratio": 4.4887366,
     "roe": "N/A",
     "debt_to_equity": 26.688,
     "revenue": 23222300672,
@@ -16,6 +16,6 @@
     "eps": 79.0,
     "52_week_high": 4155.5,
     "52_week_low": 1990.0,
-    "dividend_yield": 0.49
+    "dividend_yield": 0.51
   }
 }

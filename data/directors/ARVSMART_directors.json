@@ -1,36 +1,8 @@
 {
   "ticker": "ARVSMART",
   "company": "Arvind SmartSpaces Limited",
-  "collected_at": "2026-08-20 02:38:55",
+  "collected_at": "2026-08-21 02:46:00",
   "directors": [
-    {
-      "name": "Mr. Kamal Sham Lal Singal",
-      "role": "Whole-Time Director of Strategy & Investments",
-      "age": 53,
-      "year_born": 1972,
-      "total_pay": 54410959
-    },
-    {
-      "name": "Mr. Prakash Bhogibhai Makwana",
-      "role": "Company Secretary & Compliance Officer",
-      "age": 66,
-      "year_born": 1959,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Priyansh  Kapoor",
-      "role": "MD, CEO & Director",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 31207944
-    },
-    {
-      "name": "Mr. Amit  Chamaria",
-      "role": "Chief Financial Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
     {
       "name": "Mr. Dharmesh  Vyas",
       "role": "Chief Operations Officer",
@@ -71,6 +43,34 @@
       "role": "Head of Process Assurances & Commercial Controls",
       "age": 56,
       "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pankaj Bimal Mohan Jain",
+      "role": "Head of CRM",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vijay  Taneja",
+      "role": "Head of IT",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Saurabh  Shah",
+      "role": "Head of Liaison",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ketul  Patel C.A.",
+      "role": "Head of Business Development",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]
