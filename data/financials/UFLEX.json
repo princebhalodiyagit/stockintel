@@ -1,21 +1,21 @@
 {
   "ticker": "UFLEX",
-  "collected_at": "2026-08-21 03:17:54",
+  "collected_at": "2026-08-22 03:09:43",
   "company_info": {
     "name": "Uflex Limited",
     "sector": "Consumer Cyclical",
     "industry": "Packaging & Containers",
-    "market_cap": 44124827648,
-    "current_price": 611.05,
-    "pe_ratio": 13.919133,
-    "pb_ratio": 0.54315263,
-    "roe": 0.04085,
+    "market_cap": 44381179904,
+    "current_price": 614.6,
+    "pe_ratio": 13.908124,
+    "pb_ratio": 0.54630816,
+    "roe": "N/A",
     "debt_to_equity": 124.991,
-    "revenue": 150635102208,
-    "net_income": 3171000064,
-    "eps": 43.9,
+    "revenue": 164268392448,
+    "net_income": 6824099840,
+    "eps": 44.19,
     "52_week_high": 635.0,
     "52_week_low": 330.0,
-    "dividend_yield": 0.61
+    "dividend_yield": 0.49
   }
 }

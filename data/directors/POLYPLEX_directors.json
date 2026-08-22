@@ -1,7 +1,7 @@
 {
   "ticker": "POLYPLEX",
   "company": "Polyplex Corporation Limited",
-  "collected_at": "2026-08-21 03:08:41",
+  "collected_at": "2026-08-22 03:00:26",
   "directors": [
     {
       "name": "Mr. Pranay  Kothari",
@@ -9,13 +9,6 @@
       "age": 66,
       "year_born": 1959,
       "total_pay": 30532000
-    },
-    {
-      "name": "Mr. Manish  Gupta",
-      "role": "CFO & PCH - India and CFO",
-      "age": 57,
-      "year_born": 1968,
-      "total_pay": "N/A"
     },
     {
       "name": "Mr. Ashok Kumar Gurnani",
@@ -32,22 +25,8 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Sunil Kumar Ram",
-      "role": "VP, Corporate Head of HR & PCH - India and Group Head of HR",
-      "age": 59,
-      "year_born": 1966,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Ramakrishna Rao Kuchipudi",
       "role": "Corporate Head of NPD, R&D & Tech Services",
-      "age": 62,
-      "year_born": 1963,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Ravindra Kumar Gupta",
-      "role": "Head of Plant for India",
       "age": 62,
       "year_born": 1963,
       "total_pay": "N/A"
@@ -64,13 +43,6 @@
       "role": "Business Head of Saralam",
       "age": 58,
       "year_born": 1967,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Amit  Kalra",
-      "role": "Profit Centre Head of USA & India",
-      "age": 55,
-      "year_born": 1970,
       "total_pay": "N/A"
     }
   ]

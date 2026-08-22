@@ -1,7 +1,7 @@
 {
   "ticker": "BIKAJI",
   "company": "Bikaji Foods International Limited",
-  "collected_at": "2026-08-21 02:48:20",
+  "collected_at": "2026-08-22 02:39:31",
   "directors": [
     {
       "name": "Mr. Deepak  Agarwal",
@@ -46,13 +46,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Bhupender Singh Sohal",
-      "role": "Vice President of Sales",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
       "name": "Ms. Deepshikha  Thakur",
       "role": "Chief People Officer",
       "age": "N/A",
@@ -67,10 +60,17 @@
       "total_pay": 1536000
     },
     {
-      "name": "Mr. Vineet  Manocha",
-      "role": "President of Culinary",
-      "age": 54,
-      "year_born": 1971,
+      "name": "Ms. Simran  Dhingra",
+      "role": "Head of Exports",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vaibhav  Arora",
+      "role": "Vice President of Retail",
+      "age": 40,
+      "year_born": 1985,
       "total_pay": "N/A"
     }
   ]

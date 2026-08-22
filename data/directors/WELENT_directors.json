@@ -1,15 +1,8 @@
 {
   "ticker": "WELENT",
   "company": "Welspun Enterprises Limited",
-  "collected_at": "2026-08-21 03:19:40",
+  "collected_at": "2026-08-22 03:11:38",
   "directors": [
-    {
-      "name": "Mr. Balkrishan Gopiram K. Goenka",
-      "role": "Executive Chairman",
-      "age": 59,
-      "year_born": 1966,
-      "total_pay": 75000000
-    },
     {
       "name": "Mr. Sandeep Kumar Garg C.A., L.L.B.",
       "role": "MD, Interim Head of Integrated Water Vertical & Director",
@@ -71,6 +64,13 @@
       "role": "Senior Vice President",
       "age": 59,
       "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Premjit  Singh",
+      "role": "Chief Executive Officer of Transportation Vertical",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

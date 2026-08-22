@@ -1,21 +1,21 @@
 {
   "ticker": "KINGFA",
-  "collected_at": "2026-08-21 03:01:12",
+  "collected_at": "2026-08-22 02:52:47",
   "company_info": {
     "name": "Kingfa Science & Technology (India) Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals",
-    "market_cap": 79377211392,
-    "current_price": 5857.5,
-    "pe_ratio": 34.352825,
-    "pb_ratio": 5.6726017,
-    "roe": 0.17412001,
+    "market_cap": 78780956672,
+    "current_price": 5813.5,
+    "pe_ratio": 34.106777,
+    "pb_ratio": 5.6299906,
+    "roe": "N/A",
     "debt_to_equity": 1.101,
-    "revenue": 19955515392,
-    "net_income": 1852584960,
-    "eps": 170.51,
+    "revenue": 22221914112,
+    "net_income": 2256750080,
+    "eps": 170.45,
     "52_week_high": 6200.0,
     "52_week_low": 3649.9,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.34
   }
 }

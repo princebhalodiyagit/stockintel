@@ -1,14 +1,14 @@
 {
   "ticker": "NIRLON",
-  "collected_at": "2026-08-21 03:06:20",
+  "collected_at": "2026-08-22 02:58:06",
   "company_info": {
     "name": "Nirlon Limited",
     "sector": "Real Estate",
     "industry": "Real Estate Services",
-    "market_cap": 56287727616,
-    "current_price": 624.6,
-    "pe_ratio": 15.772727,
-    "pb_ratio": 12.01616,
+    "market_cap": 56301244416,
+    "current_price": 624.75,
+    "pe_ratio": 15.776516,
+    "pb_ratio": 12.019046,
     "roe": "N/A",
     "debt_to_equity": 244.748,
     "revenue": 6744805888,
@@ -16,6 +16,6 @@
     "eps": 39.6,
     "52_week_high": 657.0,
     "52_week_low": 543.0,
-    "dividend_yield": 4.83
+    "dividend_yield": 4.8
   }
 }

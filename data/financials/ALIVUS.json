@@ -1,14 +1,14 @@
 {
   "ticker": "ALIVUS",
-  "collected_at": "2026-08-21 02:44:47",
+  "collected_at": "2026-08-22 02:35:56",
   "company_info": {
     "name": "Alivus Life Sciences Limited",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - Specialty & Generic",
-    "market_cap": 168196882432,
-    "current_price": 1370.0,
-    "pe_ratio": 27.930683,
-    "pb_ratio": 5.0550146,
+    "market_cap": 165851955200,
+    "current_price": 1350.9,
+    "pe_ratio": 27.541285,
+    "pb_ratio": 4.98454,
     "roe": "N/A",
     "debt_to_equity": 1.704,
     "revenue": 25904001024,
@@ -16,6 +16,6 @@
     "eps": 49.05,
     "52_week_high": 1418.0,
     "52_week_low": 819.0,
-    "dividend_yield": 0.37
+    "dividend_yield": 0.36
   }
 }

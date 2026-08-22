@@ -1,7 +1,7 @@
 {
   "ticker": "SHILPAMED",
   "company": "Shilpa Medicare Limited",
-  "collected_at": "2026-08-21 03:12:55",
+  "collected_at": "2026-08-22 03:04:35",
   "directors": [
     {
       "name": "Mr. Vishnukanth Chaturbhuj Bhutada B. Pharm",
@@ -22,13 +22,6 @@
       "role": "Chief Financial Officer",
       "age": 49,
       "year_born": 1976,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Pramod  Kumar",
-      "role": "Senior Vice President of Technical",
-      "age": 62,
-      "year_born": 1963,
       "total_pay": "N/A"
     },
     {
@@ -60,17 +53,24 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Ms. Rajyashri Karur Ramakrishnan",
-      "role": "Chief Scientific Officer of Biologicals",
-      "age": 60,
-      "year_born": 1965,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. K. H. Honneshaiah",
       "role": "Head Operation of API",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajeev  Saxena",
+      "role": "Senior Vice President \u0096 Domestic Formulations and Biologics",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Abhay  Sapre",
+      "role": "Senior Vice President of Formulation",
+      "age": 54,
+      "year_born": 1971,
       "total_pay": "N/A"
     }
   ]
