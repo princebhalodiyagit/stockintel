@@ -1,21 +1,21 @@
 {
   "ticker": "KLBRENG-B",
-  "collected_at": "2026-08-22 02:52:58",
+  "collected_at": "2026-08-23 03:01:04",
   "company_info": {
     "name": "Kilburn Engineering Limited",
-    "sector": "",
-    "industry": "",
+    "sector": "Industrials",
+    "industry": "Specialty Industrial Machinery",
     "market_cap": "N/A",
     "current_price": 397.4,
-    "pe_ratio": 23.445427,
+    "pe_ratio": 23.417797,
     "pb_ratio": 3.1661303,
-    "roe": 0.17077999,
+    "roe": "N/A",
     "debt_to_equity": 13.757,
-    "revenue": 6287991808,
-    "net_income": 962020992,
-    "eps": 16.95,
-    "52_week_high": 408.6,
-    "52_week_low": 346.0,
+    "revenue": 6165443072,
+    "net_income": 879836032,
+    "eps": 16.97,
+    "52_week_high": 544.85,
+    "52_week_low": 332.4,
     "dividend_yield": "N/A"
   }
 }

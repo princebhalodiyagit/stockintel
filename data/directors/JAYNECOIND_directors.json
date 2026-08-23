@@ -1,7 +1,7 @@
 {
   "ticker": "JAYNECOIND",
   "company": "Jayaswal Neco Industries Limited",
-  "collected_at": "2026-08-22 02:51:21",
+  "collected_at": "2026-08-23 02:59:29",
   "directors": [
     {
       "name": "Mr. Arvind Kumar Jayaswal",
@@ -39,27 +39,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Sangram Keshari Swain",
-      "role": "Executive Director",
-      "age": 58,
-      "year_born": 1967,
-      "total_pay": 13285000
-    },
-    {
-      "name": "Mr. Avneesh  Jayaswal",
-      "role": "Executive Director",
-      "age": 40,
-      "year_born": 1985,
-      "total_pay": 4000000
-    },
-    {
-      "name": "Mr. Prashant Laxmikant Dande",
-      "role": "President of Marketing",
-      "age": 57,
-      "year_born": 1968,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Himanshu  Shekhar Jha",
       "role": "President of Works",
       "age": 56,
@@ -71,6 +50,20 @@
       "role": "Associate Director of Business Development",
       "age": 60,
       "year_born": 1965,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Tembe  Prasanna Kumar",
+      "role": "President of Mines",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Stephanie  Habif",
+      "role": "Senior Director of Behavioral Sciences",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

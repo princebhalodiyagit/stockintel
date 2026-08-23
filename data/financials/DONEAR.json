@@ -1,6 +1,6 @@
 {
   "ticker": "DONEAR",
-  "collected_at": "2026-08-22 02:43:30",
+  "collected_at": "2026-08-23 02:52:07",
   "company_info": {
     "name": "Donear Industries Limited",
     "sector": "Consumer Cyclical",
@@ -9,13 +9,13 @@
     "current_price": 87.52,
     "pe_ratio": 10.481436,
     "pb_ratio": 1.6407334,
-    "roe": 0.1698,
+    "roe": "N/A",
     "debt_to_equity": 154.25,
-    "revenue": 9124745216,
-    "net_income": 434320000,
+    "revenue": 9282708480,
+    "net_income": 458887008,
     "eps": 8.35,
     "52_week_high": 116.51,
     "52_week_low": 77.6,
-    "dividend_yield": 0.24
+    "dividend_yield": 0.23
   }
 }

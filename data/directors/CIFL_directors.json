@@ -1,42 +1,14 @@
 {
   "ticker": "CIFL",
   "company": "Capital India Finance Limited",
-  "collected_at": "2026-08-22 02:41:22",
+  "collected_at": "2026-08-23 02:50:04",
   "directors": [
     {
       "name": "Mr. Pinank Jayant Shah",
       "role": "Chief Executive Officer",
       "age": 45,
       "year_born": 1980,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Vikas Kumar Srivastava",
-      "role": "Chief Financial Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Sulabh  Kaushal",
-      "role": "Chief Compliance Officer & Company Secretary",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Keshav  Porwal",
-      "role": "MD & Executive Director",
-      "age": 49,
-      "year_born": 1976,
-      "total_pay": 20100000
-    },
-    {
-      "name": "Mr. Surender  Rana",
-      "role": "Executive Vice Chairman",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
+      "total_pay": 48438000
     },
     {
       "name": "Mr. Manvinder Singh Walia",
@@ -71,6 +43,20 @@
       "role": "Chief of Service Delivery",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mohit  Sirpurkar",
+      "role": "Head of Risk & Policy",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Yogendra Singh Kashyap",
+      "role": "Managing Director of RapiPay",
+      "age": 57,
+      "year_born": 1968,
       "total_pay": "N/A"
     }
   ]

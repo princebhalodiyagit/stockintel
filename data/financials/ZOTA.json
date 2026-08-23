@@ -1,6 +1,6 @@
 {
   "ticker": "ZOTA",
-  "collected_at": "2026-08-22 03:12:20",
+  "collected_at": "2026-08-23 03:19:21",
   "company_info": {
     "name": "Zota Health Care Limited",
     "sector": "Healthcare",
@@ -9,13 +9,13 @@
     "current_price": 1087.4,
     "pe_ratio": "N/A",
     "pb_ratio": 5.430429,
-    "roe": -0.16046,
+    "roe": "N/A",
     "debt_to_equity": 38.847,
-    "revenue": 5386574848,
-    "net_income": -739361024,
-    "eps": -22.5,
+    "revenue": 6086772224,
+    "net_income": -1031753984,
+    "eps": -30.12,
     "52_week_high": 1740.0,
     "52_week_low": 1026.2,
-    "dividend_yield": 0.08
+    "dividend_yield": 0.09
   }
 }

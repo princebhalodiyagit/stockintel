@@ -1,6 +1,6 @@
 {
   "ticker": "SRD",
-  "collected_at": "2026-08-22 03:05:59",
+  "collected_at": "2026-08-23 03:13:39",
   "company_info": {
     "name": "Shankar Lal Rampal Dye-Chem Limited",
     "sector": "Basic Materials",
@@ -9,13 +9,13 @@
     "current_price": 39.43,
     "pe_ratio": 18.687204,
     "pb_ratio": 2.056109,
-    "roe": 0.1161,
+    "roe": "N/A",
     "debt_to_equity": 20.663,
-    "revenue": 4648087040,
-    "net_income": 134908000,
+    "revenue": 4780960768,
+    "net_income": 184398000,
     "eps": 2.11,
     "52_week_high": 91.0,
     "52_week_low": 36.0,
-    "dividend_yield": 0.12
+    "dividend_yield": 0.13
   }
 }
