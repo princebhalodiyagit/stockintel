@@ -1,21 +1,21 @@
 {
   "ticker": "SATIA",
-  "collected_at": "2026-08-25 03:11:54",
+  "collected_at": "2026-08-26 03:14:57",
   "company_info": {
     "name": "Satia Industries Limited",
     "sector": "Basic Materials",
     "industry": "Paper & Paper Products",
-    "market_cap": 5791000064,
-    "current_price": 57.91,
-    "pe_ratio": 14.158924,
-    "pb_ratio": 0.5319384,
+    "market_cap": 5784000000,
+    "current_price": 57.84,
+    "pe_ratio": "N/A",
+    "pb_ratio": 0.53129536,
     "roe": "N/A",
     "debt_to_equity": 28.731,
     "revenue": 14428053504,
     "net_income": -78110000,
-    "eps": 4.09,
+    "eps": -0.78,
     "52_week_high": 87.74,
     "52_week_low": 50.8,
-    "dividend_yield": 0.68
+    "dividend_yield": 0.69
   }
 }

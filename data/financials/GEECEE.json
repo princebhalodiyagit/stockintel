@@ -1,14 +1,14 @@
 {
   "ticker": "GEECEE",
-  "collected_at": "2026-08-25 02:51:17",
+  "collected_at": "2026-08-26 02:57:15",
   "company_info": {
     "name": "GeeCee Ventures Limited",
     "sector": "Real Estate",
     "industry": "Real Estate - Development",
-    "market_cap": 7710154240,
-    "current_price": 368.7,
-    "pe_ratio": 18.315948,
-    "pb_ratio": 0.92344457,
+    "market_cap": 7709108224,
+    "current_price": 368.65,
+    "pe_ratio": 18.313463,
+    "pb_ratio": 0.9233193,
     "roe": "N/A",
     "debt_to_equity": "N/A",
     "revenue": 1041168000,
@@ -16,6 +16,6 @@
     "eps": 20.13,
     "52_week_high": 393.9,
     "52_week_low": 215.85,
-    "dividend_yield": 0.55
+    "dividend_yield": 0.54
   }
 }

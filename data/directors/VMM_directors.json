@@ -1,21 +1,21 @@
 {
   "ticker": "VMM",
   "company": "Vishal Mega Mart Limited",
-  "collected_at": "2026-08-25 03:20:24",
+  "collected_at": "2026-08-26 03:22:15",
   "directors": [
     {
       "name": "Mr. Gunender  Kapur",
       "role": "MD, CEO & Director",
       "age": 64,
       "year_born": 1961,
-      "total_pay": 163321248
+      "total_pay": 174895634
     },
     {
       "name": "Mr. Amit  Gupta",
       "role": "Chief Financial Officer",
       "age": 44,
       "year_born": 1981,
-      "total_pay": "N/A"
+      "total_pay": 56840000
     },
     {
       "name": "Mr. Manoj  Kumar",
@@ -53,13 +53,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Kuldeep  Sharma",
-      "role": "Vice President of Legal & Compliance",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
       "name": "Ms. Anne Martine Marie Puvis Cardinali",
       "role": "Chief Buying & Merchandising Officer-Apparel",
       "age": "N/A",
@@ -69,6 +62,13 @@
     {
       "name": "Mr. Samir  Agrawal",
       "role": "Chief B&M Officer -General Merchandising",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vineet  Saxena",
+      "role": "Senior Vice President of FMCG",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

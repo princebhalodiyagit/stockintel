@@ -1,10 +1,10 @@
 {
   "ticker": "JBCHEPHARM",
-  "collected_at": "2026-08-25 02:57:21",
+  "collected_at": "2026-08-26 03:02:33",
   "company_info": {
     "name": "J. B. Chemicals & Pharmaceuticals Limited",
-    "sector": "Healthcare",
-    "industry": "Drug Manufacturers - Specialty & Generic",
+    "sector": "",
+    "industry": "",
     "market_cap": 387925901312,
     "current_price": 2416.1,
     "pe_ratio": 54.221275,
@@ -16,6 +16,6 @@
     "eps": 44.56,
     "52_week_high": 2525.5,
     "52_week_low": 1638.5,
-    "dividend_yield": 0.77
+    "dividend_yield": "N/A"
   }
 }

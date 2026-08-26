@@ -1,14 +1,14 @@
 {
   "ticker": "RELCHEMQ",
-  "collected_at": "2026-08-25 03:09:53",
+  "collected_at": "2026-08-26 03:13:08",
   "company_info": {
     "name": "Reliance Chemotex Industries Limited",
     "sector": "Consumer Cyclical",
     "industry": "Textile Manufacturing",
-    "market_cap": 854987392,
-    "current_price": 113.34,
-    "pe_ratio": 15.378561,
-    "pb_ratio": 0.6000921,
+    "market_cap": 850159552,
+    "current_price": 112.7,
+    "pe_ratio": 15.291723,
+    "pb_ratio": 0.5967035,
     "roe": "N/A",
     "debt_to_equity": 187.457,
     "revenue": 3684599040,
@@ -16,6 +16,6 @@
     "eps": 7.37,
     "52_week_high": 171.88,
     "52_week_low": 105.01,
-    "dividend_yield": 0.45
+    "dividend_yield": 0.44
   }
 }

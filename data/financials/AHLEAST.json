@@ -1,14 +1,14 @@
 {
   "ticker": "AHLEAST",
-  "collected_at": "2026-08-25 02:39:15",
+  "collected_at": "2026-08-26 02:47:04",
   "company_info": {
     "name": "Asian Hotels (East) Limited",
     "sector": "Consumer Cyclical",
     "industry": "Lodging",
-    "market_cap": 2476516608,
-    "current_price": 143.22,
-    "pe_ratio": 3.5653474,
-    "pb_ratio": 1.3515146,
+    "market_cap": 2424641536,
+    "current_price": 140.22,
+    "pe_ratio": 3.490665,
+    "pb_ratio": 1.3232046,
     "roe": "N/A",
     "debt_to_equity": 235.025,
     "revenue": 1241965056,
@@ -16,6 +16,6 @@
     "eps": 40.17,
     "52_week_high": 175.3,
     "52_week_low": 127.25,
-    "dividend_yield": 0.71
+    "dividend_yield": 0.7
   }
 }
