@@ -1,21 +1,21 @@
 {
   "ticker": "KAJARIACER",
   "company": "Kajaria Ceramics Limited",
-  "collected_at": "2026-08-26 03:03:23",
+  "collected_at": "2026-08-27 12:07:52",
   "directors": [
     {
       "name": "Mr. Rishi  Kajaria",
       "role": "MD & Executive Director",
       "age": 47,
       "year_born": 1978,
-      "total_pay": 58000000
+      "total_pay": "N/A"
     },
     {
       "name": "Chetan  Kajaria B.E., M.B.A.",
       "role": "Executive Vice Chairman",
       "age": 51,
       "year_born": 1974,
-      "total_pay": 57400000
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Sanjeev  Agarwal",
@@ -36,41 +36,6 @@
       "role": "Senior Vice President of Marketing & Technical",
       "age": 51,
       "year_born": 1974,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Ipininder  Singh",
-      "role": "Group Chief Digital & Information Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Vinit  Kumar",
-      "role": "General Counsel & Company Secretary",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Siddharth  Parida",
-      "role": "Chief Marketing Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Kartik  Kajaria",
-      "role": "Head of Adhesive Division",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Anubhav  Sharma",
-      "role": "Head of Procurement",
-      "age": "N/A",
-      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

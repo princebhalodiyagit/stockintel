@@ -1,14 +1,14 @@
 {
   "ticker": "IRB",
-  "collected_at": "2026-08-26 03:01:56",
+  "collected_at": "2026-08-27 12:06:11",
   "company_info": {
     "name": "IRB Infrastructure Developers Limited",
     "sector": "Industrials",
     "industry": "Infrastructure Operations",
-    "market_cap": 227187179520,
-    "current_price": 18.81,
-    "pe_ratio": 24.115385,
-    "pb_ratio": 1.0640343,
+    "market_cap": 233346957312,
+    "current_price": 19.32,
+    "pe_ratio": 24.769232,
+    "pb_ratio": 1.0928838,
     "roe": "N/A",
     "debt_to_equity": 95.6,
     "revenue": 61644738560,
@@ -16,6 +16,6 @@
     "eps": 0.78,
     "52_week_high": 23.95,
     "52_week_low": 18.76,
-    "dividend_yield": 1.06
+    "dividend_yield": 1.03
   }
 }

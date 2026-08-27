@@ -1,7 +1,7 @@
 {
   "ticker": "IMFA",
   "company": "Indian Metals & Ferro Alloys Limited",
-  "collected_at": "2026-08-26 03:00:54",
+  "collected_at": "2026-08-27 12:04:59",
   "directors": [
     {
       "name": "Mr. Subhrakant  Panda",
@@ -9,13 +9,6 @@
       "age": 54,
       "year_born": 1971,
       "total_pay": 297179606
-    },
-    {
-      "name": "Mr. Baijayant  Panda",
-      "role": "Executive Vice Chairman",
-      "age": 61,
-      "year_born": 1964,
-      "total_pay": 282766834
     },
     {
       "name": "Mr. Saunak  Gupta",
@@ -69,6 +62,13 @@
     {
       "name": "Mr. Arvind Kumar Mishra",
       "role": "Chief of Business Development",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sureshbabu  Chigurupalli",
+      "role": "VP & Head Ferro Alloys",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

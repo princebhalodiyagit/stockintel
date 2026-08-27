@@ -1,7 +1,7 @@
 {
   "ticker": "BHARTIARTL",
   "company": "Bharti Airtel Limited",
-  "collected_at": "2026-08-26 02:50:50",
+  "collected_at": "2026-08-27 11:52:56",
   "directors": [
     {
       "name": "Mr. Sunil Bharti Mittal",
@@ -9,13 +9,6 @@
       "age": 68,
       "year_born": 1957,
       "total_pay": 333413535
-    },
-    {
-      "name": "Mr. Shashwat  Sharma",
-      "role": "MD, CEO, COO & Director",
-      "age": 44,
-      "year_born": 1981,
-      "total_pay": 18833025
     },
     {
       "name": "Mr. Gopal Krishna Vittal",
@@ -71,6 +64,13 @@
       "role": "General Counsel & Director of Legal",
       "age": 45,
       "year_born": 1980,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Romit  Guha",
+      "role": "Head of Corporate Communications",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

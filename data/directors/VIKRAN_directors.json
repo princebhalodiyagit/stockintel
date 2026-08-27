@@ -1,7 +1,7 @@
 {
   "ticker": "VIKRAN",
   "company": "Vikran Engineering Limited",
-  "collected_at": "2026-08-26 03:21:58",
+  "collected_at": "2026-08-27 12:29:31",
   "directors": [
     {
       "name": "Mr. Rakesh Ashok Markhedkar",
@@ -9,13 +9,6 @@
       "age": 60,
       "year_born": 1965,
       "total_pay": 30898500
-    },
-    {
-      "name": "Mr. Ashish  Bahety",
-      "role": "Chief Financial Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
     },
     {
       "name": "Mr. Dibyendu  Ray",
@@ -44,34 +37,6 @@
       "age": 57,
       "year_born": 1968,
       "total_pay": 10492500
-    },
-    {
-      "name": "Mr. Vaibhav  Kapoor",
-      "role": "General Manager of Contracts & Legal",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ms. Kanchan Rakesh Markhedkar",
-      "role": "Chief Human Resources Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Vipul  Markhedkar",
-      "role": "Chief Business Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Jatashanker  Singh",
-      "role": "General Manager of Execution",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
     }
   ]
 }

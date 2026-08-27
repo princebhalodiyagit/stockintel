@@ -1,7 +1,7 @@
 {
   "ticker": "ROSSELLIND",
   "company": "Rossell India Limited",
-  "collected_at": "2026-08-26 03:13:41",
+  "collected_at": "2026-08-27 12:20:03",
   "directors": [
     {
       "name": "Mr. Harsh Mohan Gupta B.A. (Hons.)",
@@ -30,13 +30,6 @@
       "age": 40,
       "year_born": 1985,
       "total_pay": 7492000
-    },
-    {
-      "name": "Mr. Digant Mahesh Parikh",
-      "role": "Senior Vice-President of Finance",
-      "age": 53,
-      "year_born": 1972,
-      "total_pay": "N/A"
     },
     {
       "name": "Mr. Suneel Singh Sikand",
@@ -71,6 +64,13 @@
       "role": "Vice President - Rossell Techsys Division",
       "age": 57,
       "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "D. M. Varagunasingh",
+      "role": "Vice President - Rossell Techsys Division",
+      "age": 55,
+      "year_born": 1970,
       "total_pay": "N/A"
     }
   ]

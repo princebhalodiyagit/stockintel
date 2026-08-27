@@ -1,7 +1,7 @@
 {
   "ticker": "SAREGAMA",
   "company": "Saregama India Limited",
-  "collected_at": "2026-08-26 03:14:53",
+  "collected_at": "2026-08-27 12:21:23",
   "directors": [
     {
       "name": "Mr. Vikram  Mehra",
@@ -9,41 +9,6 @@
       "age": 54,
       "year_born": 1971,
       "total_pay": 202967000
-    },
-    {
-      "name": "Mr. Abhishek  Kapoor",
-      "role": "Chief Financial Officer",
-      "age": 46,
-      "year_born": 1979,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Yazad  Anklesaria",
-      "role": "General Manager of IT & Technology",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ms. Sonalika  Johri",
-      "role": "Vice President of HR & Administration",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Yash  Asai",
-      "role": "Vice President of Legal",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Nayan Kumar Misra",
-      "role": "Company Secretary & Compliance Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
     },
     {
       "name": "Mr. Vinay Kumar Guwalani",
@@ -71,6 +36,20 @@
       "role": "Senior Vice President of Music",
       "age": 52,
       "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Aditi  Shrivastava",
+      "role": "Co-Founder & Chief Executive Officer of Pocket Aces Pictures Private Limited",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kuldeep  Kothari",
+      "role": "Deputy General Manager",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

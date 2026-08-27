@@ -1,14 +1,14 @@
 {
   "ticker": "GULFPETRO",
-  "collected_at": "2026-08-26 02:58:57",
+  "collected_at": "2026-08-27 12:02:46",
   "company_info": {
     "name": "GP Petroleums Limited",
     "sector": "Energy",
     "industry": "Oil & Gas Refining & Marketing",
-    "market_cap": 3525060352,
-    "current_price": 69.14,
-    "pe_ratio": 8.675032,
-    "pb_ratio": 0.99252087,
+    "market_cap": 3374146560,
+    "current_price": 66.18,
+    "pe_ratio": 8.303638,
+    "pb_ratio": 0.9500294,
     "roe": "N/A",
     "debt_to_equity": 6.563,
     "revenue": 7146451968,
@@ -16,6 +16,6 @@
     "eps": 7.97,
     "52_week_high": 71.4,
     "52_week_low": 23.25,
-    "dividend_yield": 0.71
+    "dividend_yield": 0.73
   }
 }

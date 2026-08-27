@@ -1,7 +1,7 @@
 {
   "ticker": "NMDC",
   "company": "NMDC Limited",
-  "collected_at": "2026-08-26 03:09:20",
+  "collected_at": "2026-08-27 12:14:52",
   "directors": [
     {
       "name": "Mr. Amitava  Mukherjee",
@@ -9,13 +9,6 @@
       "age": 57,
       "year_born": 1968,
       "total_pay": 6989000
-    },
-    {
-      "name": "Mr. Vinay  Kumar",
-      "role": "Commercial Director, Technical Director & Director",
-      "age": 56,
-      "year_born": 1969,
-      "total_pay": 6949000
     },
     {
       "name": "Mr. Joydeep  Dasgupta",
@@ -69,6 +62,13 @@
     {
       "name": "Mr. N. Ramakrishna Prasad",
       "role": "Chief General Manager of Industrial Engineering & MS",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Padmanabha  Naik",
+      "role": "Chief General Manager - NCL",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

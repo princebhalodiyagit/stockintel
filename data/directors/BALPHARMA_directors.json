@@ -1,14 +1,14 @@
 {
   "ticker": "BALPHARMA",
   "company": "Bal Pharma Limited",
-  "collected_at": "2026-08-26 02:49:59",
+  "collected_at": "2026-08-27 11:51:56",
   "directors": [
     {
       "name": "Mr. Shailesh Dheerajmal Siroya",
       "role": "MD & Executive Director",
       "age": 59,
       "year_born": 1966,
-      "total_pay": 18333000
+      "total_pay": 18000000
     },
     {
       "name": "Mr. Daddanala Venkat Bharath Bhushan",
@@ -22,20 +22,6 @@
       "role": "Chief Operating Officer",
       "age": 51,
       "year_born": 1974,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Himesh  Virupakshaya",
-      "role": "Whole Time Director",
-      "age": 64,
-      "year_born": 1961,
-      "total_pay": 3713000
-    },
-    {
-      "name": "Mr. Ravindra Kumar Kothari",
-      "role": "Deputy GM of Internal Audit, Legal and Compliances & Non-Executive and Non-Independent Director",
-      "age": 70,
-      "year_born": 1955,
       "total_pay": "N/A"
     },
     {
@@ -71,6 +57,13 @@
       "role": "General Manager of Purchase",
       "age": 49,
       "year_born": 1976,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ramachandrappa  B. N.",
+      "role": "Assistant General Manager",
+      "age": 50,
+      "year_born": 1975,
       "total_pay": "N/A"
     }
   ]

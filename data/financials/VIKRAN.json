@@ -1,14 +1,14 @@
 {
   "ticker": "VIKRAN",
-  "collected_at": "2026-08-26 03:21:58",
+  "collected_at": "2026-08-27 12:29:31",
   "company_info": {
     "name": "Vikran Engineering Limited",
     "sector": "Industrials",
     "industry": "Engineering & Construction",
-    "market_cap": 15469503488,
-    "current_price": 59.98,
-    "pe_ratio": 15.419023,
-    "pb_ratio": 1.2509384,
+    "market_cap": 15337968640,
+    "current_price": 59.47,
+    "pe_ratio": 15.287918,
+    "pb_ratio": 1.240302,
     "roe": "N/A",
     "debt_to_equity": 24.318,
     "revenue": 12317400064,
@@ -16,6 +16,6 @@
     "eps": 3.89,
     "52_week_high": 118.4,
     "52_week_low": 51.1,
-    "dividend_yield": 0.29
+    "dividend_yield": 0.3
   }
 }

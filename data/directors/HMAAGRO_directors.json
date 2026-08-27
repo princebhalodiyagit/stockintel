@@ -1,63 +1,28 @@
 {
   "ticker": "HMAAGRO",
   "company": "HMA Agro Industries Limited",
-  "collected_at": "2026-08-26 03:00:05",
+  "collected_at": "2026-08-27 12:04:02",
   "directors": [
     {
       "name": "Mr. Gulzar  Ahmad",
       "role": "MD & Chairperson",
       "age": 59,
       "year_born": 1966,
-      "total_pay": 13500000
+      "total_pay": 12000000
     },
     {
       "name": "Mr. Gulzeb  Ahmed",
       "role": "Chief Financial Officer",
       "age": 37,
       "year_born": 1988,
-      "total_pay": 7500000
+      "total_pay": 6000000
     },
     {
       "name": "Mr. Mohammad Mehmood Qureshi",
       "role": "Head of Commercial Administration",
       "age": 46,
       "year_born": 1979,
-      "total_pay": 13500000
-    },
-    {
-      "name": "Mr. Nikhil  Sundrani C.S.",
-      "role": "Company Secretary",
-      "age": 32,
-      "year_born": 1993,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Vishwambharan  Parmeshwaran",
-      "role": "Whole Time Director",
-      "age": 64,
-      "year_born": 1961,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Mohd Kamil Qureshi",
-      "role": "Head of International Business",
-      "age": 38,
-      "year_born": 1987,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Bhabani Sankar Acharya",
-      "role": "Whole Time Director",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Viswambharan  Parameswaran",
-      "role": "Executive Director",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
+      "total_pay": 12000000
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
   "ticker": "COASTCORP",
-  "collected_at": "2026-08-26 02:52:53",
+  "collected_at": "2026-08-27 11:55:22",
   "company_info": {
     "name": "Coastal Corporation Limited",
     "sector": "Consumer Defensive",
     "industry": "Packaged Foods",
-    "market_cap": 2709229056,
-    "current_price": 40.45,
-    "pe_ratio": 8.323045,
-    "pb_ratio": 0.95358217,
+    "market_cap": 2720615168,
+    "current_price": 40.62,
+    "pe_ratio": 8.358025,
+    "pb_ratio": 0.95758975,
     "roe": "N/A",
     "debt_to_equity": 169.519,
     "revenue": 10408847360,
@@ -16,6 +16,6 @@
     "eps": 4.86,
     "52_week_high": 66.7,
     "52_week_low": 30.01,
-    "dividend_yield": 0.68
+    "dividend_yield": 0.69
   }
 }

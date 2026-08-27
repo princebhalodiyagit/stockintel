@@ -1,7 +1,7 @@
 {
   "ticker": "GANDHAR",
   "company": "Gandhar Oil Refinery (India) Limited",
-  "collected_at": "2026-08-26 02:57:01",
+  "collected_at": "2026-08-27 12:00:11",
   "directors": [
     {
       "name": "Mr. Ramesh Babulal Parekh",
@@ -32,20 +32,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Rajiv Jitendra Parekh",
-      "role": "President of Accounts & Finance",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ms. Binal  Khosla",
-      "role": "Company Secretary, Legal & Compliance Officer",
-      "age": 42,
-      "year_born": 1983,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Rohit  Sanghani",
       "role": "Senior Vice President of Marketing",
       "age": 81,
@@ -69,6 +55,13 @@
     {
       "name": "Mr. Jatin  Dhamani",
       "role": "Additional Whole Time Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Dipakbhai Babulal Mewada",
+      "role": "General Manager of R&D/ Operation",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

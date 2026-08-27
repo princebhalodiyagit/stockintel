@@ -1,7 +1,7 @@
 {
   "ticker": "SUZLON",
   "company": "Suzlon Energy Limited",
-  "collected_at": "2026-08-26 03:18:30",
+  "collected_at": "2026-08-27 12:25:35",
   "directors": [
     {
       "name": "Mr. Vinod R. Tanti",
@@ -9,13 +9,6 @@
       "age": 62,
       "year_born": 1963,
       "total_pay": 72900000
-    },
-    {
-      "name": "Mr. Girish R. Tanti",
-      "role": "Co-Founder & Vice Chairman",
-      "age": 55,
-      "year_born": 1970,
-      "total_pay": 29500000
     },
     {
       "name": "Mr. Jayarama Prasad Chalasani",
@@ -72,6 +65,13 @@
       "age": 73,
       "year_born": 1952,
       "total_pay": 9475000
+    },
+    {
+      "name": "Dr. V. B. Rao",
+      "role": "Senior Vice President of Sales & Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

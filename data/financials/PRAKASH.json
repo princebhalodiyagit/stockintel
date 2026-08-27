@@ -1,14 +1,14 @@
 {
   "ticker": "PRAKASH",
-  "collected_at": "2026-08-26 03:11:46",
+  "collected_at": "2026-08-27 12:17:47",
   "company_info": {
     "name": "Prakash Industries Limited",
     "sector": "Basic Materials",
     "industry": "Steel",
-    "market_cap": 22866960384,
-    "current_price": 127.69,
-    "pe_ratio": 7.30492,
-    "pb_ratio": 0.6372456,
+    "market_cap": 22798909440,
+    "current_price": 127.31,
+    "pe_ratio": 7.2831807,
+    "pb_ratio": 0.63534915,
     "roe": "N/A",
     "debt_to_equity": 14.363,
     "revenue": 34735800320,
@@ -16,6 +16,6 @@
     "eps": 17.48,
     "52_week_high": 177.0,
     "52_week_low": 110.24,
-    "dividend_yield": 1.17
+    "dividend_yield": 1.15
   }
 }

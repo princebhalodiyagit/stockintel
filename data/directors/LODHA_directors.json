@@ -1,7 +1,7 @@
 {
   "ticker": "LODHA",
   "company": "Lodha Developers Limited",
-  "collected_at": "2026-08-26 03:05:26",
+  "collected_at": "2026-08-27 12:10:17",
   "directors": [
     {
       "name": "Mr. Abhishek Mangal Prabhat Lodha",
@@ -32,13 +32,6 @@
       "total_pay": 63640000
     },
     {
-      "name": "Mr. Sushil Kumar Modi CFA",
-      "role": "Executive Director of Finance & Whole-Time Director",
-      "age": 51,
-      "year_born": 1974,
-      "total_pay": 77490000
-    },
-    {
       "name": "Ms. Sanjyot Nilesh Rangnekar",
       "role": "Company Secretary & Compliance Officer",
       "age": 55,
@@ -46,29 +39,36 @@
       "total_pay": 463238
     },
     {
-      "name": "Mr. Prashant  Bindal",
-      "role": "Chief Sales Officer",
-      "age": 53,
-      "year_born": 1972,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ms. Janhavi  Sukhtankar",
-      "role": "President of Human Resources",
+      "name": "Mr. Sumit  Kumar",
+      "role": "Executive Vice President of Strategy",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Deepak  Chitnis B.E.",
-      "role": "Chief Designer",
-      "age": 51,
-      "year_born": 1974,
+      "name": "Mr. Rajesh  Sahana",
+      "role": "Chief Customer Officer",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Tikam  Jain",
-      "role": "Chief Executive Officer of Pune",
+      "name": "Mr. Yogendra  Bohra",
+      "role": "Chief Operating Officer of Eastern suburbs, Western Suburbs & Navi Mumbai",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Shyam  Kaikini",
+      "role": "President of Hospitality & Property Management",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajesh  Agrawal",
+      "role": "President of Procurement",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

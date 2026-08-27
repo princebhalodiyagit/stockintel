@@ -1,14 +1,14 @@
 {
   "ticker": "MCX",
   "company": "Multi Commodity Exchange of India Limited",
-  "collected_at": "2026-08-26 03:06:51",
+  "collected_at": "2026-08-27 12:11:53",
   "directors": [
     {
       "name": "Ms. Praveena  Rai",
       "role": "MD, CEO & Director",
       "age": 55,
       "year_born": 1970,
-      "total_pay": 14823364
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Chandresh  Shah",
@@ -25,52 +25,38 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Manoj  Jain",
-      "role": "Executive Director of Regulatory, Compliance, Risk Management & Investor Grievances",
-      "age": 51,
-      "year_born": 1974,
+      "name": "Ms. Rashmi  Nihalani",
+      "role": "Head of Department of Strategy & Research Group",
+      "age": 49,
+      "year_born": 1976,
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Dalvani Ganapathi Praveen",
-      "role": "Chief Risk Officer",
-      "age": 47,
-      "year_born": 1978,
+      "name": "Mr. Suresh  Raval",
+      "role": "Functional Head \u0096 DR site",
+      "age": 62,
+      "year_born": 1963,
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Rishi  Nathany",
-      "role": "Chief Business Officer",
-      "age": 51,
-      "year_born": 1974,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Dr. Rajendran  Narayanan",
-      "role": "Chief Digital Officer",
-      "age": 55,
-      "year_born": 1970,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ms. Kavita  Ravichandran",
-      "role": "Chief Regulatory Officer",
-      "age": 42,
-      "year_born": 1983,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Sougat  Ghosh",
-      "role": "Chief Information Security Officer & Data Protection Officer",
+      "name": "Mr. Armaan  Gaus",
+      "role": "Head of Department \u0096 Surveillance and Investigation",
       "age": 48,
       "year_born": 1977,
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Mithun Manjnath Nayak",
-      "role": "Deputy Chief Technology Officer",
-      "age": 45,
-      "year_born": 1980,
+      "name": "Mr. Abhishek Suresh Govilkar",
+      "role": "Head of Department - Agri",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sunny  Singh",
+      "role": "Chief of Staff",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

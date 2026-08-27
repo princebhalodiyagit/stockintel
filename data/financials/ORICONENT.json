@@ -1,14 +1,14 @@
 {
   "ticker": "ORICONENT",
-  "collected_at": "2026-08-26 03:10:04",
+  "collected_at": "2026-08-27 12:15:45",
   "company_info": {
     "name": "Oricon Enterprises Limited",
     "sector": "Consumer Cyclical",
     "industry": "Packaging & Containers",
-    "market_cap": 8817404928,
-    "current_price": 55.81,
-    "pe_ratio": 37.70946,
-    "pb_ratio": 0.7511744,
+    "market_cap": 8752629760,
+    "current_price": 55.4,
+    "pe_ratio": 37.432434,
+    "pb_ratio": 0.745656,
     "roe": "N/A",
     "debt_to_equity": 0.273,
     "revenue": 453303008,
@@ -16,6 +16,6 @@
     "eps": 1.48,
     "52_week_high": 73.12,
     "52_week_low": 48.81,
-    "dividend_yield": 0.88
+    "dividend_yield": 0.35
   }
 }
