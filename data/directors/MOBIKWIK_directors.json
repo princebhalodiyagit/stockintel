@@ -1,18 +1,11 @@
 {
   "ticker": "MOBIKWIK",
   "company": "One Mobikwik Systems Limited",
-  "collected_at": "2026-08-27 12:12:35",
+  "collected_at": "2026-08-28 16:08:09",
   "directors": [
     {
       "name": "Mr. Bipin Preet Singh",
       "role": "Co-Founder, CEO, MD & Director",
-      "age": 46,
-      "year_born": 1979,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ms. Upasana Rupkrishan Taku",
-      "role": "CFO & Executive Director",
       "age": 46,
       "year_born": 1979,
       "total_pay": "N/A"
@@ -25,22 +18,8 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Anand  Kumar",
-      "role": "Vice President of Corporate Development & Investor Relations",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
       "name": "Ms. Ankita  Sharma",
       "role": "Compliance Officer & Company Secretary",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Mrinall  Dey",
-      "role": "VP and Head of PR & Communications",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
@@ -71,6 +50,20 @@
       "role": "Senior Vice President of BNPL",
       "age": 44,
       "year_born": 1981,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Dhruv  Wadhera",
+      "role": "Senior Vice President of Offline Payments",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anis Nasirullah Pathan",
+      "role": "Chief Risk Officer",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

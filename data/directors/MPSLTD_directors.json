@@ -1,7 +1,7 @@
 {
   "ticker": "MPSLTD",
   "company": "MPS Limited",
-  "collected_at": "2026-08-27 12:13:02",
+  "collected_at": "2026-08-28 16:11:10",
   "directors": [
     {
       "name": "Mr. Rahul  Arora",
@@ -16,13 +16,6 @@
       "age": 46,
       "year_born": 1979,
       "total_pay": 11962000
-    },
-    {
-      "name": "Mr. Raman  Sapra",
-      "role": "Compliance Officer & Company Secretary",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 5103000
     },
     {
       "name": "Mr. Vijendra Narendra Kumar",
@@ -69,6 +62,13 @@
     {
       "name": "Mr. Rajesh  Jumani",
       "role": "Global Chief Revenue Officer of MPS Interactive",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. David  Goodman",
+      "role": "Managing Director of North America",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

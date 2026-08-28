@@ -1,14 +1,14 @@
 {
   "ticker": "UNIDT",
-  "collected_at": "2026-08-27 12:28:28",
+  "collected_at": "2026-08-28 17:57:57",
   "company_info": {
     "name": "United Drilling Tools Limited",
     "sector": "Energy",
     "industry": "Oil & Gas Equipment & Services",
-    "market_cap": 4317053952,
-    "current_price": 212.63,
-    "pe_ratio": 21.052475,
-    "pb_ratio": 1.4985024,
+    "market_cap": 4375526400,
+    "current_price": 215.51,
+    "pe_ratio": 21.337622,
+    "pb_ratio": 1.5187991,
     "roe": "N/A",
     "debt_to_equity": 1.153,
     "revenue": 1839388032,
@@ -16,6 +16,6 @@
     "eps": 10.1,
     "52_week_high": 254.97,
     "52_week_low": 146.0,
-    "dividend_yield": 1.08
+    "dividend_yield": 1.13
   }
 }

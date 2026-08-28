@@ -1,14 +1,14 @@
 {
   "ticker": "KOTYARK",
-  "collected_at": "2026-08-27 12:09:04",
+  "collected_at": "2026-08-28 15:43:32",
   "company_info": {
     "name": "Kotyark Industries Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals",
-    "market_cap": 3995903488,
-    "current_price": 35.34,
-    "pe_ratio": 21.289158,
-    "pb_ratio": 2.2109609,
+    "market_cap": 3934845440,
+    "current_price": 34.8,
+    "pe_ratio": 20.963856,
+    "pb_ratio": 2.1771772,
     "roe": 0.11241,
     "debt_to_equity": 35.581,
     "revenue": 3148700928,
@@ -16,6 +16,6 @@
     "eps": 1.66,
     "52_week_high": 45.5,
     "52_week_low": 17.381819,
-    "dividend_yield": 1.31
+    "dividend_yield": 1.29
   }
 }
