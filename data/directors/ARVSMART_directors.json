@@ -1,15 +1,8 @@
 {
   "ticker": "ARVSMART",
   "company": "Arvind SmartSpaces Limited",
-  "collected_at": "2026-08-28 13:33:20",
+  "collected_at": "2026-08-29 08:09:04",
   "directors": [
-    {
-      "name": "Mr. Dharmesh  Vyas",
-      "role": "Chief Operations Officer",
-      "age": 53,
-      "year_born": 1972,
-      "total_pay": "N/A"
-    },
     {
       "name": "Mr. Chirag Arunkumar Shah",
       "role": "Chief Technical Officer",
@@ -69,6 +62,13 @@
     {
       "name": "Mr. Ketul  Patel C.A.",
       "role": "Head of Business Development",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sharvil  Shah",
+      "role": "Chief Business Officer of West",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
