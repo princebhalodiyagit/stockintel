@@ -1,14 +1,14 @@
 {
   "ticker": "BRITANNIA",
-  "collected_at": "2026-08-30 07:09:30",
+  "collected_at": "2026-08-31 07:25:46",
   "company_info": {
     "name": "Britannia Industries Limited",
     "sector": "Consumer Defensive",
     "industry": "Packaged Foods",
-    "market_cap": 1278649303040,
-    "current_price": 5308.5,
-    "pe_ratio": 49.021145,
-    "pb_ratio": 25.039387,
+    "market_cap": 1272266358784,
+    "current_price": 5282.0,
+    "pe_ratio": 48.776432,
+    "pb_ratio": 24.914389,
     "roe": "N/A",
     "debt_to_equity": 26.875,
     "revenue": 194684600320,
@@ -16,6 +16,6 @@
     "eps": 108.29,
     "52_week_high": 6336.0,
     "52_week_low": 5035.0,
-    "dividend_yield": 1.71
+    "dividend_yield": 1.7
   }
 }

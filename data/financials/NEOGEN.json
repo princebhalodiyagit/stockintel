@@ -1,14 +1,14 @@
 {
   "ticker": "NEOGEN",
-  "collected_at": "2026-08-30 07:25:48",
+  "collected_at": "2026-08-31 07:45:34",
   "company_info": {
     "name": "Neogen Chemicals Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals",
-    "market_cap": 60508024832,
-    "current_price": 2209.8,
-    "pe_ratio": 165.15695,
-    "pb_ratio": 7.1378965,
+    "market_cap": 60458737664,
+    "current_price": 2208.0,
+    "pe_ratio": 165.02242,
+    "pb_ratio": 7.1320825,
     "roe": "N/A",
     "debt_to_equity": 170.915,
     "revenue": 9255199744,
@@ -16,6 +16,6 @@
     "eps": 13.38,
     "52_week_high": 2483.9,
     "52_week_low": 966.7,
-    "dividend_yield": 0.04
+    "dividend_yield": 0.05
   }
 }
