@@ -1,15 +1,8 @@
 {
   "ticker": "PCBL",
   "company": "PCBL Chemical Limited",
-  "collected_at": "2026-08-31 07:47:57",
+  "collected_at": "2026-09-01 06:59:38",
   "directors": [
-    {
-      "name": "Mr. Nilesh  Koul",
-      "role": "Managing Director",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 40500000
-    },
     {
       "name": "Mr. Raj Kumar Gupta",
       "role": "Chief Financial Officer",
@@ -69,6 +62,13 @@
     {
       "name": "Mr. Gautam  Kalia",
       "role": "Chief of International Markets (Rubber Blacks)",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Valerie  Smits",
+      "role": "Chief of Global R&D",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
