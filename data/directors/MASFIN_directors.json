@@ -1,7 +1,7 @@
 {
   "ticker": "MASFIN",
   "company": "MAS Financial Services Limited",
-  "collected_at": "2026-09-01 06:55:01",
+  "collected_at": "2026-09-02 06:33:18",
   "directors": [
     {
       "name": "Mr. Kamlesh Chimanlal Gandhi",
@@ -46,13 +46,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Nishant  Jain",
-      "role": "Chief Risk Officer",
-      "age": 37,
-      "year_born": 1988,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Gaurang Arvindbhai Kasudia",
       "role": "Head of EDP",
       "age": 48,
@@ -69,6 +62,13 @@
     {
       "name": "Mr. Darshil R. Thakkar",
       "role": "Head of Credit",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Deepika  Agrawal",
+      "role": "Head - Internal Auditor",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

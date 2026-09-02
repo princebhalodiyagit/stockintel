@@ -1,14 +1,14 @@
 {
   "ticker": "PGIL",
-  "collected_at": "2026-09-01 06:59:55",
+  "collected_at": "2026-09-02 06:38:09",
   "company_info": {
     "name": "Pearl Global Industries Limited",
     "sector": "Consumer Cyclical",
     "industry": "Apparel Manufacturing",
-    "market_cap": 110256832512,
-    "current_price": 2387.0,
-    "pe_ratio": 35.489147,
-    "pb_ratio": 7.545512,
+    "market_cap": 108127436800,
+    "current_price": 2340.9,
+    "pe_ratio": 34.803745,
+    "pb_ratio": 7.3997855,
     "roe": "N/A",
     "debt_to_equity": 65.567,
     "revenue": 53249417216,
@@ -16,6 +16,6 @@
     "eps": 67.26,
     "52_week_high": 2539.6,
     "52_week_low": 1178.1,
-    "dividend_yield": 0.91
+    "dividend_yield": 0.85
   }
 }

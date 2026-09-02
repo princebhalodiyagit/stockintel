@@ -1,14 +1,14 @@
 {
   "ticker": "BLACKROSE",
-  "collected_at": "2026-09-01 06:38:14",
+  "collected_at": "2026-09-02 06:16:34",
   "company_info": {
     "name": "Black Rose Industries Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals",
     "market_cap": "N/A",
-    "current_price": 115.0,
-    "pe_ratio": 20.462633,
-    "pb_ratio": 3.4544907,
+    "current_price": 112.51,
+    "pe_ratio": 20.019573,
+    "pb_ratio": 3.3796935,
     "roe": "N/A",
     "debt_to_equity": 0.848,
     "revenue": 3522451968,
@@ -16,6 +16,6 @@
     "eps": 5.62,
     "52_week_high": 117.97,
     "52_week_low": 103.0,
-    "dividend_yield": 1.09
+    "dividend_yield": 1.1
   }
 }

@@ -1,14 +1,14 @@
 {
   "ticker": "CINELINE",
-  "collected_at": "2026-09-01 06:40:01",
+  "collected_at": "2026-09-02 06:18:21",
   "company_info": {
     "name": "Cineline India Limited",
     "sector": "Communication Services",
     "industry": "Entertainment",
-    "market_cap": 3056223232,
-    "current_price": 89.19,
-    "pe_ratio": 24.706373,
-    "pb_ratio": 1.9683094,
+    "market_cap": 3354288896,
+    "current_price": 88.01,
+    "pe_ratio": 24.379503,
+    "pb_ratio": 1.9422683,
     "roe": "N/A",
     "debt_to_equity": 77.936,
     "revenue": 2506810112,
@@ -16,6 +16,6 @@
     "eps": 3.61,
     "52_week_high": 97.4,
     "52_week_low": 73.35,
-    "dividend_yield": "N/A"
+    "dividend_yield": 1.42
   }
 }

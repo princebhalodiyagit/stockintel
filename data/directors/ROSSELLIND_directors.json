@@ -1,7 +1,7 @@
 {
   "ticker": "ROSSELLIND",
   "company": "Rossell India Limited",
-  "collected_at": "2026-09-01 07:02:54",
+  "collected_at": "2026-09-02 06:41:04",
   "directors": [
     {
       "name": "Mr. Harsh Mohan Gupta B.A. (Hons.)",
@@ -9,13 +9,6 @@
       "age": 71,
       "year_born": 1954,
       "total_pay": 17416000
-    },
-    {
-      "name": "Mr. Nirmal Kumar Khurana",
-      "role": "CFO, Director of Fin., Compliance Officer, Comp. Secretary, Chief IR Officer & Wholetime Director",
-      "age": 67,
-      "year_born": 1958,
-      "total_pay": 9786000
     },
     {
       "name": "Ms. Vinita  Gupta",
@@ -71,6 +64,13 @@
       "role": "Vice President - Rossell Techsys Division",
       "age": 55,
       "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Samar Jyoti Chaliha",
+      "role": "Deputy General Manager of Dikom Tea Estate",
+      "age": 59,
+      "year_born": 1966,
       "total_pay": "N/A"
     }
   ]

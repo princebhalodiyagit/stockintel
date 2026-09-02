@@ -1,14 +1,14 @@
 {
   "ticker": "DLF",
-  "collected_at": "2026-09-01 06:42:08",
+  "collected_at": "2026-09-02 06:20:26",
   "company_info": {
     "name": "DLF Limited",
     "sector": "Real Estate",
     "industry": "Real Estate - Development",
-    "market_cap": 1670092816384,
-    "current_price": 674.7,
-    "pe_ratio": 37.545914,
-    "pb_ratio": 3.6726763,
+    "market_cap": 1632220479488,
+    "current_price": 659.4,
+    "pe_ratio": 36.694492,
+    "pb_ratio": 3.5893922,
     "roe": 0.10102,
     "debt_to_equity": 0.673,
     "revenue": 67576578048,
@@ -16,6 +16,6 @@
     "eps": 17.97,
     "52_week_high": 794.8,
     "52_week_low": 489.4,
-    "dividend_yield": 1.18
+    "dividend_yield": 1.16
   }
 }

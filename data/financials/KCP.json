@@ -1,14 +1,14 @@
 {
   "ticker": "KCP",
-  "collected_at": "2026-09-01 06:51:53",
+  "collected_at": "2026-09-02 06:30:05",
   "company_info": {
     "name": "The KCP Limited",
     "sector": "Basic Materials",
     "industry": "Building Materials",
-    "market_cap": 21678092288,
-    "current_price": 168.15,
-    "pe_ratio": 12.7001505,
-    "pb_ratio": 1.2165829,
+    "market_cap": 21421541376,
+    "current_price": 166.16,
+    "pe_ratio": 12.5498495,
+    "pb_ratio": 1.202185,
     "roe": 0.13093,
     "debt_to_equity": 29.379,
     "revenue": 25761599488,
@@ -16,6 +16,6 @@
     "eps": 13.24,
     "52_week_high": 212.2,
     "52_week_low": 125.0,
-    "dividend_yield": 0.59
+    "dividend_yield": 0.6
   }
 }

@@ -1,14 +1,14 @@
 {
   "ticker": "PPL",
-  "collected_at": "2026-09-01 07:00:40",
+  "collected_at": "2026-09-02 06:38:54",
   "company_info": {
     "name": "Prakash Pipes Limited",
     "sector": "Industrials",
     "industry": "Building Products & Equipment",
-    "market_cap": 6207818240,
-    "current_price": 259.5,
-    "pe_ratio": 12.5665865,
-    "pb_ratio": 1.2954532,
+    "market_cap": 6171934720,
+    "current_price": 258.0,
+    "pe_ratio": 12.493947,
+    "pb_ratio": 1.287965,
     "roe": "N/A",
     "debt_to_equity": 4.004,
     "revenue": 8267400192,
@@ -16,6 +16,6 @@
     "eps": 20.65,
     "52_week_high": 338.65,
     "52_week_low": 163.21,
-    "dividend_yield": 1.29
+    "dividend_yield": 1.3
   }
 }

@@ -1,14 +1,14 @@
 {
   "ticker": "BHARATFORG",
-  "collected_at": "2026-09-01 06:37:51",
+  "collected_at": "2026-09-02 06:16:11",
   "company_info": {
     "name": "Bharat Forge Limited",
-    "sector": "Consumer Cyclical",
-    "industry": "Auto Parts",
-    "market_cap": 981037875200,
-    "current_price": 2052.0,
-    "pe_ratio": 139.30754,
-    "pb_ratio": 10.240644,
+    "sector": "Industrials",
+    "industry": "Metal Fabrication",
+    "market_cap": 962009956352,
+    "current_price": 2012.2,
+    "pe_ratio": 136.60556,
+    "pb_ratio": 10.04202,
     "roe": "N/A",
     "debt_to_equity": 76.475,
     "revenue": 175428452352,
@@ -16,6 +16,6 @@
     "eps": 14.73,
     "52_week_high": 2295.0,
     "52_week_low": 1115.6,
-    "dividend_yield": 0.42
+    "dividend_yield": 0.4
   }
 }

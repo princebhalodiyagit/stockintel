@@ -1,7 +1,7 @@
 {
   "ticker": "UPL",
   "company": "UPL Limited",
-  "collected_at": "2026-09-01 07:10:55",
+  "collected_at": "2026-09-02 06:49:00",
   "directors": [
     {
       "name": "Mr. Jaidev Rajnikant Shroff B.Sc.",
@@ -27,13 +27,6 @@
     {
       "name": "Mr. Bikash  Prasad",
       "role": "Group Chief Financial Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Toshan Ajay Tamhane",
-      "role": "Global Chief Operating Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
@@ -71,6 +64,13 @@
       "role": "Chief Operating Officer of Specialty Chemicals",
       "age": 67,
       "year_born": 1958,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Farokh N. Hilloo B.A",
+      "role": "Chief Commercial Officer of UPL Corporation",
+      "age": 63,
+      "year_born": 1962,
       "total_pay": "N/A"
     }
   ]

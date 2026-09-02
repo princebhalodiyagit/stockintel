@@ -1,14 +1,14 @@
 {
   "ticker": "SANDESH",
-  "collected_at": "2026-09-01 07:03:54",
+  "collected_at": "2026-09-02 06:42:03",
   "company_info": {
     "name": "The Sandesh Limited",
     "sector": "Communication Services",
     "industry": "Publishing",
-    "market_cap": 8065218048,
-    "current_price": 1065.5,
-    "pe_ratio": 7.517285,
-    "pb_ratio": 1.362586,
+    "market_cap": 7966059008,
+    "current_price": 1052.4,
+    "pe_ratio": 7.4248624,
+    "pb_ratio": 1.3458334,
     "roe": "N/A",
     "debt_to_equity": 0.336,
     "revenue": 3668462080,
@@ -16,6 +16,6 @@
     "eps": 141.74,
     "52_week_high": 1304.3,
     "52_week_low": 811.0,
-    "dividend_yield": 0.5
+    "dividend_yield": 0.48
   }
 }

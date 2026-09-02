@@ -1,7 +1,7 @@
 {
   "ticker": "RENUKA",
   "company": "Shree Renuka Sugars Limited",
-  "collected_at": "2026-09-01 07:02:26",
+  "collected_at": "2026-09-02 06:40:37",
   "directors": [
     {
       "name": "Mr. Atul  Chaturvedi",
@@ -9,13 +9,6 @@
       "age": 70,
       "year_born": 1955,
       "total_pay": 63750000
-    },
-    {
-      "name": "Mr. Vijendra  Singh",
-      "role": "Deputy CEO & Executive Director",
-      "age": 65,
-      "year_born": 1960,
-      "total_pay": 55450000
     },
     {
       "name": "Mr. Ravi  Gupta",
@@ -71,6 +64,13 @@
       "role": "Head of Management Audit & Assurance System",
       "age": 66,
       "year_born": 1959,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mahantesh  Mugali",
+      "role": "Senior Vice President of Work",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

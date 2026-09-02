@@ -1,14 +1,14 @@
 {
   "ticker": "KNRCON",
-  "collected_at": "2026-09-01 06:52:29",
+  "collected_at": "2026-09-02 06:30:40",
   "company_info": {
     "name": "KNR Constructions Limited",
     "sector": "Industrials",
     "industry": "Engineering & Construction",
-    "market_cap": 33770649600,
-    "current_price": 120.08,
-    "pe_ratio": 8.564907,
-    "pb_ratio": 0.67858297,
+    "market_cap": 32707584000,
+    "current_price": 116.3,
+    "pe_ratio": 8.295293,
+    "pb_ratio": 0.65722185,
     "roe": "N/A",
     "debt_to_equity": 49.162,
     "revenue": 26732349440,
@@ -16,6 +16,6 @@
     "eps": 14.02,
     "52_week_high": 220.0,
     "52_week_low": 108.65,
-    "dividend_yield": 0.2
+    "dividend_yield": 0.21
   }
 }

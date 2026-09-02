@@ -1,14 +1,14 @@
 {
   "ticker": "KSCL",
-  "collected_at": "2026-09-01 06:53:05",
+  "collected_at": "2026-09-02 06:31:16",
   "company_info": {
     "name": "Kaveri Seed Company Limited",
     "sector": "Basic Materials",
     "industry": "Agricultural Inputs",
-    "market_cap": 38997774336,
-    "current_price": 764.05,
-    "pe_ratio": 15.917708,
-    "pb_ratio": 1.8436476,
+    "market_cap": 37882531840,
+    "current_price": 742.2,
+    "pe_ratio": 15.462501,
+    "pb_ratio": 1.7909238,
     "roe": "N/A",
     "debt_to_equity": "N/A",
     "revenue": 12787339264,
@@ -16,6 +16,6 @@
     "eps": 48.0,
     "52_week_high": 1225.0,
     "52_week_low": 705.1,
-    "dividend_yield": 0.64
+    "dividend_yield": 0.65
   }
 }
