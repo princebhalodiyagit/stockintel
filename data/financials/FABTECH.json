@@ -1,14 +1,14 @@
 {
   "ticker": "FABTECH",
-  "collected_at": "2026-09-02 06:22:14",
+  "collected_at": "2026-09-03 06:19:08",
   "company_info": {
     "name": "Fabtech Technologies Limited",
     "sector": "Healthcare",
     "industry": "Health Information Services",
-    "market_cap": 6585384448,
-    "current_price": 148.15,
-    "pe_ratio": 13.52968,
-    "pb_ratio": 1.3537716,
+    "market_cap": 6534266368,
+    "current_price": 147.0,
+    "pe_ratio": 13.424658,
+    "pb_ratio": 1.3432631,
     "roe": "N/A",
     "debt_to_equity": 16.589,
     "revenue": 4177490944,
@@ -16,6 +16,6 @@
     "eps": 10.95,
     "52_week_high": 262.8,
     "52_week_low": 132.7,
-    "dividend_yield": 0.4
+    "dividend_yield": 0.41
   }
 }

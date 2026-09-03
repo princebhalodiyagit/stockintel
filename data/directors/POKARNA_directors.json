@@ -1,7 +1,7 @@
 {
   "ticker": "POKARNA",
   "company": "Pokarna Limited",
-  "collected_at": "2026-09-02 06:38:40",
+  "collected_at": "2026-09-03 06:33:25",
   "directors": [
     {
       "name": "Mr. Gautam Chand C. Jain B.Com",
@@ -20,6 +20,20 @@
     {
       "name": "Mr. M. Vishwanatha Reddy",
       "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Apurva  Jain",
+      "role": "Executive Director",
+      "age": 41,
+      "year_born": 1984,
+      "total_pay": 3000000
+    },
+    {
+      "name": "Mr. Om  Jaiswal",
+      "role": "Company Secretary & Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

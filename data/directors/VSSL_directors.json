@@ -1,7 +1,7 @@
 {
   "ticker": "VSSL",
   "company": "Vardhman Special Steels Limited",
-  "collected_at": "2026-09-02 06:50:08",
+  "collected_at": "2026-09-03 06:43:31",
   "directors": [
     {
       "name": "Mr. Sachit  Jain B.Tech.",
@@ -22,6 +22,48 @@
       "role": "Compliance Officer & Company Secretary",
       "age": 36,
       "year_born": 1989,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajendar Kumar Rewari B.Sc., LLB, MEP, PGDPM",
+      "role": "Executive Director",
+      "age": 69,
+      "year_born": 1956,
+      "total_pay": 28953392
+    },
+    {
+      "name": "Ms. Soumya  Jain",
+      "role": "Executive Director",
+      "age": 32,
+      "year_born": 1993,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manuj  Mehta",
+      "role": "Senior VP & Head of HR",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jagdish  Chand Sharma",
+      "role": "General Manager of Works",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Amit  Chopra",
+      "role": "VP and Head of New Project Planning & PPC",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Davinder  Singh",
+      "role": "VP & Head of Domestic Marketing",
+      "age": 51,
+      "year_born": 1974,
       "total_pay": "N/A"
     },
     {

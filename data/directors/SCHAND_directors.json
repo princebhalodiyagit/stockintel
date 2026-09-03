@@ -1,7 +1,7 @@
 {
   "ticker": "SCHAND",
   "company": "S Chand And Company Limited",
-  "collected_at": "2026-09-02 06:42:36",
+  "collected_at": "2026-09-03 06:36:52",
   "directors": [
     {
       "name": "Mr. Himanshu  Gupta B.Com.",
@@ -22,6 +22,55 @@
       "role": "Group Chief Financial Officer",
       "age": 52,
       "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Priyamvada  Agarwal",
+      "role": "Head of Curriculum & Marketing",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Dinesh Kumar Jhunjhnuwala",
+      "role": "Executive Director",
+      "age": 65,
+      "year_born": 1960,
+      "total_pay": 20260000
+    },
+    {
+      "name": "Ms. Meenu  Aggarwal",
+      "role": "Senior Vice President of Finance",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jitendra Kumar Agnihotri",
+      "role": "National Sales Head & CEO of S Chand Publishing (School Education)",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Atul  Soni",
+      "role": "Head of Investor Relations & Strategy",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Priya  Malhotra",
+      "role": "Vice President of Marketing & Communications",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. K. Mammen Thomas B.Com.",
+      "role": "Group Business Head of School & Higher Education",
+      "age": 65,
+      "year_born": 1960,
       "total_pay": "N/A"
     }
   ]

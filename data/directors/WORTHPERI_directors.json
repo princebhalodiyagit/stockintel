@@ -1,14 +1,42 @@
 {
   "ticker": "WORTHPERI",
   "company": "Worth Peripherals Limited",
-  "collected_at": "2026-09-02 06:50:45",
+  "collected_at": "2026-09-03 06:44:05",
   "directors": [
+    {
+      "name": "Mr. Raminder Singh Chadha",
+      "role": "Whole-Time Executive Chairman",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": 3055000
+    },
     {
       "name": "Mr. Jayvir Singh Chadha",
       "role": "MD & Director",
       "age": 36,
       "year_born": 1989,
       "total_pay": 2784000
+    },
+    {
+      "name": "Mr. Gauri Shankar Agrawal",
+      "role": "Chief Financial Officer",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Tushar  Batham",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. AmarVeer Kaur Chadha",
+      "role": "Whole Time Director",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": 4800000
     }
   ]
 }

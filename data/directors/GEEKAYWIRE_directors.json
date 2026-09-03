@@ -1,7 +1,7 @@
 {
   "ticker": "GEEKAYWIRE",
   "company": "Geekay Wires Limited",
-  "collected_at": "2026-09-02 06:23:16",
+  "collected_at": "2026-09-03 06:20:03",
   "directors": [
     {
       "name": "Mr. Ghanshyam  Dass",
@@ -29,6 +29,13 @@
       "role": "Whole Time Director",
       "age": 39,
       "year_born": 1986,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ashish  Kandoi",
+      "role": "Whole Time Director",
+      "age": 40,
+      "year_born": 1985,
       "total_pay": "N/A"
     }
   ]

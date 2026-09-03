@@ -1,7 +1,7 @@
 {
   "ticker": "MUNJALSHOW",
   "company": "Munjal Showa Limited",
-  "collected_at": "2026-09-02 06:34:54",
+  "collected_at": "2026-09-03 06:30:08",
   "directors": [
     {
       "name": "Mr. Yogesh Chander Munjal",
@@ -46,13 +46,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Amit  Aggarwal",
-      "role": "VP of Management Department & Plant Head",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
       "name": "Abhay  Khare",
       "role": "Vice President",
       "age": 55,
@@ -71,6 +64,13 @@
       "role": "General Manager",
       "age": 58,
       "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Puru  Sethi",
+      "role": "Deputy General Manager",
+      "age": 40,
+      "year_born": 1985,
       "total_pay": "N/A"
     }
   ]

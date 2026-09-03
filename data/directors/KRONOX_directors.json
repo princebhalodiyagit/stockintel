@@ -1,13 +1,20 @@
 {
   "ticker": "KRONOX",
   "company": "Kronox Lab Sciences Limited",
-  "collected_at": "2026-09-02 06:31:10",
+  "collected_at": "2026-09-03 06:26:59",
   "directors": [
     {
       "name": "Mr. Jogindersingh Gianchand Jaswal",
       "role": "MD & Chairman",
       "age": 59,
       "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ketan Vinodchandra Ramani",
+      "role": "Executive Whole-time Director",
+      "age": 57,
+      "year_born": 1968,
       "total_pay": "N/A"
     },
     {

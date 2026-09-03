@@ -1,7 +1,7 @@
 {
   "ticker": "NIITMTS",
   "company": "NIIT Learning Systems Limited",
-  "collected_at": "2026-09-02 06:35:59",
+  "collected_at": "2026-09-03 06:31:06",
   "directors": [
     {
       "name": "Mr. Sapnesh Kumar Lalla",
@@ -9,6 +9,69 @@
       "age": 59,
       "year_born": 1966,
       "total_pay": 20112270
+    },
+    {
+      "name": "Mr. Vijay Kumar Thadani B. Tech",
+      "role": "MD & Vice Chairman",
+      "age": 74,
+      "year_born": 1951,
+      "total_pay": 34746734
+    },
+    {
+      "name": "Mr. Sanjay  Mal B.Com.",
+      "role": "Chief Financial Officer",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. S. R. Balaji",
+      "role": "Chief Technology Officer",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sunil  Sirohi B.Sc. M.Sc.",
+      "role": "Chief Information Officer",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Babita  Karki",
+      "role": "Chief People Officer",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jaydip  Gupta",
+      "role": "Senior VP & Head of Audit & Assurance",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rohit  Sethi",
+      "role": "Executive Vice President of MS",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vivek  Kashyap",
+      "role": "Senior VP & Senior Practice Head of IDC",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jaswinder Singh Chadha",
+      "role": "Senior Vice President",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
     }
   ]
 }

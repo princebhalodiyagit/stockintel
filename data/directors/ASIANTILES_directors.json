@@ -1,7 +1,7 @@
 {
   "ticker": "ASIANTILES",
   "company": "Asian Granito India Limited",
-  "collected_at": "2026-09-02 06:14:05",
+  "collected_at": "2026-09-03 06:11:59",
   "directors": [
     {
       "name": "Mr. Kamleshkumar Bhagubhai Patel",
@@ -16,6 +16,62 @@
       "age": 57,
       "year_born": 1968,
       "total_pay": 5350000
+    },
+    {
+      "name": "Mr. Dibyendu  Dey",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Dhruti Mahesh Trivedi CS",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sureshbhai Jivabhai Patel",
+      "role": "Head of Sales & Executive Director",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": 3318000
+    },
+    {
+      "name": "Mr. Bhogilalbhai Bhikabhai Patel",
+      "role": "Executive Director",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": 2952000
+    },
+    {
+      "name": "Mr. Bhaveshkumarbhai Vinodbhai Patel",
+      "role": "Non-Independent Executive Director",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": 5567000
+    },
+    {
+      "name": "Mr. Manan  Shah",
+      "role": "President",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Parthiv Aniruddh Dave",
+      "role": "Chief Operating Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Shaunakkumar Mukeshbhai Patel",
+      "role": "Head of Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

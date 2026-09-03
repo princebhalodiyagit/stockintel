@@ -1,8 +1,22 @@
 {
   "ticker": "JOCIL",
   "company": "Jocil Limited",
-  "collected_at": "2026-09-02 06:29:17",
+  "collected_at": "2026-09-03 06:25:20",
   "directors": [
+    {
+      "name": "Mr. Jagarlamudi Murali Mohan M.B.A.",
+      "role": "MD & Whole-Time Director",
+      "age": 75,
+      "year_born": 1950,
+      "total_pay": 29561457
+    },
+    {
+      "name": "Mr. K.  Raghuram F.C.A., F.C.M.A., FCS",
+      "role": "CFO, Compliance Officer, Secretary & GM",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 3352988
+    },
     {
       "name": "Ms. N. L. Prasad Rao",
       "role": "Senior Personnel Officer",

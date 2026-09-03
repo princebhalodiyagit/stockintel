@@ -1,7 +1,7 @@
 {
   "ticker": "UCAL",
   "company": "UCAL LIMITED",
-  "collected_at": "2026-09-02 06:48:29",
+  "collected_at": "2026-09-03 06:42:05",
   "directors": [
     {
       "name": "Mr. Jayakar  Krishnamurthy",
@@ -27,6 +27,48 @@
     {
       "name": "Mr. Adithya  Jayakar",
       "role": "Chief Marketing Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ram  Ramamurthy",
+      "role": "Whole Time Director",
+      "age": 77,
+      "year_born": 1948,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Adithya Srivatsa Jayakar",
+      "role": "CEO & Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. B.  Srinivasan",
+      "role": "Chief Technical Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Gowri  Shankar",
+      "role": "Head - HR",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Peter Thomas Langford",
+      "role": "Head - Program Management System",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. V.  Girinarayanan",
+      "role": "Head of Electronics",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

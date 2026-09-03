@@ -1,7 +1,7 @@
 {
   "ticker": "VIDYAWIRES",
   "company": "Vidya Wires Limited",
-  "collected_at": "2026-09-02 06:49:39",
+  "collected_at": "2026-09-03 06:43:06",
   "directors": [
     {
       "name": "Mr. Shyamsundar B. Rathi",
@@ -22,7 +22,7 @@
       "role": "Chief Financial Officer",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": "N/A"
+      "total_pay": 1370000
     },
     {
       "name": "Ms. Shilpa S. Rathi",
@@ -30,6 +30,13 @@
       "age": 50,
       "year_born": 1975,
       "total_pay": 6000000
+    },
+    {
+      "name": "Ms. Jaya Ashok Bhardwaj",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 36,
+      "year_born": 1989,
+      "total_pay": "N/A"
     }
   ]
 }

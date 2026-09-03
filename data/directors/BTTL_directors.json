@@ -1,13 +1,27 @@
 {
   "ticker": "BTTL",
   "company": "Bhilwara Technical Textiles Limited",
-  "collected_at": "2026-09-02 06:17:15",
+  "collected_at": "2026-09-03 06:14:43",
   "directors": [
     {
       "name": "Mr. Shekhar  Agarwal B.Tech. (ME), M.Sc.",
       "role": "Chairman, MD & CEO",
       "age": 73,
       "year_born": 1952,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Avnish  Maurya",
+      "role": "Company Secretary, CFO & Compliance Officer",
+      "age": 34,
+      "year_born": 1991,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vikash Kumar Chaubey",
+      "role": "Executive of Accounts",
+      "age": 34,
+      "year_born": 1991,
       "total_pay": "N/A"
     }
   ]

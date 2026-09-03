@@ -1,15 +1,8 @@
 {
   "ticker": "VEDL",
   "company": "Vedanta Limited",
-  "collected_at": "2026-09-02 06:49:22",
+  "collected_at": "2026-09-03 06:42:51",
   "directors": [
-    {
-      "name": "Mr. Navin Kumar Agarwal",
-      "role": "Executive Vice Chairman",
-      "age": 64,
-      "year_born": 1961,
-      "total_pay": 130630776
-    },
     {
       "name": "Mr. Ajay Kumar Goel",
       "role": "Chief Financial Officer",
@@ -71,6 +64,13 @@
       "role": "Senior VP of MAS & Risk Officer",
       "age": 51,
       "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anand  Soni",
+      "role": "Chief Financial Officer of Copper Operations - Tuticorin & Silvassa",
+      "age": 44,
+      "year_born": 1981,
       "total_pay": "N/A"
     }
   ]

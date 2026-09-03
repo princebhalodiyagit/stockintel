@@ -1,7 +1,7 @@
 {
   "ticker": "JINDWORLD",
   "company": "Jindal Worldwide Limited",
-  "collected_at": "2026-09-02 06:29:02",
+  "collected_at": "2026-09-03 06:25:07",
   "directors": [
     {
       "name": "Dr. Yamunadutt Amilal Agrawal M.D.",
@@ -23,6 +23,27 @@
       "age": 66,
       "year_born": 1959,
       "total_pay": 1600000
+    },
+    {
+      "name": "Mr. Ashish  Thaker C.S.",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 1606000
+    },
+    {
+      "name": "Mr. Jignesh  Shah",
+      "role": "General Manager of Operations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Dharmendra Lalbhai Patel",
+      "role": "HR Head of Factory and VP of Human Resources & Administration",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": "N/A"
     },
     {
       "name": "Ms. Seema  Ramchandani",
@@ -50,20 +71,6 @@
       "role": "President of Export Marketing",
       "age": 56,
       "year_born": 1969,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Rashesh Govindlal Shah",
-      "role": "Spinning Head",
-      "age": 49,
-      "year_born": 1976,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Devkant Gopendrapal Gautam",
-      "role": "Division Head",
-      "age": "N/A",
-      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

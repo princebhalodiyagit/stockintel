@@ -1,7 +1,7 @@
 {
   "ticker": "OBCL",
   "company": "Orissa Bengal Carrier Limited",
-  "collected_at": "2026-09-02 06:36:40",
+  "collected_at": "2026-09-03 06:31:43",
   "directors": [
     {
       "name": "Mr. Ravi  Agrawal",
@@ -11,10 +11,38 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. Kapil  Mittal",
+      "role": "Chief Financial Officer",
+      "age": 30,
+      "year_born": 1995,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Muskaan  Gupta C.S.",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 28,
+      "year_born": 1997,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Ms. Priti  Agrawal",
       "role": "Whole-Time Director",
       "age": 38,
       "year_born": 1987,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Subhash Chand Mittal",
+      "role": "Head of Accounts & Commercial",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Jitendra  Shinde",
+      "role": "Vice President of Growth",
+      "age": 47,
+      "year_born": 1978,
       "total_pay": "N/A"
     }
   ]

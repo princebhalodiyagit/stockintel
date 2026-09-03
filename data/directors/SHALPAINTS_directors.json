@@ -1,6 +1,63 @@
 {
   "ticker": "SHALPAINTS",
   "company": "Shalimar Paints Limited",
-  "collected_at": "2026-09-02 06:43:06",
-  "directors": []
+  "collected_at": "2026-09-03 06:37:19",
+  "directors": [
+    {
+      "name": "Mr. Kuldip  Raina",
+      "role": "MD & CEO",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 12812412
+    },
+    {
+      "name": "Mr. Venugopal  Chetlur",
+      "role": "Chief Operating Officer",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": 12287827
+    },
+    {
+      "name": "Ms. Snehal Mahendra Saboo",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kundan  Sangwar",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vishal Anand Bhagat",
+      "role": "Head of Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Chinmaya  Nayak",
+      "role": "Head R & D - Industrial",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Hardik  Parikh",
+      "role": "Head of Supply Chain",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sanjeev  Gupta",
+      "role": "Director of R&D",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

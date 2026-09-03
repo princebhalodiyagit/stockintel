@@ -1,7 +1,7 @@
 {
   "ticker": "PASHUPATI",
   "company": "Pashupati Cotspin Limited",
-  "collected_at": "2026-09-02 06:37:44",
+  "collected_at": "2026-09-03 06:32:36",
   "directors": [
     {
       "name": "Mr. Saurinbhai Jagdish-Bhai Parikh",
@@ -23,6 +23,13 @@
       "age": 53,
       "year_born": 1972,
       "total_pay": 235680
+    },
+    {
+      "name": "Ms. Kratika  Soni",
+      "role": "Whole Time Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

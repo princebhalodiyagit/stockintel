@@ -1,7 +1,7 @@
 {
   "ticker": "ONMOBILE",
   "company": "OnMobile Global Limited",
-  "collected_at": "2026-09-02 06:37:00",
+  "collected_at": "2026-09-03 06:31:59",
   "directors": [
     {
       "name": "Mr. Francois-Charles  Sirois",
@@ -9,6 +9,13 @@
       "age": 50,
       "year_born": 1975,
       "total_pay": 3999996
+    },
+    {
+      "name": "Ms. Radhika  Venugopal",
+      "role": "CFO & Whole-time Director",
+      "age": 66,
+      "year_born": 1959,
+      "total_pay": 23453564
     },
     {
       "name": "Mr. Pakanati Venkateswara Varaprasad",
@@ -62,13 +69,6 @@
     {
       "name": "Mr. Rahul  Raina",
       "role": "Executive Vice President of Gaming",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Utsav  Kumar",
-      "role": "Business Head of Asia & MENA",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

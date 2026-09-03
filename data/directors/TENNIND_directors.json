@@ -1,7 +1,7 @@
 {
   "ticker": "TENNIND",
   "company": "Tenneco Clean Air India Limited",
-  "collected_at": "2026-09-02 06:47:07",
+  "collected_at": "2026-09-03 06:40:52",
   "directors": [
     {
       "name": "Mr. Arvind  Chandrasekharan",
@@ -30,6 +30,20 @@
       "age": 45,
       "year_born": 1980,
       "total_pay": 3250000
+    },
+    {
+      "name": "Mr. Aditya  Kohli",
+      "role": "Chief Human Resources Officer",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. R. C. Subramaniam",
+      "role": "Managing Director of Advanced Ride Technologies",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

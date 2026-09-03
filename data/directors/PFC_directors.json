@@ -1,7 +1,7 @@
 {
   "ticker": "PFC",
   "company": "Power Finance Corporation Limited",
-  "collected_at": "2026-09-02 06:38:01",
+  "collected_at": "2026-09-03 06:32:51",
   "directors": [
     {
       "name": "Ms. Parminder  Chopra",
@@ -9,6 +9,13 @@
       "age": 58,
       "year_born": 1967,
       "total_pay": 9100573
+    },
+    {
+      "name": "Rajesh Kumar Agarwal",
+      "role": "Director of Finance & Additional Director",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Pawan  Kumar",
@@ -34,6 +41,20 @@
     {
       "name": "Ms. Vinita  Narera",
       "role": "Chief Vigilance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. V.  Packirisamy",
+      "role": "Director of Commercial & Additional Director",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manish Kumar Agarwal",
+      "role": "GM, Company Secretary & Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

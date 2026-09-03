@@ -1,7 +1,7 @@
 {
   "ticker": "BHARATCOAL",
   "company": "Bharat Coking Coal Limited",
-  "collected_at": "2026-09-02 06:16:10",
+  "collected_at": "2026-09-03 06:13:49",
   "directors": [
     {
       "name": "Mr. Manoj Kumar Agarwal",
@@ -16,13 +16,6 @@
       "age": 57,
       "year_born": 1968,
       "total_pay": 1855923
-    },
-    {
-      "name": "Mr. Murli Krishna Ramaiah",
-      "role": "Director of HR & Executive Director",
-      "age": 59,
-      "year_born": 1966,
-      "total_pay": 9577623
     },
     {
       "name": "Mr. Sanjay Kumar Singh",
@@ -69,6 +62,13 @@
     {
       "name": "Mr. Udayvir  Singh",
       "role": "Manager & Head of Department of Public Relation Office",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Hitesh  Varma",
+      "role": "General Manager of Marketing & Sales",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

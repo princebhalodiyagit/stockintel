@@ -1,7 +1,7 @@
 {
   "ticker": "IONEXCHANG",
   "company": "ION Exchange (India) Limited",
-  "collected_at": "2026-09-02 06:28:07",
+  "collected_at": "2026-09-03 06:24:20",
   "directors": [
     {
       "name": "Mr. Rajesh  Sharma B.Sc., LL.B.",
@@ -18,10 +18,24 @@
       "total_pay": 46651827
     },
     {
+      "name": "Mr. Rajesh Kumar Srivastava",
+      "role": "President & CHRO",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Vasant J. Naik",
       "role": "Group Chief Financial Officer",
       "age": 59,
       "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Arjun  Bhattacharyya",
+      "role": "Executive Vice President and Chief Technology & Digital Officer",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
@@ -55,13 +69,6 @@
     {
       "name": "Mr. Prashant K. Chitnis",
       "role": "Senior Vice President of Technology",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. C. K. Sandeep",
-      "role": "Executive Vice President of International Division",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

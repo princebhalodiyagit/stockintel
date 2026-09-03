@@ -1,7 +1,7 @@
 {
   "ticker": "LTF",
   "company": "L&T Finance Limited",
-  "collected_at": "2026-09-02 06:32:06",
+  "collected_at": "2026-09-03 06:27:48",
   "directors": [
     {
       "name": "Mr. Sudipta  Roy",
@@ -9,6 +9,20 @@
       "age": 52,
       "year_born": 1973,
       "total_pay": 50800000
+    },
+    {
+      "name": "Mr. Sachinn Roopnarayan Joshi",
+      "role": "Group CFO & Whole-Time Director",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": 23140922
+    },
+    {
+      "name": "Mr. Raju  Dodti",
+      "role": "COO & Whole-Time Director",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
     },
     {
       "name": "Ms. Apurva Neeraj Rathod",
@@ -55,20 +69,6 @@
     {
       "name": "Mr. Gigesh  Gangadharan",
       "role": "Head of Digital Marketing",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Ramesh  Aithal",
-      "role": "Chief Digital Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Dr. Debarag  Banerjee",
-      "role": "Chief Data & AI Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

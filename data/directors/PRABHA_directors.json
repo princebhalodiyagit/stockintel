@@ -1,7 +1,7 @@
 {
   "ticker": "PRABHA",
   "company": "Prabha Energy Limited",
-  "collected_at": "2026-09-02 06:38:57",
+  "collected_at": "2026-09-03 06:33:39",
   "directors": [
     {
       "name": "Mr. Premsingh Mangatsingh Sawhney",
@@ -11,8 +11,22 @@
       "total_pay": 16200000
     },
     {
+      "name": "Mr. Vishal Gautambhai Palkhiwala",
+      "role": "CFO & Executive Director",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": 1898000
+    },
+    {
       "name": "Ms. Nikita  Agarwalla",
       "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Shanil Parasbhai Savla",
+      "role": "MD & Director",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

@@ -1,7 +1,7 @@
 {
   "ticker": "JAYAGROGN",
   "company": "Jayant Agro Organics Limited",
-  "collected_at": "2026-09-02 06:28:45",
+  "collected_at": "2026-09-03 06:24:53",
   "directors": [
     {
       "name": "Mr. Abhay Vithaldas Udeshi",
@@ -9,6 +9,48 @@
       "age": 65,
       "year_born": 1960,
       "total_pay": 13616000
+    },
+    {
+      "name": "Dr. Subhash Vithaldas Udeshi",
+      "role": "Director of Technical, Whole-Time Director & Joint MD",
+      "age": 64,
+      "year_born": 1961,
+      "total_pay": 12527000
+    },
+    {
+      "name": "Mr. Hemant Vithaldas Udeshi",
+      "role": "MD & Executive Director",
+      "age": 68,
+      "year_born": 1957,
+      "total_pay": 12274000
+    },
+    {
+      "name": "Mr. Vikram Vijaysinh Udeshi B. Com, F.C.A.",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Dinesh Mathuradas Kapadia",
+      "role": "Whole-Time Director",
+      "age": 66,
+      "year_born": 1959,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Varun Abhay Udeshi",
+      "role": "Whole-Time Director",
+      "age": 38,
+      "year_born": 1987,
+      "total_pay": 12365000
+    },
+    {
+      "name": "Mr. Krunal Girish Veni",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

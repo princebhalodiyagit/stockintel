@@ -1,7 +1,7 @@
 {
   "ticker": "SYRMA",
   "company": "Syrma SGS Technology Limited",
-  "collected_at": "2026-09-02 06:46:19",
+  "collected_at": "2026-09-03 06:40:10",
   "directors": [
     {
       "name": "Mr. Sandeep  Tandon",
@@ -9,6 +9,13 @@
       "age": 56,
       "year_born": 1969,
       "total_pay": 32500000
+    },
+    {
+      "name": "Mr. Bijay Kumar Agrawal",
+      "role": "Chief Financial Officer",
+      "age": 43,
+      "year_born": 1982,
+      "total_pay": 17250000
     },
     {
       "name": "Mr. Satendra  Singh",
@@ -32,10 +39,38 @@
       "total_pay": 20410000
     },
     {
+      "name": "Mr. Krishna Kumar Pant",
+      "role": "Director of Strategy",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 11050000
+    },
+    {
+      "name": "Mr. Ranjit  Singh",
+      "role": "Director of International Business",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 10990000
+    },
+    {
       "name": "Mr. Jaidit Singh Brar",
       "role": "Chief Executive Officer",
       "age": 50,
       "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Narayanan Gopalan Sreedharan",
+      "role": "Chief Technology Officer",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Nikhil  Gupta",
+      "role": "Head of Investor Relations",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

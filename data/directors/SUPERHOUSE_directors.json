@@ -1,7 +1,7 @@
 {
   "ticker": "SUPERHOUSE",
   "company": "Superhouse Limited",
-  "collected_at": "2026-09-02 06:45:47",
+  "collected_at": "2026-09-03 06:39:41",
   "directors": [
     {
       "name": "Mr. Mukhtarul  Amin",
@@ -37,6 +37,13 @@
       "age": 48,
       "year_born": 1977,
       "total_pay": 5891509
+    },
+    {
+      "name": "Mr. Mohd. Iqbal Hussain",
+      "role": "Vice President of Domestic Marketing",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Salman  Hafeez",

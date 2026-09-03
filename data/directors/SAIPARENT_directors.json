@@ -1,13 +1,41 @@
 {
   "ticker": "SAIPARENT",
   "company": "Sai Parenterals Limited",
-  "collected_at": "2026-09-02 06:41:49",
+  "collected_at": "2026-09-03 06:36:12",
   "directors": [
     {
       "name": "Mr. Anil Kumar Karusala",
       "role": "Executive Chairman & MD",
       "age": 52,
       "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. D. B. Venkoji Prakash",
+      "role": "Chief Executive Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anil  Kumar",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Shivali  Aggarwal",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Vijitha  Gorrepati",
+      "role": "Whole-Time Director",
+      "age": 48,
+      "year_born": 1977,
       "total_pay": "N/A"
     },
     {
@@ -36,6 +64,13 @@
       "role": "Managing Director of Noumed Pharmaceuticals",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kunal  Kakumanu",
+      "role": "Executive Director",
+      "age": 26,
+      "year_born": 1999,
       "total_pay": "N/A"
     }
   ]

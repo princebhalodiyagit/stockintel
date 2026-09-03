@@ -1,7 +1,7 @@
 {
   "ticker": "MBEL",
   "company": "M & B Engineering Limited",
-  "collected_at": "2026-09-02 06:33:32",
+  "collected_at": "2026-09-03 06:28:56",
   "directors": [
     {
       "name": "Mr. Chiragbhai Hasmukhbhai Patel",
@@ -23,6 +23,41 @@
       "age": 52,
       "year_born": 1973,
       "total_pay": 11430000
+    },
+    {
+      "name": "Mr. Aditya Vipinbhai Patel",
+      "role": "Whole-Time Director",
+      "age": 41,
+      "year_born": 1984,
+      "total_pay": 10677000
+    },
+    {
+      "name": "Mr. Girishbhai Manibhai Patel",
+      "role": "Whole-Time Director",
+      "age": 78,
+      "year_born": 1947,
+      "total_pay": 22479000
+    },
+    {
+      "name": "Mr. Keyur Bachubhai Shah",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Palak Dilipbhai Parekh",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 33,
+      "year_born": 1992,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pankaj  Naresh",
+      "role": "Chief Executive Officer of Phenix Division",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Mayur Satishbhai Patel",

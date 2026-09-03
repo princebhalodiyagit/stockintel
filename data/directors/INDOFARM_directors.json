@@ -1,7 +1,7 @@
 {
   "ticker": "INDOFARM",
   "company": "Indo Farm Equipment Limited",
-  "collected_at": "2026-09-02 06:27:29",
+  "collected_at": "2026-09-03 06:23:47",
   "directors": [
     {
       "name": "Mr. Ranbir Singh Khadwalia",
@@ -15,13 +15,6 @@
       "role": "Chief Financial Officer",
       "age": 28,
       "year_born": 1997,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ms. Navpreet  Kaur B.Com., C.S.",
-      "role": "Company Secretary & Compliance Officer",
-      "age": 54,
-      "year_born": 1971,
       "total_pay": "N/A"
     },
     {
@@ -46,13 +39,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "PremKumar Narayan Chandrashekar",
-      "role": "Director of Sales & Marketing",
-      "age": 57,
-      "year_born": 1968,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Ms. Pavneet  Miglani",
       "role": "Senior Vice President of HR & Admin Department",
       "age": 53,
@@ -71,6 +57,20 @@
       "role": "General Manager",
       "age": 51,
       "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Sayed Rashid Alam",
+      "role": "General Manager",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Gurvinder Singh Chadha",
+      "role": "General Manager",
+      "age": 46,
+      "year_born": 1979,
       "total_pay": "N/A"
     }
   ]

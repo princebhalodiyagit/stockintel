@@ -1,7 +1,7 @@
 {
   "ticker": "MGEL",
   "company": "Mangalam Global Enterprise Limited",
-  "collected_at": "2026-09-02 06:33:53",
+  "collected_at": "2026-09-03 06:29:15",
   "directors": [
     {
       "name": "Mr. Vipin Prakash Mangal",
@@ -29,6 +29,13 @@
       "role": "Company Secretary & Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Reena Unmesh Wagh",
+      "role": "Whole-Time Executive Director",
+      "age": 48,
+      "year_born": 1977,
       "total_pay": "N/A"
     }
   ]

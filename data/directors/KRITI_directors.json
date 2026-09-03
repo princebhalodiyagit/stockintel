@@ -1,7 +1,7 @@
 {
   "ticker": "KRITI",
   "company": "Kriti Industries (India) Limited",
-  "collected_at": "2026-09-02 06:31:07",
+  "collected_at": "2026-09-03 06:26:56",
   "directors": [
     {
       "name": "Mr. Shiv Singh Mehta B.E., MBA",
@@ -23,6 +23,20 @@
       "age": 65,
       "year_born": 1960,
       "total_pay": 5976000
+    },
+    {
+      "name": "Pradeep Shastri Vedula",
+      "role": "Chief Executive Officer",
+      "age": 44,
+      "year_born": 1981,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Aditi  Randhar C.S.",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

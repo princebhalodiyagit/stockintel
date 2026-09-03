@@ -1,15 +1,8 @@
 {
   "ticker": "SHILPAMED",
   "company": "Shilpa Medicare Limited",
-  "collected_at": "2026-09-02 06:43:18",
+  "collected_at": "2026-09-03 06:37:30",
   "directors": [
-    {
-      "name": "Mr. Vishnukanth Chaturbhuj Bhutada B. Pharm",
-      "role": "MD & Director",
-      "age": 63,
-      "year_born": 1962,
-      "total_pay": 35000000
-    },
     {
       "name": "Mr. Sharath Reddy Kalakota M.Pharma",
       "role": "VP of Projects & Operations and Whole-Time Director",
@@ -71,6 +64,13 @@
       "role": "Senior Vice President of Formulation",
       "age": 54,
       "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ram Nivas Lahoti",
+      "role": "Head \u0096 Purchase",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

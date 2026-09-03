@@ -1,7 +1,7 @@
 {
   "ticker": "GLOBUSSPR",
   "company": "Globus Spirits Limited",
-  "collected_at": "2026-09-02 06:23:46",
+  "collected_at": "2026-09-03 06:20:29",
   "directors": [
     {
       "name": "Mr. Shekhar  Swarup",
@@ -18,11 +18,60 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. Amitabh  Singh",
+      "role": "President of Technical & Operations and Whole-time Director",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": 12038472
+    },
+    {
       "name": "Mr. Ajay Kumar Swarup B.A., M.B.A.",
       "role": "MD & Director",
       "age": 66,
       "year_born": 1959,
       "total_pay": 56700000
+    },
+    {
+      "name": "Mr. Rajesh Kumar Malik B.Sc.",
+      "role": "President of Operation-North & Whole-time Director",
+      "age": 69,
+      "year_born": 1956,
+      "total_pay": 12544764
+    },
+    {
+      "name": "Mr. Shailendra  Kumar",
+      "role": "Senior Vice President of Works",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Paramjit Singh Gill BSc, DLL",
+      "role": "Chief Executive Officer of Consumer Division",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Akhil  Arora",
+      "role": "President of Commercial",
+      "age": 44,
+      "year_born": 1981,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Manoj  Kumar",
+      "role": "Senior Vice President of Works",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Santosh Kumar Pattanayak A.C.S., B.Com., L.L.B.",
+      "role": "Compliance Officer & Company Secretary",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": "N/A"
     }
   ]
 }

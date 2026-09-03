@@ -1,7 +1,7 @@
 {
   "ticker": "MACPOWER",
   "company": "Macpower CNC Machines Limited",
-  "collected_at": "2026-09-02 06:32:23",
+  "collected_at": "2026-09-03 06:28:01",
   "directors": [
     {
       "name": "Mr. Rupesh Kumar Jagdishchandra Mehta",
@@ -20,6 +20,13 @@
     {
       "name": "Mr. Vishal Bipinkumar Mehta",
       "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kishor M. Kikani",
+      "role": "Company Secretary & Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

@@ -1,8 +1,15 @@
 {
   "ticker": "KPL",
   "company": "Kwality Pharmaceuticals Limited",
-  "collected_at": "2026-09-02 06:30:59",
+  "collected_at": "2026-09-03 06:26:50",
   "directors": [
+    {
+      "name": "Mr. Ramesh Kumar Arora",
+      "role": "MD & Director",
+      "age": 71,
+      "year_born": 1954,
+      "total_pay": "N/A"
+    },
     {
       "name": "Mr. Aditya  Arora",
       "role": "CFO & Whole Time Director",
@@ -43,6 +50,27 @@
       "role": "Chief Domestic Sales Officer",
       "age": 40,
       "year_born": 1985,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Narinder  Jassal",
+      "role": "QC Head of HP Unit",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Akhilesh Kumar Bind",
+      "role": "QC Head",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sandeep Raghuvir Naik",
+      "role": "Plant Head of HP Unit",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "ticker": "SAKHTISUG",
   "company": "Sakthi Sugars Limited",
-  "collected_at": "2026-09-02 06:41:51",
+  "collected_at": "2026-09-03 06:36:14",
   "directors": [
     {
       "name": "Dr. Mahalingam  Manickam M.Sc., MBA",
@@ -43,6 +43,13 @@
       "role": "Senior Vice President of Marketing & HR",
       "age": 69,
       "year_born": 1956,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. R.  Jeysree",
+      "role": "Head the Internal Audit Department",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

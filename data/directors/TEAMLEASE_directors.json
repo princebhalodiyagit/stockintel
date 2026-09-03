@@ -1,8 +1,50 @@
 {
   "ticker": "TEAMLEASE",
   "company": "Teamlease Services Limited",
-  "collected_at": "2026-09-02 06:46:58",
+  "collected_at": "2026-09-03 06:40:44",
   "directors": [
+    {
+      "name": "Ms. Suparna  Mitra",
+      "role": "MD, Director & CEO",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": 4400000
+    },
+    {
+      "name": "Mr. Ashok Kumar Reddy Nedurumalli",
+      "role": "Co-Founder & Executive Vice Chairman",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": 8500000
+    },
+    {
+      "name": "Mr. Manish Mahendra Sabharwal",
+      "role": "Co-Founder & Non-Executive Non-Independent Director",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": 10020000
+    },
+    {
+      "name": "Ms. Rituparna  Chakraborty",
+      "role": "Co-Founder & Chief Executive Officer - Degree Apprenticeship",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": 100000
+    },
+    {
+      "name": "Ms. Ramani  Dathi",
+      "role": "CFO & COO",
+      "age": 39,
+      "year_born": 1986,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Alaka  Chanda L.L.B.",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
     {
       "name": "Mr. Vamsikrishna  Ithamraju",
       "role": "Chief Digital & Information Officer",
@@ -29,41 +71,6 @@
       "role": "Chief Executive Officer of Degree Apprenticeship (DA Corporate)",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Balasubramanian Anantha Narayanan",
-      "role": "Senior Vice President",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ms. Neeti  Sharma",
-      "role": "Chief Executive Officer of Specialised Staffing",
-      "age": 54,
-      "year_born": 1971,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Rishi  Agrawal",
-      "role": "Co-Founder & CEO of TL Regtech",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Shantanu  Rooj",
-      "role": "Founder & CEO of TL Edtech",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "K.  Venkateswaran",
-      "role": "Vice President",
-      "age": 51,
-      "year_born": 1974,
       "total_pay": "N/A"
     }
   ]

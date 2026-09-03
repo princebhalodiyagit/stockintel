@@ -1,7 +1,7 @@
 {
   "ticker": "EPACK",
   "company": "EPACK Durable Limited",
-  "collected_at": "2026-09-02 06:21:44",
+  "collected_at": "2026-09-03 06:18:42",
   "directors": [
     {
       "name": "Mr. Bajrang Lal Bothra",
@@ -22,6 +22,20 @@
       "role": "Vice President & CFO",
       "age": 52,
       "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mohammad Lateef Choudhary",
+      "role": "Chief Operating Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Esha  Gupta",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     },
     {

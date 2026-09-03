@@ -1,7 +1,7 @@
 {
   "ticker": "BALMLAWRIE",
   "company": "Balmer Lawrie & Company Limited",
-  "collected_at": "2026-09-02 06:15:19",
+  "collected_at": "2026-09-03 06:13:06",
   "directors": [
     {
       "name": "Mr. Adhip Nath Palchaudhuri",
@@ -25,41 +25,6 @@
       "total_pay": 8268543
     },
     {
-      "name": "Mr. Abhijit  Ghosh",
-      "role": "Director of Human Resources & Corporate Affairs and Additional Whole Time Director",
-      "age": 58,
-      "year_born": 1967,
-      "total_pay": 7737332
-    },
-    {
-      "name": "Dr. Sriram Kumar Chavali",
-      "role": "Chief Information Officer",
-      "age": 56,
-      "year_born": 1969,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ms. Kavita  Bhavsar B.Com., FCS, L.L.B.",
-      "role": "Company Secretary & Compliance Officer",
-      "age": 57,
-      "year_born": 1968,
-      "total_pay": 4622673
-    },
-    {
-      "name": "Mr. Siddhartha Das Barman",
-      "role": "Senior Vice President of Human Resource",
-      "age": 48,
-      "year_born": 1977,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Romon Sebastian Louis B.Com.",
-      "role": "Director of Service Businesses & Director",
-      "age": 53,
-      "year_born": 1972,
-      "total_pay": 5337142
-    },
-    {
       "name": "Mr. Raj Kumar Maity B.E.",
       "role": "Chief Operating Officer of Greases & Lubricants",
       "age": 51,
@@ -71,6 +36,41 @@
       "role": "Chief Vigilance Officer",
       "age": 57,
       "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Amlan  Gupta B.Com., M.B.A.",
+      "role": "Head of Cold Chain",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ashok Kumar Gupta",
+      "role": "Chief Operating Officer of Travel",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sushil  Dugar",
+      "role": "Chief Operating Officer of Logistics Services",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sujoy  Ghosh",
+      "role": "Senior Vice President of Finance",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. V.  Vijayabaaskar",
+      "role": "Head of Research & Development",
+      "age": 49,
+      "year_born": 1976,
       "total_pay": "N/A"
     }
   ]
