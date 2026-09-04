@@ -1,6 +1,28 @@
 {
   "ticker": "NECLIFE",
   "company": "Nectar Lifesciences Limited",
-  "collected_at": "2026-09-03 06:30:45",
-  "directors": []
+  "collected_at": "2026-09-04 06:44:24",
+  "directors": [
+    {
+      "name": "Mr. Sanjiv  Goyal",
+      "role": "Chairman & MD",
+      "age": 65,
+      "year_born": 1960,
+      "total_pay": 22277750
+    },
+    {
+      "name": "Mr. Sushil  Kapoor",
+      "role": "CFO, Wholetime Director of Finance & Additional Director",
+      "age": 66,
+      "year_born": 1959,
+      "total_pay": 1116774
+    },
+    {
+      "name": "Mr. Sanjaymohan Singh Rawat",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

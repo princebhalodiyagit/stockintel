@@ -1,7 +1,7 @@
 {
   "ticker": "NKIND",
   "company": "NK Industries Limited",
-  "collected_at": "2026-09-03 06:31:20",
+  "collected_at": "2026-09-04 06:45:09",
   "directors": [
     {
       "name": "Mr. Nimishbhai Keshavlal Patel",
@@ -22,6 +22,20 @@
       "role": "Chief Financial Officer",
       "age": 76,
       "year_born": 1949,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Ashna Harishkumar Pahwa",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Hasmukhbhai Kacharabhai Patel",
+      "role": "Whole Time Director",
+      "age": 71,
+      "year_born": 1954,
       "total_pay": "N/A"
     }
   ]

@@ -1,6 +1,70 @@
 {
   "ticker": "SARLAPOLY",
   "company": "Sarla Performance Fibers Limited",
-  "collected_at": "2026-09-03 06:36:37",
-  "directors": []
+  "collected_at": "2026-09-04 06:51:51",
+  "directors": [
+    {
+      "name": "Mr. Krishnakumar Madhusudan Jhunjhunwala B.Com",
+      "role": "MD, CEO & Chairman",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": 24700000
+    },
+    {
+      "name": "Mr. Kayvanna Mahendra Shah",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Neha Krishna Jhunjhunwala",
+      "role": "VP of Operations & Executive Director",
+      "age": 36,
+      "year_born": 1989,
+      "total_pay": 3705000
+    },
+    {
+      "name": "Mr. Mustafa Yusuf Manasawala C.S.",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kanav Krishna Jhunjhunwala",
+      "role": "Whole Time Director",
+      "age": 28,
+      "year_born": 1997,
+      "total_pay": 5648000
+    },
+    {
+      "name": "Mr. Satish  Malsaria",
+      "role": "Head of Sales",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Hema  Dangi",
+      "role": "Head of Human Resources",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Varun  Narula",
+      "role": "Head of Operations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Vrinda Krishna Jhunjhunwala",
+      "role": "Head of Exports",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

@@ -1,13 +1,55 @@
 {
   "ticker": "NECCLTD",
   "company": "North Eastern Carrying Corporation Limited",
-  "collected_at": "2026-09-03 06:30:44",
+  "collected_at": "2026-09-04 06:44:23",
   "directors": [
+    {
+      "name": "Mr. Sunil Kumar Jain",
+      "role": "Chairman & MD",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": 4800000
+    },
+    {
+      "name": "Mr. Chandan  Singh",
+      "role": "Chief Financial Officer",
+      "age": 39,
+      "year_born": 1986,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. .  Rakesh",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 38,
+      "year_born": 1987,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Utkarsh  Jain",
+      "role": "Whole Time Director",
+      "age": 31,
+      "year_born": 1994,
+      "total_pay": 3600000
+    },
     {
       "name": "Mr. Surya Nath Singh",
       "role": "Senior Manager of Accounts",
       "age": 56,
       "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Prabhajeet J. Singh",
+      "role": "Senior Manager of Administration",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ram Mohan Srivastava",
+      "role": "Senior Manager of Legal",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
@@ -18,10 +60,17 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Avijit  Sen",
-      "role": "Area Project Manager",
-      "age": 55,
-      "year_born": 1970,
+      "name": "Mr. Rahul  Pandey",
+      "role": "Manager of HR",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Shambhu  Kumar",
+      "role": "IT Manager",
+      "age": 43,
+      "year_born": 1982,
       "total_pay": "N/A"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "ticker": "ARIHANTSUP",
   "company": "Arihant Superstructures Limited",
-  "collected_at": "2026-09-03 06:11:33",
+  "collected_at": "2026-09-04 06:19:32",
   "directors": [
     {
       "name": "Mr. Ashokkumar Bhanwarlal Chhajer",
@@ -16,6 +16,13 @@
       "age": 51,
       "year_born": 1974,
       "total_pay": 9000000
+    },
+    {
+      "name": "Mr. Parth Ashokkumar Chhajer",
+      "role": "Joint Managing Director & Director",
+      "age": 29,
+      "year_born": 1996,
+      "total_pay": 4500000
     },
     {
       "name": "Mr. Udit  Kasera",
@@ -34,6 +41,13 @@
     {
       "name": "Mr. Manoj  Dhondge",
       "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Bhavik  Chhajer",
+      "role": "Joint Managing Director & Director",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

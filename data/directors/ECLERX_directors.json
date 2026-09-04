@@ -1,7 +1,7 @@
 {
   "ticker": "ECLERX",
   "company": "eClerx Services Limited",
-  "collected_at": "2026-09-03 06:18:04",
+  "collected_at": "2026-09-04 06:28:05",
   "directors": [
     {
       "name": "Mr. Kapil  Jain",
@@ -32,10 +32,45 @@
       "total_pay": 20300000
     },
     {
+      "name": "Mr. Pratik R. Bhanushali",
+      "role": "VP of Legal, Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 7730000
+    },
+    {
       "name": "Mr. Scott  Houchin",
       "role": "Chief Marketing Officer & Industry Head of Fashion & Luxury",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sanjay  Kukreja",
+      "role": "Chief Technology Officer",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Asma  Sultana",
+      "role": "Head of Human Resources & Delivery Centers",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Hoshi  Mistry",
+      "role": "Principal of Customer Experience",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Neville  Bharucha",
+      "role": "Chief of Staff",
+      "age": 53,
+      "year_born": 1972,
       "total_pay": "N/A"
     }
   ]

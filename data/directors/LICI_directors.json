@@ -1,8 +1,15 @@
 {
   "ticker": "LICI",
   "company": "Life Insurance Corporation Of India",
-  "collected_at": "2026-09-03 06:27:34",
+  "collected_at": "2026-09-04 06:40:15",
   "directors": [
+    {
+      "name": "Mr. Doraiswamy  Ramchandran",
+      "role": "MD, CEO & Director",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": 12276000
+    },
     {
       "name": "Mr. Dinesh  Pant",
       "role": "MD & Director",
@@ -62,13 +69,6 @@
     {
       "name": "Mr. Govind Prasad Agarwal",
       "role": "Additional Executive Director & Director of Marketing/Product Development",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Salil  Vishwanath",
-      "role": "Executive Director of Human Resources Development/OD",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

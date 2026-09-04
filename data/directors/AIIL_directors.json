@@ -1,8 +1,15 @@
 {
   "ticker": "AIIL",
   "company": "Authum Investment & Infrastructure Limited",
-  "collected_at": "2026-09-03 06:10:18",
+  "collected_at": "2026-09-04 06:17:54",
   "directors": [
+    {
+      "name": "Mr. Amit K. Dangi",
+      "role": "Interim CFO & Chairman",
+      "age": 34,
+      "year_born": 1991,
+      "total_pay": 4700000
+    },
     {
       "name": "Mr. Akash  Suri",
       "role": "Whole Time Director & CEO",
@@ -62,13 +69,6 @@
     {
       "name": "Mr. Rohit  Bhanja",
       "role": "Chief Executive Officer - Retail",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ms. Purvi  Sanghavi",
-      "role": "Internal Auditor",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

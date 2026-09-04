@@ -1,7 +1,7 @@
 {
   "ticker": "KRYSTAL",
   "company": "Krystal Integrated Services Limited",
-  "collected_at": "2026-09-03 06:27:02",
+  "collected_at": "2026-09-04 06:39:34",
   "directors": [
     {
       "name": "Ms. Neeta Prasad Lad",
@@ -25,6 +25,41 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. Prasad Minesh Lad",
+      "role": "Chief Mentor",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pravin Ramesh Lad",
+      "role": "Whole-Time Director",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": 15050000
+    },
+    {
+      "name": "Mr. Shubham Prasad Lad",
+      "role": "Whole-Time Director",
+      "age": 30,
+      "year_born": 1995,
+      "total_pay": 6940000
+    },
+    {
+      "name": "Mr. P.M.  Sreeram",
+      "role": "Senior Vice President of Operations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manish Kumar Sangani",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
       "name": "Ms. Mrunalini  Salian",
       "role": "General Manager of Human Resources",
       "age": "N/A",
@@ -36,27 +71,6 @@
       "role": "Senior Vice President",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ms. Saily Prasad Lad",
-      "role": "Whole-Time Director",
-      "age": 34,
-      "year_born": 1991,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Rahul  Kamble",
-      "role": "President of Group Operations",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Dhananjay Mayur Dave",
-      "role": "President of Business Development",
-      "age": 58,
-      "year_born": 1967,
       "total_pay": "N/A"
     }
   ]

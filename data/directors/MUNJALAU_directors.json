@@ -1,7 +1,7 @@
 {
   "ticker": "MUNJALAU",
   "company": "Munjal Auto Industries Limited",
-  "collected_at": "2026-09-03 06:30:07",
+  "collected_at": "2026-09-04 06:43:33",
   "directors": [
     {
       "name": "Mr. Sudhir Kumar S. Munjal B.A.",
@@ -11,17 +11,31 @@
       "total_pay": 76207000
     },
     {
-      "name": "Ms. Anju Sudhir Munjal B.A.",
-      "role": "Whole-Time Director",
-      "age": 76,
-      "year_born": 1949,
-      "total_pay": 66681000
+      "name": "Mr. Nitin  Bachchavat",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 9928000
+    },
+    {
+      "name": "Ms. Gauri Yagnesh Bapat",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 1265000
     },
     {
       "name": "Mr. Anuj  Munjal MBA",
       "role": "Whole-Time Director",
       "age": 51,
       "year_born": 1974,
+      "total_pay": 66681000
+    },
+    {
+      "name": "Ms. Anju Sudhir Munjal B.A.",
+      "role": "Whole-Time Director",
+      "age": 76,
+      "year_born": 1949,
       "total_pay": 66681000
     }
   ]

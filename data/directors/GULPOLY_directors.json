@@ -1,7 +1,7 @@
 {
   "ticker": "GULPOLY",
   "company": "Gulshan Polyols Limited",
-  "collected_at": "2026-09-03 06:21:38",
+  "collected_at": "2026-09-04 06:32:41",
   "directors": [
     {
       "name": "Dr. Chandra Kumar Jain B.Sc.",
@@ -18,6 +18,34 @@
       "total_pay": 8851058
     },
     {
+      "name": "Ms. Aditi  Pasari",
+      "role": "Joint MD & Whole Time Executive Director",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": 25447600
+    },
+    {
+      "name": "Ms. Arushi  Jain",
+      "role": "Joint MD & Whole Time Executive Director",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": 25447600
+    },
+    {
+      "name": "Mr. Rajiv  Gupta",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anil  Bana",
+      "role": "Vice President of Technical",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Ms. Reetika  Pant",
       "role": "Company Secretary & Compliance Officer",
       "age": "N/A",
@@ -27,6 +55,20 @@
     {
       "name": "Mr. Arvind Kumar Gupta",
       "role": "Vice President of Sales & Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ajai  Agarwal",
+      "role": "Human Resources Head",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vinod  Chauhan",
+      "role": "Unit Head-Assam",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

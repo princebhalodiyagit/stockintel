@@ -1,7 +1,7 @@
 {
   "ticker": "JUBLFOOD",
   "company": "Jubilant Foodworks Limited",
-  "collected_at": "2026-09-03 06:25:35",
+  "collected_at": "2026-09-04 06:37:43",
   "directors": [
     {
       "name": "Mr. Shyam Sunder  Bhartia",
@@ -32,38 +32,45 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Amardeep Singh Ahluwalia",
-      "role": "Executive VP & Chief Corporate Affairs Officer",
-      "age": 61,
-      "year_born": 1964,
+      "name": "Mr. Pawan Bhargav Kumar",
+      "role": "Executive VP & CTO",
+      "age": 46,
+      "year_born": 1979,
       "total_pay": "N/A"
     },
     {
-      "name": "Amer  Hussain",
-      "role": "Senior Vice President of Supply Chain",
+      "name": "Mr. Narottam  Sharma",
+      "role": "Senior VP & Chief Information Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Apaar  Saraswat",
+      "role": "Head of M&A and Investor Relations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Deepti  Gupta",
+      "role": "Executive VP & Chief Human Resources Officer",
+      "age": 44,
+      "year_born": 1981,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Neeraj  Katoch",
+      "role": "Senior Vice President of Strategic Expansion & Alternate Channels",
       "age": 50,
       "year_born": 1975,
       "total_pay": "N/A"
     },
     {
-      "name": "Siddharth  Mangharam",
-      "role": "Executive VP & Head of Jubilant Ventures",
-      "age": 51,
-      "year_born": 1974,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Perepu Sreenivas Sreekanth",
-      "role": "Head of Corporate Venture Capital",
-      "age": 43,
-      "year_born": 1982,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Deepak Kumar Jajodia",
-      "role": "Vice President of Finance & Accounts",
-      "age": "N/A",
-      "year_born": "N/A",
+      "name": "Mr. Vaneet  Singla",
+      "role": "Executive VP & Chief Product Officer",
+      "age": 42,
+      "year_born": 1983,
       "total_pay": "N/A"
     }
   ]

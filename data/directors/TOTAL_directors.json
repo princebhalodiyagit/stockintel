@@ -1,7 +1,7 @@
 {
   "ticker": "TOTAL",
   "company": "Total Transport Systems Limited",
-  "collected_at": "2026-09-03 06:41:36",
+  "collected_at": "2026-09-04 06:58:12",
   "directors": [
     {
       "name": "Mr. Makarand Prabhakar Pradhan",
@@ -30,6 +30,13 @@
       "age": 58,
       "year_born": 1967,
       "total_pay": 14200000
+    },
+    {
+      "name": "Bharat R. Malekar",
+      "role": "General Manager of Sales",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "ticker": "HERANBA",
   "company": "Heranba Industries Limited",
-  "collected_at": "2026-09-03 06:22:12",
+  "collected_at": "2026-09-04 06:33:25",
   "directors": [
     {
       "name": "Mr. Sadashiv Kanyana Shetty",
@@ -41,6 +41,34 @@
     {
       "name": "Mr. S. D. Namjoshi",
       "role": "Head of Production Units & President of Operations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Abdul  Latif",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Murad  Shemle",
+      "role": "General Manager of Credit & Legal",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Satish  Tiwari",
+      "role": "Vice President Sales & Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Hemant  Gad",
+      "role": "Vice President of HR",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

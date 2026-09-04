@@ -1,7 +1,7 @@
 {
   "ticker": "RUCHINFRA",
   "company": "Ruchi Infrastructure Limited",
-  "collected_at": "2026-09-03 06:35:55",
+  "collected_at": "2026-09-04 06:50:56",
   "directors": [
     {
       "name": "Mr. Narendra Kumar Shah",
@@ -9,6 +9,41 @@
       "age": 68,
       "year_born": 1957,
       "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Parag  Choudhary",
+      "role": "Director of Technical & Director",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pavan Kumar Purohit",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 1968000
+    },
+    {
+      "name": "Mr. Anil Kumar Gupta",
+      "role": "Director of Operations & Director",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Nand Kishor Maheshwari",
+      "role": "General Manager of Accounts",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 526341
+    },
+    {
+      "name": "Mr. Ashish  Mehta",
+      "role": "Compliance Officer & Company Secretary",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 5027000
     }
   ]
 }

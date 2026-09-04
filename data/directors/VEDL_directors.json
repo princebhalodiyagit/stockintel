@@ -1,8 +1,22 @@
 {
   "ticker": "VEDL",
   "company": "Vedanta Limited",
-  "collected_at": "2026-09-03 06:42:51",
+  "collected_at": "2026-09-04 06:59:51",
   "directors": [
+    {
+      "name": "Mr. Navin Kumar Agarwal",
+      "role": "Executive Vice Chairman",
+      "age": 64,
+      "year_born": 1961,
+      "total_pay": 130630776
+    },
+    {
+      "name": "Mr. Arun  Misra",
+      "role": "CEO of Zinc Business & Executive Director",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": "N/A"
+    },
     {
       "name": "Mr. Ajay Kumar Goel",
       "role": "Chief Financial Officer",
@@ -58,20 +72,6 @@
       "age": 52,
       "year_born": 1973,
       "total_pay": 18000000
-    },
-    {
-      "name": "Mr. Deodatta  Padgaonkar",
-      "role": "Senior VP of MAS & Risk Officer",
-      "age": 51,
-      "year_born": 1974,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Anand  Soni",
-      "role": "Chief Financial Officer of Copper Operations - Tuticorin & Silvassa",
-      "age": 44,
-      "year_born": 1981,
-      "total_pay": "N/A"
     }
   ]
 }

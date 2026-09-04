@@ -1,7 +1,7 @@
 {
   "ticker": "LODHA",
   "company": "Lodha Developers Limited",
-  "collected_at": "2026-09-03 06:27:42",
+  "collected_at": "2026-09-04 06:40:25",
   "directors": [
     {
       "name": "Mr. Abhishek Mangal Prabhat Lodha",
@@ -32,6 +32,13 @@
       "total_pay": 63640000
     },
     {
+      "name": "Mr. Sushil Kumar Modi CFA",
+      "role": "Group Finance Director & Whole-Time Director",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": 77490000
+    },
+    {
       "name": "Ms. Sanjyot Nilesh Rangnekar",
       "role": "Company Secretary & Compliance Officer",
       "age": 55,
@@ -39,38 +46,31 @@
       "total_pay": 463238
     },
     {
-      "name": "Mr. Sumit  Kumar",
-      "role": "Executive Vice President of Strategy",
+      "name": "Ms. Janhavi  Sukhtankar",
+      "role": "President of Human Resources",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Rajesh  Sahana",
-      "role": "Chief Customer Officer",
+      "name": "Mr. Deepak  Chitnis B.E.",
+      "role": "Chief Designer",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Tikam  Jain",
+      "role": "Chief Executive Officer of Pune",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Yogendra  Bohra",
-      "role": "Chief Operating Officer of Eastern suburbs, Western Suburbs & Navi Mumbai",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Shyam  Kaikini",
-      "role": "President of Hospitality & Property Management",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Rajesh  Agrawal",
-      "role": "President of Procurement",
-      "age": "N/A",
-      "year_born": "N/A",
+      "name": "Mr. Piyush R. Vora",
+      "role": "Head of Department of Business Development",
+      "age": 52,
+      "year_born": 1973,
       "total_pay": "N/A"
     }
   ]

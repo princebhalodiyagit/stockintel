@@ -1,7 +1,7 @@
 {
   "ticker": "ASTRAMICRO",
   "company": "Astra Microwave Products Limited",
-  "collected_at": "2026-09-03 06:12:07",
+  "collected_at": "2026-09-04 06:20:21",
   "directors": [
     {
       "name": "Mr. Maram Venkateshwar Reddy MBA",
@@ -23,6 +23,55 @@
       "age": 74,
       "year_born": 1951,
       "total_pay": 2850000
+    },
+    {
+      "name": "Mr. Srinivasarao  Devathi",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "L.G.M.  Prakasam",
+      "role": "Vice President of Technical",
+      "age": 64,
+      "year_born": 1961,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Thallapally  Anjaneyulu",
+      "role": "Company Secretary, GM & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Atim  Kabra",
+      "role": "Director of Strategy & Business Development and Executive Director",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": 13080000
+    },
+    {
+      "name": "Mr. Bhumi Malla Reddy",
+      "role": "Founder",
+      "age": 78,
+      "year_born": 1947,
+      "total_pay": 11697932
+    },
+    {
+      "name": "Ms. Chennareddy H. Prameelamma M.E",
+      "role": "Founder",
+      "age": 76,
+      "year_born": 1949,
+      "total_pay": 9905542
+    },
+    {
+      "name": "Dr. R.  Pragasam",
+      "role": "Vice President",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": "N/A"
     }
   ]
 }

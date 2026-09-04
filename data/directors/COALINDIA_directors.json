@@ -1,7 +1,7 @@
 {
   "ticker": "COALINDIA",
   "company": "Coal India Limited",
-  "collected_at": "2026-09-03 06:15:53",
+  "collected_at": "2026-09-04 06:25:13",
   "directors": [
     {
       "name": "Mr. B.  Sairam",
@@ -30,6 +30,48 @@
       "age": 54,
       "year_born": 1971,
       "total_pay": 7826100
+    },
+    {
+      "name": "Shri Asheesh Kumar",
+      "role": "Director (BD)",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 12497264
+    },
+    {
+      "name": "John Wesley Golusula",
+      "role": "General Manager of M&S and Operations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Sanjay K. Bhagat",
+      "role": "GM of Administration",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Bijay Prakash Dubey",
+      "role": "Executive Director, Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Sanjeev Kumar Bhardwaj",
+      "role": "GM, Head of Law Department & HOD (Appeal Cell)",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Kavita  Gupta",
+      "role": "Head of Corporate Communication & Public Relation Department",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

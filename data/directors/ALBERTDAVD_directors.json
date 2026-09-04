@@ -1,7 +1,7 @@
 {
   "ticker": "ALBERTDAVD",
   "company": "Albert David Limited",
-  "collected_at": "2026-09-03 06:10:32",
+  "collected_at": "2026-09-04 06:18:12",
   "directors": [
     {
       "name": "Arun Kumar Kothari",
@@ -48,6 +48,20 @@
     {
       "name": "Mr. Anil Kumar Semwal",
       "role": "Head of QA (Contract Manufacturing)",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Saikath  Banerjee",
+      "role": "Cluster Head",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Swapan Kumar Gayen",
+      "role": "Head of IT",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

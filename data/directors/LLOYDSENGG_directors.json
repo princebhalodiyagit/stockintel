@@ -1,6 +1,77 @@
 {
   "ticker": "LLOYDSENGG",
   "company": "LLOYDS ENGINEERING WORKS LIMITED",
-  "collected_at": "2026-09-03 06:27:38",
-  "directors": []
+  "collected_at": "2026-09-04 06:40:20",
+  "directors": [
+    {
+      "name": "Mr. Mukesh Rajnarayan Gupta B.Com.",
+      "role": "Executive Chairman & Whole Time Director",
+      "age": 67,
+      "year_born": 1958,
+      "total_pay": 17400000
+    },
+    {
+      "name": "Mr. Kalpesh Prakash Agrawal",
+      "role": "Chief Financial Officer",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": 18646198
+    },
+    {
+      "name": "Mr. Sudhir Kumar Dwivedi",
+      "role": "Chief Operating Officer of Engineering Division",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sameer  Tawade",
+      "role": "Chief Operating Officer of Civil & Construction",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Rahima Shabbir Shaikh",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 1289582
+    },
+    {
+      "name": "Mr. Deepak  Obhan",
+      "role": "Vice President of Human Resources",
+      "age": 42,
+      "year_born": 1983,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Shreekrishna Mukesh Gupta",
+      "role": "Whole Time Director",
+      "age": 33,
+      "year_born": 1992,
+      "total_pay": 28800000
+    },
+    {
+      "name": "Mr. Sreekumar  Nair",
+      "role": "Vice President of Operations",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Swaminathan  Sundararajan",
+      "role": "Vice-President of Project Boilers",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Arun  Nair",
+      "role": "Vice President of Sales & Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

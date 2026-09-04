@@ -1,7 +1,7 @@
 {
   "ticker": "TRANSPEK",
   "company": "Transpek Industry Limited",
-  "collected_at": "2026-09-03 06:41:40",
+  "collected_at": "2026-09-04 06:58:19",
   "directors": [
     {
       "name": "Mr. Bimal Vasantlal Mehta",
@@ -32,6 +32,13 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. Prashant B. Vaidya",
+      "role": "Vice President of HRM",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Ashish B. Pathak",
       "role": "Vice President of Strategy & Business Development",
       "age": 56,
@@ -43,6 +50,27 @@
       "role": "Senior General Manager of Operations",
       "age": 51,
       "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mandar S. Prabhune",
+      "role": "Deputy General Manager of Bio-Lab",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Vipul P. Parikh",
+      "role": "Senior General Manager of Engineering Services",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Gurpreet S. Kaur",
+      "role": "Senior General Manager of R&D, QC & QM",
+      "age": 45,
+      "year_born": 1980,
       "total_pay": "N/A"
     }
   ]

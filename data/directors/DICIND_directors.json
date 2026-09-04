@@ -1,6 +1,63 @@
 {
   "ticker": "DICIND",
   "company": "DIC India Limited",
-  "collected_at": "2026-09-03 06:17:26",
-  "directors": []
+  "collected_at": "2026-09-04 06:27:17",
+  "directors": [
+    {
+      "name": "Mr. Gagandeep  Singh",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Meghna  Saini",
+      "role": "Head of Legal, Company Secretary & Compliance Officer",
+      "age": 33,
+      "year_born": 1992,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Kamakshi  Christopher Ph.D.",
+      "role": "Head of Technology",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Manjusha  Singh",
+      "role": "Head of Sales & Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sudeep  Majumdar",
+      "role": "Head of Human Resources",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Partha S. Mukherjee",
+      "role": "Head of Sales & Marketing Printing Inks Business",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anil  Nanda",
+      "role": "Head of News link Business",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Praveen  Asthana",
+      "role": "Head of Operations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

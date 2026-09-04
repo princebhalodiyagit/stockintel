@@ -1,7 +1,7 @@
 {
   "ticker": "ACSTECH",
   "company": "ACS Technologies Limited",
-  "collected_at": "2026-09-03 06:09:39",
+  "collected_at": "2026-09-04 06:17:04",
   "directors": [
     {
       "name": "Mr. Ashok Kumar Buddharaju",
@@ -29,6 +29,13 @@
       "role": "Whole-time Director",
       "age": 47,
       "year_born": 1978,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Group Captain M.J. Vinod Augustine",
+      "role": "Chief Executive Officer",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

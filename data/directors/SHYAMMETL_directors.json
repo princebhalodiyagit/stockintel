@@ -1,8 +1,15 @@
 {
   "ticker": "SHYAMMETL",
   "company": "Shyam Metalics and Energy Limited",
-  "collected_at": "2026-09-03 06:37:50",
+  "collected_at": "2026-09-04 06:53:24",
   "directors": [
+    {
+      "name": "Mr. Brij Bhushan Agarwal",
+      "role": "Executive Chairman & MD",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": 26500000
+    },
     {
       "name": "Mr. Sanjay Kumar Agarwal",
       "role": "Joint MD & Director",
@@ -16,6 +23,55 @@
       "age": 51,
       "year_born": 1974,
       "total_pay": 9780000
+    },
+    {
+      "name": "Mr. Birendra Kumar Jain",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 1609349
+    },
+    {
+      "name": "Ravi  Shankar",
+      "role": "Group CHRO",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Dev Kumar Tiwari",
+      "role": "Whole-Time Director",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": 6764412
+    },
+    {
+      "name": "Mr. Sheetij  Agarwal",
+      "role": "Whole-Time Director",
+      "age": 27,
+      "year_born": 1998,
+      "total_pay": 13500000
+    },
+    {
+      "name": "Niranjan  Mohapatra",
+      "role": "Associate President",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Suryakant Kahal Singh",
+      "role": "Chief Operating Officer - Sambalpur",
+      "age": 43,
+      "year_born": 1982,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Trilochan  Sharma",
+      "role": "President",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
     }
   ]
 }

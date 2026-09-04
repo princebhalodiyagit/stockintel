@@ -1,6 +1,77 @@
 {
   "ticker": "JSWSTEEL",
   "company": "JSW Steel Limited",
-  "collected_at": "2026-09-03 06:25:31",
-  "directors": []
+  "collected_at": "2026-09-04 06:37:38",
+  "directors": [
+    {
+      "name": "Mr. Sajjan Kumar Jindal B.E.",
+      "role": "Non Independent Executive Chairman",
+      "age": 66,
+      "year_born": 1959,
+      "total_pay": 582000000
+    },
+    {
+      "name": "Mr. Jayant  Acharya",
+      "role": "CEO, Joint MD & Whole-Time Director",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": 148000000
+    },
+    {
+      "name": "Mr. Gajraj Singh Rathore BE, MET",
+      "role": "COO, President of Dolvi & Whole-time Director",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": 93000000
+    },
+    {
+      "name": "Mr. Arun Sitaram Maheshwari MBA",
+      "role": "Executive VP of Commercial, Director of Commercial & Marketing and Director",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": 65400000
+    },
+    {
+      "name": "Mr. Swayam  Saurabh",
+      "role": "Chief Financial Officer",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ashwin Shivkumar Bajaj",
+      "role": "Group Head of Investor Relations",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manoj Prasad Singh",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vinay  Shroff",
+      "role": "Chief Marketing Officer",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ashok Kumar Aggrawal",
+      "role": "President of Business Development",
+      "age": 66,
+      "year_born": 1959,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Prashant  Jain",
+      "role": "Executive Vice President of Corporate Strategy & Development",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    }
+  ]
 }

@@ -1,6 +1,42 @@
 {
   "ticker": "HINDCOMPOS",
   "company": "Hindustan Composites Limited",
-  "collected_at": "2026-09-03 06:22:26",
-  "directors": []
+  "collected_at": "2026-09-04 06:33:42",
+  "directors": [
+    {
+      "name": "Mr. Sunil Kumar Jindal",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 3282000
+    },
+    {
+      "name": "Mr. Arvind  Purohit",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 1650000
+    },
+    {
+      "name": "Mr. Mohan  Parashar",
+      "role": "General Manager of Accounts",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vijay  Jain",
+      "role": "Senior Manager of Corporate Affairs",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Varunn  Mody",
+      "role": "President of Treasury",
+      "age": 41,
+      "year_born": 1984,
+      "total_pay": 19246800
+    }
+  ]
 }

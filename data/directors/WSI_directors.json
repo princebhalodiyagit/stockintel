@@ -1,55 +1,34 @@
 {
   "ticker": "WSI",
   "company": "W S Industries (I) Limited",
-  "collected_at": "2026-09-03 06:44:07",
+  "collected_at": "2026-09-04 07:01:30",
   "directors": [
     {
       "name": "Mr. Seyyadurai  Nagarajan",
       "role": "Executive Chairman",
       "age": 50,
       "year_born": 1975,
-      "total_pay": 225000
+      "total_pay": 125000
     },
     {
       "name": "Mr. Chinniampalayam Kulandaisamy Venkatachalam",
       "role": "MD & Executive-Non Independent Director",
       "age": 50,
       "year_born": 1975,
-      "total_pay": 250000
+      "total_pay": 75000
     },
     {
       "name": "Mr. Anandavadivel  Sathiyamoorthy",
       "role": "Joint MD & Executive-Non Independent Director",
       "age": 48,
       "year_born": 1977,
-      "total_pay": 175000
+      "total_pay": 100000
     },
     {
       "name": "Mr. T. R. Sivaraman",
       "role": "CFO & Deputy Nodal Officer",
       "age": 64,
       "year_born": 1961,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Vetrivel  Balamurugan",
-      "role": "Company Secretary & Compliance Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Kalavar Vittal Rao Prakash",
-      "role": "Whole Time Director",
-      "age": 58,
-      "year_born": 1967,
-      "total_pay": 350000
-    },
-    {
-      "name": "Mr. M.  Ramakrishnan",
-      "role": "Vice President of Human Resources & Administration",
-      "age": "N/A",
-      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

@@ -1,6 +1,35 @@
 {
   "ticker": "COASTCORP",
   "company": "Coastal Corporation Limited",
-  "collected_at": "2026-09-03 06:15:54",
-  "directors": []
+  "collected_at": "2026-09-04 06:25:14",
+  "directors": [
+    {
+      "name": "Mr. Valsaraj  Thotolli",
+      "role": "MD & Executive Vice-Chairman",
+      "age": 71,
+      "year_born": 1954,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ganta Veera Venkata Satyanarayana",
+      "role": "CFO, Director of Finance & Whole-Time Non-Independent Executive Director",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Swaroopa  Meruva",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 37,
+      "year_born": 1988,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. S. V. Jagga Rao",
+      "role": "Manager of Accounts",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    }
+  ]
 }

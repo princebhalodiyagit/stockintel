@@ -1,7 +1,7 @@
 {
   "ticker": "PROSTARM",
   "company": "Prostarm Info Systems Limited",
-  "collected_at": "2026-09-03 06:33:58",
+  "collected_at": "2026-09-04 06:48:28",
   "directors": [
     {
       "name": "Mr. Tapan  Ghose",
@@ -25,6 +25,34 @@
       "total_pay": 2087000
     },
     {
+      "name": "Mr. Sachin  Gupta",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 2016000
+    },
+    {
+      "name": "Mr. Vikas Shyamsunder Agarwal",
+      "role": "Whole-Time Director",
+      "age": 41,
+      "year_born": 1984,
+      "total_pay": 600000
+    },
+    {
+      "name": "Mr. Ajay Satish Rao",
+      "role": "Vice President of Operations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Umesh Damodar Ikhe",
+      "role": "GM of Production & VP of Technical",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
       "name": "Ms. Shilpa  Dugar",
       "role": "Chief Sales Officer",
       "age": 43,
@@ -37,6 +65,13 @@
       "age": 65,
       "year_born": 1960,
       "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Sonu Ram Agarwal",
+      "role": "Business Head of Servo & Transformer",
+      "age": 44,
+      "year_born": 1981,
+      "total_pay": 2623000
     }
   ]
 }

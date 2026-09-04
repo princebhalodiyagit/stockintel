@@ -1,8 +1,15 @@
 {
   "ticker": "NATIONALUM",
   "company": "National Aluminium Company Limited",
-  "collected_at": "2026-09-03 06:30:25",
+  "collected_at": "2026-09-04 06:43:56",
   "directors": [
+    {
+      "name": "Mr. Brijendra Pratap Singh",
+      "role": "MD & Chairman of the Board",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": 8924343
+    },
     {
       "name": "Abhay Kumar Behuria",
       "role": "Director of Finance & Director",
@@ -32,8 +39,36 @@
       "total_pay": 9702686
     },
     {
+      "name": "Mr. Anil Kumar Singh",
+      "role": "Director of Commercial & Director",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": 5673193
+    },
+    {
       "name": "Dr. A. N. Mohanty",
       "role": "General Manager of Admin- I/C",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Gautam Harichandan Mahapatra",
+      "role": "Executive Director of Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Srimanta  Panda",
+      "role": "Chief General Manager of (Fin.) & EPO-ED(Fin.)",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sanjaya Kumar Sahoo",
+      "role": "Chief General Manager of Finance",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

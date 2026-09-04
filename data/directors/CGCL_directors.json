@@ -1,36 +1,8 @@
 {
   "ticker": "CGCL",
   "company": "Capri Global Capital Limited",
-  "collected_at": "2026-09-03 06:15:26",
+  "collected_at": "2026-09-04 06:24:39",
   "directors": [
-    {
-      "name": "Mr. Rajesh Chandra Sharma CA",
-      "role": "MD & Director",
-      "age": 55,
-      "year_born": 1970,
-      "total_pay": 60000000
-    },
-    {
-      "name": "Mr. Yashesh Pankaj Bhatt",
-      "role": "VP & Company Secretary",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 5910000
-    },
-    {
-      "name": "Ms. Divya  Sutar",
-      "role": "President & Executive Director of Business Strategy",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Kishore Kumar Lodha",
-      "role": "Chief Financial Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 18020000
-    },
     {
       "name": "Mr. Magesh Ramachandran Iyer",
       "role": "Chief Operating Officer",
@@ -69,6 +41,34 @@
     {
       "name": "Mr. Vikas  Sharma",
       "role": "Head of MSME & Retail Business",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Surender Kumar Sangar",
+      "role": "Head of Construction Finance",
+      "age": 69,
+      "year_born": 1956,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Bhupinder  Singh",
+      "role": "Head of Litigation",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Bhavesh  Prajapati",
+      "role": "Head of Credit, Risk & Policy",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Amar Bhadur Rajpurohit",
+      "role": "Business Head of Urban Retail",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

@@ -1,7 +1,7 @@
 {
   "ticker": "TEXRAIL",
   "company": "Texmaco Rail & Engineering Limited",
-  "collected_at": "2026-09-03 06:40:56",
+  "collected_at": "2026-09-04 06:57:22",
   "directors": [
     {
       "name": "Mr. Saroj Kumar Poddar",
@@ -11,20 +11,6 @@
       "total_pay": 56075048
     },
     {
-      "name": "Mr. Sudipta  Mukherjee",
-      "role": "MD & Director",
-      "age": 50,
-      "year_born": 1975,
-      "total_pay": 24316123
-    },
-    {
-      "name": "Mr. Indrajit  Mookerjee",
-      "role": "Executive Vice Chairman",
-      "age": 76,
-      "year_born": 1949,
-      "total_pay": 22602400
-    },
-    {
       "name": "Mr. Kishor Kumar Rajgaria",
       "role": "Chief Financial Officer",
       "age": "N/A",
@@ -32,11 +18,60 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Ashok Kumar Vijay",
-      "role": "Executive Director",
-      "age": 71,
-      "year_born": 1954,
-      "total_pay": 12828734
+      "name": "Mr. Avijit  Mitra",
+      "role": "Chief Executive Officer of Steel Foundry Division",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sandeep Kumar Sultania",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Udayan  Banerjee",
+      "role": "Senior Vice President of Engineering & Marketing - Hydro-mechanical Equipment & Structurals",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Dulal Chandra Mitra",
+      "role": "Senior Vice President of Infrastructure",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pradip  Guha",
+      "role": "Senior Vice President of Engineering & Marketing - Rolling Stock",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jitendra Kumar Jain",
+      "role": "Chief Operating Officer of Rail EPC Division - Kalindee",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Nagaraju Tummala Venkata",
+      "role": "Chief Operating Officer of Steel Foundry Division",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Arvind Dattatraya Kottawar",
+      "role": "Chief Operating Officer of Rail EPC Division - Bright Power",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
     }
   ]
 }

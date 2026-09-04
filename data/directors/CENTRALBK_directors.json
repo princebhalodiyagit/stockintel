@@ -1,6 +1,77 @@
 {
   "ticker": "CENTRALBK",
   "company": "Central Bank of India",
-  "collected_at": "2026-09-03 06:15:18",
-  "directors": []
+  "collected_at": "2026-09-04 06:24:29",
+  "directors": [
+    {
+      "name": "Mr. Kalyan  Kumar",
+      "role": "MD & CEO",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": 2066000
+    },
+    {
+      "name": "Mr. Malladi Venkat Murali Krishna",
+      "role": "Executive Director",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": 7339000
+    },
+    {
+      "name": "Mr. Mahendra Dwarika Prasad Dohare",
+      "role": "Executive Director",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": 6768000
+    },
+    {
+      "name": "Mr. E. Ratan Kumar",
+      "role": "Executive Director",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": 1486000
+    },
+    {
+      "name": "Ms. Kavita  Thakur",
+      "role": "Chief GM & Chief Compliance Officer",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mohit  Kodnani",
+      "role": "Chief General Manager of DIT",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kushal  Pal",
+      "role": "Chief GM of Human Capital Management, Learning & Development and Rajbhasha & Security Department",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajendra  Bhalerao",
+      "role": "C.I.S.O",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sohail  Ahmad",
+      "role": "Chief GM of Strategy Management Department",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ajay Kumar Singh",
+      "role": "Chief Vigilance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

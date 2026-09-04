@@ -1,13 +1,34 @@
 {
   "ticker": "DAVANGERE",
   "company": "Davangere Sugar Company Limited",
-  "collected_at": "2026-09-03 06:16:45",
+  "collected_at": "2026-09-04 06:26:22",
   "directors": [
     {
       "name": "Mr. Shamanur Shivashankarappa Ganesh",
       "role": "Chairman & MD",
       "age": 64,
       "year_born": 1961,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Parameshwarappa  Onkarappa",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vishwanath  Patil",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Abhijith Ganesh Shamanur",
+      "role": "Executive Director",
+      "age": 37,
+      "year_born": 1988,
       "total_pay": "N/A"
     }
   ]

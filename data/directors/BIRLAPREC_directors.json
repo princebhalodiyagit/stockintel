@@ -1,6 +1,77 @@
 {
   "ticker": "BIRLAPREC",
   "company": "Birla Precision Technologies Limited",
-  "collected_at": "2026-09-03 06:14:07",
-  "directors": []
+  "collected_at": "2026-09-04 06:22:56",
+  "directors": [
+    {
+      "name": "Mr. Vedant  Birla",
+      "role": "Executive Chairman",
+      "age": 34,
+      "year_born": 1991,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ravinder Chander Prem",
+      "role": "MD & Director",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Santhosh  Kumar",
+      "role": "Executive Director",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Daulat  Jain",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Sweta Sanjay Gupta",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Minal  Redji",
+      "role": "Head of Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Shelendra  Singh",
+      "role": "Assistant Vice President - Human Resources & Industrial Relations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "R. K. Uppal",
+      "role": "Domestic Sales Head of ITM",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mazhar D. Mhate",
+      "role": "Deputy GM of Sales & Marketing Head for Precision Component Division",
+      "age": 36,
+      "year_born": 1989,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Naresh Kumar Choudhary",
+      "role": "Assistant GM of Domestic Sales & Marketing Head for Toolholder Division",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

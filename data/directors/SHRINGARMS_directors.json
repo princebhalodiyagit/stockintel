@@ -1,8 +1,15 @@
 {
   "ticker": "SHRINGARMS",
   "company": "Shringar House of Mangalsutra Limited",
-  "collected_at": "2026-09-03 06:37:45",
+  "collected_at": "2026-09-04 06:53:17",
   "directors": [
+    {
+      "name": "Mr. Chetan Natvarlal Thadeshwar",
+      "role": "Chairman & MD",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": "N/A"
+    },
     {
       "name": "Mr. Viraj Chetan Thadeshwar",
       "role": "CEO & Executive Director",
@@ -22,6 +29,27 @@
       "role": "COO & Whole Time Director",
       "age": 31,
       "year_born": 1994,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rachit Sanjay Sinha",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Chetan R Parmar",
+      "role": "Inventory Head",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Hemanshu N Pandya",
+      "role": "Head of Procurement",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

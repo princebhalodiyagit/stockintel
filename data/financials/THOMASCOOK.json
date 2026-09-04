@@ -1,14 +1,14 @@
 {
   "ticker": "THOMASCOOK",
-  "collected_at": "2026-09-03 06:41:08",
+  "collected_at": "2026-09-04 06:57:37",
   "company_info": {
     "name": "Thomas Cook (India) Limited",
     "sector": "Consumer Cyclical",
     "industry": "Travel Services",
-    "market_cap": 49912082432,
-    "current_price": 106.11,
-    "pe_ratio": 22.673079,
-    "pb_ratio": 1.9409893,
+    "market_cap": 51163291648,
+    "current_price": 108.77,
+    "pe_ratio": 23.241453,
+    "pb_ratio": 1.9896466,
     "roe": "N/A",
     "debt_to_equity": 21.373,
     "revenue": 80821002240,
@@ -16,6 +16,6 @@
     "eps": 4.68,
     "52_week_high": 181.41,
     "52_week_low": 86.35,
-    "dividend_yield": 0.47
+    "dividend_yield": "N/A"
   }
 }

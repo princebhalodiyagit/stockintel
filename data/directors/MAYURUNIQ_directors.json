@@ -1,7 +1,7 @@
 {
   "ticker": "MAYURUNIQ",
   "company": "Mayur Uniquoters Ltd",
-  "collected_at": "2026-09-03 06:28:52",
+  "collected_at": "2026-09-04 06:41:56",
   "directors": [
     {
       "name": "Mr. Suresh Kumar Poddar B.Sc",
@@ -15,6 +15,34 @@
       "role": "Chief Financial Officer",
       "age": 55,
       "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kapil  Arora",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Arun Kumar Bagaria B.Com, MBA",
+      "role": "Whole-Time Executive Director",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": 19361000
+    },
+    {
+      "name": "Mr. Pankaj Kumar Pandey",
+      "role": "Senior General Manager of Operations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Puja  Poddar",
+      "role": "President of HR & Administration",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
@@ -43,13 +71,6 @@
       "role": "Assistant General Manager",
       "age": 44,
       "year_born": 1981,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Ajeet Vikram Bahadur Singh",
-      "role": "Associate Vice President",
-      "age": 47,
-      "year_born": 1978,
       "total_pay": "N/A"
     }
   ]

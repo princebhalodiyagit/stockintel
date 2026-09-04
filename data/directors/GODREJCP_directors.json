@@ -1,11 +1,39 @@
 {
   "ticker": "GODREJCP",
   "company": "Godrej Consumer Products Limited",
-  "collected_at": "2026-09-03 06:20:47",
+  "collected_at": "2026-09-04 06:31:35",
   "directors": [
+    {
+      "name": "Ms. Nisaba Adi Godrej",
+      "role": "Executive Chairperson",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": 76300000
+    },
+    {
+      "name": "Mr. Aasif Huseini Malbari",
+      "role": "CEO, MD & Director",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vishal  Kedia",
+      "role": "Interim Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
     {
       "name": "Ms. Divya Narayana Murthy",
       "role": "Head of Legal",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Tejal Virendra Jariwala",
+      "role": "Company Secretary & Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
@@ -41,34 +69,6 @@
     {
       "name": "Mr. V.  Swaminathan",
       "role": "Head of Corporate Audit & Assurance and Whistle Blowing Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Pradeep Kumar M.",
-      "role": "Chief Customer Officer",
-      "age": 54,
-      "year_born": 1971,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Venkateswara Rao Yadlapalli",
-      "role": "Head of Research & Development",
-      "age": 56,
-      "year_born": 1969,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Jishnu  Batabyal",
-      "role": "Group Head of Business Development of Godrej Industries Group",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Jose  Toscano",
-      "role": "President of Americas",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

@@ -1,36 +1,8 @@
 {
   "ticker": "PETRONET",
   "company": "Petronet LNG Limited",
-  "collected_at": "2026-09-03 06:32:50",
+  "collected_at": "2026-09-04 06:47:01",
   "directors": [
-    {
-      "name": "Mr. Akshay Kumar Singh",
-      "role": "MD, CEO & Additional Executive Director",
-      "age": 63,
-      "year_born": 1962,
-      "total_pay": 30399002
-    },
-    {
-      "name": "Pramod  Narang",
-      "role": "Director of Technical & Additional Whole-Time Director",
-      "age": 62,
-      "year_born": 1963,
-      "total_pay": 19456500
-    },
-    {
-      "name": "Mr. Vinod Kumar Mishra",
-      "role": "Executive Director",
-      "age": 61,
-      "year_born": 1964,
-      "total_pay": 21844929
-    },
-    {
-      "name": "Mr. Saurav  Mitra",
-      "role": "CFO & Director of Finance",
-      "age": 56,
-      "year_born": 1969,
-      "total_pay": "N/A"
-    },
     {
       "name": "Vinay Narayan Paranjape",
       "role": "CGM & VP of Legal",
@@ -71,6 +43,34 @@
       "role": "GGM & President (Projects)",
       "age": 52,
       "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vikas  Singh",
+      "role": "CGM & Vice President (Shipping & CSR)",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Nirav D. Shah",
+      "role": "CGM & Vice President (Maintenance)",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajan  Kapur",
+      "role": "GGM, President & Company Secretary",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mukesh Kumar Gupta",
+      "role": "CGM and VP of F&A",
+      "age": 55,
+      "year_born": 1970,
       "total_pay": "N/A"
     }
   ]

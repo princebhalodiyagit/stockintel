@@ -1,25 +1,32 @@
 {
   "ticker": "GRWRHITECH",
   "company": "Garware Hi-Tech Films Limited",
-  "collected_at": "2026-09-03 06:21:22",
+  "collected_at": "2026-09-04 06:32:20",
   "directors": [
     {
       "name": "Dr. Shashikant Bhalchandra Garware",
       "role": "Chairman & MD",
       "age": 91,
       "year_born": 1934,
-      "total_pay": 141423000
+      "total_pay": 153200000
     },
     {
       "name": "Ms. Monika Rajiv Garware Modi",
       "role": "Vice Chairperson & Joint MD",
       "age": 62,
       "year_born": 1963,
-      "total_pay": 130034000
+      "total_pay": 140500000
     },
     {
       "name": "Mr. Awaneesh Kumar Srivastava",
       "role": "VP of Legal, Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. A.  Venkatraman",
+      "role": "Senior President of Corporate Affairs & Finance",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

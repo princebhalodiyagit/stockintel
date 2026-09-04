@@ -1,7 +1,7 @@
 {
   "ticker": "BLUEJET",
   "company": "Blue Jet Healthcare Limited",
-  "collected_at": "2026-09-03 06:14:17",
+  "collected_at": "2026-09-04 06:23:09",
   "directors": [
     {
       "name": "Mr. Akshay Bansarilal Arora",
@@ -16,6 +16,13 @@
       "age": 32,
       "year_born": 1993,
       "total_pay": 52200000
+    },
+    {
+      "name": "Mr. Naresh Suryakant Shah",
+      "role": "Whole-Time Director",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": 50000000
     },
     {
       "name": "Mr. Popat Bhagwan Kedar",
@@ -41,6 +48,13 @@
     {
       "name": "Ms. Sweta  Poddar",
       "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Aslam  Ansari",
+      "role": "Head of HR Operations",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

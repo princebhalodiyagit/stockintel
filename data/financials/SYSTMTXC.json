@@ -1,21 +1,21 @@
 {
   "ticker": "SYSTMTXC",
-  "collected_at": "2026-09-03 06:40:11",
+  "collected_at": "2026-09-04 06:56:24",
   "company_info": {
     "name": "Systematix Corporate Services Limited",
     "sector": "Financial Services",
     "industry": "Capital Markets",
-    "market_cap": 7801403904,
-    "current_price": 57.05,
-    "pe_ratio": 27.166668,
-    "pb_ratio": 2.4917016,
+    "market_cap": 7931313664,
+    "current_price": 58.0,
+    "pe_ratio": "N/A",
+    "pb_ratio": 2.5331936,
     "roe": "N/A",
     "debt_to_equity": 6.082,
     "revenue": 1615195008,
     "net_income": -15018000,
-    "eps": 2.1,
+    "eps": -0.12,
     "52_week_high": 177.9,
     "52_week_low": 51.89,
-    "dividend_yield": 0.17
+    "dividend_yield": 0.18
   }
 }

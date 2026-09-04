@@ -1,7 +1,7 @@
 {
   "ticker": "DIVISLAB",
   "company": "Divi's Laboratories Limited",
-  "collected_at": "2026-09-03 06:17:33",
+  "collected_at": "2026-09-04 06:27:25",
   "directors": [
     {
       "name": "Dr. Kiran Satchandra Divi B. Pharm., M.Pharm",
@@ -30,6 +30,13 @@
       "age": 63,
       "year_born": 1962,
       "total_pay": 32600000
+    },
+    {
+      "name": "Ms. Nilima Prasad Divi",
+      "role": "Chief Control Officer, Director of Commercial & Whole-Time Director",
+      "age": 43,
+      "year_born": 1982,
+      "total_pay": 347800000
     },
     {
       "name": "Mr. Venkatesa Perumallu Pasumarthy B.Com., F.C.A.",
@@ -64,13 +71,6 @@
       "role": "Global Quality Head",
       "age": 56,
       "year_born": 1969,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. M. Ramesh Babu B.Sc.",
-      "role": "Chief Technologist - PDSC",
-      "age": 59,
-      "year_born": 1966,
       "total_pay": "N/A"
     }
   ]

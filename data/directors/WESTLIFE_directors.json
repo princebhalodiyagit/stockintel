@@ -1,8 +1,15 @@
 {
   "ticker": "WESTLIFE",
   "company": "WESTLIFE FOODWORLD LIMITED",
-  "collected_at": "2026-09-03 06:43:52",
+  "collected_at": "2026-09-04 07:01:11",
   "directors": [
+    {
+      "name": "Mr. Akshay Amit Jatia",
+      "role": "CEO, President & Whole Time Executive Director",
+      "age": 33,
+      "year_born": 1992,
+      "total_pay": 400000
+    },
     {
       "name": "Ms. Smita Amit Jatia",
       "role": "MD, Non Independent & Non Executive Vice Chairman",
@@ -18,8 +25,50 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Arvind  R. P.",
-      "role": "Chief Business Officer of South",
+      "name": "Mr. Chintan  Jajal",
+      "role": "Lead Investor Relations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Shatadru  Sengupta",
+      "role": "Chief Legal Officer, Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Sandhydeep  Purri",
+      "role": "Chief People Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Saurabh  Kalra",
+      "role": "Managing Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sohel  Nalwalla",
+      "role": "Chief Supply Chain Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sanket  Satose",
+      "role": "Chief Development Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Aditya  Kharwa",
+      "role": "Chief Restaurant Support Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

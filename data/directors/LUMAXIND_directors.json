@@ -1,14 +1,28 @@
 {
   "ticker": "LUMAXIND",
   "company": "Lumax Industries Limited",
-  "collected_at": "2026-09-03 06:27:52",
+  "collected_at": "2026-09-04 06:40:39",
   "directors": [
+    {
+      "name": "Mr. Deepak  Jain BBA",
+      "role": "Chairman",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": 121513000
+    },
     {
       "name": "Mr. Raju Bhauso Ketkale",
       "role": "Chief Executive Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 43656000
+    },
+    {
+      "name": "Mr. Ravi  Teltia",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 15594000
     },
     {
       "name": "Mr. Raajesh Kumar Gupta",
@@ -18,11 +32,46 @@
       "total_pay": 12457000
     },
     {
+      "name": "Mr. Anmol  Jain BBA",
+      "role": "Managing Director",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": 48544000
+    },
+    {
+      "name": "Mr. Tadayoshi  Aoki",
+      "role": "Senior Whole-Time Executive Director",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": 1813000
+    },
+    {
       "name": "Mr. Kenjiro  Nakazono",
       "role": "Executive Director",
       "age": 55,
       "year_born": 1970,
       "total_pay": 2257164
+    },
+    {
+      "name": "Mr. Tarun  Vohra",
+      "role": "Vice President of Human Resource, IR & Admin",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Surabhi  Chandna",
+      "role": "Head of Group Investor Relations & Value Creation",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sandeep  Chawla",
+      "role": "Vice President of Marketing & Business Development",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

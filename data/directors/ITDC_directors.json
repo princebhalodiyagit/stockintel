@@ -1,29 +1,8 @@
 {
   "ticker": "ITDC",
   "company": "India Tourism Development Corporation Limited",
-  "collected_at": "2026-09-03 06:24:36",
+  "collected_at": "2026-09-04 06:36:28",
   "directors": [
-    {
-      "name": "Mr. Lokesh Kumar Agarwal",
-      "role": "Director of Finance, CFO & Director",
-      "age": 57,
-      "year_born": 1968,
-      "total_pay": 6408265
-    },
-    {
-      "name": "Mr. Rajesh  Rana",
-      "role": "Director of Commercial & Marketing and Director",
-      "age": 48,
-      "year_born": 1977,
-      "total_pay": 4252763
-    },
-    {
-      "name": "Ms. Mugdha  Sinha IAS",
-      "role": "MD & Director",
-      "age": 51,
-      "year_born": 1974,
-      "total_pay": 3813088
-    },
     {
       "name": "Mr. Subha Deepta Paul",
       "role": "Vice President of F&A",
@@ -69,6 +48,27 @@
     {
       "name": "Mr. Bibhuti Bhushana Dash",
       "role": "Chief Vigilance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Gaurav  Bhatnagar",
+      "role": "Head of AITD Division & Head of IT",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Upasna  Singhal",
+      "role": "Head of Corporate Marketing & PR Division",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Yogesh  Pandey",
+      "role": "Head of Ashok Events Division",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

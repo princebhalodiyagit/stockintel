@@ -1,7 +1,7 @@
 {
   "ticker": "SAILIFE",
   "company": "Sai Life Sciences Limited",
-  "collected_at": "2026-09-03 06:36:11",
+  "collected_at": "2026-09-04 06:51:18",
   "directors": [
     {
       "name": "Dr. Ranga Raju Kanumuri",
@@ -9,13 +9,6 @@
       "age": 74,
       "year_born": 1951,
       "total_pay": 31558473
-    },
-    {
-      "name": "Mr. Krishnam Raju Kanumuri",
-      "role": "CEO, MD & Executive Director",
-      "age": 54,
-      "year_born": 1971,
-      "total_pay": 130765004
     },
     {
       "name": "Mr. Sivaramakrishnan  Chittor",
@@ -60,17 +53,24 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Marcellus Johannes Velterop",
-      "role": "Chief Commercial Officer",
+      "name": "Mr. Muniandi  Damodharan",
+      "role": "Chief Quality Officer, Global Quality & Regulatory Affairs",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Sauri  Gudlavalleti B.Tech., M.B.A.",
-      "role": "Head of Special Projects",
-      "age": 47,
-      "year_born": 1978,
+      "name": "Mr. Maneesh Raghunath Pingle Ph.D.",
+      "role": "Executive VP & Head of Discovery Services",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Bugga Venkata Naga Bala Subrahmanya Sarma",
+      "role": "Senior VP & Head of Discovery",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

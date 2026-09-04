@@ -1,7 +1,7 @@
 {
   "ticker": "AYE",
   "company": "Aye Finance Limited",
-  "collected_at": "2026-09-03 06:12:43",
+  "collected_at": "2026-09-04 06:21:05",
   "directors": [
     {
       "name": "Mr. Sanjay  Sharma",
@@ -9,6 +9,69 @@
       "age": 64,
       "year_born": 1961,
       "total_pay": 46100000
+    },
+    {
+      "name": "Mr. Sovan  Satyaprakash",
+      "role": "Chief of Strategy & Investor Relations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 1600000
+    },
+    {
+      "name": "Mr. Gaurav  Seth",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ujual  George",
+      "role": "Chief Operating Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jinu  Joseph",
+      "role": "Chief Technology Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ankur  Sharma",
+      "role": "Chief Human Resources Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Piyush  Maheshwari",
+      "role": "Chief Credit & Operations Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Niraj Kumar Kaushik",
+      "role": "Deputy Chief Executive Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Tejamoy  Ghosh",
+      "role": "Head of Data Science & Artificial Intelligence",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Akash Damodar Purswani",
+      "role": "Chief Collections Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

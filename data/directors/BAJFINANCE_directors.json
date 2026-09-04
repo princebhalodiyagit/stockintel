@@ -1,6 +1,77 @@
 {
   "ticker": "BAJFINANCE",
   "company": "Bajaj Finance Limited",
-  "collected_at": "2026-09-03 06:13:00",
-  "directors": []
+  "collected_at": "2026-09-04 06:21:26",
+  "directors": [
+    {
+      "name": "Mr. Rajeev A. Jain",
+      "role": "MD & Executive Vice Chairman",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": 155574373
+    },
+    {
+      "name": "Mr. Sandeep Vijay Kumar Jain",
+      "role": "CFO & COO",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 93163474
+    },
+    {
+      "name": "Mr. Ramachandran  Vijay",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 22391896
+    },
+    {
+      "name": "Mr. Deepak  Bagati",
+      "role": "Chief Operating Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anurag  Chottani",
+      "role": "CTO & COO",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Prashant  Verma",
+      "role": "Chief Information & Security Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Jennifer Mathew Fernandes",
+      "role": "Chief Human Resources & Administration Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Neelesh  Sarda",
+      "role": "Chief Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manev Deep Mianwal",
+      "role": "President of Digital Platforms",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anand  Kumar",
+      "role": "President of Microfinance",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

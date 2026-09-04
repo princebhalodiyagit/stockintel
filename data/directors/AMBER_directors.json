@@ -1,7 +1,7 @@
 {
   "ticker": "AMBER",
   "company": "Amber Enterprises India Limited",
-  "collected_at": "2026-09-03 06:10:50",
+  "collected_at": "2026-09-04 06:18:36",
   "directors": [
     {
       "name": "Mr. Jasbir  Singh",
@@ -37,6 +37,13 @@
       "age": 44,
       "year_born": 1981,
       "total_pay": 28239000
+    },
+    {
+      "name": "Mr. Sanjay Kumar Arora",
+      "role": "Whole Time Director of IL JIN Electronics",
+      "age": 65,
+      "year_born": 1960,
+      "total_pay": 15861000
     }
   ]
 }

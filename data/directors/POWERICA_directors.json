@@ -1,6 +1,21 @@
 {
   "ticker": "POWERICA",
   "company": "Powerica Limited",
-  "collected_at": "2026-09-03 06:33:33",
-  "directors": []
+  "collected_at": "2026-09-04 06:47:57",
+  "directors": [
+    {
+      "name": "Mr. Bharat Naresh Oberoi",
+      "role": "MD & Chairman",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": 73199536
+    },
+    {
+      "name": "Mr. S.  Saravanan",
+      "role": "Vice President of Wind Operations & IT",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

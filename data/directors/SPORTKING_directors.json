@@ -1,7 +1,7 @@
 {
   "ticker": "SPORTKING",
   "company": "Sportking India Limited",
-  "collected_at": "2026-09-03 06:38:51",
+  "collected_at": "2026-09-04 06:54:42",
   "directors": [
     {
       "name": "Mr. Munish  Avasthi B.Com.",
@@ -13,6 +13,20 @@
     {
       "name": "Mr. Sandeep  Sachdeva",
       "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Devender Singh Yadav",
+      "role": "VP of HR and President of Pers. & Admin.",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Lovlesh  Verma",
+      "role": "Company Secretary & Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
@@ -32,10 +46,31 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. Chetan  Rupal",
+      "role": "Whole Time Director",
+      "age": 42,
+      "year_born": 1983,
+      "total_pay": 1199942
+    },
+    {
       "name": "Rajender  Pal",
       "role": "Assistant Vice President of HR & Admin",
       "age": 58,
       "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Rajan  Chopra",
+      "role": "Vice President of Commercial",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Sunil Kumar Mishra",
+      "role": "Vice President of Technical",
+      "age": 56,
+      "year_born": 1969,
       "total_pay": "N/A"
     }
   ]

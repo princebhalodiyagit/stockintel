@@ -1,56 +1,28 @@
 {
   "ticker": "SYSTMTXC",
   "company": "Systematix Corporate Services Limited",
-  "collected_at": "2026-09-03 06:40:11",
+  "collected_at": "2026-09-04 06:56:24",
   "directors": [
     {
       "name": "Mr. Nikhil  Khandelwal",
       "role": "MD & Chairman",
       "age": 41,
       "year_born": 1984,
-      "total_pay": 4620000
+      "total_pay": 10020000
     },
     {
       "name": "Mr. Anil Lalchand Bhagchandani",
       "role": "Chief Financial Officer",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": 3984000
+      "total_pay": 4774000
     },
     {
       "name": "Mr. Divyesh Bharat Badiyani",
       "role": "Company Secretary & Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": 870000
-    },
-    {
-      "name": "Ms. Priyanka  Khandelwal",
-      "role": "Whole Time Director",
-      "age": 40,
-      "year_born": 1985,
-      "total_pay": 1330000
-    },
-    {
-      "name": "Ms. Rupam Lal Das",
-      "role": "Joint Managing Director",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Ankur  Rajoria",
-      "role": "Director of Investment Banking",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ms. Mitali  Chitnis",
-      "role": "Group Chief HR Officer & Director",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
+      "total_pay": 1013000
     },
     {
       "name": "Mr. Amit  Kumar",
@@ -69,6 +41,13 @@
     {
       "name": "Mr. Bhaskar  Hazra",
       "role": "Joint Managing Director & CEO - Private Wealth Business",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ratnadeep  Acharyya",
+      "role": "Managing Director & CEO of IB",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

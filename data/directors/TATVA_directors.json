@@ -1,13 +1,41 @@
 {
   "ticker": "TATVA",
   "company": "Tatva Chintan Pharma Chem Limited",
-  "collected_at": "2026-09-03 06:40:34",
+  "collected_at": "2026-09-04 06:56:52",
   "directors": [
     {
       "name": "Mr. Chintan Nitinkumar Shah",
       "role": "Chairman & MD",
       "age": 52,
       "year_born": 1973,
+      "total_pay": 17125044
+    },
+    {
+      "name": "Mr. Ajesh Kumar Mohanan Pillai",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 1620000
+    },
+    {
+      "name": "Mr. Ishwar Ramanbhai Nayi",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 1660000
+    },
+    {
+      "name": "Mr. Ajaykumar Mansukhlal Patel",
+      "role": "Whole Time Director",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": 17125044
+    },
+    {
+      "name": "Mr. Shekhar Rasiklal Somani",
+      "role": "Whole Time Director",
+      "age": 51,
+      "year_born": 1974,
       "total_pay": 17125044
     },
     {

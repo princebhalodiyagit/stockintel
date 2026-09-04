@@ -1,8 +1,29 @@
 {
   "ticker": "GUFICBIO",
   "company": "Gufic Biosciences Limited",
-  "collected_at": "2026-09-03 06:21:30",
+  "collected_at": "2026-09-04 06:32:31",
   "directors": [
+    {
+      "name": "Mr. Jayesh Pannalal Choksi",
+      "role": "Executive Chairman & MD",
+      "age": 71,
+      "year_born": 1954,
+      "total_pay": 11832444
+    },
+    {
+      "name": "Mr. Pranav Jayesh Choksi",
+      "role": "CEO & Whole Time Executive Director",
+      "age": 42,
+      "year_born": 1983,
+      "total_pay": 8904564
+    },
+    {
+      "name": "Mr. Pankaj Jayakumar Gandhi",
+      "role": "Whole-Time Executive Director",
+      "age": 66,
+      "year_born": 1959,
+      "total_pay": 2108643
+    },
     {
       "name": "Mr. Devkinandan B. Roonghta",
       "role": "Chief Financial Officer",
@@ -48,27 +69,6 @@
     {
       "name": "Mr. Ashok Laxman Dev",
       "role": "President of Operation",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Rajeev  Agarwal",
-      "role": "President of Ferticare Cluster",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Rajesh  Kaul",
-      "role": "Senior President - Sparsh Cluster",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Dr. Kathiresan  Rajasekar",
-      "role": "President - International Business",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

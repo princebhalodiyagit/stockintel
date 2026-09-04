@@ -1,7 +1,7 @@
 {
   "ticker": "IMFA",
   "company": "Indian Metals & Ferro Alloys Limited",
-  "collected_at": "2026-09-03 06:23:25",
+  "collected_at": "2026-09-04 06:34:57",
   "directors": [
     {
       "name": "Mr. Subhrakant  Panda",
@@ -9,6 +9,13 @@
       "age": 54,
       "year_born": 1971,
       "total_pay": 297179606
+    },
+    {
+      "name": "Mr. Baijayant  Panda",
+      "role": "Executive Vice Chairman",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": 282766834
     },
     {
       "name": "Mr. Saunak  Gupta",
@@ -29,6 +36,41 @@
       "role": "Chief Human Resource Officer",
       "age": 49,
       "year_born": 1976,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Shaifalika  Panda",
+      "role": "Chief of CSR",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Binoy  Agarwalla",
+      "role": "Head of Power Business Unit",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sandeep B Narade",
+      "role": "Head of Mining Business Unit",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ch.S.V.Ch. Suresh Babu",
+      "role": "VP & Head Ferro Alloys Business Unit",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Smruti Ranjan Ray",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

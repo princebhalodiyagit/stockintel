@@ -1,7 +1,7 @@
 {
   "ticker": "ADVANIHOTR",
   "company": "Advani Hotels & Resorts (India) Limited",
-  "collected_at": "2026-09-03 06:09:54",
+  "collected_at": "2026-09-04 06:17:23",
   "directors": [
     {
       "name": "Mr. Sunder Gurdas Advani",
@@ -18,11 +18,25 @@
       "total_pay": 14503000
     },
     {
+      "name": "Mr. Ajay G. Vichare",
+      "role": "Chief Financial Officer",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Haresh Gurdas Advani",
       "role": "Executive Director",
       "age": 75,
       "year_born": 1950,
       "total_pay": 10992000
+    },
+    {
+      "name": "Mr. Milind Subodh Nigam",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Iqbal  Hassan",

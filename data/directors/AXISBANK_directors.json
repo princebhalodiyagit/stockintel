@@ -1,7 +1,7 @@
 {
   "ticker": "AXISBANK",
   "company": "Axis Bank Limited",
-  "collected_at": "2026-09-03 06:12:40",
+  "collected_at": "2026-09-04 06:21:01",
   "directors": [
     {
       "name": "Mr. Amitabh  Chaudhry",
@@ -30,6 +30,48 @@
       "age": 54,
       "year_born": 1971,
       "total_pay": 57022882
+    },
+    {
+      "name": "Mr. Puneet Mahendra Sharma",
+      "role": "Group Head & Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 18405083
+    },
+    {
+      "name": "Mr. Julius  Samson",
+      "role": "Head, Corporate Communication & Investor Relation",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Damini  Marwah",
+      "role": "Group Chief Legal Counsel and Chief Ethics Officer",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anuranjan  Kumar",
+      "role": "Chief Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anoop  Manohar",
+      "role": "Group Head of Marketing and Corporate Communications",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Rajkamal  Vempati",
+      "role": "Group Head of Human Resources",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": "N/A"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "ticker": "JINDALSTEL",
   "company": "JINDAL STEEL LIMITED",
-  "collected_at": "2026-09-03 06:25:05",
+  "collected_at": "2026-09-04 06:37:04",
   "directors": [
     {
       "name": "Mr. Vivek Kumar Mittal",
@@ -22,6 +22,13 @@
       "role": "President and Head of Supply Chain & Logistics",
       "age": 49,
       "year_born": 1976,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Naveen Kumar Ahlawat",
+      "role": "President and Head - Sustainability & Decarbonisation",
+      "age": 45,
+      "year_born": 1980,
       "total_pay": "N/A"
     },
     {
@@ -60,17 +67,10 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Ashok  Mahunta",
+      "name": "Mr. Sushil Kumar Pradhan",
       "role": "Executive Vice President",
-      "age": 56,
-      "year_born": 1969,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Amit  Khokhar",
-      "role": "Executive Vice President",
-      "age": 56,
-      "year_born": 1969,
+      "age": 51,
+      "year_born": 1974,
       "total_pay": "N/A"
     }
   ]

@@ -1,8 +1,15 @@
 {
   "ticker": "CHEMFAB",
   "company": "Chemfab Alkalis Limited",
-  "collected_at": "2026-09-03 06:15:33",
+  "collected_at": "2026-09-04 06:24:48",
   "directors": [
+    {
+      "name": "Mr. Suresh Krishnamurthi Rao",
+      "role": "Founder & Non \u0096 Independent Non Executive Chairman",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": 20000000
+    },
     {
       "name": "Mr. Vaithamanithi Mudumbai Srinivasan",
       "role": "Chief Executive Officer",
@@ -16,6 +23,20 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 5029000
+    },
+    {
+      "name": "Mr. Bharatraj J. Panchal",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. V. R. Raguraman",
+      "role": "Vice President of Administration",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

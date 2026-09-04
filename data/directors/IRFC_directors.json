@@ -1,7 +1,7 @@
 {
   "ticker": "IRFC",
   "company": "Indian Railway Finance Corporation Limited",
-  "collected_at": "2026-09-03 06:24:27",
+  "collected_at": "2026-09-04 06:36:16",
   "directors": [
     {
       "name": "Mr. Manoj Kumar Dubey",
@@ -9,6 +9,69 @@
       "age": 55,
       "year_born": 1970,
       "total_pay": 12700000
+    },
+    {
+      "name": "Mr. Vijay Babulal Shirode",
+      "role": "Joint GM of Law, Compliance Officer & Company Secretary",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": 3900000
+    },
+    {
+      "name": "Mr. Sunil Kumar Goel",
+      "role": "Executive Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 7900000
+    },
+    {
+      "name": "Ms. Deepa  Kotnis",
+      "role": "CFO & Executive Director of Finance",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Amarendra  Sahoo",
+      "role": "CTO, General Manager of IT & Convener",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Shwet Ketu Mishra",
+      "role": "Chief GM of Technology & Chief Information Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manish  Chandra",
+      "role": "Executive Director of HR & Admin",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sanjay  Jain",
+      "role": "Chief Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pranav Kumar Mallick",
+      "role": "Chief Vigilance Officer",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ajoy  Choudhury",
+      "role": "Chief Risk Officer",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": "N/A"
     }
   ]
 }

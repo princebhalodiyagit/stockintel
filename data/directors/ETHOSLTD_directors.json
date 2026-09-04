@@ -1,8 +1,36 @@
 {
   "ticker": "ETHOSLTD",
   "company": "Ethos Limited",
-  "collected_at": "2026-09-03 06:18:55",
+  "collected_at": "2026-09-04 06:29:11",
   "directors": [
+    {
+      "name": "Mr. Yashovardhan  Saboo Ahmedabad), B.A (Hons.)., MBA (IIM",
+      "role": "Chairman & Whole Time Director",
+      "age": 67,
+      "year_born": 1958,
+      "total_pay": 26600000
+    },
+    {
+      "name": "Mr. Pranav Shankar Saboo",
+      "role": "CEO, MD & Director",
+      "age": 37,
+      "year_born": 1988,
+      "total_pay": 71600000
+    },
+    {
+      "name": "Mr. Mukul Krishan Khanna",
+      "role": "Chief Operating Officer",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": 20800000
+    },
+    {
+      "name": "Mr. Munish  Gupta",
+      "role": "CFO & Executive Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
     {
       "name": "Ms. Priya  Grover",
       "role": "Company Secretary & Compliance Officer",

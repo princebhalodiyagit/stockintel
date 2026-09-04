@@ -1,7 +1,7 @@
 {
   "ticker": "INTERARCH",
   "company": "Interarch Building Solutions Limited",
-  "collected_at": "2026-09-03 06:24:12",
+  "collected_at": "2026-09-04 06:35:57",
   "directors": [
     {
       "name": "Mr. Manish Kumar Garg",
@@ -43,6 +43,34 @@
       "role": "President of Corporate Finance & Strategy",
       "age": 58,
       "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vikas  Kaushal",
+      "role": "President of Sales & Marketing",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mahesh  Verma",
+      "role": "President of Operations",
+      "age": 65,
+      "year_born": 1960,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Viraj  Nanda",
+      "role": "Executive Director",
+      "age": 29,
+      "year_born": 1996,
+      "total_pay": 5182000
+    },
+    {
+      "name": "Karthikeyan  S.",
+      "role": "Vice President of Sales & Marketing",
+      "age": 42,
+      "year_born": 1983,
       "total_pay": "N/A"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "ticker": "PARAGMILK",
   "company": "Parag Milk Foods Limited",
-  "collected_at": "2026-09-03 06:32:32",
+  "collected_at": "2026-09-04 06:46:39",
   "directors": [
     {
       "name": "Mr. Devendra Prakash Shah",
@@ -11,11 +11,67 @@
       "total_pay": 33000000
     },
     {
+      "name": "Mr. Virendra Lalbahadur Varma",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 42,
+      "year_born": 1983,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pritam Prakash Shah",
+      "role": "MD & Executive Director",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": 33000000
+    },
+    {
       "name": "Ms. Akshali Devendra Shah",
       "role": "Senior VP of Strategy - Sales & Marketing and Executive Director",
       "age": 33,
       "year_born": 1992,
       "total_pay": 18000000
+    },
+    {
+      "name": "Mr. Rakesh R. Kothari",
+      "role": "Chief Financial Officer",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rahul Kumar Srivastava",
+      "role": "Chief Operating Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Dhaval  Pandya",
+      "role": "Head of Accounts & Control",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Brian  D'Penha",
+      "role": "Head of Investor Relations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Pournima  Surve",
+      "role": "Head of Corporate Communications & Public Relations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Binod  Das",
+      "role": "Head of Sales",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "ticker": "RELIGARE",
   "company": "Religare Enterprises Limited",
-  "collected_at": "2026-09-03 06:35:06",
+  "collected_at": "2026-09-04 06:49:55",
   "directors": [
     {
       "name": "Mr. Pratul  Gupta",
@@ -60,17 +60,17 @@
       "total_pay": 12899657
     },
     {
+      "name": "Mr. Arjun  Lamba",
+      "role": "Whole Time Executive Director",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Pankaj Mahesh Kumar Rathi",
       "role": "CFO & Executive Director of Religare Housing Development Finance Corporation Limited",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Sunil Kumar Garg",
-      "role": "President of Treasury",
-      "age": 56,
-      "year_born": 1969,
       "total_pay": "N/A"
     }
   ]

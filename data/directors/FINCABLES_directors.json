@@ -1,7 +1,7 @@
 {
   "ticker": "FINCABLES",
   "company": "Finolex Cables Limited",
-  "collected_at": "2026-09-03 06:19:19",
+  "collected_at": "2026-09-04 06:29:42",
   "directors": [
     {
       "name": "Mr. Ratnakar Prakash Barve",
@@ -64,6 +64,13 @@
       "role": "Assistant Vice President of HR & IR",
       "age": 44,
       "year_born": 1981,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Nirnoy  Sur",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

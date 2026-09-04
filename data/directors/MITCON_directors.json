@@ -1,6 +1,70 @@
 {
   "ticker": "MITCON",
   "company": "MITCON Consultancy & Engineering Services Limited",
-  "collected_at": "2026-09-03 06:29:26",
-  "directors": []
+  "collected_at": "2026-09-04 06:42:40",
+  "directors": [
+    {
+      "name": "Mr. Anand Suryakant Chalwade",
+      "role": "MD & Director",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": 15888000
+    },
+    {
+      "name": "Mr. Ram Dhondiba Mapari",
+      "role": "CFO & President",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Harshad  Joshi",
+      "role": "President Energy Transition & COO",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Ankita  Agarwal",
+      "role": "SVP and Head of Compliance & Legal & Regional Head of Business Development & Strategy",
+      "age": 37,
+      "year_born": 1988,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Sandeep  Jadhav",
+      "role": "President of Environment Management Engineering",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pankaj  Deshmukh",
+      "role": "President of Financial Advisory Services",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Ganesh  Khamgal",
+      "role": "President of Skill Development",
+      "age": 43,
+      "year_born": 1982,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Dhawal  Marghade",
+      "role": "Senior President of Climate Change and Sustainability for Biofuel & Green Chemistry",
+      "age": 34,
+      "year_born": 1991,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Shailesh  Borwankar",
+      "role": "Assistant Vice President of HR",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 458328
+    }
+  ]
 }

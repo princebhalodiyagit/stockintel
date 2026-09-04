@@ -1,14 +1,14 @@
 {
   "ticker": "GOPAL",
-  "collected_at": "2026-09-03 06:20:56",
+  "collected_at": "2026-09-04 06:31:47",
   "company_info": {
     "name": "Gopal Snacks Limited",
     "sector": "Consumer Defensive",
     "industry": "Packaged Foods",
-    "market_cap": 33441873920,
-    "current_price": 268.25,
-    "pe_ratio": 39.85884,
-    "pb_ratio": 6.990774,
+    "market_cap": 33074104320,
+    "current_price": 265.3,
+    "pe_ratio": 39.4205,
+    "pb_ratio": 6.913895,
     "roe": "N/A",
     "debt_to_equity": 32.169,
     "revenue": 16083720192,
@@ -16,6 +16,6 @@
     "eps": 6.73,
     "52_week_high": 398.0,
     "52_week_low": 247.55,
-    "dividend_yield": 0.37
+    "dividend_yield": "N/A"
   }
 }

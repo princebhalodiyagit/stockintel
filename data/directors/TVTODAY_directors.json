@@ -1,7 +1,7 @@
 {
   "ticker": "TVTODAY",
   "company": "TV Today Network Limited",
-  "collected_at": "2026-09-03 06:42:02",
+  "collected_at": "2026-09-04 06:58:47",
   "directors": [
     {
       "name": "Mr. Aroon  Purie",
@@ -11,11 +11,67 @@
       "total_pay": 21820933
     },
     {
+      "name": "Ms. Kalli Purie Bhandal",
+      "role": "MD & Executive Vice Chairperson",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": 59930555
+    },
+    {
       "name": "Mr. Dinesh  Bhatia",
       "role": "Group Chief Executive Officer",
       "age": 60,
       "year_born": 1965,
       "total_pay": 31185923
+    },
+    {
+      "name": "Mr. Yatender Kumar Tyagi",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rehan  Kidwai",
+      "role": "Vice President of Operations",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ashish  Sabharwal",
+      "role": "Compliance Officer, Group Head - Secretarial & Company Secretary",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": 4849440
+    },
+    {
+      "name": "Mr. Vivek  Malhotra",
+      "role": "Group Chief Marketing Officer & COO of Consumer Revenue",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Navendu  Shekhar",
+      "role": "Head of Human Resources",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sahil  Joshi",
+      "role": "Bureau Chief",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Salil  Kumar",
+      "role": "Chief Executive Officer of Digital Business",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

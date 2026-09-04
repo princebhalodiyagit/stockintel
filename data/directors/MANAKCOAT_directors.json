@@ -1,7 +1,7 @@
 {
   "ticker": "MANAKCOAT",
   "company": "Manaksia Coated Metals & Industries Limited",
-  "collected_at": "2026-09-03 06:28:21",
+  "collected_at": "2026-09-04 06:41:16",
   "directors": [
     {
       "name": "Mr. Sushil Kumar Agrawal",
@@ -25,6 +25,13 @@
       "total_pay": 4800000
     },
     {
+      "name": "Mr. Tushar  Agarwal",
+      "role": "Senior Vice President",
+      "age": 31,
+      "year_born": 1994,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Venkata Srinarayana Addanki",
       "role": "Wholetime Director",
       "age": 55,
@@ -39,10 +46,31 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. Priyaranjan  Shrivastava",
+      "role": "General Manager of Finance & Accounts",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Ms. Shruti  Agarwal",
       "role": "Company Secretary & Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Prashant Kashyap Lanka",
+      "role": "General Manager of Sales and Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pawan  Kumar",
+      "role": "General Manager of Commercial",
+      "age": 48,
+      "year_born": 1977,
       "total_pay": "N/A"
     }
   ]

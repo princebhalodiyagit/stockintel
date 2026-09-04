@@ -1,7 +1,7 @@
 {
   "ticker": "ASALCBR",
   "company": "Associated Alcohols & Breweries Ltd.",
-  "collected_at": "2026-09-03 06:11:48",
+  "collected_at": "2026-09-04 06:19:56",
   "directors": [
     {
       "name": "Mr. Tushar  Bhandari",
@@ -9,6 +9,13 @@
       "age": 44,
       "year_born": 1981,
       "total_pay": 20560000
+    },
+    {
+      "name": "Mr. Anshuman  Kedia",
+      "role": "CEO & Whole Time Director",
+      "age": 32,
+      "year_born": 1993,
+      "total_pay": 60000000
     },
     {
       "name": "Mr. Prasann Kumar Kedia",
@@ -29,6 +36,20 @@
       "role": "Senior Vice President",
       "age": 58,
       "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ajay  Gautam",
+      "role": "Vice President",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Ravisha  Sanghi",
+      "role": "Assistant Vice President of ESG",
+      "age": 36,
+      "year_born": 1989,
       "total_pay": "N/A"
     }
   ]

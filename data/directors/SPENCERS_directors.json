@@ -1,7 +1,7 @@
 {
   "ticker": "SPENCERS",
   "company": "Spencer's Retail Limited",
-  "collected_at": "2026-09-03 06:38:46",
+  "collected_at": "2026-09-04 06:54:36",
   "directors": [
     {
       "name": "Mr. Anuj  Singh",
@@ -13,6 +13,13 @@
     {
       "name": "Mr. Manjir  Basu",
       "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Navin Kumar Rathi",
+      "role": "Company Secretary & Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

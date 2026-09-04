@@ -1,8 +1,22 @@
 {
   "ticker": "COFORGE",
   "company": "Coforge Limited",
-  "collected_at": "2026-09-03 06:15:58",
+  "collected_at": "2026-09-04 06:25:20",
   "directors": [
+    {
+      "name": "Mr. Sudhir  Singh",
+      "role": "CEO & Executive Director",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": 162479022
+    },
+    {
+      "name": "Mr. John Robert Speight",
+      "role": "President & Executive Director",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": 24197548
+    },
     {
       "name": "Mr. Saurabh  Goel",
       "role": "Chief Financial Officer",
@@ -32,10 +46,31 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. Vic  Gupta",
+      "role": "Chief Technology Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Madan  Mohan",
       "role": "Head of Enterprise Application Services",
       "age": 56,
       "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Anuradha  Sehgal",
+      "role": "Chief Brand & Sustainability Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Suvrata  Acharya",
+      "role": "BFS Vertical Delivery Head",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

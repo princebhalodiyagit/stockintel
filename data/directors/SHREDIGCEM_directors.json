@@ -1,7 +1,7 @@
 {
   "ticker": "SHREDIGCEM",
   "company": "Shree Digvijay Cement Co.Ltd",
-  "collected_at": "2026-09-03 06:37:38",
+  "collected_at": "2026-09-04 06:53:08",
   "directors": [
     {
       "name": "Mr. Anil Chandanmal Singhvi B.Com., F.C.A",
@@ -9,6 +9,20 @@
       "age": 66,
       "year_born": 1959,
       "total_pay": 37696980
+    },
+    {
+      "name": "Mr. Amit  Arora",
+      "role": "CEO, MD & Executive Director",
+      "age": 42,
+      "year_born": 1983,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vikas  Kumar",
+      "role": "President & CFO",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Suresh Kumar Meher",

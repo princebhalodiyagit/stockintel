@@ -1,7 +1,7 @@
 {
   "ticker": "IRMENERGY",
   "company": "IRM Energy Limited",
-  "collected_at": "2026-09-03 06:24:30",
+  "collected_at": "2026-09-04 06:36:20",
   "directors": [
     {
       "name": "Mr. Manoj Kumar Sharma",
@@ -23,6 +23,20 @@
       "age": 71,
       "year_born": 1954,
       "total_pay": 6290000
+    },
+    {
+      "name": "Mr. Ashish  Maheshwari",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Brajesh Kumar Singh",
+      "role": "Chief Operating Officer of Operations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     },
     {
       "name": "Ashish  Mittal",
@@ -55,13 +69,6 @@
     {
       "name": "Mr. Abhinand  Pandya",
       "role": "Chief Strategy Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Prakash Kumar Sinha",
-      "role": "Executive Vice President of O & M (PNG & CNG) and Technical",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

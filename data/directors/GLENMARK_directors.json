@@ -1,7 +1,7 @@
 {
   "ticker": "GLENMARK",
   "company": "Glenmark Pharmaceuticals Limited",
-  "collected_at": "2026-09-03 06:20:25",
+  "collected_at": "2026-09-04 06:31:07",
   "directors": [
     {
       "name": "Mr. Glenn Mario Saldanha",
@@ -11,31 +11,66 @@
       "total_pay": 192200000
     },
     {
-      "name": "Mr. Utkarsh  Gandhi",
-      "role": "Senior General Manager of Investor Relations",
+      "name": "Mr. Anurag  Mantri",
+      "role": "Global CFO & Executive Director",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": 97210000
+    },
+    {
+      "name": "Ms. Cherylann Maria Pinto B.Pharm",
+      "role": "Executive Director of Corporate Services & Executive Director",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": 65400000
+    },
+    {
+      "name": "Mr. Alind  Sharma",
+      "role": "President & Chief Human Resources Officer",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ulhas R. Dhuppad",
+      "role": "President & Head of Global Pharmaceutical Development",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Indrajit  Bose",
+      "role": "President & Chief Quality Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Samir Salauddin Kazi",
-      "role": "Executive VP & Head of Legal, Compliance & Intellectual Property",
-      "age": 50,
-      "year_born": 1975,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ms. Rashmi  Khandelwal",
-      "role": "Company Secretary & Compliance Officer",
+      "name": "Mr. Brijlal  Motwani",
+      "role": "President & Chief Quality Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
-      "name": "Ms. Shweta  Munjal",
-      "role": "Chief Communications & CSR Officer",
+      "name": "Mr. Alok  Malik",
+      "role": "President & Business Head of India Formulations",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Christoph  Stoller",
+      "role": "President and Business Head of Europe & Emerging Markets",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Marc T. Kikuchi B.A., M.B.A.",
+      "role": "President & Business Head of North America",
+      "age": 55,
+      "year_born": 1970,
       "total_pay": "N/A"
     }
   ]

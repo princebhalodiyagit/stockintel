@@ -1,7 +1,7 @@
 {
   "ticker": "SUPRAJIT",
   "company": "Suprajit Engineering Limited",
-  "collected_at": "2026-09-03 06:39:43",
+  "collected_at": "2026-09-04 06:55:49",
   "directors": [
     {
       "name": "Mr. Kula Ajith Kumar Rai B.E.",
@@ -32,6 +32,13 @@
       "total_pay": 18780000
     },
     {
+      "name": "Mr. Venkat  Subramaniam",
+      "role": "COO & President of India Operations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
       "name": "Ms. Bhargavi  Aithal",
       "role": "Senior Manager of Corporate Communications",
       "age": "N/A",
@@ -46,31 +53,24 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Praveen  Rao",
-      "role": "Chief Operating Officer of SED",
+      "name": "Mr. K. Narayana Shankar",
+      "role": "Chief Operating Officer of India Cables & Mechatronics",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. James Gerard Ryan",
+      "role": "President of Global Cables & Mechatronics",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Frank  Klinkert",
-      "role": "CEO of Trifa & Luxlite, MD of Luxlite Lamp SARL & Luxembourg and Trifa Lamps Germany GmbH",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Ashutosh  Rai",
-      "role": "Head of Suprajit Tech Centre",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Neil  Collis",
-      "role": "Managing Director of Suprajit Europe Ltd.",
-      "age": "N/A",
-      "year_born": "N/A",
+      "name": "Mr. Akhilesh Kumar Goel",
+      "role": "Chief Operating Officer of Phoenix Lighting & Electricals",
+      "age": 58,
+      "year_born": 1967,
       "total_pay": "N/A"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "ticker": "STYLEBAAZA",
   "company": "Baazar Style Retail Limited",
-  "collected_at": "2026-09-03 06:39:19",
+  "collected_at": "2026-09-04 06:55:19",
   "directors": [
     {
       "name": "Mr. Rohit  Kedia",
@@ -46,24 +46,31 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. Avishek  Prasad",
+      "role": "Head of General Merchandise",
+      "age": 30,
+      "year_born": 1995,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Dipti  Agarwal",
+      "role": "Chief Risk Officer",
+      "age": 37,
+      "year_born": 1988,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Siddhant  Khemani",
+      "role": "Head of E-commerce",
+      "age": 36,
+      "year_born": 1989,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Pradeep  Jajoria",
       "role": "Head of Category Planning",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Alok Kumar Prakash",
-      "role": "Head of Supply Chain Management",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Praveen Kumar Verma",
-      "role": "Vice President of Information Technology",
-      "age": 48,
-      "year_born": 1977,
       "total_pay": "N/A"
     }
   ]

@@ -1,8 +1,36 @@
 {
   "ticker": "BANCOINDIA",
   "company": "Banco Products (I) Limited",
-  "collected_at": "2026-09-03 06:13:11",
+  "collected_at": "2026-09-04 06:21:41",
   "directors": [
+    {
+      "name": "Mr. Sharan Mehul Patel",
+      "role": "Whole Time Director",
+      "age": 30,
+      "year_born": 1995,
+      "total_pay": 91122000
+    },
+    {
+      "name": "Mr. Sachin Jayantilal Kotak",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Vikram  Govind",
+      "role": "President of Operations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Venkata Ranganath Kumar Sarni",
+      "role": "Additional Whole-time Director & CTO",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 10651000
+    },
     {
       "name": "Mr. Robert  Christy",
       "role": "General Manager of IR & HR",

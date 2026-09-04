@@ -1,7 +1,7 @@
 {
   "ticker": "NITINSPIN",
   "company": "Nitin Spinners Limited",
-  "collected_at": "2026-09-03 06:31:16",
+  "collected_at": "2026-09-04 06:45:04",
   "directors": [
     {
       "name": "Mr. Dinesh  Nolkha",
@@ -25,10 +25,52 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. Vivek  Tripathi",
+      "role": "Vice President of Technical",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Umesh  Toshniwal",
       "role": "Joint President of Marketing",
       "age": 53,
       "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anil Kumar Jain",
+      "role": "Joint President of Commercial",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pratyush  Nolakha",
+      "role": "Executive Director",
+      "age": 27,
+      "year_born": 1998,
+      "total_pay": 2957000
+    },
+    {
+      "name": "Mr. Ramesh  Chand Mishra",
+      "role": "Vice President of Processing",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Inderjeet  Singh",
+      "role": "Vice President of Spinning",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sandeep  Garg",
+      "role": "President & COO",
+      "age": 54,
+      "year_born": 1971,
       "total_pay": "N/A"
     }
   ]

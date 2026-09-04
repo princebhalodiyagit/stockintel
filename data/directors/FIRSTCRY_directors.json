@@ -1,8 +1,15 @@
 {
   "ticker": "FIRSTCRY",
   "company": "Brainbees Solutions Limited",
-  "collected_at": "2026-09-03 06:19:24",
+  "collected_at": "2026-09-04 06:29:48",
   "directors": [
+    {
+      "name": "Mr. Supam Satyanarayan Maheshwari",
+      "role": "Co-Founder, MD, CEO & Director",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": 44500000
+    },
     {
       "name": "Mr. Gautam  Sharma",
       "role": "Chief Financial Officer",
@@ -11,22 +18,15 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Prashant  Jadhav",
-      "role": "Chief Technology Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Mandar  Joshi",
-      "role": "Company Secretary & Compliance Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
       "name": "Ms. Manjula  Rao",
       "role": "Chief Human Resources Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Abhinav  Sharma",
+      "role": "Country Head \u0096 ME, Firstcry Management",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

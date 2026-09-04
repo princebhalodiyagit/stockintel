@@ -1,7 +1,7 @@
 {
   "ticker": "CHENNPETRO",
   "company": "Chennai Petroleum Corporation Limited",
-  "collected_at": "2026-09-03 06:15:35",
+  "collected_at": "2026-09-04 06:24:51",
   "directors": [
     {
       "name": "Mr. H.  Shankar",
@@ -36,6 +36,13 @@
       "role": "Company Secretary & Compliance Officer",
       "age": 46,
       "year_born": 1979,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "K  Rajasekaran",
+      "role": "Chief General Manager of Marketing & Information Systems",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     },
     {

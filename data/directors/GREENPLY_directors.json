@@ -1,8 +1,36 @@
 {
   "ticker": "GREENPLY",
   "company": "Greenply Industries Limited",
-  "collected_at": "2026-09-03 06:21:13",
+  "collected_at": "2026-09-04 06:32:09",
   "directors": [
+    {
+      "name": "Mr. Rajesh  Mittal B.Com",
+      "role": "Executive Chairman & MD",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": 42598523
+    },
+    {
+      "name": "Mr. Sanidhya  Mittal",
+      "role": "Joint MD & Executive Director",
+      "age": 33,
+      "year_born": 1992,
+      "total_pay": 14506523
+    },
+    {
+      "name": "Mr. Sanjiv  Keshri",
+      "role": "CFO & Chief Investor Relations Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kaushal Kumar Agarwal",
+      "role": "Senior VP of Legal, Compliance Officer & Company Secretary",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": "N/A"
+    },
     {
       "name": "Mr. Sanjay  Jain",
       "role": "Senior Vice President of Accounts & Taxations",
@@ -18,24 +46,31 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. Nagendra  Acharya",
+      "role": "Senior Vice President of HR & Admin",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Bharath  Rao",
+      "role": "Executive Vice President of Sales",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ashok  Jaiswar",
+      "role": "Senior Vice President of Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Yogesh  Arora B.Sc.",
       "role": "President of Sales & Marketing - EPD",
       "age": 68,
       "year_born": 1957,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Ashok  Parekh",
-      "role": "Chief Executive Engineer - EPD",
-      "age": 67,
-      "year_born": 1958,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Subhash Kumar Agarwal",
-      "role": "Senior Vice President of Operations - EPD",
-      "age": 65,
-      "year_born": 1960,
       "total_pay": "N/A"
     }
   ]

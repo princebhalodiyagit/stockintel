@@ -1,7 +1,7 @@
 {
   "ticker": "METROBRAND",
   "company": "Metro Brands Limited",
-  "collected_at": "2026-09-03 06:29:10",
+  "collected_at": "2026-09-04 06:42:19",
   "directors": [
     {
       "name": "Mr. Nissan  Joseph",
@@ -13,13 +13,6 @@
     {
       "name": "Mr. Kaushal Khodidas Parekh",
       "role": "Chief Financial Officer",
-      "age": 46,
-      "year_born": 1979,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ms. Deepa  Sood",
-      "role": "Senior VP of Legal, Company Secretary & Compliance Officer",
       "age": 46,
       "year_born": 1979,
       "total_pay": "N/A"
@@ -60,15 +53,22 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Tajdin Mohamedali Gilani",
-      "role": "Vice President - IT",
-      "age": 65,
-      "year_born": 1960,
+      "name": "Mr. Atul  Sinha",
+      "role": "President",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Atul  Sinha",
-      "role": "President",
+      "name": "Mr. Mohit  Dhanjal",
+      "role": "Chief Operating Officer",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Arun  Pillay",
+      "role": "Assistant Vice President of BD Projects & Administration",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

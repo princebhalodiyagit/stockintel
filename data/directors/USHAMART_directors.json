@@ -1,6 +1,77 @@
 {
   "ticker": "USHAMART",
   "company": "Usha Martin Limited",
-  "collected_at": "2026-09-03 06:42:35",
-  "directors": []
+  "collected_at": "2026-09-04 06:59:30",
+  "directors": [
+    {
+      "name": "Mr. Rajeev  Jhawar",
+      "role": "MD & Executive Director",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": 39693000
+    },
+    {
+      "name": "Mr. Abhijit  Paul",
+      "role": "Chief Financial Officer",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": 10200000
+    },
+    {
+      "name": "Mr. Manish  Agarwal",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 5500000
+    },
+    {
+      "name": "Mr. Chirantan  Chatterjee",
+      "role": "President of Sales & Marketing and Whole Time Director",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": 9503000
+    },
+    {
+      "name": "Mr. Sharng Bhrit Prasanna Bhanu Pratap Narayan Sharma",
+      "role": "Whole Time Director",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": 13613000
+    },
+    {
+      "name": "Murari Lal Rathi",
+      "role": "Vice President of Accounts & Commercial",
+      "age": 67,
+      "year_born": 1958,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jeffrey  Schipani",
+      "role": "President of Usha Martin Americas Inc",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Santanu  Das",
+      "role": "Assistant Vice President of Sales & Marketing",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ranajit  Chakraborty",
+      "role": "Vice President of Power Plant",
+      "age": 66,
+      "year_born": 1959,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Rajesh  Dutta",
+      "role": "General Manager of Information Technology",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    }
+  ]
 }

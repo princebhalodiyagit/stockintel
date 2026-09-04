@@ -1,14 +1,14 @@
 {
   "ticker": "SIL",
-  "collected_at": "2026-09-03 06:37:59",
+  "collected_at": "2026-09-04 06:53:34",
   "company_info": {
     "name": "Standard Industries Limited",
     "sector": "Consumer Cyclical",
     "industry": "Textile Manufacturing",
-    "market_cap": 1254414336,
-    "current_price": 19.5,
-    "pe_ratio": 2.0249221,
-    "pb_ratio": 1.0901773,
+    "market_cap": 1247981440,
+    "current_price": 19.4,
+    "pe_ratio": 2.0145378,
+    "pb_ratio": 1.0845866,
     "roe": "N/A",
     "debt_to_equity": 3.137,
     "revenue": 2164089088,
@@ -16,6 +16,6 @@
     "eps": 9.63,
     "52_week_high": 22.3,
     "52_week_low": 11.7,
-    "dividend_yield": 2.53
+    "dividend_yield": 2.54
   }
 }

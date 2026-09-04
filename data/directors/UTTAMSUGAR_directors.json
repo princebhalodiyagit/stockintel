@@ -1,7 +1,7 @@
 {
   "ticker": "UTTAMSUGAR",
   "company": "Uttam Sugar Mills Limited",
-  "collected_at": "2026-09-03 06:42:39",
+  "collected_at": "2026-09-04 06:59:35",
   "directors": [
     {
       "name": "Mr. Raj Kumar Adlakha B.E.(Mach.)",
@@ -50,6 +50,20 @@
       "role": "Senior Vice President of Shermau Unit",
       "age": 52,
       "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vikas  Thakur",
+      "role": "Acting Unit Head of Khaikheri Unit",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jai Narain Sharma",
+      "role": "Technical Advisor",
+      "age": 77,
+      "year_born": 1948,
       "total_pay": "N/A"
     }
   ]

@@ -1,14 +1,28 @@
 {
   "ticker": "XCHANGING",
   "company": "Xchanging Solutions Limited",
-  "collected_at": "2026-09-03 06:44:09",
+  "collected_at": "2026-09-04 07:01:32",
   "directors": [
+    {
+      "name": "Mr. Swaminathan  Swaminathan",
+      "role": "MD, CEO & Executive Director",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": "N/A"
+    },
     {
       "name": "Mr. Shrenik Kumar Champalal",
       "role": "CFO & Whole-Time Executive Director",
       "age": 49,
       "year_born": 1976,
       "total_pay": 6740000
+    },
+    {
+      "name": "Ms. Radhika  Khurana",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 35,
+      "year_born": 1990,
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Lokendra Kumar Sethi",

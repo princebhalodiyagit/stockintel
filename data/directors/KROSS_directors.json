@@ -1,7 +1,7 @@
 {
   "ticker": "KROSS",
   "company": "Kross Limited",
-  "collected_at": "2026-09-03 06:27:00",
+  "collected_at": "2026-09-04 06:39:31",
   "directors": [
     {
       "name": "Mr. Sudhir  Rai",
@@ -16,6 +16,62 @@
       "age": 33,
       "year_born": 1992,
       "total_pay": 2400000
+    },
+    {
+      "name": "Mr. Sumeet  Rai",
+      "role": "Whole-time Director",
+      "age": 37,
+      "year_born": 1988,
+      "total_pay": 2400000
+    },
+    {
+      "name": "Ms. Anita  Rai",
+      "role": "Whole-time Director",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": 2400000
+    },
+    {
+      "name": "Mr. Rama Kant Giri",
+      "role": "General Manager (HR) & Admin",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Debolina  Karmakar",
+      "role": "Company Secretary & Chief Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 730000
+    },
+    {
+      "name": "Mr. Sandeep  Kumar",
+      "role": "General Manager of Sales",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Satish Sitaram Bansode",
+      "role": "COO \u0096 Tipping Jacks",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Bhupendrakumar Williyambhai Makwana",
+      "role": "General Manager of Foundry",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dipak  Rai",
+      "role": "Executive",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

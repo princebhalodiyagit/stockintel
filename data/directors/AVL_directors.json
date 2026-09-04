@@ -1,8 +1,29 @@
 {
   "ticker": "AVL",
   "company": "Aditya Vision Limited",
-  "collected_at": "2026-09-03 06:12:33",
+  "collected_at": "2026-09-04 06:20:52",
   "directors": [
+    {
+      "name": "Mr. Yashovardhan  Sinha",
+      "role": "Promoter, Executive Chairman & MD",
+      "age": 67,
+      "year_born": 1958,
+      "total_pay": 24000000
+    },
+    {
+      "name": "Mr. Nishant  Prabhakar",
+      "role": "Promoter & Whole Time Executive Director",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": 12000000
+    },
+    {
+      "name": "Ms. Yosham  Vardhan",
+      "role": "Promoter & Whole Time Executive Director",
+      "age": 37,
+      "year_born": 1988,
+      "total_pay": 6000000
+    },
     {
       "name": "Mr. Vikash  Kumar",
       "role": "Chief Financial Officer",
@@ -15,6 +36,13 @@
       "role": "Company Secretary & Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ajay  Kumar",
+      "role": "President of Corporate Affairs",
+      "age": 65,
+      "year_born": 1960,
       "total_pay": "N/A"
     }
   ]

@@ -1,6 +1,63 @@
 {
   "ticker": "EIDPARRY",
   "company": "EID Parry India Limited",
-  "collected_at": "2026-09-03 06:18:09",
-  "directors": []
+  "collected_at": "2026-09-04 06:28:12",
+  "directors": [
+    {
+      "name": "Mr. Muthiah  Murugappan",
+      "role": "CEO & Whole-Time Director",
+      "age": 42,
+      "year_born": 1983,
+      "total_pay": 40607668
+    },
+    {
+      "name": "Mr. Yelisetty  Venkateshwarlu",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. V. R. Chandrasekar",
+      "role": "Senior Assistant VP & Chief Information Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. A. Stephen Francis",
+      "role": "Senior Assistant Vice President of HR & IR",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Biswa Mohan Rath",
+      "role": "Company Secretary, Compliance Officer & Senior VP of Legal",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 5476000
+    },
+    {
+      "name": "Mr. M.  Balaji",
+      "role": "Senior VP & Head of Manufacturing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Abdul Hakeem Ashiq J",
+      "role": "Chief Operating Officer of Sugar & Bio-fuel",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. S.  Ramakrishnan",
+      "role": "Business Head of Nutraceuticals",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

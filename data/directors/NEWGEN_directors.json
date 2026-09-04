@@ -1,7 +1,7 @@
 {
   "ticker": "NEWGEN",
   "company": "Newgen Software Technologies Limited",
-  "collected_at": "2026-09-03 06:30:55",
+  "collected_at": "2026-09-04 06:44:37",
   "directors": [
     {
       "name": "Mr. Diwakar  Nigam",
@@ -18,6 +18,13 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. T. S. Varadarajan",
+      "role": "Co-Founder, Whole-Time Director & Vice Chairman of the Board",
+      "age": 73,
+      "year_born": 1952,
+      "total_pay": 46663817
+    },
+    {
       "name": "Mr. Arun Kumar Gupta",
       "role": "Chief Financial Officer",
       "age": 56,
@@ -32,45 +39,10 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Dr. Surender Jeet Raj",
-      "role": "Executive Vice President of Global Business Strategy & HR",
-      "age": 67,
-      "year_born": 1958,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ms. Priyadarshini  Nigam",
-      "role": "Whole-Time Director",
-      "age": 68,
-      "year_born": 1957,
-      "total_pay": 28585868
-    },
-    {
-      "name": "Mr. Atin  Kumar",
-      "role": "Head of Global Delivery",
-      "age": 50,
-      "year_born": 1975,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Ashok  Kapoor",
-      "role": "Head of Marketing",
-      "age": 60,
-      "year_born": 1965,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Vivek  Bhatnagar",
-      "role": "Senior Vice President of Sales - MEA & Head of Sales International",
-      "age": 55,
-      "year_born": 1970,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Sunil  Pandita",
-      "role": "Senior VP of Sales - India & South Asia and Head of Domestic Sales",
-      "age": 53,
-      "year_born": 1972,
+      "name": "Mr. Virender  Jeet",
+      "role": "Executive Officer",
+      "age": 56,
+      "year_born": 1969,
       "total_pay": "N/A"
     }
   ]

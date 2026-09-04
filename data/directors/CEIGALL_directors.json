@@ -1,7 +1,7 @@
 {
   "ticker": "CEIGALL",
   "company": "Ceigall India Limited",
-  "collected_at": "2026-09-03 06:15:11",
+  "collected_at": "2026-09-04 06:24:20",
   "directors": [
     {
       "name": "Mr. Kapil  Aggarwal",
@@ -20,6 +20,13 @@
     {
       "name": "Ms. Megha  Kainth",
       "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ayyalusamy  Saravanan",
+      "role": "Whole-Time Director, CEO & Chief Risk Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

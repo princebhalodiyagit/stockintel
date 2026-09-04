@@ -1,14 +1,63 @@
 {
   "ticker": "HALDYNGL",
   "company": "Haldyn Glass Limited",
-  "collected_at": "2026-09-03 06:21:43",
+  "collected_at": "2026-09-04 06:32:48",
   "directors": [
+    {
+      "name": "Mr. Narendra Dejoo Shetty",
+      "role": "Founder & Executive Chairman",
+      "age": 85,
+      "year_born": 1940,
+      "total_pay": 21028000
+    },
     {
       "name": "Mr. Tarun Narendra Shetty",
       "role": "MD & Executive Director",
       "age": 51,
       "year_born": 1974,
       "total_pay": 35858000
+    },
+    {
+      "name": "Mr. Niraj Ramesh Tipre",
+      "role": "Chief Executive Officer",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jitendra  Karamchandani",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manraj  Meena",
+      "role": "Head of Technical Operations",
+      "age": 36,
+      "year_born": 1989,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Dhruv Jignesh Mehta",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 30,
+      "year_born": 1995,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anil  Sharma",
+      "role": "Senior Vice President of Sales & Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Narendra A. Shetty B.E., M.B.A.",
+      "role": "Vice President of Supply Chain Commercial",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": 18788000
     }
   ]
 }

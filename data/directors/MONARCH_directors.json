@@ -1,7 +1,7 @@
 {
   "ticker": "MONARCH",
   "company": "Monarch Networth Capital Limited",
-  "collected_at": "2026-09-03 06:29:44",
+  "collected_at": "2026-09-04 06:43:04",
   "directors": [
     {
       "name": "Ms. Manju Suresh Bafna B.Sc.",
@@ -16,6 +16,20 @@
       "age": 45,
       "year_born": 1980,
       "total_pay": 42834000
+    },
+    {
+      "name": "Mr. Govinda  Meghani",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 3755000
+    },
+    {
+      "name": "Mr. Vaibhav Jayantilal Shah B.Sc.",
+      "role": "MD & Non-Independent Executive Director",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": 2978400
     },
     {
       "name": "Mr. Ashok Daulatraj Bafna B.Com.",
@@ -39,8 +53,22 @@
       "total_pay": 2039000
     },
     {
+      "name": "Mr. Bankim Jayantilal Shah B.Com.",
+      "role": "Chief Operating Officer",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Smit  Shah",
       "role": "Equity Research Analyst",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Dhruv  Joglekar",
+      "role": "Fund Manager",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

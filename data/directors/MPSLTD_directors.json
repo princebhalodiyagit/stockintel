@@ -1,7 +1,7 @@
 {
   "ticker": "MPSLTD",
   "company": "MPS Limited",
-  "collected_at": "2026-09-03 06:29:54",
+  "collected_at": "2026-09-04 06:43:17",
   "directors": [
     {
       "name": "Mr. Rahul  Arora",
@@ -16,6 +16,20 @@
       "age": 46,
       "year_born": 1979,
       "total_pay": 11962000
+    },
+    {
+      "name": "Mr. Vijendra Narendra Kumar",
+      "role": "Chief Technology Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Papinani Radha Rani",
+      "role": "Chief Risk Officer & General Counsel",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     },
     {
       "name": "Ms. Deepti  Singh",
@@ -55,20 +69,6 @@
     {
       "name": "Mr. David  Goodman",
       "role": "Managing Director of North America",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Archana  Jayaraj",
-      "role": "Chief Operating Officer of MPS Interactive & MPS Europa",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ms. Christine  Miranda",
-      "role": "Senior Vice President of Research Solutions",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

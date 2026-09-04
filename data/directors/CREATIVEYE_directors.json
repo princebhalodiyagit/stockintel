@@ -1,7 +1,7 @@
 {
   "ticker": "CREATIVEYE",
   "company": "Creative Eye Limited",
-  "collected_at": "2026-09-03 06:16:19",
+  "collected_at": "2026-09-04 06:25:47",
   "directors": [
     {
       "name": "Ms. Zuby  Kochhar",
@@ -11,8 +11,29 @@
       "total_pay": 2071720
     },
     {
+      "name": "Mr. Ashutosh Dheeraj kumar Kochhar",
+      "role": "Managing Director",
+      "age": 23,
+      "year_born": 2002,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Pranita  Khopkar",
       "role": "Head of Accounts",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manoj Ramesh Kalgutkar",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Sandhya  Riaz",
+      "role": "Head of Ideation",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

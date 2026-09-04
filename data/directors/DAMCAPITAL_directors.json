@@ -1,7 +1,7 @@
 {
   "ticker": "DAMCAPITAL",
   "company": "Dam Capital Advisors Limited",
-  "collected_at": "2026-09-03 06:16:40",
+  "collected_at": "2026-09-04 06:26:15",
   "directors": [
     {
       "name": "Mr. Dharmesh Anil Mehta",
@@ -29,6 +29,13 @@
       "role": "Managing Director of Governance & Strategy",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Dhvanil Sanjiv Dharia",
+      "role": "Whole Time Director",
+      "age": 35,
+      "year_born": 1990,
       "total_pay": "N/A"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "ticker": "LORDSCHLO",
   "company": "Lords Chloro Alkali Limited",
-  "collected_at": "2026-09-03 06:27:43",
+  "collected_at": "2026-09-04 06:40:27",
   "directors": [
     {
       "name": "Mr. Ajay  Virmani",
@@ -16,6 +16,27 @@
       "age": 65,
       "year_born": 1960,
       "total_pay": 6224376
+    },
+    {
+      "name": "Mr. Madhav  Dhir",
+      "role": "Executive Director",
+      "age": 33,
+      "year_born": 1992,
+      "total_pay": 35445304
+    },
+    {
+      "name": "Mr. Rajiv  Kumar",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 1993500
+    },
+    {
+      "name": "Mr. Pankaj  Mishra",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

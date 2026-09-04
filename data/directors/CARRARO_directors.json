@@ -1,8 +1,15 @@
 {
   "ticker": "CARRARO",
   "company": "Carraro India Limited",
-  "collected_at": "2026-09-03 06:15:01",
+  "collected_at": "2026-09-04 06:24:07",
   "directors": [
+    {
+      "name": "Mr. Balaji  Gopalan",
+      "role": "Managing Director",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": 48880000
+    },
     {
       "name": "Mr. Davide  Grossi",
       "role": "CFO & Whole-Time Director",

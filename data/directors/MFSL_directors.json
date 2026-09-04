@@ -1,8 +1,15 @@
 {
   "ticker": "MFSL",
   "company": "Max Financial Services Limited",
-  "collected_at": "2026-09-03 06:29:14",
+  "collected_at": "2026-09-04 06:42:24",
   "directors": [
+    {
+      "name": "Mr. Analjit  Singh BA, BS, MBA",
+      "role": "Founder & Non-Executive Chairman",
+      "age": 71,
+      "year_born": 1954,
+      "total_pay": 1000000
+    },
     {
       "name": "Mr. Venkatraman  Krishnan",
       "role": "Manager",
@@ -57,6 +64,13 @@
       "role": "Chief Executive Officer of Antara Senior Living",
       "age": 38,
       "year_born": 1987,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sumit  Madan",
+      "role": "MD and CEO Axis Max Life Insurance Limited",
+      "age": 48,
+      "year_born": 1977,
       "total_pay": "N/A"
     }
   ]

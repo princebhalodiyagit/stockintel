@@ -1,7 +1,7 @@
 {
   "ticker": "DELHIVERY",
   "company": "Delhivery Limited",
-  "collected_at": "2026-09-03 06:17:06",
+  "collected_at": "2026-09-04 06:26:51",
   "directors": [
     {
       "name": "Mr. Sahil  Barua",
@@ -16,6 +16,20 @@
       "age": 47,
       "year_born": 1978,
       "total_pay": 106440000
+    },
+    {
+      "name": "Mr. Mohit  Tandon",
+      "role": "Co-Founder & Chief Strategy Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 5790000
+    },
+    {
+      "name": "Mr. Suraj  Saharan",
+      "role": "Co-Founder, Chief People Officer & Executive Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 82470000
     },
     {
       "name": "Mr. Bhavesh Kishor Manglani",
@@ -55,20 +69,6 @@
     {
       "name": "Ms. Kavya  Shetty",
       "role": "Head of Corporate Development",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Vikas  Kapoor",
-      "role": "Chief Strategy Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Firoze Zia Hussain",
-      "role": "Chief Security Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

@@ -1,15 +1,8 @@
 {
   "ticker": "DIAMONDYD",
   "company": "Prataap Snacks Limited",
-  "collected_at": "2026-09-03 06:17:25",
+  "collected_at": "2026-09-04 06:27:15",
   "directors": [
-    {
-      "name": "Mr. Arvind Kumar Mehta",
-      "role": "Executive Chairman",
-      "age": 58,
-      "year_born": 1967,
-      "total_pay": 10800000
-    },
     {
       "name": "Mr. Amit Kumar Kumat",
       "role": "Founder, MD, CEO & Director",
@@ -71,6 +64,13 @@
       "role": "Business Head - (North & East) and Avadh",
       "age": 35,
       "year_born": 1990,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kunal  Budhiraja",
+      "role": "Head of Demand Planning & SCM",
+      "age": 41,
+      "year_born": 1984,
       "total_pay": "N/A"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "ticker": "LEMONTREE",
   "company": "Lemon Tree Hotels Limited",
-  "collected_at": "2026-09-03 06:27:24",
+  "collected_at": "2026-09-04 06:40:03",
   "directors": [
     {
       "name": "Mr. Patanjali Govind Keswani",
@@ -11,24 +11,66 @@
       "total_pay": 68934000
     },
     {
-      "name": "Mr. Vivek  Jhawar",
-      "role": "Senior Vice President of Business Development",
+      "name": "Mr. Neelendra  Singh",
+      "role": "MD & Additional Director",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": 15555000
+    },
+    {
+      "name": "Mr. Vishvapreet Singh Cheema",
+      "role": "President",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Kartikeya Kumar Singh",
-      "role": "Chief Digital & Transformation Officer",
+      "name": "Mr. Kapil  Sharma",
+      "role": "Executive VP of Finance, CFO & Executive Director",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": 20940000
+    },
+    {
+      "name": "Mr. Ajai  Kumar",
+      "role": "Senior VP & Chief Information Officer",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pawan Kumar Kumawat",
+      "role": "Company Secretary & Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Saurabh  Shatdal",
-      "role": "CEO of Fleur Hotels Limited",
-      "age": "N/A",
-      "year_born": "N/A",
+      "name": "Mr. Davander Singh Tomar",
+      "role": "Executive Vice President of Corporate Affairs",
+      "age": 64,
+      "year_born": 1961,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Sareena  Kochar",
+      "role": "Senior Vice President of Housekeeping",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Ritu  Ranjan",
+      "role": "Senior Vice President of Aesthetics & Design",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Aradhana  Lal",
+      "role": "Senior Vice President of Sustainability & ESG",
+      "age": 55,
+      "year_born": 1970,
       "total_pay": "N/A"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "ticker": "DHAMPURSUG",
   "company": "Dhampur Sugar Mills Limited",
-  "collected_at": "2026-09-03 06:17:17",
+  "collected_at": "2026-09-04 06:27:05",
   "directors": [
     {
       "name": "Mr. Ashok Kumar Goel",
@@ -9,6 +9,20 @@
       "age": 79,
       "year_born": 1946,
       "total_pay": 37403159
+    },
+    {
+      "name": "Mr. Gaurav  Goel",
+      "role": "MD & Vice Chairman",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": 34580784
+    },
+    {
+      "name": "Mr. Subhash  Pandey",
+      "role": "President & Whole Time Director",
+      "age": 71,
+      "year_born": 1954,
+      "total_pay": 8000000
     },
     {
       "name": "Mr. Susheel Kumar Mehrotra",
@@ -26,7 +40,7 @@
     },
     {
       "name": "Ms. Aparna  Goel",
-      "role": "Compliance Officer, Assistant GM of Corporate Affairs & Company Secretary",
+      "role": "Compliance Officer, GM of Corporate Affairs & Company Secretary",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
@@ -46,7 +60,7 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Vineet  Gupta",
+      "name": "Mr. Vineet Kumar Gupta",
       "role": "President of Finance",
       "age": "N/A",
       "year_born": "N/A",
@@ -54,7 +68,7 @@
     },
     {
       "name": "Mr. Upendra  Kumar",
-      "role": "Head of the Rajpura Unit",
+      "role": "GM & Head of the Rajpura Unit",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

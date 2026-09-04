@@ -1,6 +1,49 @@
 {
   "ticker": "BSL",
   "company": "BSL Limited",
-  "collected_at": "2026-09-03 06:14:40",
-  "directors": []
+  "collected_at": "2026-09-04 06:23:40",
+  "directors": [
+    {
+      "name": "Mr. Arun Kumar Churiwal",
+      "role": "Executive Chairman",
+      "age": 75,
+      "year_born": 1950,
+      "total_pay": 23564617
+    },
+    {
+      "name": "Mr. Nivedan  Churiwal",
+      "role": "MD & Whole-Time Director",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": 21471768
+    },
+    {
+      "name": "Mr. Praveen Kumar Jain B.Sc., B.Tech, BCom, CS, F.C.A., F.C.M.A., FCS, LL",
+      "role": "CFO, Director of Operations & Director",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": 16467700
+    },
+    {
+      "name": "Mr. Shubham  Jain",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Arun  Shraff",
+      "role": "Vice President of Furnishing",
+      "age": 64,
+      "year_born": 1961,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sanjay  Tripathi",
+      "role": "Sr. General Manager of IR & HR",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

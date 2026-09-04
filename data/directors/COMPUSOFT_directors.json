@@ -1,7 +1,7 @@
 {
   "ticker": "COMPUSOFT",
   "company": "Compucom Software Limited",
-  "collected_at": "2026-09-03 06:16:02",
+  "collected_at": "2026-09-04 06:25:25",
   "directors": [
     {
       "name": "Mr. Surendra Kumar Surana",
@@ -23,6 +23,13 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vaibhav  Suranaa",
+      "role": "Whole Time Director",
+      "age": 32,
+      "year_born": 1993,
+      "total_pay": 2360592
     },
     {
       "name": "Mr. Deepak  Upadhyay",

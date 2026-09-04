@@ -1,14 +1,14 @@
 {
   "ticker": "ASHIANA",
-  "collected_at": "2026-09-03 06:11:50",
+  "collected_at": "2026-09-04 06:19:58",
   "company_info": {
     "name": "Ashiana Housing Limited",
     "sector": "Real Estate",
     "industry": "Real Estate - Development",
-    "market_cap": 37043408896,
-    "current_price": 368.5,
-    "pe_ratio": 30.606312,
-    "pb_ratio": 4.068452,
+    "market_cap": 36957962240,
+    "current_price": 367.65,
+    "pe_ratio": 30.535713,
+    "pb_ratio": 4.0590672,
     "roe": 0.14333999,
     "debt_to_equity": 35.119,
     "revenue": 9579200512,
@@ -16,6 +16,6 @@
     "eps": 12.04,
     "52_week_high": 435.9,
     "52_week_low": 269.45,
-    "dividend_yield": 0.69
+    "dividend_yield": "N/A"
   }
 }

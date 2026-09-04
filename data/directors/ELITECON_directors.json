@@ -1,13 +1,41 @@
 {
   "ticker": "ELITECON",
   "company": "Elitecon International Limited",
-  "collected_at": "2026-09-03 06:18:25",
+  "collected_at": "2026-09-04 06:28:32",
   "directors": [
     {
       "name": "Mr. Vipin  Sharma",
       "role": "MD & Additional Executive Director",
       "age": 58,
       "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kusha Charan Swain",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Purva  Jhanwar",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pradeep  Kumar",
+      "role": "MD & Additional Executive Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Paramjeet Singh Gulati",
+      "role": "Additional Executive Director",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

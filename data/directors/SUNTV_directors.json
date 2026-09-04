@@ -1,7 +1,7 @@
 {
   "ticker": "SUNTV",
   "company": "Sun TV Network Limited",
-  "collected_at": "2026-09-03 06:39:40",
+  "collected_at": "2026-09-04 06:55:45",
   "directors": [
     {
       "name": "Mr. Kalanithi  Maran",
@@ -9,6 +9,34 @@
       "age": 60,
       "year_born": 1965,
       "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajaraman  Mahesh kumar",
+      "role": "President, MD & Executive Director",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": 22710800
+    },
+    {
+      "name": "Mr. Krishnaswamy  Vijaykumar",
+      "role": "Executive Director",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": 16139600
+    },
+    {
+      "name": "Ms. Kavery Kalanithi Maran",
+      "role": "Executive Director",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": 875039600
+    },
+    {
+      "name": "Ms. Kaviya Kalanithi Maran",
+      "role": "Executive Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 14039600
     },
     {
       "name": "Mr. V. C. Unnikrishnan FCA, FCS, FICWA",
@@ -43,34 +71,6 @@
       "role": "Vice President of Marketing",
       "age": 85,
       "year_born": 1940,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. S. L. Narayanan",
-      "role": "Group Chief Financial Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Vipin  Unni",
-      "role": "Senior VP & Head of Strategy-Programming and Communications",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ms. Shilpa  Javeri",
-      "role": "Head of Content",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ms. Aparna  Bhosle",
-      "role": "Head of HGEC/RHSM Channels & Strategic Alliances",
-      "age": 52,
-      "year_born": 1973,
       "total_pay": "N/A"
     }
   ]

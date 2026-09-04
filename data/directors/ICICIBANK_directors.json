@@ -1,6 +1,77 @@
 {
   "ticker": "ICICIBANK",
   "company": "ICICI Bank Limited",
-  "collected_at": "2026-09-03 06:23:00",
-  "directors": []
+  "collected_at": "2026-09-04 06:34:25",
+  "directors": [
+    {
+      "name": "Mr. Sandeep  Bakhshi B.E.",
+      "role": "MD, CEO & Executive Director",
+      "age": 65,
+      "year_born": 1960,
+      "total_pay": 106173562
+    },
+    {
+      "name": "Mr. Rakesh  Jha BE, PGDM",
+      "role": "Executive Director",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": 93370194
+    },
+    {
+      "name": "Mr. Sandeep  Batra A.C.S., B.Com., CA, CS, F.C.A.",
+      "role": "Executive Director",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": 95416510
+    },
+    {
+      "name": "Mr. Ajay Kumar Gupta B.Com, CA",
+      "role": "Executive Director",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": 87639588
+    },
+    {
+      "name": "Mr. Anindya  Banerjee",
+      "role": "Group CFO & Head of Investor Relations",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": 11356505
+    },
+    {
+      "name": "Mr. Laxminarayan  Achar",
+      "role": "Chief Accountant",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anish  Madhavan",
+      "role": "Group Chief Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Soumendra  Mattagajasingh",
+      "role": "Group Chief Human Resources Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Akshay  Chaturvedi",
+      "role": "Country Head of USA",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajendra  Khandelwal",
+      "role": "Chief Internal Auditor",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

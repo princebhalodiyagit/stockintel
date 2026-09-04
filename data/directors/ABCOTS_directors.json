@@ -1,7 +1,7 @@
 {
   "ticker": "ABCOTS",
   "company": "A B Cotspin India Limited",
-  "collected_at": "2026-09-03 06:09:24",
+  "collected_at": "2026-09-04 06:16:43",
   "directors": [
     {
       "name": "Mr. Deepak  Garg",
@@ -22,6 +22,20 @@
       "role": "Whole Time Director",
       "age": 81,
       "year_born": 1944,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Nidhi  Kumari Sharma",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Saurav  Dua",
+      "role": "Head of Production",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

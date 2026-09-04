@@ -1,8 +1,15 @@
 {
   "ticker": "GILLETTE",
   "company": "Gillette India Limited",
-  "collected_at": "2026-09-03 06:20:17",
+  "collected_at": "2026-09-04 06:30:57",
   "directors": [
+    {
+      "name": "Mr. Kumar  Venkatasubramanian",
+      "role": "MD & Director",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": 8808000
+    },
     {
       "name": "Ms. Flavia Peter Machado",
       "role": "Company Secretary & Compliance Officer",
@@ -16,6 +23,55 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 33217000
+    },
+    {
+      "name": "Ms. Rohini Laya Venkateswaran",
+      "role": "Senior Vice President of Korea",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 2147000
+    },
+    {
+      "name": "Mr. Ashwath  Rao",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. John T. Chevalier",
+      "role": "Chief Investor Relations Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Enakshee  Deva",
+      "role": "Communications & CSR Head",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Mukta  Maheshwari",
+      "role": "Chief Marketing Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Gopalakrishnan  Kalianna",
+      "role": "Head of Sales",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Robin  Thadathil",
+      "role": "Head of Human Resources & Additional Executive Director",
+      "age": 40,
+      "year_born": 1985,
+      "total_pay": "N/A"
     }
   ]
 }

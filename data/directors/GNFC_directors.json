@@ -1,8 +1,15 @@
 {
   "ticker": "GNFC",
   "company": "Gujarat Narmada Valley Fertilizers and Chemicals Limited",
-  "collected_at": "2026-09-03 06:20:38",
+  "collected_at": "2026-09-04 06:31:23",
   "directors": [
+    {
+      "name": "Mr. Rajkumar  Beniwal I.A.S.",
+      "role": "Managing Director",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": "N/A"
+    },
     {
       "name": "Mr. Dilipkumar Vinodchandra Parikh",
       "role": "CFO & Executive Director",
@@ -22,6 +29,13 @@
       "role": "Company Secretary & Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "R. P. Patel",
+      "role": "Chief Marketing Manager",
+      "age": 64,
+      "year_born": 1961,
       "total_pay": "N/A"
     },
     {

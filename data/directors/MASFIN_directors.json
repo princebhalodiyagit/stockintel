@@ -1,7 +1,7 @@
 {
   "ticker": "MASFIN",
   "company": "MAS Financial Services Limited",
-  "collected_at": "2026-09-03 06:28:44",
+  "collected_at": "2026-09-04 06:41:46",
   "directors": [
     {
       "name": "Mr. Kamlesh Chimanlal Gandhi",
@@ -9,6 +9,20 @@
       "age": 59,
       "year_born": 1966,
       "total_pay": 91200000
+    },
+    {
+      "name": "Ms. Darshana Saumil Pandya",
+      "role": "CEO & Executive Whole Time Director",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": 14900000
+    },
+    {
+      "name": "Mr. Dhvanil Kamlesh Gandhi",
+      "role": "Executive Whole-Time Director",
+      "age": 32,
+      "year_born": 1993,
+      "total_pay": 7700000
     },
     {
       "name": "Mr. Saumil Dipakbhai Pandya",
@@ -22,27 +36,6 @@
       "role": "Chief Financial Officer",
       "age": 38,
       "year_born": 1987,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Bhavesh D. Patel",
-      "role": "Head of Accounts",
-      "age": 43,
-      "year_born": 1982,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Rajen S. Shah",
-      "role": "Chief Technology Officer",
-      "age": 50,
-      "year_born": 1975,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Hitesh  Ganatra",
-      "role": "Head of Human Resource Development",
-      "age": "N/A",
-      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

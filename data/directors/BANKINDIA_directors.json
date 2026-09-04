@@ -1,7 +1,7 @@
 {
   "ticker": "BANKINDIA",
   "company": "Bank of India",
-  "collected_at": "2026-09-03 06:13:16",
+  "collected_at": "2026-09-04 06:21:47",
   "directors": [
     {
       "name": "Mr. Rajneesh  Karnatak",
@@ -39,6 +39,13 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. Vineet  Srivastava",
+      "role": "CFO & GM",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Abhijit  Bose",
       "role": "Chief GM & Chief Compliance Officer",
       "age": "N/A",
@@ -62,13 +69,6 @@
     {
       "name": "Mr. Pinapala Hari Kishan",
       "role": "Chief General Manager & Chief Risk Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Prafulla Kumar Giri",
-      "role": "Chief General Manager",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

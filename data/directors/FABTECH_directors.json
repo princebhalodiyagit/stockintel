@@ -1,8 +1,15 @@
 {
   "ticker": "FABTECH",
   "company": "Fabtech Technologies Limited",
-  "collected_at": "2026-09-03 06:19:08",
+  "collected_at": "2026-09-04 06:29:28",
   "directors": [
+    {
+      "name": "Mr. Ashwani Kumar Singh",
+      "role": "Chief Executive Officer",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    },
     {
       "name": "Mr. Kalpesh Chimanlal Chauhan",
       "role": "Chief Financial Officer",
@@ -36,6 +43,13 @@
       "role": "Senior Vice President",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Zahirhasan Abdulrazzak Shaikh",
+      "role": "Vice President of International Project Execution",
+      "age": 52,
+      "year_born": 1973,
       "total_pay": "N/A"
     }
   ]

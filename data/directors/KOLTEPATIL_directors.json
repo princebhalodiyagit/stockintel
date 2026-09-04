@@ -1,8 +1,43 @@
 {
   "ticker": "KOLTEPATIL",
   "company": "Kolte - Patil Developers Limited",
-  "collected_at": "2026-09-03 06:26:36",
+  "collected_at": "2026-09-04 06:39:02",
   "directors": [
+    {
+      "name": "Mr. Ravi Prakash Porwal",
+      "role": "Group Chief Financial Officer",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Sunil Kumar Tibra",
+      "role": "Senior Vice President of Finance & Accounts",
+      "age": 35,
+      "year_born": 1990,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vinod Eknath Patil",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vishal  Mariya",
+      "role": "Chief Human Resources Officer",
+      "age": 43,
+      "year_born": 1982,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajesh Anirudha Patil B E. Civil",
+      "role": "MD & Director",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": 18300000
+    },
     {
       "name": "Mr. Anil  Dwivedi",
       "role": "Chief Development Officer",
@@ -22,6 +57,20 @@
       "role": "Senior Vice President of Asset Management",
       "age": 39,
       "year_born": 1986,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Hrishikesh Bhalchandra Parandekar B.Com, MBA",
+      "role": "Chief Executive Officer",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Dipti  Rajput C.F.A.",
+      "role": "Vice President of Investor Relations",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

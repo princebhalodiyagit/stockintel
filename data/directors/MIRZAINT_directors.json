@@ -1,7 +1,7 @@
 {
   "ticker": "MIRZAINT",
   "company": "Mirza International Limited",
-  "collected_at": "2026-09-03 06:29:25",
+  "collected_at": "2026-09-04 06:42:39",
   "directors": [
     {
       "name": "Mr. Tauseef Ahmad Mirza Dip",
@@ -44,6 +44,34 @@
       "age": 40,
       "year_born": 1985,
       "total_pay": 20108383
+    },
+    {
+      "name": "Mr. Nirmal  Sahijwani",
+      "role": "President of Men's Shoe Division",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": 3180000
+    },
+    {
+      "name": "Mr. Iqbal  Fareed",
+      "role": "VP and Chief GM of R&D",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anil Kumar Mahipal",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Abhinav  Jain",
+      "role": "Assistant General Manager of Accounts",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

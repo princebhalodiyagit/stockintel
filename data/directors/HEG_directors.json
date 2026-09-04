@@ -1,22 +1,8 @@
 {
   "ticker": "HEG",
   "company": "HEG Limited",
-  "collected_at": "2026-09-03 06:22:10",
+  "collected_at": "2026-09-04 06:33:21",
   "directors": [
-    {
-      "name": "Mr. Ravi  Jhunjhunwala B.Com (H), MBA",
-      "role": "Chairman, MD & CEO",
-      "age": 70,
-      "year_born": 1955,
-      "total_pay": 132689000
-    },
-    {
-      "name": "Mr. Puneet  Anand",
-      "role": "President & Group Chief Strategy Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
     {
       "name": "Mr. Ravi Kant Tripathi",
       "role": "Chief Financial Officer",
@@ -30,41 +16,6 @@
       "age": 51,
       "year_born": 1974,
       "total_pay": 5903000
-    },
-    {
-      "name": "Mr. Axay  Saxena",
-      "role": "General Manager of HR & IR",
-      "age": 49,
-      "year_born": 1976,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Manish  Gulati",
-      "role": "Chief Sustainability Officer & Whole Time Executive Director",
-      "age": 56,
-      "year_born": 1969,
-      "total_pay": 42186000
-    },
-    {
-      "name": "Mr. Salil  Bawa",
-      "role": "President of Investor Relations",
-      "age": 51,
-      "year_born": 1974,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Ashish  Gaur",
-      "role": "General Manager of Marketing",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Om Prakash Ajmera",
-      "role": "Group Chief Financial Officer",
-      "age": 64,
-      "year_born": 1961,
-      "total_pay": "N/A"
     }
   ]
 }

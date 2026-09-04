@@ -1,7 +1,7 @@
 {
   "ticker": "RML",
   "company": "Rane (Madras) Limited",
-  "collected_at": "2026-09-03 06:35:27",
+  "collected_at": "2026-09-04 06:50:22",
   "directors": [
     {
       "name": "Mr. Harish  Lakshman B.E, M.S.M",
@@ -64,6 +64,13 @@
       "role": "President of Engine Components Division (ECD)",
       "age": 57,
       "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pawan Kumar Choudhary",
+      "role": "President of Compo Division",
+      "age": 70,
+      "year_born": 1955,
       "total_pay": "N/A"
     }
   ]

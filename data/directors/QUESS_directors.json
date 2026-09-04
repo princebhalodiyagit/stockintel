@@ -1,6 +1,77 @@
 {
   "ticker": "QUESS",
   "company": "Quess Corp Limited",
-  "collected_at": "2026-09-03 06:34:18",
-  "directors": []
+  "collected_at": "2026-09-04 06:48:54",
+  "directors": [
+    {
+      "name": "Mr. Lohit  Bhatia",
+      "role": "Executive Director & Group Chief Executive Officer",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Neeraj  Jain",
+      "role": "Chief Financial Officer",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Namrata Moti Sajnani",
+      "role": "Chief Operating Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Nilanjan  Chakraborti",
+      "role": "Head of Technology and Information Security",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kushal  Maheshwari",
+      "role": "Head of Treasury & Investor Relations and Senior VP of Investor Relations & Strategic Finance",
+      "age": 42,
+      "year_born": 1983,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kundan Kumar Lal",
+      "role": "Senior VP, Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Deepalakshmi  V.",
+      "role": "Senior Vice President of Legal,General Counsel",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manish  Sridhar",
+      "role": "Vice President of Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Sunitha  Karthikeyan",
+      "role": "Chief People Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vijay  Sivaram",
+      "role": "Chief Executive Officer of IT Staffing, Recruitment & Search",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": "N/A"
+    }
+  ]
 }

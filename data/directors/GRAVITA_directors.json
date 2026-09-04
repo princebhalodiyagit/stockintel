@@ -1,8 +1,15 @@
 {
   "ticker": "GRAVITA",
   "company": "Gravita India Limited",
-  "collected_at": "2026-09-03 06:21:09",
+  "collected_at": "2026-09-04 06:32:04",
   "directors": [
+    {
+      "name": "Mr. Rajat  Agrawal",
+      "role": "Founder, MD & Executive Chairman",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": 66591000
+    },
     {
       "name": "Dr. Yogesh  Malhotra",
       "role": "CEO & Whole Time Director",
@@ -29,6 +36,41 @@
       "role": "Executive Director of Sales & Marketing",
       "age": 56,
       "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajeev  Surana",
+      "role": "Executive Director",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": 3000000
+    },
+    {
+      "name": "Mr. Naveen Prakash Sharma",
+      "role": "Executive Director",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": 6899000
+    },
+    {
+      "name": "Mr. Sandeep  Choudhary",
+      "role": "Director",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vijay Kumar Pareekh",
+      "role": "Executive Director",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ajay  Thapliyal",
+      "role": "Director",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "ticker": "AKCAPIT",
   "company": "AK Capital Services Limited",
-  "collected_at": "2026-09-03 06:10:26",
+  "collected_at": "2026-09-04 06:18:04",
   "directors": [
     {
       "name": "Mr. Atul Kumar Mittal",
@@ -16,6 +16,13 @@
       "age": 53,
       "year_born": 1972,
       "total_pay": 19750000
+    },
+    {
+      "name": "Mr. Mahesh Shivprakash Bhootra",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 7770614
     },
     {
       "name": "Ms. Chaitali  Desai",

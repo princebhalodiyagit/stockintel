@@ -1,13 +1,13 @@
 {
   "ticker": "OCCLLTD",
-  "collected_at": "2026-09-03 06:31:45",
+  "collected_at": "2026-09-04 06:45:39",
   "company_info": {
     "name": "OCCL Limited",
     "sector": "Basic Materials",
     "industry": "Chemicals",
-    "market_cap": 8142924288,
-    "current_price": 163.02,
-    "pe_ratio": 10.88251,
+    "market_cap": 8171895808,
+    "current_price": 163.6,
+    "pe_ratio": 10.921229,
     "pb_ratio": "N/A",
     "roe": "N/A",
     "debt_to_equity": "N/A",
@@ -16,6 +16,6 @@
     "eps": 14.98,
     "52_week_high": 183.03,
     "52_week_low": 75.71,
-    "dividend_yield": 1.72
+    "dividend_yield": 1.71
   }
 }

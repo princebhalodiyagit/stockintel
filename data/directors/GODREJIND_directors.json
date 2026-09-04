@@ -1,6 +1,77 @@
 {
   "ticker": "GODREJIND",
   "company": "Godrej Industries Limited",
-  "collected_at": "2026-09-03 06:20:48",
-  "directors": []
+  "collected_at": "2026-09-04 06:31:36",
+  "directors": [
+    {
+      "name": "Mr. Pirojsha Adi Godrej",
+      "role": "Executive Chairman",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": 400000
+    },
+    {
+      "name": "Ms. Tanya Arvind Dubash",
+      "role": "Chief Brand Officer & Whole-Time Executive Director",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": 104467739
+    },
+    {
+      "name": "Mr. Vishal  Sharma",
+      "role": "CEO of GIL Chemicals & Whole-Time Executive Director",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": 92304118
+    },
+    {
+      "name": "Mr. Clement G. Pinto",
+      "role": "Chief Financial Officer",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Anupama  Kamble",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sujit  Patil",
+      "role": "Head of Corporate Communications",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sumit  Mitra",
+      "role": "Head of Group Human Resources & Corporate Services",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manish  Shah",
+      "role": "MD & Chief Executive Officer of Godrej Capital",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Karan  Bolaria",
+      "role": "MD & CEO of Godrej Fund Management",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Gaurav  Pandey",
+      "role": "MD & Chief Executive Officer of Godrej Properties",
+      "age": 41,
+      "year_born": 1984,
+      "total_pay": "N/A"
+    }
+  ]
 }

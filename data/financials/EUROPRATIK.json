@@ -1,14 +1,14 @@
 {
   "ticker": "EUROPRATIK",
-  "collected_at": "2026-09-03 06:18:58",
+  "collected_at": "2026-09-04 06:29:15",
   "company_info": {
     "name": "Euro Pratik Sales Limited",
     "sector": "Basic Materials",
     "industry": "Building Materials",
-    "market_cap": 26786621440,
-    "current_price": 262.1,
-    "pe_ratio": 31.09134,
-    "pb_ratio": 8.661028,
+    "market_cap": 26571999232,
+    "current_price": 260.0,
+    "pe_ratio": 30.84223,
+    "pb_ratio": 8.591633,
     "roe": "N/A",
     "debt_to_equity": 7.636,
     "revenue": 3737649920,
@@ -16,6 +16,6 @@
     "eps": 8.43,
     "52_week_high": 390.0,
     "52_week_low": 205.1,
-    "dividend_yield": 0.15
+    "dividend_yield": "N/A"
   }
 }

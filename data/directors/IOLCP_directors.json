@@ -1,7 +1,7 @@
 {
   "ticker": "IOLCP",
   "company": "IOL Chemicals and Pharmaceuticals Limited",
-  "collected_at": "2026-09-03 06:24:19",
+  "collected_at": "2026-09-04 06:36:05",
   "directors": [
     {
       "name": "Mr. Varinder  Gupta",
@@ -18,20 +18,6 @@
       "total_pay": 34905000
     },
     {
-      "name": "Mr. Pardeep Kumar Khanna",
-      "role": "Chief Financial Officer",
-      "age": 55,
-      "year_born": 1970,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Dr. Damandeep  Singh",
-      "role": "President of New Product Development",
-      "age": 51,
-      "year_born": 1974,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Kushal Kumar Rana",
       "role": "Director of Works & Wholetime Director",
       "age": 56,
@@ -46,6 +32,13 @@
       "total_pay": 16604000
     },
     {
+      "name": "Mr. Pardeep Kumar Khanna",
+      "role": "Chief Financial Officer",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Dr. Gurupur Ganesh Pai",
       "role": "Chief Technology Officer",
       "age": 73,
@@ -57,6 +50,27 @@
       "role": "Senior VP, Company Secretary & Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Damandeep  Singh",
+      "role": "President of New Product Development",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Gopal  Singla",
+      "role": "President of Engineering",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Praveen  Hans",
+      "role": "President of API Business",
+      "age": 32,
+      "year_born": 1993,
       "total_pay": "N/A"
     }
   ]

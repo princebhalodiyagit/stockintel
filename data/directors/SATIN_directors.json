@@ -1,7 +1,7 @@
 {
   "ticker": "SATIN",
   "company": "Satin Creditcare Network Limited",
-  "collected_at": "2026-09-03 06:36:40",
+  "collected_at": "2026-09-04 06:51:55",
   "directors": [
     {
       "name": "Dr. Harvinder Pal Singh",
@@ -34,6 +34,41 @@
     {
       "name": "Mr. Sunil  Yadav",
       "role": "Chief Information Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Paramjit Singh Nayyar",
+      "role": "Chief Human Resource Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anil  Gupta",
+      "role": "Business Head of Products",
+      "age": 65,
+      "year_born": 1960,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Aditi  Singh",
+      "role": "Chief Strategy Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manish Kumar Mittal",
+      "role": "Head of Finance",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anil  Kwatra",
+      "role": "Chief Business Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

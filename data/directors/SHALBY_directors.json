@@ -1,13 +1,69 @@
 {
   "ticker": "SHALBY",
   "company": "Shalby Limited",
-  "collected_at": "2026-09-03 06:37:18",
+  "collected_at": "2026-09-04 06:52:43",
   "directors": [
     {
       "name": "Dr. Vikram I. Shah",
       "role": "Founder, Chairman & MD",
       "age": 62,
       "year_born": 1963,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Amit  Kumar",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 9027140
+    },
+    {
+      "name": "Dr. Nishita  Shukla",
+      "role": "Chief Operating Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 10830000
+    },
+    {
+      "name": "Mr. Tushar Dineshchandra Shah C.S.",
+      "role": "Associate VP, Company Secretary & Compliance Officer",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": 3610000
+    },
+    {
+      "name": "Mr. Shanay Vikram Shah",
+      "role": "President of International Business & Whole Time Director",
+      "age": 33,
+      "year_born": 1992,
+      "total_pay": 8790000
+    },
+    {
+      "name": "Mr. Babu  Thomas",
+      "role": "Chief Human Resources Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Daniel  Hayes",
+      "role": "Chief Executive Officer of the US Implant Business",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Deepak Ananthakrishnan Anand",
+      "role": "Global Chief Business Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Jigar  Todi",
+      "role": "Investors Relation & Corporate Strategist",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

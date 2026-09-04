@@ -1,7 +1,7 @@
 {
   "ticker": "MAXHEALTH",
   "company": "Max Healthcare Institute Limited",
-  "collected_at": "2026-09-03 06:28:50",
+  "collected_at": "2026-09-04 06:41:53",
   "directors": [
     {
       "name": "Mr. Abhay  Soi",
@@ -15,6 +15,13 @@
       "role": "Joint Chief Risk Officer, Group Director & CFO",
       "age": 60,
       "year_born": 1965,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Dhiraj  Aroraa",
+      "role": "Executive VP, Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
@@ -64,13 +71,6 @@
       "role": "Group Director & CEO of Cluster 2",
       "age": 61,
       "year_born": 1964,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Dr. Mradul  Kaushik",
-      "role": "Member of Group Medical Advisory Council, Group Director of Ops & Planning and CEO of Cluster 1",
-      "age": 53,
-      "year_born": 1972,
       "total_pay": "N/A"
     }
   ]

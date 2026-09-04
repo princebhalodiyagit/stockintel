@@ -1,7 +1,7 @@
 {
   "ticker": "INDORAMA",
   "company": "Indo Rama Synthetics (India) Limited",
-  "collected_at": "2026-09-03 06:23:48",
+  "collected_at": "2026-09-04 06:35:25",
   "directors": [
     {
       "name": "Mr. Om Prakash Lohia B. Com.",
@@ -16,6 +16,34 @@
       "age": 48,
       "year_born": 1977,
       "total_pay": 32900000
+    },
+    {
+      "name": "Mr. Sanjay  Gupta",
+      "role": "Additional Executive Director",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": 12991000
+    },
+    {
+      "name": "Mr. Umesh Kumar Agrawal",
+      "role": "Chief Commercial & Financial Officer",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anupam  Singhania",
+      "role": "Senior Vice President of Operations",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ashok  Yadav",
+      "role": "Compliance Officer & Company Secretary",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "ticker": "SAMHI",
   "company": "Samhi Hotels Limited",
-  "collected_at": "2026-09-03 06:36:21",
+  "collected_at": "2026-09-04 06:51:30",
   "directors": [
     {
       "name": "Mr. Ashish  Jakhanwala",
@@ -43,6 +43,34 @@
       "role": "Lead-Legal Counsel & General Counsel",
       "age": 40,
       "year_born": 1985,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Nakul  Manaktala",
+      "role": "Vice President of Investments",
+      "age": 33,
+      "year_born": 1992,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Sangeeta  Mohan",
+      "role": "Vice President of Asset Management",
+      "age": 37,
+      "year_born": 1988,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manish  Bhagat",
+      "role": "Vice President of Finance",
+      "age": 43,
+      "year_born": 1982,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Anamika Chandola Ganesh",
+      "role": "Executive Assistant To Chief Executive Officer & Managing Director",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

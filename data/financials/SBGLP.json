@@ -1,14 +1,14 @@
 {
   "ticker": "SBGLP",
-  "collected_at": "2026-09-03 06:36:46",
+  "collected_at": "2026-09-04 06:52:02",
   "company_info": {
     "name": "Suratwwala Business Group Limited",
     "sector": "Real Estate",
     "industry": "Real Estate - Development",
-    "market_cap": 4144653056,
-    "current_price": 23.9,
-    "pe_ratio": 10.084389,
-    "pb_ratio": 4.0006695,
+    "market_cap": 4300727808,
+    "current_price": 24.8,
+    "pe_ratio": 10.464135,
+    "pb_ratio": 4.1513224,
     "roe": "N/A",
     "debt_to_equity": 75.186,
     "revenue": 1691622016,
@@ -16,6 +16,6 @@
     "eps": 2.37,
     "52_week_high": 40.9,
     "52_week_low": 18.35,
-    "dividend_yield": 0.49
+    "dividend_yield": "N/A"
   }
 }

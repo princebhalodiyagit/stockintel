@@ -1,7 +1,7 @@
 {
   "ticker": "VARROC",
   "company": "Varroc Engineering Limited",
-  "collected_at": "2026-09-03 06:42:47",
+  "collected_at": "2026-09-04 06:59:45",
   "directors": [
     {
       "name": "Mr. Tarang  Jain",
@@ -44,6 +44,34 @@
       "age": 30,
       "year_born": 1995,
       "total_pay": 17890000
+    },
+    {
+      "name": "Mr. Eric  Hamon",
+      "role": "Chief Technical Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Bikash  Dugar",
+      "role": "Head of Investor Relations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Hariprasad  Rayapalyam",
+      "role": "Group General Counsel \u0096 Legal",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Namrata  Parashar",
+      "role": "Head of Marketing & Communications",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

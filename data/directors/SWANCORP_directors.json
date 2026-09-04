@@ -1,7 +1,7 @@
 {
   "ticker": "SWANCORP",
   "company": "SWAN CORP LIMITED",
-  "collected_at": "2026-09-03 06:40:02",
+  "collected_at": "2026-09-04 06:56:12",
   "directors": [
     {
       "name": "Mr. Nikhil Vasantlal Merchant",
@@ -11,8 +11,43 @@
       "total_pay": 23034000
     },
     {
+      "name": "Mr. Chetan Kannaiyalal Selarka",
+      "role": "CFO & Executive Director",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": 14898000
+    },
+    {
       "name": "Mr. Kundan  Bhanawat",
       "role": "Chief Operating Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Saptarshi  Ganguly",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Paresh Vasantlal Merchant",
+      "role": "Whole Time Director",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": 23034000
+    },
+    {
+      "name": "Mr. Padmanabhan  Sugavanam",
+      "role": "Whole Time Director",
+      "age": 80,
+      "year_born": 1945,
+      "total_pay": 3524000
+    },
+    {
+      "name": "Mr. Bhavesh Pravin Shah",
+      "role": "Chief Investor Relations Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

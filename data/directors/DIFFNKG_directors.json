@@ -1,6 +1,77 @@
 {
   "ticker": "DIFFNKG",
   "company": "Diffusion Engineers Limited",
-  "collected_at": "2026-09-03 06:17:27",
-  "directors": []
+  "collected_at": "2026-09-04 06:27:18",
+  "directors": [
+    {
+      "name": "Mr. Prashant N. Garg",
+      "role": "Chairman & MD",
+      "age": 42,
+      "year_born": 1983,
+      "total_pay": 24000000
+    },
+    {
+      "name": "Mr. Abhishek Anil Mehta",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Chanchal Rajesh Jaiswal",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Shreekant  Premkhede",
+      "role": "Senior Vice President of Operations",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manoj Kumar Srivastava",
+      "role": "Senior Vice President of Sales & Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Trushtee  Edbor",
+      "role": "Deputy General Manager of HR",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ajay S. Urkude",
+      "role": "Senior Vice President of Sales and Marketing (PAN India)",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kaushik  Chakraborthy",
+      "role": "Vice President \u0096 OEM",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ganesh  Khangar",
+      "role": "General Manager of Production",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Neelu  Garg",
+      "role": "General Manager of Procurement",
+      "age": 41,
+      "year_born": 1984,
+      "total_pay": "N/A"
+    }
+  ]
 }

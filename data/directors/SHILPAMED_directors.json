@@ -1,8 +1,15 @@
 {
   "ticker": "SHILPAMED",
   "company": "Shilpa Medicare Limited",
-  "collected_at": "2026-09-03 06:37:30",
+  "collected_at": "2026-09-04 06:52:58",
   "directors": [
+    {
+      "name": "Mr. Vishnukanth Chaturbhuj Bhutada B. Pharm",
+      "role": "MD & Director",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": 35000000
+    },
     {
       "name": "Mr. Sharath Reddy Kalakota M.Pharma",
       "role": "VP of Projects & Operations and Whole-Time Director",
@@ -15,6 +22,13 @@
       "role": "Chief Financial Officer",
       "age": 49,
       "year_born": 1976,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Pramod  Kumar M.Pharma, Ph.D.",
+      "role": "Senior Vice President of Technical",
+      "age": 62,
+      "year_born": 1963,
       "total_pay": "N/A"
     },
     {
@@ -46,29 +60,15 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Ms. Rajyashri Karur Ramakrishnan",
+      "role": "Chief Scientific Officer of Biologicals",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. K. H. Honneshaiah",
       "role": "Head Operation of API",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Rajeev  Saxena",
-      "role": "Senior Vice President \u0096 Domestic Formulations and Biologics",
-      "age": 52,
-      "year_born": 1973,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Abhay  Sapre",
-      "role": "Senior Vice President of Formulation",
-      "age": 54,
-      "year_born": 1971,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Ram Nivas Lahoti",
-      "role": "Head \u0096 Purchase",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

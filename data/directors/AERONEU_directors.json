@@ -1,8 +1,22 @@
 {
   "ticker": "AERONEU",
   "company": "Aeroflex Neu Limited",
-  "collected_at": "2026-09-03 06:10:01",
+  "collected_at": "2026-09-04 06:17:33",
   "directors": [
+    {
+      "name": "Mr. Hakim Sadiq Ali Tidiwala",
+      "role": "Whole Time Director",
+      "age": 68,
+      "year_born": 1957,
+      "total_pay": 1769000
+    },
+    {
+      "name": "Mr. Lalit Kumar Bolia",
+      "role": "Senior Manager of Commercial & CFO",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
+    },
     {
       "name": "Hemendra Singh Chauhan",
       "role": "Manager of Operations",

@@ -1,7 +1,7 @@
 {
   "ticker": "AYMSYNTEX",
   "company": "AYM Syntex Limited",
-  "collected_at": "2026-09-03 06:12:44",
+  "collected_at": "2026-09-04 06:21:06",
   "directors": [
     {
       "name": "Mr. Abhishek R. Mandawewala",
@@ -16,6 +16,13 @@
       "age": 38,
       "year_born": 1987,
       "total_pay": 3521300
+    },
+    {
+      "name": "Mr. Vireshwar  Joshi",
+      "role": "President & Unit Head of Palghar",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Abhishek  Patwa",
@@ -64,13 +71,6 @@
       "role": "Business Head of Dyed Yarn",
       "age": 55,
       "year_born": 1970,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Yash Rajesh Mandawewala",
-      "role": "Business Head for Dyed Yarns Business",
-      "age": "N/A",
-      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

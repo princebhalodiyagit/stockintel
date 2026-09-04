@@ -1,7 +1,7 @@
 {
   "ticker": "BALAJITELE",
   "company": "Balaji Telefilms Limited",
-  "collected_at": "2026-09-03 06:13:02",
+  "collected_at": "2026-09-04 06:21:28",
   "directors": [
     {
       "name": "Mr. Sanjay  Dwivedi",
@@ -57,6 +57,20 @@
       "role": "Group General Counsel (Legal Head)",
       "age": 57,
       "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Sakett  Saawhney",
+      "role": "Head of Creator Economy & IP",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vimal  Doshi",
+      "role": "COO of Motion Pictures",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

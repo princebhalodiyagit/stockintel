@@ -1,14 +1,77 @@
 {
   "ticker": "VMM",
   "company": "Vishal Mega Mart Limited",
-  "collected_at": "2026-09-03 06:43:25",
+  "collected_at": "2026-09-04 07:00:35",
   "directors": [
+    {
+      "name": "Mr. Gunender  Kapur",
+      "role": "Founder, MD, CEO & Director",
+      "age": 64,
+      "year_born": 1961,
+      "total_pay": 174895634
+    },
     {
       "name": "Mr. Amit  Gupta",
       "role": "Chief Financial Officer",
       "age": 44,
       "year_born": 1981,
       "total_pay": 56840000
+    },
+    {
+      "name": "Mr. Sashi  Gumma",
+      "role": "Chief of Operations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Karthik  Kuppusamy",
+      "role": "Chief Information Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rahul  Luthra",
+      "role": "GM, Company Secretary & Compliance Officer",
+      "age": 37,
+      "year_born": 1988,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sambit  Swain",
+      "role": "General Counsel",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Dhruva Kumar Dubey",
+      "role": "Chief Human Resources Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Anne Martine Marie Puvis Cardinali",
+      "role": "Chief Buying & Merchandising Officer-Apparel",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Samir  Agrawal",
+      "role": "Chief B&M Officer -General Merchandising",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vineet  Saxena",
+      "role": "Senior Vice President of FMCG",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

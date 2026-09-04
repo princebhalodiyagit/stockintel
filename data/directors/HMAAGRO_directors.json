@@ -1,6 +1,28 @@
 {
   "ticker": "HMAAGRO",
   "company": "HMA Agro Industries Limited",
-  "collected_at": "2026-09-03 06:22:39",
-  "directors": []
+  "collected_at": "2026-09-04 06:33:59",
+  "directors": [
+    {
+      "name": "Mr. Gulzar  Ahmad",
+      "role": "MD & Chairperson",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": 12000000
+    },
+    {
+      "name": "Mr. Mohammad Mehmood Qureshi",
+      "role": "Head of Commercial Administration",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": 12000000
+    },
+    {
+      "name": "Mr. Bhabani Sankar Acharya",
+      "role": "Whole Time Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

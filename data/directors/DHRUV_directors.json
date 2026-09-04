@@ -1,8 +1,15 @@
 {
   "ticker": "DHRUV",
   "company": "Dhruv Consultancy Services Limited",
-  "collected_at": "2026-09-03 06:17:21",
+  "collected_at": "2026-09-04 06:27:10",
   "directors": [
+    {
+      "name": "Mr. Pandurang Balkrishna Dandawate",
+      "role": "Founder & Non-Executive Chairman",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": 90000
+    },
     {
       "name": "Mr. Akhilesh Subhash Dandawate",
       "role": "COO & CFO",
@@ -32,6 +39,13 @@
       "total_pay": 3600000
     },
     {
+      "name": "Mr. Raja  Mukherjee",
+      "role": "Chief Executive Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 4620000
+    },
+    {
       "name": "Mr. Rohit R. Mahakal",
       "role": "General Manager of Finance & Accounts",
       "age": "N/A",
@@ -55,20 +69,6 @@
     {
       "name": "Ms. Jagtambi  Padmanabhan",
       "role": "Head of Human Resources",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Hulgeri D. Rao",
-      "role": "Head of Structures",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Sachin  Sondkar",
-      "role": "Head of Tender",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

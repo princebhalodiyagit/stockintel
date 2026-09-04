@@ -1,6 +1,77 @@
 {
   "ticker": "TIL",
   "company": "TIL Limited",
-  "collected_at": "2026-09-03 06:41:16",
-  "directors": []
+  "collected_at": "2026-09-04 06:57:48",
+  "directors": [
+    {
+      "name": "Mr. Alok Kumar Tripathi",
+      "role": "CEO & Executive Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 21917850
+    },
+    {
+      "name": "Mr. Kanhaiya  Gupta",
+      "role": "Chief Financial Officer",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": 7000000
+    },
+    {
+      "name": "Mr. Pinaki  Niyogy",
+      "role": "Chief Growth & Technology Officer",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": 11842324
+    },
+    {
+      "name": "Ms. Chandrani  Chatterjee",
+      "role": "Company Secretary & Head-Legal and Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 3800000
+    },
+    {
+      "name": "Mr. Ayan  Banerjee",
+      "role": "Director of Finance & Whole Time Director",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": 15937963
+    },
+    {
+      "name": "Ms. Shamita  Nandi",
+      "role": "Chief Human Resource Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Saikat  Bagchi",
+      "role": "Head of Supply Chain & Commercial",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Arvind  Rishi",
+      "role": "Head of Sales & Aftermarket - All India",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. P. S. Vombatkere",
+      "role": "Head of Naval Defence",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajib Lochan Datta",
+      "role": "Head of Manufacturing Operations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

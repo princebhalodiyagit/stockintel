@@ -1,8 +1,15 @@
 {
   "ticker": "AAATECH",
   "company": "AAA Technologies Limited",
-  "collected_at": "2026-09-03 06:09:09",
+  "collected_at": "2026-09-04 06:16:23",
   "directors": [
+    {
+      "name": "Mr. Venugopal Madanlal Dhoot",
+      "role": "Chairman & MD",
+      "age": 70,
+      "year_born": 1955,
+      "total_pay": 7200000
+    },
     {
       "name": "Ms. Ruchi Anjay Agarwal",
       "role": "Executive Director of Human Resource & Administration and Director",
@@ -16,6 +23,20 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 780000
+    },
+    {
+      "name": "Mr. Deepak  Sharma",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Santosh Kumar Pandey",
+      "role": "Executive Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

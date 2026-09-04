@@ -1,7 +1,7 @@
 {
   "ticker": "MARALOVER",
   "company": "Maral Overseas Limited",
-  "collected_at": "2026-09-03 06:28:36",
+  "collected_at": "2026-09-04 06:41:36",
   "directors": [
     {
       "name": "Mr. Shekhar  Agarwal B.Tech. (ME), M.Sc.",
@@ -50,6 +50,27 @@
       "role": "President of Yarn & Fabric and Head of Sarovar Plant",
       "age": 49,
       "year_born": 1976,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manoj Kumar Thakker",
+      "role": "Vice President",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Amrit Pal Singh Chabbra",
+      "role": "Vice President of Engineering",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sandeep  Singh",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

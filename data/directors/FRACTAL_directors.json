@@ -1,8 +1,15 @@
 {
   "ticker": "FRACTAL",
   "company": "Fractal Analytics Limited",
-  "collected_at": "2026-09-03 06:19:37",
+  "collected_at": "2026-09-04 06:30:06",
   "directors": [
+    {
+      "name": "Mr. Srikanth  Velamakanni",
+      "role": "Co-Founder, Executive Vice Chairman, Group CEO & Whole Time Director",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": 96810000
+    },
     {
       "name": "Mr. Pranay  Agrawal",
       "role": "Co-Founder, Non-Executive Director & CEO of Fractal USA",
@@ -62,13 +69,6 @@
     {
       "name": "Mr. Rasesh Dhirendra Shah",
       "role": "Chief Practice Officer of EdTech & FAA",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Ajoy  Singh",
-      "role": "Chief AI Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

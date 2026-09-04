@@ -1,13 +1,76 @@
 {
   "ticker": "BECTORFOOD",
   "company": "Mrs. Bectors Food Specialities Limited",
-  "collected_at": "2026-09-03 06:13:33",
+  "collected_at": "2026-09-04 06:22:09",
   "directors": [
     {
       "name": "Mr. Manu  Talwar",
       "role": "Chief Executive Officer & Director",
       "age": 60,
       "year_born": 1965,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Atul  Sud",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 39,
+      "year_born": 1986,
+      "total_pay": 2030000
+    },
+    {
+      "name": "Prem  Vishwanathan",
+      "role": "Chief People Officer & VP",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anoop  Bector",
+      "role": "MD & Director",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": 83320000
+    },
+    {
+      "name": "Mr. Ishaan  Bector",
+      "role": "Whole Time Director",
+      "age": 36,
+      "year_born": 1989,
+      "total_pay": 36150000
+    },
+    {
+      "name": "Mr. Suvir  Bector",
+      "role": "Whole Time Director",
+      "age": 30,
+      "year_born": 1995,
+      "total_pay": 36100000
+    },
+    {
+      "name": "Brijesh Dilipkumar Solanki",
+      "role": "Chief Projects Officer & VP",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Rashmi  Bector",
+      "role": "Vice President of Business Development",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Rajni  Bector",
+      "role": "Founder",
+      "age": 85,
+      "year_born": 1940,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anshul  Rastogi",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

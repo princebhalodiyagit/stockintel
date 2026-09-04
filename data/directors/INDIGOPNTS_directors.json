@@ -1,7 +1,7 @@
 {
   "ticker": "INDIGOPNTS",
   "company": "Indigo Paints Limited",
-  "collected_at": "2026-09-03 06:23:41",
+  "collected_at": "2026-09-04 06:35:16",
   "directors": [
     {
       "name": "Mr. Hemant Kamala Jalan",
@@ -11,10 +11,52 @@
       "total_pay": 36000000
     },
     {
+      "name": "Mr. Chetan Bhalchandra Humane",
+      "role": "Chief Financial Officer",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Surendra Suresh-Babu Thundiyil",
       "role": "Chief Operating Officer",
       "age": 54,
       "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Sayalee Anil Yengul",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 1737000
+    },
+    {
+      "name": "Mr. Narayanankutty Kottiedath Venugopal",
+      "role": "Executive Director",
+      "age": 77,
+      "year_born": 1948,
+      "total_pay": 20465213
+    },
+    {
+      "name": "Mr. Aishwarya Pratap Singh",
+      "role": "Chief Business Officer",
+      "age": 41,
+      "year_born": 1984,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pavan  Sharma",
+      "role": "General Manager of Technical",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Srihari  Santhakumar",
+      "role": "Head of Investor Relations & GM of Finance",
+      "age": 39,
+      "year_born": 1986,
       "total_pay": "N/A"
     }
   ]

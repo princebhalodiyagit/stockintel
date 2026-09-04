@@ -1,7 +1,7 @@
 {
   "ticker": "GTLINFRA",
   "company": "GTL Infrastructure Limited",
-  "collected_at": "2026-09-03 06:21:28",
+  "collected_at": "2026-09-04 06:32:28",
   "directors": [
     {
       "name": "Mr. Ajit M. Shanbhag",
@@ -29,6 +29,20 @@
       "role": "President of Business Development",
       "age": 70,
       "year_born": 1955,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jayant Laxmikant Bhimanwar",
+      "role": "Whole-Time Director",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Prasanna  Bidnurkar",
+      "role": "Head of Treasury",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

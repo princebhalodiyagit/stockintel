@@ -1,8 +1,15 @@
 {
   "ticker": "PAYTM",
   "company": "One 97 Communications Limited",
-  "collected_at": "2026-09-03 06:32:43",
+  "collected_at": "2026-09-04 06:46:52",
   "directors": [
+    {
+      "name": "Mr. Vijay Shekhar Sharma",
+      "role": "Founder, CEO, MD & Chairman",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": 43300000
+    },
     {
       "name": "Mr. Madhur  Deora",
       "role": "President & Group CFO",
@@ -62,13 +69,6 @@
     {
       "name": "Mr. Ripunjai  Gaur",
       "role": "Chief Business Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Ramana  Kumar",
-      "role": "Chief Executive Officer of Middle East Business",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

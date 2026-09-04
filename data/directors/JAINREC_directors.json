@@ -1,7 +1,7 @@
 {
   "ticker": "JAINREC",
   "company": "Jain Resource Recycling Limited",
-  "collected_at": "2026-09-03 06:24:48",
+  "collected_at": "2026-09-04 06:36:43",
   "directors": [
     {
       "name": "Mr. Kamlesh S. Jain",
@@ -23,6 +23,27 @@
       "age": 41,
       "year_born": 1984,
       "total_pay": 9600000
+    },
+    {
+      "name": "Mr. Sanchit  Jain",
+      "role": "Executive Director & Head of Operations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 600000
+    },
+    {
+      "name": "Mr. Vijay  Kumar",
+      "role": "Chief Operating Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Aravind  Kumar V",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
   "ticker": "DVL",
-  "collected_at": "2026-09-03 06:17:57",
+  "collected_at": "2026-09-04 06:27:56",
   "company_info": {
     "name": "Dhunseri Ventures Limited",
     "sector": "Financial Services",
     "industry": "Capital Markets",
-    "market_cap": 10029337600,
-    "current_price": 286.35,
-    "pe_ratio": 5.30376,
-    "pb_ratio": 0.30506775,
+    "market_cap": 10157177856,
+    "current_price": 290.0,
+    "pe_ratio": 5.371365,
+    "pb_ratio": 0.30895633,
     "roe": "N/A",
     "debt_to_equity": 28.952,
     "revenue": 4965044224,
@@ -16,6 +16,6 @@
     "eps": 53.99,
     "52_week_high": 380.6,
     "52_week_low": 186.99,
-    "dividend_yield": 1.77
+    "dividend_yield": 1.75
   }
 }

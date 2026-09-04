@@ -1,55 +1,76 @@
 {
   "ticker": "AAVAS",
   "company": "Aavas Financiers Limited",
-  "collected_at": "2026-09-03 06:09:19",
+  "collected_at": "2026-09-04 06:16:36",
   "directors": [
     {
-      "name": "Mr. Ramachandran  Venkatesh",
-      "role": "Head of Internal Audit",
+      "name": "Mr. Saurabh  Sharma",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 2965000
+    },
+    {
+      "name": "Mr. Manu Yeshpal Singh",
+      "role": "MD & CEO",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Ashish  Gautam",
-      "role": "Chief Customer Experience Officer",
+      "name": "Mr. Ghanshyam  Gupta",
+      "role": "Interim Chief Financial Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Punit Purushottam Agarwal",
-      "role": "Interim Chief Risk Officer",
+      "name": "Mr. Mukesh  Agarwal",
+      "role": "Senior Vice President of Accounts",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Jijy  Oommen",
+      "role": "Chief Technology Officer",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rakesh  Shinde",
+      "role": "Head of Investor Relations",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Rahul  Khandelwal",
-      "role": "VP of Finance & Treasury",
+      "name": "Mr. Sharad  Pathak",
+      "role": "Chief Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 7936000
+    },
+    {
+      "name": "Ms. Sharvari Nitin Kamat",
+      "role": "Senior Manager of Legal",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Punit  Khandelwal",
-      "role": "VP Finance & Treasury",
-      "age": "N/A",
-      "year_born": "N/A",
+      "name": "Mr. Ripudaman  Bandral",
+      "role": "Chief Business Officer",
+      "age": 50,
+      "year_born": 1975,
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Kamal Sampatkumar Mundra",
-      "role": "AVP of Finance & Treasury",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Vipul  Daga",
-      "role": "AVP of Finance & Treasury",
-      "age": "N/A",
-      "year_born": "N/A",
+      "name": "Mr. Rajaram  Balasubramaniam",
+      "role": "Chief Strategy Officer & Head of Analytics",
+      "age": 48,
+      "year_born": 1977,
       "total_pay": "N/A"
     }
   ]

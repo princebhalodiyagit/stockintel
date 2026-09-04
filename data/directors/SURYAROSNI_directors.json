@@ -1,7 +1,7 @@
 {
   "ticker": "SURYAROSNI",
   "company": "Surya Roshni Limited",
-  "collected_at": "2026-09-03 06:39:54",
+  "collected_at": "2026-09-04 06:56:03",
   "directors": [
     {
       "name": "Mr. Jai Prakash Agarwal B.Com.",
@@ -43,6 +43,34 @@
       "role": "President of Professional Lighting",
       "age": 50,
       "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kumar Gaurav Jain",
+      "role": "CEO of Steel Division",
+      "age": 38,
+      "year_born": 1987,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Puja  Surya",
+      "role": "Whole time Director",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": 14530000
+    },
+    {
+      "name": "Mr. Vasu Mitra Pandey",
+      "role": "CEO of Lighting Division",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ashish  Aggarwal",
+      "role": "Executive Director of BD",
+      "age": 54,
+      "year_born": 1971,
       "total_pay": "N/A"
     }
   ]

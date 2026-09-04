@@ -1,6 +1,49 @@
 {
   "ticker": "EUROPRATIK",
   "company": "Euro Pratik Sales Limited",
-  "collected_at": "2026-09-03 06:18:58",
-  "directors": []
+  "collected_at": "2026-09-04 06:29:15",
+  "directors": [
+    {
+      "name": "Mr. Pratik Gunvantraj Singhvi",
+      "role": "MD & Chairman",
+      "age": 43,
+      "year_born": 1982,
+      "total_pay": 4511000
+    },
+    {
+      "name": "Mr. Jai Gunvantraj Singhvi",
+      "role": "CFO & Executive Director",
+      "age": 41,
+      "year_born": 1984,
+      "total_pay": 4511000
+    },
+    {
+      "name": "Manoj Pravinchardra Gala",
+      "role": "Chief Sourcing Officer",
+      "age": 44,
+      "year_born": 1981,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Nihir  Jain",
+      "role": "Chief Marketing Officer of Lamage division",
+      "age": 30,
+      "year_born": 1995,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Praveen  Jain",
+      "role": "Head of Lamage Division",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Alpesh Vinaychandra Sangoi",
+      "role": "Finance Controller",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": "N/A"
+    }
+  ]
 }

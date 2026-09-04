@@ -1,7 +1,7 @@
 {
   "ticker": "MASTEK",
   "company": "Mastek Limited",
-  "collected_at": "2026-09-03 06:28:45",
+  "collected_at": "2026-09-04 06:41:47",
   "directors": [
     {
       "name": "Mr. Ashank Datta Desai",
@@ -53,10 +53,24 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Abhishek  Singh",
-      "role": "President of UKI & Europe",
-      "age": 46,
-      "year_born": 1979,
+      "name": "Mr. Vimalsingh  Dangri",
+      "role": "Chief Human Resources Officer & General Counsel",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Reena  Raje",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Prajakta  Talvelkar",
+      "role": "Chief Marketing Officer",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

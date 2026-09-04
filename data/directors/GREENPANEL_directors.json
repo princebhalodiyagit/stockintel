@@ -1,6 +1,77 @@
 {
   "ticker": "GREENPANEL",
   "company": "Greenpanel Industries Limited",
-  "collected_at": "2026-09-03 06:21:12",
-  "directors": []
+  "collected_at": "2026-09-04 06:32:07",
+  "directors": [
+    {
+      "name": "Mr. Shiv Prakash Mittal B.Sc.",
+      "role": "Whole Time Director & Executive Chairman",
+      "age": 76,
+      "year_born": 1949,
+      "total_pay": 58168000
+    },
+    {
+      "name": "Mr. Shobhan  Mittal B.B.A.",
+      "role": "MD, CEO & Director",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": 64838000
+    },
+    {
+      "name": "Mr. Himanshu  Jindal",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ashok Kumar Singh",
+      "role": "Senior Vice President of Operations",
+      "age": 25,
+      "year_born": 2000,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vineet  Bansal",
+      "role": "Chief Information Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Lawkush  Prasad",
+      "role": "Company Secretary, Compliance Officer & VP of Legal",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Arvind  Joshi",
+      "role": "Chief Marketing Officer",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Prakash  Tripathi",
+      "role": "Chief Sales Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Somnath  Mukherjee",
+      "role": "Chief Human Resources Officer",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Subhash Kumar Agarwal",
+      "role": "President of Technical Operations",
+      "age": 65,
+      "year_born": 1960,
+      "total_pay": "N/A"
+    }
+  ]
 }

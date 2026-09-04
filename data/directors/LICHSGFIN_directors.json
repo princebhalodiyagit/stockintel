@@ -1,7 +1,7 @@
 {
   "ticker": "LICHSGFIN",
   "company": "LIC Housing Finance Limited",
-  "collected_at": "2026-09-03 06:27:32",
+  "collected_at": "2026-09-04 06:40:13",
   "directors": [
     {
       "name": "Mr. Tribhuwan  Adhikari",
@@ -18,6 +18,13 @@
       "total_pay": 6200000
     },
     {
+      "name": "Ms. Varsha Chandar Hardasani",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 4200000
+    },
+    {
       "name": "Sandeep  Kumar",
       "role": "Chief Operating Officer",
       "age": "N/A",
@@ -32,10 +39,38 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Roby Joseph Valolickel",
-      "role": "Deputy General Manager of Taxation",
+      "name": "Mr. R.  Murali",
+      "role": "Chief Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vikas  Chaturvedi",
+      "role": "General Manager of HR, Staff Discipline & Legal",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. J.  Sangameswar",
+      "role": "Chief Risk Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. V. Krishna Mohan",
+      "role": "Chief Manager of OS",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. P S Anitha Kumari",
+      "role": "Joint General Manager of CSR & ESG",
+      "age": 55,
+      "year_born": 1970,
       "total_pay": "N/A"
     }
   ]

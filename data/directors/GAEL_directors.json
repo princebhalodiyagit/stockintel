@@ -1,8 +1,15 @@
 {
   "ticker": "GAEL",
   "company": "Gujarat Ambuja Exports Limited",
-  "collected_at": "2026-09-03 06:19:42",
+  "collected_at": "2026-09-04 06:30:12",
   "directors": [
+    {
+      "name": "Mr. Manish Vijaykumar Gupta",
+      "role": "MD & Chairman",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": 424400000
+    },
     {
       "name": "Mr. Giridhar  Nagaraj",
       "role": "Chief Financial Officer",
@@ -23,6 +30,34 @@
       "age": 54,
       "year_born": 1971,
       "total_pay": 9100000
+    },
+    {
+      "name": "Mr. Shreyaan Manish Gupta",
+      "role": "Additional Whole-Time Director",
+      "age": 25,
+      "year_born": 2000,
+      "total_pay": 500000
+    },
+    {
+      "name": "Mr. Brijmohan  Chitlange",
+      "role": "President",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Basu  Tibrewala",
+      "role": "Chief Executive",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vaibhav Sakharam Patil",
+      "role": "Vice President",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

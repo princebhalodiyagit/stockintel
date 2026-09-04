@@ -1,7 +1,7 @@
 {
   "ticker": "RPEL",
   "company": "Raghav Productivity Enhancers Limited",
-  "collected_at": "2026-09-03 06:35:37",
+  "collected_at": "2026-09-04 06:50:34",
   "directors": [
     {
       "name": "Mr. Sanjay  Kabra",
@@ -22,6 +22,13 @@
       "role": "Chief Financial Officer",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Neha  Rathi",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 31,
+      "year_born": 1994,
       "total_pay": "N/A"
     },
     {

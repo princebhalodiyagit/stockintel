@@ -1,7 +1,7 @@
 {
   "ticker": "IBULLSLTD",
   "company": "Indiabulls Limited",
-  "collected_at": "2026-09-03 06:22:56",
+  "collected_at": "2026-09-04 06:34:21",
   "directors": [
     {
       "name": "Mr. Kubeir  Khera",
@@ -13,6 +13,13 @@
     {
       "name": "Mr. Akhil  Malhotra",
       "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sachin Mahendra Singh Ghanghas",
+      "role": "Company Secretary & Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

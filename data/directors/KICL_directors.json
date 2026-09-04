@@ -1,6 +1,21 @@
 {
   "ticker": "KICL",
   "company": "Kalyani Investment Company Limited",
-  "collected_at": "2026-09-03 06:26:16",
-  "directors": []
+  "collected_at": "2026-09-04 06:38:34",
+  "directors": [
+    {
+      "name": "Mr. Anurag  Jain",
+      "role": "CEO & CFO",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Nihal Sunil Gupta",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

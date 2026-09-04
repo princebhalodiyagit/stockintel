@@ -1,7 +1,7 @@
 {
   "ticker": "WENDT",
   "company": "Wendt (India) Limited",
-  "collected_at": "2026-09-03 06:43:51",
+  "collected_at": "2026-09-04 07:01:10",
   "directors": [
     {
       "name": "Mr. Amit  Ingale",
@@ -41,6 +41,34 @@
     {
       "name": "Mr. Vipin  Malik",
       "role": "Head of Sales & Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Lakshmi Tulasi Inturi",
+      "role": "Head of Human Resources",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. R. B. Uday",
+      "role": "Head of Engineering",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. R.  Thiyagarajan",
+      "role": "Head of Research & Development",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. S. C. Sanjaya",
+      "role": "Head of Quality Assurance",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

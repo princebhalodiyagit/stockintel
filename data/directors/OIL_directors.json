@@ -1,7 +1,7 @@
 {
   "ticker": "OIL",
   "company": "Oil India Limited",
-  "collected_at": "2026-09-03 06:31:47",
+  "collected_at": "2026-09-04 06:45:42",
   "directors": [
     {
       "name": "Dr. Ranjit  Rath",
@@ -25,6 +25,20 @@
       "total_pay": 9960938
     },
     {
+      "name": "Dr. Ankur  Baruah",
+      "role": "Director of Human Resources & Director",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": 10563027
+    },
+    {
+      "name": "Saloma  Yomdo",
+      "role": "Director of Exploration & Development and Whole time Director",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": 12574364
+    },
+    {
       "name": "Abhijit  Das",
       "role": "Chief Investors Relations Officer",
       "age": "N/A",
@@ -37,6 +51,27 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 5507253
+    },
+    {
+      "name": "Mr. Pramod Kumar Saxena",
+      "role": "Chief Engineer of Production",
+      "age": 73,
+      "year_born": 1952,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Dipak  Barkakati",
+      "role": "Head of Drilling",
+      "age": 68,
+      "year_born": 1957,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Binayananda  Bharali",
+      "role": "Resident Chief Executive",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

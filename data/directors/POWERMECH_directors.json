@@ -1,7 +1,7 @@
 {
   "ticker": "POWERMECH",
   "company": "Power Mech Projects Limited",
-  "collected_at": "2026-09-03 06:33:35",
+  "collected_at": "2026-09-04 06:48:00",
   "directors": [
     {
       "name": "Mr. Sajja Kishore Babu",
@@ -29,6 +29,13 @@
       "role": "Senior Vice President",
       "age": 56,
       "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Tata Srinivasa Prasad",
+      "role": "Senior Vice President",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
@@ -62,13 +69,6 @@
     {
       "name": "Mr. Sanjiv R Deshpande",
       "role": "Sr. Vice President - HR, Admin & CHRO",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. P  Sreekanth",
-      "role": "Deputy General Manager of Legal",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

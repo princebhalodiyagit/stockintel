@@ -1,7 +1,7 @@
 {
   "ticker": "WAKEFIT",
   "company": "Wakefit Innovations Limited",
-  "collected_at": "2026-09-03 06:43:39",
+  "collected_at": "2026-09-04 07:00:54",
   "directors": [
     {
       "name": "Mr. Ankit  Garg",
@@ -16,6 +16,20 @@
       "age": 44,
       "year_born": 1981,
       "total_pay": 8960000
+    },
+    {
+      "name": "Ms. Parul  Gupta",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Surbhi  Sharma",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Kunal  Chandel",

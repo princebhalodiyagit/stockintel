@@ -1,7 +1,7 @@
 {
   "ticker": "DIAMINESQ",
   "company": "Diamines & Chemicals Limited",
-  "collected_at": "2026-09-03 06:17:24",
+  "collected_at": "2026-09-04 06:27:14",
   "directors": [
     {
       "name": "Mr. Amit Mahendra Mehta",
@@ -9,6 +9,13 @@
       "age": 71,
       "year_born": 1954,
       "total_pay": 3812000
+    },
+    {
+      "name": "Mr. Tanmay Naimish Godiawala",
+      "role": "Executive Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 3917000
     },
     {
       "name": "Mr. Dipen  Ruparelia",
@@ -23,6 +30,13 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 262562
+    },
+    {
+      "name": "Venkatesan  Arumugam",
+      "role": "VP of Manufacturing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

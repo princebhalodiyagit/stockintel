@@ -1,7 +1,7 @@
 {
   "ticker": "KIRLOSBROS",
   "company": "Kirloskar Brothers Limited",
-  "collected_at": "2026-09-03 06:26:23",
+  "collected_at": "2026-09-04 06:38:45",
   "directors": [
     {
       "name": "Mr. Sanjay Chandrakant Kirloskar",
@@ -9,13 +9,6 @@
       "age": 68,
       "year_born": 1957,
       "total_pay": 69010000
-    },
-    {
-      "name": "Ms. Rama Sanjay Kirloskar",
-      "role": "Joint MD & Executive Non-Independent Director",
-      "age": 35,
-      "year_born": 1990,
-      "total_pay": 65060000
     },
     {
       "name": "Mr. Bhavesh  Chheda",
@@ -71,6 +64,13 @@
       "role": "VP and Head - Total Quality & Productive Maintenance",
       "age": 70,
       "year_born": 1955,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sunil  Nair",
+      "role": "VP and Head \u0096 Procurement & Strategic Projects",
+      "age": 46,
+      "year_born": 1979,
       "total_pay": "N/A"
     }
   ]

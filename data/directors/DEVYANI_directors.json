@@ -1,8 +1,15 @@
 {
   "ticker": "DEVYANI",
   "company": "Devyani International Limited",
-  "collected_at": "2026-09-03 06:17:15",
+  "collected_at": "2026-09-04 06:27:03",
   "directors": [
+    {
+      "name": "Mr. Manish  Dawar",
+      "role": "Group CEO, President & Whole Time Director",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": 58150000
+    },
     {
       "name": "Mr. Pankaj Kumar Virmani",
       "role": "Company Secretary & Compliance Officer",
@@ -64,13 +71,6 @@
       "role": "Chief Development Officer",
       "age": 49,
       "year_born": 1976,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Arun  Sharma",
-      "role": "Chief Executive officer of Brand",
-      "age": 52,
-      "year_born": 1973,
       "total_pay": "N/A"
     }
   ]

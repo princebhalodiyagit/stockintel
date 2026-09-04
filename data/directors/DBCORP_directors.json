@@ -1,7 +1,7 @@
 {
   "ticker": "DBCORP",
   "company": "D.B.Corp Limited",
-  "collected_at": "2026-09-03 06:16:46",
+  "collected_at": "2026-09-04 06:26:26",
   "directors": [
     {
       "name": "Mr. Sudhir  Agarwal",
@@ -11,10 +11,66 @@
       "total_pay": 35000000
     },
     {
+      "name": "Mr. Rakesh  Goswami",
+      "role": "Chief Operating Officer - Operations",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Ms. Kaacon  Sethi",
       "role": "Chief Corp Marketing Officer - Corporate Sales",
       "age": 59,
       "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mayar  Penkar",
+      "role": "Chief Operating Officer of Corporate Sales",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ravi  Gupta",
+      "role": "Chief Human Resource Officer",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pawan  Agarwal",
+      "role": "Deputy MD & Executive Non-Independent Director",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": 30000000
+    },
+    {
+      "name": "Mr. Rahul J. Namjoshi",
+      "role": "Chief Executive Officer - Radio Division",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pathik Paresh Shah B.E.",
+      "role": "Chief Executive Officer of DB Digital",
+      "age": 35,
+      "year_born": 1990,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Paresh  Goel B.E.",
+      "role": "Chief Technical Officer of DB Digital",
+      "age": 44,
+      "year_born": 1981,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Gaurav  Bhatia",
+      "role": "CTO of DB Digital",
+      "age": 51,
+      "year_born": 1974,
       "total_pay": "N/A"
     }
   ]

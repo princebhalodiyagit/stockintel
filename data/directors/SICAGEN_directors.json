@@ -1,13 +1,55 @@
 {
   "ticker": "SICAGEN",
   "company": "Sicagen India Limited",
-  "collected_at": "2026-09-03 06:37:51",
+  "collected_at": "2026-09-04 06:53:25",
   "directors": [
+    {
+      "name": "Mr. Prasanna  Joshi",
+      "role": "Whole-Time Director & Vice President",
+      "age": 42,
+      "year_born": 1983,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "N.  Doraivelu",
+      "role": "Vice President",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. K.  Lalitha",
+      "role": "Chief Financial Officer",
+      "age": 39,
+      "year_born": 1986,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Ankita  Jain",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 35,
+      "year_born": 1990,
+      "total_pay": "N/A"
+    },
     {
       "name": "R. M. Muthuraman",
       "role": "Chief Manager",
       "age": 62,
       "year_born": 1963,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. G.  Karthikeyan",
+      "role": "Chief Manager of PCS",
+      "age": 40,
+      "year_born": 1985,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. D.  Sivakumar",
+      "role": "Chief Manager of IPD",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
@@ -29,20 +71,6 @@
       "role": "Manager",
       "age": 40,
       "year_born": 1985,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Yashpal  Batra",
-      "role": "Regional Sales Manager",
-      "age": 53,
-      "year_born": 1972,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "H.V.  Sundresh",
-      "role": "Regional Head of Projects",
-      "age": 52,
-      "year_born": 1973,
       "total_pay": "N/A"
     }
   ]

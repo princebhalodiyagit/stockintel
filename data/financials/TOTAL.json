@@ -1,14 +1,14 @@
 {
   "ticker": "TOTAL",
-  "collected_at": "2026-09-03 06:41:36",
+  "collected_at": "2026-09-04 06:58:12",
   "company_info": {
     "name": "Total Transport Systems Limited",
     "sector": "Industrials",
     "industry": "Integrated Freight & Logistics",
-    "market_cap": 1148240512,
-    "current_price": 71.2,
-    "pe_ratio": 14.7412,
-    "pb_ratio": 1.0192834,
+    "market_cap": 1132274816,
+    "current_price": 70.21,
+    "pe_ratio": 14.536232,
+    "pb_ratio": 1.0051107,
     "roe": "N/A",
     "debt_to_equity": 44.052,
     "revenue": 6677210112,
@@ -16,6 +16,6 @@
     "eps": 4.83,
     "52_week_high": 87.89,
     "52_week_low": 45.0,
-    "dividend_yield": 1.87
+    "dividend_yield": 1.81
   }
 }

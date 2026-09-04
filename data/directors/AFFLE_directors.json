@@ -1,7 +1,7 @@
 {
   "ticker": "AFFLE",
   "company": "Affle 3i Limited",
-  "collected_at": "2026-09-03 06:10:05",
+  "collected_at": "2026-09-04 06:17:37",
   "directors": [
     {
       "name": "Mr. Anuj Khanna Sohum",
@@ -9,6 +9,69 @@
       "age": 47,
       "year_born": 1978,
       "total_pay": 253200
+    },
+    {
+      "name": "Mr. Kapil Mohan Bhutani",
+      "role": "Chief Financial and Operations Officer & Interim Compliance Officer",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": 19660000
+    },
+    {
+      "name": "Mr. Jien Foong Yong",
+      "role": "Chief Architect and Technology Officer",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vipul  Kedia",
+      "role": "Chief Operating Officer of India & Emerging Markets",
+      "age": 44,
+      "year_born": 1981,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Parmita  Choudhury",
+      "role": "Company Secretary & Compliance Officer (Leave of Absence)",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 2640000
+    },
+    {
+      "name": "Mr. Viraj  Sinh",
+      "role": "Co-founder & Chief Strategic Initiatives Officer",
+      "age": 44,
+      "year_born": 1981,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Karish  Manchanda",
+      "role": "Associate Director of Investor Relations, Strategy & Corporate Communication",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pankaj  Lad",
+      "role": "Director of Sales",
+      "age": 39,
+      "year_born": 1986,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Aswini  Bommakanti",
+      "role": "Marketing Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ankit  Rawal",
+      "role": "Senior Vice President of Business Development & Partnerships",
+      "age": 44,
+      "year_born": 1981,
+      "total_pay": "N/A"
     }
   ]
 }

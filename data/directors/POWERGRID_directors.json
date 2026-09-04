@@ -1,21 +1,14 @@
 {
   "ticker": "POWERGRID",
   "company": "Power Grid Corporation of India Limited",
-  "collected_at": "2026-09-03 06:33:32",
+  "collected_at": "2026-09-04 06:47:56",
   "directors": [
     {
-      "name": "Mr. Naveen  Srivastava",
-      "role": "Director of Operations & Director",
-      "age": 57,
-      "year_born": 1968,
-      "total_pay": 10329892
-    },
-    {
-      "name": "Dr. Yatindra  Dwivedi",
-      "role": "Director of Finance, Director of Personnel & Director",
-      "age": 58,
-      "year_born": 1967,
-      "total_pay": 10708023
+      "name": "Mr. Vamsi Rama Mohan Burra",
+      "role": "Director of Projects, Chairman & MD",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": 9816845
     },
     {
       "name": "Ms. Anjana  Luthra",
@@ -55,6 +48,27 @@
     {
       "name": "Mr. Sanjay Kumar Gupta",
       "role": "COO of International Business & Executive Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Venkata Subrahamanayam Vallurie",
+      "role": "Chief General Manager of F&A",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Dharambir  Kumar",
+      "role": "Chief GM & Executive Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vibhay  Kumar",
+      "role": "Executive Director of ESG & Net Zero",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
