@@ -1,14 +1,14 @@
 {
   "ticker": "AMJLAND",
-  "collected_at": "2026-09-04 06:18:43",
+  "collected_at": "2026-09-05 06:06:44",
   "company_info": {
     "name": "AMJ Land Holdings Limited",
     "sector": "Real Estate",
     "industry": "Real Estate - Development",
-    "market_cap": 1622370048,
-    "current_price": 39.57,
-    "pe_ratio": 11.146479,
-    "pb_ratio": 0.7619726,
+    "market_cap": 1618270080,
+    "current_price": 39.47,
+    "pe_ratio": 11.11831,
+    "pb_ratio": 0.760047,
     "roe": "N/A",
     "debt_to_equity": "N/A",
     "revenue": 621059008,
@@ -16,6 +16,6 @@
     "eps": 3.55,
     "52_week_high": 61.0,
     "52_week_low": 30.3,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.51
   }
 }

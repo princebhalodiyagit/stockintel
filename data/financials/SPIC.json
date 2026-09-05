@@ -1,14 +1,14 @@
 {
   "ticker": "SPIC",
-  "collected_at": "2026-09-04 06:54:37",
+  "collected_at": "2026-09-05 06:35:01",
   "company_info": {
     "name": "Southern Petrochemical Industries Corporation Limited",
     "sector": "Basic Materials",
     "industry": "Agricultural Inputs",
-    "market_cap": 14590830592,
-    "current_price": 71.65,
-    "pe_ratio": 7.115194,
-    "pb_ratio": 1.0636245,
+    "market_cap": 14515482624,
+    "current_price": 71.28,
+    "pe_ratio": 7.078451,
+    "pb_ratio": 1.0581319,
     "roe": "N/A",
     "debt_to_equity": 51.296,
     "revenue": 30241499136,
@@ -16,6 +16,6 @@
     "eps": 10.07,
     "52_week_high": 124.0,
     "52_week_low": 55.1,
-    "dividend_yield": 2.89
+    "dividend_yield": 2.81
   }
 }

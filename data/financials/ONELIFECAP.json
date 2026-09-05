@@ -1,14 +1,14 @@
 {
   "ticker": "ONELIFECAP",
-  "collected_at": "2026-09-04 06:45:52",
+  "collected_at": "2026-09-05 06:28:04",
   "company_info": {
     "name": "Onelife Capital Advisors Limited",
     "sector": "Financial Services",
     "industry": "Capital Markets",
-    "market_cap": 1213826432,
-    "current_price": 32.49,
-    "pe_ratio": 11.320559,
-    "pb_ratio": 1.5844917,
+    "market_cap": 1202244864,
+    "current_price": 32.18,
+    "pe_ratio": 11.212544,
+    "pb_ratio": 1.5693734,
     "roe": "N/A",
     "debt_to_equity": 42.418,
     "revenue": 371500000,
@@ -16,6 +16,6 @@
     "eps": 2.87,
     "52_week_high": 40.1,
     "52_week_low": 11.15,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.03
   }
 }

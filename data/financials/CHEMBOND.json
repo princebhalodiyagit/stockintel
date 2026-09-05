@@ -1,14 +1,14 @@
 {
   "ticker": "CHEMBOND",
-  "collected_at": "2026-09-04 06:24:44",
+  "collected_at": "2026-09-05 06:11:24",
   "company_info": {
     "name": "Chembond Material Technologies Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals",
-    "market_cap": 2339464192,
-    "current_price": 173.96,
-    "pe_ratio": 16.107409,
-    "pb_ratio": 1.4013662,
+    "market_cap": 2298312448,
+    "current_price": 170.9,
+    "pe_ratio": 15.824073,
+    "pb_ratio": 1.3767158,
     "roe": "N/A",
     "debt_to_equity": 2.49,
     "revenue": 2648145920,
@@ -16,6 +16,6 @@
     "eps": 10.8,
     "52_week_high": 205.78,
     "52_week_low": 105.15,
-    "dividend_yield": 1.19
+    "dividend_yield": 1.16
   }
 }

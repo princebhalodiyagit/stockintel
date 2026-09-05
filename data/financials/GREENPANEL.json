@@ -1,14 +1,14 @@
 {
   "ticker": "GREENPANEL",
-  "collected_at": "2026-09-04 06:32:07",
+  "collected_at": "2026-09-05 06:17:08",
   "company_info": {
     "name": "Greenpanel Industries Limited",
     "sector": "Basic Materials",
     "industry": "Lumber & Wood Production",
-    "market_cap": 19579916288,
-    "current_price": 159.67,
-    "pe_ratio": 295.68518,
-    "pb_ratio": 1.4440756,
+    "market_cap": 19414370304,
+    "current_price": 158.32,
+    "pe_ratio": 293.18518,
+    "pb_ratio": 1.4318662,
     "roe": "N/A",
     "debt_to_equity": 27.299,
     "revenue": 15609861120,
@@ -16,6 +16,6 @@
     "eps": 0.54,
     "52_week_high": 333.8,
     "52_week_low": 154.55,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.32
   }
 }

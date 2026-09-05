@@ -1,14 +1,14 @@
 {
   "ticker": "MARATHON",
-  "collected_at": "2026-09-04 06:41:37",
+  "collected_at": "2026-09-05 06:24:43",
   "company_info": {
     "name": "Marathon Nextgen Realty Limited",
     "sector": "Real Estate",
     "industry": "Real Estate - Development",
-    "market_cap": 29962242048,
-    "current_price": 444.25,
-    "pe_ratio": 14.527469,
-    "pb_ratio": 1.2932628,
+    "market_cap": 29533968384,
+    "current_price": 437.9,
+    "pe_ratio": 14.319817,
+    "pb_ratio": 1.2747773,
     "roe": "N/A",
     "debt_to_equity": 4.266,
     "revenue": 5528032256,
@@ -16,6 +16,6 @@
     "eps": 30.58,
     "52_week_high": 685.4,
     "52_week_low": 344.05,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.23
   }
 }

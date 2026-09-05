@@ -1,6 +1,28 @@
 {
   "ticker": "AVAILFC",
   "company": "Available Finance Limited",
-  "collected_at": "2026-09-04 06:20:45",
-  "directors": []
+  "collected_at": "2026-09-05 06:08:16",
+  "directors": [
+    {
+      "name": "Mr. Mahesh  Nirmal",
+      "role": "Chief Financial Officer",
+      "age": 36,
+      "year_born": 1989,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Suyash  Choudhary C.S.",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 31,
+      "year_born": 1994,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sahaj  Jain",
+      "role": "Whole-Time Director",
+      "age": 32,
+      "year_born": 1993,
+      "total_pay": "N/A"
+    }
+  ]
 }

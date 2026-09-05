@@ -1,7 +1,7 @@
 {
   "ticker": "GRAUWEIL",
   "company": "Grauer & Weil India Limited",
-  "collected_at": "2026-09-04 06:32:01",
+  "collected_at": "2026-09-05 06:17:04",
   "directors": [
     {
       "name": "Mr. Umeshkumar N. More",
@@ -46,13 +46,6 @@
       "total_pay": 1840000
     },
     {
-      "name": "Mr. Manish  Mehra",
-      "role": "Chief Operating Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Chintan K. Gandhi",
       "role": "Compliance Officer & Company Secretary",
       "age": "N/A",
@@ -72,6 +65,13 @@
       "age": 72,
       "year_born": 1953,
       "total_pay": 528000
+    },
+    {
+      "name": "Mr. Noel  Jacob",
+      "role": "Senior Vice President of Corporate",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

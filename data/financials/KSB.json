@@ -1,14 +1,14 @@
 {
   "ticker": "KSB",
-  "collected_at": "2026-09-04 06:39:35",
+  "collected_at": "2026-09-05 06:23:07",
   "company_info": {
     "name": "KSB Limited",
     "sector": "Industrials",
     "industry": "Specialty Industrial Machinery",
-    "market_cap": 141598294016,
-    "current_price": 813.6,
-    "pe_ratio": 57.702126,
-    "pb_ratio": 8.332992,
+    "market_cap": 141589594112,
+    "current_price": 813.55,
+    "pe_ratio": 57.698578,
+    "pb_ratio": 8.3324795,
     "roe": 0.15192,
     "debt_to_equity": 0.371,
     "revenue": 27256279040,
@@ -16,6 +16,6 @@
     "eps": 14.1,
     "52_week_high": 1028.3,
     "52_week_low": 666.65,
-    "dividend_yield": 0.55
+    "dividend_yield": 0.54
   }
 }

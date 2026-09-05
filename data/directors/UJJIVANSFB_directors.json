@@ -1,15 +1,8 @@
 {
   "ticker": "UJJIVANSFB",
   "company": "Ujjivan Small Finance Bank Limited",
-  "collected_at": "2026-09-04 06:59:03",
+  "collected_at": "2026-09-05 06:38:30",
   "directors": [
-    {
-      "name": "Mr. Sanjeev  Nautiyal",
-      "role": "MD, CEO, President & Executive Director",
-      "age": 64,
-      "year_born": 1961,
-      "total_pay": 30458000
-    },
     {
       "name": "Mr. Sadananda Balakrishna Kamath",
       "role": "Chief Financial Officer",
@@ -69,6 +62,13 @@
     {
       "name": "Mr. Rajaneesh Hosakoppa Rudresha",
       "role": "Chief Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Flovie  Martins",
+      "role": "Head of Corporate Communications",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

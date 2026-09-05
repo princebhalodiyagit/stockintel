@@ -1,14 +1,14 @@
 {
   "ticker": "HISARMETAL",
-  "collected_at": "2026-09-04 06:33:52",
+  "collected_at": "2026-09-05 06:18:30",
   "company_info": {
     "name": "Hisar Metal Industries Limited",
     "sector": "Basic Materials",
     "industry": "Steel",
-    "market_cap": 885546048,
-    "current_price": 163.99,
-    "pe_ratio": 18.592972,
-    "pb_ratio": 1.3471396,
+    "market_cap": 875825984,
+    "current_price": 162.19,
+    "pe_ratio": 18.38889,
+    "pb_ratio": 1.332353,
     "roe": "N/A",
     "debt_to_equity": 131.663,
     "revenue": 2642768896,
@@ -16,6 +16,6 @@
     "eps": 8.82,
     "52_week_high": 194.97,
     "52_week_low": 124.99,
-    "dividend_yield": 0.63
+    "dividend_yield": 0.61
   }
 }
