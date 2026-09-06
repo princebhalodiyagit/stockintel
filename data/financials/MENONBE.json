@@ -1,14 +1,14 @@
 {
   "ticker": "MENONBE",
-  "collected_at": "2026-09-05 06:25:15",
+  "collected_at": "2026-09-06 06:38:13",
   "company_info": {
     "name": "Menon Bearings Limited",
     "sector": "Consumer Cyclical",
     "industry": "Auto Parts",
-    "market_cap": 18011254784,
-    "current_price": 321.4,
-    "pe_ratio": 40.994896,
-    "pb_ratio": 9.717603,
+    "market_cap": 17932800000,
+    "current_price": 320.0,
+    "pe_ratio": 40.816326,
+    "pb_ratio": 9.675273,
     "roe": "N/A",
     "debt_to_equity": 25.279,
     "revenue": 3192869888,
@@ -16,6 +16,6 @@
     "eps": 7.84,
     "52_week_high": 323.95,
     "52_week_low": 101.5,
-    "dividend_yield": 1.3
+    "dividend_yield": 1.24
   }
 }

@@ -1,14 +1,14 @@
 {
   "ticker": "VERTOZ",
-  "collected_at": "2026-09-05 06:39:17",
+  "collected_at": "2026-09-06 06:52:23",
   "company_info": {
     "name": "Vertoz Limited",
     "sector": "Technology",
     "industry": "Software - Infrastructure",
-    "market_cap": 3209761792,
-    "current_price": 37.66,
-    "pe_ratio": 91.85366,
-    "pb_ratio": 1.4854257,
+    "market_cap": 3153509888,
+    "current_price": 37.0,
+    "pe_ratio": 90.243904,
+    "pb_ratio": 1.4593934,
     "roe": "N/A",
     "debt_to_equity": 38.592,
     "revenue": 3030093056,
@@ -16,6 +16,6 @@
     "eps": 0.41,
     "52_week_high": 86.75,
     "52_week_low": 27.02,
-    "dividend_yield": 0.26
+    "dividend_yield": 0.27
   }
 }

@@ -1,7 +1,7 @@
 {
   "ticker": "AMBER",
   "company": "Amber Enterprises India Limited",
-  "collected_at": "2026-09-05 06:06:39",
+  "collected_at": "2026-09-06 06:19:36",
   "directors": [
     {
       "name": "Mr. Jasbir  Singh",
@@ -11,39 +11,11 @@
       "total_pay": 59719000
     },
     {
-      "name": "Mr. Sudhir  Goyal",
-      "role": "Chief Financial Officer",
-      "age": 48,
-      "year_born": 1977,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ms. Konica  Yaadav",
-      "role": "Company Secretary & Compliance Officer",
-      "age": 36,
-      "year_born": 1989,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Daljit  Singh",
-      "role": "MD & Executive Director",
-      "age": 47,
-      "year_born": 1978,
-      "total_pay": 57122000
-    },
-    {
       "name": "Mr. Sachin  Gupta",
       "role": "CEO of RAC & CAC Division and Whole Time Director",
       "age": 44,
       "year_born": 1981,
       "total_pay": 28239000
-    },
-    {
-      "name": "Mr. Sanjay Kumar Arora",
-      "role": "Whole Time Director of IL JIN Electronics",
-      "age": 65,
-      "year_born": 1960,
-      "total_pay": 15861000
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
   "ticker": "REMSONSIND",
-  "collected_at": "2026-09-05 06:31:20",
+  "collected_at": "2026-09-06 06:44:17",
   "company_info": {
     "name": "Remsons Industries Limited",
     "sector": "Consumer Cyclical",
     "industry": "Auto Parts",
-    "market_cap": 3484016128,
-    "current_price": 99.35,
-    "pe_ratio": 20.030241,
-    "pb_ratio": 2.3252819,
+    "market_cap": 3478755840,
+    "current_price": 99.2,
+    "pe_ratio": 20.0,
+    "pb_ratio": 2.3217711,
     "roe": "N/A",
     "debt_to_equity": 62.789,
     "revenue": 4888032768,
@@ -16,6 +16,6 @@
     "eps": 4.96,
     "52_week_high": 152.45,
     "52_week_low": 75.23,
-    "dividend_yield": 0.53
+    "dividend_yield": 0.5
   }
 }

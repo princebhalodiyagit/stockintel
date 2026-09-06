@@ -1,7 +1,7 @@
 {
   "ticker": "IOC",
   "company": "Indian Oil Corporation Limited",
-  "collected_at": "2026-09-05 06:20:16",
+  "collected_at": "2026-09-06 06:33:16",
   "directors": [
     {
       "name": "Mr. Anuj  Jain",
@@ -30,13 +30,6 @@
       "age": 54,
       "year_born": 1971,
       "total_pay": 9232720
-    },
-    {
-      "name": "Mr. Arvind  Kumar",
-      "role": "Director of Pipelines, Director of Refineries & Director",
-      "age": 58,
-      "year_born": 1967,
-      "total_pay": 12617391
     },
     {
       "name": "Mr. Suman  Kumar",
@@ -69,6 +62,13 @@
     {
       "name": "Mr. Lalit Kumar Jha",
       "role": "Executive Director & Regional Head of SRPL Chennai",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Arvind  Acharya",
+      "role": "Executive Director of Corporate Office & Chief Risk Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

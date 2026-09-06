@@ -1,7 +1,7 @@
 {
   "ticker": "BECTORFOOD",
   "company": "Mrs. Bectors Food Specialities Limited",
-  "collected_at": "2026-09-05 06:09:22",
+  "collected_at": "2026-09-06 06:22:19",
   "directors": [
     {
       "name": "Mr. Manu  Talwar",
@@ -16,27 +16,6 @@
       "age": 39,
       "year_born": 1986,
       "total_pay": 2030000
-    },
-    {
-      "name": "Mr. Anoop  Bector",
-      "role": "MD & Director",
-      "age": 63,
-      "year_born": 1962,
-      "total_pay": 83320000
-    },
-    {
-      "name": "Mr. Ishaan  Bector",
-      "role": "Whole Time Director",
-      "age": 36,
-      "year_born": 1989,
-      "total_pay": 36150000
-    },
-    {
-      "name": "Mr. Suvir  Bector",
-      "role": "Whole Time Director",
-      "age": 30,
-      "year_born": 1995,
-      "total_pay": 36100000
     },
     {
       "name": "Brijesh Dilipkumar Solanki",
@@ -71,6 +50,27 @@
       "role": "Group Head of Technical, Quality and R&D",
       "age": 63,
       "year_born": 1962,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Apoorva  Bais",
+      "role": "Head of Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Nitesh  Kotian",
+      "role": "Chief Business Officer of Domestics Biscuits Division",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Sanchali  Gupta",
+      "role": "Head of International Business - Middle East",
+      "age": 38,
+      "year_born": 1987,
       "total_pay": "N/A"
     }
   ]

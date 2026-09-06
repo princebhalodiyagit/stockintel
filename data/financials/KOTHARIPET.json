@@ -1,14 +1,14 @@
 {
   "ticker": "KOTHARIPET",
-  "collected_at": "2026-09-05 06:22:44",
+  "collected_at": "2026-09-06 06:35:42",
   "company_info": {
     "name": "Kothari Petrochemicals Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals",
-    "market_cap": 7682985984,
-    "current_price": 130.56,
-    "pe_ratio": 10.684124,
-    "pb_ratio": 2.063896,
+    "market_cap": 7679455232,
+    "current_price": 130.5,
+    "pe_ratio": 10.6792145,
+    "pb_ratio": 2.0629475,
     "roe": "N/A",
     "debt_to_equity": 0.601,
     "revenue": 5772213248,
@@ -16,6 +16,6 @@
     "eps": 12.22,
     "52_week_high": 169.0,
     "52_week_low": 94.75,
-    "dividend_yield": 1.55
+    "dividend_yield": 1.53
   }
 }

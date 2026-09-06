@@ -1,14 +1,14 @@
 {
   "ticker": "HONASA",
-  "collected_at": "2026-09-05 06:18:40",
+  "collected_at": "2026-09-06 06:31:40",
   "company_info": {
     "name": "Honasa Consumer Limited",
     "sector": "Consumer Defensive",
     "industry": "Household & Personal Products",
-    "market_cap": 153573703680,
-    "current_price": 471.05,
-    "pe_ratio": 61.736565,
-    "pb_ratio": 10.838202,
+    "market_cap": 153231392768,
+    "current_price": 470.0,
+    "pe_ratio": 61.59895,
+    "pb_ratio": 10.814044,
     "roe": "N/A",
     "debt_to_equity": 9.586,
     "revenue": 25526339584,
@@ -16,6 +16,6 @@
     "eps": 7.63,
     "52_week_high": 509.8,
     "52_week_low": 248.4,
-    "dividend_yield": 0.63
+    "dividend_yield": 0.64
   }
 }

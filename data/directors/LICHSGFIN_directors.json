@@ -1,15 +1,8 @@
 {
   "ticker": "LICHSGFIN",
   "company": "LIC Housing Finance Limited",
-  "collected_at": "2026-09-05 06:23:37",
+  "collected_at": "2026-09-06 06:36:36",
   "directors": [
-    {
-      "name": "Mr. Tribhuwan  Adhikari",
-      "role": "CEO, MD & Director",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 11408596
-    },
     {
       "name": "Mr. Lokesh  Mundhra",
       "role": "Chief Financial Officer",
@@ -71,6 +64,13 @@
       "role": "Joint General Manager of CSR & ESG",
       "age": 55,
       "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jimit Narendra Shah",
+      "role": "Chief Information Security Officer",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

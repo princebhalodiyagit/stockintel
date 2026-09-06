@@ -1,14 +1,14 @@
 {
   "ticker": "JINDALSAW",
-  "collected_at": "2026-09-05 06:21:03",
+  "collected_at": "2026-09-06 06:34:03",
   "company_info": {
     "name": "Jindal Saw Limited",
     "sector": "Basic Materials",
     "industry": "Steel",
-    "market_cap": 194665725952,
-    "current_price": 305.3,
-    "pe_ratio": 29.843597,
-    "pb_ratio": 1.5471623,
+    "market_cap": 194474442752,
+    "current_price": 305.0,
+    "pe_ratio": 29.814274,
+    "pb_ratio": 1.5456421,
     "roe": "N/A",
     "debt_to_equity": 38.19,
     "revenue": 182627958784,
@@ -16,6 +16,6 @@
     "eps": 10.23,
     "52_week_high": 319.5,
     "52_week_low": 153.0,
-    "dividend_yield": 0.64
+    "dividend_yield": 0.66
   }
 }
