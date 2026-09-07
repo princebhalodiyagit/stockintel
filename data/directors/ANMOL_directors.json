@@ -1,14 +1,14 @@
 {
   "ticker": "ANMOL",
   "company": "Anmol India Limited",
-  "collected_at": "2026-09-06 06:19:51",
+  "collected_at": "2026-09-07 06:28:23",
   "directors": [
     {
       "name": "Mr. Vijay  Kumar",
       "role": "MD, CFO & Director",
       "age": 65,
       "year_born": 1960,
-      "total_pay": "N/A"
+      "total_pay": 3000000
     },
     {
       "name": "Ms. Parabhjot  Kaur",
@@ -22,7 +22,7 @@
       "role": "Whole Time Director",
       "age": 34,
       "year_born": 1991,
-      "total_pay": "N/A"
+      "total_pay": 2400000
     },
     {
       "name": "Mr. Nitesh  Kumar",

@@ -1,35 +1,14 @@
 {
   "ticker": "POLICYBZR",
   "company": "PB Fintech Limited",
-  "collected_at": "2026-09-06 06:42:35",
+  "collected_at": "2026-09-07 06:54:10",
   "directors": [
     {
       "name": "Mr. Yashish  Dahiya",
       "role": "Executive Chairman & CEO",
       "age": 53,
       "year_born": 1972,
-      "total_pay": 6383545666
-    },
-    {
-      "name": "Mr. Alok  Bansal",
-      "role": "Co-Founder & Executive Vice Chairman",
-      "age": 50,
-      "year_born": 1975,
-      "total_pay": 2479749206
-    },
-    {
-      "name": "Mr. Mandeep  Mehta",
-      "role": "Group Chief Financial Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Anil  Kumar",
-      "role": "Senior Vice President of Technology",
-      "age": 42,
-      "year_born": 1983,
-      "total_pay": "N/A"
+      "total_pay": 2359047119
     },
     {
       "name": "Rajiv Kumar Gupta",
@@ -71,6 +50,27 @@
       "role": "Group Head of Legal & Compliance",
       "age": 46,
       "year_born": 1979,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Bhasker  Joshi",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Sai  Narayan",
+      "role": "Chief Marketing Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Harsh Vardhan Masta",
+      "role": "Head of Payments",
+      "age": 39,
+      "year_born": 1986,
       "total_pay": "N/A"
     }
   ]

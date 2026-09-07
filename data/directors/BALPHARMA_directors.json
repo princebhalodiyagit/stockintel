@@ -1,15 +1,8 @@
 {
   "ticker": "BALPHARMA",
   "company": "Bal Pharma Limited",
-  "collected_at": "2026-09-06 06:21:53",
+  "collected_at": "2026-09-07 06:30:42",
   "directors": [
-    {
-      "name": "Mr. Shailesh Dheerajmal Siroya",
-      "role": "MD & Executive Director",
-      "age": 59,
-      "year_born": 1966,
-      "total_pay": 18000000
-    },
     {
       "name": "Mr. Daddanala Venkat Bharath Bhushan",
       "role": "Chief Financial Officer",
@@ -57,13 +50,6 @@
       "role": "Senior General Manager",
       "age": 53,
       "year_born": 1972,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ezaz Kaseem Azmi",
-      "role": "General Manager",
-      "age": 43,
-      "year_born": 1982,
       "total_pay": "N/A"
     }
   ]

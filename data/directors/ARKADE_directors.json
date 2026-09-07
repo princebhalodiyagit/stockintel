@@ -1,7 +1,7 @@
 {
   "ticker": "ARKADE",
   "company": "Arkade Developers Limited",
-  "collected_at": "2026-09-06 06:20:22",
+  "collected_at": "2026-09-07 06:28:59",
   "directors": [
     {
       "name": "Mr. Amit Mangilal Jain",
@@ -25,32 +25,11 @@
       "total_pay": 1131000
     },
     {
-      "name": "Mr. Sandeep Ummedmal Jain",
-      "role": "Additional Whole Time Director",
-      "age": 40,
-      "year_born": 1985,
-      "total_pay": 10000000
-    },
-    {
       "name": "Mr. Arpit Vikram Jain",
       "role": "Whole Time Director",
       "age": 33,
       "year_born": 1992,
       "total_pay": 10000000
-    },
-    {
-      "name": "Mr. Amol Vasudev Desai",
-      "role": "Assistant GM of Accounts & Finance",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Shreyas Prakash Oke",
-      "role": "Assistant GM of HR & ODT",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
     }
   ]
 }

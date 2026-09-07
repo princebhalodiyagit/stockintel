@@ -1,57 +1,8 @@
 {
   "ticker": "SUNFLAG",
   "company": "Sunflag Iron And Steel Company Limited",
-  "collected_at": "2026-09-06 06:48:57",
+  "collected_at": "2026-09-07 07:01:17",
   "directors": [
-    {
-      "name": "Mr. S. Mahadevan Iyer",
-      "role": "Chief Financial Officer",
-      "age": 59,
-      "year_born": 1966,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Ramchandra Vasant Dalvi B.Tech",
-      "role": "Whole-time Director & Director of Technical",
-      "age": 75,
-      "year_born": 1950,
-      "total_pay": 19622670
-    },
-    {
-      "name": "Mr. Pranav Ravi Bhardwaj",
-      "role": "MD & Executive Director",
-      "age": 51,
-      "year_born": 1974,
-      "total_pay": 61226311
-    },
-    {
-      "name": "Mr. D. S. Kalne",
-      "role": "Vice President of Finance",
-      "age": 69,
-      "year_born": 1956,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Dev Dyuti Sen",
-      "role": "Chief Executive Officer",
-      "age": 60,
-      "year_born": 1965,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Satyadev  Bhardwaj",
-      "role": "Founder",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Ashutosh  Mishra C.S.",
-      "role": "Head Company Secretary & Compliance Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
     {
       "name": "Mr. S. K. Chanda",
       "role": "Head-Marketing",
@@ -71,6 +22,20 @@
       "role": "Head-SMS",
       "age": 53,
       "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Satish  Srivastav",
+      "role": "Head (HRM, Safety & Training)",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Samit  Banerjee",
+      "role": "Head (ACE & Systems)",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

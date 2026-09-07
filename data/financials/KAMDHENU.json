@@ -1,14 +1,14 @@
 {
   "ticker": "KAMDHENU",
-  "collected_at": "2026-09-06 06:34:52",
+  "collected_at": "2026-09-07 06:45:26",
   "company_info": {
     "name": "Kamdhenu Limited",
     "sector": "Basic Materials",
     "industry": "Steel",
-    "market_cap": 11078001664,
-    "current_price": 39.3,
-    "pe_ratio": 13.187919,
-    "pb_ratio": 2.7874317,
+    "market_cap": 11261225984,
+    "current_price": 39.95,
+    "pe_ratio": 13.40604,
+    "pb_ratio": 2.8335342,
     "roe": "N/A",
     "debt_to_equity": 2.375,
     "revenue": 7809714176,
@@ -16,6 +16,6 @@
     "eps": 2.98,
     "52_week_high": 40.44,
     "52_week_low": 16.15,
-    "dividend_yield": 1.03
+    "dividend_yield": 1.02
   }
 }

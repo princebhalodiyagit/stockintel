@@ -1,15 +1,8 @@
 {
   "ticker": "POWERMECH",
   "company": "Power Mech Projects Limited",
-  "collected_at": "2026-09-06 06:42:45",
+  "collected_at": "2026-09-07 06:54:20",
   "directors": [
-    {
-      "name": "Mr. Sajja Kishore Babu",
-      "role": "Chairman & MD",
-      "age": 62,
-      "year_born": 1963,
-      "total_pay": 206684189
-    },
     {
       "name": "Mr. Rohit  Sajja",
       "role": "Executive Director of Business Development & Operations, Whole-Time Director and President",
@@ -69,6 +62,13 @@
     {
       "name": "Mr. Raghavendra Prasad Movva",
       "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. K. Sekhar Babu",
+      "role": "Senior Vice President - O&M",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

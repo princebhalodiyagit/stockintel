@@ -1,7 +1,7 @@
 {
   "ticker": "AARTIIND",
   "company": "Aarti Industries Limited",
-  "collected_at": "2026-09-06 06:18:00",
+  "collected_at": "2026-09-07 06:26:16",
   "directors": [
     {
       "name": "Mr. Rajendra Vallabhaji Gogri",
@@ -9,13 +9,6 @@
       "age": 66,
       "year_born": 1959,
       "total_pay": 51900000
-    },
-    {
-      "name": "Mr. Suyog Kalyanji Kotecha",
-      "role": "CEO & Executive Director",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 47800000
     },
     {
       "name": "Mr. Rashesh Chandrakant Gogri",
@@ -53,13 +46,6 @@
       "total_pay": 523945
     },
     {
-      "name": "Mr. Chetan Bipin Gandhi CA",
-      "role": "Chief Financial Officer & Chief Risk Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Bhaskaran  Rajagopalan",
       "role": "Chief Technology Officer",
       "age": "N/A",
@@ -71,6 +57,20 @@
       "role": "Chief Scientific Officer",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Raj Kumar Sarraf",
+      "role": "Compliance Officer & Company Secretary",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Adwait  Thakre",
+      "role": "Senior Vice President of Zone-3 Head",
+      "age": 62,
+      "year_born": 1963,
       "total_pay": "N/A"
     }
   ]
