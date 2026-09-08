@@ -1,7 +1,7 @@
 {
   "ticker": "JSWENERGY",
   "company": "JSW Energy Limited",
-  "collected_at": "2026-09-07 06:44:59",
+  "collected_at": "2026-09-08 06:31:41",
   "directors": [
     {
       "name": "Mr. Sajjan Kumar Jindal B.E.",
@@ -46,13 +46,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Ms. Anushree  Singh",
-      "role": "Head of Human Resources",
-      "age": 43,
-      "year_born": 1982,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Chhavi Nath Singh PG Diploma",
       "role": "Head of Plant - Akaltara",
       "age": 63,
@@ -71,6 +64,13 @@
       "role": "Senior Vice President",
       "age": 69,
       "year_born": 1956,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Aditya  Agarwal MBA",
+      "role": "Chief Operating Officer of Renewable",
+      "age": 55,
+      "year_born": 1970,
       "total_pay": "N/A"
     }
   ]

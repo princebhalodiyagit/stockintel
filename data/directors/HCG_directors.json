@@ -1,7 +1,7 @@
 {
   "ticker": "HCG",
   "company": "Healthcare Global Enterprises Limited",
-  "collected_at": "2026-09-07 06:40:58",
+  "collected_at": "2026-09-08 06:28:08",
   "directors": [
     {
       "name": "Ms. Sunu Manuel Abey",
@@ -46,13 +46,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Romiya  Das",
-      "role": "Public Relation Manager",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Ashutosh  Kumar",
       "role": "Vice President of Strategic Planning & Corporate Development",
       "age": "N/A",
@@ -71,6 +64,13 @@
       "role": "Chief Human Resource Officer",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Naveen Ramachandra Nagar",
+      "role": "Head of Clinical Strategy",
+      "age": 53,
+      "year_born": 1972,
       "total_pay": "N/A"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "ticker": "TARC",
   "company": "TARC Limited",
-  "collected_at": "2026-09-07 07:02:08",
+  "collected_at": "2026-09-08 06:46:48",
   "directors": [
     {
       "name": "Mr. Amar  Sarin",
@@ -46,13 +46,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Vaibhav  Gupta",
-      "role": "DGM of Accounts",
-      "age": 46,
-      "year_born": 1979,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Atul  Bajaj",
       "role": "Head of Administration",
       "age": "N/A",
@@ -60,17 +53,24 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Sushil  Singhal",
-      "role": "Vice President of Investor Relations",
-      "age": 50,
-      "year_born": 1975,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Basudeb  Biswas",
       "role": "General Counsel",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mridul  Srivastava",
+      "role": "Chief Human Resources Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ajay Singh Pathania",
+      "role": "Head of Corporate Relation & Chief Liaison Officer",
+      "age": 56,
+      "year_born": 1969,
       "total_pay": "N/A"
     }
   ]
