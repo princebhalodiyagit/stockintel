@@ -1,14 +1,14 @@
 {
   "ticker": "CAPITALSFB",
-  "collected_at": "2026-09-08 06:21:03",
+  "collected_at": "2026-09-09 06:28:05",
   "company_info": {
     "name": "Capital Small Finance Bank Limited",
     "sector": "Financial Services",
     "industry": "Banks - Regional",
-    "market_cap": 12741617664,
-    "current_price": 280.25,
-    "pe_ratio": 8.466767,
-    "pb_ratio": 0.85552925,
+    "market_cap": 12730251264,
+    "current_price": 280.0,
+    "pe_ratio": 8.459215,
+    "pb_ratio": 0.8547661,
     "roe": 0.10521,
     "debt_to_equity": "N/A",
     "revenue": 5140180992,
@@ -16,6 +16,6 @@
     "eps": 33.1,
     "52_week_high": 323.7,
     "52_week_low": 206.55,
-    "dividend_yield": 1.78
+    "dividend_yield": 1.8
   }
 }

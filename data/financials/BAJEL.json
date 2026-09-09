@@ -1,14 +1,14 @@
 {
   "ticker": "BAJEL",
-  "collected_at": "2026-09-08 06:18:59",
+  "collected_at": "2026-09-09 06:25:59",
   "company_info": {
     "name": "Bajel Projects Limited",
     "sector": "Utilities",
     "industry": "Utilities - Regulated Electric",
-    "market_cap": 21221132288,
-    "current_price": 183.42,
-    "pe_ratio": 97.047615,
-    "pb_ratio": 2.8387036,
+    "market_cap": 21172539392,
+    "current_price": 183.0,
+    "pe_ratio": 96.8254,
+    "pb_ratio": 2.8322036,
     "roe": "N/A",
     "debt_to_equity": 49.067,
     "revenue": 27508244480,
@@ -16,6 +16,6 @@
     "eps": 1.89,
     "52_week_high": 226.69,
     "52_week_low": 135.1,
-    "dividend_yield": 0.33
+    "dividend_yield": 0.32
   }
 }

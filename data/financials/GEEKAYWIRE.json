@@ -1,14 +1,14 @@
 {
   "ticker": "GEEKAYWIRE",
-  "collected_at": "2026-09-08 06:26:10",
+  "collected_at": "2026-09-09 06:33:24",
   "company_info": {
     "name": "Geekay Wires Limited",
     "sector": "Industrials",
     "industry": "Electrical Equipment & Parts",
-    "market_cap": 3073933312,
-    "current_price": 29.41,
-    "pe_ratio": 19.348684,
-    "pb_ratio": 0.17317012,
+    "market_cap": 3031079936,
+    "current_price": 29.0,
+    "pe_ratio": 19.078947,
+    "pb_ratio": 0.17075598,
     "roe": 0.17416,
     "debt_to_equity": 88.865,
     "revenue": 4440129024,
@@ -16,6 +16,6 @@
     "eps": 1.52,
     "52_week_high": 39.5,
     "52_week_low": 18.51,
-    "dividend_yield": 1.18
+    "dividend_yield": 1.16
   }
 }

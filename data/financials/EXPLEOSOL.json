@@ -1,14 +1,14 @@
 {
   "ticker": "EXPLEOSOL",
-  "collected_at": "2026-09-08 06:25:13",
+  "collected_at": "2026-09-09 06:32:25",
   "company_info": {
     "name": "Expleo Solutions Limited",
     "sector": "Technology",
     "industry": "Information Technology Services",
-    "market_cap": 13782303744,
-    "current_price": 888.05,
-    "pe_ratio": 10.001689,
-    "pb_ratio": 1.7753578,
+    "market_cap": 13657370624,
+    "current_price": 880.0,
+    "pe_ratio": 9.911026,
+    "pb_ratio": 1.7592646,
     "roe": "N/A",
     "debt_to_equity": 1.011,
     "revenue": 11398649856,
@@ -16,6 +16,6 @@
     "eps": 88.79,
     "52_week_high": 1175.1,
     "52_week_low": 640.0,
-    "dividend_yield": 12.24
+    "dividend_yield": 12.23
   }
 }

@@ -1,14 +1,14 @@
 {
   "ticker": "LANDMARK",
-  "collected_at": "2026-09-08 06:33:30",
+  "collected_at": "2026-09-09 06:40:52",
   "company_info": {
     "name": "Landmark Cars Limited",
     "sector": "Consumer Cyclical",
     "industry": "Auto & Truck Dealerships",
-    "market_cap": 20525131776,
-    "current_price": 495.0,
-    "pe_ratio": 45.538177,
-    "pb_ratio": 3.5072057,
+    "market_cap": 20523059200,
+    "current_price": 494.95,
+    "pe_ratio": 45.53358,
+    "pb_ratio": 3.5068514,
     "roe": "N/A",
     "debt_to_equity": 173.699,
     "revenue": 51368669184,
@@ -16,6 +16,6 @@
     "eps": 10.87,
     "52_week_high": 662.8,
     "52_week_low": 339.5,
-    "dividend_yield": 0.29
+    "dividend_yield": 0.3
   }
 }
