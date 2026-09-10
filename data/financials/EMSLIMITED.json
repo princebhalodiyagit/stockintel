@@ -1,14 +1,14 @@
 {
   "ticker": "EMSLIMITED",
-  "collected_at": "2026-09-09 06:31:51",
+  "collected_at": "2026-09-10 06:30:07",
   "company_info": {
     "name": "EMS Limited",
     "sector": "Industrials",
     "industry": "Engineering & Construction",
-    "market_cap": 21634803712,
-    "current_price": 389.6,
-    "pe_ratio": 31.778141,
-    "pb_ratio": 2.0499005,
+    "market_cap": 21421008896,
+    "current_price": 385.75,
+    "pe_ratio": 31.46411,
+    "pb_ratio": 2.0296435,
     "roe": "N/A",
     "debt_to_equity": 14.575,
     "revenue": 6510951936,
@@ -16,6 +16,6 @@
     "eps": 12.26,
     "52_week_high": 589.9,
     "52_week_low": 256.05,
-    "dividend_yield": 0.39
+    "dividend_yield": 0.4
   }
 }

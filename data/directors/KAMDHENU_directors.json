@@ -1,7 +1,7 @@
 {
   "ticker": "KAMDHENU",
   "company": "Kamdhenu Limited",
-  "collected_at": "2026-09-09 06:39:25",
+  "collected_at": "2026-09-10 06:37:37",
   "directors": [
     {
       "name": "Mr. Satish Kumar Agarwal",
@@ -39,13 +39,6 @@
       "total_pay": 28819000
     },
     {
-      "name": "Mr. Raj Kumar Srivastava",
-      "role": "National Head of Marketing",
-      "age": 55,
-      "year_born": 1970,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Ms. Nisha  Adlakha",
       "role": "Head of Global Business",
       "age": 39,
@@ -71,6 +64,13 @@
       "role": "Sr. G.M of Business Development",
       "age": 65,
       "year_born": 1960,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Bhaskar  Chaudhuri",
+      "role": "Sr. G.M of Business Development",
+      "age": 67,
+      "year_born": 1958,
       "total_pay": "N/A"
     }
   ]

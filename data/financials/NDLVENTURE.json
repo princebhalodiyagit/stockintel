@@ -1,14 +1,14 @@
 {
   "ticker": "NDLVENTURE",
-  "collected_at": "2026-09-09 06:44:24",
+  "collected_at": "2026-09-10 06:42:33",
   "company_info": {
     "name": "NDL Ventures Limited",
     "sector": "Communication Services",
     "industry": "Entertainment",
-    "market_cap": 4287407360,
-    "current_price": 127.33,
-    "pe_ratio": 553.6087,
-    "pb_ratio": 6.51571,
+    "market_cap": 4175280896,
+    "current_price": 124.0,
+    "pe_ratio": 539.13043,
+    "pb_ratio": 6.345308,
     "roe": "N/A",
     "debt_to_equity": "N/A",
     "revenue": 1065000,
@@ -16,6 +16,6 @@
     "eps": 0.23,
     "52_week_high": 140.0,
     "52_week_low": 80.0,
-    "dividend_yield": 0.41
+    "dividend_yield": 0.4
   }
 }

@@ -1,14 +1,14 @@
 {
   "ticker": "GKSL",
   "company": "Gujarat Kidney And Super Speciality Limited",
-  "collected_at": "2026-09-09 06:33:43",
+  "collected_at": "2026-09-10 06:31:56",
   "directors": [
     {
       "name": "Mr. Pragnesh Yashwantsinh Bharpoda",
       "role": "Chairman & MD",
       "age": 42,
       "year_born": 1983,
-      "total_pay": "N/A"
+      "total_pay": 3300000
     },
     {
       "name": "Ms. Bhavikaben Mitesh Patel",
@@ -57,7 +57,7 @@
       "role": "Whole-time Director",
       "age": 41,
       "year_born": 1984,
-      "total_pay": "N/A"
+      "total_pay": 1800000
     }
   ]
 }

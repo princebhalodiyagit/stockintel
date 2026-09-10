@@ -1,7 +1,7 @@
 {
   "ticker": "EMCURE",
   "company": "Emcure Pharmaceuticals Limited",
-  "collected_at": "2026-09-09 06:31:47",
+  "collected_at": "2026-09-10 06:30:02",
   "directors": [
     {
       "name": "Mr. Satish Ramanlal Mehta",
@@ -9,13 +9,6 @@
       "age": 74,
       "year_born": 1951,
       "total_pay": 324010000
-    },
-    {
-      "name": "Mr. Samit Satish Mehta",
-      "role": "President of Operations & Whole-Time Director",
-      "age": 43,
-      "year_born": 1982,
-      "total_pay": 35140000
     },
     {
       "name": "Dr. Mukund Keshao Gurjar",
@@ -71,6 +64,13 @@
       "role": "President of HR",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sanjay Rajanikant Mehta",
+      "role": "President of Emerging Markets",
+      "age": 58,
+      "year_born": 1967,
       "total_pay": "N/A"
     }
   ]

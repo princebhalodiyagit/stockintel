@@ -1,43 +1,8 @@
 {
   "ticker": "STYLEBAAZA",
   "company": "Baazar Style Retail Limited",
-  "collected_at": "2026-09-09 06:53:25",
+  "collected_at": "2026-09-10 06:51:25",
   "directors": [
-    {
-      "name": "Mr. Rohit  Kedia",
-      "role": "Chairman",
-      "age": 41,
-      "year_born": 1984,
-      "total_pay": 18000000
-    },
-    {
-      "name": "Mr. Shreyans  Surana",
-      "role": "MD & Director",
-      "age": 34,
-      "year_born": 1991,
-      "total_pay": 18000000
-    },
-    {
-      "name": "Mr. Nitin  Singhania",
-      "role": "Chief Financial Officer",
-      "age": 47,
-      "year_born": 1978,
-      "total_pay": 6764000
-    },
-    {
-      "name": "Mr. Abinash  Singh",
-      "role": "Head of Legal & Compliance, Grievance Officer, Chief Compliance Officer and Company Secretary",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 3130000
-    },
-    {
-      "name": "Mr. Bhagwan  Prasad",
-      "role": "Whole Time Director",
-      "age": 54,
-      "year_born": 1971,
-      "total_pay": 18000000
-    },
     {
       "name": "Mr. Vikash  Kumar",
       "role": "Chief Technology Officer",
@@ -71,6 +36,20 @@
       "role": "Head of Category Planning",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Alok Kumar Prakash",
+      "role": "Head of Supply Chain Management",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Praveen Kumar Verma",
+      "role": "Vice President of Information Technology",
+      "age": 48,
+      "year_born": 1977,
       "total_pay": "N/A"
     }
   ]

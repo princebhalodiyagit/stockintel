@@ -1,7 +1,7 @@
 {
   "ticker": "STARCEMENT",
   "company": "Star Cement Limited",
-  "collected_at": "2026-09-09 06:53:08",
+  "collected_at": "2026-09-10 06:51:09",
   "directors": [
     {
       "name": "Mr. Sajjan  Bhajanka",
@@ -11,67 +11,18 @@
       "total_pay": 19800000
     },
     {
-      "name": "Mr. Tushar  Bhajanka",
-      "role": "MD, CEO & Director",
+      "name": "Mr. Ranvir  Singh",
+      "role": "Vice President",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vivek  Lahoti",
+      "role": "Chief Financial Officer of Megha Technical & Engineers Private Limited",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Mukesh  Saxena",
-      "role": "Joint President",
-      "age": 58,
-      "year_born": 1967,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Munjala  Laxmaiah",
-      "role": "Joint President",
-      "age": 60,
-      "year_born": 1965,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Manoj  Agarwal",
-      "role": "Chief Financial Officer",
-      "age": 53,
-      "year_born": 1972,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Pradeep  Purohit",
-      "role": "Chief Operating Officer",
-      "age": 58,
-      "year_born": 1967,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Debabrata  Thakurta",
-      "role": "Compliance Officer & Company Secretary",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Samar  Banerjee",
-      "role": "Chief Human Resource Officer",
-      "age": 54,
-      "year_born": 1971,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Pankaj  Kejriwal",
-      "role": "Executive Director",
-      "age": 54,
-      "year_born": 1971,
-      "total_pay": 30500000
-    },
-    {
-      "name": "Mr. Sanjay  Agarwal",
-      "role": "MD & Executive Non-Independent Director",
-      "age": 64,
-      "year_born": 1961,
-      "total_pay": 19800000
     }
   ]
 }

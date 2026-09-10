@@ -1,22 +1,8 @@
 {
   "ticker": "BLUEDART",
   "company": "Blue Dart Express Limited",
-  "collected_at": "2026-09-09 06:27:22",
+  "collected_at": "2026-09-10 06:25:40",
   "directors": [
-    {
-      "name": "Mr. Balfour  Manuel",
-      "role": "MD & Executive Director",
-      "age": 64,
-      "year_born": 1961,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Vikram  Mansukhani",
-      "role": "National Operations Head",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
     {
       "name": "Mr. Manoj  Madhavan",
       "role": "Chief Information Officer",
@@ -69,6 +55,20 @@
     {
       "name": "Mr. Prasanna  Salvi",
       "role": "Head of Vaccine Task Force, Channels, Emerging Markets & SMEs",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Joe  Manukat",
+      "role": "Regional Head of West I",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vikas  Patil",
+      "role": "Regional Head of North",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

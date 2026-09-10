@@ -1,7 +1,7 @@
 {
   "ticker": "MARUTI",
   "company": "Maruti Suzuki India Limited",
-  "collected_at": "2026-09-09 06:42:22",
+  "collected_at": "2026-09-10 06:40:34",
   "directors": [
     {
       "name": "Mr. Hisashi  Takeuchi",
@@ -29,13 +29,6 @@
       "role": "Chief Financial Officer",
       "age": 52,
       "year_born": 1973,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Shashank  Srivastava",
-      "role": "Member Executive Committee",
-      "age": "N/A",
-      "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
@@ -69,6 +62,13 @@
     {
       "name": "Mr. Salil B. Lal",
       "role": "Head of Human Resources",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Tapan  Sahoo",
+      "role": "Head of Digital Enterprise, Information, Cyber Security & Information Technology",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

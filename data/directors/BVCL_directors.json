@@ -1,7 +1,7 @@
 {
   "ticker": "BVCL",
   "company": "Barak Valley Cements Limited",
-  "collected_at": "2026-09-09 06:27:53",
+  "collected_at": "2026-09-10 06:26:11",
   "directors": [
     {
       "name": "Mr. Mukesh Kumar Shovasaria",
@@ -22,20 +22,6 @@
       "role": "Chief Financial Officer",
       "age": 52,
       "year_born": 1973,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Sheo Kailash Pati Dalmia",
-      "role": "Senior Vice President of Works",
-      "age": 80,
-      "year_born": 1945,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ms. Preeti  Bhatia",
-      "role": "Company Secretary & Compliance Officer",
-      "age": "N/A",
-      "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
@@ -71,6 +57,13 @@
       "role": "Sr. Manager - Electrical & Instrument",
       "age": 56,
       "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Deepak  Virmani",
+      "role": "Accounts Manager",
+      "age": 37,
+      "year_born": 1988,
       "total_pay": "N/A"
     }
   ]

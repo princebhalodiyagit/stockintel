@@ -1,7 +1,7 @@
 {
   "ticker": "RELAXO",
   "company": "Relaxo Footwears Limited",
-  "collected_at": "2026-09-09 06:48:58",
+  "collected_at": "2026-09-10 06:47:01",
   "directors": [
     {
       "name": "Mr. Gaurav Kumaar Dua",
@@ -53,13 +53,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Manoj  Lalwani",
-      "role": "Vice President of Marketing",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
       "name": "Ms. Manju  Kohli",
       "role": "Chief Human Resources Officer",
       "age": "N/A",
@@ -71,6 +64,13 @@
       "role": "Executive Vice President of Retail",
       "age": 43,
       "year_born": 1982,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Verinder  Kumar",
+      "role": "Senior Vice President of Manufacturing",
+      "age": 62,
+      "year_born": 1963,
       "total_pay": "N/A"
     }
   ]

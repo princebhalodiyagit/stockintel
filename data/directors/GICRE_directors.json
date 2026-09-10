@@ -1,35 +1,28 @@
 {
   "ticker": "GICRE",
   "company": "General Insurance Corporation of India",
-  "collected_at": "2026-09-09 06:33:37",
+  "collected_at": "2026-09-10 06:31:50",
   "directors": [
     {
       "name": "Mr. Hitesh Rameshchandra Joshi",
       "role": "Chairman & MD",
       "age": 57,
       "year_born": 1968,
-      "total_pay": 5453000
+      "total_pay": 7052000
     },
     {
       "name": "Ms. Jayashri  Balkrishna",
       "role": "Chief Risk Officer, Investor Relations Manager & Executive Director",
       "age": 57,
       "year_born": 1968,
-      "total_pay": 4532000
-    },
-    {
-      "name": "Mr. Rajesh  Khadatare",
-      "role": "Chief Marketing Officer & Deputy GM",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 4917000
+      "total_pay": 6541000
     },
     {
       "name": "Mr. Sanjay  Mokashi",
       "role": "GM & Chief Underwriting Officer",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": 4304000
+      "total_pay": 8987000
     },
     {
       "name": "Mr. Sateesh N. Bhat",
@@ -57,7 +50,7 @@
       "role": "Chief Information Security Officer",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": 3755630
+      "total_pay": 7247000
     },
     {
       "name": "Mr. Sanjeeb Kumar Mishra",
@@ -69,6 +62,13 @@
     {
       "name": "Mr. Uday Laxmandas Devi",
       "role": "Chief Vigilance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jetho  Jhamnani",
+      "role": "MD & CEO of GIC Re South Africa Ltd",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
