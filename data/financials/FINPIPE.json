@@ -1,14 +1,14 @@
 {
   "ticker": "FINPIPE",
-  "collected_at": "2026-09-10 06:30:57",
+  "collected_at": "2026-09-11 06:34:06",
   "company_info": {
     "name": "Finolex Industries Limited",
     "sector": "Industrials",
     "industry": "Building Products & Equipment",
-    "market_cap": 96605372416,
-    "current_price": 156.24,
-    "pe_ratio": 15.702514,
-    "pb_ratio": 1.5526958,
+    "market_cap": 95362555904,
+    "current_price": 154.23,
+    "pe_ratio": 15.500503,
+    "pb_ratio": 1.5327204,
     "roe": "N/A",
     "debt_to_equity": 7.171,
     "revenue": 39538601984,
@@ -16,6 +16,6 @@
     "eps": 9.95,
     "52_week_high": 222.5,
     "52_week_low": 147.54,
-    "dividend_yield": 1.27
+    "dividend_yield": 1.28
   }
 }

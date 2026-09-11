@@ -1,14 +1,14 @@
 {
   "ticker": "MTARTECH",
   "company": "Mtar Technologies Limited",
-  "collected_at": "2026-09-10 06:41:54",
+  "collected_at": "2026-09-11 06:44:56",
   "directors": [
     {
       "name": "Mr. Parvat Srinivas Reddy",
       "role": "MD & Director",
       "age": 60,
       "year_born": 1965,
-      "total_pay": 40020000
+      "total_pay": 31020000
     },
     {
       "name": "Mr. Gunneswara Rao Pusarla",
@@ -25,41 +25,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Akepati Praveen Kumar Reddy",
-      "role": "Whole Time Director",
-      "age": 58,
-      "year_born": 1967,
-      "total_pay": 12770000
-    },
-    {
-      "name": "Mr. Mitta Anushman Reddy",
-      "role": "VP & Whole Time Director",
-      "age": 34,
-      "year_born": 1991,
-      "total_pay": 18970000
-    },
-    {
-      "name": "Mr. Arun Kumar Ojha",
-      "role": "Chief Commercial Officer",
-      "age": 52,
-      "year_born": 1973,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Doggala  Siddareddy",
-      "role": "Vice President of Clean Energy Fuel Cells",
-      "age": 63,
-      "year_born": 1962,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Alavalapati Veera Sudhakar Reddy",
-      "role": "Vice President of Space",
-      "age": 56,
-      "year_born": 1969,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Rohit  Khera",
       "role": "Resident Director",
       "age": 71,
@@ -67,10 +32,31 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Bhogadi Lakshmana Babu",
-      "role": "Vice President of Aerospace",
-      "age": 60,
-      "year_born": 1965,
+      "name": "K. Rama Mohan Rao",
+      "role": "Vice President of HR & Admin",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Srilekha  Jasthi",
+      "role": "Head of Strategy & Investor Relations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Charabuddi Ramesh Reddy",
+      "role": "Vice President of Civil Nuclear Power & Defence",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ayyalasomayajula Vara Prasad",
+      "role": "Vice President",
+      "age": 57,
+      "year_born": 1968,
       "total_pay": "N/A"
     }
   ]

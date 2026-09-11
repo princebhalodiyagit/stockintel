@@ -1,7 +1,7 @@
 {
   "ticker": "MCX",
   "company": "Multi Commodity Exchange of India Limited",
-  "collected_at": "2026-09-10 06:40:50",
+  "collected_at": "2026-09-11 06:43:53",
   "directors": [
     {
       "name": "Ms. Praveena  Rai",
@@ -22,13 +22,6 @@
       "role": "Chief Technology Officer",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Manoj  Jain",
-      "role": "Executive Director of Regulatory, Compliance, Risk Management & Investor Grievances & Director",
-      "age": 51,
-      "year_born": 1974,
       "total_pay": "N/A"
     },
     {
@@ -71,6 +64,13 @@
       "role": "Chief Regulatory Officer",
       "age": 42,
       "year_born": 1983,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sougat  Ghosh",
+      "role": "Chief Information Security Officer & Data Protection Officer",
+      "age": 48,
+      "year_born": 1977,
       "total_pay": "N/A"
     }
   ]

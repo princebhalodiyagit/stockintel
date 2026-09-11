@@ -1,14 +1,14 @@
 {
   "ticker": "SCHAND",
-  "collected_at": "2026-09-10 06:48:53",
+  "collected_at": "2026-09-11 06:51:53",
   "company_info": {
     "name": "S Chand And Company Limited",
     "sector": "Communication Services",
     "industry": "Publishing",
-    "market_cap": 4761745920,
-    "current_price": 135.0,
-    "pe_ratio": 6.6699605,
-    "pb_ratio": 0.451425,
+    "market_cap": 4831937536,
+    "current_price": 136.99,
+    "pe_ratio": 6.768281,
+    "pb_ratio": 0.45807934,
     "roe": "N/A",
     "debt_to_equity": 12.949,
     "revenue": 8106729984,
@@ -16,6 +16,6 @@
     "eps": 20.24,
     "52_week_high": 200.0,
     "52_week_low": 130.05,
-    "dividend_yield": 2.93
+    "dividend_yield": 2.96
   }
 }

@@ -1,22 +1,8 @@
 {
   "ticker": "DIACABS",
   "company": "Diamond Power Infrastructure Limited",
-  "collected_at": "2026-09-10 06:28:53",
+  "collected_at": "2026-09-11 06:32:04",
   "directors": [
-    {
-      "name": "Mr. Pawan Kumar Lohiya",
-      "role": "Chief Financial Officer",
-      "age": 51,
-      "year_born": 1974,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Kavish V. Shah",
-      "role": "Vice President of Corporate Strategy",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
     {
       "name": "Mr. Kalpesh  Patel",
       "role": "Chief Operating Officer",
@@ -71,6 +57,20 @@
       "role": "VP of Engineering and Projects & Sustainability Officer",
       "age": 51,
       "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Narayan  Navik",
+      "role": "Chief Information Technology Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Shaishav Rakeshbhai Shah",
+      "role": "President of Corporate Strategy",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

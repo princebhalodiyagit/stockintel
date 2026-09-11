@@ -1,14 +1,14 @@
 {
   "ticker": "PRICOLLTD",
-  "collected_at": "2026-09-10 06:45:49",
+  "collected_at": "2026-09-11 06:48:50",
   "company_info": {
     "name": "Pricol Limited",
     "sector": "Consumer Cyclical",
     "industry": "Auto Parts",
-    "market_cap": "N/A",
-    "current_price": 743.15,
-    "pe_ratio": 33.779545,
-    "pb_ratio": 7.217852,
+    "market_cap": 93038239744,
+    "current_price": 763.35,
+    "pe_ratio": 34.697727,
+    "pb_ratio": 7.414044,
     "roe": "N/A",
     "debt_to_equity": 30.215,
     "revenue": 42509000704,
@@ -16,6 +16,6 @@
     "eps": 22.0,
     "52_week_high": 823.0,
     "52_week_low": 499.9,
-    "dividend_yield": 0.53
+    "dividend_yield": 0.54
   }
 }

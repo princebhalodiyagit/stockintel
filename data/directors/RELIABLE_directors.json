@@ -1,14 +1,14 @@
 {
   "ticker": "RELIABLE",
   "company": "Reliable Data Services Limited",
-  "collected_at": "2026-09-10 06:47:03",
+  "collected_at": "2026-09-11 06:50:02",
   "directors": [
     {
       "name": "Mr. Sanjay Kumar Pathak",
       "role": "Chairman & MD",
       "age": 55,
       "year_born": 1970,
-      "total_pay": 1320000
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Parbind Kumar Jha",
@@ -29,28 +29,28 @@
       "role": "Whole Time Director",
       "age": 54,
       "year_born": 1971,
-      "total_pay": 960000
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Rakesh  Jha",
       "role": "Whole Time Director",
       "age": 51,
       "year_born": 1974,
-      "total_pay": 960000
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Sunil Kumar Rai",
       "role": "Whole Time Director",
       "age": 54,
       "year_born": 1971,
-      "total_pay": 960000
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Anil Kumar Jha",
       "role": "Whole Time Director",
       "age": 62,
       "year_born": 1963,
-      "total_pay": 1560000
+      "total_pay": "N/A"
     }
   ]
 }

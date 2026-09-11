@@ -1,29 +1,8 @@
 {
   "ticker": "GVPTECH",
   "company": "GVP Infotech Limited",
-  "collected_at": "2026-09-10 06:33:17",
+  "collected_at": "2026-09-11 06:36:25",
   "directors": [
-    {
-      "name": "Ms. Drashti Ketan Jain",
-      "role": "Company Secretary & Compliance Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Rajesh  Thakur",
-      "role": "MD & Director",
-      "age": 46,
-      "year_born": 1979,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Pankaj  Mittal B.Tech.",
-      "role": "CEO, COO & VP",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
     {
       "name": "Mr. Saurin  Shah",
       "role": "Chief Financial Officer",
@@ -72,6 +51,13 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 150000
+    },
+    {
+      "name": "Deepak  Chaure",
+      "role": "Assistant Vice President",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 123871
     }
   ]
 }

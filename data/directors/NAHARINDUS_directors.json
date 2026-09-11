@@ -1,14 +1,14 @@
 {
   "ticker": "NAHARINDUS",
   "company": "Nahar Industrial Enterprises Limited",
-  "collected_at": "2026-09-10 06:42:11",
+  "collected_at": "2026-09-11 06:45:14",
   "directors": [
     {
       "name": "Mr. Kamal  Oswal B.Com.",
       "role": "Vice Chairman & MD",
       "age": 63,
       "year_born": 1962,
-      "total_pay": 97775449
+      "total_pay": 98963338
     },
     {
       "name": "Ms. Manisha  Oswal",
@@ -57,20 +57,20 @@
       "role": "Executive Director",
       "age": 32,
       "year_born": 1993,
-      "total_pay": 21240000
-    },
-    {
-      "name": "Mr. Suman  Thakur",
-      "role": "Senior Vice President",
-      "age": 49,
-      "year_born": 1976,
-      "total_pay": "N/A"
+      "total_pay": 22040000
     },
     {
       "name": "Mr. Hari Narain Singhal",
       "role": "President",
       "age": 72,
       "year_born": 1953,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rinkesh  Gupta",
+      "role": "Senior Vice President",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

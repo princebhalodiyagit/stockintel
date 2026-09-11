@@ -1,7 +1,7 @@
 {
   "ticker": "DCXINDIA",
   "company": "DCX Systems Limited",
-  "collected_at": "2026-09-10 06:28:27",
+  "collected_at": "2026-09-11 06:31:39",
   "directors": [
     {
       "name": "Dr. Hosakote Shamarao Raghavendra Rao",
@@ -9,20 +9,6 @@
       "age": 56,
       "year_born": 1969,
       "total_pay": 24000000
-    },
-    {
-      "name": "Mr. Gurumurthy Ganapati Hegde",
-      "role": "Company Secretary, Legal & Compliance Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 2020000
-    },
-    {
-      "name": "Mr. Ramegowda Shiva Kumar",
-      "role": "Non-Independent & Executive Director",
-      "age": 43,
-      "year_born": 1982,
-      "total_pay": 6500000
     },
     {
       "name": "Mr. T. S. Prasanna Kumar",
@@ -46,13 +32,6 @@
       "total_pay": 1640000
     },
     {
-      "name": "Mr. Gopinath  Vedaprakash",
-      "role": "Non-Independent & Whole Time Director",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 7198800
-    },
-    {
       "name": "Mr. Suresh Babu Anand",
       "role": "Sr. Deputy General Manager - Supply Chain Management",
       "age": 40,
@@ -72,6 +51,27 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 1650000
+    },
+    {
+      "name": "S G Ravichandra",
+      "role": "Sr. Manager of Production",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Abhijith M Kashyap",
+      "role": "Deputy General Manager of Business Development",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "N  Jagadeesh",
+      "role": "Senior Manager of Accounts",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }
