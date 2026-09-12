@@ -1,7 +1,7 @@
 {
   "ticker": "VINNY",
   "company": "Vinny Overseas Limited",
-  "collected_at": "2026-09-11 06:59:01",
+  "collected_at": "2026-09-12 06:44:26",
   "directors": [
     {
       "name": "Mr. Hiralal Jagdishchand Parekh",
@@ -15,6 +15,27 @@
       "role": "Chief Financial Officer",
       "age": 57,
       "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Latadevi Hiralal Parekh",
+      "role": "Whole Time Director",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Nishita Saurabh Shah",
+      "role": "Whole Time Director",
+      "age": 35,
+      "year_born": 1990,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Bhavesh Kantibhai Vaghasiya",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

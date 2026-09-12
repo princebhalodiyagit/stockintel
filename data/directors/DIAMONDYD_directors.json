@@ -1,7 +1,7 @@
 {
   "ticker": "DIAMONDYD",
   "company": "Prataap Snacks Limited",
-  "collected_at": "2026-09-11 06:32:06",
+  "collected_at": "2026-09-12 06:18:10",
   "directors": [
     {
       "name": "Mr. Amit Kumar Kumat",
@@ -16,13 +16,6 @@
       "age": 56,
       "year_born": 1969,
       "total_pay": 10800000
-    },
-    {
-      "name": "Mr. Sumit  Sharma",
-      "role": "Chief Financial Officer",
-      "age": 47,
-      "year_born": 1978,
-      "total_pay": "N/A"
     },
     {
       "name": "Mr. Sanjay  Chourey",
@@ -71,6 +64,13 @@
       "role": "Head of Demand Planning & SCM",
       "age": 41,
       "year_born": 1984,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Amit  Jain",
+      "role": "Finance Controller",
+      "age": 45,
+      "year_born": 1980,
       "total_pay": "N/A"
     }
   ]

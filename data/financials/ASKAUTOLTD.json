@@ -1,14 +1,14 @@
 {
   "ticker": "ASKAUTOLTD",
-  "collected_at": "2026-09-11 06:26:38",
+  "collected_at": "2026-09-12 06:12:45",
   "company_info": {
     "name": "ASK Automotive Limited",
     "sector": "Consumer Cyclical",
     "industry": "Auto Parts",
-    "market_cap": 123904122880,
-    "current_price": 628.5,
-    "pe_ratio": 39.1345,
-    "pb_ratio": 9.4504175,
+    "market_cap": 123125399552,
+    "current_price": 624.55,
+    "pe_ratio": 38.888542,
+    "pb_ratio": 9.391024,
     "roe": "N/A",
     "debt_to_equity": 51.789,
     "revenue": 46431399936,
@@ -16,6 +16,6 @@
     "eps": 16.06,
     "52_week_high": 687.7,
     "52_week_low": 375.3,
-    "dividend_yield": 0.29
+    "dividend_yield": 0.3
   }
 }

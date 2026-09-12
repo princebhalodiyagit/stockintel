@@ -1,7 +1,7 @@
 {
   "ticker": "TERASOFT",
   "company": "Tera Software Limited",
-  "collected_at": "2026-09-11 06:56:39",
+  "collected_at": "2026-09-12 06:42:02",
   "directors": [
     {
       "name": "Mr. Gopichand  Tummala",
@@ -15,21 +15,14 @@
       "role": "Company Secretary & Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": 1049000
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Madhu Mitra Tummala",
       "role": "Director of Marketing & Whole-Time Director",
       "age": 39,
       "year_born": 1986,
-      "total_pay": 2580000
-    },
-    {
-      "name": "Mr. T.  Rajasekhar",
-      "role": "Vice President",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 18844320
+      "total_pay": 53620000
     }
   ]
 }

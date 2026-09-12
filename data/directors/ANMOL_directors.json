@@ -1,7 +1,7 @@
 {
   "ticker": "ANMOL",
   "company": "Anmol India Limited",
-  "collected_at": "2026-09-11 06:25:42",
+  "collected_at": "2026-09-12 06:11:50",
   "directors": [
     {
       "name": "Mr. Vijay  Kumar",
@@ -25,34 +25,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Ms. Prerna  Goyal",
-      "role": "Administrative Head",
-      "age": 34,
-      "year_born": 1991,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ms. Hardeep  Kaur",
-      "role": "Customer Relations Head",
-      "age": 34,
-      "year_born": 1991,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Rahul  Sharma",
-      "role": "Accounts Head",
-      "age": 34,
-      "year_born": 1991,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Babu Lal Saini",
-      "role": "Accounts & Finance Head",
-      "age": 40,
-      "year_born": 1985,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Parveen  Kumar",
       "role": "Senior Accounts & Finance Head",
       "age": 56,
@@ -69,6 +41,13 @@
     {
       "name": "Jaidev  Singh",
       "role": "Supply Chain & Quality Control Manager",
+      "age": 35,
+      "year_born": 1990,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Manoj  Kumar",
+      "role": "Accountant",
       "age": 35,
       "year_born": 1990,
       "total_pay": "N/A"

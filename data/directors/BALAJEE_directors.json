@@ -1,7 +1,7 @@
 {
   "ticker": "BALAJEE",
   "company": "Shree Tirupati Balajee Agro Trading Company Limited",
-  "collected_at": "2026-09-11 06:27:37",
+  "collected_at": "2026-09-12 06:13:45",
   "directors": [
     {
       "name": "Mr. Binod Kumar Agarwal",
@@ -9,6 +9,27 @@
       "age": 61,
       "year_born": 1964,
       "total_pay": 12000000
+    },
+    {
+      "name": "Ms. Rishika  Singhai",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Anubha  Mishra",
+      "role": "Executive Director",
+      "age": 40,
+      "year_born": 1985,
+      "total_pay": 1080000
+    },
+    {
+      "name": "Mr. Praveen Raj Jain",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Shailendra  Banodiya",
@@ -48,13 +69,6 @@
     {
       "name": "Mr. Trilok  Raghuwanshi",
       "role": "Quality Head",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Amit  Pandey",
-      "role": "Safety Head",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

@@ -1,7 +1,7 @@
 {
   "ticker": "ASIANHOTNR",
   "company": "Asian Hotels (North) Limited",
-  "collected_at": "2026-09-11 06:26:35",
+  "collected_at": "2026-09-12 06:12:43",
   "directors": [
     {
       "name": "Dr. Sharad Raghuvir Sharma",
@@ -36,6 +36,20 @@
       "role": "Company Secretary & Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Gauri  Dhawan",
+      "role": "Head of Marketing, PR & Branding",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Arun  Khanna",
+      "role": "Director of Engineering",
+      "age": 60,
+      "year_born": 1965,
       "total_pay": "N/A"
     }
   ]

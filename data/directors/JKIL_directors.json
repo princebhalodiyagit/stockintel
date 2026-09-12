@@ -1,7 +1,7 @@
 {
   "ticker": "JKIL",
   "company": "J.Kumar Infraprojects Limited",
-  "collected_at": "2026-09-11 06:40:00",
+  "collected_at": "2026-09-12 06:26:03",
   "directors": [
     {
       "name": "Mr. Jagdishkumar Madanlal Gupta",
@@ -30,6 +30,20 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 8810000
+    },
+    {
+      "name": "Mr. Pravin Ramkrishna Ghag",
+      "role": "Director of Administration & Compliances and Executive Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 2490708
+    },
+    {
+      "name": "Ms. Poornima Chintakindi Reddy",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": 5828000
     },
     {
       "name": "Mr. Kishore K. Pahuja",

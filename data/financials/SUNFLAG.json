@@ -1,14 +1,14 @@
 {
   "ticker": "SUNFLAG",
-  "collected_at": "2026-09-11 06:54:40",
+  "collected_at": "2026-09-12 06:40:45",
   "company_info": {
     "name": "Sunflag Iron and Steel Company Limited",
     "sector": "Basic Materials",
     "industry": "Steel",
-    "market_cap": 60806041600,
-    "current_price": 337.4,
-    "pe_ratio": 29.518808,
-    "pb_ratio": 0.6858964,
+    "market_cap": 60770000896,
+    "current_price": 337.2,
+    "pe_ratio": 29.501312,
+    "pb_ratio": 0.6854899,
     "roe": "N/A",
     "debt_to_equity": 5.905,
     "revenue": 40055201792,
@@ -16,6 +16,6 @@
     "eps": 11.43,
     "52_week_high": 428.0,
     "52_week_low": 192.15,
-    "dividend_yield": 0.3
+    "dividend_yield": 0.29
   }
 }

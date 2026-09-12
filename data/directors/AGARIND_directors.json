@@ -1,7 +1,7 @@
 {
   "ticker": "AGARIND",
   "company": "Agarwal Industrial Corporation Limited",
-  "collected_at": "2026-09-11 06:24:43",
+  "collected_at": "2026-09-12 06:10:51",
   "directors": [
     {
       "name": "Mr. Jaiprakash Rahulkumar Agarwal",
@@ -16,6 +16,27 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 4200000
+    },
+    {
+      "name": "Ms. Yashee  Agrawal",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 774219
+    },
+    {
+      "name": "Mr. Ramchandra  Agarwal B.Com.",
+      "role": "Whole-Time Director",
+      "age": 69,
+      "year_born": 1956,
+      "total_pay": 9000000
+    },
+    {
+      "name": "Mr. Lalit Kumar Agarwal",
+      "role": "Whole Time Director",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": 9000000
     }
   ]
 }

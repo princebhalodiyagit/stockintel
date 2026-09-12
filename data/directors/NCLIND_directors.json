@@ -1,7 +1,7 @@
 {
   "ticker": "NCLIND",
   "company": "NCL Industries Limited",
-  "collected_at": "2026-09-11 06:45:33",
+  "collected_at": "2026-09-12 06:31:33",
   "directors": [
     {
       "name": "Mr. Ravi  Kalidindi",
@@ -29,6 +29,13 @@
       "role": "General Manager of Accounts",
       "age": 59,
       "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Divya  Bharati Mareedu",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     },
     {

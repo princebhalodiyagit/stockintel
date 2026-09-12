@@ -1,7 +1,7 @@
 {
   "ticker": "HMAAGRO",
   "company": "HMA Agro Industries Limited",
-  "collected_at": "2026-09-11 06:37:25",
+  "collected_at": "2026-09-12 06:23:27",
   "directors": [
     {
       "name": "Mr. Gulzar  Ahmad",
@@ -11,11 +11,60 @@
       "total_pay": 12000000
     },
     {
+      "name": "Mr. Gulzeb  Ahmed",
+      "role": "Chief Financial Officer",
+      "age": 37,
+      "year_born": 1988,
+      "total_pay": 6000000
+    },
+    {
       "name": "Mr. Mohammad Mehmood Qureshi",
       "role": "Head of Commercial Administration",
       "age": 46,
       "year_born": 1979,
       "total_pay": 12000000
+    },
+    {
+      "name": "Mr. Nikhil  Sundrani C.S.",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 32,
+      "year_born": 1993,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Shiv  Kumar",
+      "role": "Head of Human Resources",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mohammad  Kamil Qureshi",
+      "role": "Head of International Business",
+      "age": 39,
+      "year_born": 1986,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Viswambharan  Parameswaran",
+      "role": "Whole Time Director",
+      "age": 64,
+      "year_born": 1961,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Bhabani Sankar Acharya",
+      "role": "Whole Time Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mahtab  Alam",
+      "role": "Head of Procurement & Sourcing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

@@ -1,13 +1,41 @@
 {
   "ticker": "SPMLINFRA",
   "company": "SPML Infra Limited",
-  "collected_at": "2026-09-11 06:53:52",
+  "collected_at": "2026-09-12 06:39:57",
   "directors": [
+    {
+      "name": "Mr. Abhinandan  Sethi",
+      "role": "MD, COO & Director",
+      "age": 36,
+      "year_born": 1989,
+      "total_pay": 12846000
+    },
+    {
+      "name": "Mr. Manoj Kumar Digga",
+      "role": "Executive Director of Commercial, CFO & Director",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": 12500000
+    },
+    {
+      "name": "Ms. Swati  Agarwal",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
     {
       "name": "Ashok  Bijalwan",
       "role": "Chief Technology Officer",
       "age": 41,
       "year_born": 1984,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Partha  Roy",
+      "role": "Vice President of Legal",
+      "age": 43,
+      "year_born": 1982,
       "total_pay": "N/A"
     },
     {
@@ -22,6 +50,13 @@
       "role": "Executive Vice President",
       "age": 56,
       "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Samir  Patel",
+      "role": "Chief of Technology & Operations of BESS segment",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     },
     {

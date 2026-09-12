@@ -1,14 +1,14 @@
 {
   "ticker": "DPSCLTD",
-  "collected_at": "2026-09-11 06:32:28",
+  "collected_at": "2026-09-12 06:18:32",
   "company_info": {
     "name": "India Power Corporation Limited",
     "sector": "Utilities",
     "industry": "Utilities - Regulated Electric",
-    "market_cap": 6894430720,
-    "current_price": 7.08,
-    "pe_ratio": 88.5,
-    "pb_ratio": 1.0958056,
+    "market_cap": 6952857600,
+    "current_price": 7.14,
+    "pe_ratio": 89.25,
+    "pb_ratio": 1.105092,
     "roe": 0.014479999,
     "debt_to_equity": 14.229,
     "revenue": 6830128128,
@@ -16,6 +16,6 @@
     "eps": 0.08,
     "52_week_high": 13.31,
     "52_week_low": 6.84,
-    "dividend_yield": 0.7
+    "dividend_yield": 0.71
   }
 }

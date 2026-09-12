@@ -1,7 +1,7 @@
 {
   "ticker": "SURANAT&P",
   "company": "Surana Telecom and Power Limited",
-  "collected_at": "2026-09-11 06:54:54",
+  "collected_at": "2026-09-12 06:40:59",
   "directors": [
     {
       "name": "Mr. Mangilal Narender R. Surana",
@@ -16,6 +16,13 @@
       "age": 57,
       "year_born": 1968,
       "total_pay": 1022400
+    },
+    {
+      "name": "Mr. Advait  Surana",
+      "role": "Additional Whole Time Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

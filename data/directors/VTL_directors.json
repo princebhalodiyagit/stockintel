@@ -1,8 +1,15 @@
 {
   "ticker": "VTL",
   "company": "Vardhman Textiles Limited",
-  "collected_at": "2026-09-11 06:59:23",
+  "collected_at": "2026-09-12 06:44:48",
   "directors": [
+    {
+      "name": "Mr. Paul  Oswal M.Com.",
+      "role": "Executive Chairman & MD",
+      "age": 83,
+      "year_born": 1942,
+      "total_pay": 220360229
+    },
     {
       "name": "Ms. Suchita  Jain M.Com",
       "role": "Vice Chairperson & Joint MD",
@@ -53,25 +60,18 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. Mukesh  Saxena",
+      "role": "Chief General Manager of Operations & Unit Head",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Ms. Sagrika  Jain",
       "role": "Executive Director",
       "age": 29,
       "year_born": 1996,
       "total_pay": 18032449
-    },
-    {
-      "name": "Mr. Sushil Kumar Jhamb",
-      "role": "Director of Raw Material Procurement",
-      "age": 52,
-      "year_born": 1973,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Vikas  Mittal",
-      "role": "Executive Vice-President of Operations",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
     }
   ]
 }

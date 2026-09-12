@@ -1,8 +1,15 @@
 {
   "ticker": "IOC",
   "company": "Indian Oil Corporation Limited",
-  "collected_at": "2026-09-11 06:39:04",
+  "collected_at": "2026-09-12 06:25:08",
   "directors": [
+    {
+      "name": "Mr. Arvinder Singh Sahney",
+      "role": "Whole-Time Director & Chairman",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": 10348053
+    },
     {
       "name": "Mr. Anuj  Jain",
       "role": "Director of Finance & Director",
@@ -32,6 +39,13 @@
       "total_pay": 9232720
     },
     {
+      "name": "Mr. Arvind  Kumar",
+      "role": "Director of Pipelines, Director of Refineries & Director",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": 12617391
+    },
+    {
       "name": "Mr. Suman  Kumar",
       "role": "Director of Planning & Business Development and Director",
       "age": 56,
@@ -55,20 +69,6 @@
     {
       "name": "Mr. Mukul  Agarwal",
       "role": "Executive Director & Refinery Head of Mathura Refinery",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Lalit Kumar Jha",
-      "role": "Executive Director & Regional Head of SRPL Chennai",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Arvind  Acharya",
-      "role": "Executive Director of Corporate Office & Chief Risk Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

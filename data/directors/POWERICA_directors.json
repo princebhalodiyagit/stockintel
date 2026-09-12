@@ -1,7 +1,7 @@
 {
   "ticker": "POWERICA",
   "company": "Powerica Limited",
-  "collected_at": "2026-09-11 06:48:31",
+  "collected_at": "2026-09-12 06:34:31",
   "directors": [
     {
       "name": "Mr. Bharat Naresh Oberoi",
@@ -9,6 +9,69 @@
       "age": 54,
       "year_born": 1971,
       "total_pay": 73199536
+    },
+    {
+      "name": "Ms. Renu Naresh Oberoi",
+      "role": "Whole Time Director",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": 22498028
+    },
+    {
+      "name": "Mr. Pradeep Omprakash Gupta",
+      "role": "Whole Time Director",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": 22022700
+    },
+    {
+      "name": "Mr. Jai Ram Oberoi",
+      "role": "Associate Director & Whole-Time Director",
+      "age": 31,
+      "year_born": 1994,
+      "total_pay": 13457989
+    },
+    {
+      "name": "Mr. Ritesh Kumar Agrawal",
+      "role": "Group Chief Financial Officer",
+      "age": 43,
+      "year_born": 1982,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sanjay B. Deshpande",
+      "role": "Head of Operations",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manish Trilokchand Agarwal",
+      "role": "President of Account & Finance",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Anita Praful Renuse",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajan P. Vahi",
+      "role": "Executive Vice President of Sales & Marketing",
+      "age": 65,
+      "year_born": 1960,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Madhur Manohar Prabhu",
+      "role": "Factory Head",
+      "age": 43,
+      "year_born": 1982,
+      "total_pay": "N/A"
     }
   ]
 }

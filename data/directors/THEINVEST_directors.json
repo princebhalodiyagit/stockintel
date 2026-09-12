@@ -1,8 +1,15 @@
 {
   "ticker": "THEINVEST",
   "company": "The Investment Trust Of India Limited",
-  "collected_at": "2026-09-11 06:56:49",
+  "collected_at": "2026-09-12 06:42:12",
   "directors": [
+    {
+      "name": "Mr. Amit Gopal Malpani",
+      "role": "Chief Executive Officer",
+      "age": 43,
+      "year_born": 1982,
+      "total_pay": "N/A"
+    },
     {
       "name": "Mr. Subbiah  Manickam",
       "role": "Chief Financial Officer",
@@ -11,10 +18,59 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Ms. Vidhita Sudesh Narkar",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 37,
+      "year_born": 1988,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Praveen  Nair",
       "role": "Senior Manager of Marketing & Communication",
       "age": 33,
       "year_born": 1992,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Darshana  Mehta",
+      "role": "Group Head of Human Resource",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ajay Rajeshkumar Vaswani",
+      "role": "Business Development Head",
+      "age": 43,
+      "year_born": 1982,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mannish  Patil",
+      "role": "Group Head of Information Technology",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ashu  Tomar",
+      "role": "Senior Vice President of Alternative Asset Management",
+      "age": 37,
+      "year_born": 1988,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Madhu Babu Burramukku",
+      "role": "Assistant Fund Manager",
+      "age": 42,
+      "year_born": 1983,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Anahita Nishit Kesaria",
+      "role": "Manager of Client Services",
+      "age": 32,
+      "year_born": 1993,
       "total_pay": "N/A"
     }
   ]

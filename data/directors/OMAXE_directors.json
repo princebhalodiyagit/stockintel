@@ -1,7 +1,7 @@
 {
   "ticker": "OMAXE",
   "company": "Omaxe Limited",
-  "collected_at": "2026-09-11 06:46:48",
+  "collected_at": "2026-09-12 06:32:47",
   "directors": [
     {
       "name": "Mr. Rohtas  Goel",
@@ -18,13 +18,6 @@
       "total_pay": 39600000
     },
     {
-      "name": "Mr. Atul  Banshal",
-      "role": "Director of Finance & CFO",
-      "age": 51,
-      "year_born": 1974,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Deshabandhu Rajesh Srikanta",
       "role": "President of Legal & Company Secretarial, Company Secretary, Compliance Officer",
       "age": 53,
@@ -37,41 +30,6 @@
       "age": 38,
       "year_born": 1987,
       "total_pay": 6000000
-    },
-    {
-      "name": "Mr. Daleep  Moudgil",
-      "role": "President",
-      "age": 65,
-      "year_born": 1960,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ms. Vijayalaxmi  Purohit",
-      "role": "President",
-      "age": 53,
-      "year_born": 1972,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Amit  Mehta",
-      "role": "President",
-      "age": 49,
-      "year_born": 1976,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Ram Saran Nigam",
-      "role": "President",
-      "age": 56,
-      "year_born": 1969,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Jatin  Goel",
-      "role": "Director of Operations",
-      "age": 32,
-      "year_born": 1993,
-      "total_pay": "N/A"
     }
   ]
 }

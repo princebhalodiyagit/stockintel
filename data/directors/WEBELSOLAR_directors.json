@@ -1,7 +1,7 @@
 {
   "ticker": "WEBELSOLAR",
   "company": "Websol Energy System Limited",
-  "collected_at": "2026-09-11 06:59:31",
+  "collected_at": "2026-09-12 06:44:56",
   "directors": [
     {
       "name": "Mr. Sohan Lal Agarwal",
@@ -11,10 +11,45 @@
       "total_pay": 75500000
     },
     {
+      "name": "Mr. Amrit  Daga",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 7200000
+    },
+    {
+      "name": "Ms. Vasanthi  Sreeram",
+      "role": "Chief Technical Officer",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": 300000
+    },
+    {
+      "name": "Mr. Ravinder  Tanwar",
+      "role": "Chief Operating Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Modaswar  Hossain",
       "role": "Senior Manager of Human Resources & Admin",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "C. J. Sukh",
+      "role": "Director of Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Soumak Deb Mallick",
+      "role": "Head MD Office & Head Supply Chain Management",
+      "age": 46,
+      "year_born": 1979,
       "total_pay": "N/A"
     }
   ]

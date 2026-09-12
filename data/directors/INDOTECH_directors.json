@@ -1,13 +1,27 @@
 {
   "ticker": "INDOTECH",
   "company": "Indo Tech Transformers Limited",
-  "collected_at": "2026-09-11 06:38:36",
+  "collected_at": "2026-09-12 06:24:39",
   "directors": [
+    {
+      "name": "Mr. Manohar  Purushothaman",
+      "role": "CEO & Whole-Time Director",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": 8198000
+    },
     {
       "name": "Mr. C.P.  Sai Krishnan",
       "role": "Chief Financial Officer",
       "age": 53,
       "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Dayanand N. Ramakrishnan",
+      "role": "Chief Operating Officer",
+      "age": 55,
+      "year_born": 1970,
       "total_pay": "N/A"
     },
     {
@@ -18,17 +32,10 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Manohar  Purushothaman",
-      "role": "CEO & Whole-Time Director",
-      "age": 58,
-      "year_born": 1967,
-      "total_pay": 8198000
-    },
-    {
-      "name": "Mr. Dayanand N. Ramakrishnan",
-      "role": "Chief Operating Officer",
-      "age": 55,
-      "year_born": 1970,
+      "name": "Mr. Shivaprasad  Padhy",
+      "role": "Company Secretary",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
@@ -43,13 +50,6 @@
       "role": "Head of Design",
       "age": 57,
       "year_born": 1968,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Shivaprasad  Padhy",
-      "role": "Company Secretary",
-      "age": "N/A",
-      "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
