@@ -1,7 +1,7 @@
 {
   "ticker": "RSDFIN",
   "company": "RSD Finance Limited",
-  "collected_at": "2026-09-12 06:36:44",
+  "collected_at": "2026-09-13 06:59:26",
   "directors": [
     {
       "name": "Mr. Rajeev Singh Dugal",
@@ -18,13 +18,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Ms. Subhajita  Biswal",
-      "role": "Company Secretary & Compliance Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
       "name": "Ms. Upneet  Dugal",
       "role": "Executive Director",
       "age": 33,
@@ -36,6 +29,20 @@
       "role": "Manager Administration & HR",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Ashi  Goyal",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Kawaljeet Kaur Dugal",
+      "role": "Non-Executive & Non-Independent Director",
+      "age": 61,
+      "year_born": 1964,
       "total_pay": "N/A"
     }
   ]

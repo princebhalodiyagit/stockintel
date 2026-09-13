@@ -1,7 +1,7 @@
 {
   "ticker": "INDOFARM",
   "company": "Indo Farm Equipment Limited",
-  "collected_at": "2026-09-12 06:24:36",
+  "collected_at": "2026-09-13 06:47:10",
   "directors": [
     {
       "name": "Mr. Ranbir Singh Khadwalia",
@@ -18,17 +18,59 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Ms. Navpreet  Kaur B.Com., C.S.",
+      "name": "Ms. Navpreet  Kaur",
       "role": "Company Secretary & Compliance Officer",
-      "age": 54,
-      "year_born": 1971,
+      "age": 52,
+      "year_born": 1973,
       "total_pay": "N/A"
     },
     {
-      "name": "PremKumar Narayan Chandrashekar",
-      "role": "Director of Sales & Marketing",
-      "age": 57,
-      "year_born": 1968,
+      "name": "Mr. Anshul  Khadwalia",
+      "role": "Whole Time Director",
+      "age": 35,
+      "year_born": 1990,
+      "total_pay": 9600000
+    },
+    {
+      "name": "Ms. Diksha  Khadwalia",
+      "role": "Executive Vice President of International Business",
+      "age": 34,
+      "year_born": 1991,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Shubham  Khadwalia",
+      "role": "Executive Vice President of International Business",
+      "age": 31,
+      "year_born": 1994,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Amit  Kumar",
+      "role": "Whole-Time Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 1995056
+    },
+    {
+      "name": "Sandeep  Sethi",
+      "role": "Associate Vice President",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Surinder Mohan Singla",
+      "role": "Vice President",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Jitendra  Gupta",
+      "role": "Associate Vice President",
+      "age": 47,
+      "year_born": 1978,
       "total_pay": "N/A"
     }
   ]

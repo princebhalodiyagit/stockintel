@@ -1,7 +1,7 @@
 {
   "ticker": "BLACKBUCK",
   "company": "BLACKBUCK LIMITED",
-  "collected_at": "2026-09-12 06:14:54",
+  "collected_at": "2026-09-13 06:37:16",
   "directors": [
     {
       "name": "Mr. Rajesh Kumar Naidu Yabaji",
@@ -11,11 +11,25 @@
       "total_pay": 32050263
     },
     {
+      "name": "Mr. Satyakam Gururaj Naik",
+      "role": "Chief Financial Officer",
+      "age": 33,
+      "year_born": 1992,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Chanakya  Hridaya",
       "role": "COO & Executive Director",
       "age": 36,
       "year_born": 1989,
       "total_pay": 20050837
+    },
+    {
+      "name": "Mr. Thejasvi  Bhat",
+      "role": "Chief Technology Officer",
+      "age": 41,
+      "year_born": 1984,
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Ramasubramaniam  Balasubramaniam",
@@ -29,6 +43,20 @@
       "role": "Company Secretary, Compliance Officer & Head of Legal",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Abhishek  Singh",
+      "role": "Business Head of Payments & Telematics",
+      "age": 36,
+      "year_born": 1989,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Supil  Chachan",
+      "role": "Business Head of Marketplace",
+      "age": 38,
+      "year_born": 1987,
       "total_pay": "N/A"
     },
     {

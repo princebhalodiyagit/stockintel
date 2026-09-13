@@ -1,7 +1,7 @@
 {
   "ticker": "HNDFDS",
   "company": "Hindustan Foods Limited",
-  "collected_at": "2026-09-12 06:23:29",
+  "collected_at": "2026-09-13 06:46:02",
   "directors": [
     {
       "name": "Mr. Sameer Ramanlal Kothari",
@@ -62,6 +62,13 @@
     {
       "name": "Mr. Manojkumar  Patani",
       "role": "President of Ice-cream Business",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sanjeev  Chatterjee",
+      "role": "President of Food & Beverages",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

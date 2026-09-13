@@ -1,7 +1,7 @@
 {
   "ticker": "AFFLE",
   "company": "Affle 3i Limited",
-  "collected_at": "2026-09-12 06:10:49",
+  "collected_at": "2026-09-13 06:33:02",
   "directors": [
     {
       "name": "Mr. Anuj Khanna Sohum",
@@ -11,10 +11,52 @@
       "total_pay": 253200
     },
     {
+      "name": "Mr. Kapil Mohan Bhutani",
+      "role": "Chief Financial & Operations Officer",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": 19660000
+    },
+    {
+      "name": "Mr. Jien Foong Yong",
+      "role": "Chief Architect and Technology Officer & Director",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Parmita  Choudhury",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 2640000
+    },
+    {
+      "name": "Mr. Vipul  Kedia",
+      "role": "Chief Operating Officer of India & Emerging Markets",
+      "age": 44,
+      "year_born": 1981,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Viraj  Sinh",
+      "role": "Co-founder & Chief Strategic Initiatives Officer",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Karish  Manchanda",
       "role": "Associate Director of Investor Relations, Strategy & Corporate Communication",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pankaj  Lad",
+      "role": "Director of Sales",
+      "age": 40,
+      "year_born": 1985,
       "total_pay": "N/A"
     },
     {
@@ -29,48 +71,6 @@
       "role": "Senior Vice President of Business Development & Partnerships",
       "age": 44,
       "year_born": 1981,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Eran  Kariti",
-      "role": "Chief Technology Officer of Appnext and YouAppi",
-      "age": 51,
-      "year_born": 1974,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Guillermo Fernandez Sanz",
-      "role": "Chief Technology Officer of Mediasmart",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Sameer  Sondhi",
-      "role": "Chief Strategic Investments Officer & CEO of North America",
-      "age": 51,
-      "year_born": 1974,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Gulrez  Alam",
-      "role": "Chief Revenue Officer of India and Emerging Markets",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Martje  Abeldt",
-      "role": "Chief Executive Officer of RevX",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Tarun  Aditya",
-      "role": "Associate Director of Data Sciences",
-      "age": "N/A",
-      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

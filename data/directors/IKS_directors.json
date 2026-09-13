@@ -1,6 +1,77 @@
 {
   "ticker": "IKS",
   "company": "Inventurus Knowledge Solutions Limited",
-  "collected_at": "2026-09-12 06:24:11",
-  "directors": []
+  "collected_at": "2026-09-13 06:46:45",
+  "directors": [
+    {
+      "name": "Mr. Sachin K. Gupta",
+      "role": "Founder, CEO & Non-Executive Director",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": 27330000
+    },
+    {
+      "name": "Mr. Joseph  Benardello",
+      "role": "Co-Founder, Chief Growth Officer & Non-Executive Director",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Nithya  Balasubramanian",
+      "role": "CFO & Whole-time Director",
+      "age": 41,
+      "year_born": 1984,
+      "total_pay": 76050000
+    },
+    {
+      "name": "Mr. Peter  Limeri",
+      "role": "Group Chief Operating Officer",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kalaiselvan  Durairaj",
+      "role": "Chief Information Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Saransh  Mundra",
+      "role": "VP of Finance & Head of Investor Relations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Christi  Braun",
+      "role": "Group Chief Legal and Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Kathryn  Weismantel",
+      "role": "Group Chief Marketing Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Manisha Raghunath Kadagathur",
+      "role": "Group Chief Human Resources Officer",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Hernan  Giraldo",
+      "role": "Chief Digital Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

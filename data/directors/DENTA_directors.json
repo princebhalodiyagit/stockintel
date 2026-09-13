@@ -1,8 +1,29 @@
 {
   "ticker": "DENTA",
   "company": "Denta Water and Infra Solutions Limited",
-  "collected_at": "2026-09-12 06:17:57",
+  "collected_at": "2026-09-13 06:40:23",
   "directors": [
+    {
+      "name": "Mr. Chennappa Sastry Mruthyunjaya Swamy",
+      "role": "Executive Chairman",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manish Jayasheel Shetty",
+      "role": "MD & Director",
+      "age": 33,
+      "year_born": 1992,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Hema Honnudeke Muddaveerashetty",
+      "role": "Executive Director",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
     {
       "name": "Mr. Tumkur Rajashekar Sujith",
       "role": "CFO & Whole-Time Director",
@@ -13,6 +34,20 @@
     {
       "name": "Mr. H. M. Viswanath",
       "role": "Chief Operational Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Sujata  Gaonkar",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 980000
+    },
+    {
+      "name": "Ms. Sirisha  Kanuru",
+      "role": "Human Resources Manager",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

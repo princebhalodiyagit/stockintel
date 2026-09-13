@@ -1,21 +1,77 @@
 {
   "ticker": "HEG",
   "company": "HEG Limited",
-  "collected_at": "2026-09-12 06:22:58",
+  "collected_at": "2026-09-13 06:45:30",
   "directors": [
     {
-      "name": "Mr. Ravi Kant Tripathi",
-      "role": "Chief Financial Officer",
-      "age": 55,
-      "year_born": 1970,
+      "name": "Mr. Puneet  Anand",
+      "role": "President & Group Chief Strategy Officer",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Vivek  Chaudhary",
-      "role": "Compliance Officer & Company Secretary",
+      "name": "Mr. Axay  Saxena",
+      "role": "General Manager of HR & IR",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Neha  Rajvanshi",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Jyoti  Gupta",
+      "role": "Senior Vice President & Head Administration",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Salil  Bawa",
+      "role": "President of Investor Relations",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ravi  Gupta",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ashish  Gaur",
+      "role": "General Manager of Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ranjan  Sarkar",
+      "role": "President of Group CHRO",
       "age": 51,
       "year_born": 1974,
-      "total_pay": 5903000
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Om Prakash Ajmera",
+      "role": "Group Chief Financial Officer",
+      "age": 64,
+      "year_born": 1961,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Indu  Mehta",
+      "role": "President of Brand Communication & PR, Chief Sustainability Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

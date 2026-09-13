@@ -1,7 +1,7 @@
 {
   "ticker": "ROSSARI",
   "company": "Rossari Biotech Limited",
-  "collected_at": "2026-09-12 06:36:29",
+  "collected_at": "2026-09-13 06:59:11",
   "directors": [
     {
       "name": "Mr. Edward Walter Menezes",
@@ -57,6 +57,13 @@
       "role": "Director of AHN & Textile Business",
       "age": 35,
       "year_born": 1990,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Divyansh  Jaju",
+      "role": "Equity Research Analyst",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

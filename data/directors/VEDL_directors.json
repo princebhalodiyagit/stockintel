@@ -1,21 +1,21 @@
 {
   "ticker": "VEDL",
   "company": "Vedanta Limited",
-  "collected_at": "2026-09-12 06:44:04",
+  "collected_at": "2026-09-13 07:06:44",
   "directors": [
+    {
+      "name": "Mr. Arun  Misra",
+      "role": "CEO, CEO of Zinc Business & Executive Director",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": "N/A"
+    },
     {
       "name": "Mr. Navin Kumar Agarwal",
       "role": "Executive Vice Chairman",
       "age": 64,
       "year_born": 1961,
       "total_pay": 130630776
-    },
-    {
-      "name": "Mr. Arun  Misra",
-      "role": "CEO of Zinc Business & Executive Director",
-      "age": 60,
-      "year_born": 1965,
-      "total_pay": "N/A"
     },
     {
       "name": "Mr. Ajay Kumar Goel",

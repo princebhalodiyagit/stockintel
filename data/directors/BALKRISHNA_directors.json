@@ -1,7 +1,7 @@
 {
   "ticker": "BALKRISHNA",
   "company": "Balkrishna Paper Mills Limited",
-  "collected_at": "2026-09-12 06:13:48",
+  "collected_at": "2026-09-13 06:36:06",
   "directors": [
     {
       "name": "Mr. Anurag Pawankumar Poddar",
@@ -22,6 +22,13 @@
       "role": "Compliance Officer, Legal Head & Company Secretary",
       "age": 65,
       "year_born": 1960,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pradeep  Ringasia",
+      "role": "Vice President of Admin",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

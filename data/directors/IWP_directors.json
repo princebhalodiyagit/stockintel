@@ -1,6 +1,35 @@
 {
   "ticker": "IWP",
   "company": "The Indian Wood Products Company Limited",
-  "collected_at": "2026-09-12 06:25:32",
-  "directors": []
+  "collected_at": "2026-09-13 06:48:06",
+  "directors": [
+    {
+      "name": "Mr. Bharat  Mohta",
+      "role": "Chairman & MD",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": 24772000
+    },
+    {
+      "name": "Mr. Raj Kumar Agarwal B.Com., L.L.B.",
+      "role": "Executive VP & CFO",
+      "age": 74,
+      "year_born": 1951,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anup  Gupta",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ravi  Chandak C.A., M.B.A.",
+      "role": "Whole-Time Director",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": 3685000
+    }
+  ]
 }

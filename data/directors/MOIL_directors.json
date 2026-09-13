@@ -1,7 +1,7 @@
 {
   "ticker": "MOIL",
   "company": "MOIL Limited",
-  "collected_at": "2026-09-12 06:30:35",
+  "collected_at": "2026-09-13 06:53:11",
   "directors": [
     {
       "name": "Mr. Vishwanath  Suresh",
@@ -23,6 +23,55 @@
       "age": 49,
       "year_born": 1976,
       "total_pay": 4165000
+    },
+    {
+      "name": "Mr. Mirza Mohamtnad Abdulla",
+      "role": "Director of Production & Planning and Director",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": 6677000
+    },
+    {
+      "name": "Ms. Rashmi  Singh",
+      "role": "Director of Commercial & Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 8489000
+    },
+    {
+      "name": "Mr. Kishor  Chandrakar",
+      "role": "Executive Director of Technical",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Preeti A. Joshi",
+      "role": "Deputy General Manager of Legal",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. R. P. Patil",
+      "role": "Chief General Manager of Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. B.D.  Gajghate",
+      "role": "Chief Vigilance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Akanksha  Singh",
+      "role": "GM of Finance, Internal Auditor & Head of the Internal Audit Department",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

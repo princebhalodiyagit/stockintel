@@ -1,7 +1,7 @@
 {
   "ticker": "SCHAND",
   "company": "S Chand And Company Limited",
-  "collected_at": "2026-09-12 06:37:52",
+  "collected_at": "2026-09-13 07:00:35",
   "directors": [
     {
       "name": "Mr. Himanshu  Gupta B.Com.",
@@ -43,6 +43,34 @@
       "role": "Senior Vice President of Finance",
       "age": 49,
       "year_born": 1976,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jitendra Kumar Agnihotri",
+      "role": "National Sales Head & CEO of S Chand Publishing (School Education)",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Atul  Soni",
+      "role": "Senior Vice President of Investor Relations & Strategy",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Priya  Malhotra",
+      "role": "Senior Vice President of Marketing & Communications",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sachin  Sharma",
+      "role": "Business Head of S Chand Publishing & National Sales Head - Higher Education",
+      "age": 39,
+      "year_born": 1986,
       "total_pay": "N/A"
     }
   ]

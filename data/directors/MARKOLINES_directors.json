@@ -1,7 +1,7 @@
 {
   "ticker": "MARKOLINES",
   "company": "Markolines Pavement Technologies Limited",
-  "collected_at": "2026-09-12 06:29:34",
+  "collected_at": "2026-09-13 06:52:11",
   "directors": [
     {
       "name": "Mr. Sanjay Bhanudas Patil",
@@ -9,6 +9,27 @@
       "age": 58,
       "year_born": 1967,
       "total_pay": 12600000
+    },
+    {
+      "name": "Mr. Vijay Ratanchand Oswal",
+      "role": "Founder & CFO",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": 10200000
+    },
+    {
+      "name": "Mr. Praveen Sevantilal Panchal",
+      "role": "Executive Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 6000000
+    },
+    {
+      "name": "Mr. Anil Pralhad Nikam",
+      "role": "Chief Executive Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     },
     {
       "name": "Ms. Unnati  Jiandani",

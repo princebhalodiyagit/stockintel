@@ -1,7 +1,7 @@
 {
   "ticker": "AMBER",
   "company": "Amber Enterprises India Limited",
-  "collected_at": "2026-09-12 06:11:35",
+  "collected_at": "2026-09-13 06:33:49",
   "directors": [
     {
       "name": "Mr. Jasbir  Singh",
@@ -11,11 +11,67 @@
       "total_pay": 59719000
     },
     {
+      "name": "Mr. Daljit  Singh",
+      "role": "MD & Executive Director",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": 57122000
+    },
+    {
+      "name": "Mr. Sudhir  Goyal",
+      "role": "Chief Financial Officer",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Konica  Yaadav",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 36,
+      "year_born": 1989,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Sachin  Gupta",
       "role": "CEO of RAC & CAC Division and Whole Time Director",
       "age": 44,
       "year_born": 1981,
       "total_pay": 28239000
+    },
+    {
+      "name": "Mr. Rishu  Madan",
+      "role": "VP of Operations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sanjay Kumar Arora",
+      "role": "Whole Time Director of IL JIN Electronics",
+      "age": 65,
+      "year_born": 1960,
+      "total_pay": 15861000
+    },
+    {
+      "name": "Mr. Somashekar Hanumantraya Tugade",
+      "role": "President of Component Division",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sundeep Singh Hunjan",
+      "role": "AVP of Research & Development",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Girish  Saluja",
+      "role": "GM of Sourcing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

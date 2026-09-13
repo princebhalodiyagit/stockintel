@@ -1,13 +1,41 @@
 {
   "ticker": "PURVA",
   "company": "Puravankara Limited",
-  "collected_at": "2026-09-12 06:35:08",
+  "collected_at": "2026-09-13 06:57:49",
   "directors": [
     {
       "name": "Mr. Ravi  Puravankara",
       "role": "Founder & Executive Chairman",
       "age": 74,
       "year_born": 1951,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sudip  Chatterjee",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 4500000
+    },
+    {
+      "name": "Mr. Ashish Ravi Puravankara BBA, MBA",
+      "role": "MD & Whole Time Director",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": 54477072
+    },
+    {
+      "name": "Mr. Neeraj Kumar Gautam",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 9300000
+    },
+    {
+      "name": "Nagendra  M.",
+      "role": "Executive Vice President of Technical",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
@@ -43,27 +71,6 @@
       "role": "Regional Head - Kerala",
       "age": 66,
       "year_born": 1959,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Hunsur Gopalakrishnarao Nagananda BAL, LLB",
-      "role": "Head of Legal & Business Development - Purva Land",
-      "age": 56,
-      "year_born": 1969,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. H. Vishnu Moorthi B.Com, FCA",
-      "role": "Senior Vice President of Properties & Risk Control",
-      "age": 59,
-      "year_born": 1966,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Amit Narain Ahuja",
-      "role": "Chief Risk Officer",
-      "age": "N/A",
-      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

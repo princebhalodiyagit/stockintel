@@ -1,6 +1,42 @@
 {
   "ticker": "AMBICAAGAR",
   "company": "Ambica Agarbathies & Aroma industries Limited",
-  "collected_at": "2026-09-12 06:11:36",
-  "directors": []
+  "collected_at": "2026-09-13 06:33:50",
+  "directors": [
+    {
+      "name": "Mr. Perla Veera Venkata Pothu Krishna Rao Ambica Krishna",
+      "role": "Chairman, CEO, President & MD",
+      "age": 74,
+      "year_born": 1951,
+      "total_pay": 1200000
+    },
+    {
+      "name": "Mr. Ambica B. N. V. R. Alapati Hanuma",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Uma  Gayathri",
+      "role": "Company Secretary & Compliance officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ambica Ramachandra Rao A. G. N. Venkata Surya",
+      "role": "Whole Time Executive Director",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Satyavathi  Perla",
+      "role": "Women Whole Time Executive Director",
+      "age": 72,
+      "year_born": 1953,
+      "total_pay": 1200000
+    }
+  ]
 }

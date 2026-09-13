@@ -1,7 +1,7 @@
 {
   "ticker": "AGARWALEYE",
   "company": "Dr. Agarwal's Health Care Limited",
-  "collected_at": "2026-09-12 06:10:52",
+  "collected_at": "2026-09-13 06:33:05",
   "directors": [
     {
       "name": "Dr. Adil  Agarwal M.B.B.S, M.S, MBA",
@@ -9,6 +9,48 @@
       "age": 42,
       "year_born": 1983,
       "total_pay": 56900000
+    },
+    {
+      "name": "Dr. Anosh  Agarwal M.B.B.S, MBA, MS Ophthal",
+      "role": "COO & Wholetime Director",
+      "age": 41,
+      "year_born": 1984,
+      "total_pay": 56900000
+    },
+    {
+      "name": "Mr. Yashwanth  Venkat",
+      "role": "Chief Financial Officer",
+      "age": 40,
+      "year_born": 1985,
+      "total_pay": 3300000
+    },
+    {
+      "name": "Ms. Aashna  Dharia",
+      "role": "Head of Investor Relations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Thanikainathan  Arumugam",
+      "role": "VP of Corporate Affairs, Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 6700000
+    },
+    {
+      "name": "Dr. Ashvin  Agarwal",
+      "role": "Chief Clinical Officer",
+      "age": 42,
+      "year_born": 1983,
+      "total_pay": 8100000
+    },
+    {
+      "name": "Dr. Ashar  Agarwal",
+      "role": "Chief Business Officer",
+      "age": 40,
+      "year_born": 1985,
+      "total_pay": 23900000
     },
     {
       "name": "Dr. Vandana  Jain M.D.",

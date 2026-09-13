@@ -1,7 +1,7 @@
 {
   "ticker": "SARDAEN",
   "company": "Sarda Energy & Minerals Limited",
-  "collected_at": "2026-09-12 06:37:35",
+  "collected_at": "2026-09-13 07:00:17",
   "directors": [
     {
       "name": "Mr. Kamal Kishore Sarda B.E. (Mech)",
@@ -25,6 +25,34 @@
       "total_pay": 23670000
     },
     {
+      "name": "Mr. Nilay  Joshi",
+      "role": "Head of Corporate Finance",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ramakrishna Rao Thotav",
+      "role": "President of Commercial",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Priyabrata  Mukherjee",
+      "role": "VP of Mines",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ajay  Singhal",
+      "role": "Head of Finance & Accounts",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Manish  Sethi",
       "role": "Company Secretary & Compliance Officer",
       "age": "N/A",
@@ -32,17 +60,17 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. Manish Chandra Mishra",
+      "role": "Head of Marketing",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Neeraj Jugalkishor Sarda",
       "role": "Deputy Managing Director",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Sanjeev  Agrawal",
-      "role": "Head of Services",
-      "age": 61,
-      "year_born": 1964,
       "total_pay": "N/A"
     }
   ]

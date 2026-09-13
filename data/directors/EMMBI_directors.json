@@ -1,7 +1,7 @@
 {
   "ticker": "EMMBI",
   "company": "Emmbi Industries Limited",
-  "collected_at": "2026-09-12 06:19:18",
+  "collected_at": "2026-09-13 06:41:45",
   "directors": [
     {
       "name": "Mr. Makrand Moreshwar Appalwar",
@@ -23,6 +23,27 @@
       "age": 32,
       "year_born": 1993,
       "total_pay": 1871100
+    },
+    {
+      "name": "S.  Sastry",
+      "role": "President of Works",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Yash  Punjabi",
+      "role": "Chief Operating Officer of Avana",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Maithili M. Appalwar",
+      "role": "CEO of Avana",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

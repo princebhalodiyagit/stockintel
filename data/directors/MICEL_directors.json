@@ -1,6 +1,77 @@
 {
   "ticker": "MICEL",
   "company": "MIC Electronics Limited",
-  "collected_at": "2026-09-12 06:30:13",
-  "directors": []
+  "collected_at": "2026-09-13 06:52:51",
+  "directors": [
+    {
+      "name": "Mr. Rakshit  Mathur",
+      "role": "Chief Executive Officer",
+      "age": 44,
+      "year_born": 1981,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Muralikrishnan Sadasivan Madurai",
+      "role": "Chief Financial Officer",
+      "age": 64,
+      "year_born": 1961,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Alla Lakshmi Sowjanya",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 40,
+      "year_born": 1985,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kaushik  Yalamanchili",
+      "role": "MD & Director",
+      "age": 31,
+      "year_born": 1994,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sivanand Swamy Mitikiri",
+      "role": "Whole-Time Director",
+      "age": 68,
+      "year_born": 1957,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "S. Venkateswara Rao",
+      "role": "General Manager of Finance & Accounts",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. D. Ratna Kumar",
+      "role": "Head of Admin",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Govindappa  Gadaputi B.E, M.Tech",
+      "role": "Chief of Business Development & Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 600000
+    },
+    {
+      "name": "Mr. Manoj  Kumar",
+      "role": "Senior General Manager of Sales",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Borapureddi  Sridhar M.Tech.",
+      "role": "Chief Manager of Telecom Embedded Software",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": 890640
+    }
+  ]
 }

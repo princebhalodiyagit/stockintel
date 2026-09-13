@@ -1,13 +1,27 @@
 {
   "ticker": "ZEEL",
   "company": "Zee Entertainment Enterprises Limited",
-  "collected_at": "2026-09-12 06:45:33",
+  "collected_at": "2026-09-13 07:08:15",
   "directors": [
     {
       "name": "Mr. Punit  Goenka B.Com.",
       "role": "Chief Executive Officer",
       "age": 50,
       "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mukund Venkatesh Galgali",
+      "role": "Deputy CEO & Acting CFO",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ashish Ramesh Agarwal",
+      "role": "Chief Compliance Officer & Company Secretary",
+      "age": 51,
+      "year_born": 1974,
       "total_pay": "N/A"
     },
     {
@@ -57,20 +71,6 @@
       "role": "Chief Executive Officer of Service Excellence Unit",
       "age": 65,
       "year_born": 1960,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Dr. Amit Anil Goenka B.Com.",
-      "role": "President of Digital Businesses & Platforms",
-      "age": 50,
-      "year_born": 1975,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Pushpal  Sanghavi",
-      "role": "Senior Vice President of Secretarial",
-      "age": 51,
-      "year_born": 1974,
       "total_pay": "N/A"
     }
   ]

@@ -1,6 +1,63 @@
 {
   "ticker": "GRMOVER",
   "company": "GRM Overseas Limited",
-  "collected_at": "2026-09-12 06:22:03",
-  "directors": []
+  "collected_at": "2026-09-13 06:44:36",
+  "directors": [
+    {
+      "name": "Mr. Atul  Garg",
+      "role": "MD & Executive Chairman",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": 16800000
+    },
+    {
+      "name": "Mr. Hukam Chand Garg",
+      "role": "Founder & Non-Executive Non Independent Director",
+      "age": 82,
+      "year_born": 1943,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vedant  Garg",
+      "role": "Chief Financial Officer",
+      "age": 27,
+      "year_born": 1998,
+      "total_pay": 12300000
+    },
+    {
+      "name": "Mr. Sachin  Narang",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 32,
+      "year_born": 1993,
+      "total_pay": 764220
+    },
+    {
+      "name": "Mr. Barun  Prabhakar",
+      "role": "Group Chief Marketing Officer",
+      "age": 40,
+      "year_born": 1985,
+      "total_pay": 4999992
+    },
+    {
+      "name": "Ms. Mamta  Garg",
+      "role": "Whole-Time Director",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": 13200000
+    },
+    {
+      "name": "Meenakshi  Pawar",
+      "role": "Head - Corporate Affairs",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anil Kumar Nijhawan",
+      "role": "Senior Manager of Accounts",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
+    }
+  ]
 }

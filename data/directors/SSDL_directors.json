@@ -1,7 +1,7 @@
 {
   "ticker": "SSDL",
   "company": "Saraswati Saree Depot Limited",
-  "collected_at": "2026-09-12 06:40:06",
+  "collected_at": "2026-09-13 07:02:45",
   "directors": [
     {
       "name": "Mr. Rajesh Sujandas Dulhani",
@@ -43,6 +43,34 @@
       "role": "Senior Manager of Accounting & Finance",
       "age": 31,
       "year_born": 1994,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Vidhi Bharat Oswal",
+      "role": "Whole-Time Company Secretary & Compliance Officer",
+      "age": 24,
+      "year_born": 2001,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Shubh Vinod Dulhan",
+      "role": "Senior Manager Sales",
+      "age": 20,
+      "year_born": 2005,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Siddhant Gulshan Dulhani",
+      "role": "Junior Manager of Sales & Marketing",
+      "age": 18,
+      "year_born": 2007,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Gulshan Shevakram Dulhani",
+      "role": "Senior Manager of Customer Relation",
+      "age": 43,
+      "year_born": 1982,
       "total_pay": "N/A"
     }
   ]

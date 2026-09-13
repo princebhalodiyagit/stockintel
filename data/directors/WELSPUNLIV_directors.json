@@ -1,7 +1,7 @@
 {
   "ticker": "WELSPUNLIV",
   "company": "Welspun Living Limited",
-  "collected_at": "2026-09-12 06:45:04",
+  "collected_at": "2026-09-13 07:07:46",
   "directors": [
     {
       "name": "Ms. Dipali Balkrishan Goenka",
@@ -23,6 +23,20 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Shraddha  Popat",
+      "role": "AVP, Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Salil  Bawa",
+      "role": "President of Investor Relations",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": 18000000
     },
     {
       "name": "Mr. Mukesh  Savlani",
@@ -57,20 +71,6 @@
       "role": "Senior Vice President",
       "age": 52,
       "year_born": 1973,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Shailesh  Apte",
-      "role": "Senior Vice President",
-      "age": 43,
-      "year_born": 1982,
-      "total_pay": 15600000
-    },
-    {
-      "name": "Mr. Keyur  Parekh",
-      "role": "CEO of Global Business",
-      "age": "N/A",
-      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

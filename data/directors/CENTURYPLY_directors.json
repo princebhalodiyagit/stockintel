@@ -1,7 +1,7 @@
 {
   "ticker": "CENTURYPLY",
   "company": "Century Plyboards (India) Limited",
-  "collected_at": "2026-09-12 06:16:08",
+  "collected_at": "2026-09-13 06:38:31",
   "directors": [
     {
       "name": "Mr. Sajjan  Bhajanka",
@@ -53,6 +53,13 @@
       "total_pay": 45000000
     },
     {
+      "name": "Mr. Keshav  Bhajanka",
+      "role": "Executive Director",
+      "age": 36,
+      "year_born": 1989,
+      "total_pay": 27500000
+    },
+    {
       "name": "Ms. Nikita  Bansal",
       "role": "Executive Director",
       "age": 35,
@@ -65,13 +72,6 @@
       "age": 54,
       "year_born": 1971,
       "total_pay": 14500000
-    },
-    {
-      "name": "Mr. Vivek  Agarwal",
-      "role": "Vice President (Operations) & Unit Head- Kandla",
-      "age": 50,
-      "year_born": 1975,
-      "total_pay": "N/A"
     }
   ]
 }

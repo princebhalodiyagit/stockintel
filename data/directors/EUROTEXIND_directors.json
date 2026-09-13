@@ -1,7 +1,7 @@
 {
   "ticker": "EUROTEXIND",
   "company": "Eurotex Industries and Exports Limited",
-  "collected_at": "2026-09-12 06:19:45",
+  "collected_at": "2026-09-13 06:42:13",
   "directors": [
     {
       "name": "Mr. Krishan Kumar Patodia B.E., B.Sc., B.Tech.",
@@ -22,6 +22,13 @@
       "role": "CFO & Executive Director",
       "age": 56,
       "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Priya Amit Manglani",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

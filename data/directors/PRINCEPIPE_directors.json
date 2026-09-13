@@ -1,6 +1,77 @@
 {
   "ticker": "PRINCEPIPE",
   "company": "Prince Pipes And Fittings Limited",
-  "collected_at": "2026-09-12 06:34:52",
-  "directors": []
+  "collected_at": "2026-09-13 06:57:33",
+  "directors": [
+    {
+      "name": "Mr. Jayant Shamji Chheda",
+      "role": "Founder, Executive Chairman & MD",
+      "age": 79,
+      "year_born": 1946,
+      "total_pay": 46290000
+    },
+    {
+      "name": "Mr. Parag Jayant Chheda",
+      "role": "Joint MD & Whole Time Director",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": 41890000
+    },
+    {
+      "name": "Mr. Ashok  Mehra",
+      "role": "President & Chief Marketing Officer",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anand  Gupta",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 9760000
+    },
+    {
+      "name": "Mr. Vipul Jayant Chheda",
+      "role": "Executive Director",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": 38220000
+    },
+    {
+      "name": "Mr. Keyur  Desai",
+      "role": "Chief Information Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Ashwini Vipul Chheda",
+      "role": "Head of Administration",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 26160000
+    },
+    {
+      "name": "Ms. Jyoti  Sancheti",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Girish  KV",
+      "role": "General Manager of Sales",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Heena Parag Chheda",
+      "role": "President of Human Resource",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": 29580000
+    }
+  ]
 }

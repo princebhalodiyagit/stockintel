@@ -1,7 +1,7 @@
 {
   "ticker": "MTARTECH",
   "company": "Mtar Technologies Limited",
-  "collected_at": "2026-09-12 06:30:56",
+  "collected_at": "2026-09-13 06:53:33",
   "directors": [
     {
       "name": "Mr. Parvat Srinivas Reddy",
@@ -25,6 +25,41 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. Akepati Praveen Kumar Reddy",
+      "role": "Whole Time Director",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": 9910000
+    },
+    {
+      "name": "Mr. Mitta Anushman Reddy",
+      "role": "VP & Whole Time Director",
+      "age": 34,
+      "year_born": 1991,
+      "total_pay": 14860000
+    },
+    {
+      "name": "Mr. Arun Kumar Ojha",
+      "role": "Chief Commercial Officer",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Doggala  Siddareddy",
+      "role": "Vice President of Clean Energy Fuel Cells",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Alavalapati Veera Sudhakar Reddy",
+      "role": "Vice President of Space",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Rohit  Khera",
       "role": "Resident Director",
       "age": 71,
@@ -32,31 +67,10 @@
       "total_pay": "N/A"
     },
     {
-      "name": "K. Rama Mohan Rao",
-      "role": "Vice President of HR & Admin",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ms. Srilekha  Jasthi",
-      "role": "Head of Strategy & Investor Relations",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Charabuddi Ramesh Reddy",
-      "role": "Vice President of Civil Nuclear Power & Defence",
-      "age": 63,
-      "year_born": 1962,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ayyalasomayajula Vara Prasad",
-      "role": "Vice President",
-      "age": 57,
-      "year_born": 1968,
+      "name": "Bhogadi Lakshmana Babu",
+      "role": "Vice President of Aerospace",
+      "age": 60,
+      "year_born": 1965,
       "total_pay": "N/A"
     }
   ]

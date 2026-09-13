@@ -1,7 +1,7 @@
 {
   "ticker": "BIRLANU",
   "company": "BirlaNu Limited",
-  "collected_at": "2026-09-12 06:14:52",
+  "collected_at": "2026-09-13 06:37:13",
   "directors": [
     {
       "name": "Mr. Akshat  Seth",
@@ -9,6 +9,13 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 87989000
+    },
+    {
+      "name": "Ms. Avanti  Birla",
+      "role": "President",
+      "age": 35,
+      "year_born": 1990,
+      "total_pay": 226
     },
     {
       "name": "Mr. Ajay  Kapadia",
@@ -64,13 +71,6 @@
       "role": "Head of Occupational Health",
       "age": 73,
       "year_born": 1952,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Dr. D.  Satyanarayana",
-      "role": "Head of Research & Development",
-      "age": 61,
-      "year_born": 1964,
       "total_pay": "N/A"
     }
   ]

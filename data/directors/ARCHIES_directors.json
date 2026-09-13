@@ -1,7 +1,7 @@
 {
   "ticker": "ARCHIES",
   "company": "Archies Limited",
-  "collected_at": "2026-09-12 06:12:11",
+  "collected_at": "2026-09-13 06:34:26",
   "directors": [
     {
       "name": "Mr. Anil  Moolchandani",
@@ -11,11 +11,18 @@
       "total_pay": 600000
     },
     {
+      "name": "Mr. Varun  Moolchandani",
+      "role": "CFO & Executive Director",
+      "age": 43,
+      "year_born": 1982,
+      "total_pay": 3720000
+    },
+    {
       "name": "Ms. Chiranjivi  Ramuka",
       "role": "Company Secretary & Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": 2215440
+      "total_pay": 828000
     },
     {
       "name": "Mr. Umesh  Mathur",
@@ -43,7 +50,7 @@
       "role": "Executive Director",
       "age": 38,
       "year_born": 1987,
-      "total_pay": "N/A"
+      "total_pay": 942000
     }
   ]
 }

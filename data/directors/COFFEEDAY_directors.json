@@ -1,7 +1,7 @@
 {
   "ticker": "COFFEEDAY",
   "company": "Coffee Day Enterprises Limited",
-  "collected_at": "2026-09-12 06:16:43",
+  "collected_at": "2026-09-13 06:39:07",
   "directors": [
     {
       "name": "Ms. Malavika Siddhartha Hegde",
@@ -43,6 +43,27 @@
       "role": "Company Secretary, Compliance Officer & Legal Head",
       "age": 61,
       "year_born": 1964,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. D. Shankar Narayan",
+      "role": "President of Vending Division - Coffee Day Global",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. C. J. Jayanth",
+      "role": "President of Fresh & Ground Division - Coffee Day Global",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Cyril Amarchand Mangaldas",
+      "role": "Legal Counsel",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

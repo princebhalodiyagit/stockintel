@@ -1,20 +1,20 @@
 {
   "ticker": "TEXINFRA",
   "company": "Texmaco Infrastructure & Holdings Limited",
-  "collected_at": "2026-09-12 06:42:03",
+  "collected_at": "2026-09-13 07:04:43",
   "directors": [
     {
       "name": "Mr. Anish  Choudhury",
       "role": "MD & Director",
-      "age": "N/A",
-      "year_born": "N/A",
+      "age": 40,
+      "year_born": 1985,
       "total_pay": 15428572
     },
     {
       "name": "Mr. Ganesh  Gupta",
       "role": "Chief Financial Officer",
-      "age": 48,
-      "year_born": 1977,
+      "age": 49,
+      "year_born": 1976,
       "total_pay": "N/A"
     },
     {
@@ -39,7 +39,14 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Gupta  Diwakar",
+      "name": "Mr. Rajat  Arora",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Gupta  Diwakar",
       "role": "Senior Manager of HR & Admin.",
       "age": 48,
       "year_born": 1977,
@@ -62,13 +69,6 @@
     {
       "name": "Mr. Suhrid Ranjan Sinha",
       "role": "Senior Vice President of Engineering & Marketing for Hydro Mechanical Equipment & Structural",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Krishna  Kumar",
-      "role": "Executive Vice President of Works",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

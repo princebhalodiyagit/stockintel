@@ -1,7 +1,7 @@
 {
   "ticker": "MARUTI",
   "company": "Maruti Suzuki India Limited",
-  "collected_at": "2026-09-12 06:29:37",
+  "collected_at": "2026-09-13 06:52:14",
   "directors": [
     {
       "name": "Mr. Hisashi  Takeuchi",
@@ -18,6 +18,13 @@
       "total_pay": 46189500
     },
     {
+      "name": "Mr. Kazunari  Yamaguchi",
+      "role": "Director of Production & Whole Time Director",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": 46189500
+    },
+    {
       "name": "Mr. Kenichiro  Toyofuku",
       "role": "Director of Sustainability & Whole Time Director",
       "age": 55,
@@ -29,6 +36,13 @@
       "role": "Chief Financial Officer",
       "age": 52,
       "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Shashank  Srivastava",
+      "role": "Member Executive Committee",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
@@ -55,20 +69,6 @@
     {
       "name": "Mr. Partho  Banerjee",
       "role": "Head of Marketing & Sales",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Salil B. Lal",
-      "role": "Head of Human Resources",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Dr. Tapan  Sahoo",
-      "role": "Head of Digital Enterprise, Information, Cyber Security & Information Technology",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

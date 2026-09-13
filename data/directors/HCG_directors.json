@@ -1,21 +1,28 @@
 {
   "ticker": "HCG",
   "company": "Healthcare Global Enterprises Limited",
-  "collected_at": "2026-09-12 06:22:45",
+  "collected_at": "2026-09-13 06:45:19",
   "directors": [
-    {
-      "name": "Ms. Sunu Manuel Abey",
-      "role": "Compliance Officer & Company Secretary",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 5840000
-    },
     {
       "name": "Dr. Manish  Mattoo",
       "role": "CEO & Executive Director",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 40424320
+    },
+    {
+      "name": "Mr. Madan Kumar Sampath",
+      "role": "Chief Supply Chain Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Rupali  Basu",
+      "role": "Senior Vice President of Regional Business Head (East & AP)",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Sanjeev Kumar Saxena B.Com (Hons), CA, CS",
@@ -46,17 +53,24 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Madan Kumar Sampath",
-      "role": "Chief Supply Chain Officer",
+      "name": "Ms. Sunu Manuel Abey",
+      "role": "Compliance Officer & Company Secretary",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 5840000
+    },
+    {
+      "name": "Romiya  Das",
+      "role": "Public Relation Manager",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
-      "name": "Dr. Rupali  Basu",
-      "role": "Senior Vice President of Regional Business Head (East & AP)",
-      "age": 62,
-      "year_born": 1963,
+      "name": "Mr. Ashutosh  Kumar",
+      "role": "Vice President of Strategic Planning & Corporate Development",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

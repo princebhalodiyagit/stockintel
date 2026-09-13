@@ -1,7 +1,7 @@
 {
   "ticker": "PIRAMALFIN",
   "company": "Piramal Finance Limited",
-  "collected_at": "2026-09-12 06:34:06",
+  "collected_at": "2026-09-13 06:56:46",
   "directors": [
     {
       "name": "Mr. Jairam  Sridharan",
@@ -15,6 +15,13 @@
       "role": "Chief Financial Officer",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Bipin  Singh",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 57,
+      "year_born": 1968,
       "total_pay": "N/A"
     },
     {
@@ -62,13 +69,6 @@
     {
       "name": "Mr. Yesh  Nadkarni",
       "role": "CEO of Wholesale Lending",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Narayan Prasad Kambhatla",
-      "role": "Chief Risk Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

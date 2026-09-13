@@ -1,7 +1,7 @@
 {
   "ticker": "FINPIPE",
   "company": "Finolex Industries Limited",
-  "collected_at": "2026-09-12 06:20:09",
+  "collected_at": "2026-09-13 06:42:38",
   "directors": [
     {
       "name": "Mr. Prakash Pralhad Chhabria B.Sc.",
@@ -9,6 +9,34 @@
       "age": 62,
       "year_born": 1963,
       "total_pay": 173800000
+    },
+    {
+      "name": "Mr. Udipt  Agarwal",
+      "role": "MD & Whole-time Director",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": 27700000
+    },
+    {
+      "name": "Mr. Rambabu  Sanka",
+      "role": "President of Technical & Whole-time Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 16500000
+    },
+    {
+      "name": "Mr. Chandan  Verma",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 3600000
+    },
+    {
+      "name": "Mr. Dakshinamurthy V. Iyer",
+      "role": "Company Secretary, Head Legal & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 6000000
     },
     {
       "name": "Mr. Shirish  Panke",
@@ -27,6 +55,20 @@
     {
       "name": "Mr. Shreedatta  Albur",
       "role": "President of Operations of PVC DIVISION",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajeev Ranjan Singh",
+      "role": "Head of  Operations at Pipes division",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Swad  Deshpande",
+      "role": "President of Supply Chain Management",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

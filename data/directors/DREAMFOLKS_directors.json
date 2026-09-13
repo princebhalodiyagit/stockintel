@@ -1,7 +1,7 @@
 {
   "ticker": "DREAMFOLKS",
   "company": "Dreamfolks Services Limited",
-  "collected_at": "2026-09-12 06:18:36",
+  "collected_at": "2026-09-13 06:41:02",
   "directors": [
     {
       "name": "Ms. Liberatha Peter Kallat",
@@ -9,6 +9,13 @@
       "age": 49,
       "year_born": 1976,
       "total_pay": 118616055
+    },
+    {
+      "name": "Mr. Shekhar  Sood",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 13050000
     },
     {
       "name": "Mr. Balaji  Srinivasan",
@@ -30,13 +37,6 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 3540000
-    },
-    {
-      "name": "Mr. Shekhar  Sood",
-      "role": "Chief Financial Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 13050000
     },
     {
       "name": "Mr. Vibhor  Jain",

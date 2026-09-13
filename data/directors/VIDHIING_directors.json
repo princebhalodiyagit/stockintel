@@ -1,7 +1,7 @@
 {
   "ticker": "VIDHIING",
   "company": "Vidhi Specialty Food Ingredients Limited",
-  "collected_at": "2026-09-12 06:44:17",
+  "collected_at": "2026-09-13 07:06:58",
   "directors": [
     {
       "name": "Mr. Bipin Madhavji Manek",
@@ -25,10 +25,31 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. Anupam Jitendra Vyas",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Vidhi Harsh Parekh",
+      "role": "Executive Whole-time Director",
+      "age": 38,
+      "year_born": 1987,
+      "total_pay": 1200000
+    },
+    {
       "name": "Nilesh S. Khedekar",
       "role": "Marketing Manager",
       "age": 51,
       "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Manoj Madhukar Jadhav",
+      "role": "Senior R&D Officer",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

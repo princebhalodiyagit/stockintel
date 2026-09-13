@@ -1,7 +1,7 @@
 {
   "ticker": "CUPID",
   "company": "Cupid Limited",
-  "collected_at": "2026-09-12 06:17:17",
+  "collected_at": "2026-09-13 06:39:42",
   "directors": [
     {
       "name": "Mr. Aditya Kumar Halwasiya",
@@ -9,6 +9,13 @@
       "age": 31,
       "year_born": 1994,
       "total_pay": 11736000
+    },
+    {
+      "name": "Mr. Narendra Madhukar Joshi",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 1602000
     },
     {
       "name": "Mr. Durgesh  Garg",
@@ -25,8 +32,29 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. Ajay Kumar Halwasiya",
+      "role": "Executive Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Dhrubajyoti  Goswami",
+      "role": "Business Head",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Babu  Iyer",
       "role": "Senior General Manager Production & Projects",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. .  Nithyananda",
+      "role": "DGM of Operations",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

@@ -1,7 +1,7 @@
 {
   "ticker": "SETL",
   "company": "Standard Engineering Technology Limited",
-  "collected_at": "2026-09-12 06:38:07",
+  "collected_at": "2026-09-13 07:00:50",
   "directors": [
     {
       "name": "Mr. Nageswara Rao Kandula",
@@ -36,6 +36,13 @@
       "role": "Chief Financial Officer",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Bhanu Prakash Kandula",
+      "role": "Vice President of Operations",
+      "age": 27,
+      "year_born": 1998,
       "total_pay": "N/A"
     },
     {

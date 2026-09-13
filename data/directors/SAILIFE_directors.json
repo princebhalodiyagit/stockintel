@@ -1,7 +1,7 @@
 {
   "ticker": "SAILIFE",
   "company": "Sai Life Sciences Limited",
-  "collected_at": "2026-09-12 06:37:10",
+  "collected_at": "2026-09-13 06:59:52",
   "directors": [
     {
       "name": "Dr. Ranga Raju Kanumuri",
@@ -9,6 +9,13 @@
       "age": 74,
       "year_born": 1951,
       "total_pay": 31558473
+    },
+    {
+      "name": "Mr. Krishnam Raju Kanumuri",
+      "role": "CEO, MD & Executive Director",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": 130765004
     },
     {
       "name": "Mr. Sivaramakrishnan  Chittor",
@@ -48,6 +55,20 @@
     {
       "name": "Mr. Milind  Shenvi",
       "role": "Senior Vice President of Medicinal Chemistry",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Muniandi  Damodharan",
+      "role": "Chief Quality Officer, Global Quality & Regulatory Affairs",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Maneesh Raghunath Pingle Ph.D.",
+      "role": "Executive VP & Head of Discovery Services",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

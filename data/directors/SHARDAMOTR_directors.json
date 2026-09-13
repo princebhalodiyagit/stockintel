@@ -1,41 +1,76 @@
 {
   "ticker": "SHARDAMOTR",
   "company": "Sharda Motor Industries Limited",
-  "collected_at": "2026-09-12 06:38:24",
+  "collected_at": "2026-09-13 07:01:08",
   "directors": [
     {
-      "name": "Vishwas Vilasrao Deshpandey",
-      "role": "General Manager",
-      "age": 50,
-      "year_born": 1975,
+      "name": "Mr. Aashim  Relan",
+      "role": "Chief Executive Officer",
+      "age": 34,
+      "year_born": 1991,
       "total_pay": "N/A"
     },
     {
-      "name": "UR  Suresh",
-      "role": "General Manager",
-      "age": 48,
-      "year_born": 1977,
-      "total_pay": "N/A"
+      "name": "Mr. Ghan Shyam Dass Takkar",
+      "role": "Chief Commercial Officer & CFO",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": 23703000
     },
     {
-      "name": "Gajjela  Sridhar",
-      "role": "Deputy General Manager",
+      "name": "Mr. Ajay  Relan",
+      "role": "MD & Executive Director",
+      "age": 64,
+      "year_born": 1961,
+      "total_pay": 75043000
+    },
+    {
+      "name": "Mr. Nitin  Vishnoi",
+      "role": "Company Secretary & Whole Time Director",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": 15569000
+    },
+    {
+      "name": "Arvind  Kumar",
+      "role": "Deputy Manager of Operations",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
-      "name": "Mohan Nivruti Datir",
-      "role": "Deputy General Manager",
-      "age": 47,
-      "year_born": 1978,
+      "name": "Ms. Iti  Goyal",
+      "role": "Assistant Company Secretary & Compliance officer",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
-      "name": "Rathinakumar  J",
-      "role": "Assistant General Manager",
-      "age": 47,
-      "year_born": 1978,
+      "name": "Poonam Gandhi Kalra",
+      "role": "Senior Manager of Corp. Communication",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Paramjeet  Singh",
+      "role": "Senior Vice President of Sales & Business Development",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Deepak  Bhaskar",
+      "role": "Head of People Practices",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Krishan Kumar Sharma",
+      "role": "Chief Manufacturing Officer",
+      "age": 54,
+      "year_born": 1971,
       "total_pay": "N/A"
     }
   ]

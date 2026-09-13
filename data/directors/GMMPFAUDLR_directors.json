@@ -1,6 +1,70 @@
 {
   "ticker": "GMMPFAUDLR",
   "company": "GMM Pfaudler Limited",
-  "collected_at": "2026-09-12 06:21:20",
-  "directors": []
+  "collected_at": "2026-09-13 06:43:51",
+  "directors": [
+    {
+      "name": "Mr. Tarak Ashok Patel",
+      "role": "MD, CEO of India Business & Executive Director",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": 100000000
+    },
+    {
+      "name": "Mr. Gregory  Gelhaus",
+      "role": "Group Chief Executive Officer",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Alexander  Poempner",
+      "role": "Group CFO & Member of Executive Board",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Thomas Otto Kehl",
+      "role": "Chief Executive Officer of International Business & Member of Executive Board",
+      "age": 65,
+      "year_born": 1960,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mark  Goldsmith",
+      "role": "COO & Member of Executive Board",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Raveen  Kanabar",
+      "role": "Manager of Finance & Accounts",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Mittal Kartik Mehta",
+      "role": "Compliance Officer & Company Secretary",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": 3420000
+    },
+    {
+      "name": "Mr. Ulf  Wittmann",
+      "role": "Executive Vice President of Global Services - International Business",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vincet  Leroux",
+      "role": "Executive Vice President of Sales Technologies & Systems - International Business",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

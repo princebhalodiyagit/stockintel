@@ -1,8 +1,15 @@
 {
   "ticker": "TREL",
   "company": "Transindia Real Estate Limited",
-  "collected_at": "2026-09-12 06:42:55",
+  "collected_at": "2026-09-13 07:05:36",
   "directors": [
+    {
+      "name": "Mr. Ram  Walase",
+      "role": "CEO & Whole Time Director",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": 23160000
+    },
     {
       "name": "Mr. Nilesh  Mishra",
       "role": "Chief Financial Officer",
@@ -23,6 +30,20 @@
       "age": 67,
       "year_born": 1958,
       "total_pay": 35542000
+    },
+    {
+      "name": "Mr. Mahesh Hiriyanna Shetty",
+      "role": "Head of Risk Management & Process Improvement",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manish Kumar Sinha",
+      "role": "Head of Real Estate",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "ticker": "WSI",
   "company": "W S Industries (I) Limited",
-  "collected_at": "2026-09-12 06:45:21",
+  "collected_at": "2026-09-13 07:08:03",
   "directors": [
     {
       "name": "Mr. Seyyadurai  Nagarajan",
@@ -29,6 +29,27 @@
       "role": "CFO & Deputy Nodal Officer",
       "age": 64,
       "year_born": 1961,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vetrivel  Balamurugan",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kalavar Vittal Rao Prakash",
+      "role": "Whole Time Director",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": 150000
+    },
+    {
+      "name": "Mr. M.  Ramakrishnan",
+      "role": "Vice President of Human Resources & Administration",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

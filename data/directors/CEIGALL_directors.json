@@ -1,11 +1,32 @@
 {
   "ticker": "CEIGALL",
   "company": "Ceigall India Limited",
-  "collected_at": "2026-09-12 06:15:58",
+  "collected_at": "2026-09-13 06:38:21",
   "directors": [
+    {
+      "name": "Mr. Kapil  Aggarwal",
+      "role": "Chief Financial Officer",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ramesh Kumar Gupta",
+      "role": "Chief Operating Officer",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": "N/A"
+    },
     {
       "name": "Ms. Megha  Kainth",
       "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ayyalusamy  Saravanan",
+      "role": "Whole-Time Director, CEO & Chief Risk Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

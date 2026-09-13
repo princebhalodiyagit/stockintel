@@ -1,6 +1,42 @@
 {
   "ticker": "INCREDIBLE",
   "company": "INCREDIBLE INDUSTRIES LIMITED",
-  "collected_at": "2026-09-12 06:24:17",
-  "directors": []
+  "collected_at": "2026-09-13 06:46:50",
+  "directors": [
+    {
+      "name": "Mr. Rama Shankar Gupta",
+      "role": "Executive Chairman, CEO & MD",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": 6000000
+    },
+    {
+      "name": "Mr. Amit  Agrawal",
+      "role": "Chief Financial Officer",
+      "age": 41,
+      "year_born": 1984,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Bharat  Agarwal",
+      "role": "Compliance Officer & Company Secretary",
+      "age": 40,
+      "year_born": 1985,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sanjay  Sharma",
+      "role": "Vice President of Operations & Project",
+      "age": 42,
+      "year_born": 1983,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mayank  Agarwal",
+      "role": "Head of Project & Marketing",
+      "age": 25,
+      "year_born": 2000,
+      "total_pay": "N/A"
+    }
+  ]
 }

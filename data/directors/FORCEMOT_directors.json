@@ -1,7 +1,7 @@
 {
   "ticker": "FORCEMOT",
   "company": "FORCE MOTORS LTD",
-  "collected_at": "2026-09-12 06:20:20",
+  "collected_at": "2026-09-13 06:42:49",
   "directors": [
     {
       "name": "Dr. Abhaykumar Navalmal Firodia",
@@ -23,6 +23,13 @@
       "age": 60,
       "year_born": 1965,
       "total_pay": 51546232
+    },
+    {
+      "name": "Mr. Rishi  Luharuka",
+      "role": "President & Group CFO",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Rohan  Sampat",

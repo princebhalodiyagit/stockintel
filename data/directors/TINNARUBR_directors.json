@@ -1,6 +1,77 @@
 {
   "ticker": "TINNARUBR",
   "company": "Tinna Rubber and Infrastructure Limited",
-  "collected_at": "2026-09-12 06:42:30",
-  "directors": []
+  "collected_at": "2026-09-13 07:05:10",
+  "directors": [
+    {
+      "name": "Mr. Bhupinder Kumar Sekhri",
+      "role": "Chairman & MD",
+      "age": 74,
+      "year_born": 1951,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Gaurav  Sekhri",
+      "role": "Joint Managing Director & Director",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Abhay  Kumar",
+      "role": "Chief Financial Officer",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Subodh Kumar Sharma",
+      "role": "Whole time Director & COO",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sanjay Kumar Rawat",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 42,
+      "year_born": 1983,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anurup  Arora",
+      "role": "Chief Business Officer",
+      "age": 40,
+      "year_born": 1985,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Sanjay  Banati",
+      "role": "Senior Vice President",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Shobha  Sekhri",
+      "role": "Vice President of Business Development",
+      "age": 73,
+      "year_born": 1952,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Raj Krishan Gupta",
+      "role": "General Manager of HR & Administration",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Pradeep  Sharma",
+      "role": "Head International Operations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

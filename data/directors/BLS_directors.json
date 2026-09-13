@@ -1,7 +1,7 @@
 {
   "ticker": "BLS",
   "company": "BLS International Services Limited",
-  "collected_at": "2026-09-12 06:15:00",
+  "collected_at": "2026-09-13 06:37:21",
   "directors": [
     {
       "name": "Mr. Diwakar  Aggarwal",
@@ -25,11 +25,53 @@
       "total_pay": 27000000
     },
     {
+      "name": "Mr. Amit  Sudhakar",
+      "role": "Chief Financial Officer",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Dharak Arvindbhai Mehta",
       "role": "Company Secretary & Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 4380000
+    },
+    {
+      "name": "Ms. Charu  Khosla",
+      "role": "COO of Strategic Markets, Govt. & Insitutions",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. K. N. Prem Anand",
+      "role": "President of Global Operations",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sandeep  Gupta",
+      "role": "Chief Operations Officer of Technology",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Niraj  Barkakati",
+      "role": "President of Legal",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Rahul  Tandon",
+      "role": "President of Operations",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": "N/A"
     }
   ]
 }

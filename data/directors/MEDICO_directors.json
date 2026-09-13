@@ -1,7 +1,7 @@
 {
   "ticker": "MEDICO",
   "company": "Medico Remedies Limited",
-  "collected_at": "2026-09-12 06:29:58",
+  "collected_at": "2026-09-13 06:52:35",
   "directors": [
     {
       "name": "Mr. Haresh Kapurlal Mehta",
@@ -23,6 +23,41 @@
       "age": 37,
       "year_born": 1988,
       "total_pay": 4880900
+    },
+    {
+      "name": "Mr. Maheshkumar  Darji",
+      "role": "Executive Director",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": 1194750
+    },
+    {
+      "name": "Rajesh C. Chawda",
+      "role": "Chief Accountant",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Vidhi Ankit Shah",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Nilesh  Misal",
+      "role": "Head of the Production Department - General",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Akhilesh  Singh",
+      "role": "Head of Production Department (B-Lactum)",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

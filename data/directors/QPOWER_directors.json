@@ -1,7 +1,7 @@
 {
   "ticker": "QPOWER",
   "company": "Quality Power Electrical Equipments Limited",
-  "collected_at": "2026-09-12 06:35:14",
+  "collected_at": "2026-09-13 06:57:55",
   "directors": [
     {
       "name": "Mr. Thalavaidurai  Pandyan",
@@ -9,6 +9,20 @@
       "age": 70,
       "year_born": 1955,
       "total_pay": 20700000
+    },
+    {
+      "name": "Mr. Rajesh  Jayaraman",
+      "role": "Chief Financial Officer",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Deepak Ramchandra Suryavanshi",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 680000
     },
     {
       "name": "Manu Sree Achthan Asokan",
@@ -46,29 +60,15 @@
       "total_pay": 1210000
     },
     {
+      "name": "Mr. Sanjog  Mhatre",
+      "role": "Chief Executive Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Udaykumar Devidas Maharnur",
       "role": "Head of Quality",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Jos  Augustine",
-      "role": "Head of Plant",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Ramesh Dattatry Kumbhar",
-      "role": "Head of Manufacturing",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ms. Sneha Aniket Muthe",
-      "role": "Head of Planning",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

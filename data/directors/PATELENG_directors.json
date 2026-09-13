@@ -1,7 +1,7 @@
 {
   "ticker": "PATELENG",
   "company": "Patel Engineering Limited",
-  "collected_at": "2026-09-12 06:33:35",
+  "collected_at": "2026-09-13 06:56:14",
   "directors": [
     {
       "name": "Ms. Kavita Sanjiv Shirvaikar",
@@ -18,6 +18,27 @@
       "total_pay": 39326080
     },
     {
+      "name": "Mr. Kishan Lal Daga",
+      "role": "Additional Whole Time Director",
+      "age": 76,
+      "year_born": 1949,
+      "total_pay": 21030000
+    },
+    {
+      "name": "Mr. Rahul  Agarwal",
+      "role": "Chief Financial Officer",
+      "age": 42,
+      "year_born": 1983,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Vinod T. Chandnani",
+      "role": "Chief Information Officer & Head of Human Resource",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
       "name": "Ms. Shobha Ranjit Shetty",
       "role": "Compliance Officer & Company Secretary",
       "age": 48,
@@ -32,8 +53,22 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Ms. Sonal  Raj",
-      "role": "Additional Vice President of Human Resources",
+      "name": "Mr. Laxman Narayan Apte",
+      "role": "Senior Vice President",
+      "age": 85,
+      "year_born": 1940,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajendra  Chopde",
+      "role": "Senior Vice President of Projects",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Sibatosh  Debnath",
+      "role": "Senior Vice President of Design & Engineering",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

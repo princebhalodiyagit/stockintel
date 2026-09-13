@@ -1,6 +1,77 @@
 {
   "ticker": "BBOX",
   "company": "Black Box Limited",
-  "collected_at": "2026-09-12 06:14:09",
-  "directors": []
+  "collected_at": "2026-09-13 06:36:29",
+  "directors": [
+    {
+      "name": "Mr. Deepak Kumar Bansal",
+      "role": "Global CFO & Executive Director",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": 42700000
+    },
+    {
+      "name": "Mr. Sanjeev Shekhar Verma",
+      "role": "President, CEO & Whole Time Director",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": 289000000
+    },
+    {
+      "name": "Mr. Rick  Gannon",
+      "role": "Chief Operating Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Bikram  Sahoo",
+      "role": "Chief Technology Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Aditya  Goswami",
+      "role": "Company Secretary & Compliance officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 1262800
+    },
+    {
+      "name": "Mr. Kannan  Ramaiah",
+      "role": "Chief Human Resources Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anshuman Shashikant Ruia",
+      "role": "Executive Director",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Subir  Bhatnagar",
+      "role": "VP and Head of UC & Digital Applications",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mike  Carney C.F.A.",
+      "role": "Chief of Strategies & Transformation",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Suman  Roy",
+      "role": "Head of Business - GSI Europe",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

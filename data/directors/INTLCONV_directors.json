@@ -1,7 +1,7 @@
 {
   "ticker": "INTLCONV",
   "company": "International Conveyors Limited",
-  "collected_at": "2026-09-12 06:25:03",
+  "collected_at": "2026-09-13 06:47:38",
   "directors": [
     {
       "name": "Mr. Yogesh  Kajaria",
@@ -9,6 +9,20 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 17404548
+    },
+    {
+      "name": "Ms. Dipti  Sharma",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ashok Kumar Gulgulia",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

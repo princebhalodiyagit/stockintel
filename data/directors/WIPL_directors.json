@@ -1,6 +1,21 @@
 {
   "ticker": "WIPL",
   "company": "The Western India Plywoods Limited",
-  "collected_at": "2026-09-12 06:45:15",
-  "directors": []
+  "collected_at": "2026-09-13 07:07:57",
+  "directors": [
+    {
+      "name": "Mr. Mayan Mohammed Pallicoon Kottal",
+      "role": "MD & Executive Director",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": 6207000
+    },
+    {
+      "name": "Mr. R.  Balakrishnan",
+      "role": "CFO, Compliance Officer & Company Secretary",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 677000
+    }
+  ]
 }

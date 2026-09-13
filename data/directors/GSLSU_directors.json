@@ -1,8 +1,15 @@
 {
   "ticker": "GSLSU",
   "company": "Global Surfaces Limited",
-  "collected_at": "2026-09-12 06:22:11",
+  "collected_at": "2026-09-13 06:44:44",
   "directors": [
+    {
+      "name": "Mr. Mayank  Shah",
+      "role": "CFO, MD & Chairperson",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": 38300000
+    },
     {
       "name": "Mr. Dharam Singh Rathore",
       "role": "Company Secretary & Compliance Officer",
@@ -16,6 +23,20 @@
       "age": 49,
       "year_born": 1976,
       "total_pay": 6720000
+    },
+    {
+      "name": "Mr. Sudarshan Kumbla Venkatramana",
+      "role": "Senior Vice President of Operations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sanjeev  Bansal",
+      "role": "Vice President of Sales & Marketing",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
     }
   ]
 }

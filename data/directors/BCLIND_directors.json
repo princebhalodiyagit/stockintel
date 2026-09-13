@@ -1,8 +1,50 @@
 {
   "ticker": "BCLIND",
   "company": "Bcl Industries Limited",
-  "collected_at": "2026-09-12 06:14:13",
+  "collected_at": "2026-09-13 06:36:32",
   "directors": [
+    {
+      "name": "Mr. Varun  Gupta",
+      "role": "Chief Executive Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajinder  Mittal",
+      "role": "MD & Executive Director",
+      "age": 66,
+      "year_born": 1959,
+      "total_pay": 12000000
+    },
+    {
+      "name": "Mr. Kushal  Mittal",
+      "role": "Joint MD & Executive Director",
+      "age": 29,
+      "year_born": 1996,
+      "total_pay": 9600000
+    },
+    {
+      "name": "Mr. Ajeet Kumar Thakur",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sat Narain Goyal",
+      "role": "Whole Time Director",
+      "age": 64,
+      "year_born": 1961,
+      "total_pay": 1200000
+    },
+    {
+      "name": "Mr. Gulab  Singh",
+      "role": "Chief Financial Officer",
+      "age": 64,
+      "year_born": 1961,
+      "total_pay": "N/A"
+    },
     {
       "name": "S.S.  Sandhu",
       "role": "Senior General Manager of HR & Admin.",
@@ -29,13 +71,6 @@
       "role": "Chief Executive Officer of Distillery",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Deepak  Tayal",
-      "role": "Additional General Manager of Technical for Oil & vanaspati unit",
-      "age": 56,
-      "year_born": 1969,
       "total_pay": "N/A"
     }
   ]

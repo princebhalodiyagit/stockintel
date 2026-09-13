@@ -1,7 +1,7 @@
 {
   "ticker": "RAMASTEEL",
   "company": "Rama Steel Tubes Limited",
-  "collected_at": "2026-09-12 06:35:34",
+  "collected_at": "2026-09-13 06:58:16",
   "directors": [
     {
       "name": "Mr. Naresh Kumar Bansal",
@@ -23,6 +23,34 @@
       "age": 39,
       "year_born": 1986,
       "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ranjeet  Singh",
+      "role": "Senior Manager of Accounts & Finance",
+      "age": 44,
+      "year_born": 1981,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vikas  Sharma C.S.",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vineet  Goel",
+      "role": "Vice President of Sales & Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rakesh  Chaturvedi",
+      "role": "President of Commercial & Executive Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 3422352
     }
   ]
 }

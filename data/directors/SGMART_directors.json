@@ -1,7 +1,7 @@
 {
   "ticker": "SGMART",
   "company": "SG Mart Limited",
-  "collected_at": "2026-09-12 06:38:12",
+  "collected_at": "2026-09-13 07:00:55",
   "directors": [
     {
       "name": "Mr. Shivkumar Niranjanlal Bansal",
@@ -13,6 +13,13 @@
     {
       "name": "Mr. Suraj  Kumar",
       "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sachin  Kumar",
+      "role": "Company Secretary & Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

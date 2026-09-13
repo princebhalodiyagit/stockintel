@@ -1,7 +1,7 @@
 {
   "ticker": "KRYSTAL",
   "company": "Krystal Integrated Services Limited",
-  "collected_at": "2026-09-12 06:27:54",
+  "collected_at": "2026-09-13 06:50:31",
   "directors": [
     {
       "name": "Ms. Neeta Prasad Lad",
@@ -20,6 +20,13 @@
     {
       "name": "Mr. Barun  Dey",
       "role": "CFO and President of Finance & Accounts",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manish Kumar Sangani",
+      "role": "Company Secretary & Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
@@ -48,13 +55,6 @@
     {
       "name": "Mr. P.M.  Sreeram",
       "role": "Senior Vice President of Operations",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Manish Kumar Sangani",
-      "role": "Company Secretary & Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

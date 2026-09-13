@@ -1,8 +1,22 @@
 {
   "ticker": "HGS",
   "company": "Hinduja Global Solutions Limited",
-  "collected_at": "2026-09-12 06:23:10",
+  "collected_at": "2026-09-13 06:45:42",
   "directors": [
+    {
+      "name": "Mr. Venkatesh  Korla",
+      "role": "Global Chief Executive Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 73587092
+    },
+    {
+      "name": "Mr. Vynsley John Clement Fernandes",
+      "role": "Whole-Time Director & CEO of NXTDIGITAL Media Businesses",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 24891126
+    },
     {
       "name": "Mr. Mahesh Kumar Nutalapati",
       "role": "Global Chief Financial Officer",
@@ -57,20 +71,6 @@
       "role": "Senior VP of Global Legal and Compliance",
       "age": 54,
       "year_born": 1971,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Giridhar  G. V.",
-      "role": "CEO of APAC & Global CHRO",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Ram Mohan Natarajan",
-      "role": "Senior Vice President of Business Transformation",
-      "age": 53,
-      "year_born": 1972,
       "total_pay": "N/A"
     }
   ]

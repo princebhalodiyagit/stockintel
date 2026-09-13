@@ -1,8 +1,22 @@
 {
   "ticker": "RUBFILA",
   "company": "Rubfila International Limited",
-  "collected_at": "2026-09-12 06:36:50",
+  "collected_at": "2026-09-13 06:59:32",
   "directors": [
+    {
+      "name": "Mr. Gopinathan Pillai Krishna Kumar",
+      "role": "MD & Executive Director",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": 12477000
+    },
+    {
+      "name": "Mr. Nurani Neelakantan Parameswaran",
+      "role": "CFO, Compliance Officer & Company Secretary",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
     {
       "name": "M.  Sudhesh",
       "role": "Manager of Finance, Corporate Affairs & Legal",

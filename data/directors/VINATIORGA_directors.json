@@ -1,7 +1,7 @@
 {
   "ticker": "VINATIORGA",
   "company": "Vinati Organics Limited",
-  "collected_at": "2026-09-12 06:44:23",
+  "collected_at": "2026-09-13 07:07:05",
   "directors": [
     {
       "name": "Mr. Vinod Banwarilal Saraf",
@@ -16,6 +16,34 @@
       "age": 41,
       "year_born": 1984,
       "total_pay": 347493000
+    },
+    {
+      "name": "Mr. Gulshan Kumar Sakhuja",
+      "role": "Chief Financial Officer",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Amit  Thanawala",
+      "role": "COO & Whole Time Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 15710000
+    },
+    {
+      "name": "Mr. Milind A. Wagh",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Viral Saraf Mittal",
+      "role": "Director of CSR & Non-Independent Executive Director",
+      "age": 39,
+      "year_born": 1986,
+      "total_pay": 14211000
     },
     {
       "name": "Mr. Mahendra Kumar Churiwala",

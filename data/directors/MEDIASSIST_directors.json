@@ -1,6 +1,77 @@
 {
   "ticker": "MEDIASSIST",
   "company": "Medi Assist Healthcare Services Limited",
-  "collected_at": "2026-09-12 06:29:56",
-  "directors": []
+  "collected_at": "2026-09-13 06:52:33",
+  "directors": [
+    {
+      "name": "Dr. Vikram Jit Singh Chhatwal M.D., Ph.D.",
+      "role": "Chairman",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": 16958338
+    },
+    {
+      "name": "Mr. Satish V.N. Gidugu",
+      "role": "CEO & Whole Time Director",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": 40015808
+    },
+    {
+      "name": "Mr. Sandeep R. Daga",
+      "role": "Chief Financial Officer",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Praveen  Samariya",
+      "role": "Chief Technology Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Mukunda  Madhava",
+      "role": "Chief Administrative Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Rashmi B. Vasudev",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Vinaya  Natarajan",
+      "role": "Chief Legal Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Prashant  Shrivastava",
+      "role": "Head of HR",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Vijay  Sankaran",
+      "role": "President",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Shivani  Burman",
+      "role": "President",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

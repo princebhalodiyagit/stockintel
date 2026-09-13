@@ -1,7 +1,7 @@
 {
   "ticker": "EXICOM",
   "company": "Exicom Tele-Systems Limited",
-  "collected_at": "2026-09-12 06:19:50",
+  "collected_at": "2026-09-13 06:42:18",
   "directors": [
     {
       "name": "Mr. Anant  Nahata",
@@ -32,6 +32,13 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Ms. Pooja  Duggal",
+      "role": "Chief Human Resources Officer",
+      "age": 42,
+      "year_born": 1983,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Sanjeev Kumar Narula",
       "role": "Chief Executive Officer of Critical Power",
       "age": 55,
@@ -57,6 +64,13 @@
       "role": "Head Business Finance & Investor Relations",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Khushboo  Chawla",
+      "role": "Head of Marketing",
+      "age": 40,
+      "year_born": 1985,
       "total_pay": "N/A"
     }
   ]

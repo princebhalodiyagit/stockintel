@@ -1,7 +1,7 @@
 {
   "ticker": "YATRA",
   "company": "Yatra Online Limited",
-  "collected_at": "2026-09-12 06:45:28",
+  "collected_at": "2026-09-13 07:08:11",
   "directors": [
     {
       "name": "Mr. Dhruv  Shringi",
@@ -9,6 +9,13 @@
       "age": 52,
       "year_born": 1973,
       "total_pay": 47994117
+    },
+    {
+      "name": "Mr. Siddhartha  Gupta",
+      "role": "Chief Executive Officer",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": 62042070
     },
     {
       "name": "Mr. Manish  Amin",
@@ -26,7 +33,7 @@
     },
     {
       "name": "Ms. Jyoti  Chawla",
-      "role": "Company Secretary & Compliance Officer",
+      "role": "Head of Legal, Company Secretary & Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 9250000

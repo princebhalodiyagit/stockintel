@@ -1,7 +1,7 @@
 {
   "ticker": "SUPRIYA",
   "company": "Supriya Lifescience Limited",
-  "collected_at": "2026-09-12 06:40:54",
+  "collected_at": "2026-09-13 07:03:34",
   "directors": [
     {
       "name": "Dr. Satish Waman Wagh",
@@ -23,6 +23,55 @@
       "age": 34,
       "year_born": 1991,
       "total_pay": 34000000
+    },
+    {
+      "name": "Ms. Smita Satish Wagh",
+      "role": "Whole-time Director",
+      "age": 67,
+      "year_born": 1958,
+      "total_pay": 17590248
+    },
+    {
+      "name": "Mr. Balasaheb Gulabrao Sawant",
+      "role": "Whole Time Director",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": 7562796
+    },
+    {
+      "name": "Mr. Krishna  Raghunathan",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 12930000
+    },
+    {
+      "name": "Dr. Shireesh Bhalchandra Ambhaikar",
+      "role": "Technical Head",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 892000
+    },
+    {
+      "name": "Dr. Sushanta Kumar Gouranga Mishra",
+      "role": "Chief Scientific Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Prachi Suhas Sathe",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 1183630
+    },
+    {
+      "name": "Dr. Prashant Baban Zate",
+      "role": "Head of Corporate Quality Assurance & Regulatory Affairs",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

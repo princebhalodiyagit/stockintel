@@ -1,14 +1,14 @@
 {
   "ticker": "DHRUV",
   "company": "Dhruv Consultancy Services Limited",
-  "collected_at": "2026-09-12 06:18:06",
+  "collected_at": "2026-09-13 06:40:32",
   "directors": [
     {
-      "name": "Mr. Pandurang Balkrishna Dandawate",
-      "role": "Founder & Non-Executive Chairman",
-      "age": 62,
-      "year_born": 1963,
-      "total_pay": 90000
+      "name": "Mr. Raja  Mukherjee",
+      "role": "Chief Executive Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 4620000
     },
     {
       "name": "Mr. Akhilesh Subhash Dandawate",
@@ -18,6 +18,20 @@
       "total_pay": 4140000
     },
     {
+      "name": "Ms. Jayashri Pandurang Dandawate",
+      "role": "Executive Director",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": 1800000
+    },
+    {
+      "name": "Ms. Tanvi Tejas Auti",
+      "role": "MD & Executive Director",
+      "age": 32,
+      "year_born": 1993,
+      "total_pay": 5600000
+    },
+    {
       "name": "Mr. Sandeep Balkrishna Dandawate",
       "role": "Executive Director",
       "age": 49,
@@ -25,11 +39,11 @@
       "total_pay": 3600000
     },
     {
-      "name": "Mr. Raja  Mukherjee",
-      "role": "Chief Executive Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 4620000
+      "name": "Mr. Pandurang Balkrishna Dandawate",
+      "role": "Founder & Non-Executive Chairman",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": 90000
     },
     {
       "name": "Mr. Rohit R. Mahakal",
@@ -55,20 +69,6 @@
     {
       "name": "Ms. Jagtambi  Padmanabhan",
       "role": "Head of Human Resources",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Hulgeri D. Rao",
-      "role": "Head of Structures",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Sachin  Sondkar",
-      "role": "Head of Tender",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

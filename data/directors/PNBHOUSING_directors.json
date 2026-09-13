@@ -1,6 +1,77 @@
 {
   "ticker": "PNBHOUSING",
   "company": "PNB Housing Finance Limited",
-  "collected_at": "2026-09-12 06:34:16",
-  "directors": []
+  "collected_at": "2026-09-13 06:56:56",
+  "directors": [
+    {
+      "name": "Mr. Ajai Kumar Shukla",
+      "role": "CEO, MD & Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 39402560
+    },
+    {
+      "name": "Mr. Vinay  Gupta",
+      "role": "Chief Financial Officer",
+      "age": 44,
+      "year_born": 1981,
+      "total_pay": 17200000
+    },
+    {
+      "name": "Ms. Veena G. Kamath",
+      "role": "Company Secretary",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": 8600000
+    },
+    {
+      "name": "Mr. Anshul  Dalela",
+      "role": "Chief of Operations & Customer Service",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anubhav  Rajput",
+      "role": "Chief Information Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Chaitanya  Yadav",
+      "role": "National Head of Corporate Planning & Investor Relations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Bhavya  Taneja",
+      "role": "Chief Marketing Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Neeraj  Manchanda",
+      "role": "Chief Risk Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jatul  Anand",
+      "role": "Executive Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Krishna  Kant",
+      "role": "Chief Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

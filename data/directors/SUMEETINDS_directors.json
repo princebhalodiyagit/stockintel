@@ -1,6 +1,49 @@
 {
   "ticker": "SUMEETINDS",
   "company": "Sumeet Industries Limited",
-  "collected_at": "2026-09-12 06:40:36",
-  "directors": []
+  "collected_at": "2026-09-13 07:03:15",
+  "directors": [
+    {
+      "name": "Mr. Radheyshyam B. Jaju",
+      "role": "Executive Chairman",
+      "age": 70,
+      "year_born": 1955,
+      "total_pay": 2400000
+    },
+    {
+      "name": "Mr. Pratik Rajesh Jaju",
+      "role": "MD & Executive Director",
+      "age": 38,
+      "year_born": 1987,
+      "total_pay": 2400000
+    },
+    {
+      "name": "Mr. Abhishek  Prasad",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anil Kumar Jain",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rohan Dipakbhai Modh",
+      "role": "Additional Executive Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 2400000
+    },
+    {
+      "name": "Mr. Naresh Kumar Joshi",
+      "role": "Personnel & Administration Officer",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": "N/A"
+    }
+  ]
 }

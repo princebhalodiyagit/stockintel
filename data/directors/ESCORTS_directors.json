@@ -1,7 +1,7 @@
 {
   "ticker": "ESCORTS",
   "company": "Escorts Kubota Limited",
-  "collected_at": "2026-09-12 06:19:37",
+  "collected_at": "2026-09-13 06:42:04",
   "directors": [
     {
       "name": "Mr. Nikhil  Nanda",
@@ -16,6 +16,13 @@
       "age": 58,
       "year_born": 1967,
       "total_pay": 46900000
+    },
+    {
+      "name": "Mr. Arvind  Kumar",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     },
     {
       "name": "Ms. Nitasha  Nanda B.Com",
@@ -61,13 +68,6 @@
     },
     {
       "name": "Mr. Neeraj Kumar Mehra",
-      "role": "Chief Officer of Tractor Business Division",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Yuki  Amano",
       "role": "Chief Officer of Tractor Business Division",
       "age": "N/A",
       "year_born": "N/A",

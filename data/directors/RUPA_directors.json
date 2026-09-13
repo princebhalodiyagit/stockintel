@@ -1,6 +1,77 @@
 {
   "ticker": "RUPA",
   "company": "Rupa & Company Limited",
-  "collected_at": "2026-09-12 06:36:55",
-  "directors": []
+  "collected_at": "2026-09-13 06:59:37",
+  "directors": [
+    {
+      "name": "Mr. Prahlad Rai Agarwala",
+      "role": "Executive Chairman",
+      "age": 87,
+      "year_born": 1938,
+      "total_pay": 17107000
+    },
+    {
+      "name": "Mr. Kunj Bihari Agarwala",
+      "role": "MD & Executive Director",
+      "age": 76,
+      "year_born": 1949,
+      "total_pay": 16157000
+    },
+    {
+      "name": "Mr. Ghanshyam Prasad Agarwala",
+      "role": "Executive Vice-Chairman",
+      "age": 80,
+      "year_born": 1945,
+      "total_pay": 16157000
+    },
+    {
+      "name": "Mr. Sumit  Khowala",
+      "role": "CFO & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 6246000
+    },
+    {
+      "name": "Mr. Suresh  Agarwal",
+      "role": "President of Sales & Marketing",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": 7603000
+    },
+    {
+      "name": "Mr. Mukesh H. Agarwal",
+      "role": "Whole-Time Director",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": 11405000
+    },
+    {
+      "name": "Mr. Ramesh  Agarwal",
+      "role": "Whole-Time Director",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": 11405000
+    },
+    {
+      "name": "Mr. Ravi  Agarwal",
+      "role": "President of Projects",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": 11405000
+    },
+    {
+      "name": "Mr. Rajnish  Agarwal",
+      "role": "President of Marketing",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": 11405000
+    },
+    {
+      "name": "Mr. Niraj  Kabra",
+      "role": "Executive Director",
+      "age": 43,
+      "year_born": 1982,
+      "total_pay": 2965000
+    }
+  ]
 }

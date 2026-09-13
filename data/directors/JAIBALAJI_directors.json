@@ -1,7 +1,7 @@
 {
   "ticker": "JAIBALAJI",
   "company": "Jai Balaji Industries Limited",
-  "collected_at": "2026-09-12 06:25:37",
+  "collected_at": "2026-09-13 06:48:12",
   "directors": [
     {
       "name": "Mr. Aditya  Jajodia",
@@ -50,6 +50,20 @@
       "role": "Executive Director of Projects and Technology",
       "age": 73,
       "year_born": 1952,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ajay Kumar Tantia",
+      "role": "Compliance Officer & Company Secretary",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Babu Swadesh Sharma",
+      "role": "Senior President - Plant Head (Unit \u0096III)",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]
