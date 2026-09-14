@@ -1,7 +1,7 @@
 {
   "ticker": "KKCL",
   "company": "Kewal Kiran Clothing Limited",
-  "collected_at": "2026-09-13 06:49:57",
+  "collected_at": "2026-09-14 07:03:20",
   "directors": [
     {
       "name": "Mr. Kewalchand Pukhraj Jain",
@@ -16,13 +16,6 @@
       "age": 60,
       "year_born": 1965,
       "total_pay": 12500000
-    },
-    {
-      "name": "Mr. Bharat Assudomal Adnani",
-      "role": "CFO & Chief Investor Relations Officer",
-      "age": 50,
-      "year_born": 1975,
-      "total_pay": "N/A"
     },
     {
       "name": "Mr. Vikas Pukhraj Jain",
@@ -71,6 +64,13 @@
       "role": "President of Retail Division",
       "age": 40,
       "year_born": 1985,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Hitendra H. Jain",
+      "role": "President of Addictions",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

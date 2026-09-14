@@ -1,7 +1,7 @@
 {
   "ticker": "SALASAR",
   "company": "Salasar Techno Engineering Limited",
-  "collected_at": "2026-09-13 06:59:57",
+  "collected_at": "2026-09-14 07:14:35",
   "directors": [
     {
       "name": "Mr. Shashank  Agarwal B.E.",
@@ -44,34 +44,6 @@
       "age": 42,
       "year_born": 1983,
       "total_pay": 10200000
-    },
-    {
-      "name": "Mr. Pradeep Kumar Swamy Thota",
-      "role": "President of HSD",
-      "age": 60,
-      "year_born": 1965,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ms. Priyanka  Agarwal",
-      "role": "General Manager of Admin",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Dayanand Swamy Kuna",
-      "role": "President of Engineering & BD",
-      "age": 50,
-      "year_born": 1975,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Raghav  Agarwal",
-      "role": "Vice President",
-      "age": 32,
-      "year_born": 1993,
-      "total_pay": "N/A"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "ticker": "HARIOMPIPE",
   "company": "Hariom Pipe Industries Limited",
-  "collected_at": "2026-09-13 06:45:09",
+  "collected_at": "2026-09-14 06:57:56",
   "directors": [
     {
       "name": "Mr. Rupesh Kumar Gupta",
@@ -15,7 +15,7 @@
       "role": "Chief Financial Officer",
       "age": 48,
       "year_born": 1977,
-      "total_pay": 4298400
+      "total_pay": "N/A"
     },
     {
       "name": "Ms. Rekha  Singh",
@@ -30,20 +30,6 @@
       "age": 44,
       "year_born": 1981,
       "total_pay": 18200000
-    },
-    {
-      "name": "Mr. Sumit  Maheshwari",
-      "role": "Head of Human Resource",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Ansh  Golas",
-      "role": "Executive Director",
-      "age": 24,
-      "year_born": 2001,
-      "total_pay": 7658240
     },
     {
       "name": "Mr. Ashish  Agarwal",
@@ -71,6 +57,13 @@
       "role": "General Manager",
       "age": 58,
       "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ramesh  K.",
+      "role": "General Manager",
+      "age": 50,
+      "year_born": 1975,
       "total_pay": "N/A"
     }
   ]

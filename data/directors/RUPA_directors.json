@@ -1,7 +1,7 @@
 {
   "ticker": "RUPA",
   "company": "Rupa & Company Limited",
-  "collected_at": "2026-09-13 06:59:37",
+  "collected_at": "2026-09-14 07:14:12",
   "directors": [
     {
       "name": "Mr. Prahlad Rai Agarwala",
@@ -60,18 +60,18 @@
       "total_pay": 11405000
     },
     {
-      "name": "Mr. Rajnish  Agarwal",
-      "role": "President of Marketing",
-      "age": 47,
-      "year_born": 1978,
-      "total_pay": 11405000
+      "name": "Mr. Manish  Agarwal",
+      "role": "President of Operations",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": "N/A"
     },
     {
-      "name": "Mr. Niraj  Kabra",
-      "role": "Executive Director",
-      "age": 43,
-      "year_born": 1982,
-      "total_pay": 2965000
+      "name": "Mr. Arihant Kumar Baid",
+      "role": "Vice President of Finance",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 2170260
     }
   ]
 }

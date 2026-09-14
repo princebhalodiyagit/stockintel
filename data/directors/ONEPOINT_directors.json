@@ -1,7 +1,7 @@
 {
   "ticker": "ONEPOINT",
   "company": "One Point One Solutions Limited",
-  "collected_at": "2026-09-13 06:55:31",
+  "collected_at": "2026-09-14 07:09:36",
   "directors": [
     {
       "name": "Mr. Akshay  Chhabra",
@@ -23,13 +23,6 @@
       "age": 38,
       "year_born": 1987,
       "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Akashanand Arun Karnik",
-      "role": "Whole-Time Director & CEO of Global Business",
-      "age": 47,
-      "year_born": 1978,
-      "total_pay": 11214655
     },
     {
       "name": "Mr. Nitin  Mahajan",
@@ -69,6 +62,13 @@
     {
       "name": "Mr. Tony Jacob Joseph",
       "role": "Chief Human Resources Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajiv  Desai",
+      "role": "Co-Founder of ResolX",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
