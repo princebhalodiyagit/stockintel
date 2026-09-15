@@ -1,7 +1,7 @@
 {
   "ticker": "PNB",
   "company": "Punjab National Bank",
-  "collected_at": "2026-09-14 07:11:11",
+  "collected_at": "2026-09-15 06:55:01",
   "directors": [
     {
       "name": "Mr. Ashok  Chandra",
@@ -9,13 +9,6 @@
       "age": 57,
       "year_born": 1968,
       "total_pay": 5263544
-    },
-    {
-      "name": "Mr. Amit Kumar Srivastava",
-      "role": "Executive Director",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 1644565
     },
     {
       "name": "Mr. M.  Paramasivam",
@@ -71,6 +64,13 @@
       "role": "Chief General Manager",
       "age": 59,
       "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sanjeevan  Nikhar",
+      "role": "Chief General Manager",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

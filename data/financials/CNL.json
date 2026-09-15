@@ -1,14 +1,14 @@
 {
   "ticker": "CNL",
-  "collected_at": "2026-09-14 06:51:06",
+  "collected_at": "2026-09-15 06:34:05",
   "company_info": {
     "name": "Creative Newtech Limited",
     "sector": "Technology",
     "industry": "Electronics & Computer Distribution",
-    "market_cap": 16818675712,
-    "current_price": 1120.0,
-    "pe_ratio": 25.842178,
-    "pb_ratio": 5.1017156,
+    "market_cap": 16611444736,
+    "current_price": 1106.2,
+    "pe_ratio": 25.523764,
+    "pb_ratio": 5.038855,
     "roe": "N/A",
     "debt_to_equity": 83.725,
     "revenue": 27866556416,
@@ -16,6 +16,6 @@
     "eps": 43.34,
     "52_week_high": 1328.0,
     "52_week_low": 525.0,
-    "dividend_yield": 0.05
+    "dividend_yield": 0.04
   }
 }
