@@ -1,14 +1,14 @@
 {
   "ticker": "PAGEIND",
-  "collected_at": "2026-09-15 06:53:51",
+  "collected_at": "2026-09-16 06:48:50",
   "company_info": {
     "name": "Page Industries Limited",
     "sector": "Consumer Cyclical",
     "industry": "Apparel Manufacturing",
-    "market_cap": 391724040192,
-    "current_price": 35120.0,
-    "pe_ratio": 51.72236,
-    "pb_ratio": 26.069773,
+    "market_cap": 383916343296,
+    "current_price": 34420.0,
+    "pe_ratio": 50.69145,
+    "pb_ratio": 25.55016,
     "roe": "N/A",
     "debt_to_equity": 18.422,
     "revenue": 53506600960,
@@ -16,6 +16,6 @@
     "eps": 679.01,
     "52_week_high": 45890.0,
     "52_week_low": 29805.0,
-    "dividend_yield": 2.24
+    "dividend_yield": 2.26
   }
 }

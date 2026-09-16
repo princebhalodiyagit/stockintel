@@ -1,14 +1,14 @@
 {
   "ticker": "AUSOMENT",
-  "collected_at": "2026-09-15 06:29:57",
+  "collected_at": "2026-09-16 06:28:15",
   "company_info": {
     "name": "AuSom Enterprise Limited",
     "sector": "Financial Services",
     "industry": "Capital Markets",
-    "market_cap": 2098027008,
-    "current_price": 154.0,
-    "pe_ratio": 8.461538,
-    "pb_ratio": 1.29994,
+    "market_cap": 2039445632,
+    "current_price": 149.7,
+    "pe_ratio": 8.225274,
+    "pb_ratio": 1.263643,
     "roe": "N/A",
     "debt_to_equity": 5.493,
     "revenue": 44059320320,
@@ -16,6 +16,6 @@
     "eps": 18.2,
     "52_week_high": 178.0,
     "52_week_low": 93.0,
-    "dividend_yield": 0.65
+    "dividend_yield": 0.66
   }
 }
