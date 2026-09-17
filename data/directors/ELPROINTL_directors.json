@@ -1,6 +1,28 @@
 {
   "ticker": "ELPROINTL",
   "company": "Elpro International Limited",
-  "collected_at": "2026-09-16 06:34:31",
-  "directors": []
+  "collected_at": "2026-09-17 06:34:52",
+  "directors": [
+    {
+      "name": "Mr. Deepak Kumar Siysharan Singh",
+      "role": "Chairman & MD",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": 5546000
+    },
+    {
+      "name": "Mr. Deepak Kumar Ajmera",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rushabh Rajen Ajmera",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

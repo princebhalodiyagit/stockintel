@@ -1,28 +1,14 @@
 {
   "ticker": "FINKURVE",
   "company": "Finkurve Financial Services Limited",
-  "collected_at": "2026-09-16 06:35:27",
+  "collected_at": "2026-09-17 06:35:45",
   "directors": [
-    {
-      "name": "Mr. Aakash Nemichand Jain",
-      "role": "Chief Financial Officer",
-      "age": 32,
-      "year_born": 1993,
-      "total_pay": "N/A"
-    },
     {
       "name": "Mr. Priyank Rakesh Kothari",
       "role": "VP of Operations & Whole time Director",
       "age": 28,
       "year_born": 1997,
       "total_pay": 1499850
-    },
-    {
-      "name": "Mr. Naveen  Kottala",
-      "role": "Chief Executive Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
     },
     {
       "name": "Mr. Husain Mohammed Pittalwala",
@@ -46,13 +32,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Geo  George",
-      "role": "South Head - Gold Loan",
-      "age": 42,
-      "year_born": 1983,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Raju Bipinkumar Shah",
       "role": "Chief Risk Officer",
       "age": "N/A",
@@ -71,6 +50,27 @@
       "role": "Product Manager",
       "age": 42,
       "year_born": 1983,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Sugandhi Ravi Kumar",
+      "role": "Chartered Accountant",
+      "age": 36,
+      "year_born": 1989,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Arja A Vara Prasad",
+      "role": "General Manager-Expansion",
+      "age": 39,
+      "year_born": 1986,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Sunil  Patel",
+      "role": "Project Manager",
+      "age": 53,
+      "year_born": 1972,
       "total_pay": "N/A"
     }
   ]

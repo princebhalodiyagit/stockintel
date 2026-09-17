@@ -1,6 +1,56 @@
 {
   "ticker": "SHRIKRISH",
   "company": "Shri Krishna Devcon Limited",
-  "collected_at": "2026-09-16 06:54:21",
-  "directors": []
+  "collected_at": "2026-09-17 06:53:32",
+  "directors": [
+    {
+      "name": "Mr. Sunil Kumar Jain",
+      "role": "Chairman & MD",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": 10800000
+    },
+    {
+      "name": "Mr. Vikas Kumar Jain",
+      "role": "Chief Financial Officer",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": 384000
+    },
+    {
+      "name": "Mr. Neeraj  Anjane",
+      "role": "Compliance Officer & Company Secretary",
+      "age": 33,
+      "year_born": 1992,
+      "total_pay": 480000
+    },
+    {
+      "name": "Mr. Naveen Kumar Jain",
+      "role": "Executive Director",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": 8400000
+    },
+    {
+      "name": "Ms. Prita  Bishwas",
+      "role": "Marketing Manager",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Shivanj  Patni",
+      "role": "Head of HR",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sudeep  Jain",
+      "role": "Head of Operations - Mumbai",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    }
+  ]
 }

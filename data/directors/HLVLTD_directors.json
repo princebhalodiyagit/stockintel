@@ -1,7 +1,7 @@
 {
   "ticker": "HLVLTD",
   "company": "HLV LIMITED",
-  "collected_at": "2026-09-16 06:38:49",
+  "collected_at": "2026-09-17 06:38:55",
   "directors": [
     {
       "name": "Mr. Vivek Krishnan Nair B.A. (Hons)",
@@ -23,6 +23,13 @@
       "age": 57,
       "year_born": 1968,
       "total_pay": 3885120
+    },
+    {
+      "name": "Ms. Sucheta  Chaturvedi B.Com., C.S., L.L.B.",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

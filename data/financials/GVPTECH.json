@@ -1,21 +1,21 @@
 {
   "ticker": "GVPTECH",
-  "collected_at": "2026-09-16 06:37:49",
+  "collected_at": "2026-09-17 06:37:58",
   "company_info": {
     "name": "GVP Infotech Limited",
     "sector": "Technology",
     "industry": "Information Technology Services",
-    "market_cap": 1393134336,
-    "current_price": 7.57,
+    "market_cap": 1361848704,
+    "current_price": 7.4,
     "pe_ratio": "N/A",
-    "pb_ratio": 1.5525022,
-    "roe": 0.00452,
+    "pb_ratio": 1.5176375,
+    "roe": "N/A",
     "debt_to_equity": 18.926,
-    "revenue": 104519000,
-    "net_income": 4505000,
+    "revenue": 24178000,
+    "net_income": -896985024,
     "eps": -5.29,
     "52_week_high": 11.19,
     "52_week_low": 5.22,
-    "dividend_yield": 2.56
+    "dividend_yield": 2.64
   }
 }

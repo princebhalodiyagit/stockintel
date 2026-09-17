@@ -1,21 +1,21 @@
 {
   "ticker": "HBESD",
-  "collected_at": "2026-09-16 06:38:05",
+  "collected_at": "2026-09-17 06:38:13",
   "company_info": {
     "name": "HB Estate Developers Limited",
-    "sector": "N/A",
-    "industry": "N/A",
+    "sector": "Consumer Cyclical",
+    "industry": "Lodging",
     "market_cap": "N/A",
-    "current_price": 72.52,
-    "pe_ratio": 12.767606,
-    "pb_ratio": 0.8600059,
+    "current_price": 72.0,
+    "pe_ratio": 12.676057,
+    "pb_ratio": 0.85383934,
     "roe": "N/A",
-    "debt_to_equity": "N/A",
-    "revenue": "N/A",
-    "net_income": "N/A",
-    "eps": "N/A",
+    "debt_to_equity": 133.209,
+    "revenue": 1209102976,
+    "net_income": 128598000,
+    "eps": 5.68,
     "52_week_high": 81.99,
-    "52_week_low": 69.0,
+    "52_week_low": 60.51,
     "dividend_yield": "N/A"
   }
 }

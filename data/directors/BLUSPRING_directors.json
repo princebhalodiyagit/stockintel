@@ -1,7 +1,7 @@
 {
   "ticker": "BLUSPRING",
   "company": "Bluspring Enterprises Limited",
-  "collected_at": "2026-09-16 06:30:15",
+  "collected_at": "2026-09-17 06:30:54",
   "directors": [
     {
       "name": "Mr. Kamal Pal Hoda",
@@ -22,13 +22,6 @@
       "role": "Chief Operating Officer",
       "age": 53,
       "year_born": 1972,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Prashanth Dinesh Mallya",
-      "role": "Vice President of Legal & Compliance",
-      "age": 51,
-      "year_born": 1974,
       "total_pay": "N/A"
     },
     {
@@ -71,6 +64,13 @@
       "role": "Deputy Chief Financial Officer",
       "age": 43,
       "year_born": 1982,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ishaan  Sarkar",
+      "role": "Chief Business Officer of Food Services",
+      "age": 49,
+      "year_born": 1976,
       "total_pay": "N/A"
     }
   ]

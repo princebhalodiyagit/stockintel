@@ -1,7 +1,7 @@
 {
   "ticker": "AYMSYNTEX",
   "company": "AYM Syntex Limited",
-  "collected_at": "2026-09-16 06:28:34",
+  "collected_at": "2026-09-17 06:29:20",
   "directors": [
     {
       "name": "Mr. Abhishek R. Mandawewala",
@@ -46,13 +46,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Sanjay  Sharma",
-      "role": "Senior Vice President \u0096 Marketing",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Rahul  Pareek",
       "role": "Business Head of BCF",
       "age": 58,
@@ -71,6 +64,13 @@
       "role": "Business Head of Dyed Yarn",
       "age": 55,
       "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Yash Rajesh Mandawewala",
+      "role": "Business Head for Dyed Yarns Business",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "ticker": "JSL",
   "company": "Jindal Stainless Limited",
-  "collected_at": "2026-09-16 06:41:39",
+  "collected_at": "2026-09-17 06:41:36",
   "directors": [
     {
       "name": "Mr. Ratan Kumar Jindal",
@@ -39,13 +39,6 @@
       "total_pay": 341900000
     },
     {
-      "name": "Mr. Kunjal  Mehta",
-      "role": "Chief Financial Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Sanjay  Mishra",
       "role": "Chief Digital & Information Officer",
       "age": "N/A",
@@ -71,6 +64,13 @@
       "role": "Chairperson of Jindal Stainless Foundation",
       "age": 60,
       "year_born": 1965,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kalyan Kumar Bhattacherjee",
+      "role": "Chief Sustainability Officer",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

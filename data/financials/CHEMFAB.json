@@ -1,14 +1,14 @@
 {
   "ticker": "CHEMFAB",
-  "collected_at": "2026-09-16 06:31:31",
+  "collected_at": "2026-09-17 06:32:04",
   "company_info": {
     "name": "Chemfab Alkalis Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals",
-    "market_cap": 5216935424,
-    "current_price": 362.95,
+    "market_cap": 5102664192,
+    "current_price": 355.0,
     "pe_ratio": "N/A",
-    "pb_ratio": 1.3779999,
+    "pb_ratio": 1.3478163,
     "roe": "N/A",
     "debt_to_equity": 33.498,
     "revenue": 2926415872,
@@ -16,6 +16,6 @@
     "eps": -0.15,
     "52_week_high": 703.0,
     "52_week_low": 290.35,
-    "dividend_yield": 0.33
+    "dividend_yield": 0.34
   }
 }

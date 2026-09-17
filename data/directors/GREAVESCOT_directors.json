@@ -1,14 +1,14 @@
 {
   "ticker": "GREAVESCOT",
   "company": "Greaves Cotton Limited",
-  "collected_at": "2026-09-16 06:37:20",
+  "collected_at": "2026-09-17 06:37:31",
   "directors": [
     {
       "name": "Mr. Parag  Satpute",
       "role": "MD, Group CEO & Director",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": 46200000
     },
     {
       "name": "Mr. Manish  Poddar",
@@ -18,8 +18,22 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Sandip  Chaudhari",
-      "role": "Chief Technology Officer",
+      "name": "Mr. Prashant  Narwade",
+      "role": "President of Operations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vinay  Pawar",
+      "role": "Group Chief Technology Officer",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ashish  Kale",
+      "role": "Head of Investor Relations",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
@@ -47,28 +61,14 @@
     },
     {
       "name": "Mr. Sambhaji  More",
-      "role": "Head of Supply Chian Management",
+      "role": "Head of Procurement",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Prashant  Narwade",
-      "role": "Head of Manufacturing & ME",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Rajasekaran  Alagarsamy",
-      "role": "Head of After Market Business",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Niranjan  Damle",
-      "role": "Business Head of Sensors",
+      "name": "Mr. Sandip  Chaudhari",
+      "role": "President of Auto & Special Applications",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

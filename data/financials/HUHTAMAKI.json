@@ -1,14 +1,14 @@
 {
   "ticker": "HUHTAMAKI",
-  "collected_at": "2026-09-16 06:39:04",
+  "collected_at": "2026-09-17 06:39:10",
   "company_info": {
     "name": "Huhtamaki India Limited",
     "sector": "Consumer Cyclical",
     "industry": "Packaging & Containers",
-    "market_cap": 18555740160,
-    "current_price": 245.7,
-    "pe_ratio": 13.604651,
-    "pb_ratio": 1.3757691,
+    "market_cap": 18427353088,
+    "current_price": 244.0,
+    "pe_ratio": 13.510521,
+    "pb_ratio": 1.3662503,
     "roe": 0.1058,
     "debt_to_equity": 10.717,
     "revenue": 26116399104,
@@ -16,6 +16,6 @@
     "eps": 18.06,
     "52_week_high": 330.0,
     "52_week_low": 148.6,
-    "dividend_yield": 0.79
+    "dividend_yield": 0.83
   }
 }

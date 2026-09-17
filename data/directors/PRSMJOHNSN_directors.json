@@ -1,7 +1,7 @@
 {
   "ticker": "PRSMJOHNSN",
   "company": "Prism Johnson Limited",
-  "collected_at": "2026-09-16 06:50:32",
+  "collected_at": "2026-09-17 06:49:56",
   "directors": [
     {
       "name": "Mr. Vijay  Aggarwal",
@@ -20,8 +20,15 @@
     {
       "name": "Mr. Raakesh  Jain",
       "role": "CEO of Cement & Whole-Time Director",
-      "age": "N/A",
-      "year_born": "N/A",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sanjaykumar Shivajee Roy",
+      "role": "Executive Director & CEO of RMC",
+      "age": 56,
+      "year_born": 1969,
       "total_pay": "N/A"
     },
     {
@@ -34,8 +41,8 @@
     {
       "name": "Mr. Ashish  Samal",
       "role": "Chief Investor Relations Officer",
-      "age": 41,
-      "year_born": 1984,
+      "age": 40,
+      "year_born": 1985,
       "total_pay": "N/A"
     },
     {
@@ -50,13 +57,6 @@
       "role": "Company Secretary & Compliance Officer",
       "age": 53,
       "year_born": 1972,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Prabir Kumar Ray",
-      "role": "Chief Human Resources Officer",
-      "age": "N/A",
-      "year_born": "N/A",
       "total_pay": "N/A"
     },
     {

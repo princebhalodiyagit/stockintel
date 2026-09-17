@@ -1,7 +1,7 @@
 {
   "ticker": "ESSARSHPNG",
   "company": "Essar Shipping Limited",
-  "collected_at": "2026-09-16 06:34:57",
+  "collected_at": "2026-09-17 06:35:17",
   "directors": [
     {
       "name": "Mr. Vipin  Jain",
@@ -9,27 +9,6 @@
       "age": 46,
       "year_born": 1979,
       "total_pay": 6056328
-    },
-    {
-      "name": "Mr. Rajesh Dhirubhai Desai",
-      "role": "Executive Director",
-      "age": 67,
-      "year_born": 1958,
-      "total_pay": 600000
-    },
-    {
-      "name": "Mr. Manoj  Kumar",
-      "role": "Chief Executive Officer of Drilling Division",
-      "age": 49,
-      "year_born": 1976,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Habib  Jan",
-      "role": "GM, Company Secretary & Compliance Officer",
-      "age": 45,
-      "year_born": 1980,
-      "total_pay": 3889300
     },
     {
       "name": "Mr. Arun Kumar Bhardwaj",
@@ -60,17 +39,17 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Hasit  Avasiya",
-      "role": "Vice President of Corporate Relations Group",
-      "age": 52,
-      "year_born": 1973,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Hardik  Sheth",
       "role": "General Manager",
       "age": 38,
       "year_born": 1987,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vinod  Rewani",
+      "role": "Vice President of Projects",
+      "age": 52,
+      "year_born": 1973,
       "total_pay": "N/A"
     }
   ]

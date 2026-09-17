@@ -1,6 +1,77 @@
 {
   "ticker": "HBESD",
   "company": "HB Estate Developers Limited",
-  "collected_at": "2026-09-16 06:38:06",
-  "directors": []
+  "collected_at": "2026-09-17 06:38:14",
+  "directors": [
+    {
+      "name": "Mr. Praveen  Gupta",
+      "role": "Chief Financial Officer",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Neralla Venkata Kameshwara Rao",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 38,
+      "year_born": 1987,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Varun  Shangloo",
+      "role": "Director of Sales & Marketing",
+      "age": 37,
+      "year_born": 1988,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kamal  Thadani",
+      "role": "Director of Finance",
+      "age": 37,
+      "year_born": 1988,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Dharm Veer Singh Maurya",
+      "role": "Director of Engineering",
+      "age": 39,
+      "year_born": 1986,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anoop  Kharaband",
+      "role": "Corporate Director of Finance",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Dinesh  Kumar",
+      "role": "Operations Manager",
+      "age": 39,
+      "year_born": 1986,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Gouri  Kalra",
+      "role": "Associate Director of Sales",
+      "age": 41,
+      "year_born": 1984,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Shailza  Sharma",
+      "role": "Human Resources Manager",
+      "age": 43,
+      "year_born": 1982,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Prajuab  Shoosridam",
+      "role": "Thai Chef",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    }
+  ]
 }

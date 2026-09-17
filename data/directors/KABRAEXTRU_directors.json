@@ -1,14 +1,14 @@
 {
   "ticker": "KABRAEXTRU",
   "company": "Kabra Extrusion Technik Limited",
-  "collected_at": "2026-09-16 06:41:59",
+  "collected_at": "2026-09-17 06:41:56",
   "directors": [
     {
       "name": "Mr. Anand Shreevallabh Kabra",
       "role": "MD & Executive Chairman",
       "age": 51,
       "year_born": 1974,
-      "total_pay": 20502000
+      "total_pay": 21864000
     },
     {
       "name": "Ms. Ekta Anand Kabra",
@@ -18,14 +18,35 @@
       "total_pay": 11889000
     },
     {
-      "name": "Mr. Daulat  Jain",
+      "name": "Mr. Bhavin  Sheth",
       "role": "Chief Financial Officer",
-      "age": 48,
-      "year_born": 1977,
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
-      "name": "Ms. Shilpa Ashutosh Rathi",
+      "name": "Mr. Jayant  Ranade",
+      "role": "Chief Operating Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Uttam  Singh",
+      "role": "Deputy GM of Accounts & Finance",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pramod Vitthalrao Kokate",
+      "role": "Chief Information Officer",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Hirenkumar Popatbhai Vala",
       "role": "Company Secretary & Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
@@ -50,27 +71,6 @@
       "role": "Senior Vice President of Material",
       "age": 61,
       "year_born": 1964,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Pramod Vitthalrao Kokate",
-      "role": "CIO-Battrixx",
-      "age": 56,
-      "year_born": 1969,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Jayant  Ranade",
-      "role": "Chief Operating Officer of Extrusion Division",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Arnab  Saha",
-      "role": "Head of Strategy & Alliances",
-      "age": "N/A",
-      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

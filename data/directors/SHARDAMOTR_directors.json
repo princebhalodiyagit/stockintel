@@ -1,7 +1,7 @@
 {
   "ticker": "SHARDAMOTR",
   "company": "Sharda Motor Industries Limited",
-  "collected_at": "2026-09-16 06:54:01",
+  "collected_at": "2026-09-17 06:53:12",
   "directors": [
     {
       "name": "Mr. Aashim  Relan",
@@ -16,13 +16,6 @@
       "age": 49,
       "year_born": 1976,
       "total_pay": 23703000
-    },
-    {
-      "name": "Mr. Ajay  Relan",
-      "role": "MD & Executive Director",
-      "age": 64,
-      "year_born": 1961,
-      "total_pay": 75043000
     },
     {
       "name": "Mr. Nitin  Vishnoi",
@@ -71,6 +64,13 @@
       "role": "Chief Manufacturing Officer",
       "age": 54,
       "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Dnyaneshwar  Dandekar",
+      "role": "Senior Vice President of Research & Development",
+      "age": 49,
+      "year_born": 1976,
       "total_pay": "N/A"
     }
   ]

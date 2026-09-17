@@ -1,28 +1,28 @@
 {
   "ticker": "BANSWRAS",
   "company": "Banswara Syntex Limited",
-  "collected_at": "2026-09-16 06:29:09",
+  "collected_at": "2026-09-17 06:29:52",
   "directors": [
     {
       "name": "Mr. Rakesh  Mehra",
       "role": "Executive Chairman & Whole-Time Director",
       "age": 68,
       "year_born": 1957,
-      "total_pay": 35080000
+      "total_pay": 39946000
     },
     {
       "name": "Mr. Shaleen  Toshniwal",
-      "role": "Joint MD & Whole Time Director",
+      "role": "MD & Whole Time Director",
       "age": 48,
       "year_born": 1977,
-      "total_pay": 19993000
+      "total_pay": 23400000
     },
     {
       "name": "Mr. Ravindra Kumar Toshniwal",
-      "role": "MD & Whole Time Director",
+      "role": "Vice Chairman & Whole Time Director",
       "age": 62,
       "year_born": 1963,
-      "total_pay": 21940000
+      "total_pay": 25346000
     },
     {
       "name": "Ms. Kavita  Gandhi",
@@ -32,29 +32,15 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Ketan Kumar Dave",
-      "role": "Company Secretary & Compliance Officer",
-      "age": 31,
-      "year_born": 1994,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Ms. Kavita  Soni",
       "role": "Whole Time Director",
       "age": 59,
       "year_born": 1966,
-      "total_pay": 2674000
+      "total_pay": 7145000
     },
     {
-      "name": "Mr. Amit  Nandwana",
-      "role": "Chief Technology Officer",
-      "age": 47,
-      "year_born": 1978,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Marazban F. Velati",
-      "role": "Chief Human Resources Officer",
+      "name": "Mr. Indrajeet Sunil Sukate",
+      "role": "Head of Corporate Human Resources",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
@@ -71,6 +57,20 @@
       "role": "Head of Garments Business",
       "age": 48,
       "year_born": 1977,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. B. C. Kaushik",
+      "role": "Unit Head of Spinning",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pawan  Mangal",
+      "role": "Senior Vice President of Spinning",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

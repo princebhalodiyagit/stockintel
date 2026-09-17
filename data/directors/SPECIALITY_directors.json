@@ -1,14 +1,21 @@
 {
   "ticker": "SPECIALITY",
   "company": "Speciality Restaurants Limited",
-  "collected_at": "2026-09-16 06:55:24",
+  "collected_at": "2026-09-17 06:54:29",
   "directors": [
     {
-      "name": "Mr. Anjan Snehmoy Chatterjee",
+      "name": "Mr. Anjanmoy Snehmoy Chatterjee",
       "role": "Chairman & MD",
       "age": 66,
       "year_born": 1959,
       "total_pay": 12000000
+    },
+    {
+      "name": "Mr. Avik Anjan Chatterjee",
+      "role": "CEO & Whole-Time Director",
+      "age": 33,
+      "year_born": 1992,
+      "total_pay": 4800000
     },
     {
       "name": "Mr. Rajesh Kumar Mohta",
@@ -37,20 +44,6 @@
       "age": 65,
       "year_born": 1960,
       "total_pay": 4100000
-    },
-    {
-      "name": "Mr. Avik Anjan Chatterjee",
-      "role": "Executive Director of Innovation & New Formats and Whole-Time Director",
-      "age": 33,
-      "year_born": 1992,
-      "total_pay": 4800000
-    },
-    {
-      "name": "Mr. Nripendra Singh Chauhan",
-      "role": "Chief Operating Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
     },
     {
       "name": "Mr. Rajesh Kumar Dubey",

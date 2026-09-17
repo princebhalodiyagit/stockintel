@@ -1,20 +1,20 @@
 {
   "ticker": "INDIGO",
   "company": "InterGlobe Aviation Limited",
-  "collected_at": "2026-09-16 06:39:52",
+  "collected_at": "2026-09-17 06:39:54",
   "directors": [
     {
-      "name": "Mr. Rahul  Bhatia",
-      "role": "MD, Promoter & Director",
-      "age": 65,
-      "year_born": 1960,
-      "total_pay": 900000
+      "name": "Mr. William Matthew Walsh M.Sc.",
+      "role": "Chief Executive Officer",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": "N/A"
     },
     {
-      "name": "Mr. Gaurav Manoher Negi",
+      "name": "Mr. Kiran  Thadimarri",
       "role": "Chief Financial Officer",
-      "age": 50,
-      "year_born": 1975,
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
@@ -47,23 +47,16 @@
     },
     {
       "name": "Ms. Neerja  Sharma",
-      "role": "Company Secretary, Chief Compliance Officer & SVP of Regulatory Compliance",
+      "role": "Company Secretary & Chief Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Vinay  Malhotra",
-      "role": "Head of Global Sales",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Sukhjit Singh Pasricha",
+      "name": "Mr. Kanwal Jeet Singh Bakshi",
       "role": "Group Chief Human Resources Officer",
-      "age": 52,
-      "year_born": 1973,
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
@@ -71,6 +64,13 @@
       "role": "Chief Aircraft Acquisition & Financing Officer",
       "age": 65,
       "year_born": 1960,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Captain Ashim Kumar Mittra",
+      "role": "Senior Vice President of Flight Operations",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

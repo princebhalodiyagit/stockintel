@@ -1,29 +1,8 @@
 {
   "ticker": "BAJAJCON",
   "company": "Bajaj Consumer Care Limited",
-  "collected_at": "2026-09-16 06:28:39",
+  "collected_at": "2026-09-17 06:29:25",
   "directors": [
-    {
-      "name": "Mr. Dilip Kumar Maloo",
-      "role": "Chief Financial Officer",
-      "age": 64,
-      "year_born": 1961,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Sumit  Malhotra",
-      "role": "Non-Independent Executive Director & Advisor",
-      "age": 64,
-      "year_born": 1961,
-      "total_pay": 15000000
-    },
-    {
-      "name": "Mr. Naveen  Pandey",
-      "role": "MD & Director",
-      "age": 47,
-      "year_born": 1978,
-      "total_pay": 39277000
-    },
     {
       "name": "Mr. Aakash  Gupta",
       "role": "Head of Finance",
@@ -69,6 +48,27 @@
     {
       "name": "Mr. Pankaj  Nigam",
       "role": "Head of Information Technology",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Suman  Majumder",
+      "role": "Head of Research & Development",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mohan Vijaykumar Chavan",
+      "role": "Head of Research & Development",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Rohan  Samant",
+      "role": "Assistant Portfolio Manager",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

@@ -1,39 +1,39 @@
 {
   "ticker": "BAJAJELEC",
   "company": "Bajaj Electricals Limited",
-  "collected_at": "2026-09-16 06:28:40",
+  "collected_at": "2026-09-17 06:29:26",
   "directors": [
     {
       "name": "Mr. Shekharkumar Ramkrishnaji Bajaj",
       "role": "Executive Chairman",
       "age": 77,
       "year_born": 1948,
-      "total_pay": 77749000
+      "total_pay": 57570000
+    },
+    {
+      "name": "Mr. Sanjay  Sachdeva",
+      "role": "MD, CEO & Additional Executive Whole-Time Director",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": 57318320
     },
     {
       "name": "Mr. Prashant  Dalvi",
       "role": "Company Secretary & Chief Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": 8162000
+      "total_pay": 10163000
     },
     {
-      "name": "Ms. Pooja  Bajaj",
+      "name": "Ms. Pooja Anant Bajaj",
       "role": "Whole-time Director",
       "age": 43,
       "year_born": 1982,
-      "total_pay": 1089000
+      "total_pay": 2270000
     },
     {
-      "name": "Mr. Sanjay  Sachdeva",
-      "role": "MD, CEO & Additional Executive Whole-Time Director",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Suketu  Shah",
-      "role": "Interim CFO & Finance Controller",
+      "name": "Ms. Ashween  Anand",
+      "role": "Chief Financial Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
@@ -54,7 +54,14 @@
     },
     {
       "name": "Binu  Puri",
-      "role": "General Counsel",
+      "role": "General Counsel & Head of ESG",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Tiny  Sengupta",
+      "role": "Chief Marketing Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
@@ -62,13 +69,6 @@
     {
       "name": "Mr. Suman Kumar Ghosh",
       "role": "Chief Human Resource Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Rakesh  Moolchandani",
-      "role": "VP & Head of Sales - Modern Trade Business",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

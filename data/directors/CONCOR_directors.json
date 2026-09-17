@@ -1,7 +1,7 @@
 {
   "ticker": "CONCOR",
   "company": "Container Corporation of India Limited",
-  "collected_at": "2026-09-16 06:32:03",
+  "collected_at": "2026-09-17 06:32:33",
   "directors": [
     {
       "name": "Mr. Ajit Kumar Panda",
@@ -16,13 +16,6 @@
       "age": 55,
       "year_born": 1970,
       "total_pay": 6686000
-    },
-    {
-      "name": "Mr. Vivek  Gupta",
-      "role": "Director of Finance, CFO & Director",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
     },
     {
       "name": "Mr. Harish  Chandra",
@@ -53,13 +46,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Harbrinder Singh Bajwa",
-      "role": "Director & Director of Domestic Division (Additional Charge)",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Shankar  Mazumdar",
       "role": "Principal Executive Director (Law)",
       "age": 57,
@@ -69,6 +55,13 @@
     {
       "name": "Mr. Alok  Badkul",
       "role": "Executive Director [FHEL]",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kamal  Jain",
+      "role": "Principal Executive Director (Ops., BD, BS & FMLM)",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

@@ -1,35 +1,35 @@
 {
   "ticker": "BALKRISIND",
   "company": "Balkrishna Industries Limited",
-  "collected_at": "2026-09-16 06:28:56",
+  "collected_at": "2026-09-17 06:29:40",
   "directors": [
     {
       "name": "Mr. Arvind Kumar Mahabirprasad Poddar B.Com",
       "role": "Chairman & MD",
       "age": 68,
       "year_born": 1957,
-      "total_pay": 475400000
+      "total_pay": 349800000
     },
     {
       "name": "Mr. Rajiv A. Poddar",
       "role": "Joint MD & Executive Director",
       "age": 40,
       "year_born": 1985,
-      "total_pay": 464200000
-    },
-    {
-      "name": "Mr. Madhusudan B. Bajaj",
-      "role": "Senior President, CFO, Director of Commercial",
-      "age": 67,
-      "year_born": 1958,
-      "total_pay": "N/A"
+      "total_pay": 299800000
     },
     {
       "name": "Mr. Vipul R. Shah",
-      "role": "Compliance Officer, Company Secretary & Whole Time Director",
+      "role": "Company Secretary & Whole Time Director",
       "age": 62,
       "year_born": 1963,
-      "total_pay": 9800000
+      "total_pay": 11900000
+    },
+    {
+      "name": "Mr. Saroj Kumar Khuntia",
+      "role": "CFO & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Sushil  Mishra",
@@ -55,13 +55,6 @@
     {
       "name": "Mr. Satish  Sharma",
       "role": "Senior President and Director of Business Development & Strategy",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Ravi  Joshi",
-      "role": "Deputy Chief Financial Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
