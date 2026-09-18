@@ -1,28 +1,14 @@
 {
   "ticker": "HONASA",
   "company": "Honasa Consumer Limited",
-  "collected_at": "2026-09-17 06:39:00",
+  "collected_at": "2026-09-18 06:33:55",
   "directors": [
-    {
-      "name": "Mr. Raman Preet Sohi",
-      "role": "Chief Financial Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 59240000
-    },
     {
       "name": "Mr. Lokesh  Chhaparwal",
       "role": "Senior Vice President of Technology & Engineering",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Gaurav  Pandit",
-      "role": "Company Secretary & Compliance Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 3730000
     },
     {
       "name": "Tripti  Pandey",
@@ -69,6 +55,13 @@
     {
       "name": "Spoorthy  Shetty",
       "role": "Chief Executive Officer of BBLUNT Salons",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Shivang  Jain",
+      "role": "CEO of BTM Ventures (Reginald Men & Molecular)",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

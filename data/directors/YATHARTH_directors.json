@@ -1,15 +1,8 @@
 {
   "ticker": "YATHARTH",
   "company": "Yatharth Hospital & Trauma Care Services Limited",
-  "collected_at": "2026-09-17 06:59:50",
+  "collected_at": "2026-09-18 06:59:08",
   "directors": [
-    {
-      "name": "Dr. Ajay Kumar Tyagi",
-      "role": "Chairman & Whole-time Director",
-      "age": 59,
-      "year_born": 1966,
-      "total_pay": 12000000
-    },
     {
       "name": "Mr. Amit Kumar Singh",
       "role": "Group Chief Executive Officer",
@@ -69,6 +62,13 @@
     {
       "name": "Mr. Sonu  Goyal",
       "role": "Group Chief Financial Controller",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Shilpi  Singh",
+      "role": "Executive Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

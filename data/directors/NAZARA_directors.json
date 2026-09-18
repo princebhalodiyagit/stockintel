@@ -1,15 +1,8 @@
 {
   "ticker": "NAZARA",
   "company": "Nazara Technologies Limited",
-  "collected_at": "2026-09-17 06:46:36",
+  "collected_at": "2026-09-18 06:43:05",
   "directors": [
-    {
-      "name": "Mr. Vikash Pratapchand Mittersain",
-      "role": "Founding Chairman",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 15146742
-    },
     {
       "name": "Mr. Nitish Vikash Mittersain",
       "role": "Founder, MD, CEO & Executive Director",
@@ -20,13 +13,6 @@
     {
       "name": "Mr. Rakesh Chandrakant Shah",
       "role": "Chief Financial Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Arun  Bhandari",
-      "role": "Company Secretary & Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
@@ -46,25 +32,11 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Pratik  Shah",
-      "role": "Chief Executive Officer of Mastermindsports",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Rohit  Sharma",
       "role": "Executive Director",
       "age": 54,
       "year_born": 1971,
       "total_pay": 11280064
-    },
-    {
-      "name": "Mr. James Savio Saldanha",
-      "role": "Chief Executive Officer of Nazara Digital",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
     }
   ]
 }

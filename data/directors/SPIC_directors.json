@@ -1,7 +1,7 @@
 {
   "ticker": "SPIC",
   "company": "Southern Petrochemicals Industries Corporation  Limited",
-  "collected_at": "2026-09-17 06:54:32",
+  "collected_at": "2026-09-18 06:52:47",
   "directors": [
     {
       "name": "Mr. K.  Gopalakrishnan",
@@ -53,13 +53,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. E.  Rajeshkumar",
-      "role": "Deputy General Manager of Phosphatic Production",
-      "age": 50,
-      "year_born": 1975,
-      "total_pay": "N/A"
-    },
-    {
       "name": "S.S.  Manivannan",
       "role": "Deputy General Manager of Engineering & Services",
       "age": 51,
@@ -71,6 +64,13 @@
       "role": "Deputy General Manager of Maintenance",
       "age": 51,
       "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "D.  Prembabu",
+      "role": "Assistant General Manager",
+      "age": 50,
+      "year_born": 1975,
       "total_pay": "N/A"
     }
   ]

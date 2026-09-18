@@ -1,7 +1,7 @@
 {
   "ticker": "PATELENG",
   "company": "Patel Engineering Limited",
-  "collected_at": "2026-09-17 06:48:37",
+  "collected_at": "2026-09-18 06:45:30",
   "directors": [
     {
       "name": "Ms. Kavita Sanjiv Shirvaikar",
@@ -23,13 +23,6 @@
       "age": 76,
       "year_born": 1949,
       "total_pay": 21030000
-    },
-    {
-      "name": "Mr. Rahul  Agarwal",
-      "role": "Chief Financial Officer",
-      "age": 42,
-      "year_born": 1983,
-      "total_pay": "N/A"
     },
     {
       "name": "Vinod T. Chandnani",
@@ -71,6 +64,13 @@
       "role": "Senior Vice President of Design & Engineering",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sandeep  Shetty",
+      "role": "President of Business Development & Corporate Affairs",
+      "age": 50,
+      "year_born": 1975,
       "total_pay": "N/A"
     }
   ]

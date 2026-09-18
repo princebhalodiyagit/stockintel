@@ -1,7 +1,7 @@
 {
   "ticker": "STARHEALTH",
   "company": "Star Health and Allied Insurance Company Limited",
-  "collected_at": "2026-09-17 06:54:49",
+  "collected_at": "2026-09-18 06:53:08",
   "directors": [
     {
       "name": "Mr. Anand Shankar Roy",
@@ -23,13 +23,6 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 7400000
-    },
-    {
-      "name": "Mr. Aneesh  Srivastava",
-      "role": "Chief Investment Officer",
-      "age": 55,
-      "year_born": 1970,
-      "total_pay": "N/A"
     },
     {
       "name": "Mr. Himanshu  Walia",
@@ -69,6 +62,13 @@
     {
       "name": "Ms. Princey  Mehra",
       "role": "Chief Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sriram  Ragunandhanan",
+      "role": "Chief Human Resources Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
