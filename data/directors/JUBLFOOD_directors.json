@@ -1,7 +1,7 @@
 {
   "ticker": "JUBLFOOD",
   "company": "Jubilant Foodworks Limited",
-  "collected_at": "2026-09-18 06:37:16",
+  "collected_at": "2026-09-19 06:33:33",
   "directors": [
     {
       "name": "Mr. Shyam Sunder  Bhartia",
@@ -39,13 +39,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Narottam  Sharma",
-      "role": "Senior VP & Chief Information Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Apaar  Saraswat",
       "role": "Head of M&A and Investor Relations",
       "age": "N/A",
@@ -71,6 +64,13 @@
       "role": "Executive VP & Chief Product Officer",
       "age": 42,
       "year_born": 1983,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rahul  Bharde",
+      "role": "Senior VP & Chief Analytics Officer",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

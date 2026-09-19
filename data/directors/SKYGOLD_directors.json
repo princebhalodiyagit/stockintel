@@ -1,15 +1,8 @@
 {
   "ticker": "SKYGOLD",
   "company": "SKY GOLD AND DIAMONDS LIMITED",
-  "collected_at": "2026-09-18 06:52:12",
+  "collected_at": "2026-09-19 06:46:41",
   "directors": [
-    {
-      "name": "Mr. Mangesh Ramesh Chauhan",
-      "role": "Chairman & MD",
-      "age": 46,
-      "year_born": 1979,
-      "total_pay": 17549000
-    },
     {
       "name": "Ms. Nikita  Jain",
       "role": "Company Secretary & Compliance Officer",
@@ -23,20 +16,6 @@
       "age": 47,
       "year_born": 1978,
       "total_pay": 17549000
-    },
-    {
-      "name": "Mr. Darshan Ramesh Chauhan",
-      "role": "Whole-time Director",
-      "age": 41,
-      "year_born": 1984,
-      "total_pay": 14039000
-    },
-    {
-      "name": "Mr. Akash  Talesara",
-      "role": "Chief Executive Officer",
-      "age": 43,
-      "year_born": 1982,
-      "total_pay": "N/A"
     },
     {
       "name": "Mr. Siddharth  Sipani",
@@ -53,24 +32,10 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Jayesh  Sanghavi",
-      "role": "Manager of Accounts",
-      "age": 56,
-      "year_born": 1969,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Angappan  K.",
       "role": "General Manager HR & Admin",
       "age": 51,
       "year_born": 1974,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Dilip Bechuram Huduk",
-      "role": "Executive Designer or Assistant Manager",
-      "age": 55,
-      "year_born": 1970,
       "total_pay": "N/A"
     }
   ]

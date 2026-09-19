@@ -1,7 +1,7 @@
 {
   "ticker": "HFCL",
   "company": "HFCL Limited",
-  "collected_at": "2026-09-18 06:33:26",
+  "collected_at": "2026-09-19 06:30:09",
   "directors": [
     {
       "name": "Mr. Mahendra  Nahata",
@@ -25,13 +25,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Prakash Chand Gulgulia",
-      "role": "Vice President of Finance & Accounts",
-      "age": 65,
-      "year_born": 1960,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Baburaj  Eradath",
       "role": "Vice President of Administration & MDs Office",
       "age": "N/A",
@@ -43,13 +36,6 @@
       "role": "VP & Head of Investor Relations",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Jitendra Singh Chaudhary",
-      "role": "Executive President of Communications",
-      "age": 51,
-      "year_born": 1974,
       "total_pay": "N/A"
     },
     {
@@ -71,6 +57,20 @@
       "role": "President of Commercial",
       "age": 65,
       "year_born": 1960,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Harshwardhan  Pagay",
+      "role": "Executive President of Optical Fiber & Optical Fiber Cable",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Nand Lal Garg",
+      "role": "President of Supply Chain",
+      "age": 59,
+      "year_born": 1966,
       "total_pay": "N/A"
     }
   ]

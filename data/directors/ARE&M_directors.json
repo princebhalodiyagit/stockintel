@@ -1,7 +1,7 @@
 {
   "ticker": "ARE&M",
   "company": "Amara Raja Energy & Mobility Limited",
-  "collected_at": "2026-09-18 06:20:58",
+  "collected_at": "2026-09-19 06:18:59",
   "directors": [
     {
       "name": "Mr. Jayadev  Galla",
@@ -9,13 +9,6 @@
       "age": 55,
       "year_born": 1970,
       "total_pay": 629500000
-    },
-    {
-      "name": "Mr. Harshavardhana  Gourineni",
-      "role": "Executive Director of Automotive & Industrial & Wholetime Director",
-      "age": 36,
-      "year_born": 1989,
-      "total_pay": 314800000
     },
     {
       "name": "Mr. Vikramadithya  Gourineni",
@@ -69,6 +62,13 @@
     {
       "name": "Mr. Kishore I. Hirani",
       "role": "Chief Digital & IT Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manish  Tuli",
+      "role": "Head of Amaron Sales - South Asia",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

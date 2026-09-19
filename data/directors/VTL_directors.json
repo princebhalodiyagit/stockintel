@@ -1,15 +1,8 @@
 {
   "ticker": "VTL",
   "company": "Vardhman Textiles Limited",
-  "collected_at": "2026-09-18 06:58:23",
+  "collected_at": "2026-09-19 06:52:13",
   "directors": [
-    {
-      "name": "Mr. Paul  Oswal M.Com.",
-      "role": "Executive Chairman & MD",
-      "age": 83,
-      "year_born": 1942,
-      "total_pay": 220360229
-    },
     {
       "name": "Ms. Suchita  Jain M.Com",
       "role": "Vice Chairperson & Joint MD",
@@ -46,13 +39,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Mukesh  Bansal",
-      "role": "Executive VP & Head of Fabric Sales & Marketing",
-      "age": 49,
-      "year_born": 1976,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Parveen  Dhingra",
       "role": "Chief General Manager of Operations & Unit Head",
       "age": 60,
@@ -67,11 +53,25 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Ms. Sagrika  Jain",
-      "role": "Executive Director",
-      "age": 29,
-      "year_born": 1996,
-      "total_pay": 18032449
+      "name": "Mr. Harsh Mani Tripathi",
+      "role": "Chief General Manager of Operations & Unit Head",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Vikas  Mittal",
+      "role": "Executive Vice-President of Operations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vikas  Kumar",
+      "role": "Executive VP & Chairman of Office - Digital & IT and HR",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": "N/A"
     }
   ]
 }

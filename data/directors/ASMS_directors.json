@@ -1,7 +1,7 @@
 {
   "ticker": "ASMS",
   "company": "Bartronics India Limited",
-  "collected_at": "2026-09-18 06:21:37",
+  "collected_at": "2026-09-19 06:19:34",
   "directors": [
     {
       "name": "Mr. Nandaluru Vidhya Sagar Reddy",
@@ -29,13 +29,6 @@
       "role": "Manager of HR",
       "age": 39,
       "year_born": 1986,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Dr. Raja Krishna Murthy M",
-      "role": "Head of Agri Tech Business",
-      "age": "N/A",
-      "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
@@ -71,6 +64,13 @@
       "role": "Manager",
       "age": 43,
       "year_born": 1982,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Venkatesh  Aitipamula",
+      "role": "Assistant General Manager",
+      "age": 52,
+      "year_born": 1973,
       "total_pay": "N/A"
     }
   ]
