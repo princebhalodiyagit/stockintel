@@ -1,7 +1,7 @@
 {
   "ticker": "TRF",
   "company": "TRF Limited",
-  "collected_at": "2026-09-19 06:50:20",
+  "collected_at": "2026-09-20 07:18:37",
   "directors": [
     {
       "name": "Mr. Umesh Kumar Singh",
@@ -46,13 +46,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Abhijeet  Singh",
-      "role": "Chief Human Resources Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
       "name": "Vinod Kumar Singh",
       "role": "General Manager of Manufacturing",
       "age": 59,
@@ -71,6 +64,13 @@
       "role": "Head of QAD",
       "age": 50,
       "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Chetan Singh Rathore",
+      "role": "Chief of Contract Management & Commercial",
+      "age": 39,
+      "year_born": 1986,
       "total_pay": "N/A"
     }
   ]

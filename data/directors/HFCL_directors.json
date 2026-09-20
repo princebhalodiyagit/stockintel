@@ -1,7 +1,7 @@
 {
   "ticker": "HFCL",
   "company": "HFCL Limited",
-  "collected_at": "2026-09-19 06:30:09",
+  "collected_at": "2026-09-20 06:55:37",
   "directors": [
     {
       "name": "Mr. Mahendra  Nahata",
@@ -46,13 +46,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Sanjay Vithalrao Jorapur",
-      "role": "Executive President of HR",
-      "age": 54,
-      "year_born": 1971,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Sushil K. Wadhwa",
       "role": "President of Commercial",
       "age": 65,
@@ -71,6 +64,13 @@
       "role": "President of Supply Chain",
       "age": 59,
       "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajesh  Jain M.B.A.",
+      "role": "Executive President of EPC Projects",
+      "age": 52,
+      "year_born": 1973,
       "total_pay": "N/A"
     }
   ]

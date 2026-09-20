@@ -1,7 +1,7 @@
 {
   "ticker": "SVLL",
   "company": "Shree Vasu Logistics Limited",
-  "collected_at": "2026-09-19 06:48:28",
+  "collected_at": "2026-09-20 07:16:30",
   "directors": [
     {
       "name": "Mr. Loknidi Akhilesh Rao",
@@ -18,13 +18,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Atul  Garg",
-      "role": "MD & Director",
-      "age": 49,
-      "year_born": 1976,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. .  Karambelkarnikhil",
       "role": "Senior Manager of Operation",
       "age": 53,
@@ -32,31 +25,10 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Nitin  Gulechha",
-      "role": "Senior Manager of Accounts",
-      "age": 34,
-      "year_born": 1991,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Zafar  Kalim",
       "role": "Manager of Admin",
       "age": 42,
       "year_born": 1983,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ms. Monali  Makhija",
-      "role": "Company Secretary & Compliance Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Saurabh  Singh",
-      "role": "Assistant General Manager",
-      "age": 57,
-      "year_born": 1968,
       "total_pay": "N/A"
     },
     {
@@ -71,6 +43,27 @@
       "role": "Zonal Logictics Manager",
       "age": 34,
       "year_born": 1991,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Santosh  Varma",
+      "role": "Senior Manager",
+      "age": 44,
+      "year_born": 1981,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manoj  Kumarsen",
+      "role": "Senior Manager",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Yogendra Singh Thakur",
+      "role": "Senior Manager",
+      "age": 43,
+      "year_born": 1982,
       "total_pay": "N/A"
     }
   ]

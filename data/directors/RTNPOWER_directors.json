@@ -1,7 +1,7 @@
 {
   "ticker": "RTNPOWER",
   "company": "RattanIndia Power Limited",
-  "collected_at": "2026-09-19 06:44:09",
+  "collected_at": "2026-09-20 07:11:33",
   "directors": [
     {
       "name": "Mr. Rajiv  Rattan",
@@ -30,13 +30,6 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 13411920
-    },
-    {
-      "name": "Mr. Baliram Ratna Jadhav",
-      "role": "Station Head of Amravati Power Plant",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 1065482
     },
     {
       "name": "Mr. Ravi Kumar Pakalapati",
@@ -72,6 +65,13 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Aman Kumar Singh",
+      "role": "Advisor",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 11553000
     }
   ]
 }

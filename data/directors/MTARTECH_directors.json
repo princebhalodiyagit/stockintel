@@ -1,7 +1,7 @@
 {
   "ticker": "MTARTECH",
   "company": "Mtar Technologies Limited",
-  "collected_at": "2026-09-19 06:38:08",
+  "collected_at": "2026-09-20 07:04:44",
   "directors": [
     {
       "name": "Mr. Parvat Srinivas Reddy",
@@ -46,20 +46,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Doggala  Siddareddy",
-      "role": "Vice President of Clean Energy Fuel Cells",
-      "age": 63,
-      "year_born": 1962,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Alavalapati Veera Sudhakar Reddy",
-      "role": "Vice President of Space",
-      "age": 56,
-      "year_born": 1969,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Rohit  Khera",
       "role": "Resident Director",
       "age": 71,
@@ -71,6 +57,13 @@
       "role": "Vice President of Aerospace",
       "age": 60,
       "year_born": 1965,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "K. Sreeramulu Reddy",
+      "role": "Senior Vice President of Quality",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

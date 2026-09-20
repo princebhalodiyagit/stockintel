@@ -1,7 +1,7 @@
 {
   "ticker": "ACMESOLAR",
   "company": "Acme Solar Holdings Limited",
-  "collected_at": "2026-09-19 06:17:06",
+  "collected_at": "2026-09-20 06:40:44",
   "directors": [
     {
       "name": "Mr. Manoj Kumar Upadhyay",
@@ -23,13 +23,6 @@
       "age": 69,
       "year_born": 1956,
       "total_pay": 16820000
-    },
-    {
-      "name": "Mr. Ashutosh  Singh",
-      "role": "VP of Operations & Maintenance and O&M Head",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
     },
     {
       "name": "Mr. Ankit  Verma",
@@ -71,6 +64,13 @@
       "role": "Chief Procurement Officer",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rahul  Kaushik",
+      "role": "Head of Process Transformation",
+      "age": 52,
+      "year_born": 1973,
       "total_pay": "N/A"
     }
   ]
