@@ -1,7 +1,7 @@
 {
   "ticker": "QPOWER",
   "company": "Quality Power Electrical Equipments Limited",
-  "collected_at": "2026-09-21 07:12:33",
+  "collected_at": "2026-09-22 07:00:05",
   "directors": [
     {
       "name": "Mr. Thalavaidurai  Pandyan",
@@ -9,13 +9,6 @@
       "age": 70,
       "year_born": 1955,
       "total_pay": 20700000
-    },
-    {
-      "name": "Mr. Rajesh  Jayaraman",
-      "role": "Chief Financial Officer",
-      "age": 60,
-      "year_born": 1965,
-      "total_pay": "N/A"
     },
     {
       "name": "Mr. Deepak Ramchandra Suryavanshi",
@@ -69,6 +62,13 @@
     {
       "name": "Mr. Udaykumar Devidas Maharnur",
       "role": "Head of Quality",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jos  Augustine",
+      "role": "Head of Plant",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
