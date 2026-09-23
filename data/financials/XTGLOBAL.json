@@ -1,14 +1,14 @@
 {
   "ticker": "XTGLOBAL",
-  "collected_at": "2026-09-22 07:10:25",
+  "collected_at": "2026-09-23 06:59:40",
   "company_info": {
     "name": "XTGlobal Infotech Limited",
     "sector": "Technology",
     "industry": "Software - Application",
-    "market_cap": 4026393600,
-    "current_price": 30.02,
-    "pe_ratio": 35.317646,
-    "pb_ratio": 2.7584305,
+    "market_cap": 4023711232,
+    "current_price": 30.0,
+    "pe_ratio": 35.294117,
+    "pb_ratio": 2.7565928,
     "roe": "N/A",
     "debt_to_equity": 23.79,
     "revenue": 3697177088,
@@ -16,6 +16,6 @@
     "eps": 0.85,
     "52_week_high": 45.89,
     "52_week_low": 25.2,
-    "dividend_yield": 0.34
+    "dividend_yield": 0.33
   }
 }

@@ -1,7 +1,7 @@
 {
   "ticker": "APLAPOLLO",
   "company": "APL Apollo Tubes Limited",
-  "collected_at": "2026-09-22 06:35:48",
+  "collected_at": "2026-09-23 06:21:55",
   "directors": [
     {
       "name": "Mr. Sanjay  Gupta",
@@ -16,13 +16,6 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 18000000
-    },
-    {
-      "name": "Mr. Chakram Kumar Singh",
-      "role": "COO & Whole-Time Director",
-      "age": 49,
-      "year_born": 1976,
-      "total_pay": 19400000
     },
     {
       "name": "Mr. Vipul  Jain",
@@ -71,6 +64,13 @@
       "role": "Chief Executive Officer of Dubai Operations",
       "age": 46,
       "year_born": 1979,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Amit  Thakur",
+      "role": "Head of Procurement",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

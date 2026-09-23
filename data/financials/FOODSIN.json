@@ -1,14 +1,14 @@
 {
   "ticker": "FOODSIN",
-  "collected_at": "2026-09-22 06:44:36",
+  "collected_at": "2026-09-23 06:31:31",
   "company_info": {
     "name": "Foods and Inns Limited",
     "sector": "Consumer Defensive",
     "industry": "Packaged Foods",
-    "market_cap": 3944232960,
-    "current_price": 53.64,
-    "pe_ratio": 16.108109,
-    "pb_ratio": 0.68179214,
+    "market_cap": 3928791296,
+    "current_price": 53.43,
+    "pe_ratio": 16.045046,
+    "pb_ratio": 0.6791229,
     "roe": "N/A",
     "debt_to_equity": 76.257,
     "revenue": 7893635072,
@@ -16,6 +16,6 @@
     "eps": 3.33,
     "52_week_high": 92.51,
     "52_week_low": 44.0,
-    "dividend_yield": 0.55
+    "dividend_yield": 0.56
   }
 }

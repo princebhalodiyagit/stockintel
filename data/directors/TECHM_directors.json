@@ -1,14 +1,14 @@
 {
   "ticker": "TECHM",
   "company": "Tech Mahindra Limited",
-  "collected_at": "2026-09-22 07:06:47",
+  "collected_at": "2026-09-23 06:55:43",
   "directors": [
     {
       "name": "Mr. Mohit  Joshi",
       "role": "CEO, MD & Director",
       "age": 51,
       "year_born": 1974,
-      "total_pay": 694170907
+      "total_pay": 690970521
     },
     {
       "name": "Mr. Rohit  Anand",
@@ -46,13 +46,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Ms. Abhilasha  Gupta",
-      "role": "Head of Corporate Communications & Public Affairs",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Peeyush  Dubey",
       "role": "Chief Marketing Officer",
       "age": "N/A",
@@ -69,6 +62,13 @@
     {
       "name": "Mr. Marcus  Sch\u00fcler",
       "role": "Senior Vice President of MBT GmbH",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Andy  Ranaweera",
+      "role": "Senior Vice President of Peoplecare",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

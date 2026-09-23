@@ -1,7 +1,7 @@
 {
   "ticker": "CEINSYS",
   "company": "Ceinsys Tech Limited",
-  "collected_at": "2026-09-22 06:39:58",
+  "collected_at": "2026-09-23 06:26:26",
   "directors": [
     {
       "name": "Dr. Abhay Surendra Kimmatkar",
@@ -53,13 +53,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Kelly  Yagi",
-      "role": "President of Corporate Development",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Chandra Shekhar Sayankar",
       "role": "Head of Sales for US",
       "age": 47,
@@ -71,6 +64,13 @@
       "role": "Senior Vice President of Energy",
       "age": 44,
       "year_born": 1981,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Manish  Ingle",
+      "role": "VP & Business Unit Head of Water",
+      "age": 50,
+      "year_born": 1975,
       "total_pay": "N/A"
     }
   ]
