@@ -1,7 +1,7 @@
 {
   "ticker": "NATCOPHARM",
   "company": "Natco Pharma Limited",
-  "collected_at": "2026-09-23 06:43:55",
+  "collected_at": "2026-09-24 06:52:28",
   "directors": [
     {
       "name": "Mr. Venkaiah Chowdary Nannapaneni M. Pharm, MS.",
@@ -46,13 +46,6 @@
       "total_pay": 6000000
     },
     {
-      "name": "Nadella Malleswara Rao",
-      "role": "VP & Head of Operations",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
       "name": "N. Sadasiva Rao",
       "role": "Executive Vice President of Corporate Affairs, Legal, Secretarial & Estate Management",
       "age": "N/A",
@@ -71,6 +64,13 @@
       "role": "Senior Vice President of HR & Organisational Development",
       "age": 62,
       "year_born": 1963,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajesh  Chebiyam",
+      "role": "Executive Vice President of Crop Health Sciences",
+      "age": 54,
+      "year_born": 1971,
       "total_pay": "N/A"
     }
   ]

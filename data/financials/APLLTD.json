@@ -1,14 +1,14 @@
 {
   "ticker": "APLLTD",
-  "collected_at": "2026-09-23 06:21:55",
+  "collected_at": "2026-09-24 06:30:43",
   "company_info": {
     "name": "Alembic Pharmaceuticals Limited",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - Specialty & Generic",
-    "market_cap": 167127793664,
-    "current_price": 850.25,
-    "pe_ratio": 24.32761,
-    "pb_ratio": 2.9450784,
+    "market_cap": 168120434688,
+    "current_price": 855.3,
+    "pe_ratio": 24.472101,
+    "pb_ratio": 2.9625704,
     "roe": "N/A",
     "debt_to_equity": 25.224,
     "revenue": 77839499264,
@@ -16,6 +16,6 @@
     "eps": 34.95,
     "52_week_high": 998.0,
     "52_week_low": 635.8,
-    "dividend_yield": 1.41
+    "dividend_yield": 1.43
   }
 }

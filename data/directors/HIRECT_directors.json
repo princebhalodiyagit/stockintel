@@ -1,7 +1,7 @@
 {
   "ticker": "HIRECT",
   "company": "Hind Rectifiers Limited",
-  "collected_at": "2026-09-23 06:34:58",
+  "collected_at": "2026-09-24 06:43:33",
   "directors": [
     {
       "name": "Mr. Suramya Saurabh Nevatia",
@@ -9,13 +9,6 @@
       "age": 36,
       "year_born": 1989,
       "total_pay": 48860000
-    },
-    {
-      "name": "Ms. Akshada Suramya Nevatia",
-      "role": "Executive Director",
-      "age": 38,
-      "year_born": 1987,
-      "total_pay": 31120000
     },
     {
       "name": "Mr. Manoj  Nair",
@@ -69,6 +62,13 @@
     {
       "name": "Mr. Lalit  Tejwani",
       "role": "Chief Strategy Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Doughlas J. Bailey",
+      "role": "Global Chief Executive Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

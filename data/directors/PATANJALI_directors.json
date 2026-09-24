@@ -1,7 +1,7 @@
 {
   "ticker": "PATANJALI",
   "company": "Patanjali Foods Limited",
-  "collected_at": "2026-09-23 06:46:30",
+  "collected_at": "2026-09-24 06:55:10",
   "directors": [
     {
       "name": "Mr. Sanjeev Kumar Asthana PGDIT, PGDRM",
@@ -9,13 +9,6 @@
       "age": 61,
       "year_born": 1964,
       "total_pay": 28712000
-    },
-    {
-      "name": "Mr. Kumar  Rajesh",
-      "role": "Head of Strategic Finance, Special Projects & Treasury Management and CFO",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 14754000
     },
     {
       "name": "Mr. Ramji Lal Gupta",
@@ -69,6 +62,13 @@
     {
       "name": "Mr. Pawan  Arora",
       "role": "Business Head of CBD Nutrela",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rakesh  Sharma",
+      "role": "Senior Vice President",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

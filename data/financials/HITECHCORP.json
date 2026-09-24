@@ -1,14 +1,14 @@
 {
   "ticker": "HITECHCORP",
-  "collected_at": "2026-09-23 06:35:01",
+  "collected_at": "2026-09-24 06:43:36",
   "company_info": {
     "name": "Hitech Corporation Limited",
     "sector": "Consumer Cyclical",
     "industry": "Packaging & Containers",
-    "market_cap": 5718649344,
-    "current_price": 332.95,
-    "pe_ratio": 32.610188,
-    "pb_ratio": 2.0107255,
+    "market_cap": 5719507968,
+    "current_price": 333.0,
+    "pe_ratio": 32.61508,
+    "pb_ratio": 2.0110273,
     "roe": "N/A",
     "debt_to_equity": 48.253,
     "revenue": 7011659776,
@@ -16,6 +16,6 @@
     "eps": 10.21,
     "52_week_high": 345.0,
     "52_week_low": 112.0,
-    "dividend_yield": 0.31
+    "dividend_yield": 0.3
   }
 }

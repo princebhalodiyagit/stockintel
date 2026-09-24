@@ -1,14 +1,14 @@
 {
   "ticker": "ASPINWALL",
-  "collected_at": "2026-09-23 06:22:48",
+  "collected_at": "2026-09-24 06:31:35",
   "company_info": {
     "name": "Aspinwall and Company Limited",
     "sector": "Consumer Defensive",
     "industry": "Farm Products",
-    "market_cap": 2009299968,
-    "current_price": 257.0,
-    "pe_ratio": 12.779711,
-    "pb_ratio": 1.0001478,
+    "market_cap": 2019072896,
+    "current_price": 258.25,
+    "pe_ratio": 12.841869,
+    "pb_ratio": 1.0050124,
     "roe": "N/A",
     "debt_to_equity": 39.552,
     "revenue": 4403299840,
@@ -16,6 +16,6 @@
     "eps": 20.11,
     "52_week_high": 299.8,
     "52_week_low": 200.25,
-    "dividend_yield": 2.61
+    "dividend_yield": 2.58
   }
 }

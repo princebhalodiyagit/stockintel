@@ -1,7 +1,7 @@
 {
   "ticker": "GOLDIAM",
   "company": "Goldiam International Limited",
-  "collected_at": "2026-09-23 06:33:02",
+  "collected_at": "2026-09-24 06:41:40",
   "directors": [
     {
       "name": "Mr. Rashesh Manharbhai Bhansali",
@@ -29,13 +29,6 @@
       "role": "Company Secretary & Compliance Officer",
       "age": 37,
       "year_born": 1988,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Abhinav  Kumar",
-      "role": "President of Retail Business",
-      "age": 47,
-      "year_born": 1978,
       "total_pay": "N/A"
     },
     {
@@ -71,6 +64,13 @@
       "role": "Group Manager",
       "age": 42,
       "year_born": 1983,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mohit  Shekatkar",
+      "role": "General Manager",
+      "age": 45,
+      "year_born": 1980,
       "total_pay": "N/A"
     }
   ]

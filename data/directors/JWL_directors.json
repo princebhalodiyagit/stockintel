@@ -1,7 +1,7 @@
 {
   "ticker": "JWL",
   "company": "Jupiter Wagons Limited",
-  "collected_at": "2026-09-23 06:38:32",
+  "collected_at": "2026-09-24 06:47:04",
   "directors": [
     {
       "name": "Mr. Abhishek  Jaiswal",
@@ -32,20 +32,6 @@
       "total_pay": 60552000
     },
     {
-      "name": "Mr. Vikash  Lohia",
-      "role": "Deputy MD & Whole Time Director",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 23648000
-    },
-    {
-      "name": "Mr. Swapan Kumar Choudhury",
-      "role": "Whole Time Director & SVP - Wagons",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 5051000
-    },
-    {
       "name": "Mr. Vinod Kumar Agarwal",
       "role": "Chief Financial Officer",
       "age": "N/A",
@@ -72,6 +58,20 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 2156000
+    },
+    {
+      "name": "Mr. Ajay Kumar Sinha",
+      "role": "Senior Vice President",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "-  Deepesh",
+      "role": "Assistant Company Secretary",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }
