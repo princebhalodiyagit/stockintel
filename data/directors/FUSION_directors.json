@@ -1,7 +1,7 @@
 {
   "ticker": "FUSION",
   "company": "Fusion Finance Limited",
-  "collected_at": "2026-09-24 06:40:17",
+  "collected_at": "2026-09-25 06:34:44",
   "directors": [
     {
       "name": "Mr. Sanjay  Garyali",
@@ -53,13 +53,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Susheel Kumar Menon",
-      "role": "Chief Information Officer & Interim CISO",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Deepak  Madaan",
       "role": "Vice President of Legal",
       "age": 37,
@@ -71,6 +64,13 @@
       "role": "Chief Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Satish  Mani",
+      "role": "Chief Vigilance Officer & Interim Head of Internal Audit",
+      "age": 52,
+      "year_born": 1973,
       "total_pay": "N/A"
     }
   ]

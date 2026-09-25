@@ -1,14 +1,14 @@
 {
   "ticker": "ELECON",
-  "collected_at": "2026-09-24 06:38:43",
+  "collected_at": "2026-09-25 06:33:14",
   "company_info": {
     "name": "Elecon Engineering Company Limited",
     "sector": "Industrials",
     "industry": "Specialty Industrial Machinery",
-    "market_cap": 103784972288,
-    "current_price": 462.5,
-    "pe_ratio": 44.04762,
-    "pb_ratio": 4.5009537,
+    "market_cap": 103358611456,
+    "current_price": 460.6,
+    "pe_ratio": 43.86667,
+    "pb_ratio": 4.4824634,
     "roe": "N/A",
     "debt_to_equity": 11.824,
     "revenue": 23960399872,
@@ -16,6 +16,6 @@
     "eps": 10.5,
     "52_week_high": 626.0,
     "52_week_low": 352.0,
-    "dividend_yield": 0.48
+    "dividend_yield": 0.43
   }
 }

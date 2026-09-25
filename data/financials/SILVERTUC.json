@@ -1,14 +1,14 @@
 {
   "ticker": "SILVERTUC",
-  "collected_at": "2026-09-24 07:01:34",
+  "collected_at": "2026-09-25 06:54:58",
   "company_info": {
     "name": "Silver Touch Technologies Limited",
     "sector": "Technology",
     "industry": "Information Technology Services",
-    "market_cap": 19034181632,
-    "current_price": 150.1,
-    "pe_ratio": 5.2099967,
-    "pb_ratio": 11.2451315,
+    "market_cap": 18514259968,
+    "current_price": 146.0,
+    "pe_ratio": 5.067685,
+    "pb_ratio": 10.937968,
     "roe": "N/A",
     "debt_to_equity": 19.451,
     "revenue": 3559653120,
@@ -16,6 +16,6 @@
     "eps": 28.81,
     "52_week_high": 1117.45,
     "52_week_low": 100.5,
-    "dividend_yield": 0.06
+    "dividend_yield": 0.07
   }
 }

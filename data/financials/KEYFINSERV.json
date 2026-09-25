@@ -1,14 +1,14 @@
 {
   "ticker": "KEYFINSERV",
-  "collected_at": "2026-09-24 06:47:39",
+  "collected_at": "2026-09-25 06:41:52",
   "company_info": {
     "name": "Keynote Financial Services Limited",
     "sector": "Financial Services",
     "industry": "Capital Markets",
-    "market_cap": 1335992832,
-    "current_price": 240.0,
-    "pe_ratio": 23.529411,
-    "pb_ratio": 0.9241539,
+    "market_cap": 1274759936,
+    "current_price": 229.0,
+    "pe_ratio": 22.450981,
+    "pb_ratio": 0.8817969,
     "roe": "N/A",
     "debt_to_equity": 2.866,
     "revenue": 324472000,
@@ -16,6 +16,6 @@
     "eps": 10.2,
     "52_week_high": 382.1,
     "52_week_low": 220.0,
-    "dividend_yield": 0.42
+    "dividend_yield": 0.41
   }
 }

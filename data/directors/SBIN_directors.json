@@ -1,7 +1,7 @@
 {
   "ticker": "SBIN",
   "company": "State Bank of India",
-  "collected_at": "2026-09-24 06:59:54",
+  "collected_at": "2026-09-25 06:53:39",
   "directors": [
     {
       "name": "Mr. Rana Ashutosh Kumar Singh",
@@ -53,13 +53,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Sandeep  Tewari",
-      "role": "Managing Director Corporate Banking & Subsidiaries",
-      "age": 63,
-      "year_born": 1962,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Hemant  Kumar",
       "role": "Chief General Manager of Centralised Collection & Recovery Unit",
       "age": "N/A",
@@ -71,6 +64,13 @@
       "role": "Deputy MD  & Group Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Poludasu Kishore Kumar",
+      "role": "Deputy Managing Director of International Banking Group",
+      "age": 58,
+      "year_born": 1967,
       "total_pay": "N/A"
     }
   ]

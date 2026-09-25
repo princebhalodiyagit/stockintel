@@ -1,7 +1,7 @@
 {
   "ticker": "HLEGLAS",
   "company": "HLE Glascoat Limited",
-  "collected_at": "2026-09-24 06:43:38",
+  "collected_at": "2026-09-25 06:37:56",
   "directors": [
     {
       "name": "Mr. Himanshu Khushalbhai Patel",
@@ -23,20 +23,6 @@
       "age": 48,
       "year_born": 1977,
       "total_pay": 7630000
-    },
-    {
-      "name": "Mr. Naveen  Kandpal",
-      "role": "Chief Financial Officer",
-      "age": 46,
-      "year_born": 1979,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Kiran  Sudhakar Kulkarni",
-      "role": "Vice President of Operations",
-      "age": 56,
-      "year_born": 1969,
-      "total_pay": "N/A"
     },
     {
       "name": "Mr. Achal S. Thakkar C.S.",
@@ -71,6 +57,20 @@
       "role": "General Manager of Human Resources",
       "age": 54,
       "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Vaibhav  Gokhale",
+      "role": "Vice President of Sales & Marketing - South",
+      "age": 44,
+      "year_born": 1981,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajesh  Lad",
+      "role": "Vice President of Product Excellence",
+      "age": 59,
+      "year_born": 1966,
       "total_pay": "N/A"
     }
   ]

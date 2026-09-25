@@ -1,36 +1,8 @@
 {
   "ticker": "EMCURE",
   "company": "Emcure Pharmaceuticals Limited",
-  "collected_at": "2026-09-24 06:38:56",
+  "collected_at": "2026-09-25 06:33:26",
   "directors": [
-    {
-      "name": "Mr. Samit Satish Mehta",
-      "role": "President of Operations & Whole-Time Director",
-      "age": 43,
-      "year_born": 1982,
-      "total_pay": 35140000
-    },
-    {
-      "name": "Dr. Mukund Keshao Gurjar",
-      "role": "Chief Scientific Officer & Whole-Time Director",
-      "age": 73,
-      "year_born": 1952,
-      "total_pay": 65310000
-    },
-    {
-      "name": "Mr. Sunil Rajanikant Mehta",
-      "role": "Executive Director of Projects & Whole-Time Director",
-      "age": 62,
-      "year_born": 1963,
-      "total_pay": 50780000
-    },
-    {
-      "name": "Ms. Namita Vikas Thapar",
-      "role": "Executive Director of India Business & Whole-Time Director",
-      "age": 48,
-      "year_born": 1977,
-      "total_pay": 49790000
-    },
     {
       "name": "Mr. Tajuddin Sabir Shaikh",
       "role": "Chief Financial Officer",
@@ -71,6 +43,34 @@
       "role": "President of Emerging Markets",
       "age": 58,
       "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Deepak  Gondaliya",
+      "role": "President of Technical Operations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. R.S.  Vasan",
+      "role": "President of India Business",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Brijendra  Singh",
+      "role": "Executive Vice-President",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Piyush  Nahar",
+      "role": "Executive Vice President of Corporate Strategy & Development",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

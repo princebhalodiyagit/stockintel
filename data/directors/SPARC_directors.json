@@ -1,15 +1,8 @@
 {
   "ticker": "SPARC",
   "company": "Sun Pharma Advanced Research Company Limited",
-  "collected_at": "2026-09-24 07:02:21",
+  "collected_at": "2026-09-25 06:55:42",
   "directors": [
-    {
-      "name": "Mr. Anilkumar  Raghavan",
-      "role": "Chief Executive Officer",
-      "age": 57,
-      "year_born": 1968,
-      "total_pay": "N/A"
-    },
     {
       "name": "Mr. Anup M. Rathi",
       "role": "Chief Financial Officer",
@@ -69,6 +62,13 @@
     {
       "name": "Dr. Venkata P. Palle",
       "role": "Executive VP of Small Molecule Therapeutics",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mudgal  Kothekar",
+      "role": "Head of Immunology Programs",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

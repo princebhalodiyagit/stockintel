@@ -1,14 +1,14 @@
 {
   "ticker": "STARPAPER",
-  "collected_at": "2026-09-24 07:02:47",
+  "collected_at": "2026-09-25 06:56:07",
   "company_info": {
     "name": "Star Paper Mills Limited",
     "sector": "Basic Materials",
     "industry": "Paper & Paper Products",
-    "market_cap": 2438721280,
-    "current_price": 155.25,
-    "pe_ratio": 7.8329973,
-    "pb_ratio": 0.34106037,
+    "market_cap": 2420387072,
+    "current_price": 155.07,
+    "pe_ratio": 7.823916,
+    "pb_ratio": 0.34066495,
     "roe": "N/A",
     "debt_to_equity": 0.608,
     "revenue": 4163351040,
@@ -16,6 +16,6 @@
     "eps": 19.82,
     "52_week_high": 177.8,
     "52_week_low": 119.05,
-    "dividend_yield": 1.59
+    "dividend_yield": 1.6
   }
 }

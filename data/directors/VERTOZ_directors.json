@@ -1,15 +1,8 @@
 {
   "ticker": "VERTOZ",
   "company": "Vertoz Limited",
-  "collected_at": "2026-09-24 07:07:13",
+  "collected_at": "2026-09-25 07:00:24",
   "directors": [
-    {
-      "name": "Anand  Dixit",
-      "role": "Head of Technology",
-      "age": 41,
-      "year_born": 1984,
-      "total_pay": "N/A"
-    },
     {
       "name": "Mr. Kishore M. Naidu",
       "role": "Chief Revenue Officer",
@@ -25,22 +18,8 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Sonia  Coutinho",
-      "role": "Business Head of Strategic Initiatives",
-      "age": 42,
-      "year_born": 1983,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Shashank  Verma",
       "role": "Sales Head of North India",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ms. Sudha  Wadhwa",
-      "role": "National Head of Business Growth",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
@@ -71,6 +50,27 @@
       "role": "Business Head of DOOH",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vijay  Shinde",
+      "role": "Business Head of India",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mandar  Kotkar",
+      "role": "Business Head",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Gaurav  Modi",
+      "role": "Director of Business Development",
+      "age": 39,
+      "year_born": 1986,
       "total_pay": "N/A"
     }
   ]

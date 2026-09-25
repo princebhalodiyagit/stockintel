@@ -1,14 +1,14 @@
 {
   "ticker": "SARLAPOLY",
-  "collected_at": "2026-09-24 06:59:41",
+  "collected_at": "2026-09-25 06:53:26",
   "company_info": {
     "name": "Sarla Performance Fibers Limited",
     "sector": "Consumer Cyclical",
     "industry": "Textile Manufacturing",
-    "market_cap": 7914523648,
-    "current_price": 99.55,
-    "pe_ratio": 211.80852,
-    "pb_ratio": 1.9044249,
+    "market_cap": 7949505024,
+    "current_price": 99.99,
+    "pe_ratio": 212.74467,
+    "pb_ratio": 1.9128422,
     "roe": "N/A",
     "debt_to_equity": 39.891,
     "revenue": 4121027072,
@@ -16,6 +16,6 @@
     "eps": 0.47,
     "52_week_high": 111.0,
     "52_week_low": 68.4,
-    "dividend_yield": 2.01
+    "dividend_yield": 2.0
   }
 }
