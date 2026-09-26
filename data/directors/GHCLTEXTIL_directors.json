@@ -1,20 +1,13 @@
 {
   "ticker": "GHCLTEXTIL",
   "company": "GHCL Textiles Limited",
-  "collected_at": "2026-09-25 06:35:18",
+  "collected_at": "2026-09-26 06:35:16",
   "directors": [
     {
       "name": "Mr. Marshal Rajenderakumar Sonavane",
       "role": "Chief Executive Officer",
       "age": 37,
       "year_born": 1988,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. N.  Rajagopal",
-      "role": "Head of Technical",
-      "age": 59,
-      "year_born": 1966,
       "total_pay": "N/A"
     },
     {
@@ -71,6 +64,13 @@
       "role": "Head of Industrial Relations",
       "age": 52,
       "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. V.R. Venkata Narayanan",
+      "role": "Head of Stores & Purchase (Materials)",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

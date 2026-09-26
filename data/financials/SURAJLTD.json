@@ -1,14 +1,14 @@
 {
   "ticker": "SURAJLTD",
-  "collected_at": "2026-09-25 06:56:54",
+  "collected_at": "2026-09-26 06:55:03",
   "company_info": {
     "name": "Suraj Limited",
     "sector": "Basic Materials",
     "industry": "Steel",
-    "market_cap": 3682002176,
-    "current_price": 200.5,
-    "pe_ratio": 44.260483,
-    "pb_ratio": 2.6728344,
+    "market_cap": 3637561088,
+    "current_price": 198.08,
+    "pe_ratio": 43.72627,
+    "pb_ratio": 2.6405737,
     "roe": "N/A",
     "debt_to_equity": 43.774,
     "revenue": 1945351936,
@@ -16,6 +16,6 @@
     "eps": 4.53,
     "52_week_high": 348.65,
     "52_week_low": 190.3,
-    "dividend_yield": 1.52
+    "dividend_yield": 1.5
   }
 }

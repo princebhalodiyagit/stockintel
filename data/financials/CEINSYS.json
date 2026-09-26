@@ -1,14 +1,14 @@
 {
   "ticker": "CEINSYS",
-  "collected_at": "2026-09-25 06:29:51",
+  "collected_at": "2026-09-26 06:30:13",
   "company_info": {
     "name": "Ceinsys Tech Limited",
     "sector": "Industrials",
     "industry": "Engineering & Construction",
-    "market_cap": 14551673856,
-    "current_price": 695.0,
-    "pe_ratio": 10.484236,
-    "pb_ratio": 1.8916557,
+    "market_cap": 14393594880,
+    "current_price": 687.45,
+    "pe_ratio": 10.370342,
+    "pb_ratio": 1.871106,
     "roe": "N/A",
     "debt_to_equity": 8.43,
     "revenue": 6618899968,
@@ -16,6 +16,6 @@
     "eps": 66.29,
     "52_week_high": 1249.9,
     "52_week_low": 665.0,
-    "dividend_yield": 0.49
+    "dividend_yield": 0.5
   }
 }

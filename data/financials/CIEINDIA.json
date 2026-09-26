@@ -1,14 +1,14 @@
 {
   "ticker": "CIEINDIA",
-  "collected_at": "2026-09-25 06:30:20",
+  "collected_at": "2026-09-26 06:30:41",
   "company_info": {
     "name": "CIE Automotive India Limited",
     "sector": "Consumer Cyclical",
     "industry": "Auto Parts",
-    "market_cap": 146035556352,
-    "current_price": 384.95,
-    "pe_ratio": 16.290733,
-    "pb_ratio": 1.8860761,
+    "market_cap": 148254801920,
+    "current_price": 390.8,
+    "pe_ratio": 16.5383,
+    "pb_ratio": 1.9147383,
     "roe": 0.12222,
     "debt_to_equity": 6.63,
     "revenue": 99973447680,
@@ -16,6 +16,6 @@
     "eps": 23.63,
     "52_week_high": 526.0,
     "52_week_low": 366.9,
-    "dividend_yield": 1.82
+    "dividend_yield": 1.8
   }
 }

@@ -1,14 +1,14 @@
 {
   "ticker": "GRPLTD",
-  "collected_at": "2026-09-25 06:36:32",
+  "collected_at": "2026-09-26 06:36:25",
   "company_info": {
     "name": "GRP Limited",
     "sector": "Consumer Cyclical",
     "industry": "Auto Parts",
-    "market_cap": 10666663936,
-    "current_price": 2000.0,
-    "pe_ratio": 188.50142,
-    "pb_ratio": 5.9803605,
+    "market_cap": 10661330944,
+    "current_price": 1999.0,
+    "pe_ratio": 188.40717,
+    "pb_ratio": 5.9773703,
     "roe": "N/A",
     "debt_to_equity": 116.333,
     "revenue": 5684118016,
@@ -16,6 +16,6 @@
     "eps": 10.61,
     "52_week_high": 2300.1,
     "52_week_low": 1500.0,
-    "dividend_yield": 0.17
+    "dividend_yield": 0.18
   }
 }

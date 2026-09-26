@@ -1,15 +1,8 @@
 {
   "ticker": "GOODLUCK",
   "company": "Goodluck India Limited",
-  "collected_at": "2026-09-25 06:36:05",
+  "collected_at": "2026-09-26 06:36:00",
   "directors": [
-    {
-      "name": "Mr. Mahesh Chandra Garg",
-      "role": "Executive Chairman",
-      "age": 78,
-      "year_born": 1947,
-      "total_pay": 18339600
-    },
     {
       "name": "Mr. Ramesh Chandra Garg",
       "role": "Whole Time Director",
@@ -57,20 +50,6 @@
       "role": "President",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Harsh V. Bhardwaj",
-      "role": "President",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Rajat  Garg",
-      "role": "Senior Management Executive",
-      "age": 38,
-      "year_born": 1987,
       "total_pay": "N/A"
     }
   ]

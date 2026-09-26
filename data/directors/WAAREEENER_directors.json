@@ -1,15 +1,8 @@
 {
   "ticker": "WAAREEENER",
   "company": "Waaree Energies Limited",
-  "collected_at": "2026-09-25 07:01:05",
+  "collected_at": "2026-09-26 06:58:56",
   "directors": [
-    {
-      "name": "Mr. Hitesh Chimanlal Doshi",
-      "role": "MD & Chairman",
-      "age": 58,
-      "year_born": 1967,
-      "total_pay": 98800000
-    },
     {
       "name": "Dr. Jignesh Devchandbhai Rathod",
       "role": "CEO & Whole-Time Director",
@@ -71,6 +64,13 @@
       "role": "Chief Legal Officer",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sunil Nandkishor Rathi",
+      "role": "Director of Sales",
+      "age": 55,
+      "year_born": 1970,
       "total_pay": "N/A"
     }
   ]

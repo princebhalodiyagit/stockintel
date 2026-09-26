@@ -1,14 +1,14 @@
 {
   "ticker": "ARSSBL",
-  "collected_at": "2026-09-25 06:26:01",
+  "collected_at": "2026-09-26 06:26:37",
   "company_info": {
     "name": "Anand Rathi Share and Stock Brokers Limited",
     "sector": "Financial Services",
     "industry": "Financial Conglomerates",
-    "market_cap": 31293548544,
-    "current_price": 496.2,
-    "pe_ratio": 21.214195,
-    "pb_ratio": 2.3087018,
+    "market_cap": 31337693184,
+    "current_price": 496.9,
+    "pe_ratio": 21.244122,
+    "pb_ratio": 2.3119586,
     "roe": "N/A",
     "debt_to_equity": 63.43,
     "revenue": 8021949952,
@@ -16,6 +16,6 @@
     "eps": 23.39,
     "52_week_high": 794.85,
     "52_week_low": 416.0,
-    "dividend_yield": 0.98
+    "dividend_yield": 1.01
   }
 }
