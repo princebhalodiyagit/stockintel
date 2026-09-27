@@ -1,7 +1,7 @@
 {
   "ticker": "ISGEC",
   "company": "Isgec Heavy Engineering Limited",
-  "collected_at": "2026-09-26 06:39:38",
+  "collected_at": "2026-09-27 07:09:53",
   "directors": [
     {
       "name": "Mr. Sachin  Saluja",
@@ -39,13 +39,6 @@
       "total_pay": 8831000
     },
     {
-      "name": "Ms. Radhika  Arora",
-      "role": "Chief Human Resources Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Ravi  Jaidka",
       "role": "Executive Director of ISGEC Works & Unit Head of ISGEC",
       "age": 78,
@@ -71,6 +64,13 @@
       "role": "Chief Executive of Industrial & Green Energy Boilers",
       "age": 64,
       "year_born": 1961,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "K.  Vishwanathan",
+      "role": "Head of Engineering - Uitlity Boilers",
+      "age": 67,
+      "year_born": 1958,
       "total_pay": "N/A"
     }
   ]
