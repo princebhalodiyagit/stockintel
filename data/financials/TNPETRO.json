@@ -1,14 +1,14 @@
 {
   "ticker": "TNPETRO",
-  "collected_at": "2026-09-29 07:53:11",
+  "collected_at": "2026-09-30 07:38:27",
   "company_info": {
     "name": "Tamilnadu Petroproducts Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals",
-    "market_cap": 11382291456,
-    "current_price": 126.51,
-    "pe_ratio": 8.001898,
-    "pb_ratio": 1.1174315,
+    "market_cap": 11602721792,
+    "current_price": 128.96,
+    "pe_ratio": 8.156863,
+    "pb_ratio": 1.1390718,
     "roe": "N/A",
     "debt_to_equity": 45.668,
     "revenue": 17832800256,
@@ -16,6 +16,6 @@
     "eps": 15.81,
     "52_week_high": 146.99,
     "52_week_low": 78.67,
-    "dividend_yield": 1.13
+    "dividend_yield": 1.2
   }
 }

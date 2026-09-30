@@ -1,14 +1,14 @@
 {
   "ticker": "MBEL",
-  "collected_at": "2026-09-29 07:38:36",
+  "collected_at": "2026-09-30 07:25:57",
   "company_info": {
     "name": "M & B Engineering Limited",
     "sector": "Industrials",
     "industry": "Engineering & Construction",
-    "market_cap": 14421649408,
-    "current_price": 252.3,
-    "pe_ratio": 14.376069,
-    "pb_ratio": 2.1779852,
+    "market_cap": 14475952128,
+    "current_price": 253.25,
+    "pe_ratio": 14.4302,
+    "pb_ratio": 2.186186,
     "roe": "N/A",
     "debt_to_equity": 12.711,
     "revenue": 13131687936,
@@ -16,6 +16,6 @@
     "eps": 17.55,
     "52_week_high": 535.9,
     "52_week_low": 223.05,
-    "dividend_yield": 0.39
+    "dividend_yield": 0.4
   }
 }

@@ -1,7 +1,7 @@
 {
   "ticker": "HIRECT",
   "company": "Hind Rectifiers Limited",
-  "collected_at": "2026-09-29 07:31:10",
+  "collected_at": "2026-09-30 07:19:34",
   "directors": [
     {
       "name": "Mr. Suramya Saurabh Nevatia",
@@ -27,13 +27,6 @@
     {
       "name": "Mr. B. Brahmananda Reddy",
       "role": "Chief Technology Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Preeti  Sharma",
-      "role": "Head Legal",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
@@ -71,6 +64,13 @@
       "role": "Global Chief Executive Officer",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Chidambaram  Balakrishnan",
+      "role": "Chief Global Growth Officer",
+      "age": 51,
+      "year_born": 1974,
       "total_pay": "N/A"
     }
   ]

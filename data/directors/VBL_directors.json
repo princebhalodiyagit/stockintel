@@ -1,7 +1,7 @@
 {
   "ticker": "VBL",
   "company": "Varun Beverages Limited",
-  "collected_at": "2026-09-29 07:54:45",
+  "collected_at": "2026-09-30 07:39:49",
   "directors": [
     {
       "name": "Mr. Varun Ravi Kant Jaipuria",
@@ -53,13 +53,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Manmohan Rupal Paul",
-      "role": "Chief Operating Officer of Sales",
-      "age": 50,
-      "year_born": 1975,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Sarabjeet Singh Gujral",
       "role": "Chief Human Resources Officer",
       "age": "N/A",
@@ -71,6 +64,13 @@
       "role": "COO of International & Executive Director",
       "age": 62,
       "year_born": 1963,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kamal  Karnatak M.B.A.",
+      "role": "Senior Vice President",
+      "age": 52,
+      "year_born": 1973,
       "total_pay": "N/A"
     }
   ]

@@ -1,14 +1,14 @@
 {
   "ticker": "IOC",
-  "collected_at": "2026-09-29 07:33:12",
+  "collected_at": "2026-09-30 07:21:18",
   "company_info": {
     "name": "Indian Oil Corporation Limited",
     "sector": "Energy",
     "industry": "Oil & Gas Refining & Marketing",
-    "market_cap": 1893658132480,
-    "current_price": 134.12,
-    "pe_ratio": 5.486907,
-    "pb_ratio": 0.84116375,
+    "market_cap": "N/A",
+    "current_price": 134.69,
+    "pe_ratio": 5.5110474,
+    "pb_ratio": 0.8448646,
     "roe": "N/A",
     "debt_to_equity": 58.446,
     "revenue": 8584820686848,
@@ -16,6 +16,6 @@
     "eps": 24.44,
     "52_week_high": 188.96,
     "52_week_low": 130.22,
-    "dividend_yield": 6.08
+    "dividend_yield": 6.19
   }
 }

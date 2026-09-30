@@ -1,14 +1,14 @@
 {
   "ticker": "SKMEGGPROD",
-  "collected_at": "2026-09-29 07:49:26",
+  "collected_at": "2026-09-30 07:35:14",
   "company_info": {
     "name": "SKM Egg Products Export (India) Limited",
     "sector": "Consumer Defensive",
     "industry": "Packaged Foods",
-    "market_cap": 11562684416,
-    "current_price": 219.3,
-    "pe_ratio": 10.373699,
-    "pb_ratio": 2.9191737,
+    "market_cap": "N/A",
+    "current_price": 216.2,
+    "pe_ratio": 10.227057,
+    "pb_ratio": 2.8779085,
     "roe": "N/A",
     "debt_to_equity": 35.857,
     "revenue": 7765400064,
@@ -16,6 +16,6 @@
     "eps": 21.14,
     "52_week_high": 372.0,
     "52_week_low": 143.1,
-    "dividend_yield": 0.57
+    "dividend_yield": 0.59
   }
 }
