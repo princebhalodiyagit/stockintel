@@ -1,14 +1,14 @@
 {
   "ticker": "SIKA",
-  "collected_at": "2026-09-30 07:34:54",
+  "collected_at": "2026-10-01 08:03:36",
   "company_info": {
     "name": "Sika Interplant Systems Limited",
     "sector": "Industrials",
     "industry": "Aerospace & Defense",
     "market_cap": "N/A",
-    "current_price": 1029.4,
-    "pe_ratio": 63.11466,
-    "pb_ratio": 13.321944,
+    "current_price": 1022.0,
+    "pe_ratio": 62.660946,
+    "pb_ratio": 13.226177,
     "roe": 0.23132,
     "debt_to_equity": 2.099,
     "revenue": 1860770944,
@@ -16,6 +16,6 @@
     "eps": 16.31,
     "52_week_high": 1111.0,
     "52_week_low": 962.5,
-    "dividend_yield": 0.34
+    "dividend_yield": 0.35
   }
 }

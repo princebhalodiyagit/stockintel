@@ -1,14 +1,14 @@
 {
   "ticker": "AMNPLST",
-  "collected_at": "2026-09-30 07:07:20",
+  "collected_at": "2026-10-01 07:32:46",
   "company_info": {
     "name": "Amines & Plasticizers Limited",
     "sector": "Basic Materials",
     "industry": "Chemicals",
-    "market_cap": 9460688896,
-    "current_price": 171.95,
-    "pe_ratio": 24.529243,
-    "pb_ratio": 3.237498,
+    "market_cap": 9078299648,
+    "current_price": 165.0,
+    "pe_ratio": 23.537802,
+    "pb_ratio": 3.1066425,
     "roe": "N/A",
     "debt_to_equity": 9.312,
     "revenue": 5812651008,
@@ -16,6 +16,6 @@
     "eps": 7.01,
     "52_week_high": 250.0,
     "52_week_low": 127.0,
-    "dividend_yield": 0.3
+    "dividend_yield": 0.29
   }
 }

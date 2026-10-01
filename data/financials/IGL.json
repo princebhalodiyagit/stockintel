@@ -1,14 +1,14 @@
 {
   "ticker": "IGL",
-  "collected_at": "2026-09-30 07:20:18",
+  "collected_at": "2026-10-01 07:46:47",
   "company_info": {
     "name": "Indraprastha Gas Limited",
     "sector": "Utilities",
     "industry": "Utilities - Regulated Gas",
-    "market_cap": 202538221568,
-    "current_price": 144.67,
-    "pe_ratio": 15.845564,
-    "pb_ratio": 1.7591411,
+    "market_cap": 196980211712,
+    "current_price": 140.7,
+    "pe_ratio": 15.410733,
+    "pb_ratio": 1.710867,
     "roe": "N/A",
     "debt_to_equity": 0.848,
     "revenue": 168403206144,
@@ -16,6 +16,6 @@
     "eps": 9.13,
     "52_week_high": 223.5,
     "52_week_low": 139.2,
-    "dividend_yield": 2.09
+    "dividend_yield": 2.06
   }
 }

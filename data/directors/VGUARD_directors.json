@@ -1,15 +1,8 @@
 {
   "ticker": "VGUARD",
   "company": "V-Guard Industries Limited",
-  "collected_at": "2026-09-30 07:40:04",
+  "collected_at": "2026-10-01 08:09:25",
   "directors": [
-    {
-      "name": "Mr. Mithun Kochouseph Chittilappilly",
-      "role": "MD & Executive Director",
-      "age": 45,
-      "year_born": 1980,
-      "total_pay": 106756000
-    },
     {
       "name": "Mr. Sudarshan  Kasturi",
       "role": "Senior VP & CFO",
@@ -18,25 +11,11 @@
       "total_pay": 35200000
     },
     {
-      "name": "Mr. Ramachandran  Venkataraman",
-      "role": "COO, Business Responsibility Head & Whole Time Director",
-      "age": 62,
-      "year_born": 1963,
-      "total_pay": 219283000
-    },
-    {
       "name": "Mr. Vikas Kumar Tak",
       "role": "Company Secretary & Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 7000000
-    },
-    {
-      "name": "Mr. Antony  Sebastian K.",
-      "role": "Executive Director",
-      "age": 65,
-      "year_born": 1960,
-      "total_pay": 11096000
     },
     {
       "name": "Mr. Saleesh  Sekhar",
@@ -69,6 +48,27 @@
     {
       "name": "Mr. Roopak  Ahluwalia",
       "role": "Sr GM & Head of Legal",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Nandagopal  Nair",
+      "role": "VP and Head of Brand & Communications",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Deepak  Augustine",
+      "role": "Senior Vice President of Marketing",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Vikram  Singh",
+      "role": "Sr General Manager & Head Sales, Marketing",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

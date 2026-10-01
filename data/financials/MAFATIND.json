@@ -1,14 +1,14 @@
 {
   "ticker": "MAFATIND",
-  "collected_at": "2026-09-30 07:25:06",
+  "collected_at": "2026-10-01 07:52:19",
   "company_info": {
     "name": "Mafatlal Industries Limited",
     "sector": "Consumer Cyclical",
     "industry": "Textile Manufacturing",
-    "market_cap": 8495459840,
-    "current_price": 117.7,
-    "pe_ratio": 14.406364,
-    "pb_ratio": 1.1008642,
+    "market_cap": 8273870336,
+    "current_price": 114.63,
+    "pe_ratio": 14.0306,
+    "pb_ratio": 1.0721501,
     "roe": "N/A",
     "debt_to_equity": 8.24,
     "revenue": 35734401024,
@@ -16,6 +16,6 @@
     "eps": 8.17,
     "52_week_high": 157.77,
     "52_week_low": 113.4,
-    "dividend_yield": 2.17
+    "dividend_yield": 2.13
   }
 }

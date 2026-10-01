@@ -1,21 +1,21 @@
 {
   "ticker": "BIOCON",
-  "collected_at": "2026-09-30 07:10:51",
+  "collected_at": "2026-10-01 07:36:16",
   "company_info": {
     "name": "Biocon Limited",
     "sector": "Healthcare",
     "industry": "Biotechnology",
-    "market_cap": "N/A",
-    "current_price": 374.7,
-    "pe_ratio": 109.24198,
-    "pb_ratio": 1.7831225,
+    "market_cap": 599456350208,
+    "current_price": 368.15,
+    "pe_ratio": 107.02035,
+    "pb_ratio": 1.7519523,
     "roe": "N/A",
     "debt_to_equity": 42.145,
     "revenue": 173210992640,
     "net_income": 4952999936,
-    "eps": 3.43,
+    "eps": 3.44,
     "52_week_high": 447.15,
-    "52_week_low": 337.05,
-    "dividend_yield": 0.13
+    "52_week_low": 337.7,
+    "dividend_yield": 0.14
   }
 }

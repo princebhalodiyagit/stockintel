@@ -1,7 +1,7 @@
 {
   "ticker": "GILLETTE",
   "company": "Gillette India Limited",
-  "collected_at": "2026-09-30 07:17:15",
+  "collected_at": "2026-10-01 07:43:23",
   "directors": [
     {
       "name": "Mr. Kumar  Venkatasubramanian",
@@ -9,13 +9,6 @@
       "age": 49,
       "year_born": 1976,
       "total_pay": 8808000
-    },
-    {
-      "name": "Ms. Flavia Peter Machado",
-      "role": "Company Secretary & Compliance Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
     },
     {
       "name": "Ms. Srividya  Srinivasan",
@@ -71,6 +64,13 @@
       "role": "Head of Human Resources & Additional Executive Director",
       "age": 40,
       "year_born": 1985,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sachan  Saini",
+      "role": "Government Relations Head",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]
