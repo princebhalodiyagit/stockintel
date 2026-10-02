@@ -1,14 +1,14 @@
 {
   "ticker": "STARTECK",
-  "collected_at": "2026-10-01 08:04:56",
+  "collected_at": "2026-10-02 07:49:28",
   "company_info": {
     "name": "Starteck Finance Limited",
     "sector": "Financial Services",
     "industry": "Credit Services",
-    "market_cap": 2913141504,
-    "current_price": 293.95,
-    "pe_ratio": 11.93948,
-    "pb_ratio": 1.1075276,
+    "market_cap": 2883906048,
+    "current_price": 291.0,
+    "pe_ratio": 11.819658,
+    "pb_ratio": 1.0964127,
     "roe": "N/A",
     "debt_to_equity": 133.476,
     "revenue": 323476000,
@@ -16,6 +16,6 @@
     "eps": 24.62,
     "52_week_high": 350.0,
     "52_week_low": 215.1,
-    "dividend_yield": 0.07
+    "dividend_yield": 0.08
   }
 }

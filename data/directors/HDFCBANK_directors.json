@@ -1,7 +1,7 @@
 {
   "ticker": "HDFCBANK",
   "company": "HDFC Bank Limited",
-  "collected_at": "2026-10-01 07:45:25",
+  "collected_at": "2026-10-02 07:32:24",
   "directors": [
     {
       "name": "Mr. Sashidhar  Jagdishan",
@@ -46,20 +46,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Rakesh Kumar Rajput",
-      "role": "Chief Compliance Officer",
-      "age": 54,
-      "year_born": 1971,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Sudhir Kumar Jha",
-      "role": "Group Head of Legal & Group General Counsel",
-      "age": 57,
-      "year_born": 1968,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Ms. Madhu  Chhibber",
       "role": "Head of Corporate Communications",
       "age": 56,
@@ -71,6 +57,20 @@
       "role": "Chief Marketing Officer & Group Head",
       "age": 54,
       "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vibhash  Naik",
+      "role": "Group Head & CHRO",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ashish  Parthasarthy",
+      "role": "Head of Branch Banking, Infrastructure, Treasury & Virtual Channels",
+      "age": 57,
+      "year_born": 1968,
       "total_pay": "N/A"
     }
   ]

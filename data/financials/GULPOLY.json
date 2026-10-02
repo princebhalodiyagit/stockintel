@@ -1,14 +1,14 @@
 {
   "ticker": "GULPOLY",
-  "collected_at": "2026-10-01 07:44:55",
+  "collected_at": "2026-10-02 07:31:58",
   "company_info": {
     "name": "Gulshan Polyols Limited",
     "sector": "Basic Materials",
     "industry": "Chemicals",
-    "market_cap": 10054437888,
-    "current_price": 161.69,
-    "pe_ratio": 6.8367867,
-    "pb_ratio": 1.4031693,
+    "market_cap": 10023967744,
+    "current_price": 161.2,
+    "pe_ratio": 6.8160677,
+    "pb_ratio": 1.398917,
     "roe": "N/A",
     "debt_to_equity": 43.497,
     "revenue": 23590617088,
@@ -16,6 +16,6 @@
     "eps": 23.65,
     "52_week_high": 227.63,
     "52_week_low": 121.5,
-    "dividend_yield": 0.91
+    "dividend_yield": 0.9
   }
 }

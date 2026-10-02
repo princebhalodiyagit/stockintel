@@ -1,7 +1,7 @@
 {
   "ticker": "DIXON",
   "company": "Dixon Technologies (India) Limited",
-  "collected_at": "2026-10-01 07:40:16",
+  "collected_at": "2026-10-02 07:27:56",
   "directors": [
     {
       "name": "Mr. Sunil  Vachani",
@@ -16,20 +16,6 @@
       "age": 63,
       "year_born": 1962,
       "total_pay": 70300000
-    },
-    {
-      "name": "Mr. Saurabh  Gupta",
-      "role": "Director of Finance, Director & CFO",
-      "age": 43,
-      "year_born": 1982,
-      "total_pay": 80700000
-    },
-    {
-      "name": "Mr. Ashish  Kumar",
-      "role": "Chief Legal Counsel, Group Company Secretary & Compliance Officer",
-      "age": 45,
-      "year_born": 1980,
-      "total_pay": "N/A"
     },
     {
       "name": "Mr. Prithvi  Vachani",
@@ -69,6 +55,20 @@
     {
       "name": "Mr. Kamlesh Kumar Mishra",
       "role": "President of Mobile Division",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sukhvinder  Kumar",
+      "role": "Chief Executive Officer of Telecommunications",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Amit  Mittal",
+      "role": "Senior Vice President of Lighting Business",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

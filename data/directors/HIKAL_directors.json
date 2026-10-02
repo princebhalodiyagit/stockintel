@@ -1,15 +1,8 @@
 {
   "ticker": "HIKAL",
   "company": "Hikal Limited",
-  "collected_at": "2026-10-01 07:45:45",
+  "collected_at": "2026-10-02 07:32:41",
   "directors": [
-    {
-      "name": "Mr. Jai Vishwanath Hiremath",
-      "role": "Founder & Executive Chairman",
-      "age": 77,
-      "year_born": 1948,
-      "total_pay": 13400000
-    },
     {
       "name": "Mr. Sameer Jai Hiremath",
       "role": "MD & Vice Chairman",
@@ -69,6 +62,13 @@
     {
       "name": "Mansukh Gokalbhai Patel",
       "role": "Head of Sustainability & Corporate EHS",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Parasuram  Chavakula",
+      "role": "Head of Supply Chain Management",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

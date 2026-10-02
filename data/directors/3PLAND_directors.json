@@ -1,6 +1,21 @@
 {
   "ticker": "3PLAND",
   "company": "3P Land Holdings Limited",
-  "collected_at": "2026-10-01 07:30:33",
-  "directors": []
+  "collected_at": "2026-10-02 07:19:30",
+  "directors": [
+    {
+      "name": "Mr. Gautam Nandkishore Jajodia",
+      "role": "Chairman & Wholetime Director",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": 10109235
+    },
+    {
+      "name": "Mr. Jagadish Waman Patil",
+      "role": "CFO, Compliance Officer & Company Secretary",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }
