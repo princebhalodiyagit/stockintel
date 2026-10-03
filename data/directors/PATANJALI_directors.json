@@ -1,7 +1,7 @@
 {
   "ticker": "PATANJALI",
   "company": "Patanjali Foods Limited",
-  "collected_at": "2026-10-02 07:42:57",
+  "collected_at": "2026-10-03 07:17:40",
   "directors": [
     {
       "name": "Mr. Sanjeev Kumar Asthana PGDIT, PGDRM",
@@ -9,6 +9,20 @@
       "age": 61,
       "year_born": 1964,
       "total_pay": 28712000
+    },
+    {
+      "name": "Mr. Kumar  Rajesh",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 14754000
+    },
+    {
+      "name": "Dr. Sanjeev Kumar Khanna",
+      "role": "Chief Operating Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 10363000
     },
     {
       "name": "Mr. Ramji Lal Gupta",
@@ -23,13 +37,6 @@
       "age": 45,
       "year_born": 1980,
       "total_pay": 1
-    },
-    {
-      "name": "Dr. Sanjeev Kumar Khanna",
-      "role": "Chief Operating Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 10363000
     },
     {
       "name": "Mr. Ashutosh Bhailal Rao LLB",
@@ -62,13 +69,6 @@
     {
       "name": "Mr. Pawan  Arora",
       "role": "Business Head of CBD Nutrela",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Rakesh  Sharma",
-      "role": "Senior Vice President",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

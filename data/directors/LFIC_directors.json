@@ -1,7 +1,7 @@
 {
   "ticker": "LFIC",
   "company": "Lakshmi Finance & Industrial Corporation Limited",
-  "collected_at": "2026-10-02 07:37:44",
+  "collected_at": "2026-10-03 07:11:47",
   "directors": [
     {
       "name": "Mr. Kanuri Harishchandra Prasad M.B.A., M.S.",
@@ -11,13 +11,6 @@
       "total_pay": 11045696
     },
     {
-      "name": "Mr. U. Vijaya Kumar",
-      "role": "CFO and Manager of Finance & Accounting",
-      "age": 62,
-      "year_born": 1963,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Ms. Deepa  Gusain",
       "role": "Company Secretary & Compliance Officer",
       "age": 36,
@@ -25,10 +18,17 @@
       "total_pay": "N/A"
     },
     {
-      "name": "V.V.S.R.  Murthy",
+      "name": "Ms. M. Madhavi Latha",
+      "role": "CFO, Manager of Finance & Accounting",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. V.V.S.R.  Murthy",
       "role": "Assistant Manager",
-      "age": 60,
-      "year_born": 1965,
+      "age": 61,
+      "year_born": 1964,
       "total_pay": "N/A"
     }
   ]

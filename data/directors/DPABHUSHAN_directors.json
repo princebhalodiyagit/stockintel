@@ -1,20 +1,13 @@
 {
   "ticker": "DPABHUSHAN",
   "company": "D. P. Abhushan Limited",
-  "collected_at": "2026-10-02 07:28:08",
+  "collected_at": "2026-10-03 07:00:46",
   "directors": [
     {
       "name": "Mr. Santosh Ratanlal Kataria",
       "role": "MD & Chairman",
       "age": 47,
       "year_born": 1978,
-      "total_pay": 6000000
-    },
-    {
-      "name": "Mr. Anil Manoharlal Kataria",
-      "role": "Head of Business Development & Whole Time Director",
-      "age": 55,
-      "year_born": 1970,
       "total_pay": 6000000
     },
     {
@@ -30,6 +23,13 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anil Manoharlal Kataria",
+      "role": "Head of Business Development & Whole Time Director",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": 6000000
     },
     {
       "name": "Mr. Tarun  Vora",

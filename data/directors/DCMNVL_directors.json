@@ -1,7 +1,7 @@
 {
   "ticker": "DCMNVL",
   "company": "DCM Nouvelle Limited",
-  "collected_at": "2026-10-02 07:27:16",
+  "collected_at": "2026-10-03 06:59:47",
   "directors": [
     {
       "name": "Mr. Vivek  Kaushal",
@@ -39,17 +39,17 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. Bir Chand Jataiwal",
+      "role": "Senior General Manager",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Sarvesh  Khanna",
       "role": "Chief Executive Officer of DCMSCL",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Bir Chand Jataiwal",
-      "role": "General Manager",
-      "age": 55,
-      "year_born": 1970,
       "total_pay": "N/A"
     }
   ]

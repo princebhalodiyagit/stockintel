@@ -1,8 +1,15 @@
 {
   "ticker": "ELCIDIN",
   "company": "EL CID Investments Limited",
-  "collected_at": "2026-10-02 07:28:38",
+  "collected_at": "2026-10-03 07:01:20",
   "directors": [
+    {
+      "name": "Ms. Amrita Amar Vakil",
+      "role": "Whole Time Director",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": 2298000
+    },
     {
       "name": "Ms. Shraddha Ramdas Manjrekar",
       "role": "Chief Financial Officer",

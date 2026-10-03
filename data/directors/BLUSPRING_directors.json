@@ -1,7 +1,7 @@
 {
   "ticker": "BLUSPRING",
   "company": "Bluspring Enterprises Limited",
-  "collected_at": "2026-10-02 07:24:42",
+  "collected_at": "2026-10-03 06:56:51",
   "directors": [
     {
       "name": "Mr. Kamal Pal Hoda",
@@ -22,6 +22,20 @@
       "role": "Chief Operating Officer",
       "age": 53,
       "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Prashanth Dinesh Mallya",
+      "role": "Vice President of Legal & Compliance",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Raman  Sapra",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
@@ -46,31 +60,17 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. Amitabh Kanhaiyalal Kundan",
+      "role": "Chief Executive Officer of Integrated Security Services",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Ashish  Kapoor",
       "role": "Chief Executive Officer of Telecom Networks Services",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Jinendra  Jain",
-      "role": "Deputy Chief Financial Officer",
-      "age": 43,
-      "year_born": 1982,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Ishaan  Sarkar",
-      "role": "Chief Business Officer of Food Services",
-      "age": 49,
-      "year_born": 1976,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Jasdeep  Singh",
-      "role": "Chief Operating Officer of IFMS",
-      "age": 50,
-      "year_born": 1975,
       "total_pay": "N/A"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "ticker": "FCL",
   "company": "Fineotex Chemical Limited",
-  "collected_at": "2026-10-02 07:29:32",
+  "collected_at": "2026-10-03 07:02:22",
   "directors": [
     {
       "name": "Mr. Surendrakumar Deviprasad Tibrewala B.Com, LLB",
@@ -23,6 +23,13 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Aarti Mitesh Jhunjhunwala",
+      "role": "Executive Director",
+      "age": 42,
+      "year_born": 1983,
+      "total_pay": 11664000
     },
     {
       "name": "Mr. Arindam  Choudhuri",

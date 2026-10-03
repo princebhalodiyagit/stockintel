@@ -1,7 +1,7 @@
 {
   "ticker": "NAHARPOLY",
   "company": "Nahar Poly Films Limited",
-  "collected_at": "2026-10-02 07:40:39",
+  "collected_at": "2026-10-03 07:15:04",
   "directors": [
     {
       "name": "Mr. Sanjay M. Karandikar",
@@ -40,16 +40,16 @@
     },
     {
       "name": "Mr. Ashok  Gupta",
-      "role": "Vice President Mechanical",
+      "role": "Vice President of Mechanical",
       "age": 61,
       "year_born": 1964,
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Surinder  Singh",
+      "name": "Narendra  Pitale",
       "role": "Vice President of Commercial & Admin",
-      "age": 69,
-      "year_born": 1956,
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
@@ -64,13 +64,6 @@
       "role": "Head of Finance & Commercials",
       "age": 62,
       "year_born": 1963,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Sushil Kumar Singhal",
-      "role": "Vice President of Production",
-      "age": 48,
-      "year_born": 1977,
       "total_pay": "N/A"
     }
   ]

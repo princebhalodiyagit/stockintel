@@ -1,7 +1,7 @@
 {
   "ticker": "MANALIPETC",
   "company": "Manali Petrochemicals Limited",
-  "collected_at": "2026-10-02 07:38:41",
+  "collected_at": "2026-10-03 07:12:51",
   "directors": [
     {
       "name": "Mr. R.  Chandrasekar",
@@ -11,13 +11,6 @@
       "total_pay": 13585000
     },
     {
-      "name": "Ms. Srishti M Bathija",
-      "role": "Chief Financial Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Shivaram  Narayanan",
       "role": "Chief Operating Officer",
       "age": 55,
@@ -25,10 +18,38 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. Gopala Rammohan Sridhar",
+      "role": "Whole Time Director & Head of Plant Operations",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": 6809000
+    },
+    {
+      "name": "Ms. Srishti M Bathija",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Ganesh Sri Vignesh",
       "role": "Company Secretary & Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Sundar  Saimani",
+      "role": "Senior General Manager of Sales & Marketing and R&D",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. R.  Muthu",
+      "role": "DGM of HR",
+      "age": 43,
+      "year_born": 1982,
       "total_pay": "N/A"
     }
   ]

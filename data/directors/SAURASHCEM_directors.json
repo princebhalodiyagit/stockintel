@@ -1,7 +1,7 @@
 {
   "ticker": "SAURASHCEM",
   "company": "Saurashtra Cement Limited",
-  "collected_at": "2026-10-02 07:47:01",
+  "collected_at": "2026-10-03 07:22:15",
   "directors": [
     {
       "name": "Mr. Mohinderpal Singh Gilotra M.D.",
@@ -23,6 +23,41 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 8452000
+    },
+    {
+      "name": "Ms. Sonali  Sanas",
+      "role": "CEO of Paints Division & Chief Legal Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 6053000
+    },
+    {
+      "name": "Ms. Jayashree D. Soni",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Prakash  Kunte",
+      "role": "Director of Human Resources",
+      "age": 67,
+      "year_born": 1958,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Tusher  Majumder",
+      "role": "Head of Human Resource",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Narendra  Singh",
+      "role": "Chief Manufacturing Officer",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": 11065000
     }
   ]
 }

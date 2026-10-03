@@ -1,7 +1,7 @@
 {
   "ticker": "OMNI",
   "company": "Omnitech Engineering Limited",
-  "collected_at": "2026-10-02 07:42:14",
+  "collected_at": "2026-10-03 07:16:51",
   "directors": [
     {
       "name": "Mr. Udaykumar Arunkumar Parekh",
@@ -18,6 +18,13 @@
       "total_pay": 8421600
     },
     {
+      "name": "Mr. T. Akhja Haresh",
+      "role": "Chief Operating Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
       "name": "Ms. Bhoomi Manharbhai Vadhavana",
       "role": "Company Secretary & Compliance Officer",
       "age": "N/A",
@@ -27,13 +34,6 @@
     {
       "name": "Mr. Bhavin Prahalad Acharya",
       "role": "Chief Revenue Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. T. Akhja Haresh",
-      "role": "Chief Operating Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

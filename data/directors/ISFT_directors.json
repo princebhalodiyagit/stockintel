@@ -1,7 +1,7 @@
 {
   "ticker": "ISFT",
   "company": "Intrasoft Technologies Limited",
-  "collected_at": "2026-10-02 07:34:48",
+  "collected_at": "2026-10-03 07:08:23",
   "directors": [
     {
       "name": "Mr. Arvind  Kajaria",
@@ -16,6 +16,34 @@
       "age": 49,
       "year_born": 1976,
       "total_pay": 6761000
+    },
+    {
+      "name": "Mr. Amritanshu  Kajaria",
+      "role": "Manager of Operations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Sajal Kumar Basu",
+      "role": "Technical Head",
+      "age": 43,
+      "year_born": 1982,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Poonam  Luharuka",
+      "role": "Company Secretary and Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Rajat  Kapur",
+      "role": "Managing Director of North India, the UAE & Saudi Arabia",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": "N/A"
     }
   ]
 }

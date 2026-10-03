@@ -1,7 +1,7 @@
 {
   "ticker": "WEBELSOLAR",
   "company": "Websol Energy System Limited",
-  "collected_at": "2026-10-02 07:54:07",
+  "collected_at": "2026-10-03 07:30:12",
   "directors": [
     {
       "name": "Mr. Sohan Lal Agarwal",
@@ -25,15 +25,22 @@
       "total_pay": 300000
     },
     {
-      "name": "Mr. Ravinder  Tanwar",
-      "role": "Chief Operating Officer",
+      "name": "Ms. Sanjana  Khaitan",
+      "role": "Executive Director",
+      "age": 28,
+      "year_born": 1997,
+      "total_pay": 7400000
+    },
+    {
+      "name": "Mr. Modaswar  Hossain",
+      "role": "Senior Manager of Human Resources & Admin",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Modaswar  Hossain",
-      "role": "Senior Manager of Human Resources & Admin",
+      "name": "Mr. Ashok  Purohit",
+      "role": "Company Secretary & Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

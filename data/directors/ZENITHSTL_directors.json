@@ -1,7 +1,7 @@
 {
   "ticker": "ZENITHSTL",
   "company": "Zenith Steel Pipes & Industries Limited",
-  "collected_at": "2026-10-02 07:54:46",
+  "collected_at": "2026-10-03 07:30:56",
   "directors": [
     {
       "name": "Ms. Minal Umesh Pote",
@@ -16,6 +16,20 @@
       "age": 68,
       "year_born": 1957,
       "total_pay": 797025
+    },
+    {
+      "name": "Mr. Uday Anant Sawant",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Santosh Kumar Jain",
+      "role": "General Manager of Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

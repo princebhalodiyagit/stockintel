@@ -1,7 +1,7 @@
 {
   "ticker": "FMNL",
   "company": "Future Market Networks Limited",
-  "collected_at": "2026-10-02 07:29:52",
+  "collected_at": "2026-10-03 07:02:45",
   "directors": [
     {
       "name": "Mr. Shreesh  Misra",
@@ -9,6 +9,13 @@
       "age": 58,
       "year_born": 1967,
       "total_pay": 200000
+    },
+    {
+      "name": "Mr. Akhilesh  Kalra",
+      "role": "Chief Financial Officer",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Anil  Cherian",

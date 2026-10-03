@@ -1,15 +1,8 @@
 {
   "ticker": "NIPPOBATRY",
   "company": "Indo-National Limited",
-  "collected_at": "2026-10-02 07:41:32",
+  "collected_at": "2026-10-03 07:16:03",
   "directors": [
-    {
-      "name": "Mr. Rajendra Prasad Khaitan",
-      "role": "Joint Managing Director",
-      "age": 76,
-      "year_born": 1949,
-      "total_pay": 9053000
-    },
     {
       "name": "Mr. P. Aditya Reddy",
       "role": "Joint MD & Executive Director",
@@ -32,6 +25,13 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. Rajendra Prasad Khaitan",
+      "role": "Joint Managing Director",
+      "age": 76,
+      "year_born": 1949,
+      "total_pay": 9053000
+    },
+    {
       "name": "Mr. S R Aravind Kumar",
       "role": "Chief Financial Officer",
       "age": "N/A",
@@ -39,8 +39,22 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. J.  Srinivasan",
+      "role": "G.M of Finance, Chief Risk Officer, Compliance Officer & Company Secretary",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 3095566
+    },
+    {
       "name": "Mr. Arun  Sriram",
       "role": "Chief Marketing Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Bitra Lakshmi Narayana Prasad",
+      "role": "Chief Manufacturing & Quality Officer and Non-Executive Non-Independent Director",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

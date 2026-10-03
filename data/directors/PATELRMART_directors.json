@@ -1,7 +1,7 @@
 {
   "ticker": "PATELRMART",
   "company": "Patel Retail Limited",
-  "collected_at": "2026-10-02 07:42:59",
+  "collected_at": "2026-10-03 07:17:43",
   "directors": [
     {
       "name": "Mr. Dhanji Raghavji Patel",
@@ -18,6 +18,13 @@
       "total_pay": 3360000
     },
     {
+      "name": "Mr. Hitesh Bhishamlal Sawlani",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 2600198
+    },
+    {
       "name": "Mr. Bharat Haribhai Patel",
       "role": "Chief Operating Officer",
       "age": 41,
@@ -27,8 +34,8 @@
     {
       "name": "Mr. Prasad  Ramesh Khopkar",
       "role": "Company Secretary & Compliance Officer",
-      "age": 41,
-      "year_born": 1984,
+      "age": 42,
+      "year_born": 1983,
       "total_pay": 1657000
     },
     {
@@ -37,13 +44,6 @@
       "age": 69,
       "year_born": 1956,
       "total_pay": "N/A"
-    },
-    {
-      "name": "Hitesh B Sawlani",
-      "role": "Chief Financial Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 2600198
     },
     {
       "name": "Rachana  Sathe",

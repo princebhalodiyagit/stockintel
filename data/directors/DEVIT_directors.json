@@ -1,7 +1,7 @@
 {
   "ticker": "DEVIT",
   "company": "Dev Information Technology Limited",
-  "collected_at": "2026-10-02 07:27:35",
+  "collected_at": "2026-10-03 07:00:08",
   "directors": [
     {
       "name": "Mr. Pranav Niranjanbhai Pandya",
@@ -16,6 +16,13 @@
       "age": 52,
       "year_born": 1973,
       "total_pay": 4046000
+    },
+    {
+      "name": "Mr. Prerak Pradyumna Shah",
+      "role": "Joint CEO & Executive Director",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": 3951000
     },
     {
       "name": "Mr. Harshil Hemant Shah",
@@ -62,13 +69,6 @@
     {
       "name": "Mr. Nilesh  Mandani",
       "role": "Senior Vice President of Sales - Enterprise Applications",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Nilesh  Panchal",
-      "role": "Senior Vice President of Operations - Enterprise Applications",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

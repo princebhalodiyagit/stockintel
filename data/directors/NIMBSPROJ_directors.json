@@ -1,7 +1,7 @@
 {
   "ticker": "NIMBSPROJ",
   "company": "Nimbus Projects Limited",
-  "collected_at": "2026-10-02 07:41:31",
+  "collected_at": "2026-10-03 07:16:02",
   "directors": [
     {
       "name": "Mr. Bipin  Agarwal B.Com (Hons.), FCS",
@@ -9,6 +9,27 @@
       "age": 60,
       "year_born": 1965,
       "total_pay": 6000000
+    },
+    {
+      "name": "Mr. Nitesh Kumar Gupta",
+      "role": "Chief Financial Officer",
+      "age": 43,
+      "year_born": 1982,
+      "total_pay": 252000
+    },
+    {
+      "name": "Ms. Ritika  Aggarwal",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 27,
+      "year_born": 1998,
+      "total_pay": 1200000
+    },
+    {
+      "name": "Mr. Sanjeev  Kumar",
+      "role": "Sr. General Manager of Sales & Marketing",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": "N/A"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "ticker": "EFCIL",
   "company": "EFC (I) Limited",
-  "collected_at": "2026-10-02 07:28:28",
+  "collected_at": "2026-10-03 07:01:09",
   "directors": [
     {
       "name": "Mr. Umesh Kumar Sahay",
@@ -16,6 +16,20 @@
       "age": 48,
       "year_born": 1977,
       "total_pay": 13800000
+    },
+    {
+      "name": "Mr. Uday Tushar Vora",
+      "role": "CFO & Director",
+      "age": 36,
+      "year_born": 1989,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Aman Kumar Gupta",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 31,
+      "year_born": 1994,
+      "total_pay": "N/A"
     }
   ]
 }

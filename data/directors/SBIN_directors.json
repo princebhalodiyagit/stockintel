@@ -1,8 +1,36 @@
 {
   "ticker": "SBIN",
   "company": "State Bank of India",
-  "collected_at": "2026-10-02 07:47:09",
+  "collected_at": "2026-10-03 07:22:24",
   "directors": [
+    {
+      "name": "Mr. Rama Mohan Rao Amara",
+      "role": "Managing Director of Retail Business & Operations and Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 4397892
+    },
+    {
+      "name": "Mr. Rana Ashutosh Kumar Singh",
+      "role": "MD of International Banking, Global Markets & Technology and Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 4352846
+    },
+    {
+      "name": "Mr. Ravi  Ranjan",
+      "role": "Managing Director of Risk, Compliance, & SARG and Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 3207199
+    },
+    {
+      "name": "Mr. Ashwini Kumar Tewari",
+      "role": "MD of Corporate Banking (CAG & CCG) and Subsidiaries and Director",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": 4272892
+    },
     {
       "name": "Mr. Sunil Ramgopal Agrawal",
       "role": "Chief Financial Officer",
@@ -11,43 +39,36 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Sandeep  Bhatnagar",
-      "role": "Chief General Manager of Jaipur, Credit Policy and Procedure Department",
+      "name": "Mr. G. S. Rana",
+      "role": "Deputy MD of Human Resources & CDO",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Satyendra Kumar Singh",
-      "role": "Deputy MD, Chief Credit Officer & Chief Sustainability Officer",
+      "name": "Mr. Hemant  Kumar",
+      "role": "Chief General Manager of Centralised Collection & Recovery Unit",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
-      "name": "Ms. Manju  Sharma",
-      "role": "Chief General Manager of Mumbai Metro",
+      "name": "Ms. Ruma  Dey",
+      "role": "Deputy MD  & Group Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. K V Bangarraju",
-      "role": "Chief General Manager of Thiruvananthapuram",
-      "age": "N/A",
-      "year_born": "N/A",
+      "name": "Mr. Poludasu Kishore Kumar",
+      "role": "Deputy Managing Director of International Banking Group",
+      "age": 58,
+      "year_born": 1967,
       "total_pay": "N/A"
     },
     {
-      "name": "Ms. Bhuvaneshwari  A",
-      "role": "Chief General Manager of REHBU",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Navaduri DSV Nageswara Rao",
-      "role": "Chief General Manager of Operational Process Re- Engineering CC Mumbai",
+      "name": "Satish Rao Nagesh",
+      "role": "Deputy Managing Director of IT of GITC Navi Mumbai",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

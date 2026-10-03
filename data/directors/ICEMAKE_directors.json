@@ -1,7 +1,7 @@
 {
   "ticker": "ICEMAKE",
   "company": "Ice Make Refrigeration Limited",
-  "collected_at": "2026-10-02 07:33:16",
+  "collected_at": "2026-10-03 07:06:38",
   "directors": [
     {
       "name": "Mr. Chandrakant Popatbhai Patel",
@@ -50,6 +50,27 @@
       "role": "HR Head",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Devarsh Chandrakantbhai Patel",
+      "role": "Divisional Head of Commercial Refrigeration Division",
+      "age": 25,
+      "year_born": 2000,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Deep Rajendrabhai Patel",
+      "role": "Product Head of Continuous PU/PIR Sandwich Panels",
+      "age": 26,
+      "year_born": 1999,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ketul Vipulbhai Patel",
+      "role": "Divisional Head of Ref. Van & Cold Room",
+      "age": 26,
+      "year_born": 1999,
       "total_pay": "N/A"
     }
   ]

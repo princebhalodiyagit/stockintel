@@ -1,7 +1,7 @@
 {
   "ticker": "TRIDENT",
   "company": "Trident Limited",
-  "collected_at": "2026-10-02 07:52:10",
+  "collected_at": "2026-10-03 07:28:00",
   "directors": [
     {
       "name": "Mr. Samir Prabodhchandra Joshipura PGD",
@@ -46,6 +46,13 @@
       "total_pay": 1100000
     },
     {
+      "name": "Mr. Kavish  Dhanda",
+      "role": "Group Head of Strategic Sourcing, CEO of Yarn & Member of Management Board",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": 1100000
+    },
+    {
       "name": "Mr. Mohit  Soni",
       "role": "CEO of Bath Linen & Member of Management Board",
       "age": "N/A",
@@ -62,13 +69,6 @@
     {
       "name": "Rajan  Jha",
       "role": "Chief Technology Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Manish  Kapoor",
-      "role": "Chief Information Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

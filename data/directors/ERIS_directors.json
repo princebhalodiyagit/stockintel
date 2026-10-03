@@ -1,7 +1,7 @@
 {
   "ticker": "ERIS",
   "company": "Eris Lifesciences Limited",
-  "collected_at": "2026-10-02 07:29:08",
+  "collected_at": "2026-10-03 07:01:56",
   "directors": [
     {
       "name": "Mr. Amit Indubhushan Bakshi",
@@ -18,10 +18,59 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Deepak  Kapoor",
-      "role": "Senior Vice President",
-      "age": 61,
-      "year_born": 1964,
+      "name": "Mr. Krishnakumar  Vaidyanathan",
+      "role": "Executive Director & COO",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": 46450458
+    },
+    {
+      "name": "Mr. Inderjeet Singh Negi",
+      "role": "Executive Director",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": 12399544
+    },
+    {
+      "name": "Mr. Kaushal Kamleshkumar Shah",
+      "role": "Whole Time Director",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": 16823784
+    },
+    {
+      "name": "Mr. Vijay S. Joshi",
+      "role": "President of Medical",
+      "age": 72,
+      "year_born": 1953,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Murari  Ranganathan",
+      "role": "President of Cardiometabolic Business",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manish  Kapoor",
+      "role": "Vice President",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ramprasad Krishnaraj Bhat",
+      "role": "Vice President",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Nita Prasad Borkar",
+      "role": "Vice President",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

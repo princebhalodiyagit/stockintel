@@ -1,8 +1,15 @@
 {
   "ticker": "MEDIASSIST",
   "company": "Medi Assist Healthcare Services Limited",
-  "collected_at": "2026-10-02 07:39:20",
+  "collected_at": "2026-10-03 07:13:35",
   "directors": [
+    {
+      "name": "Dr. Vikram Jit Singh Chhatwal M.D., Ph.D.",
+      "role": "Non-Executive Non-Independent Chairman",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": 16958338
+    },
     {
       "name": "Mr. Satish V.N. Gidugu",
       "role": "CEO & Whole Time Director",
@@ -15,6 +22,13 @@
       "role": "Chief Financial Officer",
       "age": 57,
       "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Shalabh  Shrivastava",
+      "role": "Head of Operations",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
@@ -53,22 +67,8 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Varun  Kansal",
-      "role": "Senior Vice President",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Dhruv  Rastogi",
-      "role": "Chief AI Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ms. Pavithra S Mysore",
-      "role": "Head of Revenue Growth & Client Retention of Mayfair We Care",
+      "name": "Dr. Vijay  Sankaran",
+      "role": "President of Claims",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

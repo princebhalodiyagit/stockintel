@@ -1,7 +1,7 @@
 {
   "ticker": "EXCELINDUS",
   "company": "Excel Industries Limited",
-  "collected_at": "2026-10-02 07:29:23",
+  "collected_at": "2026-10-03 07:02:12",
   "directors": [
     {
       "name": "Mr. Ashwin Champraj Shroff B.Sc",
@@ -46,6 +46,13 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. Dhiraj  Yadav",
+      "role": "Vice President of R & D",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Siddhart  Raut",
       "role": "General Manager of Finance & Accounts",
       "age": 44,
@@ -64,13 +71,6 @@
       "role": "Associate Vice President of Human Resources",
       "age": 49,
       "year_born": 1976,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. B.  Balachandran",
-      "role": "President of Chemicals Division",
-      "age": 72,
-      "year_born": 1953,
       "total_pay": "N/A"
     }
   ]

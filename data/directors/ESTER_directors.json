@@ -1,7 +1,7 @@
 {
   "ticker": "ESTER",
   "company": "Ester Industries Limited",
-  "collected_at": "2026-10-02 07:29:14",
+  "collected_at": "2026-10-03 07:02:02",
   "directors": [
     {
       "name": "Mr. Vaibhav  Jha",
@@ -37,6 +37,27 @@
       "age": 64,
       "year_born": 1961,
       "total_pay": 17637000
+    },
+    {
+      "name": "K. K. Mangal B. Com",
+      "role": "General Manager of Sales & Marketing",
+      "age": 74,
+      "year_born": 1951,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Adhrua  Minocha",
+      "role": "Chief Human Resource Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajendra Singh Gaur",
+      "role": "Head of Manufacturing Operations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

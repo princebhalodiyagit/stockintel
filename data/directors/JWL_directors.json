@@ -1,7 +1,7 @@
 {
   "ticker": "JWL",
   "company": "Jupiter Wagons Limited",
-  "collected_at": "2026-10-02 07:35:57",
+  "collected_at": "2026-10-03 07:09:43",
   "directors": [
     {
       "name": "Mr. Abhishek  Jaiswal",
@@ -13,6 +13,13 @@
     {
       "name": "Ms. Ritu  Lohia",
       "role": "President",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vinod Kumar Agarwal",
+      "role": "Chief Financial Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
@@ -32,11 +39,18 @@
       "total_pay": 60552000
     },
     {
-      "name": "Mr. Vinod Kumar Agarwal",
-      "role": "Chief Financial Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
+      "name": "Mr. Vikash  Lohia",
+      "role": "Deputy MD & Whole Time Director",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": 23648000
+    },
+    {
+      "name": "Mr. Swapan Kumar Choudhury",
+      "role": "Whole Time Director & SVP - Wagons",
+      "age": 66,
+      "year_born": 1959,
+      "total_pay": 5051000
     },
     {
       "name": "Mr. Sudip Kumar Haldar",
@@ -58,20 +72,6 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 2156000
-    },
-    {
-      "name": "Mr. Ajay Kumar Sinha",
-      "role": "Senior Vice President",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "-  Deepesh",
-      "role": "Assistant Company Secretary",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
     }
   ]
 }

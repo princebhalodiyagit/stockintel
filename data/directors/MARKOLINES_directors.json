@@ -1,7 +1,7 @@
 {
   "ticker": "MARKOLINES",
   "company": "Markolines Pavement Technologies Limited",
-  "collected_at": "2026-10-02 07:38:59",
+  "collected_at": "2026-10-03 07:13:11",
   "directors": [
     {
       "name": "Mr. Sanjay Bhanudas Patil",
@@ -11,13 +11,6 @@
       "total_pay": 12600000
     },
     {
-      "name": "Mr. Vijay Ratanchand Oswal",
-      "role": "Founder & CFO",
-      "age": 57,
-      "year_born": 1968,
-      "total_pay": 10200000
-    },
-    {
       "name": "Mr. Anil Pralhad Nikam",
       "role": "Chief Executive Officer",
       "age": "N/A",
@@ -25,8 +18,43 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. Vijay Ratanchand Oswal",
+      "role": "Founder & CFO",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": 10200000
+    },
+    {
+      "name": "Mr. Praveen Sevantilal Panchal",
+      "role": "Executive Director",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": 6000000
+    },
+    {
+      "name": "Mr. Rakesh  Varma",
+      "role": "AVP of Accounts & Finance",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Sriniwas P. Nagarkar",
       "role": "Director of Technical",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Aniruddha Mohan Hublikar",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. B.  Satpathy",
+      "role": "Senior Vice President of MMR & EPC",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

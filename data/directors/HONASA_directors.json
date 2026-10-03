@@ -1,11 +1,46 @@
 {
   "ticker": "HONASA",
   "company": "Honasa Consumer Limited",
-  "collected_at": "2026-10-02 07:33:02",
+  "collected_at": "2026-10-03 07:06:22",
   "directors": [
+    {
+      "name": "Mr. Varun  Alagh",
+      "role": "Co-Founder, Chairman, CEO & Whole-time Director",
+      "age": 41,
+      "year_born": 1984,
+      "total_pay": 48400000
+    },
+    {
+      "name": "Ms. Ghazal  Alagh",
+      "role": "Co-Founder, Chief Innovation Officer & Whole-Time Director",
+      "age": 37,
+      "year_born": 1988,
+      "total_pay": 30000000
+    },
+    {
+      "name": "Mr. Raman Preet Sohi",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 59240000
+    },
+    {
+      "name": "Mr. Gaurav  Pandit",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 3730000
+    },
     {
       "name": "Mr. Lokesh  Chhaparwal",
       "role": "Senior Vice President of Technology & Engineering",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mohit Shankar Srivastava",
+      "role": "Executive Vice President of IR, Strategic Projects & Corp Dev",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
@@ -18,36 +53,22 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Ms. Snigdha  Anand",
-      "role": "Senior Vice President of Marketing",
+      "name": "Mr. Nilesh  Kotalwar",
+      "role": "Chief Marketing Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Saahil  Nayar",
-      "role": "Business Head & SVP of Colour Care and Prestige",
+      "name": "Mr. Karanveer  Bajwa",
+      "role": "Chief Human Resources Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
-      "name": "Ms. Richa  Gupta",
-      "role": "Senior Vice President of ECommerce",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Tarun  Agarwal",
-      "role": "Senior Vice President of International sales",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Akshat  Srivastava",
-      "role": "VP of Corporate Strategy & Chief-of-Staff",
+      "name": "Mr. Pratik  Mukherjee",
+      "role": "Head & Vice President of Brand Factory",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

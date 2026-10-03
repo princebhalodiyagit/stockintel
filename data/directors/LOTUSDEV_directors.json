@@ -1,7 +1,7 @@
 {
   "ticker": "LOTUSDEV",
   "company": "Sri Lotus Developers and Realty Limited",
-  "collected_at": "2026-10-02 07:38:02",
+  "collected_at": "2026-10-03 07:12:06",
   "directors": [
     {
       "name": "Mr. Anand Kamalnayan Pandit",
@@ -9,6 +9,13 @@
       "age": 62,
       "year_born": 1963,
       "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Ashka Anand Pandit",
+      "role": "Whole Time Director",
+      "age": 35,
+      "year_born": 1990,
+      "total_pay": 15580000
     },
     {
       "name": "Mr. Sanjay Kumar Jain",
@@ -46,6 +53,13 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. Paarth Deepak Chheda",
+      "role": "President of Business Development",
+      "age": 34,
+      "year_born": 1991,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Yogesh  Shah",
       "role": "President of Liasoning",
       "age": "N/A",
@@ -55,20 +69,6 @@
     {
       "name": "Mr. Nirav  Chandan",
       "role": "President of Engineering",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Dharmesh  Chevli",
-      "role": "Chief Architect",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Paras  Desai",
-      "role": "Vice President of Facility Management",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

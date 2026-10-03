@@ -1,7 +1,7 @@
 {
   "ticker": "DNAMEDIA",
   "company": "Diligent Media Corporation Limited",
-  "collected_at": "2026-10-02 07:28:01",
+  "collected_at": "2026-10-03 07:00:38",
   "directors": [
     {
       "name": "Mr. Nagendra  Bhandari",
@@ -11,10 +11,10 @@
       "total_pay": 1826000
     },
     {
-      "name": "Riddhima  Kanetkar",
-      "role": "Chief Sub Editor",
-      "age": 30,
-      "year_born": 1995,
+      "name": "Ms. Jyoti  Upadhyay",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 35,
+      "year_born": 1990,
       "total_pay": "N/A"
     },
     {
@@ -29,6 +29,13 @@
       "role": "Chief Sub Editor",
       "age": 34,
       "year_born": 1991,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Riddhima  Kanetkar",
+      "role": "Chief Sub Editor",
+      "age": 30,
+      "year_born": 1995,
       "total_pay": "N/A"
     }
   ]

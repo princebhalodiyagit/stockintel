@@ -1,7 +1,7 @@
 {
   "ticker": "SENORES",
   "company": "Senores Pharmaceuticals Limited",
-  "collected_at": "2026-10-02 07:47:23",
+  "collected_at": "2026-10-03 07:22:39",
   "directors": [
     {
       "name": "Mr. Swapnil Jatinbhai Shah",
@@ -23,6 +23,34 @@
       "age": 59,
       "year_born": 1966,
       "total_pay": 17000000
+    },
+    {
+      "name": "Mr. Jatin  Gajja",
+      "role": "Chief Technology Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Shilpa  Sharma C.S.",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Hanuwant Singh Shaktawat",
+      "role": "Assistant Vice President of Human Resources",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jignesh Shashikant Desai",
+      "role": "President of Finance",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "ticker": "COMFINTE",
   "company": "Comfort Intech Limited",
-  "collected_at": "2026-10-02 07:26:23",
+  "collected_at": "2026-10-03 06:58:46",
   "directors": [
     {
       "name": "Mr. Anil Beniprasad Agrawal ACS, FCA, M.Com",
@@ -23,6 +23,13 @@
       "age": 43,
       "year_born": 1982,
       "total_pay": 40000
+    },
+    {
+      "name": "Mr. Sujay S. Gokhale",
+      "role": "Company Secretary and Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

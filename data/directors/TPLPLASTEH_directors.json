@@ -1,7 +1,7 @@
 {
   "ticker": "TPLPLASTEH",
   "company": "TPL Plastech Limited",
-  "collected_at": "2026-10-02 07:52:00",
+  "collected_at": "2026-10-03 07:27:49",
   "directors": [
     {
       "name": "Mr. Jayesh Ajitkumar Ashar",
@@ -9,6 +9,13 @@
       "age": 61,
       "year_born": 1964,
       "total_pay": 627545
+    },
+    {
+      "name": "Mr. Pawan  Agarwal",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 1683036
     },
     {
       "name": "Mr. Rahul  Sharma",

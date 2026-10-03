@@ -1,7 +1,7 @@
 {
   "ticker": "HIRECT",
   "company": "Hind Rectifiers Limited",
-  "collected_at": "2026-10-02 07:32:52",
+  "collected_at": "2026-10-03 07:06:11",
   "directors": [
     {
       "name": "Mr. Suramya Saurabh Nevatia",
@@ -9,6 +9,20 @@
       "age": 36,
       "year_born": 1989,
       "total_pay": 48860000
+    },
+    {
+      "name": "Mr. Anil Kumar Nemani",
+      "role": "Executive Director & CFO",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Akshada Suramya Nevatia",
+      "role": "Executive Director",
+      "age": 38,
+      "year_born": 1987,
+      "total_pay": 31120000
     },
     {
       "name": "Mr. Manoj  Nair",
@@ -27,6 +41,34 @@
     {
       "name": "Mr. B. Brahmananda Reddy",
       "role": "Chief Technology Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Preeti  Sharma",
+      "role": "Head Legal",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Suhas Gopal Pawar",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 40,
+      "year_born": 1985,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Esha  Vidhani",
+      "role": "Head Human Resources",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. K. R. Narayanan",
+      "role": "Chief Revenue Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

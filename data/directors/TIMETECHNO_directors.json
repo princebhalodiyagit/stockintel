@@ -1,7 +1,7 @@
 {
   "ticker": "TIMETECHNO",
   "company": "Time Technoplast Limited",
-  "collected_at": "2026-10-02 07:51:39",
+  "collected_at": "2026-10-03 07:27:26",
   "directors": [
     {
       "name": "Mr. Bharat Kumar Vageria",
@@ -44,6 +44,13 @@
       "age": 71,
       "year_born": 1954,
       "total_pay": 561999
+    },
+    {
+      "name": "Mr. Mangesh Gopal Sarfare",
+      "role": "Chief Project Officer of Projects and Purchase",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

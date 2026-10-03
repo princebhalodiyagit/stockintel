@@ -1,7 +1,7 @@
 {
   "ticker": "DCW",
   "company": "DCW Limited",
-  "collected_at": "2026-10-02 07:27:19",
+  "collected_at": "2026-10-03 06:59:50",
   "directors": [
     {
       "name": "Mr. Bakul Premchand Jain B.Com., MBA",
@@ -11,11 +11,25 @@
       "total_pay": 37020000
     },
     {
+      "name": "Mr. Saatvik  Jain",
+      "role": "President",
+      "age": 39,
+      "year_born": 1986,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Vivek Shashichand Jain",
       "role": "MD & Executive Director",
       "age": 67,
       "year_born": 1958,
       "total_pay": 37020000
+    },
+    {
+      "name": "Mr. Ashish Pramodkumar Jain",
+      "role": "MD & Executive Director",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": 37034000
     },
     {
       "name": "Mr. Sudarshan  Ganapathy M.B.A.",
@@ -39,10 +53,24 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Saatvik  Jain",
-      "role": "President",
-      "age": 39,
-      "year_born": 1986,
+      "name": "Mr. Pradipto  Mukherjee",
+      "role": "Chief Financial Officer",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Bhagwat  Patil",
+      "role": "Chief Technology Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Dilip Vishnubhai Darji",
+      "role": "Senior GM of Legal, Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

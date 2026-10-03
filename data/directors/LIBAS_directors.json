@@ -1,7 +1,7 @@
 {
   "ticker": "LIBAS",
   "company": "Libas Consumer Products Limited",
-  "collected_at": "2026-10-02 07:37:49",
+  "collected_at": "2026-10-03 07:11:51",
   "directors": [
     {
       "name": "Mr. Nishant Mitrasen Mahimtura",
@@ -16,6 +16,27 @@
       "age": 55,
       "year_born": 1970,
       "total_pay": 800000
+    },
+    {
+      "name": "Ms. Anjali Vipulbhai Barot",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 30,
+      "year_born": 1995,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mohammed  Sakerwala",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Suchitra  Mahimtura",
+      "role": "Head of Admin",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

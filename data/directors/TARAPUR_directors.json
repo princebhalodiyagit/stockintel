@@ -1,8 +1,15 @@
 {
   "ticker": "TARAPUR",
   "company": "Tarapur Transformers Limited",
-  "collected_at": "2026-10-02 07:50:41",
+  "collected_at": "2026-10-03 07:26:19",
   "directors": [
+    {
+      "name": "Mr. Yash Dilip Betkar",
+      "role": "Executive Director",
+      "age": 30,
+      "year_born": 1995,
+      "total_pay": "N/A"
+    },
     {
       "name": "Ms. Vaishali Kiran Pawar",
       "role": "Chief Financial Officer",

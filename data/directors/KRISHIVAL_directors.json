@@ -1,8 +1,15 @@
 {
   "ticker": "KRISHIVAL",
   "company": "Krishival Foods Limited",
-  "collected_at": "2026-10-02 07:37:12",
+  "collected_at": "2026-10-03 07:11:10",
   "directors": [
+    {
+      "name": "Mr. Sujit Sudhakar Bangar",
+      "role": "Chairperson",
+      "age": 44,
+      "year_born": 1981,
+      "total_pay": 5846094
+    },
     {
       "name": "Mr. Nana Prakash Mhaske",
       "role": "CEO & Executive Director",
@@ -18,11 +25,11 @@
       "total_pay": 2820000
     },
     {
-      "name": "Mr. Sujit Sudhakar Bangar",
-      "role": "Chairperson",
-      "age": 44,
-      "year_born": 1981,
-      "total_pay": 5846094
+      "name": "Ms. Aparna Sujit Morale Bangar",
+      "role": "MD & Director",
+      "age": 37,
+      "year_born": 1988,
+      "total_pay": 12000000
     },
     {
       "name": "Mr. Rahul Suresh Gawande",

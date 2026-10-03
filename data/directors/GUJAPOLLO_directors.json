@@ -1,7 +1,7 @@
 {
   "ticker": "GUJAPOLLO",
   "company": "Gujarat Apollo Industries Limited",
-  "collected_at": "2026-10-02 07:31:52",
+  "collected_at": "2026-10-03 07:05:03",
   "directors": [
     {
       "name": "Mr. Asit Anil Kumar Patel",
@@ -29,7 +29,7 @@
       "role": "Executive Whole-Time Director",
       "age": 31,
       "year_born": 1994,
-      "total_pay": 3414000
+      "total_pay": "N/A"
     },
     {
       "name": "Haresh R. Prajapati",
@@ -55,6 +55,13 @@
     {
       "name": "Ketan J. Bhavsar",
       "role": "Head of IT Department",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ashish Kumar Patel",
+      "role": "Head of Design Department",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

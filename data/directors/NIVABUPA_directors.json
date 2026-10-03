@@ -1,7 +1,7 @@
 {
   "ticker": "NIVABUPA",
   "company": "Niva Bupa Health Insurance Company Limited",
-  "collected_at": "2026-10-02 07:41:39",
+  "collected_at": "2026-10-03 07:16:11",
   "directors": [
     {
       "name": "Mr. Krishnan  Ramachandran",
@@ -39,6 +39,13 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. Karan  Bhatia",
+      "role": "Chief Investment Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Dhiresh  Rustogi",
       "role": "CTO & Director",
       "age": "N/A",
@@ -64,13 +71,6 @@
       "role": "Chief Sustainability & HR Officer and Director",
       "age": 33,
       "year_born": 1992,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Aseem  Gupta",
-      "role": "Chief Distribution Officer - Institutional Sales & Director",
-      "age": 50,
-      "year_born": 1975,
       "total_pay": "N/A"
     }
   ]

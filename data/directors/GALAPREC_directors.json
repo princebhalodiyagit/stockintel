@@ -1,7 +1,7 @@
 {
   "ticker": "GALAPREC",
   "company": "Gala Precision Engineering Limited",
-  "collected_at": "2026-10-02 07:30:05",
+  "collected_at": "2026-10-03 07:03:00",
   "directors": [
     {
       "name": "Mr. Kirit Vishanji Gala",
@@ -64,6 +64,13 @@
       "role": "Vice President of Operations \u0096 Special Fastening Solutions",
       "age": 50,
       "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Nambi  Nka",
+      "role": "Vice President of Operation Chennai Plant",
+      "age": 53,
+      "year_born": 1972,
       "total_pay": "N/A"
     }
   ]

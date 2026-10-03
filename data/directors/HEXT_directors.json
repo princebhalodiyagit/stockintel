@@ -1,7 +1,7 @@
 {
   "ticker": "HEXT",
   "company": "Hexaware Technologies Limited",
-  "collected_at": "2026-10-02 07:32:36",
+  "collected_at": "2026-10-03 07:05:53",
   "directors": [
     {
       "name": "Mr. Ramakarthikeyan  Srikrishna",
@@ -39,6 +39,13 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Ajay  Joshi",
+      "role": "Head of Investor Relations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
       "name": "Ms. Gunjan Sumit Methi",
       "role": "Compliance Officer & Company Secretary",
       "age": "N/A",
@@ -65,13 +72,6 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 60800000
-    },
-    {
-      "name": "Mr. Eswaran  Venkatachalam",
-      "role": "Executive VP and Global Head of Travel & Transportation",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 52300000
     }
   ]
 }

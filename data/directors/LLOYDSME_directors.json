@@ -1,7 +1,7 @@
 {
   "ticker": "LLOYDSME",
   "company": "Lloyds Metals And Energy Limited",
-  "collected_at": "2026-10-02 07:37:58",
+  "collected_at": "2026-10-03 07:12:02",
   "directors": [
     {
       "name": "Mr. Rajesh Rajnarayan Gupta B.Com.",
@@ -16,6 +16,13 @@
       "age": 52,
       "year_born": 1973,
       "total_pay": 24000000
+    },
+    {
+      "name": "Mr. Riyaz Ahmed Shaikh",
+      "role": "Director of Finance & Chief Finance Officer",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Akshay Pankaj Vora",
@@ -60,17 +67,10 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Dinesh Kumar Patidar",
-      "role": "Unit Head of Ghugus Projects",
-      "age": 62,
-      "year_born": 1963,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "M.  Murugesan",
-      "role": "Senior Vice President of Research & Development",
-      "age": 49,
-      "year_born": 1976,
+      "name": "Mr. Venkatesan  Radakrishnan",
+      "role": "Global Chief Human Resources Officer & Director",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

@@ -1,8 +1,29 @@
 {
   "ticker": "GTLINFRA",
   "company": "GTL Infrastructure Limited",
-  "collected_at": "2026-10-02 07:31:48",
+  "collected_at": "2026-10-03 07:04:58",
   "directors": [
+    {
+      "name": "Mr. Ajit Mohan Shanbhag",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 9600000
+    },
+    {
+      "name": "Mr. Deepak Arun Keluskar",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 500000
+    },
+    {
+      "name": "Mr. Milind P. Bengali",
+      "role": "Chief Operating Officer",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": "N/A"
+    },
     {
       "name": "Mr. Rupinder Singh Ahluwalia",
       "role": "President of Business Development",

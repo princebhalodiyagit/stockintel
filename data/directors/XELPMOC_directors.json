@@ -1,7 +1,7 @@
 {
   "ticker": "XELPMOC",
   "company": "Xelpmoc Design And Tech Limited",
-  "collected_at": "2026-10-02 07:54:34",
+  "collected_at": "2026-10-03 07:30:42",
   "directors": [
     {
       "name": "Mr. Sandipan Samiran Chattopadhyay",
@@ -27,6 +27,34 @@
     {
       "name": "Ms. Vaishali S Shetty",
       "role": "Company Secretary, Compliance Officer & Chief Investor Relations Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vishal  Chaddha",
+      "role": "Co-Founder",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": 1486455
+    },
+    {
+      "name": "Ms. Sandhya  Dhaatla",
+      "role": "Manager of Finance & Accounts",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Naushad  Vali",
+      "role": "Chief Technology Officer",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ausali  Avinash",
+      "role": "Assistant Manager of IT & Admin",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

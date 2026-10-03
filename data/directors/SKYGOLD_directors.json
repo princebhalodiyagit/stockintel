@@ -1,8 +1,22 @@
 {
   "ticker": "SKYGOLD",
   "company": "SKY GOLD AND DIAMONDS LIMITED",
-  "collected_at": "2026-10-02 07:48:39",
+  "collected_at": "2026-10-03 07:24:03",
   "directors": [
+    {
+      "name": "Mr. Mangesh Ramesh Chauhan",
+      "role": "Chairman & MD",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": 17549000
+    },
+    {
+      "name": "Mr. Siddharth  Sipani",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 7543000
+    },
     {
       "name": "Ms. Nikita  Jain",
       "role": "Company Secretary & Compliance Officer",
@@ -18,17 +32,31 @@
       "total_pay": 17549000
     },
     {
-      "name": "Mr. Siddharth  Sipani",
-      "role": "Chief Financial Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 7543000
+      "name": "Mr. Darshan Ramesh Chauhan",
+      "role": "Chief Growth Officer & Whole-Time Director",
+      "age": 41,
+      "year_born": 1984,
+      "total_pay": 14039000
+    },
+    {
+      "name": "Mr. Akash  Talesara",
+      "role": "Chief Executive Officer",
+      "age": 44,
+      "year_born": 1981,
+      "total_pay": "N/A"
     },
     {
       "name": "Sandeep Gautam Roy",
       "role": "Head of Operations",
       "age": 55,
       "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jayesh  Sanghavi",
+      "role": "Accounts Head",
+      "age": 56,
+      "year_born": 1969,
       "total_pay": "N/A"
     },
     {

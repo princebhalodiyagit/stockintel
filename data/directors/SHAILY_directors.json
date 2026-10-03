@@ -1,7 +1,7 @@
 {
   "ticker": "SHAILY",
   "company": "Shaily Engineering Plastics Limited",
-  "collected_at": "2026-10-02 07:47:36",
+  "collected_at": "2026-10-03 07:22:54",
   "directors": [
     {
       "name": "Mr. Mahendra Bhogilal Sanghvi B.Sc.",
@@ -32,10 +32,31 @@
       "total_pay": 12870492
     },
     {
+      "name": "Mr. Paresh Mahavirbhai Jain",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Harish Govindram Punwani",
       "role": "Company Secretary & Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sanjay Navin Shah",
+      "role": "VP & Chief Strategy Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 2847000
+    },
+    {
+      "name": "Mr. Hung Kam Chi",
+      "role": "Chief Operating Officer of Healthcare",
+      "age": 56,
+      "year_born": 1969,
       "total_pay": "N/A"
     }
   ]

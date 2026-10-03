@@ -1,8 +1,15 @@
 {
   "ticker": "RELAXO",
   "company": "Relaxo Footwears Limited",
-  "collected_at": "2026-10-02 07:45:20",
+  "collected_at": "2026-10-03 07:20:22",
   "directors": [
+    {
+      "name": "Mr. Ramesh Kumar Dua",
+      "role": "MD & Chairman",
+      "age": 71,
+      "year_born": 1954,
+      "total_pay": 27758000
+    },
     {
       "name": "Mr. Gaurav Kumaar Dua",
       "role": "Co-CEO & Whole-Time Director",
@@ -53,24 +60,17 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Manoj  Lalwani",
+      "name": "Mr. Navin  Trivedi",
+      "role": "General Manager of Legal",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manoj  Lalwani",
       "role": "Vice President of Marketing",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ms. Manju  Kohli",
-      "role": "Chief Human Resources Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Nitin  Dua",
-      "role": "Executive Vice President of Retail",
-      "age": 43,
-      "year_born": 1982,
       "total_pay": "N/A"
     }
   ]

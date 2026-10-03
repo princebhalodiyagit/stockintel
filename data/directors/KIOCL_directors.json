@@ -1,8 +1,22 @@
 {
   "ticker": "KIOCL",
   "company": "KIOCL Limited",
-  "collected_at": "2026-10-02 07:36:37",
+  "collected_at": "2026-10-03 07:10:30",
   "directors": [
+    {
+      "name": "Mr. Ganti Venkat Kiran",
+      "role": "MD, Chairman, Director of Finance & Commercial",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": 4861376
+    },
+    {
+      "name": "Mr. Ram Krishna Mishra",
+      "role": "Chief GM of Finance, CFO for Bengaluru & CFO",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 4637099
+    },
     {
       "name": "Mr. Clafton  Siddharth",
       "role": "Company Secretary & Compliance Officer",

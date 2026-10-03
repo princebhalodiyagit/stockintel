@@ -1,7 +1,7 @@
 {
   "ticker": "PRAKASHSTL",
   "company": "Prakash Steelage Limited",
-  "collected_at": "2026-10-02 07:44:03",
+  "collected_at": "2026-10-03 07:18:56",
   "directors": [
     {
       "name": "Mr. Prakash Chhaganlal Kanugo",
@@ -15,6 +15,13 @@
       "role": "CFO & Whole time Director",
       "age": 52,
       "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Sakshi Dinesh Faganiya",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
@@ -32,17 +39,38 @@
       "total_pay": 2760000
     },
     {
-      "name": "Ms. Sakshi Dinesh Faganiya",
-      "role": "Company Secretary & Compliance Officer",
+      "name": "Mr. Balkrishna  Utekar",
+      "role": "Marketing Head",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Satish  Kumar",
+      "role": "GM of Sales & Marketing",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Balkrishna  Utekar",
-      "role": "Marketing Head",
-      "age": 49,
-      "year_born": 1976,
+      "name": "Mr. Kesharam  Dewasi",
+      "role": "Senior Manager",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Dhanurdhar  Biswal",
+      "role": "Senior Executive",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Aarti  Kadam",
+      "role": "Senior Manager",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

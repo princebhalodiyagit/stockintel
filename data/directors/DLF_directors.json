@@ -1,7 +1,7 @@
 {
   "ticker": "DLF",
   "company": "DLF Limited",
-  "collected_at": "2026-10-02 07:27:57",
+  "collected_at": "2026-10-03 07:00:33",
   "directors": [
     {
       "name": "Mr. Rajiv  Singh",
@@ -46,6 +46,13 @@
       "total_pay": 5300000
     },
     {
+      "name": "Mr. Prabhakaran  Ramakrishnan BE, MBA",
+      "role": "Group Executive Director & Chief Technical Officer",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Rajiv  Goel",
       "role": "Senior Vice President of Investor Relations",
       "age": 55,
@@ -60,15 +67,8 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Sanjay  Goenka",
-      "role": "Group Executive Director of Commercial and Taxation",
-      "age": 60,
-      "year_born": 1965,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Vineet  Kanwar",
-      "role": "Chief Executive of Corporate Affairs & Director",
+      "name": "Mr. Nalin  Garg M.A.",
+      "role": "Group Executive Director of HR",
       "age": 57,
       "year_born": 1968,
       "total_pay": "N/A"

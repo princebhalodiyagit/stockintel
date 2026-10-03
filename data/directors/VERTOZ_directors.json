@@ -1,6 +1,77 @@
 {
   "ticker": "VERTOZ",
   "company": "Vertoz Limited",
-  "collected_at": "2026-10-02 07:53:22",
-  "directors": []
+  "collected_at": "2026-10-03 07:29:21",
+  "directors": [
+    {
+      "name": "Mr. Hirenkumar Rasiklal Shah",
+      "role": "Founder, Managing Director & Whole-Time Director",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": 5948400
+    },
+    {
+      "name": "Ms. Dimple Hirenkumar Shah",
+      "role": "CFO & Executive Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ashish Rasiklal Shah",
+      "role": "Founder, CEO & Director",
+      "age": 44,
+      "year_born": 1981,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Nupur  Joshi",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kishore M. Naidu",
+      "role": "Chief Revenue Officer",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Taranath  Shetty",
+      "role": "Sales Head of West India",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Shashank  Verma",
+      "role": "Sales Head of North India",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ashish  Aggarwal",
+      "role": "Monetization Head of IncrementX",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. K K Ranga",
+      "role": "Country Head of WebiMax",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Nitesh  Shah",
+      "role": "Head of Business Cloud Solutions",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "ticker": "BAJAJST",
   "company": "Bajaj Steel Industries Limited",
-  "collected_at": "2026-10-02 07:23:19",
+  "collected_at": "2026-10-03 06:55:17",
   "directors": [
     {
       "name": "Mr. Rohit Hargovind Bajaj",
@@ -33,10 +33,17 @@
     },
     {
       "name": "Mr. Manish K. Sharma M.Com",
-      "role": "President & CFO",
+      "role": "Chief Financial Officer",
       "age": 68,
       "year_born": 1957,
       "total_pay": 2611000
+    },
+    {
+      "name": "Mr. Lalit  Kalantr",
+      "role": "Vice President of Marketing & Technical",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Rachit Rakesh Jain",

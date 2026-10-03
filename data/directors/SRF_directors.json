@@ -1,7 +1,7 @@
 {
   "ticker": "SRF",
   "company": "SRF Limited",
-  "collected_at": "2026-10-02 07:49:15",
+  "collected_at": "2026-10-03 07:24:44",
   "directors": [
     {
       "name": "Mr. Ashish Bharat Ram MBA",
@@ -29,6 +29,48 @@
       "role": "President & CIO",
       "age": 54,
       "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Samir  Kashyap C.A.",
+      "role": "President & CFO",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sunil  Gulpadia",
+      "role": "Senior Vice President of Finance & Account",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajat  Lakhanpal",
+      "role": "Senior VP of Corporate Compliance & Company Secretary",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Nitika  Dhawan",
+      "role": "AVP & Head of Corporate Communications",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Prashant  Yadav BE",
+      "role": "President and CEO of Fluorochemicals Business & Technical Textiles Business",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Prashant  Mehra BE. MBA",
+      "role": "President & CEO of Performance Films & Foil Business, Coated & Laminated Fabrics Business",
+      "age": 52,
+      "year_born": 1973,
       "total_pay": "N/A"
     }
   ]

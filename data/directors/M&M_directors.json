@@ -1,7 +1,7 @@
 {
   "ticker": "M&M",
   "company": "Mahindra & Mahindra Limited",
-  "collected_at": "2026-10-02 07:38:16",
+  "collected_at": "2026-10-03 07:12:23",
   "directors": [
     {
       "name": "Mr. Anand Gopal Mahindra",
@@ -46,6 +46,13 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. Vinod  Sahay",
+      "role": "President of Mahindra Aerospace, Advanced Technologies and Truck & Member of Grp Ex. Board",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Mohit  Kapoor",
       "role": "Group Chief Technology Officer & Member of the Group Executive Board",
       "age": "N/A",
@@ -64,13 +71,6 @@
       "role": "Pres. Auto. Bus., M&M; MD of Mahin Elec. Auto. Ltd.; COB Mahin Racing UK & Mem. of Group Exec. Bd.",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Manoj  Bhat",
-      "role": "Member of Group Executive Board",
-      "age": 52,
-      "year_born": 1973,
       "total_pay": "N/A"
     }
   ]

@@ -1,8 +1,43 @@
 {
   "ticker": "RUCHIRA",
   "company": "Ruchira Papers Limited",
-  "collected_at": "2026-10-02 07:46:14",
+  "collected_at": "2026-10-03 07:21:22",
   "directors": [
+    {
+      "name": "Mr. Subhash Chander Garg",
+      "role": "Chairman & Whole Time Director",
+      "age": 83,
+      "year_born": 1942,
+      "total_pay": 29760000
+    },
+    {
+      "name": "Mr. Deepan  Garg",
+      "role": "Co-Chairman & Technical Director",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": 6900000
+    },
+    {
+      "name": "Mr. Jatinder  Singh",
+      "role": "MD & Executive Director",
+      "age": 71,
+      "year_born": 1954,
+      "total_pay": 29760000
+    },
+    {
+      "name": "Mr. Vipin  Gupta",
+      "role": "CFO & Executive Director",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": 10212000
+    },
+    {
+      "name": "Mr. Jagdeep  Singh",
+      "role": "Vice President of Operations",
+      "age": 40,
+      "year_born": 1985,
+      "total_pay": "N/A"
+    },
     {
       "name": "Mr. Atul  Garg",
       "role": "Vice President of Administration",
@@ -36,27 +71,6 @@
       "role": "Chief General Manager",
       "age": 52,
       "year_born": 1973,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Iqbal  Singh",
-      "role": "Company Secretary & Compliance Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 1010000
-    },
-    {
-      "name": "Ms. Parveen  Garg",
-      "role": "Senior Vice President of Corporate Social Responsibility",
-      "age": 78,
-      "year_born": 1947,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ajay  Mahajan",
-      "role": "Head of Projects",
-      "age": 53,
-      "year_born": 1972,
       "total_pay": "N/A"
     }
   ]

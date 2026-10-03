@@ -1,11 +1,60 @@
 {
   "ticker": "BDL",
   "company": "Bharat Dynamics Limited",
-  "collected_at": "2026-10-02 07:23:52",
+  "collected_at": "2026-10-03 06:55:54",
   "directors": [
     {
-      "name": "Mr. L.  Kishan",
-      "role": "Executive Director & Head of Bhanur Unit",
+      "name": "Mr. Gayatri Prasad Gattupalli",
+      "role": "CFO, Director of Finance & Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 6837875
+    },
+    {
+      "name": "Mr. Venkata Srinivas Rao Devulapally",
+      "role": "Director of Technical & Whole Time Director",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": 6662397
+    },
+    {
+      "name": "Mr. Nagula  Nagaraja",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 3500535
+    },
+    {
+      "name": "Commodore Sujay  Kapoor",
+      "role": "Whole Time Director & Director of Production",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": 4318283
+    },
+    {
+      "name": "Mr. Shailesh  Vagerwal",
+      "role": "MD & Chairman",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. M Vinod Kumar",
+      "role": "Executive Director, Head of KBU & IBU Unit and Head of Marketing, BD & Corporate Services",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Spurthi  Reddy",
+      "role": "Chief Vigilance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Commodore Girish Raghunath Pradhan",
+      "role": "Executive Director & Head of KBU",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

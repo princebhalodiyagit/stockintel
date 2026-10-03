@@ -1,8 +1,15 @@
 {
   "ticker": "LOTUSEYE",
   "company": "Lotus Eye Hospital and Institute Limited",
-  "collected_at": "2026-10-02 07:38:03",
+  "collected_at": "2026-10-03 07:12:07",
   "directors": [
+    {
+      "name": "Ms. Sangeetha  Sundaramoorthy",
+      "role": "MD & Executive Director",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": "N/A"
+    },
     {
       "name": "Mr. Ramanujam  Reghunathan",
       "role": "Chief Financial Officer",
@@ -15,13 +22,6 @@
       "role": "Company Secretary & Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ms. Sangeetha  Sundaramoorthy",
-      "role": "MD & Director",
-      "age": 47,
-      "year_born": 1978,
       "total_pay": "N/A"
     },
     {

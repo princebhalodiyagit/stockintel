@@ -1,7 +1,7 @@
 {
   "ticker": "AARTISURF",
   "company": "Aarti Surfactants Limited",
-  "collected_at": "2026-10-02 07:19:41",
+  "collected_at": "2026-10-03 06:51:05",
   "directors": [
     {
       "name": "Mr. Nikhil Parimal Desai",
@@ -11,8 +11,29 @@
       "total_pay": 14332000
     },
     {
+      "name": "Mr. Santosh Madhaorao Kakade",
+      "role": "Executive Director",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": 5189000
+    },
+    {
       "name": "Mr. Nitesh Harakchand Medh",
       "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Kanika  Rathore",
+      "role": "President of Business & Operations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Priyanka Mukesh Kumar Chaurasia",
+      "role": "Company Secretary & Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

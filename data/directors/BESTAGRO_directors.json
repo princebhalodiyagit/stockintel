@@ -1,7 +1,7 @@
 {
   "ticker": "BESTAGRO",
   "company": "Best Agrolife Limited",
-  "collected_at": "2026-10-02 07:24:04",
+  "collected_at": "2026-10-03 06:56:06",
   "directors": [
     {
       "name": "Mr. Vimal Kumar Alawadhi",
@@ -16,6 +16,13 @@
       "age": 37,
       "year_born": 1988,
       "total_pay": 1707000
+    },
+    {
+      "name": "Mr. Surendra Sai Nallamalli",
+      "role": "Whole-Time Director & Head of International Business",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": 14698728
     },
     {
       "name": "Mr. Vikash Sohanlal Jain",
@@ -58,13 +65,6 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Surendra Sai Nallamalli",
-      "role": "Whole-Time Director & Head of International Business",
-      "age": 57,
-      "year_born": 1968,
-      "total_pay": 14698728
     }
   ]
 }

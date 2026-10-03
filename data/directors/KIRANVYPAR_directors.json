@@ -1,7 +1,7 @@
 {
   "ticker": "KIRANVYPAR",
   "company": "Kiran Vyapar Limited",
-  "collected_at": "2026-10-02 07:36:38",
+  "collected_at": "2026-10-03 07:10:31",
   "directors": [
     {
       "name": "Mr. Lakshmi Niwas Bangur",
@@ -11,8 +11,22 @@
       "total_pay": 9170000
     },
     {
+      "name": "Mr. Shreeyash  Bangur",
+      "role": "Group President",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Ajay  Sonthalia",
       "role": "Chief Financial Officer",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vikash Kumar Bajoria",
+      "role": "Chief Executive of Investment",
       "age": 50,
       "year_born": 1975,
       "total_pay": "N/A"
@@ -29,6 +43,20 @@
       "role": "General Manager of Finance & Accounts",
       "age": 42,
       "year_born": 1983,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Nayan  Saxena",
+      "role": "Technology Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Dipak  Francis",
+      "role": "Chief Information Officer",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

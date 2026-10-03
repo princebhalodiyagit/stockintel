@@ -1,7 +1,7 @@
 {
   "ticker": "COCHINSHIP",
   "company": "Cochin Shipyard Limited",
-  "collected_at": "2026-10-02 07:26:17",
+  "collected_at": "2026-10-03 06:58:39",
   "directors": [
     {
       "name": "Mr. Valiyaparambil Jacob Jose",
@@ -11,11 +11,67 @@
       "total_pay": 7884000
     },
     {
+      "name": "Dr. Sankaranarayanapillai  Harikrishnan",
+      "role": "Director of Operations & Director",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": 6382000
+    },
+    {
+      "name": "Mr. Rajesh  Gopalakrishnan",
+      "role": "Director of Technical & Director",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": 6522000
+    },
+    {
       "name": "Mr. N.  Syamkamal",
       "role": "Company Secretary & Compliance Officer",
       "age": 38,
       "year_born": 1987,
       "total_pay": 8113995
+    },
+    {
+      "name": "Mr. A. K. Subash",
+      "role": "General Manager of Human Resource & LD",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Kariyal Rajakumaran Anjana",
+      "role": "Chief General Manager (Design & Matls)",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sivakumar  Ayyaru",
+      "role": "Chief General Manager (SR)",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Deepu  Surendran",
+      "role": "Chief General Manager (C-SAS,BD-SB & BD)",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. C. Pandi Selva Durai",
+      "role": "Chief Vigilance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajesh  K R",
+      "role": "Head of CSL Kolkata Ship Repair Unit",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": "N/A"
     }
   ]
 }

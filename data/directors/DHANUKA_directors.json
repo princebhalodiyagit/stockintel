@@ -1,7 +1,7 @@
 {
   "ticker": "DHANUKA",
   "company": "Dhanuka Agritech Limited",
-  "collected_at": "2026-10-02 07:27:41",
+  "collected_at": "2026-10-03 07:00:15",
   "directors": [
     {
       "name": "Mr. Mahendra Kumar Dhanuka",
@@ -20,22 +20,36 @@
     {
       "name": "Mr. Harsh  Dhanuka",
       "role": "Executive Director of Alliances & Supply Chain and Executive Director",
-      "age": 43,
-      "year_born": 1982,
+      "age": 42,
+      "year_born": 1983,
       "total_pay": 71700000
     },
     {
       "name": "Mr. Ashish  Saraf",
       "role": "Executive Non-Independent Director",
-      "age": 54,
-      "year_born": 1971,
+      "age": 55,
+      "year_born": 1970,
       "total_pay": 3800000
+    },
+    {
+      "name": "Mr. Pawan  Saraogi",
+      "role": "President & Principal Relationships and Strategic Alliances",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Vinod Kumar Bansal",
       "role": "Chief Financial Officer",
-      "age": 60,
-      "year_born": 1965,
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Prmaod Kumar Kanodia",
+      "role": "President of Sales & Operations",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
@@ -55,20 +69,6 @@
     {
       "name": "Mr. Anupam  Pal",
       "role": "VP & National Marketing Head",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Himanshu  Singhal",
-      "role": "Chief Internal Auditor",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Sanjay Dattaram Patil",
-      "role": "GM & Zonal Sales Head",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

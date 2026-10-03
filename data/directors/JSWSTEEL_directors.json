@@ -1,7 +1,7 @@
 {
   "ticker": "JSWSTEEL",
   "company": "JSW Steel Limited",
-  "collected_at": "2026-10-02 07:35:48",
+  "collected_at": "2026-10-03 07:09:33",
   "directors": [
     {
       "name": "Mr. Sajjan Kumar Jindal B.E.",
@@ -53,6 +53,13 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. Vinay  Shroff",
+      "role": "Chief Marketing Officer",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Ashok Kumar Aggrawal",
       "role": "President of Business Development",
       "age": 66,
@@ -64,13 +71,6 @@
       "role": "Executive Vice President of Corporate Strategy & Development",
       "age": 54,
       "year_born": 1971,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. P. R. Kole B.Com, CA, LLB",
-      "role": "Senior Vice President of Finance & Accounts",
-      "age": 64,
-      "year_born": 1961,
       "total_pay": "N/A"
     }
   ]

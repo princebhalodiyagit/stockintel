@@ -1,7 +1,7 @@
 {
   "ticker": "UYFINCORP",
   "company": "U. Y. Fincorp Limited",
-  "collected_at": "2026-10-02 07:53:02",
+  "collected_at": "2026-10-03 07:28:59",
   "directors": [
     {
       "name": "Mr. Udai  Kothari",
@@ -23,6 +23,13 @@
       "age": 35,
       "year_born": 1990,
       "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Dinesh  Burman B.Sc, LLB",
+      "role": "Whole-Time Executive Director",
+      "age": 68,
+      "year_born": 1957,
+      "total_pay": 306000
     }
   ]
 }

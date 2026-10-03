@@ -1,11 +1,18 @@
 {
   "ticker": "BLUEDART",
   "company": "Blue Dart Express Limited",
-  "collected_at": "2026-10-02 07:24:38",
+  "collected_at": "2026-10-03 06:56:47",
   "directors": [
     {
+      "name": "Mr. Balfour  Manuel",
+      "role": "MD & Executive Director",
+      "age": 64,
+      "year_born": 1961,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Sagar  Patil",
-      "role": "CFO & Head of Corporate Accounts",
+      "role": "Chief Financial Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
@@ -19,7 +26,7 @@
     },
     {
       "name": "Mr. Vikram  Mansukhani",
-      "role": "National Operations Head",
+      "role": "Chief Operations Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
@@ -62,13 +69,6 @@
     {
       "name": "Ms. Sonia  Nair",
       "role": "VP & Head of Customer Service",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Savio Vincent Mendonca",
-      "role": "Head of Internal Audit & Risk Management",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

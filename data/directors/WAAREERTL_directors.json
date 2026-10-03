@@ -1,7 +1,7 @@
 {
   "ticker": "WAAREERTL",
   "company": "Waaree Renewable Technologies Limited",
-  "collected_at": "2026-10-02 07:54:01",
+  "collected_at": "2026-10-03 07:30:05",
   "directors": [
     {
       "name": "Mr. Pujan Pankaj Doshi",
@@ -13,8 +13,8 @@
     {
       "name": "Mr. Manmohan  Sharma",
       "role": "Chief Financial Officer",
-      "age": 51,
-      "year_born": 1974,
+      "age": 52,
+      "year_born": 1973,
       "total_pay": "N/A"
     },
     {
@@ -48,6 +48,13 @@
     {
       "name": "Mr. Ravikesh  Singh",
       "role": "Chief Operating Officer of EPC",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mayur  Mehta",
+      "role": "Chief Procurement Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

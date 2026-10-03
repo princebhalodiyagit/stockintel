@@ -1,7 +1,7 @@
 {
   "ticker": "MTARTECH",
   "company": "Mtar Technologies Limited",
-  "collected_at": "2026-10-02 07:40:20",
+  "collected_at": "2026-10-03 07:14:43",
   "directors": [
     {
       "name": "Mr. Parvat Srinivas Reddy",
@@ -22,6 +22,13 @@
       "role": "Chief Operations Officer",
       "age": 50,
       "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Priyanka  Agarwal",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
@@ -46,6 +53,13 @@
       "total_pay": "N/A"
     },
     {
+      "name": "K.J.  Thomas",
+      "role": "Senior Vice President of Civil Nuclear Power",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Rohit  Khera",
       "role": "Resident Director",
       "age": 71,
@@ -53,10 +67,10 @@
       "total_pay": "N/A"
     },
     {
-      "name": "K. Sreeramulu Reddy",
-      "role": "Senior Vice President of Quality",
-      "age": "N/A",
-      "year_born": "N/A",
+      "name": "Mr. Srikanta  Bag",
+      "role": "Vice President",
+      "age": 51,
+      "year_born": 1974,
       "total_pay": "N/A"
     }
   ]

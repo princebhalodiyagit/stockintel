@@ -1,7 +1,7 @@
 {
   "ticker": "MAMATA",
   "company": "Mamata Machinery Limited",
-  "collected_at": "2026-10-02 07:38:37",
+  "collected_at": "2026-10-03 07:12:47",
   "directors": [
     {
       "name": "Mr. Mahendra Narsinhbhai Patel",
@@ -9,6 +9,13 @@
       "age": 76,
       "year_born": 1949,
       "total_pay": 29214000
+    },
+    {
+      "name": "Mr. Apurva N. Kane",
+      "role": "Chief Executive Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Dipak J. Modi",
@@ -62,13 +69,6 @@
     {
       "name": "Mr. Snehal  Patel",
       "role": "Business Head of (HFFS) Packaging Machines Division",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Jignesh  Shah",
-      "role": "IT Head",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

@@ -1,7 +1,7 @@
 {
   "ticker": "DCM",
   "company": "DCM  Limited",
-  "collected_at": "2026-10-02 07:27:15",
+  "collected_at": "2026-10-03 06:59:46",
   "directors": [
     {
       "name": "Mr. Vinay  Sharma",
@@ -15,6 +15,13 @@
       "role": "Chief Financial Officer",
       "age": 69,
       "year_born": 1956,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Sonal  Gupta",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 34,
+      "year_born": 1991,
       "total_pay": "N/A"
     }
   ]

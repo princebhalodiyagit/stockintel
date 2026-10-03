@@ -1,6 +1,49 @@
 {
   "ticker": "CEIGALL",
   "company": "Ceigall India Limited",
-  "collected_at": "2026-10-02 07:25:34",
-  "directors": []
+  "collected_at": "2026-10-03 06:57:50",
+  "directors": [
+    {
+      "name": "Mr. Ramneek  Sehgal",
+      "role": "Chairman & MD",
+      "age": 44,
+      "year_born": 1981,
+      "total_pay": 125516412
+    },
+    {
+      "name": "Mr. Ayyalusamy  Saravanan",
+      "role": "Whole-Time Director, CEO & Chief Risk Officer",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kapil  Aggarwal",
+      "role": "Chief Financial Officer",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Megha  Kainth",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ramesh Kumar Gupta",
+      "role": "Chief Operating Officer",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Birendra Kumar Jha",
+      "role": "Vice President",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": "N/A"
+    }
+  ]
 }

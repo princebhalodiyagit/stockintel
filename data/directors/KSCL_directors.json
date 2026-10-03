@@ -1,7 +1,7 @@
 {
   "ticker": "KSCL",
   "company": "Kaveri Seed Company Limited",
-  "collected_at": "2026-10-02 07:37:22",
+  "collected_at": "2026-10-03 07:11:21",
   "directors": [
     {
       "name": "Mr. Gundavaram Venkata Bhaskar Rao",
@@ -43,7 +43,35 @@
       "role": "Whole Time Director",
       "age": 49,
       "year_born": 1976,
-      "total_pay": 15322961
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pindi Malla Reddy",
+      "role": "Head of Human Resources",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. N. P. Sharma",
+      "role": "Head of Research & Development",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Vasudeva Rao K",
+      "role": "Head - Supply Chain",
+      "age": 67,
+      "year_born": 1958,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajesh  Varma",
+      "role": "Head of Sales & Marketing",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
     }
   ]
 }

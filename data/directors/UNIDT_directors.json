@@ -1,7 +1,7 @@
 {
   "ticker": "UNIDT",
   "company": "United Drilling Tools Limited",
-  "collected_at": "2026-10-02 07:52:41",
+  "collected_at": "2026-10-03 07:28:36",
   "directors": [
     {
       "name": "Dr. Kanal  Gupta",
@@ -32,45 +32,45 @@
       "total_pay": 1401472
     },
     {
-      "name": "Mr. Yogesh  Kumar",
-      "role": "General Manager of Operation",
-      "age": 51,
-      "year_born": 1974,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Chandrapal  Sharma",
-      "role": "Deputy General Manager of Human Resource & Administration",
-      "age": 61,
-      "year_born": 1964,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Govind  Sharma",
-      "role": "General Manager of Sales & Marketing",
-      "age": 68,
-      "year_born": 1957,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Ajit  Kumar",
-      "role": "DGM of Operation",
+      "role": "Deputy General Manager of Operation",
       "age": 42,
       "year_born": 1983,
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Jyoti Kumar Singh",
+      "name": "Siddharth  Godayal",
       "role": "Deputy General Manager of Sales & Marketing",
-      "age": 46,
-      "year_born": 1979,
+      "age": 38,
+      "year_born": 1987,
       "total_pay": "N/A"
     },
     {
       "name": "Imran  Husain",
-      "role": "Deputy GM of Design & Operation",
-      "age": "N/A",
-      "year_born": "N/A",
+      "role": "Deputy General Manager of Design & Operation",
+      "age": 41,
+      "year_born": 1984,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Binay Kumar Choudhary",
+      "role": "Senior Assistant General Manager of Purchase",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Dinanath  Agrahari",
+      "role": "Deputy General Manager of Design & Operation",
+      "age": 43,
+      "year_born": 1982,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Khaliq  Ahmed",
+      "role": "Deputy General Manager of QC & QMS",
+      "age": 52,
+      "year_born": 1973,
       "total_pay": "N/A"
     }
   ]

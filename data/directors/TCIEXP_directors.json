@@ -1,13 +1,13 @@
 {
   "ticker": "TCIEXP",
   "company": "TCI Express Limited",
-  "collected_at": "2026-10-02 07:51:00",
+  "collected_at": "2026-10-03 07:26:41",
   "directors": [
     {
       "name": "Mr. Chander  Agarwal B.Sc.",
       "role": "MD & Executive Director",
-      "age": 46,
-      "year_born": 1979,
+      "age": 47,
+      "year_born": 1978,
       "total_pay": 112840000
     },
     {
@@ -41,6 +41,20 @@
     {
       "name": "Mr. Vikas  Sharma",
       "role": "Head of Sundry Business",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Piush  Chachan",
+      "role": "VP & Head of E-Com",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Soumya Ranjan Rout",
+      "role": "Head of IT",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

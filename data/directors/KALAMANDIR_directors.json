@@ -1,7 +1,7 @@
 {
   "ticker": "KALAMANDIR",
   "company": "Sai Silks (Kalamandir) Limited",
-  "collected_at": "2026-10-02 07:36:03",
+  "collected_at": "2026-10-03 07:09:50",
   "directors": [
     {
       "name": "Mr. Rachamadugu Balaji Bharadwaj",
@@ -57,6 +57,20 @@
       "role": "General Manager of Administration",
       "age": 40,
       "year_born": 1985,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Sabitha  Borra",
+      "role": "General Manager of Legal",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sai Ram Chavali",
+      "role": "Head of Human Resources",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "ticker": "JNKINDIA",
   "company": "JNK India Limited",
-  "collected_at": "2026-10-02 07:35:36",
+  "collected_at": "2026-10-03 07:09:19",
   "directors": [
     {
       "name": "Mr. Arvind  Kamath",
@@ -25,6 +25,13 @@
       "total_pay": 26400000
     },
     {
+      "name": "Mr. Anand  Agarwal",
+      "role": "Interim Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 22000
+    },
+    {
       "name": "Mr. Ashish  Soni",
       "role": "Company Secretary & Compliance Officer",
       "age": "N/A",
@@ -32,11 +39,25 @@
       "total_pay": 206000
     },
     {
-      "name": "Mr. Anand  Agarwal",
-      "role": "Interim Chief Financial Officer",
+      "name": "Mr. Deepak  Sake",
+      "role": "Chief Technology Officer",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": 22000
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Annie  Varghese",
+      "role": "Senior Manager of Investor Relations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pankaj  Gupta",
+      "role": "Chief Marketing Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

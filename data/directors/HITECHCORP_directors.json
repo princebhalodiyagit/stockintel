@@ -1,7 +1,7 @@
 {
   "ticker": "HITECHCORP",
   "company": "Hitech Corporation Limited",
-  "collected_at": "2026-10-02 07:32:55",
+  "collected_at": "2026-10-03 07:06:14",
   "directors": [
     {
       "name": "Mr. Malav Ashwin Dani",
@@ -9,6 +9,13 @@
       "age": 50,
       "year_born": 1975,
       "total_pay": 4500000
+    },
+    {
+      "name": "Ms. Hetali Harish Mehta",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 31,
+      "year_born": 1994,
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Mehernosh Adi Mehta",
@@ -46,15 +53,8 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Ms. Hetali Harish Mehta",
-      "role": "Company Secretary & Compliance Officer",
-      "age": 31,
-      "year_born": 1994,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Amit  Arvindkumar Panchal",
-      "role": "Head of Operations All Plant",
+      "role": "Vice President of Hitech Excellence",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

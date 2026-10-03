@@ -1,7 +1,7 @@
 {
   "ticker": "HBLENGINE",
   "company": "HBL Engineering Limited",
-  "collected_at": "2026-10-02 07:32:16",
+  "collected_at": "2026-10-03 07:05:30",
   "directors": [
     {
       "name": "Dr. Aluru Jagadish Prasad",
@@ -34,6 +34,20 @@
     {
       "name": "Mr. Suresh  Kalyan",
       "role": "Chief Operating Officer",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Kavita Prasad Aluru",
+      "role": "Executive Director",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": 1287000
+    },
+    {
+      "name": "Mr. M. V. V. Vidyasagar",
+      "role": "President of Electronics Group",
       "age": 61,
       "year_born": 1964,
       "total_pay": "N/A"

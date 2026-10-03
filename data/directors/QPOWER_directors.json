@@ -1,7 +1,7 @@
 {
   "ticker": "QPOWER",
   "company": "Quality Power Electrical Equipments Limited",
-  "collected_at": "2026-10-02 07:44:35",
+  "collected_at": "2026-10-03 07:19:32",
   "directors": [
     {
       "name": "Mr. Thalavaidurai  Pandyan",
@@ -11,11 +11,18 @@
       "total_pay": 20700000
     },
     {
-      "name": "Mr. Deepak Ramchandra Suryavanshi",
-      "role": "Company Secretary & Compliance Officer",
+      "name": "Mr. Sanjog  Mhatre",
+      "role": "Chief Executive Officer",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": 680000
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajesh  Jayaraman",
+      "role": "Chief Financial Officer",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": "N/A"
     },
     {
       "name": "Manu Sree Achthan Asokan",
@@ -53,22 +60,15 @@
       "total_pay": 1210000
     },
     {
-      "name": "Mr. Sanjog  Mhatre",
-      "role": "Chief Executive Officer",
+      "name": "Mr. Deepak Ramchandra Suryavanshi",
+      "role": "Company Secretary & Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": "N/A"
+      "total_pay": 680000
     },
     {
       "name": "Mr. Udaykumar Devidas Maharnur",
       "role": "Head of Quality",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Jos  Augustine",
-      "role": "Head of Plant",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

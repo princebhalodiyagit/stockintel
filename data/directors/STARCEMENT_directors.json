@@ -1,7 +1,7 @@
 {
   "ticker": "STARCEMENT",
   "company": "Star Cement Limited",
-  "collected_at": "2026-10-02 07:49:25",
+  "collected_at": "2026-10-03 07:24:54",
   "directors": [
     {
       "name": "Mr. Sajjan  Bhajanka",
@@ -15,6 +15,13 @@
       "role": "Chief Financial Officer",
       "age": 53,
       "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pradeep  Purohit",
+      "role": "Chief Operating Officer",
+      "age": 59,
+      "year_born": 1966,
       "total_pay": "N/A"
     },
     {
@@ -50,13 +57,20 @@
       "role": "Chief Commercial & Corporate Affairs Officer",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": 7495215
+      "total_pay": "N/A"
     },
     {
-      "name": "Mr. Sunil Kumar Gupta",
-      "role": "Chief Project Officer",
+      "name": "Sitesh  Johri",
+      "role": "Vice President",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manoj Kumar Shovasaria",
+      "role": "Assistant Vice President",
+      "age": 52,
+      "year_born": 1973,
       "total_pay": "N/A"
     }
   ]

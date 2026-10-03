@@ -1,7 +1,7 @@
 {
   "ticker": "AGIIL",
   "company": "Agi Infra Limited",
-  "collected_at": "2026-10-02 07:20:34",
+  "collected_at": "2026-10-03 06:52:09",
   "directors": [
     {
       "name": "Dr. S. Sukhdev Singh Khinda",
@@ -43,6 +43,13 @@
       "role": "General Manager of Marketing",
       "age": 58,
       "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Pardeep  Singh",
+      "role": "Electrical Head",
+      "age": 43,
+      "year_born": 1982,
       "total_pay": "N/A"
     }
   ]

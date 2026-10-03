@@ -1,7 +1,7 @@
 {
   "ticker": "ARIES",
   "company": "Aries Agro Limited",
-  "collected_at": "2026-10-02 07:21:54",
+  "collected_at": "2026-10-03 06:53:41",
   "directors": [
     {
       "name": "Dr. Rahul  Mirchandani ; Mba; Ph.D., B. Com; CFA",
@@ -9,6 +9,13 @@
       "age": 50,
       "year_born": 1975,
       "total_pay": 25450561
+    },
+    {
+      "name": "Ms. Chhaya Ashok Warrier",
+      "role": "Group Controller of Finance & CFO",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Biplob  Chatterjee",
@@ -22,6 +29,48 @@
       "role": "Company Secretary, Chief Legal & Compliance Officer",
       "age": 62,
       "year_born": 1963,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jayapradeep  Subramanian",
+      "role": "Additional General Director of Marketing (Southern Region)",
+      "age": 42,
+      "year_born": 1983,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Santosh Kumar Pandey",
+      "role": "Senior Vice President of Marketing",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Arun Kumar Tiwari",
+      "role": "Additional General Director of Marketing (North & West India)",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Devendra Kumar Tiwari",
+      "role": "Senior Vice President of Operations",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajesh Kumar Gupta",
+      "role": "Senior Vice President of Marketing",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Shinde Mahesh Anant",
+      "role": "Group Controller of Accounts",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

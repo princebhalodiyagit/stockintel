@@ -1,7 +1,7 @@
 {
   "ticker": "NMDC",
   "company": "NMDC Limited",
-  "collected_at": "2026-10-02 07:41:42",
+  "collected_at": "2026-10-03 07:16:15",
   "directors": [
     {
       "name": "Mr. Amitava  Mukherjee",
@@ -11,11 +11,25 @@
       "total_pay": 6850000
     },
     {
+      "name": "Mr. Anurag  Kapil",
+      "role": "Director of Finance & Director",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Vinay  Kumar",
       "role": "Technical Director & Director",
       "age": 56,
       "year_born": 1969,
       "total_pay": 8223000
+    },
+    {
+      "name": "Mr. Krishna Kumar Thakur",
+      "role": "Director of Personnel & Director",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": 165000
     },
     {
       "name": "Mr. Joydeep  Dasgupta",
@@ -25,13 +39,6 @@
       "total_pay": 7682000
     },
     {
-      "name": "Mr. Anurag  Kapil",
-      "role": "Director of Finance",
-      "age": 52,
-      "year_born": 1973,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Aniket  Kulshreshtha",
       "role": "Company Secretary & Compliance Officer",
       "age": "N/A",
@@ -39,22 +46,8 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Krishna Kumar Thakur",
-      "role": "Director of Personnel & Director",
-      "age": 51,
-      "year_born": 1974,
-      "total_pay": 165000
-    },
-    {
       "name": "Mr. Suresh Kumar Jain",
       "role": "Chief General Manager of R.E.D",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. B.  Venkateswarlu",
-      "role": "Executive Director of BIOM - Bacheli Complex",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
@@ -67,8 +60,15 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. N. Ramakrishna Prasad",
-      "role": "Chief General Manager of Industrial Engineering & MS",
+      "name": "Mr. M.  Rajagopal",
+      "role": "Chief General Manager of Slurry Pipeline",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. A.  Bandopadhyay",
+      "role": "Chief General Manager of Electrical",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

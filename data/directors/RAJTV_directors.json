@@ -1,7 +1,7 @@
 {
   "ticker": "RAJTV",
   "company": "Raj Television Network Limited",
-  "collected_at": "2026-10-02 07:44:52",
+  "collected_at": "2026-10-03 07:19:50",
   "directors": [
     {
       "name": "Mr. Mani Samy Pillai Raajhendhran",
@@ -18,6 +18,20 @@
       "total_pay": 12000000
     },
     {
+      "name": "Mr. Kannappa Pillai Mani Ragunathan",
+      "role": "Head & Director of Marketing and Whole-Time Director",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": 12000000
+    },
+    {
+      "name": "Mr. Manisami  Rajaratnam",
+      "role": "Head & Director of Distribution and Whole-Time Director",
+      "age": 73,
+      "year_born": 1952,
+      "total_pay": 12000000
+    },
+    {
       "name": "Mr. Siluvaimuthu  Jeyaseelan",
       "role": "Chief Financial Officer",
       "age": "N/A",
@@ -27,6 +41,34 @@
     {
       "name": "Ms. Priyanka  Mudaliyar",
       "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sathish  Krishnan",
+      "role": "Vice President of Sales & Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Rajakokila  B",
+      "role": "Head of Human Resource",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sanjay  Banerjee",
+      "role": "National Head of Sales & Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Nachiappan  Raajhendhran",
+      "role": "Chief Business Development Officer of Ecommerce & Internet Business",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

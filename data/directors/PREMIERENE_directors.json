@@ -1,11 +1,11 @@
 {
   "ticker": "PREMIERENE",
   "company": "Premier Energies Limited",
-  "collected_at": "2026-10-02 07:44:09",
+  "collected_at": "2026-10-03 07:19:02",
   "directors": [
     {
       "name": "Mr. Surender Pal Singh Saluja",
-      "role": "Whole-time Director & Chairman",
+      "role": "Chairman",
       "age": 79,
       "year_born": 1946,
       "total_pay": 10000000
@@ -26,9 +26,9 @@
     },
     {
       "name": "Mr. Sudhir  Moola",
-      "role": "Chief Strategy Officer of PSPPL & Additional Whole-Time Director",
-      "age": "N/A",
-      "year_born": "N/A",
+      "role": "Chief Strategy Officer and Executive Whole-Time Director",
+      "age": 44,
+      "year_born": 1981,
       "total_pay": 8250000
     },
     {
@@ -36,6 +36,13 @@
       "role": "Group Chief Financial Officer",
       "age": 56,
       "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vishnu Vardhan Hazari",
+      "role": "Chief Operating Officer",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
@@ -64,13 +71,6 @@
       "role": "Chief Growth Officer",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Chandra Mauli Kumar",
-      "role": "Chief Production Officer of PEPPL",
-      "age": 54,
-      "year_born": 1971,
       "total_pay": "N/A"
     }
   ]

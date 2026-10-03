@@ -1,7 +1,7 @@
 {
   "ticker": "LICHSGFIN",
   "company": "LIC Housing Finance Limited",
-  "collected_at": "2026-10-02 07:37:51",
+  "collected_at": "2026-10-03 07:11:54",
   "directors": [
     {
       "name": "Mr. Lokesh  Mundhra",
@@ -16,6 +16,13 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 4200000
+    },
+    {
+      "name": "Sandeep  Kumar",
+      "role": "Additional Director, MD, CEO & COO",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. H J Panchariya",
@@ -62,13 +69,6 @@
     {
       "name": "Mr. Jimit Narendra Shah",
       "role": "Chief Information Security Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Hitesh B. Talreja",
-      "role": "Joint General Manager of IT",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

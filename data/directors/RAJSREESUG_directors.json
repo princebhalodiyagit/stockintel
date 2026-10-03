@@ -1,10 +1,10 @@
 {
   "ticker": "RAJSREESUG",
   "company": "Rajshree Sugars & Chemicals Limited",
-  "collected_at": "2026-10-02 07:44:51",
+  "collected_at": "2026-10-03 07:19:49",
   "directors": [
     {
-      "name": "Mr. R.  Varadarajan",
+      "name": "Mr. Ranganathan  Varadarajan",
       "role": "Whole Time Director",
       "age": 67,
       "year_born": 1958,
@@ -43,6 +43,20 @@
       "role": "Vice President of Operations",
       "age": 58,
       "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. M. Thanga Thiruppathi",
+      "role": "General Manager of Industrial Relations",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. M.  Sathiyaveni",
+      "role": "General Manager of Purchase & Civil",
+      "age": 57,
+      "year_born": 1968,
       "total_pay": "N/A"
     }
   ]

@@ -1,8 +1,15 @@
 {
   "ticker": "PLAZACABLE",
   "company": "Plaza Wires Limited",
-  "collected_at": "2026-10-02 07:43:34",
+  "collected_at": "2026-10-03 07:18:23",
   "directors": [
+    {
+      "name": "Mr. Sanjay  Gupta",
+      "role": "MD & Chairman",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": 4200000
+    },
     {
       "name": "Mr. Ajay Kumar Batla",
       "role": "Chief Financial Officer",
@@ -16,6 +23,27 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Sonia  Gupta",
+      "role": "Whole-Time Director",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": 3600000
+    },
+    {
+      "name": "Mr. Abhishek  Gupta",
+      "role": "Whole-time Director",
+      "age": 34,
+      "year_born": 1991,
+      "total_pay": 3000000
+    },
+    {
+      "name": "Mr. Aditya  Gupta",
+      "role": "Whole-Time Director",
+      "age": 31,
+      "year_born": 1994,
+      "total_pay": 3000000
     }
   ]
 }

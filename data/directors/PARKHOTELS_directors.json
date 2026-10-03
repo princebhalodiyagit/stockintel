@@ -1,8 +1,50 @@
 {
   "ticker": "PARKHOTELS",
   "company": "Apeejay Surrendra Park Hotels Limited",
-  "collected_at": "2026-10-02 07:42:54",
+  "collected_at": "2026-10-03 07:17:37",
   "directors": [
+    {
+      "name": "Ms. Priya  Paul",
+      "role": "Executive Chairperson of the Board",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": 77500000
+    },
+    {
+      "name": "Mr. Vijay  Dewan",
+      "role": "MD & Executive Director",
+      "age": 66,
+      "year_born": 1959,
+      "total_pay": 62700000
+    },
+    {
+      "name": "Ms. Shalini  Keshan",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 3300000
+    },
+    {
+      "name": "Ms. Sujata  Guin",
+      "role": "Senior VP of Human Resources & Chief Human Resources Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rohit  Arora",
+      "role": "VP of North & Goa Operations and Head of Leisure Sales",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manish  Bhagat",
+      "role": "Chief Financial Officer",
+      "age": 43,
+      "year_born": 1982,
+      "total_pay": "N/A"
+    },
     {
       "name": "Mr. Rajesh Kumar Singh",
       "role": "National Head of Operations & Development",

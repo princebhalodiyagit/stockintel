@@ -1,7 +1,7 @@
 {
   "ticker": "ALMONDZ",
   "company": "Almondz Global Securities Limited",
-  "collected_at": "2026-10-02 07:21:08",
+  "collected_at": "2026-10-03 06:52:47",
   "directors": [
     {
       "name": "Mr. Manoj Kumar Arora",
@@ -9,6 +9,20 @@
       "age": 52,
       "year_born": 1973,
       "total_pay": 7778000
+    },
+    {
+      "name": "Mr. Rajeev  Kumar",
+      "role": "Whole-Time Director, CFO & Director of Finance",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ajay  Pratap",
+      "role": "SVP of Corporate Affairs, Compliance Officer, Director of Legal, Company Secretary & Director",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": 3891000
     },
     {
       "name": "Arindam  Biswas",

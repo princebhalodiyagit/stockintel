@@ -1,7 +1,7 @@
 {
   "ticker": "MBEL",
   "company": "M & B Engineering Limited",
-  "collected_at": "2026-10-02 07:39:15",
+  "collected_at": "2026-10-03 07:13:29",
   "directors": [
     {
       "name": "Mr. Chiragbhai Hasmukhbhai Patel",
@@ -16,6 +16,13 @@
       "age": 49,
       "year_born": 1976,
       "total_pay": 23955000
+    },
+    {
+      "name": "Ms. Birva Chiragbhai Patel",
+      "role": "Whole-Time Director",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": 11430000
     },
     {
       "name": "Mr. Aditya Vipinbhai Patel",

@@ -1,7 +1,7 @@
 {
   "ticker": "TRANSRAILL",
   "company": "Transrail Lighting Limited",
-  "collected_at": "2026-10-02 07:52:03",
+  "collected_at": "2026-10-03 07:27:53",
   "directors": [
     {
       "name": "Mr. Digambar Chunnilal Bagde B.E",
@@ -16,6 +16,13 @@
       "age": 63,
       "year_born": 1962,
       "total_pay": 49041369
+    },
+    {
+      "name": "Mr. Dhulipala  Suryanarayana",
+      "role": "Whole Time Director",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": 20527994
     },
     {
       "name": "Mr. Deepak  Khandewal",
@@ -44,13 +51,6 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Dhulipala  Suryanarayana",
-      "role": "Whole Time Director",
-      "age": 48,
-      "year_born": 1977,
-      "total_pay": 20527994
     },
     {
       "name": "Mr. Rajesh  Neelakantan",

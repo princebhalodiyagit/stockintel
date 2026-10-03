@@ -1,7 +1,7 @@
 {
   "ticker": "OMAXE",
   "company": "Omaxe Limited",
-  "collected_at": "2026-10-02 07:42:11",
+  "collected_at": "2026-10-03 07:16:47",
   "directors": [
     {
       "name": "Mr. Rohtas  Goel",
@@ -20,8 +20,8 @@
     {
       "name": "Mr. Atul  Banshal",
       "role": "Director of Finance & CFO",
-      "age": 51,
-      "year_born": 1974,
+      "age": 52,
+      "year_born": 1973,
       "total_pay": "N/A"
     },
     {
@@ -39,13 +39,6 @@
       "total_pay": 6000000
     },
     {
-      "name": "Mr. Daleep  Moudgil",
-      "role": "President",
-      "age": 65,
-      "year_born": 1960,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Ms. Vijayalaxmi  Purohit",
       "role": "President",
       "age": 53,
@@ -60,17 +53,24 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Ram Saran Nigam",
-      "role": "President",
-      "age": 56,
-      "year_born": 1969,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Jatin  Goel",
       "role": "Director of Operations",
       "age": 32,
       "year_born": 1993,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Udit  Mehra",
+      "role": "Senior Manager, Equity & Investor Relations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rahul  Chatterjee",
+      "role": "President of Corporate Treasury, CRM Outflow & Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

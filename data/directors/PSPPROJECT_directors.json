@@ -1,7 +1,7 @@
 {
   "ticker": "PSPPROJECT",
   "company": "PSP Projects Limited",
-  "collected_at": "2026-10-02 07:44:25",
+  "collected_at": "2026-10-03 07:19:19",
   "directors": [
     {
       "name": "Mr. Prahaladbhai Shivrambhai Patel B.E.Civil",
@@ -37,6 +37,13 @@
       "age": 30,
       "year_born": 1995,
       "total_pay": 27000000
+    },
+    {
+      "name": "Ms. Prachi S. Patel",
+      "role": "Senior Manager of HR",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     },
     {
       "name": "Prashant  Khandelwal",

@@ -1,7 +1,7 @@
 {
   "ticker": "GOKUL",
   "company": "Gokul Refoils and Solvent Limited",
-  "collected_at": "2026-10-02 07:31:11",
+  "collected_at": "2026-10-03 07:04:16",
   "directors": [
     {
       "name": "Mr. Shaunak Bhikhalal Mandalia CA",
@@ -11,11 +11,11 @@
       "total_pay": 15522000
     },
     {
-      "name": "Mr. Dharmendrasinh Bavantsinh Rajput B.E.",
-      "role": "MD & Non-Independent Whole-Time Executive Director",
-      "age": 36,
-      "year_born": 1989,
-      "total_pay": 2390000
+      "name": "Mr. Samkit Deveshkumar Parikh",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Nikhilkumar Mansukhbhai Vadera",
@@ -25,11 +25,11 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Rajeev  Bose MBA",
-      "role": "Vice President of Marketing",
-      "age": 53,
-      "year_born": 1972,
-      "total_pay": "N/A"
+      "name": "Mr. Dharmendrasinh Bavantsinh Rajput B.E.",
+      "role": "MD & Non-Independent Whole-Time Executive Director",
+      "age": 36,
+      "year_born": 1989,
+      "total_pay": 2390000
     },
     {
       "name": "Mr. Arjunsinh  Rajput",
@@ -37,6 +37,13 @@
       "age": 25,
       "year_born": 2000,
       "total_pay": 1201418
+    },
+    {
+      "name": "Rajeev  Bose MBA",
+      "role": "Vice President of Marketing",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
     }
   ]
 }

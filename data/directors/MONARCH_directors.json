@@ -1,7 +1,7 @@
 {
   "ticker": "MONARCH",
   "company": "Monarch Networth Capital Limited",
-  "collected_at": "2026-10-02 07:40:04",
+  "collected_at": "2026-10-03 07:14:24",
   "directors": [
     {
       "name": "Ms. Manju Suresh Bafna B.Sc.",
@@ -15,14 +15,7 @@
       "role": "Chief Executive Officer",
       "age": 45,
       "year_born": 1980,
-      "total_pay": 42834000
-    },
-    {
-      "name": "Mr. Govinda  Meghani",
-      "role": "Chief Financial Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 3755000
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Vaibhav Jayantilal Shah B.Sc.",
@@ -39,6 +32,20 @@
       "total_pay": 3000000
     },
     {
+      "name": "Mr. Govinda  Meghani",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 3755000
+    },
+    {
+      "name": "Mr. Bankim Jayantilal Shah B.Com.",
+      "role": "Chief Operating Officer",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Shailen Ramesh Shah B.Com.",
       "role": "President of Institutional Desk",
       "age": 50,
@@ -51,13 +58,6 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 2039000
-    },
-    {
-      "name": "Mr. Bankim Jayantilal Shah B.Com.",
-      "role": "Chief Operating Officer",
-      "age": 51,
-      "year_born": 1974,
-      "total_pay": "N/A"
     },
     {
       "name": "Smit  Shah",

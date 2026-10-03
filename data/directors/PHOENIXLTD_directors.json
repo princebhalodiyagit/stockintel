@@ -1,7 +1,7 @@
 {
   "ticker": "PHOENIXLTD",
   "company": "The Phoenix Mills Limited",
-  "collected_at": "2026-10-02 07:43:18",
+  "collected_at": "2026-10-03 07:18:05",
   "directors": [
     {
       "name": "Mr. Shishir Ashok Shrivastava",
@@ -9,13 +9,6 @@
       "age": 49,
       "year_born": 1976,
       "total_pay": 96936042
-    },
-    {
-      "name": "Mr. Kailash B. Gupta",
-      "role": "Group Chief Financial Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
     },
     {
       "name": "Mr. Rajesh Ramesh Kulkarni",
@@ -32,8 +25,8 @@
       "total_pay": 42100554
     },
     {
-      "name": "Mr. Varun Jagdish Parwal",
-      "role": "Executive Director of Corporate, IR & Strategy",
+      "name": "Mr. Kailash B. Gupta",
+      "role": "Group Chief Financial Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
@@ -69,6 +62,13 @@
     {
       "name": "Mr. Gautam  Srivastava",
       "role": "Chief Human Resources Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Dipesh Mahesh Gandhi",
+      "role": "Chief Operations Officer of Strategy, Business Development & Corporate",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

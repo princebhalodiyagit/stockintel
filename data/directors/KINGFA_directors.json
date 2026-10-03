@@ -1,6 +1,56 @@
 {
   "ticker": "KINGFA",
   "company": "Kingfa Science & Technology (India) Limited",
-  "collected_at": "2026-10-02 07:36:36",
-  "directors": []
+  "collected_at": "2026-10-03 07:10:28",
+  "directors": [
+    {
+      "name": "Mr. Deepak  Vyas",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Doraiswami  Balaji",
+      "role": "Whole-time Executive Director",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": 7190004
+    },
+    {
+      "name": "Mr. Dazhong  Wang",
+      "role": "MD, Chairman, CEO & Additional Director",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Xie  Dongming",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 1905000
+    },
+    {
+      "name": "Mr. B.  Saravanan",
+      "role": "General Manager of Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "S.  Shanmugasundaram",
+      "role": "Business Unit Head of West",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sethuraman  Shanmugasundaram",
+      "role": "Additional Whole Time Director",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    }
+  ]
 }

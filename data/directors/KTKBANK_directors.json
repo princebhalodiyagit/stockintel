@@ -1,8 +1,15 @@
 {
   "ticker": "KTKBANK",
   "company": "The Karnataka Bank Limited",
-  "collected_at": "2026-10-02 07:37:26",
+  "collected_at": "2026-10-03 07:11:26",
   "directors": [
+    {
+      "name": "Mr. Raghavendra Srinivas Bhat",
+      "role": "MD, CEO & Additional Director",
+      "age": 67,
+      "year_born": 1958,
+      "total_pay": 18060943
+    },
     {
       "name": "Mr. B. S. Raja",
       "role": "Chief Operating Officer",
@@ -26,7 +33,7 @@
     },
     {
       "name": "Mr. P. J. Vinaya Bhat",
-      "role": "Head of Compliance Department & Chief Compliance Officer & principal off",
+      "role": "GM, Head of Compliance Department & Chief Compliance Officer & Principal Off.",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
@@ -48,13 +55,6 @@
     {
       "name": "Mr. B. Anantha Padmanabha",
       "role": "Head of Special Projects",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Ravichandran  S.",
-      "role": "GM & Head of Credit Sanctions Department",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

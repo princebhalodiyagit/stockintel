@@ -1,8 +1,15 @@
 {
   "ticker": "AKI",
   "company": "AKI India Limited",
-  "collected_at": "2026-10-02 07:20:52",
+  "collected_at": "2026-10-03 06:52:29",
   "directors": [
+    {
+      "name": "Mr. Asad Kamal Iraqi",
+      "role": "Chief Executive Officer",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": "N/A"
+    },
     {
       "name": "Mr. Prabodh  Sharma",
       "role": "Chief Financial Officer",
@@ -18,7 +25,7 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Mohammad  Ajwad",
+      "name": "Mr. Mohammad AD Ajwad",
       "role": "MD & Director",
       "age": 28,
       "year_born": 1997,

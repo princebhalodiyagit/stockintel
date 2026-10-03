@@ -1,20 +1,34 @@
 {
   "ticker": "AQYLON",
   "company": "Aqylon Nexus Limited",
-  "collected_at": "2026-10-02 07:21:48",
+  "collected_at": "2026-10-03 06:53:34",
   "directors": [
     {
-      "name": "Mr. Srivatsava  Sunkara",
-      "role": "MD & Chairman",
+      "name": "Ms. Bhawna  Saunkhiya",
+      "role": "Company Secretary & Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Kiran Kumar Inampudi",
-      "role": "Executive Non-Independent Director",
+      "name": "Mr. Parth Rajeshbhai Rupareliya",
+      "role": "MD & Chairperson",
+      "age": 26,
+      "year_born": 1999,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Bhavin Sanjaybhai Sanghani",
+      "role": "Chief Financial Officer",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vishnu Deepakbhai Rupareliya",
+      "role": "Executive Director",
+      "age": 23,
+      "year_born": 2002,
       "total_pay": "N/A"
     }
   ]

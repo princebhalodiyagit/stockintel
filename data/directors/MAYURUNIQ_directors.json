@@ -1,7 +1,7 @@
 {
   "ticker": "MAYURUNIQ",
   "company": "Mayur Uniquoters Ltd",
-  "collected_at": "2026-10-02 07:39:11",
+  "collected_at": "2026-10-03 07:13:25",
   "directors": [
     {
       "name": "Mr. Suresh Kumar Poddar B.Sc",
@@ -32,6 +32,20 @@
       "total_pay": 19361000
     },
     {
+      "name": "Ms. Puja  Poddar",
+      "role": "President and President of HR & Administration",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pankaj Kumar Pandey",
+      "role": "Senior General Manager of Operations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. B. S. Venkatesh",
       "role": "Senior General Manager of Marketing",
       "age": 61,
@@ -57,13 +71,6 @@
       "role": "Assistant General Manager",
       "age": 44,
       "year_born": 1981,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Ajeet Vikram Bahadur Singh",
-      "role": "Associate Vice President",
-      "age": 47,
-      "year_born": 1978,
       "total_pay": "N/A"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "ticker": "GOLDIAM",
   "company": "Goldiam International Limited",
-  "collected_at": "2026-10-02 07:31:13",
+  "collected_at": "2026-10-03 07:04:18",
   "directors": [
     {
       "name": "Mr. Rashesh Manharbhai Bhansali",
@@ -32,10 +32,24 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. Abhinav  Kumar",
+      "role": "President of Retail Business & President of Indian Retail Operation",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Amol  Jain",
       "role": "Group Marketing Head",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mahesh Kumar Prasad",
+      "role": "Manager of Human Resources",
+      "age": 61,
+      "year_born": 1964,
       "total_pay": "N/A"
     },
     {
@@ -57,20 +71,6 @@
       "role": "Managing Director of Diagold Designs Ltd",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Jayesh Prafulchandra Shah",
-      "role": "Group Manager",
-      "age": 42,
-      "year_born": 1983,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mohit  Shekatkar",
-      "role": "General Manager",
-      "age": 45,
-      "year_born": 1980,
       "total_pay": "N/A"
     }
   ]

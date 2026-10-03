@@ -1,7 +1,7 @@
 {
   "ticker": "GINNIFILA",
   "company": "Ginni Filaments Limited",
-  "collected_at": "2026-10-02 07:30:39",
+  "collected_at": "2026-10-03 07:03:38",
   "directors": [
     {
       "name": "Mr. Shishir  Jaipuria",
@@ -11,8 +11,15 @@
       "total_pay": 25647000
     },
     {
+      "name": "Mr. Saket  Jaipuria",
+      "role": "President & Non-Independent Executive Director",
+      "age": 43,
+      "year_born": 1982,
+      "total_pay": 18118000
+    },
+    {
       "name": "Mr. Arun  Nag",
-      "role": "Joint President & Unit Head",
+      "role": "Joint President & Unit Head of Nonwoven & Panoli",
       "age": 65,
       "year_born": 1960,
       "total_pay": "N/A"
@@ -33,7 +40,7 @@
     },
     {
       "name": "Mr. Bharat  Singh",
-      "role": "Compliance Officer & Company Secretary",
+      "role": "GM, Compliance Officer & Company Secretary",
       "age": 63,
       "year_born": 1962,
       "total_pay": "N/A"
@@ -53,10 +60,10 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Manish  Kaushik",
-      "role": "General Manager in Commercial",
-      "age": "N/A",
-      "year_born": "N/A",
+      "name": "Mr. Manish  Kaushik",
+      "role": "General Manager of Commercial",
+      "age": 48,
+      "year_born": 1977,
       "total_pay": "N/A"
     }
   ]

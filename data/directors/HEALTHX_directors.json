@@ -1,13 +1,27 @@
 {
   "ticker": "HEALTHX",
   "company": "Health X Platform Limited",
-  "collected_at": "2026-10-02 07:32:27",
+  "collected_at": "2026-10-03 07:05:42",
   "directors": [
     {
       "name": "Mr. Banwari Lal Mittal",
       "role": "Chairman, MD & CEO",
       "age": 57,
       "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Lokesh  Agarwal",
+      "role": "Chief Financial Officer",
+      "age": 39,
+      "year_born": 1986,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pratap  Singh",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 39,
+      "year_born": 1986,
       "total_pay": "N/A"
     },
     {

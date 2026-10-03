@@ -1,7 +1,7 @@
 {
   "ticker": "HEIDELBERG",
   "company": "HeidelbergCement India Limited",
-  "collected_at": "2026-10-02 07:32:30",
+  "collected_at": "2026-10-03 07:05:45",
   "directors": [
     {
       "name": "Mr. Joydeep  Mukherjee",
@@ -11,6 +11,13 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. Vimal Kumar Jain",
+      "role": "Director Technical & Whole-Time Director",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": 30589712
+    },
+    {
       "name": "Mr. Anil Kumar Sharma ACA, ACS, B.Com",
       "role": "Chief Financial Officer",
       "age": 52,
@@ -18,10 +25,52 @@
       "total_pay": 33600000
     },
     {
+      "name": "Mr. Shashank  Shekhar",
+      "role": "Country Head of Legal & Compliance",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajinder  Singh",
+      "role": "President of Sales & Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
       "name": "Ms. Poonam  Sharma B.Sc, MBA",
       "role": "Director of Human Resources",
       "age": 60,
       "year_born": 1965,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ravindra K. Shukla",
+      "role": "Senior Vice President of Sales & Marketing",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manish Kumar Shah",
+      "role": "Head of Cement Competency Centre",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Suresh Chandra Dube",
+      "role": "Head of Works-Damoh",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Gulshan  Bajaj",
+      "role": "Head of Internal Audit",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

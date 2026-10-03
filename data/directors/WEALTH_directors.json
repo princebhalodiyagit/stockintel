@@ -1,7 +1,7 @@
 {
   "ticker": "WEALTH",
   "company": "Wealth First Portfolio Managers Limited",
-  "collected_at": "2026-10-02 07:54:06",
+  "collected_at": "2026-10-03 07:30:11",
   "directors": [
     {
       "name": "Mr. Ashish Navnitlal Shah",
@@ -18,13 +18,6 @@
       "total_pay": 1771590
     },
     {
-      "name": "Mr. Manish Dhirajlal Kansara",
-      "role": "Chief Operations Officer",
-      "age": 52,
-      "year_born": 1973,
-      "total_pay": 2171610
-    },
-    {
       "name": "Mr. Aayush Kamleshbhai Shah C.S.",
       "role": "Compliance Officer & Company Secretary",
       "age": 34,
@@ -39,6 +32,27 @@
       "total_pay": 2548000
     },
     {
+      "name": "Mr. Manish Dhirajlal Kansara",
+      "role": "Chief Operations Officer",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": 2171610
+    },
+    {
+      "name": "Nirad  Shah",
+      "role": "Senior Vice President of Sales",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rakesh  Shah",
+      "role": "Chief Business Officer",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Bhadresh  Shah",
       "role": "Senior Vice President - Equity",
       "age": 55,
@@ -50,6 +64,13 @@
       "role": "Chief Manager of Operations",
       "age": 32,
       "year_born": 1993,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Nishil  Pandya",
+      "role": "Head of Business Development & Strategy",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

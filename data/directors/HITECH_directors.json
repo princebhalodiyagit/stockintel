@@ -1,7 +1,7 @@
 {
   "ticker": "HITECH",
   "company": "Hi-Tech Pipes Limited",
-  "collected_at": "2026-10-02 07:32:54",
+  "collected_at": "2026-10-03 07:06:13",
   "directors": [
     {
       "name": "Mr. Ajay Kumar Bansal",
@@ -16,6 +16,13 @@
       "age": 41,
       "year_born": 1984,
       "total_pay": 12000000
+    },
+    {
+      "name": "Mr. Kamleshwar  Prasad",
+      "role": "Whole-Time Director",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": 1980000
     },
     {
       "name": "Mr. Arvind Kumar Bansal F.C.A.",

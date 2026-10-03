@@ -1,7 +1,7 @@
 {
   "ticker": "PARAGMILK",
   "company": "Parag Milk Foods Limited",
-  "collected_at": "2026-10-02 07:42:51",
+  "collected_at": "2026-10-03 07:17:33",
   "directors": [
     {
       "name": "Mr. Devendra Prakash Shah",
@@ -16,6 +16,20 @@
       "age": 42,
       "year_born": 1983,
       "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Akshali Devendra Shah",
+      "role": "Senior VP of Strategy - Sales & Marketing and Executive Director",
+      "age": 34,
+      "year_born": 1991,
+      "total_pay": 65200000
+    },
+    {
+      "name": "Mr. Pritam Prakash Shah",
+      "role": "MD & Executive Director",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": 65200000
     },
     {
       "name": "Mr. Rakesh R. Kothari",
@@ -53,15 +67,8 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Niharendu  Sarkar",
-      "role": "Senior Vice-President of Logistics & Supply Chain",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Ajit  Kulkarni",
-      "role": "Business Head of Health & Nutrition",
+      "name": "Mr. Chandrakant  Kamane",
+      "role": "Head of HR",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

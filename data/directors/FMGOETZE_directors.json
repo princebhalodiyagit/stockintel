@@ -1,7 +1,7 @@
 {
   "ticker": "FMGOETZE",
   "company": "Federal-Mogul Goetze (India) Limited.",
-  "collected_at": "2026-10-02 07:29:51",
+  "collected_at": "2026-10-03 07:02:43",
   "directors": [
     {
       "name": "Mr. Gangasagar Neminath Hemade",
@@ -29,6 +29,48 @@
       "role": "Company Secretary",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ashok Kumar Sinha",
+      "role": "Director of Global Product Line Purchase",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vishal  Gupta",
+      "role": "Operations Director",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sanjeev  Sharma",
+      "role": "Director of Ops - Piston India, Campus Head of Patiala & Operation Head of 4 JIT Plants - India",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Varun  Dua",
+      "role": "Additional Executive Non-Independent Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Rakesh  Kumar",
+      "role": "Plant Manager",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jasbir  Singh",
+      "role": "Director and GM",
+      "age": 55,
+      "year_born": 1970,
       "total_pay": "N/A"
     }
   ]

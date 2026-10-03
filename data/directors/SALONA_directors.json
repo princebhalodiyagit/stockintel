@@ -1,18 +1,18 @@
 {
   "ticker": "SALONA",
   "company": "Salona Cotspin Limited",
-  "collected_at": "2026-10-02 07:46:36",
+  "collected_at": "2026-10-03 07:21:47",
   "directors": [
     {
       "name": "Mr. Shyamlal  Agarwala",
-      "role": "Chairman, CEO & MD",
+      "role": "Executive Chairman",
       "age": 80,
       "year_born": 1945,
       "total_pay": 7829735
     },
     {
       "name": "Mr. Manoj Kumar Jhajharia",
-      "role": "Joint MD & Executive Director",
+      "role": "MD & Executive Director",
       "age": 57,
       "year_born": 1968,
       "total_pay": 4893077
@@ -23,6 +23,34 @@
       "age": 53,
       "year_born": 1972,
       "total_pay": 3000000
+    },
+    {
+      "name": "Mr. M. S. Selvaraj",
+      "role": "CFO & General Manager of Accounts",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Rajkumari  R C.S.",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kirubakaran  Nagarajan",
+      "role": "General Manager of Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pramod Kumar Jhajharia",
+      "role": "Chief Executive",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

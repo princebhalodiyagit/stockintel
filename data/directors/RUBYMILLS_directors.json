@@ -1,7 +1,7 @@
 {
   "ticker": "RUBYMILLS",
   "company": "The Ruby Mills Limited",
-  "collected_at": "2026-10-02 07:46:12",
+  "collected_at": "2026-10-03 07:21:20",
   "directors": [
     {
       "name": "Mr. Hiren Manharlal Shah",
@@ -16,6 +16,13 @@
       "age": 45,
       "year_born": 1980,
       "total_pay": 14100480
+    },
+    {
+      "name": "Mr. Rishabh Viraj Shah",
+      "role": "President",
+      "age": 37,
+      "year_born": 1988,
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Viraj Manharlal Shah",
@@ -41,6 +48,20 @@
     {
       "name": "Ms. Anuradha Nishikant Tendulkar",
       "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ashish A. Date",
+      "role": "Vice President of Sales",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Anilkumar S. Narkhede",
+      "role": "Vice President",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

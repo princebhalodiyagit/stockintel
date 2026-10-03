@@ -1,7 +1,7 @@
 {
   "ticker": "ANDHRSUGAR",
   "company": "The Andhra Sugars Limited",
-  "collected_at": "2026-10-02 07:21:27",
+  "collected_at": "2026-10-03 06:53:08",
   "directors": [
     {
       "name": "Mr. Pendyala Narendranath Chowdary B.Sc.",
@@ -30,6 +30,20 @@
       "age": 76,
       "year_born": 1949,
       "total_pay": 21890210
+    },
+    {
+      "name": "Mr. P. V. S. Viswanadha Kumar A.C.S., F.C.A., F.C.M.A., F.I.C.W.A",
+      "role": "CFO, VP of Finance, Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 10461000
+    },
+    {
+      "name": "Mr. Pendyala Sree Ramachandra Venkata K Ranga Rao B.Com.",
+      "role": "Executive Director",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": 7202033
     }
   ]
 }

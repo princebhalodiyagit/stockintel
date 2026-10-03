@@ -1,8 +1,15 @@
 {
   "ticker": "GNFC",
   "company": "Gujarat Narmada Valley Fertilizers and Chemicals Limited",
-  "collected_at": "2026-10-02 07:30:58",
+  "collected_at": "2026-10-03 07:04:00",
   "directors": [
+    {
+      "name": "Mr. Sanjeev  Kumar I.A.S.",
+      "role": "Managing Director",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": 40000
+    },
     {
       "name": "Mr. Dilipkumar Vinodchandra Parikh",
       "role": "CFO & Executive Director",

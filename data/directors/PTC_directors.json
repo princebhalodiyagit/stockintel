@@ -1,7 +1,7 @@
 {
   "ticker": "PTC",
   "company": "PTC India Limited",
-  "collected_at": "2026-10-02 07:44:26",
+  "collected_at": "2026-10-03 07:19:20",
   "directors": [
     {
       "name": "Dr. Manoj Kumar Jhawar",
@@ -18,17 +18,59 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Anand  Kumar",
-      "role": "Vice President of Investor Relations",
+      "name": "Hira Lal Choudhary",
+      "role": "Executive Vice President of Commercial & Operations",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajiv Kumar Maheshwari",
+      "role": "Executive VP, Compliance Officer & Company Secretary",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Bikram Singh Guram",
+      "role": "Executive Director of Marketing & Business Development",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Koel Mallick Singhal",
+      "role": "Senior Vice President of HR Services",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
-      "name": "Rajesh  Cherayil",
-      "role": "Executive Vice President",
-      "age": 49,
-      "year_born": 1976,
+      "name": "Mr. Rajiv  Malhotra",
+      "role": "Group Chief Risk Officer & Executive Director of Corporate Affairs",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mukesh  Ahuja",
+      "role": "Vice President of Finance",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Shashank  Gupta",
+      "role": "Vice President of Marketing",
+      "age": 44,
+      "year_born": 1981,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anand  Kumar",
+      "role": "Vice President of Investor Relations",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "ticker": "SOLEX",
   "company": "Solex Energy Limited",
-  "collected_at": "2026-10-02 07:48:50",
+  "collected_at": "2026-10-03 07:24:16",
   "directors": [
     {
       "name": "Dr. Chetan Sureshchandra Shah",
@@ -48,6 +48,27 @@
     {
       "name": "Ms. Azmin M. Chiniwala",
       "role": "Compliance Officer & Company Secretary",
+      "age": 29,
+      "year_born": 1996,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vikash  Anand",
+      "role": "President of Sales & Business Development",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajesh  Varia",
+      "role": "Head of Supply Chain & Purchase",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Manoj  Thakur",
+      "role": "Head of Cell Manufacturing",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

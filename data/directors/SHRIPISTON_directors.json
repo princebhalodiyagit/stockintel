@@ -1,7 +1,7 @@
 {
   "ticker": "SHRIPISTON",
   "company": "Shriram Pistons & Rings Limited",
-  "collected_at": "2026-10-02 07:48:06",
+  "collected_at": "2026-10-03 07:23:27",
   "directors": [
     {
       "name": "Mr. Krishnakumar  Srinivasan",
@@ -25,6 +25,13 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. Nilesh  Jain",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Rajan  Nanda",
       "role": "Executive Director of Marketing",
       "age": 55,
@@ -36,6 +43,13 @@
       "role": "Executive Director & Chief HR Officer",
       "age": 53,
       "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Prashant  Khairnar",
+      "role": "Chief Digital Officer & Executive Director",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
@@ -57,13 +71,6 @@
       "role": "Deputy Executive Director",
       "age": 49,
       "year_born": 1976,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Dharmendra  Singh",
-      "role": "Deputy Executive Director",
-      "age": 60,
-      "year_born": 1965,
       "total_pay": "N/A"
     }
   ]

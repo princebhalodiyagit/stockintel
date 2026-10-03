@@ -1,7 +1,7 @@
 {
   "ticker": "NILASPACES",
   "company": "Nila Spaces Limited",
-  "collected_at": "2026-10-02 07:41:28",
+  "collected_at": "2026-10-03 07:15:59",
   "directors": [
     {
       "name": "Mr. Deep Shaileshbhai Vadodaria",
@@ -36,6 +36,20 @@
       "role": "Assistant Manager of Sales & Marketing",
       "age": 43,
       "year_born": 1982,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Nisarg  Thakkar",
+      "role": "Senior Sales Development Representative",
+      "age": 29,
+      "year_born": 1996,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ritesh  Parikh",
+      "role": "Projects Head",
+      "age": 50,
+      "year_born": 1975,
       "total_pay": "N/A"
     }
   ]

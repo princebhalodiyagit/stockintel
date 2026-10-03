@@ -1,7 +1,7 @@
 {
   "ticker": "PNGJL",
   "company": "P N Gadgil Jewellers Limited",
-  "collected_at": "2026-10-02 07:43:40",
+  "collected_at": "2026-10-03 07:18:30",
   "directors": [
     {
       "name": "Mr. Saurabh Vidyadhar Gadgil",
@@ -9,6 +9,13 @@
       "age": 48,
       "year_born": 1977,
       "total_pay": 193630000
+    },
+    {
+      "name": "Mr. Deepak Kumar Vijay",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Prakhar  Gupta",
@@ -19,24 +26,17 @@
     },
     {
       "name": "Mr. Parag Yashwant Gadgil",
-      "role": "Whole-time Director",
+      "role": "Whole-Time Director",
       "age": 66,
       "year_born": 1959,
       "total_pay": 29980000
     },
     {
       "name": "Ms. Radhika Saurabh Gadgil",
-      "role": "Whole-time Director",
+      "role": "Whole-Time Director",
       "age": 48,
       "year_born": 1977,
       "total_pay": 5730000
-    },
-    {
-      "name": "Mr. Deepak Kumar Vijay",
-      "role": "Chief Financial Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
     },
     {
       "name": "Mr. Amit  Vaidya",

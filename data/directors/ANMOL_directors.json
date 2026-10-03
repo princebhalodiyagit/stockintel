@@ -1,7 +1,7 @@
 {
   "ticker": "ANMOL",
   "company": "Anmol India Limited",
-  "collected_at": "2026-10-02 07:21:29",
+  "collected_at": "2026-10-03 06:53:11",
   "directors": [
     {
       "name": "Mr. Vijay  Kumar",
@@ -13,8 +13,8 @@
     {
       "name": "Ms. Parabhjot  Kaur",
       "role": "Company Secretary & Compliance Officer",
-      "age": 39,
-      "year_born": 1986,
+      "age": 40,
+      "year_born": 1985,
       "total_pay": "N/A"
     },
     {
@@ -29,6 +29,13 @@
       "role": "Operations Head",
       "age": 34,
       "year_born": 1991,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Babu Lal Saini",
+      "role": "Accounts & Finance Head",
+      "age": 40,
+      "year_born": 1985,
       "total_pay": "N/A"
     },
     {
@@ -50,13 +57,6 @@
       "role": "Accounts Head",
       "age": 34,
       "year_born": 1991,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Babu Lal Saini",
-      "role": "Accounts & Finance Head",
-      "age": 40,
-      "year_born": 1985,
       "total_pay": "N/A"
     },
     {

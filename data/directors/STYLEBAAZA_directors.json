@@ -1,14 +1,21 @@
 {
   "ticker": "STYLEBAAZA",
   "company": "Baazar Style Retail Limited",
-  "collected_at": "2026-10-02 07:49:41",
+  "collected_at": "2026-10-03 07:25:12",
   "directors": [
     {
       "name": "Mr. Shreyans  Surana",
-      "role": "MD & Director",
-      "age": 34,
-      "year_born": 1991,
+      "role": "MD & Chairman",
+      "age": 35,
+      "year_born": 1990,
       "total_pay": 18000000
+    },
+    {
+      "name": "Mr. Nitin  Singhania",
+      "role": "Chief Financial Officer",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": 6764000
     },
     {
       "name": "Mr. Abinash  Singh",
@@ -23,6 +30,48 @@
       "age": 54,
       "year_born": 1971,
       "total_pay": 18000000
+    },
+    {
+      "name": "Mr. Rohit  Kedia",
+      "role": "Whole Time Director",
+      "age": 42,
+      "year_born": 1983,
+      "total_pay": 18000000
+    },
+    {
+      "name": "Mr. Pradeep Kumar Agarwal",
+      "role": "Whole Time Director",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": 18000000
+    },
+    {
+      "name": "Mr. Vikash  Kumar",
+      "role": "Chief Technology Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Avishek  Prasad",
+      "role": "Head of General Merchandise",
+      "age": 30,
+      "year_born": 1995,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Dipti  Agarwal",
+      "role": "Chief Risk Officer",
+      "age": 38,
+      "year_born": 1987,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Siddhant  Khemani",
+      "role": "Head of E-commerce",
+      "age": 36,
+      "year_born": 1989,
+      "total_pay": "N/A"
     }
   ]
 }

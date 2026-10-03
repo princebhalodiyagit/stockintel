@@ -1,7 +1,7 @@
 {
   "ticker": "MTNL",
   "company": "Mahanagar Telephone Nigam Limited",
-  "collected_at": "2026-10-02 07:40:21",
+  "collected_at": "2026-10-03 07:14:44",
   "directors": [
     {
       "name": "Mr. A. Robert Jerard Ravi",
@@ -9,6 +9,20 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sudhakararao  Papa",
+      "role": "Director of Technical & Director",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ratan Mani Sumit",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 2196816
     },
     {
       "name": "Mr. Rajiv  Kumar",
@@ -29,13 +43,6 @@
       "role": "Chief Financial Officer",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Sudhakararao  Papa",
-      "role": "Director of Technical & Director",
-      "age": 55,
-      "year_born": 1970,
       "total_pay": "N/A"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "ticker": "BETA",
   "company": "Beta Drugs Limited",
-  "collected_at": "2026-10-02 07:24:04",
+  "collected_at": "2026-10-03 06:56:08",
   "directors": [
     {
       "name": "Mr. Rahul  Batra",
@@ -44,6 +44,20 @@
       "age": 48,
       "year_born": 1977,
       "total_pay": 4598031
+    },
+    {
+      "name": "Mr. Ankit  Kaundinya",
+      "role": "Senior Manager of Human Resource",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vaibhav Kumar Sabharwal",
+      "role": "Financial Controller",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

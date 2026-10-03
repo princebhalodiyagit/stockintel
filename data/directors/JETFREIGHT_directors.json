@@ -1,7 +1,7 @@
 {
   "ticker": "JETFREIGHT",
   "company": "Jet Freight Logistics Limited",
-  "collected_at": "2026-10-02 07:35:17",
+  "collected_at": "2026-10-03 07:08:57",
   "directors": [
     {
       "name": "Mr. Richard Francis Theknath",
@@ -33,16 +33,23 @@
     },
     {
       "name": "Mr. Dax Francis Theknath",
-      "role": "Executive Director",
+      "role": "Whole Time Director",
       "age": 39,
       "year_born": 1986,
       "total_pay": 12319000
     },
     {
-      "name": "Sidhartha Charan Jena",
+      "name": "Mr. Sidhartha Charan Jena",
       "role": "Vice President",
       "age": 51,
       "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Desiree  Dantas",
+      "role": "Senior Manager of Human Resource",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
@@ -50,6 +57,20 @@
       "role": "Branch Head of Hyderabad & Chennai",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dheeraj  Chanigalla",
+      "role": "Deputy General Manager",
+      "age": 35,
+      "year_born": 1990,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Moeen  Khan",
+      "role": "General Manager",
+      "age": 41,
+      "year_born": 1984,
       "total_pay": "N/A"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "ticker": "AGI",
   "company": "AGI Greenpac Limited",
-  "collected_at": "2026-10-02 07:20:33",
+  "collected_at": "2026-10-03 06:52:08",
   "directors": [
     {
       "name": "Mr. Sandip  Somany B.Com.",
@@ -18,11 +18,11 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Sandeep  Sikka",
-      "role": "Group Chief Financial Officer",
-      "age": 54,
-      "year_born": 1971,
-      "total_pay": 19693985
+      "name": "Mr. Om Prakash Pandey",
+      "role": "Chief Financial Officer",
+      "age": 64,
+      "year_born": 1961,
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Shyamalendu  Banerjee",
@@ -40,10 +40,17 @@
     },
     {
       "name": "Mr. Sanjay  Gaur B.Com, MBA",
-      "role": "Chief Human Resource Officer",
+      "role": "Group Chief People Officer",
       "age": 59,
       "year_born": 1966,
       "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sandeep  Sikka",
+      "role": "Group Chief Financial Officer",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": 19693985
     },
     {
       "name": "Mr. Rakesh  Kaul BSc., MBA, MFT",
@@ -62,13 +69,6 @@
     {
       "name": "Mr. Govind Jee Rai",
       "role": "Senior VP of Human Resource",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Manpreet  Singh",
-      "role": "President of New Business Development",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

@@ -1,7 +1,7 @@
 {
   "ticker": "HDFCBANK",
   "company": "HDFC Bank Limited",
-  "collected_at": "2026-10-02 07:32:24",
+  "collected_at": "2026-10-03 07:05:38",
   "directors": [
     {
       "name": "Mr. Sashidhar  Jagdishan",
@@ -16,6 +16,13 @@
       "age": 60,
       "year_born": 1965,
       "total_pay": 171416076
+    },
+    {
+      "name": "Mr. Vedanthachari Srinivasa Rangan",
+      "role": "Executive Whole-Time Director",
+      "age": 65,
+      "year_born": 1960,
+      "total_pay": 112819543
     },
     {
       "name": "Mr. Srinivasan  Vaidyanathan",
@@ -46,31 +53,24 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Ms. Madhu  Chhibber",
-      "role": "Head of Corporate Communications",
-      "age": 56,
-      "year_born": 1969,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Ravi  Santhanam",
-      "role": "Chief Marketing Officer & Group Head",
+      "name": "Mr. Rakesh Kumar Rajput",
+      "role": "Chief Compliance Officer",
       "age": 54,
       "year_born": 1971,
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Vibhash  Naik",
-      "role": "Group Head & CHRO",
-      "age": 49,
-      "year_born": 1976,
+      "name": "Mr. Sudhir Kumar Jha",
+      "role": "Group Head of Legal & Group General Counsel",
+      "age": 57,
+      "year_born": 1968,
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Ashish  Parthasarthy",
-      "role": "Head of Branch Banking, Infrastructure, Treasury & Virtual Channels",
-      "age": 57,
-      "year_born": 1968,
+      "name": "Ms. Madhu  Chhibber",
+      "role": "Head of Corporate Communications",
+      "age": 56,
+      "year_born": 1969,
       "total_pay": "N/A"
     }
   ]

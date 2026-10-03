@@ -1,7 +1,7 @@
 {
   "ticker": "SGMART",
   "company": "SG Mart Limited",
-  "collected_at": "2026-10-02 07:47:32",
+  "collected_at": "2026-10-03 07:22:49",
   "directors": [
     {
       "name": "Mr. Shivkumar Niranjanlal Bansal",
@@ -20,6 +20,34 @@
     {
       "name": "Mr. Sachin  Kumar",
       "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sanjay  Gupta",
+      "role": "Chairman & MD",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Naman  Rastogi",
+      "role": "General Manager of Strategy & Investor Relations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anubhav  Gupta",
+      "role": "Group Chief Strategy Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rohan  Gupta",
+      "role": "Whole-Time Director",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

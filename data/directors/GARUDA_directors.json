@@ -1,14 +1,21 @@
 {
   "ticker": "GARUDA",
   "company": "Garuda Construction and Engineering Limited",
-  "collected_at": "2026-10-02 07:30:17",
+  "collected_at": "2026-10-03 07:03:13",
   "directors": [
     {
       "name": "Mr. Pravin Kumar Brijendra Kumar Agarwal",
       "role": "Executive Chairman & MD",
       "age": 54,
       "year_born": 1971,
-      "total_pay": 3240000
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rohit Ramanand Pareek",
+      "role": "Whole Time Executive Director & CFO",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Shanti Lal Gaggar",

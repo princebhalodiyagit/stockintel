@@ -1,11 +1,11 @@
 {
   "ticker": "AVG",
   "company": "AVG Logistics Limited",
-  "collected_at": "2026-10-02 07:22:54",
+  "collected_at": "2026-10-03 06:54:48",
   "directors": [
     {
       "name": "Mr. Sanjay  Gupta",
-      "role": "Chairman, CEO & MD",
+      "role": "CEO, MD & Director",
       "age": 57,
       "year_born": 1968,
       "total_pay": 7800000
@@ -39,13 +39,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. A. S. Manoj Kumar",
-      "role": "Executive Vice President of South & Goa",
-      "age": 46,
-      "year_born": 1979,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Sudhir  Bansal",
       "role": "Executive Vice President of North",
       "age": "N/A",
@@ -54,7 +47,7 @@
     },
     {
       "name": "Mr. Sumit  Garg",
-      "role": "Executive Vice President of West & East",
+      "role": "Executive VP & Additional Whole-time Director",
       "age": 43,
       "year_born": 1982,
       "total_pay": "N/A"
@@ -71,6 +64,13 @@
       "role": "Vice President of Fleet",
       "age": 37,
       "year_born": 1988,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ajay  Kumar",
+      "role": "General Manager of Sales & Operations",
+      "age": 46,
+      "year_born": 1979,
       "total_pay": "N/A"
     }
   ]

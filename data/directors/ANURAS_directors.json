@@ -1,7 +1,7 @@
 {
   "ticker": "ANURAS",
   "company": "Anupam Rasayan India Limited",
-  "collected_at": "2026-10-02 07:21:35",
+  "collected_at": "2026-10-03 06:53:18",
   "directors": [
     {
       "name": "Mr. Gopal Puranmal Agrawal",
@@ -18,24 +18,59 @@
       "total_pay": 50000000
     },
     {
+      "name": "Mr. Amit Ajitkumar Khurana",
+      "role": "Chief Financial Officer",
+      "age": 35,
+      "year_born": 1990,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ashish Omprakash Gupta",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 5110000
+    },
+    {
+      "name": "Mr. Anand Sureshbhai Desai",
+      "role": "MD & Director",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": 50000000
+    },
+    {
+      "name": "Dr. Anuj Hemantbhai Thakar",
+      "role": "R&D (Process Development) Head & Whole-Time Executive Director",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": 17020000
+    },
+    {
+      "name": "Dr. Ujval Hemantkumar Vaishnav",
+      "role": "President of Business Development",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ravi Ashwinbhai Desai",
+      "role": "Chief Operating Officer",
+      "age": 42,
+      "year_born": 1983,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Nileshkumar Madhusudan Naik",
+      "role": "Technical Head - Operations",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Shreyas Dipak Dalal",
       "role": "Unit Head of Unit IA",
       "age": 55,
       "year_born": 1970,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Satish  Patel",
-      "role": "Senior General Manager of Environment",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Jagdish Dongar Badhe",
-      "role": "Senior General Manager of Operations",
-      "age": 53,
-      "year_born": 1972,
       "total_pay": "N/A"
     }
   ]

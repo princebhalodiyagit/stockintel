@@ -1,7 +1,7 @@
 {
   "ticker": "MODIRUBBER",
   "company": "Modi Rubber Limited",
-  "collected_at": "2026-10-02 07:39:54",
+  "collected_at": "2026-10-03 07:14:13",
   "directors": [
     {
       "name": "Mr. Alok Kumar Modi",
@@ -16,6 +16,20 @@
       "age": 34,
       "year_born": 1991,
       "total_pay": 3999744
+    },
+    {
+      "name": "Mr. Kamal  Gupta",
+      "role": "Chief Finance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sanjeev Kumar Bajpai",
+      "role": "Head of Legal & Company Secretary",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "ticker": "AXISCADES",
   "company": "AXISCADES Technologies Limited",
-  "collected_at": "2026-10-02 07:23:03",
+  "collected_at": "2026-10-03 06:54:58",
   "directors": [
     {
       "name": "Dr. Sampath  Ravinarayanan",
@@ -11,20 +11,6 @@
       "total_pay": 965464
     },
     {
-      "name": "Mr. S. K. Shashidhar",
-      "role": "Group Chief Financial Officer",
-      "age": 58,
-      "year_born": 1967,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ms. Sonal Kishore Dudani",
-      "role": "Company Secretary & Compliance Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Alfonso  Martinez Fernandez",
       "role": "Head of International Business & Global Operations",
       "age": "N/A",
@@ -32,7 +18,14 @@
       "total_pay": 42540653
     },
     {
-      "name": "Mr. D. Murali krishnan",
+      "name": "Mr. S. K. Shashidhar",
+      "role": "Group Chief Financial Officer",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. D. murali Krishnan",
       "role": "Chief Operating Officer",
       "age": "N/A",
       "year_born": "N/A",
@@ -48,6 +41,13 @@
     {
       "name": "Mr. Mukund  Santhanam",
       "role": "Chief Growth & Strategy Officer and Head of Investor Relations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Sonal Kishore Dudani",
+      "role": "Company Secretary & Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

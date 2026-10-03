@@ -1,7 +1,7 @@
 {
   "ticker": "KMEW",
   "company": "Knowledge Marine & Engineering Works Limited",
-  "collected_at": "2026-10-02 07:36:48",
+  "collected_at": "2026-10-03 07:10:43",
   "directors": [
     {
       "name": "Mr. Sujay Mohanlal Kewalramani",
@@ -32,10 +32,45 @@
       "total_pay": 3972000
     },
     {
+      "name": "Mr. Avdhoot Ajay Kotwal",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 780000
+    },
+    {
+      "name": "Mr. Saurabh M. Daswani",
+      "role": "MD & Director",
+      "age": 33,
+      "year_born": 1992,
+      "total_pay": 3514000
+    },
+    {
+      "name": "Christian  Rose",
+      "role": "Manager of Investor Relations & Investments",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Bechu  Vishvakarma",
       "role": "Head Technical Operation",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Amit  Agarwal",
+      "role": "Head of Procurement - KSPL",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. S. Krishna Kumar",
+      "role": "CEO - KSPL",
+      "age": 59,
+      "year_born": 1966,
       "total_pay": "N/A"
     }
   ]

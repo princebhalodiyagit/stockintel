@@ -1,13 +1,48 @@
 {
   "ticker": "PFOCUS",
   "company": "Prime Focus Limited",
-  "collected_at": "2026-10-02 07:43:12",
+  "collected_at": "2026-10-03 07:17:58",
   "directors": [
     {
       "name": "Mr. Naresh Mahendranath Malhotra",
       "role": "Chairman & Whole-time Director",
       "age": 81,
       "year_born": 1944,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Namit Naresh Malhotra",
+      "role": "Founder & Whole-Time Director",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vikas  Rathee",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Parina Nirav Shah",
+      "role": "Compliance Officer & Company Secretary",
+      "age": 44,
+      "year_born": 1981,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Prakash  Kurup",
+      "role": "Co-Founder & Creative Head",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Huzefa  Lokhandwala",
+      "role": "Co-Founder & Creative Director of Advertising",
+      "age": 51,
+      "year_born": 1974,
       "total_pay": "N/A"
     },
     {

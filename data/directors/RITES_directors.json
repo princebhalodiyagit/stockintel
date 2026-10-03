@@ -1,7 +1,7 @@
 {
   "ticker": "RITES",
   "company": "RITES Limited",
-  "collected_at": "2026-10-02 07:45:40",
+  "collected_at": "2026-10-03 07:20:44",
   "directors": [
     {
       "name": "Mr. Rahul  Mithal",
@@ -23,6 +23,13 @@
       "age": 57,
       "year_born": 1968,
       "total_pay": 7896307
+    },
+    {
+      "name": "Mr. Prem Singh Meena",
+      "role": "Director of Projects & Additional Executive Director",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": 8690762
     },
     {
       "name": "Mr. Rakesh Kumar Gupta",
@@ -62,13 +69,6 @@
     {
       "name": "Rajesh  Kumar",
       "role": "Country Head of Botswana",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Colonel Mahesh  Narayan",
-      "role": "Regional Head of Southern Region Project Office",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

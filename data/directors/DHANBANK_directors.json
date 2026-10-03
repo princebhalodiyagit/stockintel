@@ -1,13 +1,20 @@
 {
   "ticker": "DHANBANK",
   "company": "Dhanlaxmi Bank Limited",
-  "collected_at": "2026-10-02 07:27:40",
+  "collected_at": "2026-10-03 07:00:14",
   "directors": [
     {
       "name": "Mr. Ajith Kumar Kunhi Krishnan",
       "role": "CEO, MD & Director",
       "age": 62,
       "year_born": 1963,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Purusothaman  Suriaraj",
+      "role": "Executive Director",
+      "age": 61,
+      "year_born": 1964,
       "total_pay": "N/A"
     },
     {
@@ -20,13 +27,6 @@
     {
       "name": "Mr. Sunny  George",
       "role": "Deputy GM & Head of Operations",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. P.  Ranjith",
-      "role": "Deputy GM & Chief Information Security Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
@@ -67,8 +67,8 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. B. S. Binoy",
-      "role": "Deputy GM & Head of Business Development (Liabilities)",
+      "name": "Mr. P.  Ranjith",
+      "role": "Deputy GM & Chief Information Security Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

@@ -1,15 +1,8 @@
 {
   "ticker": "SEIL",
   "company": "Shanti Educational Initiatives Limited",
-  "collected_at": "2026-10-02 07:47:19",
+  "collected_at": "2026-10-03 07:22:35",
   "directors": [
-    {
-      "name": "Mr. Darshan Yogendrabhai Vayeda",
-      "role": "Whole Time Director & Chairperson",
-      "age": 41,
-      "year_born": 1984,
-      "total_pay": 1778000
-    },
     {
       "name": "Mr. Vishal Vedprakash Chiripal",
       "role": "Managing Director",
@@ -25,8 +18,15 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Ms. Pooja H. Khakhi C.S.",
-      "role": "Company Secretary & Compliance Officer",
+      "name": "Mr. Darshan Yogendrabhai Vayeda",
+      "role": "Whole Time Director",
+      "age": 41,
+      "year_born": 1984,
+      "total_pay": 1778000
+    },
+    {
+      "name": "Ms. Shruti Manoj Bapaye",
+      "role": "Company Secretary",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

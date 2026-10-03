@@ -1,8 +1,15 @@
 {
   "ticker": "UNIVASTU",
   "company": "Univastu India Limited",
-  "collected_at": "2026-10-02 07:52:51",
+  "collected_at": "2026-10-03 07:28:47",
   "directors": [
+    {
+      "name": "Dr. Pradeep Kishan Khandagale",
+      "role": "Chairman & MD",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": 9600000
+    },
     {
       "name": "Mr. Girish Arvind Deshmukh",
       "role": "Chief Financial Officer",

@@ -1,7 +1,7 @@
 {
   "ticker": "SIMPLEXINF",
   "company": "Simplex Infrastructures Limited",
-  "collected_at": "2026-10-02 07:48:25",
+  "collected_at": "2026-10-03 07:23:47",
   "directors": [
     {
       "name": "Mr. Samiran Kumar Bhattacharyya",
@@ -11,11 +11,18 @@
       "total_pay": 3600000
     },
     {
-      "name": "Mr. B. L. Bajoria",
+      "name": "Mr. Banwari Lal Bajoria",
       "role": "Senior VP, Compliance Officer & Company Secretary",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 2700000
+    },
+    {
+      "name": "Mr. Ashish  Basu",
+      "role": "Executive Director of Admin",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

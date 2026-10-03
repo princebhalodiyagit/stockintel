@@ -1,7 +1,7 @@
 {
   "ticker": "GMMPFAUDLR",
   "company": "GMM Pfaudler Limited",
-  "collected_at": "2026-10-02 07:30:54",
+  "collected_at": "2026-10-03 07:03:56",
   "directors": [
     {
       "name": "Mr. Tarak Ashok Patel",
@@ -22,13 +22,6 @@
       "role": "Group CFO & Member of Executive Board",
       "age": 50,
       "year_born": 1975,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Thomas Otto Kehl",
-      "role": "Chief Executive Officer of International Business & Member of Executive Board",
-      "age": 65,
-      "year_born": 1960,
       "total_pay": "N/A"
     },
     {
@@ -62,6 +55,13 @@
     {
       "name": "Mr. Vincet  Leroux",
       "role": "Executive Vice President of Sales Technologies & Systems - International Business",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ankit  Nayyar",
+      "role": "Deputy Chief Financial Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

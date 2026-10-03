@@ -1,7 +1,7 @@
 {
   "ticker": "DBEIL",
   "company": "Deepak Builders & Engineers India Limited",
-  "collected_at": "2026-10-02 07:27:09",
+  "collected_at": "2026-10-03 06:59:39",
   "directors": [
     {
       "name": "Mr. Deepak Kumar Singal",
@@ -9,6 +9,13 @@
       "age": 68,
       "year_born": 1957,
       "total_pay": 18000000
+    },
+    {
+      "name": "Ms. Parveen  Kumari",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Anil  Kumar",
@@ -30,13 +37,6 @@
       "age": 69,
       "year_born": 1956,
       "total_pay": 1200000
-    },
-    {
-      "name": "Ms. Parveen  Kumari",
-      "role": "Chief Financial Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
     }
   ]
 }

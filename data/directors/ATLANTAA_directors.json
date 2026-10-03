@@ -1,8 +1,15 @@
 {
   "ticker": "ATLANTAA",
   "company": "ATLANTAA LIMITED",
-  "collected_at": "2026-10-02 07:22:38",
+  "collected_at": "2026-10-03 06:54:30",
   "directors": [
+    {
+      "name": "Mr. Rajhoo Ambalal Bbarot",
+      "role": "CEO & Chairman of the Board",
+      "age": 69,
+      "year_born": 1956,
+      "total_pay": 13369000
+    },
     {
       "name": "Mr. Dipesh S. Gogri",
       "role": "Chief Financial Officer",
@@ -16,6 +23,27 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 1126182
+    },
+    {
+      "name": "Mr. Rickiin Rajhoo Bbarot",
+      "role": "MD & Executive Director",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": 8913000
+    },
+    {
+      "name": "Ms. Riddhima M. Doshi",
+      "role": "Deputy General Manager of Accounts",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vilas Vishnu Mane",
+      "role": "General Manager of Human Resources & Personnel",
+      "age": 71,
+      "year_born": 1954,
+      "total_pay": 332000
     }
   ]
 }

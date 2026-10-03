@@ -1,7 +1,7 @@
 {
   "ticker": "GUJTHEM",
   "company": "Gujarat Themis Biosyn Limited",
-  "collected_at": "2026-10-02 07:31:55",
+  "collected_at": "2026-10-03 07:05:06",
   "directors": [
     {
       "name": "Dr. Sachin Dinesh Patel CChem., Ph.D.",
@@ -25,6 +25,13 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. Rajneesh Kedarnath Anand",
+      "role": "Additional Non-Executive Non-Independent Director",
+      "age": 71,
+      "year_born": 1954,
+      "total_pay": 4700000
+    },
+    {
       "name": "Mr. Krupesh  Patel",
       "role": "Chief Financial Officer",
       "age": "N/A",
@@ -44,13 +51,6 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Rajneesh Kedarnath Anand",
-      "role": "Additional Non-Executive Non-Independent Director",
-      "age": 71,
-      "year_born": 1954,
-      "total_pay": 4700000
     }
   ]
 }

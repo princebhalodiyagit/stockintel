@@ -1,7 +1,7 @@
 {
   "ticker": "PRITIKAUTO",
   "company": "Pritika Auto Industries Limited",
-  "collected_at": "2026-10-02 07:44:15",
+  "collected_at": "2026-10-03 07:19:09",
   "directors": [
     {
       "name": "Mr. Harpreet Singh Nibber",
@@ -9,6 +9,13 @@
       "age": 54,
       "year_born": 1971,
       "total_pay": 12255000
+    },
+    {
+      "name": "Mr. Ajay  Kumar",
+      "role": "Joint Managing Director",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": 5506500
     },
     {
       "name": "Mr. Narinder Kumar Tyagi",
@@ -25,17 +32,17 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Ajay  Kumar",
-      "role": "Whole Time Director",
-      "age": 51,
-      "year_born": 1974,
-      "total_pay": 5506500
-    },
-    {
       "name": "Mr. S.K.  Sharma",
       "role": "Vice President of Foundry",
       "age": 47,
       "year_born": 1978,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Jaspal Singh Dhiman",
+      "role": "Sr. General Manager of Operations",
+      "age": 59,
+      "year_born": 1966,
       "total_pay": "N/A"
     },
     {

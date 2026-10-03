@@ -1,7 +1,7 @@
 {
   "ticker": "PREMEXPLN",
   "company": "Premier Explosives Limited",
-  "collected_at": "2026-10-02 07:44:08",
+  "collected_at": "2026-10-03 07:19:01",
   "directors": [
     {
       "name": "Dr. Amarnath Nath Gupta",
@@ -36,6 +36,20 @@
       "role": "Company Secretary & Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Gangraj  Tadinada",
+      "role": "Vice President of Marketing",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "S.  Janardhan",
+      "role": "Vice President of Production",
+      "age": 57,
+      "year_born": 1968,
       "total_pay": "N/A"
     }
   ]

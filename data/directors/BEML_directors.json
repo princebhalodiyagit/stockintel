@@ -1,21 +1,14 @@
 {
   "ticker": "BEML",
   "company": "BEML Limited",
-  "collected_at": "2026-10-02 07:23:59",
+  "collected_at": "2026-10-03 06:56:02",
   "directors": [
     {
       "name": "Mr. Shantanu  Roy",
-      "role": "MD & Chairman",
+      "role": "MD, Director of Finance & Chairman",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 7915000
-    },
-    {
-      "name": "Mr. Anil  Jerath",
-      "role": "Director of Finance & Director",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 6053000
     },
     {
       "name": "Mr. Debi Prasad Satpathy",
@@ -23,6 +16,27 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 5498000
+    },
+    {
+      "name": "Mr. Sanjay  Som",
+      "role": "Director of Mining & Construction Business and Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 5455000
+    },
+    {
+      "name": "Mr. Rajeev Kumar Gupta",
+      "role": "Director of Rail & Metro Business and Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 6988000
+    },
+    {
+      "name": "Mr. Sachin  Dighde",
+      "role": "Director of Defence & Aerospace Business and Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 4055860
     },
     {
       "name": "Ms. Savitri  Yadav",

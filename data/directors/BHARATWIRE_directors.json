@@ -1,20 +1,13 @@
 {
   "ticker": "BHARATWIRE",
   "company": "Bharat Wire Ropes Limited",
-  "collected_at": "2026-10-02 07:24:15",
+  "collected_at": "2026-10-03 06:56:21",
   "directors": [
     {
       "name": "Mr. Mahender Singh Arora",
       "role": "Chief Executive Officer",
-      "age": 62,
-      "year_born": 1963,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Manan Murarilal Mittal",
-      "role": "President and President of Administration, Information Technology & Procurement",
-      "age": 29,
-      "year_born": 1996,
+      "age": 63,
+      "year_born": 1962,
       "total_pay": "N/A"
     },
     {
@@ -29,6 +22,13 @@
       "role": "Chief Operating Officer",
       "age": 56,
       "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manan Murarilal Mittal",
+      "role": "President of Administration, Information Technology & Procurement",
+      "age": 30,
+      "year_born": 1995,
       "total_pay": "N/A"
     },
     {
@@ -53,13 +53,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Venkateswararao Laxmanamurty Kandikuppa",
-      "role": "Whole-Time Director",
-      "age": 60,
-      "year_born": 1965,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Mayank Murarilal Mittal",
       "role": "Joint MD & Director",
       "age": 39,
@@ -69,6 +62,13 @@
     {
       "name": "Mr. Vedprakash  Sharma",
       "role": "Senior General Manager of Accounts",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Mansi  Trivedi",
+      "role": "Senior Deputy General Manager of Marketing & Client Services",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

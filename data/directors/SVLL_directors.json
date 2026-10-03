@@ -1,7 +1,7 @@
 {
   "ticker": "SVLL",
   "company": "Shree Vasu Logistics Limited",
-  "collected_at": "2026-10-02 07:50:22",
+  "collected_at": "2026-10-03 07:25:58",
   "directors": [
     {
       "name": "Mr. Loknidi Akhilesh Rao",
@@ -11,31 +11,52 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Anil Kumar Katre",
+      "name": "Ms. Monali  Makhija",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Atul  Garg",
+      "role": "MD & Director",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": 3600000
+    },
+    {
+      "name": "Mr. Bhavik  Parikh",
+      "role": "Vice President",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Newaj  Patel",
       "role": "Chief Financial Officer",
-      "age": 39,
-      "year_born": 1986,
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. .  Karambelkarnikhil",
-      "role": "Senior Manager of Operation",
-      "age": 53,
-      "year_born": 1972,
+      "name": "Mr. Rakesh  Verma",
+      "role": "Senior Manager Operation",
+      "age": 41,
+      "year_born": 1984,
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Zafar  Kalim",
-      "role": "Manager of Admin",
-      "age": 42,
-      "year_born": 1983,
+      "name": "Mr. Rahul  Dwivedi",
+      "role": "Senior Manager of sales & marketing",
+      "age": 36,
+      "year_born": 1989,
       "total_pay": "N/A"
     },
     {
-      "name": "Ms. Shreety  Yadav",
-      "role": "Senior Manager",
-      "age": 39,
-      "year_born": 1986,
+      "name": "Mr. Saurabh  Singh",
+      "role": "Assistant General Manager",
+      "age": 43,
+      "year_born": 1982,
       "total_pay": "N/A"
     },
     {
@@ -46,24 +67,10 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Santosh  Varma",
-      "role": "Senior Manager",
-      "age": 44,
-      "year_born": 1981,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Manoj  Kumarsen",
-      "role": "Senior Manager",
-      "age": 56,
-      "year_born": 1969,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Yogendra Singh Thakur",
-      "role": "Senior Manager",
-      "age": 43,
-      "year_born": 1982,
+      "name": "Mr. Shrikant Satyanarayan Rathi",
+      "role": "Regional Manager",
+      "age": 53,
+      "year_born": 1972,
       "total_pay": "N/A"
     }
   ]

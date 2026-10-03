@@ -1,7 +1,7 @@
 {
   "ticker": "DIGJAMLMTD",
   "company": "Digjam Limited",
-  "collected_at": "2026-10-02 07:27:52",
+  "collected_at": "2026-10-03 07:00:27",
   "directors": [
     {
       "name": "Mr. Hardik Bharat Patel",
@@ -23,6 +23,20 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 245000
+    },
+    {
+      "name": "Rajiv R Yadav",
+      "role": "Sr. Manager of Accounts & Finance",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mukul  Awasthi",
+      "role": "Vice President of Sales & Marketing",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
     }
   ]
 }

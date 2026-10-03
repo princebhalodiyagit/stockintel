@@ -1,7 +1,7 @@
 {
   "ticker": "HDFCAMC",
   "company": "HDFC Asset Management Company Limited",
-  "collected_at": "2026-10-02 07:32:23",
+  "collected_at": "2026-10-03 07:05:37",
   "directors": [
     {
       "name": "Mr. Navneet  Munot CFA",
@@ -15,6 +15,13 @@
       "role": "Chief Financial Officer",
       "age": 53,
       "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. V. Suresh Babu",
+      "role": "Head of Operations",
+      "age": 58,
+      "year_born": 1967,
       "total_pay": "N/A"
     },
     {
@@ -64,13 +71,6 @@
       "role": "Head of Fixed Income",
       "age": 53,
       "year_born": 1972,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Chirag  Setalvad",
-      "role": "Head of Equities",
-      "age": 50,
-      "year_born": 1975,
       "total_pay": "N/A"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "ticker": "SURYALAXMI",
   "company": "Suryalakshmi Cotton Mills Limited",
-  "collected_at": "2026-10-02 07:50:15",
+  "collected_at": "2026-10-03 07:25:50",
   "directors": [
     {
       "name": "Mr. Lakshmi Narayan Agarwal",
@@ -25,10 +25,52 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. Vedant  Agarwal",
+      "role": "Chief Executive",
+      "age": 26,
+      "year_born": 1999,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Amol R. Mahajan",
+      "role": "Vice President of Processing - Denim Unit",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Tapan Kumar Gogoi",
+      "role": "Vice President of Weaving",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Munmun  Baid",
+      "role": "Compliance Officer & Company Secretary",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kiran  Mitna",
+      "role": "AGM of Marketing",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. R. L. Narayana",
       "role": "President of Amanagallu Unit",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Siddhant  Sharma",
+      "role": "Chief Executive Officer of Denim Division",
+      "age": 61,
+      "year_born": 1964,
       "total_pay": "N/A"
     }
   ]

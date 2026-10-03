@@ -1,27 +1,76 @@
 {
   "ticker": "IBULLSLTD",
   "company": "Indiabulls Limited",
-  "collected_at": "2026-10-02 07:33:15",
+  "collected_at": "2026-10-03 07:06:37",
   "directors": [
     {
-      "name": "Mr. Kubeir  Khera",
-      "role": "CEO & Whole-Time Executive Director",
-      "age": 42,
-      "year_born": 1983,
+      "name": "Mr. Divyesh Bharatkumar Shah",
+      "role": "CEO & Whole-time Director",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Akhil  Malhotra",
+      "name": "Mr. Rajeev Lochan Agrawal",
       "role": "Chief Financial Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
-      "name": "Ram  Mehar",
-      "role": "Company Secretary",
+      "name": "Mr. Ram Mehar Garg",
+      "role": "Company Secretary & Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kubeir  Khera",
+      "role": "Whole-time Director",
+      "age": 42,
+      "year_born": 1983,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Gurbans  Singh",
+      "role": "Executive Chairman",
+      "age": 64,
+      "year_born": 1961,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Prasant Kumar Dey",
+      "role": "Executive",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Namrata  Jain",
+      "role": "Executive",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mukesh  Rana",
+      "role": "Executive",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rishu  Singh",
+      "role": "Executive",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Sargam  Kataria",
+      "role": "Executive",
+      "age": 46,
+      "year_born": 1979,
       "total_pay": "N/A"
     }
   ]

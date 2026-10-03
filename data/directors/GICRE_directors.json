@@ -1,7 +1,7 @@
 {
   "ticker": "GICRE",
   "company": "General Insurance Corporation of India",
-  "collected_at": "2026-10-02 07:30:36",
+  "collected_at": "2026-10-03 07:03:34",
   "directors": [
     {
       "name": "Mr. Hitesh Rameshchandra Joshi",
@@ -11,15 +11,22 @@
       "total_pay": 7052000
     },
     {
+      "name": "Mr. Satheesh Kumar S.",
+      "role": "Chief Information Security Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 7247000
+    },
+    {
       "name": "Ms. Jayashri  Balkrishna",
-      "role": "Chief Risk Officer, Investor Relations Manager & Executive Director",
+      "role": "Investor Relations Manager & Executive Director",
       "age": 57,
       "year_born": 1968,
       "total_pay": 6541000
     },
     {
       "name": "Mr. Rajesh  Khadatare",
-      "role": "Chief Marketing Officer & Deputy GM",
+      "role": "Chief Marketing Officer & GM",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 9800000
@@ -32,18 +39,11 @@
       "total_pay": 8987000
     },
     {
-      "name": "Mr. Sateesh N. Bhat",
-      "role": "Appointed Actuary of Non Life Insurance",
+      "name": "Ms. Manali  Patke",
+      "role": "Financial Advisor, Chief of Internal Audit & GM",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": 9232000
-    },
-    {
-      "name": "Mr. Suresh Narayan Sindhi",
-      "role": "Appointed Actuary - Life Reinsurance Business",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 7036000
+      "total_pay": 6466000
     },
     {
       "name": "Mr. Rajesh Prasad Laheri",
@@ -51,13 +51,6 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Satheesh Kumar S.",
-      "role": "Chief Information Security Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 7247000
     },
     {
       "name": "Mr. Sanjeeb Kumar Mishra",
@@ -72,6 +65,13 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sateesh N. Bhat",
+      "role": "Appointed Actuary of Non Life Insurance",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 9232000
     }
   ]
 }

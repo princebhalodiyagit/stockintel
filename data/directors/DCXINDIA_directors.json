@@ -1,7 +1,7 @@
 {
   "ticker": "DCXINDIA",
   "company": "DCX Systems Limited",
-  "collected_at": "2026-10-02 07:27:20",
+  "collected_at": "2026-10-03 06:59:51",
   "directors": [
     {
       "name": "Dr. Hosakote Shamarao Raghavendra Rao",
@@ -11,11 +11,25 @@
       "total_pay": 24000000
     },
     {
-      "name": "Mr. Gurumurthy Ganapati Hegde",
-      "role": "Company Secretary, Legal & Compliance Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 2020000
+      "name": "Mr. Ramegowda Shiva Kumar",
+      "role": "Executive Director & VP of Operations",
+      "age": 43,
+      "year_born": 1982,
+      "total_pay": 6500000
+    },
+    {
+      "name": "Mr. Gopinath  Vedaprakash",
+      "role": "Non-Independent & Whole Time Director",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": 7198800
+    },
+    {
+      "name": "Mr. Tuppadamane Subramanya Bhat Kumar",
+      "role": "CFO & Sr. Deputy GM of Finance and Accounts",
+      "age": 44,
+      "year_born": 1981,
+      "total_pay": 3030000
     },
     {
       "name": "Mr. Basavanna  Pramod",
@@ -30,6 +44,13 @@
       "age": 53,
       "year_born": 1972,
       "total_pay": 1640000
+    },
+    {
+      "name": "Mr. Gurumurthy Ganapati Hegde",
+      "role": "Company Secretary, Legal & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 2020000
     },
     {
       "name": "Mr. Suresh Babu Anand",
@@ -51,27 +72,6 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 1650000
-    },
-    {
-      "name": "S G Ravichandra",
-      "role": "Sr. Manager of Production",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Abhijith M Kashyap",
-      "role": "Deputy General Manager of Business Development",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "N  Jagadeesh",
-      "role": "Senior Manager of Accounts",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
     }
   ]
 }

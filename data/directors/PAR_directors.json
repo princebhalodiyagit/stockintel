@@ -1,7 +1,7 @@
 {
   "ticker": "PAR",
   "company": "Par Drugs And Chemicals Limited",
-  "collected_at": "2026-10-02 07:42:48",
+  "collected_at": "2026-10-03 07:17:30",
   "directors": [
     {
       "name": "Mr. Falgun Vallabhbhai Savani",
@@ -30,6 +30,27 @@
       "age": 35,
       "year_born": 1990,
       "total_pay": 823000
+    },
+    {
+      "name": "Mr. Jayeshbhai Jayantibhai Rajyaguru",
+      "role": "Head Of Exports, Sales & Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ghanshyam Bhagvanbhai Savani",
+      "role": "Head Of Production",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Harshadbhai Jayantila Rajyaguru",
+      "role": "Head Of QC & QA",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

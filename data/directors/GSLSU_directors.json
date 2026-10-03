@@ -1,11 +1,11 @@
 {
   "ticker": "GSLSU",
   "company": "Global Surfaces Limited",
-  "collected_at": "2026-10-02 07:31:44",
+  "collected_at": "2026-10-03 07:04:54",
   "directors": [
     {
       "name": "Mr. Mayank  Shah",
-      "role": "CFO, MD & Chairperson",
+      "role": "MD & Chairperson",
       "age": 47,
       "year_born": 1978,
       "total_pay": 38300000
@@ -23,6 +23,13 @@
       "age": 49,
       "year_born": 1976,
       "total_pay": 6720000
+    },
+    {
+      "name": "Mr. Ashish  Agarwal",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Sudarshan Kumbla Venkatramana",

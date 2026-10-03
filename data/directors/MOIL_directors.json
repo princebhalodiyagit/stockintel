@@ -1,7 +1,7 @@
 {
   "ticker": "MOIL",
   "company": "MOIL Limited",
-  "collected_at": "2026-10-02 07:39:59",
+  "collected_at": "2026-10-03 07:14:18",
   "directors": [
     {
       "name": "Mr. Vishwanath  Suresh",
@@ -25,15 +25,8 @@
       "total_pay": 4165000
     },
     {
-      "name": "Mr. Mirza Mohamtnad Abdulla",
-      "role": "Director of Production & Planning and Director",
-      "age": 59,
-      "year_born": 1966,
-      "total_pay": 6677000
-    },
-    {
       "name": "Ms. Rashmi  Singh",
-      "role": "Director of Commercial & Director",
+      "role": "Director, Director of Commercial and Director of Production & Planning",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 8489000
@@ -69,6 +62,13 @@
     {
       "name": "Ms. Akanksha  Singh",
       "role": "GM of Finance, Internal Auditor & Head of the Internal Audit Department",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ashwini Kumar Dash",
+      "role": "Deputy General Manager of Finance",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

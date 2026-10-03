@@ -1,7 +1,7 @@
 {
   "ticker": "HERANBA",
   "company": "Heranba Industries Limited",
-  "collected_at": "2026-10-02 07:32:31",
+  "collected_at": "2026-10-03 07:05:47",
   "directors": [
     {
       "name": "Mr. Sadashiv Kanyana Shetty",
@@ -29,6 +29,13 @@
       "role": "Whole-Time Director",
       "age": 36,
       "year_born": 1989,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pravin Babu Shetty",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
@@ -64,13 +71,6 @@
       "role": "Vice President of HR",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Dr. Sunil Kumar-Ramashrya Singh M.Sc. Ph.D.",
-      "role": "Vice President and Head of Research & Development",
-      "age": 63,
-      "year_born": 1962,
       "total_pay": "N/A"
     }
   ]

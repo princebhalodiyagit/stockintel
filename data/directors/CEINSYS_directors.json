@@ -1,8 +1,15 @@
 {
   "ticker": "CEINSYS",
   "company": "Ceinsys Tech Limited",
-  "collected_at": "2026-10-02 07:25:35",
+  "collected_at": "2026-10-03 06:57:51",
   "directors": [
+    {
+      "name": "Mr. Sagar Dattatraya Meghe",
+      "role": "Whole Time Chairman",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": 12582000
+    },
     {
       "name": "Dr. Abhay Surendra Kimmatkar",
       "role": "MD & Director",
@@ -32,20 +39,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Sagar Dattatraya Meghe",
-      "role": "Whole Time Chairman",
-      "age": 54,
-      "year_born": 1971,
-      "total_pay": 12582000
-    },
-    {
-      "name": "Dr. Anish  Nair",
-      "role": "Chief Information Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Prakash Tanaji Yadav",
       "role": "Senior Vice President of Energy",
       "age": 44,
@@ -60,8 +53,22 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. Kaushik Chandrahas Khona",
+      "role": "MD of India Operations & Director",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": 31861000
+    },
+    {
       "name": "Mr. Rohan  Singh",
       "role": "Executive Vice President of Strategic Initiatives",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Anish  Nair",
+      "role": "Chief Information Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

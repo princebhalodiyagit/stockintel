@@ -1,7 +1,7 @@
 {
   "ticker": "AYE",
   "company": "Aye Finance Limited",
-  "collected_at": "2026-10-02 07:23:05",
+  "collected_at": "2026-10-03 06:55:00",
   "directors": [
     {
       "name": "Mr. Sanjay  Sharma",
@@ -27,6 +27,13 @@
     {
       "name": "Mr. Ujual  George",
       "role": "Chief Operating Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jinu  Joseph",
+      "role": "Chief Technology Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
@@ -62,13 +69,6 @@
     {
       "name": "Mr. Tejamoy  Ghosh",
       "role": "Head of Data Science & Artificial Intelligence",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Akash Damodar Purswani",
-      "role": "Chief Collections Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

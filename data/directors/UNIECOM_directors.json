@@ -1,8 +1,15 @@
 {
   "ticker": "UNIECOM",
   "company": "Unicommerce Esolutions Limited",
-  "collected_at": "2026-10-02 07:52:42",
+  "collected_at": "2026-10-03 07:28:37",
   "directors": [
+    {
+      "name": "Mr. Kapil  Makhija",
+      "role": "MD, CEO & Director",
+      "age": 44,
+      "year_born": 1981,
+      "total_pay": 24220000
+    },
     {
       "name": "Mr. Anurag  Mittal",
       "role": "Chief Financial Officer",
@@ -11,17 +18,17 @@
       "total_pay": 11160000
     },
     {
-      "name": "Mr. Gaurav  Juneja",
-      "role": "Chief Revenue Officer",
+      "name": "Mr. Sourabh  Yadav",
+      "role": "Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Anil  Kumar",
-      "role": "Company Secretary",
-      "age": 38,
-      "year_born": 1987,
+      "name": "Mr. Gaurav  Juneja",
+      "role": "Chief Revenue Officer",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

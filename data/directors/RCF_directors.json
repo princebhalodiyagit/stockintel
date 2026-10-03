@@ -1,8 +1,22 @@
 {
   "ticker": "RCF",
   "company": "Rashtriya Chemicals and Fertilizers Limited",
-  "collected_at": "2026-10-02 07:45:13",
+  "collected_at": "2026-10-03 07:20:14",
   "directors": [
+    {
+      "name": "Mr. Shivakumar  Subramaniam",
+      "role": "Chairman & Managing Director",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": 900000
+    },
+    {
+      "name": "Ms. Nazhat Jehangir Shaikh",
+      "role": "CFO, Director of Finance & Director",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": 7000000
+    },
     {
       "name": "Ms. Ritu  Goswami",
       "role": "Director of Technical & Director",
@@ -16,6 +30,13 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Niranjan Suryabhan Sonak",
+      "role": "Director of Marketing & Director",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": 6500000
     },
     {
       "name": "Mr. Sharad S. Sonawane",
@@ -34,6 +55,20 @@
     {
       "name": "Dr. Rahul S. Jagtap",
       "role": "Chief Vigilance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Sanjay S. Petkar",
+      "role": "Chief General Manager of IT & CC, CSR",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Sanjay  Jain",
+      "role": "Chief General Manager of Nitrogen & Maintenance",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

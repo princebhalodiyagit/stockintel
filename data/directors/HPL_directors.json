@@ -1,11 +1,11 @@
 {
   "ticker": "HPL",
   "company": "HPL Electric & Power Limited",
-  "collected_at": "2026-10-02 07:33:07",
+  "collected_at": "2026-10-03 07:06:28",
   "directors": [
     {
       "name": "Mr. Lalit  Seth",
-      "role": "Chairman & Whole-time Director",
+      "role": "Executive Chairman",
       "age": 78,
       "year_born": 1947,
       "total_pay": 37367000
@@ -25,6 +25,13 @@
       "total_pay": 15597000
     },
     {
+      "name": "Mr. Bhanwar Lal Bishnoi",
+      "role": "Chief Technology Officer",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Ms. Praveen  Seth",
       "role": "Senior Manager of Administration",
       "age": "N/A",
@@ -32,7 +39,7 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Vivek Kumar Gupta",
+      "name": "Mr. Vivek Kumar Gupta C.S.",
       "role": "Company Secretary & Compliance Officer",
       "age": 49,
       "year_born": 1976,
@@ -64,13 +71,6 @@
       "role": "Senior Vice President of Switchgear",
       "age": 67,
       "year_born": 1958,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Prashant  Tandon",
-      "role": "Head of Commercial Division",
-      "age": 58,
-      "year_born": 1967,
       "total_pay": "N/A"
     }
   ]

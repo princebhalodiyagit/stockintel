@@ -1,7 +1,7 @@
 {
   "ticker": "DANGEE",
   "company": "Dangee Dums Limited",
-  "collected_at": "2026-10-02 07:27:04",
+  "collected_at": "2026-10-03 06:59:33",
   "directors": [
     {
       "name": "Mr. Nikul Jagdishchandra Patel",
@@ -15,6 +15,13 @@
       "role": "CFO & Non Executive Non Independent Director",
       "age": 48,
       "year_born": 1977,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Sangeeta Amit Khyani A.C.S., B.Com., L.L.B.",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "ticker": "PCJEWELLER",
   "company": "PC Jeweller Limited",
-  "collected_at": "2026-10-02 07:43:04",
+  "collected_at": "2026-10-03 07:17:48",
   "directors": [
     {
       "name": "Mr. Balram  Garg B.Com.",
@@ -9,6 +9,13 @@
       "age": 55,
       "year_born": 1970,
       "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vishan  Deo",
+      "role": "Executive Director of Finance, CFO & Additional Director",
+      "age": 65,
+      "year_born": 1960,
+      "total_pay": 2525000
     },
     {
       "name": "Mr. Vijay  Panwar",
@@ -36,6 +43,13 @@
       "role": "President of Accounts & Audit",
       "age": 47,
       "year_born": 1978,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vivek  Jain",
+      "role": "Chief Information Officer",
+      "age": 59,
+      "year_born": 1966,
       "total_pay": "N/A"
     },
     {

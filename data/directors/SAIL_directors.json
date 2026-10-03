@@ -1,8 +1,15 @@
 {
   "ticker": "SAIL",
   "company": "Steel Authority of India Limited",
-  "collected_at": "2026-10-02 07:46:29",
+  "collected_at": "2026-10-03 07:21:39",
   "directors": [
+    {
+      "name": "Dr. Ashok Kumar Panda",
+      "role": "Chairman, Director of Finance & MD",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": 7749938
+    },
     {
       "name": "Mr. Krishna Kumar Singh",
       "role": "Director of Personnel & Executive Director",
@@ -16,20 +23,6 @@
       "age": 56,
       "year_born": 1969,
       "total_pay": 8915946
-    },
-    {
-      "name": "Mr. Manish Raj Gupta",
-      "role": "Director of Mining & Whole Time Director",
-      "age": 56,
-      "year_born": 1969,
-      "total_pay": 10911484
-    },
-    {
-      "name": "Dr. Ashok Kumar Panda",
-      "role": "Chairman, Director of Finance & MD",
-      "age": 55,
-      "year_born": 1970,
-      "total_pay": 7749938
     },
     {
       "name": "Mr. Chitta Ranjan Mohapatra",
@@ -46,18 +39,39 @@
       "total_pay": 7910666
     },
     {
+      "name": "Mr. Manish Raj Gupta",
+      "role": "Director of Mining & Whole Time Director",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": 10911484
+    },
+    {
       "name": "Mr. Priya  Ranjan",
       "role": "Director In-charge of Bokaro Steel Plant",
-      "age": "N/A",
-      "year_born": "N/A",
+      "age": 56,
+      "year_born": 1969,
       "total_pay": 1785990
     },
     {
-      "name": "Mr. T.N.  Natarajan",
+      "name": "Mr. Thathamanchinamasivayan  Natarajan",
       "role": "Director of Commercial & Director",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": 538815
+    },
+    {
+      "name": "Varinder  Dhawan",
+      "role": "Executive Director of Operations",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. M. B. Balakrishnan",
+      "role": "ED (F&A), Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 3712699
     }
   ]
 }

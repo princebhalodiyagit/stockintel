@@ -1,7 +1,7 @@
 {
   "ticker": "AARTIIND",
   "company": "Aarti Industries Limited",
-  "collected_at": "2026-10-02 07:19:39",
+  "collected_at": "2026-10-03 06:51:03",
   "directors": [
     {
       "name": "Mr. Rajendra Vallabhaji Gogri",
@@ -13,8 +13,8 @@
     {
       "name": "Mr. Suyog Kalyanji Kotecha",
       "role": "CEO & Executive Director",
-      "age": "N/A",
-      "year_born": "N/A",
+      "age": 45,
+      "year_born": 1980,
       "total_pay": 47800000
     },
     {
@@ -54,7 +54,7 @@
     },
     {
       "name": "Mr. Chetan Bipin Gandhi CA",
-      "role": "Chief Financial Officer & Chief Risk Officer",
+      "role": "CFO & Chief Risk Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

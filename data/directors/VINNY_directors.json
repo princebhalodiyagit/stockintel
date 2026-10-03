@@ -1,13 +1,27 @@
 {
   "ticker": "VINNY",
   "company": "Vinny Overseas Limited",
-  "collected_at": "2026-10-02 07:53:37",
+  "collected_at": "2026-10-03 07:29:38",
   "directors": [
+    {
+      "name": "Mr. Hiralal Jagdishchand Parekh",
+      "role": "MD & Chairman",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": "N/A"
+    },
     {
       "name": "Mr. Mularam Naruram Prajapati",
       "role": "Chief Financial Officer",
       "age": 57,
       "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Bhavesh Kantibhai Vaghasiya",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
@@ -18,10 +32,10 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Bhavesh Kantibhai Vaghasiya",
-      "role": "Company Secretary & Compliance Officer",
-      "age": "N/A",
-      "year_born": "N/A",
+      "name": "Ms. Nishita Saurabh Shah",
+      "role": "Whole Time Director",
+      "age": 34,
+      "year_born": 1991,
       "total_pay": "N/A"
     }
   ]

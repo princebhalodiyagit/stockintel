@@ -1,7 +1,7 @@
 {
   "ticker": "LINCOLN",
   "company": "Lincoln Pharmaceuticals Limited",
-  "collected_at": "2026-10-02 07:37:54",
+  "collected_at": "2026-10-03 07:11:57",
   "directors": [
     {
       "name": "Mr. Mahendrabhai Gulabdas Patel B.A, LLB",
@@ -46,13 +46,6 @@
       "total_pay": 6915000
     },
     {
-      "name": "Mr. Sanjay  Bhatt",
-      "role": "Senior Manager of Operation",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Laxmikant  Harsola",
       "role": "Vice President of Technical",
       "age": "N/A",
@@ -71,6 +64,13 @@
       "role": "Group Marketing Manager",
       "age": 49,
       "year_born": 1976,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anil  Verma",
+      "role": "Sales and Distributor Head",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

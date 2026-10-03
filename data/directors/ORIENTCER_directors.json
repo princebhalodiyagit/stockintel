@@ -1,8 +1,15 @@
 {
   "ticker": "ORIENTCER",
   "company": "ORIENT CERATECH LIMITED",
-  "collected_at": "2026-10-02 07:42:28",
+  "collected_at": "2026-10-03 07:17:07",
   "directors": [
+    {
+      "name": "Mr. Manan Chetan Shah",
+      "role": "MD & Director",
+      "age": 33,
+      "year_born": 1992,
+      "total_pay": 15592016
+    },
     {
       "name": "Mr. Manubhai  Rathod",
       "role": "Whole-Time Director of Operations",
@@ -20,8 +27,8 @@
     {
       "name": "Mr. Krupal Rameshkumar Upadhyay",
       "role": "Company Secretary & Compliance Officer",
-      "age": 34,
-      "year_born": 1991,
+      "age": 35,
+      "year_born": 1990,
       "total_pay": "N/A"
     }
   ]

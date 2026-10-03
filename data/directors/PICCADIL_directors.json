@@ -1,7 +1,7 @@
 {
   "ticker": "PICCADIL",
   "company": "Piccadily Agro Industries Limited",
-  "collected_at": "2026-10-02 07:43:19",
+  "collected_at": "2026-10-03 07:18:06",
   "directors": [
     {
       "name": "Mr. Harvinder Singh Chopra",
@@ -30,6 +30,20 @@
       "age": 58,
       "year_born": 1967,
       "total_pay": 6851000
+    },
+    {
+      "name": "Mr. Sudhir  Bhargava",
+      "role": "Head of Investor Relations",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rakesh  Vasishta",
+      "role": "President of Sales",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

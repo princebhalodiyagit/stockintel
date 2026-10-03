@@ -1,13 +1,20 @@
 {
   "ticker": "REGAAL",
   "company": "Regaal Resources Limited",
-  "collected_at": "2026-10-02 07:45:18",
+  "collected_at": "2026-10-03 07:20:20",
   "directors": [
+    {
+      "name": "Mr. Anil  Kishorepuria",
+      "role": "Founder, Chairman & MD",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": 30000000
+    },
     {
       "name": "Mr. Saikat  Chatterjee",
       "role": "Chief Financial Officer",
-      "age": "N/A",
-      "year_born": "N/A",
+      "age": 48,
+      "year_born": 1977,
       "total_pay": "N/A"
     },
     {
@@ -15,6 +22,13 @@
       "role": "Company Secretary & Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rohan  Kishorepuria",
+      "role": "Vice President of Sales & Services",
+      "age": 33,
+      "year_born": 1992,
       "total_pay": "N/A"
     },
     {
@@ -34,8 +48,15 @@
     {
       "name": "Mr. Harish Kumar Singh",
       "role": "Deputy General Manager of Plant",
-      "age": "N/A",
-      "year_born": "N/A",
+      "age": 37,
+      "year_born": 1988,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vivek  Lilha",
+      "role": "Deputy General Manager of Procurement",
+      "age": 44,
+      "year_born": 1981,
       "total_pay": "N/A"
     }
   ]

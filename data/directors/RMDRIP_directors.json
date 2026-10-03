@@ -1,6 +1,21 @@
 {
   "ticker": "RMDRIP",
   "company": "R M Drip and Sprinklers Systems Limited",
-  "collected_at": "2026-10-02 07:45:45",
-  "directors": []
+  "collected_at": "2026-10-03 07:20:50",
+  "directors": [
+    {
+      "name": "Mr. Atharva Nivrutti Kedar",
+      "role": "MD & Executive Director",
+      "age": 25,
+      "year_born": 2000,
+      "total_pay": 60000
+    },
+    {
+      "name": "Mr. Kiran  Ramdas Chavan",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 836000
+    }
+  ]
 }

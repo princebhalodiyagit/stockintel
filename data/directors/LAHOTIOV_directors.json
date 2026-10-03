@@ -1,7 +1,7 @@
 {
   "ticker": "LAHOTIOV",
   "company": "Lahoti Overseas Limited",
-  "collected_at": "2026-10-02 07:37:30",
+  "collected_at": "2026-10-03 07:11:30",
   "directors": [
     {
       "name": "Mr. Ujwal Rambilas Lahoti",
@@ -15,6 +15,20 @@
       "role": "MD & Executive Director",
       "age": 60,
       "year_born": 1965,
+      "total_pay": 3960000
+    },
+    {
+      "name": "Mr. Shubham  Aggarwal",
+      "role": "Company Secretary and Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Aadhitiya Ujwal Lahoti",
+      "role": "Whole Time Director",
+      "age": 41,
+      "year_born": 1984,
       "total_pay": 3960000
     }
   ]

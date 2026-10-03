@@ -1,8 +1,36 @@
 {
   "ticker": "ISGEC",
   "company": "Isgec Heavy Engineering Limited",
-  "collected_at": "2026-10-02 07:34:49",
+  "collected_at": "2026-10-03 07:08:24",
   "directors": [
+    {
+      "name": "Mr. Aditya  Puri",
+      "role": "MD & Executive Director",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": 141699504
+    },
+    {
+      "name": "Mr. Kishore  Chatnani",
+      "role": "CFO, Joint MD, Head of Corporate Accounts & Treasury and Chief Investor Relations officer",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": 25508055
+    },
+    {
+      "name": "Mr. Kalyan  Ghosh",
+      "role": "Chief Legal Officer & Compliance Officer",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": 8831000
+    },
+    {
+      "name": "Mr. Sanjay  Gulati",
+      "role": "Head of Manufacturing Units, Joint MD & Whole Time Director",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": 18972826
+    },
     {
       "name": "Mr. Sachin  Saluja",
       "role": "Company Secretary",
@@ -32,11 +60,18 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Kalyan  Ghosh",
-      "role": "Chief Legal Officer & Compliance Officer",
-      "age": 56,
-      "year_born": 1969,
-      "total_pay": 8831000
+      "name": "Mr. Ravi  Jaidka",
+      "role": "Executive Director of ISGEC Works & Unit Head of ISGEC",
+      "age": 78,
+      "year_born": 1947,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mahesh  Gupta B.E (Mech.), M. Tech.",
+      "role": "Head of Materials & Logistics and Chief Executive of EPC",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": "N/A"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "ticker": "RUBICON",
   "company": "Rubicon Research Limited",
-  "collected_at": "2026-10-02 07:46:11",
+  "collected_at": "2026-10-03 07:21:19",
   "directors": [
     {
       "name": "Mr. Parag Suganchand Sancheti",
@@ -18,10 +18,59 @@
       "total_pay": 17600000
     },
     {
+      "name": "Ms. Deepashree Omkar Tanksale",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Nitin  Jajodia",
+      "role": "Chief Commercial Officer",
+      "age": 42,
+      "year_born": 1983,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Sudhir Dhirendra Pilgaonkar",
       "role": "Co-Founder, Chief Commercial Officer & Senior VP",
       "age": 73,
       "year_born": 1952,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rohit  Saraogi",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sumant Sudhir Pilgaonkar",
+      "role": "Senior Vice President of Operations",
+      "age": 35,
+      "year_born": 1990,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Romola  Pinto",
+      "role": "VP of Human Resources & Administration",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Avani Harish Shah",
+      "role": "General Manager of Secretarial, Legal & Compliance",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sagar Pradeep Oak",
+      "role": "Senior Vice President of Corporate Development & Strategy",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

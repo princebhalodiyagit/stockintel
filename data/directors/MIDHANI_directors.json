@@ -1,6 +1,49 @@
 {
   "ticker": "MIDHANI",
   "company": "Mishra Dhatu Nigam Limited",
-  "collected_at": "2026-10-02 07:39:39",
-  "directors": []
+  "collected_at": "2026-10-03 07:13:56",
+  "directors": [
+    {
+      "name": "Dr. S.V.S. Narayana Murty",
+      "role": "Chairman & MD",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": 6114000
+    },
+    {
+      "name": "Ms. Madhubala  Kalluri",
+      "role": "CFO, Director of Finance & Director",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": 3679000
+    },
+    {
+      "name": "Mr. Paul  Antony",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 2297000
+    },
+    {
+      "name": "Mr. Padavittan  Babu",
+      "role": "Director of Production & Marketing & Director",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": 2293000
+    },
+    {
+      "name": "Dr. VNSV Annapurneswara Rao",
+      "role": "General Manager of Finance & Accounts",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Spurthi  Reddy",
+      "role": "Chief Vigilance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

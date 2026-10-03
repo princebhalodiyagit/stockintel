@@ -1,7 +1,7 @@
 {
   "ticker": "SUMEETINDS",
   "company": "Sumeet Industries Limited",
-  "collected_at": "2026-10-02 07:49:50",
+  "collected_at": "2026-10-03 07:25:22",
   "directors": [
     {
       "name": "Mr. Radheyshyam B. Jaju",
@@ -30,6 +30,13 @@
       "age": 54,
       "year_born": 1971,
       "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rohan Dipakbhai Modh",
+      "role": "Executive Director",
+      "age": 24,
+      "year_born": 2001,
+      "total_pay": 2400000
     },
     {
       "name": "Mr. Naresh Kumar Joshi",

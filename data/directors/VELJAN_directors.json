@@ -1,8 +1,15 @@
 {
   "ticker": "VELJAN",
   "company": "Veljan Denison Limited",
-  "collected_at": "2026-10-02 07:53:16",
+  "collected_at": "2026-10-03 07:29:15",
   "directors": [
+    {
+      "name": "Mr. Sri Krishna Uppaluri",
+      "role": "MD, CEO & Executive Director",
+      "age": 32,
+      "year_born": 1993,
+      "total_pay": 13906000
+    },
     {
       "name": "Mr. G. Subba Rao",
       "role": "Chief Financial Officer",

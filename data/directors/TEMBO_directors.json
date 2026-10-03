@@ -1,7 +1,7 @@
 {
   "ticker": "TEMBO",
   "company": "Tembo Global Industries Limited",
-  "collected_at": "2026-10-02 07:51:13",
+  "collected_at": "2026-10-03 07:26:56",
   "directors": [
     {
       "name": "Mr. Sanjay Jashbhai Patel",
@@ -20,6 +20,13 @@
     {
       "name": "Ms. Reshma  Jalal",
       "role": "Accounts Manager",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Harshal  Patil",
+      "role": "Company Secretary & Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

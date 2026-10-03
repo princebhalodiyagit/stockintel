@@ -1,14 +1,28 @@
 {
   "ticker": "TRU",
   "company": "TruCap Finance Limited",
-  "collected_at": "2026-10-02 07:52:14",
+  "collected_at": "2026-10-03 07:28:05",
   "directors": [
+    {
+      "name": "Mr. Rohanjeet Singh Juneja",
+      "role": "MD, CEO & Executive Director",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": 20429500
+    },
     {
       "name": "Mr. Lalit Mohan Chendvankar",
       "role": "Head of the Corporate Secretarial, Chief Compliance Officer & Legal Head",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 7730000
+    },
+    {
+      "name": "Mr. Vishal  Miglani",
+      "role": "Senior Vice President of Business Loans, Cross Sell, Collaborations & Strategy",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 4379000
     },
     {
       "name": "Ms. Sonal Jagdish Sharma",
@@ -37,13 +51,6 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Vishal  Miglani",
-      "role": "Senior Vice President of Business Loans, Cross Sell, Collaborations & Strategy",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 4379000
     },
     {
       "name": "Mr. Mohinder  Dogra",

@@ -1,8 +1,15 @@
 {
   "ticker": "SOUTHWEST",
   "company": "South West Pinnacle Exploration Limited",
-  "collected_at": "2026-10-02 07:49:00",
+  "collected_at": "2026-10-03 07:24:27",
   "directors": [
+    {
+      "name": "Mr. Vikas  Jain M.B.A.",
+      "role": "Chairman & MD",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": 24024846
+    },
     {
       "name": "Mr. Piyush  Jain",
       "role": "Joint MD & Whole Time Director",
@@ -16,6 +23,34 @@
       "age": 66,
       "year_born": 1959,
       "total_pay": 2153400
+    },
+    {
+      "name": "Ms. .  Vaishali",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 857400
+    },
+    {
+      "name": "Mr. Pankaj  Chandan",
+      "role": "Head of Human Resource and Administration",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manik Kumar Jain",
+      "role": "Senior Vice President",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Guljar Singh Dhami",
+      "role": "Head of Geophysics",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

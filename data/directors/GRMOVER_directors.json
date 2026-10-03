@@ -1,7 +1,7 @@
 {
   "ticker": "GRMOVER",
   "company": "GRM Overseas Limited",
-  "collected_at": "2026-10-02 07:31:37",
+  "collected_at": "2026-10-03 07:04:45",
   "directors": [
     {
       "name": "Mr. Atul  Garg",
@@ -44,6 +44,27 @@
       "age": 53,
       "year_born": 1972,
       "total_pay": 13200000
+    },
+    {
+      "name": "Mr. Anil Kumar Nijhawan",
+      "role": "Senior Manager of Accounts",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Meenakshi  Pawar",
+      "role": "Head - Corporate Affairs",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Pramod  Aggarwal",
+      "role": "Head of Logistic Operation",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": "N/A"
     }
   ]
 }

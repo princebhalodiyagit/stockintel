@@ -1,6 +1,35 @@
 {
   "ticker": "PATINTLOG",
   "company": "Patel Integrated Logistics Limited",
-  "collected_at": "2026-10-02 07:43:00",
-  "directors": []
+  "collected_at": "2026-10-03 07:17:44",
+  "directors": [
+    {
+      "name": "Mr. Vikas  Porwal",
+      "role": "Whole-Time Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jasmeet  Bakshi",
+      "role": "Senior Vice President of Marketing & Operations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Avinash Paul Raj",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Charanjit  Singh",
+      "role": "President Commercial",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

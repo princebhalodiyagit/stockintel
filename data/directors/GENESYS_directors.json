@@ -1,7 +1,7 @@
 {
   "ticker": "GENESYS",
   "company": "Genesys International Corporation Limited",
-  "collected_at": "2026-10-02 07:30:26",
+  "collected_at": "2026-10-03 07:03:23",
   "directors": [
     {
       "name": "Mr. Sajid Siraj Malik ACA, B.Com.",
@@ -9,6 +9,20 @@
       "age": 61,
       "year_born": 1964,
       "total_pay": 10500000
+    },
+    {
+      "name": "Mr. Ravi Kumar Vishnubhatla Jatavallabha",
+      "role": "Corporate Finance \u0096 Strategy & Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 12454000
+    },
+    {
+      "name": "Mr. Kushal Vastimal Jain",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 1923000
     },
     {
       "name": "Mr. Vineet  Chopra",
@@ -27,6 +41,27 @@
     {
       "name": "Mr. Dhiman Basu Ray",
       "role": "Chief Technology Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sameer  Sankhe",
+      "role": "Chief Digital Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Bala Pavan Kumar Tsunduru",
+      "role": "Chief Growth Officer",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Aniruddha  Roy",
+      "role": "Chief Innovation Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

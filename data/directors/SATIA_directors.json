@@ -1,7 +1,7 @@
 {
   "ticker": "SATIA",
   "company": "Satia Industries Limited",
-  "collected_at": "2026-10-02 07:46:59",
+  "collected_at": "2026-10-03 07:22:12",
   "directors": [
     {
       "name": "Dr. Ajay  Satia MBBS",
@@ -18,18 +18,18 @@
       "total_pay": 18122527
     },
     {
-      "name": "Mr. Rachit  Nagpal",
-      "role": "GM of Finance & Chief Financial Officer",
-      "age": 36,
-      "year_born": 1989,
-      "total_pay": 2760000
-    },
-    {
       "name": "Mr. Hardev  Singh",
       "role": "Director of Technical & Director",
       "age": 68,
       "year_born": 1957,
       "total_pay": 7550458
+    },
+    {
+      "name": "Mr. Manav  Sarin",
+      "role": "Vice President of Sales & Marketing",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Chirag  Satia",
@@ -39,17 +39,24 @@
       "total_pay": 60038400
     },
     {
+      "name": "Ashutosh  Shukla",
+      "role": "Assistant Vice President",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rachit  Nagpal",
+      "role": "GM of Finance & Chief Financial Officer",
+      "age": 36,
+      "year_born": 1989,
+      "total_pay": 2760000
+    },
+    {
       "name": "Mr. Rakesh Kumar Dhuria A.C.S., L.L.B.",
       "role": "Senior GM of Secretarial, Company Secretary & Compliance Officer",
       "age": 64,
       "year_born": 1961,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Manav  Sarin",
-      "role": "Vice President of Sales & Marketing",
-      "age": 53,
-      "year_born": 1972,
       "total_pay": "N/A"
     },
     {
@@ -64,13 +71,6 @@
       "role": "Senior General Manager",
       "age": 52,
       "year_born": 1973,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Vinay  Kumar",
-      "role": "General Manager",
-      "age": 58,
-      "year_born": 1967,
       "total_pay": "N/A"
     }
   ]

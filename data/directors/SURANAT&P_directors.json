@@ -1,7 +1,7 @@
 {
   "ticker": "SURANAT&P",
   "company": "Surana Telecom and Power Limited",
-  "collected_at": "2026-10-02 07:50:13",
+  "collected_at": "2026-10-03 07:25:48",
   "directors": [
     {
       "name": "Mr. Mangilal Narender R. Surana",
@@ -9,6 +9,20 @@
       "age": 65,
       "year_born": 1960,
       "total_pay": 8400000
+    },
+    {
+      "name": "Mr. Rangarajan Venkataramanan Thiruvaiyar",
+      "role": "CFO & Whole Time Director",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": 1022400
+    },
+    {
+      "name": "Mr. Ankit  Pansari",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Advait  Surana",

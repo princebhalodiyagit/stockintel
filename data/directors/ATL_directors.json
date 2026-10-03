@@ -1,15 +1,8 @@
 {
   "ticker": "ATL",
   "company": "Allcargo Terminals Limited",
-  "collected_at": "2026-10-02 07:22:38",
+  "collected_at": "2026-10-03 06:54:29",
   "directors": [
-    {
-      "name": "Captain Ashish Vijayprakash Chandna",
-      "role": "Chief Executive Officer",
-      "age": 49,
-      "year_born": 1976,
-      "total_pay": "N/A"
-    },
     {
       "name": "Mr. Pritam  Vartak",
       "role": "Chief Financial Officer",
@@ -25,6 +18,20 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Captain Ashish Vijayprakash Chandna",
+      "role": "Chief Executive Officer",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pranav  Choudhary",
+      "role": "MD & Director",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Sourav  Dasgupta",
       "role": "Chief Information Officer",
       "age": "N/A",
@@ -32,7 +39,7 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Ms. Richa  Rathore",
+      "name": "Ms. Richa Singh Rathore",
       "role": "Head of Human Resources",
       "age": "N/A",
       "year_born": "N/A",

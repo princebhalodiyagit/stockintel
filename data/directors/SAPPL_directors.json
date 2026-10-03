@@ -1,7 +1,7 @@
 {
   "ticker": "SAPPL",
   "company": "Shree Ajit Pulp & Paper Limited",
-  "collected_at": "2026-10-02 07:46:54",
+  "collected_at": "2026-10-03 07:22:07",
   "directors": [
     {
       "name": "Mr. Gautam D. Shah",
@@ -16,6 +16,13 @@
       "age": 60,
       "year_born": 1965,
       "total_pay": 21550000
+    },
+    {
+      "name": "Mr. Goutam  Majumder",
+      "role": "Executive Director of Technical & Executive Director",
+      "age": 64,
+      "year_born": 1961,
+      "total_pay": 3763000
     }
   ]
 }

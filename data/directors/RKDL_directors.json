@@ -1,13 +1,27 @@
 {
   "ticker": "RKDL",
   "company": "Ravi Kumar Distilleries Limited",
-  "collected_at": "2026-10-02 07:45:41",
+  "collected_at": "2026-10-03 07:20:45",
   "directors": [
     {
       "name": "Mr. Ramalingam V. Ravikumar",
       "role": "Founder, Executive Chairman & MD",
       "age": 70,
       "year_born": 1955,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. L.  Bhuvaneswari",
+      "role": "Chief Financial Officer",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manohar Waman Oak",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 71,
+      "year_born": 1954,
       "total_pay": "N/A"
     },
     {
@@ -39,6 +53,13 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Ms. A. N. Valliammai",
+      "role": "Sales Manager",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. K.  Rajendran",
       "role": "Electrician",
       "age": 48,
@@ -50,20 +71,6 @@
       "role": "Stores \u0096 In-charge",
       "age": 58,
       "year_born": 1967,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. S.  Sivasankar",
-      "role": "DM Plant Incharge",
-      "age": 49,
-      "year_born": 1976,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. M.  Gnanamurthy",
-      "role": "Warehouse Incharge",
-      "age": 48,
-      "year_born": 1977,
       "total_pay": "N/A"
     }
   ]

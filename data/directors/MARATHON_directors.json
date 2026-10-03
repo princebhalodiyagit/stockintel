@@ -1,7 +1,7 @@
 {
   "ticker": "MARATHON",
   "company": "Marathon Nextgen Realty Limited",
-  "collected_at": "2026-10-02 07:38:56",
+  "collected_at": "2026-10-03 07:13:08",
   "directors": [
     {
       "name": "Mr. Chetan Ramniklal Shah B.Tech, M.S. (USA)",
@@ -9,6 +9,13 @@
       "age": 69,
       "year_born": 1956,
       "total_pay": 27800000
+    },
+    {
+      "name": "Mr. Mayur Ramniklal Shah B.E, M.S. (USA)",
+      "role": "President & Vice Chairman",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": 540000
     },
     {
       "name": "Mr. Suyash Neelkanth Bhise",
@@ -23,6 +30,20 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kaivalya Chetan Shah",
+      "role": "Head of Projects & Whole-Time Director",
+      "age": 38,
+      "year_born": 1987,
+      "total_pay": 8180000
+    },
+    {
+      "name": "Mr. Samyag Mayur Shah",
+      "role": "Head of Projects & Whole-Time Director",
+      "age": 34,
+      "year_born": 1991,
+      "total_pay": 8180000
     },
     {
       "name": "Mr. Deepak  Ramkrishna",

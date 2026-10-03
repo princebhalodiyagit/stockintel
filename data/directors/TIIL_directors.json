@@ -1,7 +1,7 @@
 {
   "ticker": "TIIL",
   "company": "Technocraft Industries (India) Limited",
-  "collected_at": "2026-10-02 07:51:36",
+  "collected_at": "2026-10-03 07:27:22",
   "directors": [
     {
       "name": "Mr. Sudarshan Kumar Saraf B.Tech",
@@ -11,7 +11,7 @@
       "total_pay": 14640000
     },
     {
-      "name": "Mr. Sharad Kumar Saraf B.Tech",
+      "name": "Dr. Sharad Kumar Saraf B.Tech",
       "role": "Chairman & MD",
       "age": 78,
       "year_born": 1947,
@@ -37,6 +37,41 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vikas  Patangia",
+      "role": "Manager of Legal",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ketan  Oza",
+      "role": "General Manager of Marketing",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Subhash  Khandelwal",
+      "role": "President of Corporate",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Atanu Anil Choudhary",
+      "role": "Whole-Time Director",
+      "age": 65,
+      "year_born": 1960,
+      "total_pay": 2690000
+    },
+    {
+      "name": "Mr. Anil Mahabirprasad Gadodia",
+      "role": "Group Chief Financial Officer",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": 880000
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "ticker": "JKIL",
   "company": "J.Kumar Infraprojects Limited",
-  "collected_at": "2026-10-02 07:35:29",
+  "collected_at": "2026-10-03 07:09:11",
   "directors": [
     {
       "name": "Mr. Jagdishkumar Madanlal Gupta",
@@ -34,8 +34,8 @@
     {
       "name": "Mr. Pravin Ramkrishna Ghag",
       "role": "Director of Administration & Compliances and Executive Director",
-      "age": "N/A",
-      "year_born": "N/A",
+      "age": 55,
+      "year_born": 1970,
       "total_pay": 2490708
     },
     {
@@ -53,6 +53,13 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. Milind Gopalrao Wani",
+      "role": "Chief Human Resources Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Mayank Kumar Jain",
       "role": "Head of Transportation-Project",
       "age": "N/A",
@@ -62,13 +69,6 @@
     {
       "name": "Mr. Dharmendra  Singh",
       "role": "QAQC Head",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Rajan  Sharma",
-      "role": "Senior VP & Head of Projects",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

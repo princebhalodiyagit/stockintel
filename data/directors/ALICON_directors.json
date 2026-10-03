@@ -1,7 +1,7 @@
 {
   "ticker": "ALICON",
   "company": "Alicon Castalloy Limited",
-  "collected_at": "2026-10-02 07:21:00",
+  "collected_at": "2026-10-03 06:52:38",
   "directors": [
     {
       "name": "Mr. Shailendrajit Charanjit Rai",
@@ -41,6 +41,13 @@
     {
       "name": "Mr. Shyam  Agarwal",
       "role": "General Manager of Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Omprakash  Agnihotri",
+      "role": "Chief ESG Head",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

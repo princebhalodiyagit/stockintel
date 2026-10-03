@@ -1,7 +1,7 @@
 {
   "ticker": "DBL",
   "company": "Dilip Buildcon Limited",
-  "collected_at": "2026-10-02 07:27:10",
+  "collected_at": "2026-10-03 06:59:40",
   "directors": [
     {
       "name": "Mr. Dilip  Suryavanshi B.E. (Civil), M.I.E.",
@@ -19,7 +19,7 @@
     },
     {
       "name": "Mr. Sanjay Kumar Bansal",
-      "role": "VP of Finance & CFO",
+      "role": "President of Finance & CFO",
       "age": 50,
       "year_born": 1975,
       "total_pay": "N/A"
@@ -39,6 +39,13 @@
       "total_pay": 4870000
     },
     {
+      "name": "Mr. Atul  Joshi",
+      "role": "President of Engineering (STR)",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. K. Arun Kumar",
       "role": "President Design & Technical Audit",
       "age": 52,
@@ -48,29 +55,22 @@
     {
       "name": "Mr. Amares  Kumar",
       "role": "President of Coal Mining",
-      "age": 53,
-      "year_born": 1972,
+      "age": 54,
+      "year_born": 1971,
       "total_pay": "N/A"
     },
     {
       "name": "Mr. Manish Omprakash Chhangani",
       "role": "Vice President of ICT Business",
-      "age": 40,
-      "year_born": 1985,
+      "age": 41,
+      "year_born": 1984,
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Satyanarayan  Purohit",
-      "role": "Vice President of Operations & Maintenance",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Kasturi  Satyanarayana",
-      "role": "Chief Information Officer",
-      "age": "N/A",
-      "year_born": "N/A",
+      "name": "Mr. Mrinal  Bhadra",
+      "role": "Vice President of Mining (Coal)",
+      "age": 48,
+      "year_born": 1977,
       "total_pay": "N/A"
     }
   ]

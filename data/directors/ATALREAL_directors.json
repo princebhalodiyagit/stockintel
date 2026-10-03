@@ -1,7 +1,7 @@
 {
   "ticker": "ATALREAL",
   "company": "Atal Realtech Limited",
-  "collected_at": "2026-10-02 07:22:34",
+  "collected_at": "2026-10-03 06:54:25",
   "directors": [
     {
       "name": "Mr. Vijaygopal Parasram Atal",
@@ -9,6 +9,13 @@
       "age": 64,
       "year_born": 1961,
       "total_pay": 2359500
+    },
+    {
+      "name": "Mr. Amit Sureshchandra Atal",
+      "role": "Executive Director",
+      "age": 41,
+      "year_born": 1984,
+      "total_pay": 3932500
     },
     {
       "name": "Mr. Uday Laxman Satve",
@@ -20,6 +27,13 @@
     {
       "name": "Ms. Reshma  Tekawade",
       "role": "Accounts Head",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Mansi Shyam Keswani",
+      "role": "Company Secretary & Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

@@ -1,7 +1,7 @@
 {
   "ticker": "ARIHANT",
   "company": "Arihant Foundations & Housing Limited",
-  "collected_at": "2026-10-02 07:21:55",
+  "collected_at": "2026-10-03 06:53:42",
   "directors": [
     {
       "name": "Mr. Kamal  Lunawath",
@@ -50,6 +50,13 @@
       "role": "Director of Sales & Marketing",
       "age": 53,
       "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Abhishek Gouthamchand Lunawath",
+      "role": "Head of Business Development",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

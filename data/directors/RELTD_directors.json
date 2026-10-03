@@ -1,7 +1,7 @@
 {
   "ticker": "RELTD",
   "company": "Ravindra Energy Limited",
-  "collected_at": "2026-10-02 07:45:25",
+  "collected_at": "2026-10-03 07:20:28",
   "directors": [
     {
       "name": "Dr. Vidya Madhusudan Murkumbi",
@@ -16,6 +16,13 @@
       "age": 44,
       "year_born": 1981,
       "total_pay": 20000000
+    },
+    {
+      "name": "Mr. Vikas Ramesh Pawar",
+      "role": "Chief Financial Officer",
+      "age": 33,
+      "year_born": 1992,
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Madhukar Rajendra Shipurkar",

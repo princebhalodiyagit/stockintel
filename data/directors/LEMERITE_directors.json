@@ -1,7 +1,7 @@
 {
   "ticker": "LEMERITE",
   "company": "Le Merite Exports Limited",
-  "collected_at": "2026-10-02 07:37:41",
+  "collected_at": "2026-10-03 07:11:43",
   "directors": [
     {
       "name": "Mr. Umashankar  Lath",
@@ -15,6 +15,20 @@
       "role": "MD, CFO & Director",
       "age": 44,
       "year_born": 1981,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Arpit  Sharma",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Sweta  Lath",
+      "role": "Executive Director",
+      "age": 40,
+      "year_born": 1985,
       "total_pay": "N/A"
     }
   ]

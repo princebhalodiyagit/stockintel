@@ -1,7 +1,7 @@
 {
   "ticker": "UNITECH",
   "company": "Unitech Limited",
-  "collected_at": "2026-10-02 07:52:48",
+  "collected_at": "2026-10-03 07:28:43",
   "directors": [
     {
       "name": "Mr. Ashok Kumar Yadav I.A.S.",
@@ -22,6 +22,27 @@
       "role": "Chairman & MD",
       "age": 62,
       "year_born": 1963,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Tanmoy  Prasad",
+      "role": "General Manager of IT",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Nadeem Ahmad Khan",
+      "role": "General Manager of Sales & Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ramendra  Kumar",
+      "role": "Group General Manager of HR",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     },
     {

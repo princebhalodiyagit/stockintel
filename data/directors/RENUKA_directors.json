@@ -1,15 +1,8 @@
 {
   "ticker": "RENUKA",
   "company": "Shree Renuka Sugars Limited",
-  "collected_at": "2026-10-02 07:45:27",
+  "collected_at": "2026-10-03 07:20:30",
   "directors": [
-    {
-      "name": "Mr. Atul  Chaturvedi",
-      "role": "Non-Executive Director",
-      "age": 70,
-      "year_born": 1955,
-      "total_pay": 62250000
-    },
     {
       "name": "Mr. Ravi  Gupta",
       "role": "President of Corporate & Executive Director",
@@ -33,7 +26,7 @@
     },
     {
       "name": "Mr. Vipin Kumar Rathi",
-      "role": "President of Operation",
+      "role": "President of Operations & Whole-Time Director",
       "age": 55,
       "year_born": 1970,
       "total_pay": "N/A"
@@ -41,6 +34,13 @@
     {
       "name": "Mr. Deepak Madhav Manerikar",
       "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sunil  Kadam",
+      "role": "Vice President of Legal & Corporate Compliance",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
@@ -54,9 +54,9 @@
     },
     {
       "name": "Mr. Jitendra Kumar Sharma",
-      "role": "President of Human Resource",
-      "age": 49,
-      "year_born": 1976,
+      "role": "Senior President of Human Resource",
+      "age": 50,
+      "year_born": 1975,
       "total_pay": "N/A"
     },
     {

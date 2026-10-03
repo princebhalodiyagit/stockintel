@@ -1,7 +1,7 @@
 {
   "ticker": "ACUTAAS",
   "company": "Acutaas Chemicals Limited",
-  "collected_at": "2026-10-02 07:20:04",
+  "collected_at": "2026-10-03 06:51:34",
   "directors": [
     {
       "name": "Mr. Nareshkumar Ramjibhai Patel",
@@ -12,7 +12,7 @@
     },
     {
       "name": "Mr. Chetanbhai Chhaganbhai Vaghasia",
-      "role": "Whole Time Director",
+      "role": "Co-Founder & Whole Time Director",
       "age": 51,
       "year_born": 1974,
       "total_pay": 64170000
@@ -26,9 +26,9 @@
     },
     {
       "name": "Mr. Ram Mohan Rao Lokhande",
-      "role": "Whole Time Director",
-      "age": "N/A",
-      "year_born": "N/A",
+      "role": "Chief Risk Officer & Whole Time Director",
+      "age": 47,
+      "year_born": 1978,
       "total_pay": 1931000
     },
     {
@@ -39,7 +39,7 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Dr. Ajit  Choubey",
+      "name": "Dr. Ajit Kumar Choubey",
       "role": "President of Technical and Head Research & Development",
       "age": 69,
       "year_born": 1956,
@@ -67,10 +67,10 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Nainesh  Desai",
-      "role": "AGM Purchase and Functional Head of Purchase & Procurement",
-      "age": "N/A",
-      "year_born": "N/A",
+      "name": "Mr. Abhishek Haribhai Patel",
+      "role": "President of Strategy and Functional Head of Strategy & Growth",
+      "age": 41,
+      "year_born": 1984,
       "total_pay": "N/A"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "ticker": "EUROBOND",
   "company": "Euro Panel Products Limited",
-  "collected_at": "2026-10-02 07:29:18",
+  "collected_at": "2026-10-03 07:02:07",
   "directors": [
     {
       "name": "Mr. Rajesh Nanalal Shah",
@@ -25,18 +25,18 @@
       "total_pay": 560000
     },
     {
-      "name": "Mr. Rahul  Gada",
-      "role": "Chief Operating Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
       "name": "Ms. Krishna Rajesh Shah",
       "role": "Executive Director",
       "age": 54,
       "year_born": 1971,
       "total_pay": 1993000
+    },
+    {
+      "name": "Mr. Rahul  Gada",
+      "role": "Chief Operating Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

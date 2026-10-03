@@ -1,10 +1,10 @@
 {
   "ticker": "TREL",
   "company": "Transindia Real Estate Limited",
-  "collected_at": "2026-10-02 07:52:07",
+  "collected_at": "2026-10-03 07:27:57",
   "directors": [
     {
-      "name": "Mr. Ram  Walase",
+      "name": "Mr. Ram Narayan Walase",
       "role": "CEO & Whole Time Director",
       "age": 50,
       "year_born": 1975,
@@ -30,6 +30,13 @@
       "age": 67,
       "year_born": 1958,
       "total_pay": 35542000
+    },
+    {
+      "name": "Mr. Sourav  Dasgupta",
+      "role": "Chief Information Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Mahesh Hiriyanna Shetty",

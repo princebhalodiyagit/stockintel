@@ -1,7 +1,7 @@
 {
   "ticker": "FILATEX",
   "company": "Filatex India Limited",
-  "collected_at": "2026-10-02 07:29:39",
+  "collected_at": "2026-10-03 07:02:30",
   "directors": [
     {
       "name": "Mr. Madhu Sudhan Bhageria B.Com.",
@@ -27,8 +27,8 @@
     {
       "name": "Mr. Nitin  Agarwal",
       "role": "Chief Financial Officer",
-      "age": "N/A",
-      "year_born": "N/A",
+      "age": 52,
+      "year_born": 1973,
       "total_pay": "N/A"
     },
     {
@@ -41,8 +41,8 @@
     {
       "name": "Mr. Sudhir Gopichand Bhimrajka",
       "role": "Chief General Manager of Accounts",
-      "age": 61,
-      "year_born": 1964,
+      "age": 59,
+      "year_born": 1966,
       "total_pay": "N/A"
     },
     {
@@ -69,8 +69,8 @@
     {
       "name": "Mr. Sriram Balsubrananiam Iyer",
       "role": "Chief General Manager of (Raw Material)",
-      "age": 43,
-      "year_born": 1982,
+      "age": 41,
+      "year_born": 1984,
       "total_pay": "N/A"
     }
   ]

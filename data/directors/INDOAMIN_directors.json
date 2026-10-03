@@ -1,8 +1,15 @@
 {
   "ticker": "INDOAMIN",
   "company": "Indo Amines Limited",
-  "collected_at": "2026-10-02 07:34:02",
+  "collected_at": "2026-10-03 07:07:30",
   "directors": [
+    {
+      "name": "Mr. Vijay Bhalchandra Palkar B.Sc., B.Tech.",
+      "role": "MD, CEO & Director",
+      "age": 72,
+      "year_born": 1953,
+      "total_pay": 20075000
+    },
     {
       "name": "Ms. Suniti Sagar Thombre BMS",
       "role": "Chief Financial Officer",
@@ -46,6 +53,13 @@
       "total_pay": 3020000
     },
     {
+      "name": "Mr. Saji  Jose B.Sc.",
+      "role": "Whole-Time Director",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": 2976000
+    },
+    {
       "name": "Dr. Atul  Sonawane",
       "role": "Vice President of Technical",
       "age": "N/A",
@@ -55,20 +69,6 @@
     {
       "name": "Mr. Sudhakar  Patil",
       "role": "GM of Administration & Exe. To MD",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Ajay  Phirke",
-      "role": "Chief Marketing Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Rohit  Rane",
-      "role": "Manager of HR",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

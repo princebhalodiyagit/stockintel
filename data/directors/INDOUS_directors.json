@@ -1,8 +1,15 @@
 {
   "ticker": "INDOUS",
   "company": "Indo Us Biotech Limited",
-  "collected_at": "2026-10-02 07:34:10",
+  "collected_at": "2026-10-03 07:07:39",
   "directors": [
+    {
+      "name": "Mr. Jagdishkumar Devjibhai Ajudia",
+      "role": "Chairman, CEO & MD",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": 1318941
+    },
     {
       "name": "Ms. Rinku Dipenbhai Jethva",
       "role": "Chief Finance Officer",
@@ -16,6 +23,13 @@
       "age": 30,
       "year_born": 1995,
       "total_pay": 547356
+    },
+    {
+      "name": "Ms. Priyanka Samarth Patel",
+      "role": "Executive & Non-Independent Director",
+      "age": 26,
+      "year_born": 1999,
+      "total_pay": 603240
     },
     {
       "name": "Ms. Maltiben Jagdishkumar Ajudia",

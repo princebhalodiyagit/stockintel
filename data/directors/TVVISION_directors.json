@@ -1,7 +1,7 @@
 {
   "ticker": "TVVISION",
   "company": "TV Vision Limited",
-  "collected_at": "2026-10-02 07:52:25",
+  "collected_at": "2026-10-03 07:28:18",
   "directors": [
     {
       "name": "Mr. Ravi Gautam Adhikari",
@@ -15,6 +15,27 @@
       "role": "Vice President of Operations & Commercial",
       "age": 56,
       "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Hemant Vishwanath Patil",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Aashi  Neema",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manish  Kumar",
+      "role": "Head of Programming",
+      "age": 37,
+      "year_born": 1988,
       "total_pay": "N/A"
     }
   ]

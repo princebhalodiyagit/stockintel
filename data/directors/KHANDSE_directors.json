@@ -1,7 +1,7 @@
 {
   "ticker": "KHANDSE",
   "company": "Khandwala Securities Limited",
-  "collected_at": "2026-10-02 07:36:32",
+  "collected_at": "2026-10-03 07:10:23",
   "directors": [
     {
       "name": "Mr. Paresh Jayantilal Khandwala",
@@ -11,11 +11,25 @@
       "total_pay": 3125000
     },
     {
+      "name": "Mr. Pranav Paresh Khandwala",
+      "role": "CFO & Executive Director",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": 1800000
+    },
+    {
       "name": "Mr. Abhishek Narendra Joshi",
       "role": "Company Secretary & Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 536250
+    },
+    {
+      "name": "Mr. Amol  Wahikar",
+      "role": "Senior Dealer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

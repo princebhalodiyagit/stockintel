@@ -1,8 +1,15 @@
 {
   "ticker": "KLBRENG-B",
   "company": "Kilburn Engineering Limited",
-  "collected_at": "2026-10-02 07:36:47",
+  "collected_at": "2026-10-03 07:10:41",
   "directors": [
+    {
+      "name": "Mr. Ranjit Pamo Lala",
+      "role": "MD & Director",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": 15480000
+    },
     {
       "name": "Mr. Anil Somshekar Karnad",
       "role": "Whole Time Director of Operations",

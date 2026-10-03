@@ -1,7 +1,7 @@
 {
   "ticker": "KPIGREEN",
   "company": "KPI Green Energy Limited",
-  "collected_at": "2026-10-02 07:37:04",
+  "collected_at": "2026-10-03 07:11:01",
   "directors": [
     {
       "name": "Dr. Farukbhai Gulambhai Patel",
@@ -9,6 +9,13 @@
       "age": 53,
       "year_born": 1972,
       "total_pay": 30000000
+    },
+    {
+      "name": "Mr. Mohmed Sohil Yusufbhai Dabhoya",
+      "role": "Whole Time Director",
+      "age": 42,
+      "year_born": 1983,
+      "total_pay": 9969000
     },
     {
       "name": "Dr. Alok  Das",
@@ -43,6 +50,13 @@
       "role": "Project Head",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajesh  Shrivastava",
+      "role": "Whole Time Director",
+      "age": 58,
+      "year_born": 1967,
       "total_pay": "N/A"
     }
   ]

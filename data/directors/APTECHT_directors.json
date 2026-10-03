@@ -1,8 +1,22 @@
 {
   "ticker": "APTECHT",
   "company": "Aptech Limited",
-  "collected_at": "2026-10-02 07:21:46",
+  "collected_at": "2026-10-03 06:53:32",
   "directors": [
+    {
+      "name": "Mr. Neeraj  Malik",
+      "role": "Chief Business Officer of EBG & Whole Time-Director",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sandip Govind Weling",
+      "role": "Chief Business Officer of Global Retail Business & Whole-Time Director",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
     {
       "name": "Mr. Pawan  Nawal",
       "role": "Group Chief Financial Officer",
@@ -18,17 +32,10 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Neeraj  Malik",
-      "role": "Chief Business Officer of EBG & Whole Time-Director",
-      "age": 46,
-      "year_born": 1979,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Sandip  Weling",
-      "role": "Chief Business Officer of Global Retail Business & Whole-Time Director",
-      "age": 55,
-      "year_born": 1970,
+      "name": "Mr. Parag  Dhakan",
+      "role": "Executive VP & Head of Technology",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
@@ -41,13 +48,6 @@
     {
       "name": "Mr. Shourya K. Chakravarty",
       "role": "Chief Human Resources Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Parag  Dhakan",
-      "role": "Head of Information Technology",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

@@ -1,6 +1,77 @@
 {
   "ticker": "LANDMARK",
   "company": "Landmark Cars Limited",
-  "collected_at": "2026-10-02 07:37:34",
-  "directors": []
+  "collected_at": "2026-10-03 07:11:35",
+  "directors": [
+    {
+      "name": "Mr. Sanjay Karsandas Thakker",
+      "role": "Promoter & Executive Chairman",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": 18960000
+    },
+    {
+      "name": "Mr. Paras  Somani",
+      "role": "Executive Whole-Time Director",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": 13990000
+    },
+    {
+      "name": "Mr. Surendra Kumar Agarwal",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Amol Arvind Raje",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Aryaman Sanjay Thakker",
+      "role": "Executive Director",
+      "age": 33,
+      "year_born": 1992,
+      "total_pay": 9860000
+    },
+    {
+      "name": "Ms. Garima  Misra MBA",
+      "role": "MD of AMPL (Volkswagen bus.), Jeep and Group Fin., Insu. & CIT. Member of Founding team of Landmark",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sandesh  Rane",
+      "role": "Chief Digital Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Manjeet  Sawant",
+      "role": "Chief Executive Officer - Volkswagen",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Neerav  Shah",
+      "role": "Associate Director & CEO - Jeep & BYD",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kaushik  Panchal",
+      "role": "Chief Executive Officer of After Sales - Mercedes-Benz",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

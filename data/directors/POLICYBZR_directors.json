@@ -1,7 +1,7 @@
 {
   "ticker": "POLICYBZR",
   "company": "PB Fintech Limited",
-  "collected_at": "2026-10-02 07:43:46",
+  "collected_at": "2026-10-03 07:18:36",
   "directors": [
     {
       "name": "Mr. Yashish  Dahiya",
@@ -9,6 +9,13 @@
       "age": 53,
       "year_born": 1972,
       "total_pay": 2359047119
+    },
+    {
+      "name": "Mr. Sarbvir  Singh",
+      "role": "Joint Group CEO & Executive Director",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": 1065053102
     },
     {
       "name": "Mr. Alok  Bansal",
@@ -22,13 +29,6 @@
       "role": "Group Chief Financial Officer",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Anil  Kumar",
-      "role": "Senior Vice President of Technology",
-      "age": 42,
-      "year_born": 1983,
       "total_pay": "N/A"
     },
     {
@@ -46,6 +46,20 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Chandra Mohan Bhandari",
+      "role": "Senior Vice President of Technology",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Divya  Agarwal",
+      "role": "Senior Vice President of Consumer Insights",
+      "age": 41,
+      "year_born": 1984,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Naveen  Kukreja",
       "role": "Group President",
       "age": "N/A",
@@ -57,20 +71,6 @@
       "role": "Chief Technology Officer",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Mohit  Khobragade",
-      "role": "Head of Investor Relations",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ms. Deepti  Rustagi",
-      "role": "Group Head of Legal & Compliance",
-      "age": 46,
-      "year_born": 1979,
       "total_pay": "N/A"
     }
   ]

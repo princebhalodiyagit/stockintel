@@ -1,7 +1,7 @@
 {
   "ticker": "BONLON",
   "company": "Bonlon Industries Limited",
-  "collected_at": "2026-10-02 07:24:48",
+  "collected_at": "2026-10-03 06:56:58",
   "directors": [
     {
       "name": "Mr. Arun Kumar Shekhar Chand Jain",
@@ -43,6 +43,34 @@
       "role": "Manager of Admin",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Deepak  Joshi",
+      "role": "Accountant",
+      "age": 40,
+      "year_born": 1985,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ganesh  Mishra",
+      "role": "Production Superwiser",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Sarika  Pandit",
+      "role": "Import Manager",
+      "age": 38,
+      "year_born": 1987,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Rajen  Saxena",
+      "role": "Production Manager",
+      "age": 63,
+      "year_born": 1962,
       "total_pay": "N/A"
     }
   ]

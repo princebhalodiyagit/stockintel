@@ -1,7 +1,7 @@
 {
   "ticker": "ASIANHOTNR",
   "company": "Asian Hotels (North) Limited",
-  "collected_at": "2026-10-02 07:22:22",
+  "collected_at": "2026-10-03 06:54:12",
   "directors": [
     {
       "name": "Dr. Sharad Raghuvir Sharma",
@@ -9,6 +9,20 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 1259000
+    },
+    {
+      "name": "Dr. Arun Gopal Agarwal Ph.D.",
+      "role": "CEO & Whole Time Director",
+      "age": 79,
+      "year_born": 1946,
+      "total_pay": 264000
+    },
+    {
+      "name": "Mr. Krishna Kumar Acharya",
+      "role": "Whole Time Director",
+      "age": 68,
+      "year_born": 1957,
+      "total_pay": 576000
     },
     {
       "name": "Mr. Narayan Prasad Jalan",
@@ -27,6 +41,13 @@
     {
       "name": "Ms. Gauri  Dhawan",
       "role": "Head of Marketing, PR & Branding",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Daniel Efren Dolatre",
+      "role": "General Manager of Hyatt Regency Delhi",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

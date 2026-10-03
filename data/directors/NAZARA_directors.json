@@ -1,8 +1,15 @@
 {
   "ticker": "NAZARA",
   "company": "Nazara Technologies Limited",
-  "collected_at": "2026-10-02 07:40:53",
+  "collected_at": "2026-10-03 07:15:20",
   "directors": [
+    {
+      "name": "Mr. Vikash Pratapchand Mittersain",
+      "role": "Founding Chairman",
+      "age": 71,
+      "year_born": 1954,
+      "total_pay": 15146742
+    },
     {
       "name": "Mr. Nitish Vikash Mittersain",
       "role": "Founder, MD, CEO & Executive Director",
@@ -16,6 +23,20 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Arun Shiva Bhandari",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rohit  Sharma",
+      "role": "Executive Director",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": 11280064
     },
     {
       "name": "Ms. Anupriya Sinha Das",
@@ -32,11 +53,11 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Rohit  Sharma",
-      "role": "Executive Director",
-      "age": 54,
-      "year_born": 1971,
-      "total_pay": 11280064
+      "name": "Mr. James Savio Saldanha",
+      "role": "Chief Executive Officer of Nazara Digital",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

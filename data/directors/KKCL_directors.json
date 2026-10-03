@@ -1,7 +1,7 @@
 {
   "ticker": "KKCL",
   "company": "Kewal Kiran Clothing Limited",
-  "collected_at": "2026-10-02 07:36:46",
+  "collected_at": "2026-10-03 07:10:40",
   "directors": [
     {
       "name": "Mr. Kewalchand Pukhraj Jain",
@@ -16,6 +16,13 @@
       "age": 60,
       "year_born": 1965,
       "total_pay": 12500000
+    },
+    {
+      "name": "Mr. Bharat Assudomal Adnani",
+      "role": "CFO & Chief Investor Relations Officer",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Vikas Pukhraj Jain",
@@ -39,6 +46,13 @@
       "total_pay": 12500000
     },
     {
+      "name": "Mr. Lakhbir  Singh",
+      "role": "President of Killer & Easies",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Nimesh N. Anandpara",
       "role": "Deputy Chief Financial Officer",
       "age": 43,
@@ -57,20 +71,6 @@
       "role": "Head Operations of Easies",
       "age": 52,
       "year_born": 1973,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Pankaj K. Jain",
-      "role": "President of Retail Division",
-      "age": 40,
-      "year_born": 1985,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Hitendra H. Jain",
-      "role": "President of Addictions",
-      "age": "N/A",
-      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

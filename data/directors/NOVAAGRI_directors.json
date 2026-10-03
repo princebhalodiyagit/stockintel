@@ -1,7 +1,7 @@
 {
   "ticker": "NOVAAGRI",
   "company": "Nova Agritech Limited",
-  "collected_at": "2026-10-02 07:41:47",
+  "collected_at": "2026-10-03 07:16:20",
   "directors": [
     {
       "name": "Mr. Kiran Kumar Atukuri",
@@ -9,6 +9,13 @@
       "age": 51,
       "year_born": 1974,
       "total_pay": 8999000
+    },
+    {
+      "name": "Mr. Lakshmi Satish Tata",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     },
     {
       "name": "Ms. Malathi  Siripurapu",
@@ -23,13 +30,6 @@
       "age": 38,
       "year_born": 1987,
       "total_pay": 1748000
-    },
-    {
-      "name": "Mr. Lakshmi Satish Tata",
-      "role": "Chief Financial Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
     },
     {
       "name": "Dr. Dhana Raj Boina",

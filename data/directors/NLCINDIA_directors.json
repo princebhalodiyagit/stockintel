@@ -1,6 +1,77 @@
 {
   "ticker": "NLCINDIA",
   "company": "NLC India Limited",
-  "collected_at": "2026-10-02 07:41:41",
-  "directors": []
+  "collected_at": "2026-10-03 07:16:13",
+  "directors": [
+    {
+      "name": "Dr. Prasanna Kumar Acharya",
+      "role": "MD & Chairman",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": 6679283
+    },
+    {
+      "name": "Mr. Samir  Swarup",
+      "role": "Director of Human Resources & Power and Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 11762153
+    },
+    {
+      "name": "Dr. Suresh Chandra Suman",
+      "role": "Director of Mines & Director",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": 9272413
+    },
+    {
+      "name": "Mr. Rajesh Pratap Singh Sisodia",
+      "role": "Director of Planning & Projects and Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 2293862
+    },
+    {
+      "name": "Mr. Sushanta Kumar Panda",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. C.  Thiagaraju",
+      "role": "Chief General Manager of HR & CO",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. N.  Raguraman",
+      "role": "Chief General Manager of NNTPP",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. S.  Gurusamynathan",
+      "role": "Chief General Manager of Vigilance",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Y. Joe Stephen Dominic",
+      "role": "Chief General Manager of HR & CO",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. S.  Harikrishnan",
+      "role": "Chief General Manager of Mine-II",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

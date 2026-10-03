@@ -1,13 +1,20 @@
 {
   "ticker": "MVGJL",
   "company": "Manoj Vaibhav Gems N Jewellers Limited",
-  "collected_at": "2026-10-02 07:40:33",
+  "collected_at": "2026-10-03 07:14:57",
   "directors": [
     {
       "name": "Ms. Bharata Mallika Ratna Kumari Grandhi",
       "role": "Chairman & MD",
       "age": 56,
       "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Gontla  Rakhal",
+      "role": "Executive Director & Joint Managing Director",
+      "age": 31,
+      "year_born": 1994,
       "total_pay": "N/A"
     },
     {
@@ -25,24 +32,10 @@
       "total_pay": 1700000
     },
     {
-      "name": "Mr. Gontla  Rakhal",
-      "role": "Executive Director & Joint Managing Director",
-      "age": 30,
-      "year_born": 1995,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Ms. Sai Sindhuri Grandhi",
       "role": "Executive Director",
       "age": 34,
       "year_born": 1991,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Pampana Ramesh Chandra Roy",
-      "role": "General Manager of Business Operations",
-      "age": 51,
-      "year_born": 1974,
       "total_pay": "N/A"
     },
     {
@@ -53,15 +46,8 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Sandeep Krishna Yalamarthy",
-      "role": "General Manager of Business Administration and IT",
-      "age": 41,
-      "year_born": 1984,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Daroga Sreenivas Murthy",
-      "role": "Senior Manager of HR & Admin",
+      "role": "Head of HR & Admin",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
@@ -71,6 +57,20 @@
       "role": "Category Head",
       "age": 46,
       "year_born": 1979,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Raghunath  Jonnavithula",
+      "role": "Assistant Vice President",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vizia Gopal Botsa",
+      "role": "General Manager Supply Chain Management",
+      "age": 47,
+      "year_born": 1978,
       "total_pay": "N/A"
     }
   ]

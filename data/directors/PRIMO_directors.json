@@ -1,7 +1,7 @@
 {
   "ticker": "PRIMO",
   "company": "Primo Chemicals Limited",
-  "collected_at": "2026-10-02 07:44:13",
+  "collected_at": "2026-10-03 07:19:07",
   "directors": [
     {
       "name": "Mr. Naveen  Chopra",
@@ -11,8 +11,36 @@
       "total_pay": 62805000
     },
     {
+      "name": "Mr. Anoop Kumar Kabra",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Sugandha  Kukreja C.S.",
+      "role": "Company Secretary, Compliance Officer & Chief HR Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jatin  Dahiya",
+      "role": "Executive Director",
+      "age": 31,
+      "year_born": 1994,
+      "total_pay": 33158000
+    },
+    {
       "name": "Mr. Devinder  Singh Saini",
       "role": "General Manager of Sales",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sukhdev  Singh",
+      "role": "Chief IT Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

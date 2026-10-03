@@ -1,6 +1,49 @@
 {
   "ticker": "LANDSMILL",
   "company": "Landsmill Green Limited",
-  "collected_at": "2026-10-02 07:37:35",
-  "directors": []
+  "collected_at": "2026-10-03 07:11:36",
+  "directors": [
+    {
+      "name": "Mr. Ankit  Mehra",
+      "role": "Managing Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Lakhmendra Chamanlal Khurana",
+      "role": "Founder & Executive Director",
+      "age": 69,
+      "year_born": 1956,
+      "total_pay": 3750000
+    },
+    {
+      "name": "Mr. Jasman Singh Chadha",
+      "role": "Whole Time Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pramod Yeshwant Kokate",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kunjan  Panchal",
+      "role": "Technology Manager",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mrinal  Khurana",
+      "role": "Assistant General Manager of Business Development",
+      "age": 40,
+      "year_born": 1985,
+      "total_pay": "N/A"
+    }
+  ]
 }

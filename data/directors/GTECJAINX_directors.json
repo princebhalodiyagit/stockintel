@@ -1,13 +1,41 @@
 {
   "ticker": "GTECJAINX",
   "company": "G-TEC JAINX EDUCATION LIMITED",
-  "collected_at": "2026-10-02 07:31:47",
+  "collected_at": "2026-10-03 07:04:57",
   "directors": [
     {
-      "name": "Ashish  Banerjee",
-      "role": "Head of Franchise Development Division",
-      "age": 46,
-      "year_born": 1979,
+      "name": "Mr. Sudhakar Pandurang Sonawane",
+      "role": "Founder, MD & Director",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": 1500000
+    },
+    {
+      "name": "Mr. Mehroof Ifthikar Manalody",
+      "role": "MD & Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vinod Namdeo Narsale",
+      "role": "Chief Financial Officer",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Priyanka Dharmesh Pandey",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 34,
+      "year_born": 1991,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Padmanabhan Vidyadharan Vinod",
+      "role": "Chief Operating Officer",
+      "age": 49,
+      "year_born": 1976,
       "total_pay": "N/A"
     }
   ]

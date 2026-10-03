@@ -1,7 +1,7 @@
 {
   "ticker": "DALMIASUG",
   "company": "Dalmia Bharat Sugar and Industries Limited",
-  "collected_at": "2026-10-02 07:27:01",
+  "collected_at": "2026-10-03 06:59:29",
   "directors": [
     {
       "name": "Mr. Pankaj  Rastogi",
@@ -9,6 +9,69 @@
       "age": 61,
       "year_born": 1964,
       "total_pay": 31100000
+    },
+    {
+      "name": "Mr. Sandeep  Garg",
+      "role": "Chief Financial Officer",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Rachna  Goria",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Gautam  Dalmia M.S",
+      "role": "MD & Executive Director",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": 155300000
+    },
+    {
+      "name": "Mr. Naveen Kumar Gupta",
+      "role": "Projects Head",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Thyagarajan  Venkatesan",
+      "role": "Non-Executive Non-Independent Director",
+      "age": 73,
+      "year_born": 1952,
+      "total_pay": 400000
+    },
+    {
+      "name": "Mr. Bharat Bhushan Mehta",
+      "role": "Non- Executive & Non-Independent Director",
+      "age": 72,
+      "year_born": 1953,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajinder  Sharma",
+      "role": "Group General Counsel",
+      "age": 67,
+      "year_born": 1958,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kapil  Nema",
+      "role": "Sales Head",
+      "age": 43,
+      "year_born": 1982,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Abhishek  Baderia",
+      "role": "Head of Human Resource",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

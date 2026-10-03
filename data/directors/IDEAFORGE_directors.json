@@ -1,7 +1,7 @@
 {
   "ticker": "IDEAFORGE",
   "company": "Ideaforge Technology Limited",
-  "collected_at": "2026-10-02 07:33:25",
+  "collected_at": "2026-10-03 07:06:48",
   "directors": [
     {
       "name": "Mr. Ankit  Mehta",
@@ -55,6 +55,20 @@
     {
       "name": "Mr. Sandip  Bapat",
       "role": "Senior Director",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Gireesh  Pudipeddi",
+      "role": "Head of Strategy & Design",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ezhilan  Nanmaran",
+      "role": "Head of Product & Strategic Alliances",
       "age": 46,
       "year_born": 1979,
       "total_pay": "N/A"

@@ -1,7 +1,7 @@
 {
   "ticker": "JYOTICNC",
   "company": "Jyoti CNC Automation Limited",
-  "collected_at": "2026-10-02 07:35:59",
+  "collected_at": "2026-10-03 07:09:46",
   "directors": [
     {
       "name": "Mr. Parakramsinh Ghanshyamsinh Jadeja",
@@ -39,6 +39,20 @@
       "total_pay": 7200000
     },
     {
+      "name": "Mr. Alay M. Dave",
+      "role": "Chief Operating Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Shivangi Bipinbhai Lakhani",
+      "role": "Executive Head of Corporate Communication",
+      "age": 40,
+      "year_born": 1985,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Hiren Mahipatsinh Jadeja",
       "role": "President of Marketing",
       "age": 51,
@@ -57,20 +71,6 @@
       "role": "President of Marketing",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Vijay Pratap Singh",
-      "role": "Chief Strategy & Transformation Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Hitesh Chhaganbhai Patel",
-      "role": "General Manager of Assembly",
-      "age": 51,
-      "year_born": 1974,
       "total_pay": "N/A"
     }
   ]

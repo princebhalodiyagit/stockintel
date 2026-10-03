@@ -1,14 +1,35 @@
 {
   "ticker": "KRSNAA",
   "company": "Krsnaa Diagnostics Limited",
-  "collected_at": "2026-10-02 07:37:19",
+  "collected_at": "2026-10-03 07:11:18",
   "directors": [
+    {
+      "name": "Mr. Rajendra Khivraj Mutha",
+      "role": "Executive Chairman",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": 26330000
+    },
+    {
+      "name": "Mr. Mitesh Dilipkumar Dave",
+      "role": "Group Chief Executive Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
     {
       "name": "Mr. Sujoy Sudipta Bose",
       "role": "Company Secretary & Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Yash Prithviraj Mutha C.A.",
+      "role": "MD & Director",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": 8980000
     },
     {
       "name": "Mr. Chandra Prakash Singh",

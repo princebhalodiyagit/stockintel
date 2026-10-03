@@ -1,7 +1,7 @@
 {
   "ticker": "TITAGARH",
   "company": "TITAGARH RAIL SYSTEMS LIMITED",
-  "collected_at": "2026-10-02 07:51:46",
+  "collected_at": "2026-10-03 07:27:34",
   "directors": [
     {
       "name": "Mr. Jagdish Prasad Chowdhary B.Com., MIMA",
@@ -23,6 +23,55 @@
       "age": 40,
       "year_born": 1985,
       "total_pay": 8900000
+    },
+    {
+      "name": "Mr. Aditya  Purohit",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 2500000
+    },
+    {
+      "name": "Mr. Anil Kumar Agarwal B.Com. ACA, CWA",
+      "role": "Deputy MD & Director",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": 17700000
+    },
+    {
+      "name": "Mr. Prithish  Chowdhary",
+      "role": "Deputy MD & Whole-Time Director",
+      "age": 24,
+      "year_born": 2001,
+      "total_pay": 12100000
+    },
+    {
+      "name": "Mr. Sunil Kumar Jha",
+      "role": "Chief Technology Officer",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Shrija  Chandak",
+      "role": "Chief Digitalisation Officer & CHRO",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Devendra Kumar Vyas ACA, B. COM.",
+      "role": "Chief Executive Officer of Freight Rail Systems",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Bhavesh  Jethwa",
+      "role": "Head of Operations of Passenger Rail Systems",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

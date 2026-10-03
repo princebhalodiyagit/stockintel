@@ -1,7 +1,7 @@
 {
   "ticker": "ROTO",
   "company": "Roto Pumps Limited",
-  "collected_at": "2026-10-02 07:45:54",
+  "collected_at": "2026-10-03 07:21:00",
   "directors": [
     {
       "name": "Mr. Harish Chandra Gupta B.Sc.",
@@ -20,6 +20,48 @@
     {
       "name": "Mr. Pradeep  Jain",
       "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ashwani Kumar Verma",
+      "role": "Compliance Officer & Company Secretary",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Arvind Veer Gupta MBA",
+      "role": "Deputy MD & Whole-Time Director",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": 14096000
+    },
+    {
+      "name": "Mr. Gulshan  Khurana",
+      "role": "Chief Operating Officer",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. S.  Clark",
+      "role": "Sales Manager",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Richard  Stirch",
+      "role": "General Manager of UK Branch",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. John Edwin Wilkins",
+      "role": "General Manager of Australia Branch",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
