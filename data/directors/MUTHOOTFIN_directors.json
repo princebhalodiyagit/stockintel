@@ -1,7 +1,7 @@
 {
   "ticker": "MUTHOOTFIN",
   "company": "Muthoot Finance Limited",
-  "collected_at": "2026-10-03 07:14:55",
+  "collected_at": "2026-10-04 07:32:21",
   "directors": [
     {
       "name": "Mr. George Jacob Muthoot",
@@ -39,20 +39,6 @@
       "total_pay": 78040000
     },
     {
-      "name": "Mr. George Muthoot Jacob",
-      "role": "Deputy MD & Whole Time Director",
-      "age": 42,
-      "year_born": 1983,
-      "total_pay": 78040000
-    },
-    {
-      "name": "Mr. George Muthoot George",
-      "role": "Deputy MD & Whole Time Director",
-      "age": 50,
-      "year_born": 1975,
-      "total_pay": 78040000
-    },
-    {
       "name": "Mr. Oommen K. Mammen",
       "role": "Chief Financial Officer",
       "age": 49,
@@ -71,6 +57,20 @@
       "role": "General Manager of Accounts & Taxation",
       "age": 63,
       "year_born": 1962,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. T M Saithumuhammed",
+      "role": "Chief Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rahul  Raut",
+      "role": "Assistant Vice President of Sales",
+      "age": 43,
+      "year_born": 1982,
       "total_pay": "N/A"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "ticker": "UNIONBANK",
   "company": "Union Bank of India",
-  "collected_at": "2026-10-03 07:28:40",
+  "collected_at": "2026-10-04 07:44:33",
   "directors": [
     {
       "name": "Mr. Asheesh  Pandey",
@@ -32,13 +32,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Dhirendra  Jain C.A.",
-      "role": "Chief General Manager & CFO",
-      "age": 50,
-      "year_born": 1975,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Pravin  Sharma",
       "role": "Chief GM & Head of Operations",
       "age": "N/A",
@@ -53,24 +46,31 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Ms. Ranjita  Suresh",
-      "role": "Assistant General Manager of Investor Relations",
+      "name": "Mr. Chander Mohan Minocha",
+      "role": "Chief GM & Head of Human Resources",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Prafulla Kumar Samal C.A.",
-      "role": "Chief Compliance Officer & Chief General Manager",
+      "name": "Mr. Ajay Kumar Singh",
+      "role": "Chief Vigilance Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Girija Bhusan Mishra",
-      "role": "GM and Head of SSD & Corporate Communication",
+      "name": "Mr. K. Pramod Kumar Reddy",
+      "role": "Chief General Manager",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Santanu Kumar Dash",
+      "role": "General Manager & Board Secretary",
+      "age": 62,
+      "year_born": 1963,
       "total_pay": "N/A"
     }
   ]
