@@ -1,21 +1,21 @@
 {
   "ticker": "CINEVISTA",
-  "collected_at": "2026-10-04 07:17:55",
+  "collected_at": "2026-10-05 07:33:49",
   "company_info": {
     "name": "Cinevista Limited",
     "sector": "Communication Services",
     "industry": "Entertainment",
-    "market_cap": 786879680,
-    "current_price": 13.7,
-    "pe_ratio": 12.924529,
-    "pb_ratio": 1.3897343,
+    "market_cap": 803536256,
+    "current_price": 13.99,
+    "pe_ratio": "Infinity",
+    "pb_ratio": 1.419152,
     "roe": "N/A",
     "debt_to_equity": 27.129,
     "revenue": 268332000,
     "net_income": 61069000,
-    "eps": 1.06,
+    "eps": 0.0,
     "52_week_high": 20.9,
     "52_week_low": 12.16,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

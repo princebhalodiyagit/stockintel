@@ -1,14 +1,14 @@
 {
   "ticker": "KNAGRI",
-  "collected_at": "2026-10-04 07:28:42",
+  "collected_at": "2026-10-05 07:47:01",
   "company_info": {
     "name": "KN Agri Resources Limited",
     "sector": "Consumer Defensive",
     "industry": "Farm Products",
-    "market_cap": 4999781888,
-    "current_price": 200.0,
-    "pe_ratio": 15.785319,
-    "pb_ratio": 1.2995536,
+    "market_cap": 5073028608,
+    "current_price": 202.93,
+    "pe_ratio": 16.016575,
+    "pb_ratio": 1.318592,
     "roe": "N/A",
     "debt_to_equity": 8.87,
     "revenue": 19447699456,
@@ -16,6 +16,6 @@
     "eps": 12.67,
     "52_week_high": 244.0,
     "52_week_low": 148.3,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

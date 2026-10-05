@@ -1,14 +1,14 @@
 {
   "ticker": "COUNCODOS",
-  "collected_at": "2026-10-04 07:18:23",
+  "collected_at": "2026-10-05 07:34:23",
   "company_info": {
     "name": "Country Condo's Limited",
     "sector": "Real Estate",
     "industry": "Real Estate - Development",
-    "market_cap": 499726592,
-    "current_price": 6.44,
-    "pe_ratio": 80.5,
-    "pb_ratio": 2.2454672,
+    "market_cap": 500502560,
+    "current_price": 6.45,
+    "pe_ratio": 80.625,
+    "pb_ratio": 2.2489538,
     "roe": "N/A",
     "debt_to_equity": "N/A",
     "revenue": 180443008,
@@ -16,6 +16,6 @@
     "eps": 0.08,
     "52_week_high": 7.85,
     "52_week_low": 3.71,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

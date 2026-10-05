@@ -1,14 +1,14 @@
 {
   "ticker": "DBSTOCKBRO",
-  "collected_at": "2026-10-04 07:19:01",
+  "collected_at": "2026-10-05 07:35:08",
   "company_info": {
     "name": "DB (International) Stock Brokers Limited",
     "sector": "Financial Services",
     "industry": "Capital Markets",
-    "market_cap": 1102499968,
-    "current_price": 31.5,
-    "pe_ratio": 37.058823,
-    "pb_ratio": 1.4564453,
+    "market_cap": 1104950016,
+    "current_price": 31.57,
+    "pe_ratio": 37.141174,
+    "pb_ratio": 1.4383343,
     "roe": "N/A",
     "debt_to_equity": 3.008,
     "revenue": 298244992,
@@ -16,6 +16,6 @@
     "eps": 0.85,
     "52_week_high": 48.5,
     "52_week_low": 23.15,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

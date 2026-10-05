@@ -1,14 +1,14 @@
 {
   "ticker": "BODALCHEM",
-  "collected_at": "2026-10-04 07:16:36",
+  "collected_at": "2026-10-05 07:32:13",
   "company_info": {
     "name": "Bodal Chemicals Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals",
-    "market_cap": 23929372672,
-    "current_price": 190.0,
-    "pe_ratio": 34.862385,
-    "pb_ratio": 2.0636697,
+    "market_cap": 22703937536,
+    "current_price": 180.27,
+    "pe_ratio": 33.077065,
+    "pb_ratio": 1.957988,
     "roe": "N/A",
     "debt_to_equity": 70.251,
     "revenue": 22670800896,
@@ -16,6 +16,6 @@
     "eps": 5.45,
     "52_week_high": 207.7,
     "52_week_low": 42.81,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

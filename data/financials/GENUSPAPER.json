@@ -1,14 +1,14 @@
 {
   "ticker": "GENUSPAPER",
-  "collected_at": "2026-10-04 07:22:15",
+  "collected_at": "2026-10-05 07:39:10",
   "company_info": {
     "name": "Genus Paper & Boards Limited",
     "sector": "Basic Materials",
     "industry": "Paper & Paper Products",
-    "market_cap": 2712678656,
-    "current_price": 10.55,
-    "pe_ratio": 19.181818,
-    "pb_ratio": 0.54328233,
+    "market_cap": 2658682112,
+    "current_price": 10.34,
+    "pe_ratio": 18.8,
+    "pb_ratio": 0.5324682,
     "roe": "N/A",
     "debt_to_equity": 87.426,
     "revenue": 9032035328,
@@ -16,6 +16,6 @@
     "eps": 0.55,
     "52_week_high": 17.67,
     "52_week_low": 8.67,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

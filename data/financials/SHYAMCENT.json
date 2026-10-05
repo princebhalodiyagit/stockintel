@@ -1,14 +1,14 @@
 {
   "ticker": "SHYAMCENT",
-  "collected_at": "2026-10-04 07:40:00",
+  "collected_at": "2026-10-05 08:00:52",
   "company_info": {
     "name": "Shyam Century Ferrous Limited",
     "sector": "Basic Materials",
     "industry": "Steel",
-    "market_cap": 1060864960,
-    "current_price": 5.0,
+    "market_cap": 1050256256,
+    "current_price": 4.95,
     "pe_ratio": "N/A",
-    "pb_ratio": 0.6247657,
+    "pb_ratio": 0.618518,
     "roe": "N/A",
     "debt_to_equity": 0.555,
     "revenue": 85363000,
@@ -16,6 +16,6 @@
     "eps": -0.28,
     "52_week_high": 7.18,
     "52_week_low": 3.68,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

@@ -1,14 +1,14 @@
 {
   "ticker": "MMWL",
-  "collected_at": "2026-10-04 07:31:42",
+  "collected_at": "2026-10-05 07:50:42",
   "company_info": {
     "name": "Media Matrix Worldwide Limited",
     "sector": "Communication Services",
     "industry": "Entertainment",
-    "market_cap": 17625470976,
-    "current_price": 15.56,
-    "pe_ratio": 259.33334,
-    "pb_ratio": 26.328257,
+    "market_cap": 18497681408,
+    "current_price": 16.33,
+    "pe_ratio": 272.16666,
+    "pb_ratio": 27.631132,
     "roe": "N/A",
     "debt_to_equity": 115.612,
     "revenue": 14517539840,
@@ -16,6 +16,6 @@
     "eps": 0.06,
     "52_week_high": 16.57,
     "52_week_low": 9.02,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

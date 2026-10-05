@@ -1,14 +1,14 @@
 {
   "ticker": "CALSOFT",
-  "collected_at": "2026-10-04 07:16:59",
+  "collected_at": "2026-10-05 07:32:41",
   "company_info": {
     "name": "California Software Company Limited",
     "sector": "Technology",
     "industry": "Software - Application",
-    "market_cap": 2256737536,
-    "current_price": 36.5,
-    "pe_ratio": 15.400845,
-    "pb_ratio": 5.4673457,
+    "market_cap": 2138645248,
+    "current_price": 34.59,
+    "pe_ratio": 14.594937,
+    "pb_ratio": 5.1812463,
     "roe": "N/A",
     "debt_to_equity": 3.905,
     "revenue": 247404992,
@@ -16,6 +16,6 @@
     "eps": 2.37,
     "52_week_high": 43.13,
     "52_week_low": 10.9,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

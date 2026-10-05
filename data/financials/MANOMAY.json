@@ -1,14 +1,14 @@
 {
   "ticker": "MANOMAY",
-  "collected_at": "2026-10-04 07:30:40",
+  "collected_at": "2026-10-05 07:49:26",
   "company_info": {
     "name": "Manomay Tex India Limited",
     "sector": "Consumer Cyclical",
     "industry": "Textile Manufacturing",
-    "market_cap": 4280077312,
-    "current_price": 237.14,
-    "pe_ratio": 21.249104,
-    "pb_ratio": 2.5023744,
+    "market_cap": 4286574848,
+    "current_price": 237.5,
+    "pe_ratio": 21.281363,
+    "pb_ratio": 2.5061731,
     "roe": "N/A",
     "debt_to_equity": 203.436,
     "revenue": 7442770944,
@@ -16,6 +16,6 @@
     "eps": 11.16,
     "52_week_high": 259.88,
     "52_week_low": 160.25,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

@@ -1,14 +1,14 @@
 {
   "ticker": "LATENTVIEW",
-  "collected_at": "2026-10-04 07:29:28",
+  "collected_at": "2026-10-05 07:47:58",
   "company_info": {
     "name": "Latent View Analytics Limited",
     "sector": "Industrials",
     "industry": "Consulting Services",
-    "market_cap": 48867500032,
-    "current_price": 235.98,
-    "pe_ratio": 25.02439,
-    "pb_ratio": 2.7820284,
+    "market_cap": 48486469632,
+    "current_price": 234.14,
+    "pe_ratio": 24.829268,
+    "pb_ratio": 2.7603364,
     "roe": "N/A",
     "debt_to_equity": 1.863,
     "revenue": 11143520256,
@@ -16,6 +16,6 @@
     "eps": 9.43,
     "52_week_high": 517.5,
     "52_week_low": 230.0,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

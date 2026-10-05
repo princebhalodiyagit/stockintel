@@ -1,14 +1,14 @@
 {
   "ticker": "NOIDATOLL",
-  "collected_at": "2026-10-04 07:33:32",
+  "collected_at": "2026-10-05 07:53:00",
   "company_info": {
     "name": "Noida Toll Bridge Company Limited",
     "sector": "Industrials",
     "industry": "Infrastructure Operations",
-    "market_cap": 662854208,
-    "current_price": 3.56,
-    "pe_ratio": 2.3267975,
-    "pb_ratio": -5.2122984,
+    "market_cap": 664716160,
+    "current_price": 3.57,
+    "pe_ratio": 2.3333333,
+    "pb_ratio": -5.2269397,
     "roe": "N/A",
     "debt_to_equity": "N/A",
     "revenue": 437344992,
@@ -16,6 +16,6 @@
     "eps": 1.53,
     "52_week_high": 7.43,
     "52_week_low": 2.87,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

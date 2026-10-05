@@ -1,14 +1,14 @@
 {
   "ticker": "VINNY",
-  "collected_at": "2026-10-04 07:45:23",
+  "collected_at": "2026-10-05 08:07:33",
   "company_info": {
     "name": "Vinny Overseas Limited",
     "sector": "Consumer Cyclical",
     "industry": "Textile Manufacturing",
-    "market_cap": 423374432,
-    "current_price": 0.91,
-    "pe_ratio": 45.500004,
-    "pb_ratio": 0.45982823,
+    "market_cap": 418721952,
+    "current_price": 0.9,
+    "pe_ratio": 45.0,
+    "pb_ratio": 0.45477512,
     "roe": "N/A",
     "debt_to_equity": 19.671,
     "revenue": 1327949952,
@@ -16,6 +16,6 @@
     "eps": 0.02,
     "52_week_high": 1.53,
     "52_week_low": 0.88,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

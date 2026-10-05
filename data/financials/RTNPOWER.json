@@ -1,14 +1,14 @@
 {
   "ticker": "RTNPOWER",
-  "collected_at": "2026-10-04 07:38:00",
+  "collected_at": "2026-10-05 07:58:27",
   "company_info": {
     "name": "RattanIndia Power Limited",
     "sector": "Utilities",
     "industry": "Utilities - Independent Power Producers",
-    "market_cap": 36409319424,
-    "current_price": 6.78,
-    "pe_ratio": 32.285717,
-    "pb_ratio": 0.7828195,
+    "market_cap": 36140814336,
+    "current_price": 6.73,
+    "pe_ratio": 32.04762,
+    "pb_ratio": 0.7770465,
     "roe": "N/A",
     "debt_to_equity": 80.012,
     "revenue": 29679499264,
@@ -16,6 +16,6 @@
     "eps": 0.21,
     "52_week_high": 11.94,
     "52_week_low": 6.66,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

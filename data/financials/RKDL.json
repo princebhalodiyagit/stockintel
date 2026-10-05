@@ -1,14 +1,14 @@
 {
   "ticker": "RKDL",
-  "collected_at": "2026-10-04 07:37:31",
+  "collected_at": "2026-10-05 07:57:52",
   "company_info": {
     "name": "Ravi Kumar Distilleries Limited",
     "sector": "Consumer Defensive",
     "industry": "Beverages - Wineries & Distilleries",
-    "market_cap": 414480000,
-    "current_price": 17.27,
-    "pe_ratio": 215.87502,
-    "pb_ratio": 1.0167795,
+    "market_cap": 413279968,
+    "current_price": 17.22,
+    "pe_ratio": 215.25,
+    "pb_ratio": 1.0138357,
     "roe": "N/A",
     "debt_to_equity": 109.187,
     "revenue": 198172992,
@@ -16,6 +16,6 @@
     "eps": 0.08,
     "52_week_high": 27.89,
     "52_week_low": 16.3,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

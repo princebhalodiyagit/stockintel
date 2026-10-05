@@ -1,14 +1,14 @@
 {
   "ticker": "GSLSU",
-  "collected_at": "2026-10-04 07:23:33",
+  "collected_at": "2026-10-05 07:40:45",
   "company_info": {
     "name": "Global Surfaces Limited",
     "sector": "Basic Materials",
     "industry": "Building Materials",
-    "market_cap": 1271454464,
-    "current_price": 30.0,
+    "market_cap": 1249839744,
+    "current_price": 29.49,
     "pe_ratio": "N/A",
-    "pb_ratio": 0.4696379,
+    "pb_ratio": 0.46165404,
     "roe": "N/A",
     "debt_to_equity": 78.906,
     "revenue": 2241540096,
@@ -16,6 +16,6 @@
     "eps": -7.04,
     "52_week_high": 139.67,
     "52_week_low": 23.06,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

@@ -1,14 +1,14 @@
 {
   "ticker": "AIROLAM",
-  "collected_at": "2026-10-04 07:12:36",
+  "collected_at": "2026-10-05 07:27:18",
   "company_info": {
     "name": "Airo Lam Limited",
     "sector": "Consumer Cyclical",
     "industry": "Furnishings, Fixtures & Appliances",
-    "market_cap": 1342679040,
-    "current_price": 89.5,
-    "pe_ratio": 25.571428,
-    "pb_ratio": 1.7087654,
+    "market_cap": 1336378240,
+    "current_price": 89.08,
+    "pe_ratio": 25.45143,
+    "pb_ratio": 1.7007465,
     "roe": 0.07005,
     "debt_to_equity": 106.303,
     "revenue": 2432207872,
@@ -16,6 +16,6 @@
     "eps": 3.5,
     "52_week_high": 117.5,
     "52_week_low": 78.0,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

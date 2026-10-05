@@ -1,14 +1,14 @@
 {
   "ticker": "PFS",
-  "collected_at": "2026-10-04 07:35:02",
+  "collected_at": "2026-10-05 07:54:50",
   "company_info": {
     "name": "PTC India Financial Services Limited",
     "sector": "Financial Services",
     "industry": "Credit Services",
-    "market_cap": 18433531904,
-    "current_price": 28.7,
-    "pe_ratio": 8.270893,
-    "pb_ratio": 0.5985401,
+    "market_cap": 18028892160,
+    "current_price": 28.07,
+    "pe_ratio": 8.089337,
+    "pb_ratio": 0.5854014,
     "roe": "N/A",
     "debt_to_equity": 57.411,
     "revenue": 3515099904,
@@ -16,6 +16,6 @@
     "eps": 3.47,
     "52_week_high": 40.5,
     "52_week_low": 23.85,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

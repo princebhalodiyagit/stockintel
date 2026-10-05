@@ -1,14 +1,14 @@
 {
   "ticker": "PRIMO",
-  "collected_at": "2026-10-04 07:36:04",
+  "collected_at": "2026-10-05 07:56:05",
   "company_info": {
     "name": "Primo Chemicals Limited",
     "sector": "Basic Materials",
     "industry": "Chemicals",
-    "market_cap": 6252454912,
-    "current_price": 25.8,
-    "pe_ratio": 39.692307,
-    "pb_ratio": 1.5434314,
+    "market_cap": 6300923392,
+    "current_price": 26.0,
+    "pe_ratio": 40.0,
+    "pb_ratio": 1.5553961,
     "roe": "N/A",
     "debt_to_equity": 32.291,
     "revenue": 5600258048,
@@ -16,6 +16,6 @@
     "eps": 0.65,
     "52_week_high": 29.8,
     "52_week_low": 16.1,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

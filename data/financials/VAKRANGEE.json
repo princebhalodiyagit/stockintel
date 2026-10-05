@@ -1,14 +1,14 @@
 {
   "ticker": "VAKRANGEE",
-  "collected_at": "2026-10-04 07:44:53",
+  "collected_at": "2026-10-05 08:06:55",
   "company_info": {
     "name": "Vakrangee Limited",
     "sector": "Technology",
     "industry": "Information Technology Services",
-    "market_cap": 5537218560,
-    "current_price": 5.11,
-    "pe_ratio": 63.875004,
-    "pb_ratio": 2.4368148,
+    "market_cap": 5591398400,
+    "current_price": 5.16,
+    "pe_ratio": 64.5,
+    "pb_ratio": 2.460658,
     "roe": "N/A",
     "debt_to_equity": 1.705,
     "revenue": 2418497024,
@@ -16,6 +16,6 @@
     "eps": 0.08,
     "52_week_high": 9.64,
     "52_week_low": 4.61,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

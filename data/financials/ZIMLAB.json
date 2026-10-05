@@ -1,14 +1,14 @@
 {
   "ticker": "ZIMLAB",
-  "collected_at": "2026-10-04 07:46:36",
+  "collected_at": "2026-10-05 08:09:04",
   "company_info": {
     "name": "ZIM Laboratories Limited",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - Specialty & Generic",
-    "market_cap": 7389767168,
-    "current_price": 138.0,
-    "pe_ratio": 168.29268,
-    "pb_ratio": 2.4929998,
+    "market_cap": 7136042496,
+    "current_price": 132.99,
+    "pe_ratio": 162.18294,
+    "pb_ratio": 2.402493,
     "roe": "N/A",
     "debt_to_equity": 42.734,
     "revenue": 3968225024,
@@ -16,6 +16,6 @@
     "eps": 0.82,
     "52_week_high": 144.49,
     "52_week_low": 59.31,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

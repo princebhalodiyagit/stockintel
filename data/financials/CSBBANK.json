@@ -1,14 +1,14 @@
 {
   "ticker": "CSBBANK",
-  "collected_at": "2026-10-04 07:18:38",
+  "collected_at": "2026-10-05 07:34:39",
   "company_info": {
     "name": "CSB Bank Limited",
     "sector": "Financial Services",
     "industry": "Banks - Regional",
-    "market_cap": 51877089280,
-    "current_price": 306.1,
-    "pe_ratio": 7.990081,
-    "pb_ratio": 1.0849648,
+    "market_cap": 51622875136,
+    "current_price": 304.6,
+    "pe_ratio": 7.9509263,
+    "pb_ratio": 1.079648,
     "roe": "N/A",
     "debt_to_equity": "N/A",
     "revenue": 27577399296,
@@ -16,6 +16,6 @@
     "eps": 38.31,
     "52_week_high": 574.4,
     "52_week_low": 295.0,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

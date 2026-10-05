@@ -1,14 +1,14 @@
 {
   "ticker": "SHAH",
-  "collected_at": "2026-10-04 07:39:26",
+  "collected_at": "2026-10-05 08:00:10",
   "company_info": {
     "name": "Shah Metacorp Limited",
     "sector": "Basic Materials",
     "industry": "Steel",
-    "market_cap": 3171496192,
-    "current_price": 3.09,
-    "pe_ratio": 20.599998,
-    "pb_ratio": 0.93212664,
+    "market_cap": 3099650048,
+    "current_price": 3.02,
+    "pe_ratio": 20.133333,
+    "pb_ratio": 0.91101056,
     "roe": "N/A",
     "debt_to_equity": 77.528,
     "revenue": 2367823104,
@@ -16,6 +16,6 @@
     "eps": 0.15,
     "52_week_high": 5.88,
     "52_week_low": 2.56,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

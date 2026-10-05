@@ -1,14 +1,14 @@
 {
   "ticker": "INDIANCARD",
-  "collected_at": "2026-10-04 07:25:42",
+  "collected_at": "2026-10-05 07:43:23",
   "company_info": {
     "name": "The Indian Card Clothing Company Limited",
     "sector": "Consumer Cyclical",
     "industry": "Textile Manufacturing",
-    "market_cap": 1127624576,
-    "current_price": 189.8,
-    "pe_ratio": 18.829365,
-    "pb_ratio": 0.3287753,
+    "market_cap": 1100176512,
+    "current_price": 185.18,
+    "pe_ratio": 18.37103,
+    "pb_ratio": 0.3207724,
     "roe": "N/A",
     "debt_to_equity": 0.926,
     "revenue": 421529984,
@@ -16,6 +16,6 @@
     "eps": 10.08,
     "52_week_high": 278.25,
     "52_week_low": 153.0,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

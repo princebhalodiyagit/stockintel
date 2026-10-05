@@ -1,14 +1,14 @@
 {
   "ticker": "ELITECON",
-  "collected_at": "2026-10-04 07:20:35",
+  "collected_at": "2026-10-05 07:37:05",
   "company_info": {
     "name": "Elitecon International Limited",
     "sector": "Consumer Defensive",
     "industry": "Tobacco",
     "market_cap": "N/A",
-    "current_price": 7.8,
-    "pe_ratio": 6.7241383,
-    "pb_ratio": 3.1489706,
+    "current_price": 7.5,
+    "pe_ratio": 6.4655175,
+    "pb_ratio": 3.0278563,
     "roe": "N/A",
     "debt_to_equity": 70.969,
     "revenue": 57900466176,
@@ -16,6 +16,6 @@
     "eps": 1.16,
     "52_week_high": 17.25,
     "52_week_low": 7.08,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

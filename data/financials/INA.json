@@ -1,14 +1,14 @@
 {
   "ticker": "INA",
-  "collected_at": "2026-10-04 07:25:33",
+  "collected_at": "2026-10-05 07:43:12",
   "company_info": {
     "name": "Insolation Energy Limited",
     "sector": "Technology",
     "industry": "Solar",
-    "market_cap": 19392854016,
-    "current_price": 87.95,
-    "pe_ratio": 9.664834,
-    "pb_ratio": 2.408731,
+    "market_cap": 18559369216,
+    "current_price": 84.17,
+    "pe_ratio": 9.24945,
+    "pb_ratio": 2.3052063,
     "roe": "N/A",
     "debt_to_equity": 109.826,
     "revenue": 25248342016,
@@ -16,6 +16,6 @@
     "eps": 9.1,
     "52_week_high": 161.81,
     "52_week_low": 79.75,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

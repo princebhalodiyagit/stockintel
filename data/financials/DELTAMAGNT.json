@@ -1,21 +1,21 @@
 {
   "ticker": "DELTAMAGNT",
-  "collected_at": "2026-10-04 07:19:20",
+  "collected_at": "2026-10-05 07:35:32",
   "company_info": {
     "name": "Delta Manufacturing Limited",
     "sector": "Consumer Cyclical",
     "industry": "Textile Manufacturing",
-    "market_cap": 599524352,
-    "current_price": 55.25,
-    "pe_ratio": 87.69841,
-    "pb_ratio": 25.938965,
+    "market_cap": 593881792,
+    "current_price": 54.73,
+    "pe_ratio": "N/A",
+    "pb_ratio": 25.694834,
     "roe": "N/A",
     "debt_to_equity": 1732.804,
     "revenue": 668953024,
     "net_income": -10975000,
-    "eps": 0.63,
+    "eps": -2.67,
     "52_week_high": 86.0,
     "52_week_low": 45.51,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

@@ -1,14 +1,14 @@
 {
   "ticker": "BPL",
-  "collected_at": "2026-10-04 07:16:45",
+  "collected_at": "2026-10-05 07:32:24",
   "company_info": {
     "name": "BPL Limited",
     "sector": "Technology",
     "industry": "Consumer Electronics",
-    "market_cap": 2228396800,
-    "current_price": 45.5,
+    "market_cap": 2178931200,
+    "current_price": 44.49,
     "pe_ratio": "N/A",
-    "pb_ratio": 0.941795,
+    "pb_ratio": 0.92088926,
     "roe": -0.039100002,
     "debt_to_equity": 84.545,
     "revenue": 800403968,
@@ -16,6 +16,6 @@
     "eps": -3.01,
     "52_week_high": 82.7,
     "52_week_low": 37.61,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

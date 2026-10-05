@@ -1,14 +1,14 @@
 {
   "ticker": "ETERNAL",
-  "collected_at": "2026-10-04 07:21:05",
+  "collected_at": "2026-10-05 07:37:41",
   "company_info": {
     "name": "Eternal Limited",
     "sector": "Consumer Cyclical",
     "industry": "Internet Retail",
-    "market_cap": 2889572941824,
-    "current_price": 313.9,
-    "pe_ratio": 667.8723,
-    "pb_ratio": 9.279021,
+    "market_cap": 2935139860480,
+    "current_price": 318.85,
+    "pe_ratio": 678.4043,
+    "pb_ratio": 9.425345,
     "roe": "N/A",
     "debt_to_equity": 14.826,
     "revenue": 674080030720,
@@ -16,6 +16,6 @@
     "eps": 0.47,
     "52_week_high": 368.45,
     "52_week_low": 212.6,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

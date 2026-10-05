@@ -1,14 +1,14 @@
 {
   "ticker": "SEPC",
-  "collected_at": "2026-10-04 07:39:15",
+  "collected_at": "2026-10-05 07:59:57",
   "company_info": {
     "name": "SEPC Limited",
     "sector": "Industrials",
     "industry": "Engineering & Construction",
-    "market_cap": 9852646400,
-    "current_price": 5.07,
-    "pe_ratio": 39.000004,
-    "pb_ratio": 0.5183519,
+    "market_cap": 9872079872,
+    "current_price": 5.08,
+    "pe_ratio": 39.076923,
+    "pb_ratio": 0.5193743,
     "roe": "N/A",
     "debt_to_equity": 18.404,
     "revenue": 11260223488,
@@ -16,6 +16,6 @@
     "eps": 0.13,
     "52_week_high": 12.19,
     "52_week_low": 4.65,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

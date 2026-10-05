@@ -1,14 +1,14 @@
 {
   "ticker": "PURVA",
-  "collected_at": "2026-10-04 07:36:20",
+  "collected_at": "2026-10-05 07:56:25",
   "company_info": {
     "name": "Puravankara Limited",
     "sector": "Real Estate",
     "industry": "Real Estate - Development",
-    "market_cap": 49801433088,
-    "current_price": 210.0,
-    "pe_ratio": 31.11111,
-    "pb_ratio": 2.7889187,
+    "market_cap": 48297906176,
+    "current_price": 203.66,
+    "pe_ratio": 30.171852,
+    "pb_ratio": 2.70472,
     "roe": "N/A",
     "debt_to_equity": 315.044,
     "revenue": 40641499136,
@@ -16,6 +16,6 @@
     "eps": 6.75,
     "52_week_high": 287.3,
     "52_week_low": 160.69,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

@@ -1,14 +1,14 @@
 {
   "ticker": "NAVKARCORP",
-  "collected_at": "2026-10-04 07:32:40",
+  "collected_at": "2026-10-05 07:51:53",
   "company_info": {
     "name": "Navkar Corporation Limited",
     "sector": "Industrials",
     "industry": "Integrated Freight & Logistics",
-    "market_cap": 12733922304,
-    "current_price": 84.6,
-    "pe_ratio": 31.80451,
-    "pb_ratio": 0.650369,
+    "market_cap": 12751985664,
+    "current_price": 84.72,
+    "pe_ratio": 31.849623,
+    "pb_ratio": 0.6512915,
     "roe": "N/A",
     "debt_to_equity": 9.055,
     "revenue": 7432216064,
@@ -16,6 +16,6 @@
     "eps": 2.66,
     "52_week_high": 131.36,
     "52_week_low": 74.05,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

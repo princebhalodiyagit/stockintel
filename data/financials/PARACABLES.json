@@ -1,14 +1,14 @@
 {
   "ticker": "PARACABLES",
-  "collected_at": "2026-10-04 07:34:38",
+  "collected_at": "2026-10-05 07:54:20",
   "company_info": {
     "name": "Paramount Communications Limited",
     "sector": "Technology",
     "industry": "Communication Equipment",
-    "market_cap": 18475941888,
-    "current_price": 56.46,
-    "pe_ratio": 28.371859,
-    "pb_ratio": 2.2146387,
+    "market_cap": 18237057024,
+    "current_price": 55.73,
+    "pe_ratio": 28.005024,
+    "pb_ratio": 2.1860046,
     "roe": "N/A",
     "debt_to_equity": 15.807,
     "revenue": 19916300288,
@@ -16,6 +16,6 @@
     "eps": 1.99,
     "52_week_high": 75.7,
     "52_week_low": 28.3,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

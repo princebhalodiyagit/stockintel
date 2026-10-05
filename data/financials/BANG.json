@@ -1,14 +1,14 @@
 {
   "ticker": "BANG",
-  "collected_at": "2026-10-04 07:15:25",
+  "collected_at": "2026-10-05 07:30:47",
   "company_info": {
     "name": "Bang Overseas Limited",
     "sector": "Consumer Cyclical",
     "industry": "Apparel Manufacturing",
-    "market_cap": 429716416,
-    "current_price": 31.69,
-    "pe_ratio": 9.348083,
-    "pb_ratio": 0.45930198,
+    "market_cap": 436632000,
+    "current_price": 32.2,
+    "pe_ratio": 9.498525,
+    "pb_ratio": 0.46669373,
     "roe": "N/A",
     "debt_to_equity": 44.214,
     "revenue": 2325740032,
@@ -16,6 +16,6 @@
     "eps": 3.39,
     "52_week_high": 62.07,
     "52_week_low": 25.84,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

@@ -1,14 +1,14 @@
 {
   "ticker": "ALGOQUANT",
-  "collected_at": "2026-10-04 07:12:50",
+  "collected_at": "2026-10-05 07:27:35",
   "company_info": {
     "name": "Algoquant Fintech Limited",
     "sector": "Financial Services",
     "industry": "Capital Markets",
-    "market_cap": 19010523136,
-    "current_price": 67.63,
-    "pe_ratio": 41.74691,
-    "pb_ratio": 14.080782,
+    "market_cap": 19089231872,
+    "current_price": 67.91,
+    "pe_ratio": 41.919754,
+    "pb_ratio": 14.139081,
     "roe": "N/A",
     "debt_to_equity": 25.483,
     "revenue": 2588766976,
@@ -16,6 +16,6 @@
     "eps": 1.62,
     "52_week_high": 76.2,
     "52_week_low": 47.8,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

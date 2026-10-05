@@ -1,14 +1,14 @@
 {
   "ticker": "ASHOKAMET",
-  "collected_at": "2026-10-04 07:14:09",
+  "collected_at": "2026-10-05 07:29:13",
   "company_info": {
     "name": "Ashoka Metcast Limited",
     "sector": "Basic Materials",
     "industry": "Steel",
-    "market_cap": 363191872,
-    "current_price": 14.53,
-    "pe_ratio": 2.1088533,
-    "pb_ratio": 0.21265073,
+    "market_cap": 373190272,
+    "current_price": 14.93,
+    "pe_ratio": 2.1669087,
+    "pb_ratio": 0.21850486,
     "roe": "N/A",
     "debt_to_equity": 43.157,
     "revenue": 263196992,
@@ -16,6 +16,6 @@
     "eps": 6.89,
     "52_week_high": 19.4,
     "52_week_low": 12.13,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

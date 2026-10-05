@@ -1,14 +1,14 @@
 {
   "ticker": "SAURASHCEM",
-  "collected_at": "2026-10-04 07:38:52",
+  "collected_at": "2026-10-05 07:59:29",
   "company_info": {
     "name": "Saurashtra Cement Limited",
     "sector": "Basic Materials",
     "industry": "Building Materials",
-    "market_cap": 5898981888,
-    "current_price": 53.0,
-    "pe_ratio": 88.33333,
-    "pb_ratio": 0.6216936,
+    "market_cap": 5805488640,
+    "current_price": 52.16,
+    "pe_ratio": 86.93333,
+    "pb_ratio": 0.6118403,
     "roe": "N/A",
     "debt_to_equity": 11.119,
     "revenue": 16992178176,
@@ -16,6 +16,6 @@
     "eps": 0.6,
     "52_week_high": 111.97,
     "52_week_low": 47.65,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

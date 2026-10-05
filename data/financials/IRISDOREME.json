@@ -1,14 +1,14 @@
 {
   "ticker": "IRISDOREME",
-  "collected_at": "2026-10-04 07:26:34",
+  "collected_at": "2026-10-05 07:44:28",
   "company_info": {
     "name": "Iris Clothings Limited",
     "sector": "Consumer Cyclical",
     "industry": "Apparel Manufacturing",
-    "market_cap": 11579766784,
-    "current_price": 60.84,
-    "pe_ratio": 66.13043,
-    "pb_ratio": 8.120662,
+    "market_cap": 11084905472,
+    "current_price": 58.24,
+    "pe_ratio": 63.304348,
+    "pb_ratio": 7.7736254,
     "roe": "N/A",
     "debt_to_equity": 24.205,
     "revenue": 2007076992,
@@ -16,6 +16,6 @@
     "eps": 0.92,
     "52_week_high": 68.0,
     "52_week_low": 26.35,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

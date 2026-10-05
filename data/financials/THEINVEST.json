@@ -1,14 +1,14 @@
 {
   "ticker": "THEINVEST",
-  "collected_at": "2026-10-04 07:43:14",
+  "collected_at": "2026-10-05 08:04:51",
   "company_info": {
     "name": "The Investment Trust of India Limited",
     "sector": "Financial Services",
     "industry": "Capital Markets",
-    "market_cap": 4749340160,
-    "current_price": 90.91,
-    "pe_ratio": 14.249217,
-    "pb_ratio": 0.64357424,
+    "market_cap": 4714860032,
+    "current_price": 90.25,
+    "pe_ratio": 14.145768,
+    "pb_ratio": 0.6389019,
     "roe": "N/A",
     "debt_to_equity": 7.607,
     "revenue": 2607540992,
@@ -16,6 +16,6 @@
     "eps": 6.38,
     "52_week_high": 152.99,
     "52_week_low": 89.0,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

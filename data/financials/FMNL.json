@@ -1,14 +1,14 @@
 {
   "ticker": "FMNL",
-  "collected_at": "2026-10-04 07:21:41",
+  "collected_at": "2026-10-05 07:38:27",
   "company_info": {
     "name": "Future Market Networks Limited",
     "sector": "Real Estate",
     "industry": "Real Estate Services",
-    "market_cap": 546121024,
-    "current_price": 8.18,
-    "pe_ratio": 6.7603307,
-    "pb_ratio": 0.4420666,
+    "market_cap": 544785728,
+    "current_price": 8.16,
+    "pe_ratio": 6.743801,
+    "pb_ratio": 0.44098574,
     "roe": "N/A",
     "debt_to_equity": 130.24,
     "revenue": 999089024,
@@ -16,6 +16,6 @@
     "eps": 1.21,
     "52_week_high": 13.29,
     "52_week_low": 6.74,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

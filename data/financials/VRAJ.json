@@ -1,14 +1,14 @@
 {
   "ticker": "VRAJ",
-  "collected_at": "2026-10-04 07:45:39",
+  "collected_at": "2026-10-05 08:07:52",
   "company_info": {
     "name": "Vraj Iron and Steel Limited",
     "sector": "Basic Materials",
     "industry": "Steel",
-    "market_cap": 4018932224,
-    "current_price": 121.85,
-    "pe_ratio": 11.189164,
-    "pb_ratio": 0.9350923,
+    "market_cap": 4023879680,
+    "current_price": 122.0,
+    "pe_ratio": 11.202938,
+    "pb_ratio": 0.93624336,
     "roe": "N/A",
     "debt_to_equity": 9.921,
     "revenue": 6434449920,
@@ -16,6 +16,6 @@
     "eps": 10.89,
     "52_week_high": 155.75,
     "52_week_low": 93.0,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

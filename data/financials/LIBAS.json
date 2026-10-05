@@ -1,14 +1,14 @@
 {
   "ticker": "LIBAS",
-  "collected_at": "2026-10-04 07:29:40",
+  "collected_at": "2026-10-05 07:48:13",
   "company_info": {
     "name": "Libas Consumer Products Limited",
     "sector": "Consumer Cyclical",
     "industry": "Apparel Manufacturing",
-    "market_cap": 299537856,
-    "current_price": 11.37,
-    "pe_ratio": 8.746154,
-    "pb_ratio": 0.36659682,
+    "market_cap": 294532416,
+    "current_price": 11.18,
+    "pe_ratio": 8.6,
+    "pb_ratio": 0.36047077,
     "roe": "N/A",
     "debt_to_equity": 16.922,
     "revenue": 725776000,
@@ -16,6 +16,6 @@
     "eps": 1.3,
     "52_week_high": 13.45,
     "52_week_low": 9.02,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

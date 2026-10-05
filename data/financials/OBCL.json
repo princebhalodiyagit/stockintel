@@ -1,14 +1,14 @@
 {
   "ticker": "OBCL",
-  "collected_at": "2026-10-04 07:33:51",
+  "collected_at": "2026-10-05 07:53:23",
   "company_info": {
     "name": "OBCL Limited",
     "sector": "Industrials",
     "industry": "Trucking",
-    "market_cap": 1172203136,
-    "current_price": 55.6,
+    "market_cap": 1185906944,
+    "current_price": 56.25,
     "pe_ratio": "N/A",
-    "pb_ratio": 1.3955823,
+    "pb_ratio": 1.4118975,
     "roe": "N/A",
     "debt_to_equity": 86.295,
     "revenue": 3443572992,
@@ -16,6 +16,6 @@
     "eps": -4.03,
     "52_week_high": 62.0,
     "52_week_low": 46.51,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

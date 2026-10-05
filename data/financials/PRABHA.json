@@ -1,14 +1,14 @@
 {
   "ticker": "PRABHA",
-  "collected_at": "2026-10-04 07:35:49",
+  "collected_at": "2026-10-05 07:55:46",
   "company_info": {
     "name": "Prabha Energy Limited",
     "sector": "Energy",
     "industry": "Oil & Gas E&P",
-    "market_cap": 33872371712,
-    "current_price": 217.01,
-    "pe_ratio": 2411.2222,
-    "pb_ratio": 4.76987,
+    "market_cap": 33500887040,
+    "current_price": 214.63,
+    "pe_ratio": 2384.7778,
+    "pb_ratio": 4.717558,
     "roe": "N/A",
     "debt_to_equity": 37.627,
     "revenue": 66671000,
@@ -16,6 +16,6 @@
     "eps": 0.09,
     "52_week_high": 262.8,
     "52_week_low": 137.91,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

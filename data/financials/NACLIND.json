@@ -1,14 +1,14 @@
 {
   "ticker": "NACLIND",
-  "collected_at": "2026-10-04 07:32:25",
+  "collected_at": "2026-10-05 07:51:35",
   "company_info": {
     "name": "NACL Industries Limited",
     "sector": "Basic Materials",
     "industry": "Agricultural Inputs",
-    "market_cap": 30322798592,
-    "current_price": 129.45,
-    "pe_ratio": 258.9,
-    "pb_ratio": 4.438996,
+    "market_cap": 30236129280,
+    "current_price": 129.08,
+    "pe_ratio": 258.16,
+    "pb_ratio": 4.426308,
     "roe": "N/A",
     "debt_to_equity": 45.68,
     "revenue": 15194300416,
@@ -16,6 +16,6 @@
     "eps": 0.5,
     "52_week_high": 245.0,
     "52_week_low": 112.62,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

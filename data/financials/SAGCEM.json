@@ -1,14 +1,14 @@
 {
   "ticker": "SAGCEM",
-  "collected_at": "2026-10-04 07:38:16",
+  "collected_at": "2026-10-05 07:58:46",
   "company_info": {
     "name": "Sagar Cements Limited",
     "sector": "Basic Materials",
     "industry": "Building Materials",
-    "market_cap": 19735533568,
-    "current_price": 150.99,
+    "market_cap": 19368243200,
+    "current_price": 148.18,
     "pe_ratio": "N/A",
-    "pb_ratio": 1.1657659,
+    "pb_ratio": 1.1440703,
     "roe": "N/A",
     "debt_to_equity": 91.801,
     "revenue": 26854299648,
@@ -16,6 +16,6 @@
     "eps": -2.78,
     "52_week_high": 257.64,
     "52_week_low": 141.52,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

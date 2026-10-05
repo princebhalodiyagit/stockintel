@@ -1,14 +1,14 @@
 {
   "ticker": "TTML",
-  "collected_at": "2026-10-04 07:44:07",
+  "collected_at": "2026-10-05 08:05:57",
   "company_info": {
     "name": "Tata Teleservices (Maharashtra) Limited",
     "sector": "Communication Services",
     "industry": "Telecom Services",
-    "market_cap": 67014922240,
-    "current_price": 34.28,
-    "pe_ratio": 180.42105,
-    "pb_ratio": -0.33535182,
+    "market_cap": 66623942656,
+    "current_price": 34.08,
+    "pe_ratio": 179.36844,
+    "pb_ratio": -0.3333953,
     "roe": "N/A",
     "debt_to_equity": "N/A",
     "revenue": 11775500288,
@@ -16,6 +16,6 @@
     "eps": 0.19,
     "52_week_high": 60.08,
     "52_week_low": 31.22,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

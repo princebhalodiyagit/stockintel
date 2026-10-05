@@ -1,14 +1,14 @@
 {
   "ticker": "INDOFARM",
-  "collected_at": "2026-10-04 07:25:52",
+  "collected_at": "2026-10-05 07:43:36",
   "company_info": {
     "name": "Indo Farm Equipment Limited",
     "sector": "Industrials",
     "industry": "Farm & Heavy Construction Machinery",
-    "market_cap": 6318785536,
-    "current_price": 131.5,
-    "pe_ratio": 25.337187,
-    "pb_ratio": 1.1382424,
+    "market_cap": 6232292352,
+    "current_price": 129.7,
+    "pe_ratio": 24.990366,
+    "pb_ratio": 1.1226618,
     "roe": "N/A",
     "debt_to_equity": 26.874,
     "revenue": 4540023808,
@@ -16,6 +16,6 @@
     "eps": 5.19,
     "52_week_high": 271.69,
     "52_week_low": 110.7,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

@@ -1,14 +1,14 @@
 {
   "ticker": "LAGNAM",
-  "collected_at": "2026-10-04 07:29:20",
+  "collected_at": "2026-10-05 07:47:48",
   "company_info": {
     "name": "Lagnam Spintex Limited",
     "sector": "Consumer Cyclical",
     "industry": "Textile Manufacturing",
-    "market_cap": 1265983872,
-    "current_price": 71.65,
-    "pe_ratio": 6.9160237,
-    "pb_ratio": 0.93498796,
+    "market_cap": 1265277056,
+    "current_price": 71.61,
+    "pe_ratio": 6.9121623,
+    "pb_ratio": 0.934466,
     "roe": "N/A",
     "debt_to_equity": 264.432,
     "revenue": 6307365888,
@@ -16,6 +16,6 @@
     "eps": 10.36,
     "52_week_high": 95.9,
     "52_week_low": 58.6,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

@@ -1,14 +1,14 @@
 {
   "ticker": "BIRLAMONEY",
-  "collected_at": "2026-10-04 07:16:17",
+  "collected_at": "2026-10-05 07:31:50",
   "company_info": {
     "name": "Aditya Birla Money Limited",
     "sector": "Financial Services",
     "industry": "Capital Markets",
-    "market_cap": 6313773056,
-    "current_price": 111.73,
-    "pe_ratio": 11.638541,
-    "pb_ratio": 2.1028364,
+    "market_cap": 6306426880,
+    "current_price": 111.6,
+    "pe_ratio": 11.624999,
+    "pb_ratio": 2.1003895,
     "roe": "N/A",
     "debt_to_equity": 734.586,
     "revenue": 3432669952,
@@ -16,6 +16,6 @@
     "eps": 9.6,
     "52_week_high": 179.85,
     "52_week_low": 95.0,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

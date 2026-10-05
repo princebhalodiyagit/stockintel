@@ -1,14 +1,14 @@
 {
   "ticker": "COFFEEDAY",
-  "collected_at": "2026-10-04 07:18:07",
+  "collected_at": "2026-10-05 07:34:03",
   "company_info": {
     "name": "Coffee Day Enterprises Limited",
     "sector": "Consumer Cyclical",
     "industry": "Restaurants",
-    "market_cap": 6274176000,
-    "current_price": 29.7,
-    "pe_ratio": 3.5697117,
-    "pb_ratio": 0.22461544,
+    "market_cap": 6318538752,
+    "current_price": 29.91,
+    "pe_ratio": 3.594952,
+    "pb_ratio": 0.22620362,
     "roe": "N/A",
     "debt_to_equity": 26.194,
     "revenue": 11363200000,
@@ -16,6 +16,6 @@
     "eps": 8.32,
     "52_week_high": 44.8,
     "52_week_low": 21.0,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

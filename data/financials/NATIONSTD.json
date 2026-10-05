@@ -1,14 +1,14 @@
 {
   "ticker": "NATIONSTD",
-  "collected_at": "2026-10-04 07:32:36",
+  "collected_at": "2026-10-05 07:51:48",
   "company_info": {
     "name": "National Standard (India) Limited",
     "sector": "Real Estate",
     "industry": "Real Estate - Development",
-    "market_cap": 2322599936,
-    "current_price": 116.13,
-    "pe_ratio": 20.700533,
-    "pb_ratio": 0.825831,
+    "market_cap": 2278599936,
+    "current_price": 113.93,
+    "pe_ratio": 20.308378,
+    "pb_ratio": 0.8101862,
     "roe": "N/A",
     "debt_to_equity": "N/A",
     "revenue": 194024000,
@@ -16,6 +16,6 @@
     "eps": 5.61,
     "52_week_high": 148.1,
     "52_week_low": 98.27,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

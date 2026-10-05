@@ -1,14 +1,14 @@
 {
   "ticker": "BAJAJHFL",
-  "collected_at": "2026-10-04 07:15:05",
+  "collected_at": "2026-10-05 07:30:22",
   "company_info": {
     "name": "Bajaj Housing Finance Limited",
     "sector": "Financial Services",
     "industry": "Mortgage Finance",
-    "market_cap": 692694810624,
-    "current_price": 83.17,
-    "pe_ratio": 25.749226,
-    "pb_ratio": 3.0754724,
+    "market_cap": 680701591552,
+    "current_price": 81.73,
+    "pe_ratio": 25.303406,
+    "pb_ratio": 3.0222242,
     "roe": 0.12679,
     "debt_to_equity": 460.74,
     "revenue": 42615701504,
@@ -16,6 +16,6 @@
     "eps": 3.23,
     "52_week_high": 113.45,
     "52_week_low": 72.65,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

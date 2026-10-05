@@ -1,14 +1,14 @@
 {
   "ticker": "INDBANK",
-  "collected_at": "2026-10-04 07:25:35",
+  "collected_at": "2026-10-05 07:43:15",
   "company_info": {
     "name": "Indbank Merchant Banking Services Limited",
     "sector": "Financial Services",
     "industry": "Capital Markets",
-    "market_cap": 1113892864,
-    "current_price": 25.1,
-    "pe_ratio": 15.304878,
-    "pb_ratio": 1.142675,
+    "market_cap": 1122768384,
+    "current_price": 25.3,
+    "pe_ratio": 15.426829,
+    "pb_ratio": 1.15178,
     "roe": "N/A",
     "debt_to_equity": "N/A",
     "revenue": 252056000,
@@ -16,6 +16,6 @@
     "eps": 1.64,
     "52_week_high": 47.15,
     "52_week_low": 24.21,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

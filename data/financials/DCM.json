@@ -1,14 +1,14 @@
 {
   "ticker": "DCM",
-  "collected_at": "2026-10-04 07:19:04",
+  "collected_at": "2026-10-05 07:35:12",
   "company_info": {
     "name": "DCM Limited",
     "sector": "Industrials",
     "industry": "Metal Fabrication",
-    "market_cap": 1345171328,
-    "current_price": 72.02,
-    "pe_ratio": 109.1212,
-    "pb_ratio": 2.8786123,
+    "market_cap": 1327987840,
+    "current_price": 71.1,
+    "pe_ratio": 107.727264,
+    "pb_ratio": 2.8418403,
     "roe": "N/A",
     "debt_to_equity": 2.23,
     "revenue": 743800000,
@@ -16,6 +16,6 @@
     "eps": 0.66,
     "52_week_high": 104.3,
     "52_week_low": 55.0,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

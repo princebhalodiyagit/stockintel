@@ -1,21 +1,21 @@
 {
   "ticker": "BLAL",
-  "collected_at": "2026-10-04 07:16:22",
+  "collected_at": "2026-10-05 07:31:56",
   "company_info": {
     "name": "BEML Land Assets Limited",
     "sector": "Financial Services",
     "industry": "Shell Companies",
-    "market_cap": 6638133248,
-    "current_price": 159.4,
-    "pe_ratio": 289.81818,
-    "pb_ratio": 597.0037,
+    "market_cap": 6576082944,
+    "current_price": 157.91,
+    "pe_ratio": "N/A",
+    "pb_ratio": 591.4233,
     "roe": "N/A",
     "debt_to_equity": 1062.5,
     "revenue": 19650000,
     "net_income": 22822000,
-    "eps": 0.55,
+    "eps": -0.23,
     "52_week_high": 217.88,
-    "52_week_low": 155.5,
-    "dividend_yield": "N/A"
+    "52_week_low": 153.5,
+    "dividend_yield": 0.0
   }
 }

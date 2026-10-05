@@ -1,14 +1,14 @@
 {
   "ticker": "EQUITASBNK",
-  "collected_at": "2026-10-04 07:20:57",
+  "collected_at": "2026-10-05 07:37:32",
   "company_info": {
     "name": "Equitas Small Finance Bank Limited",
     "sector": "Financial Services",
     "industry": "Banks - Regional",
-    "market_cap": 78029455360,
-    "current_price": 68.2,
-    "pe_ratio": 15.291479,
-    "pb_ratio": 1.2732432,
+    "market_cap": 78979080192,
+    "current_price": 69.03,
+    "pe_ratio": 15.477578,
+    "pb_ratio": 1.2887387,
     "roe": "N/A",
     "debt_to_equity": 94.248,
     "revenue": 46719770624,
@@ -16,6 +16,6 @@
     "eps": 4.46,
     "52_week_high": 83.9,
     "52_week_low": 51.25,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

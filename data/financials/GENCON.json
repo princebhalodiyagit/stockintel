@@ -1,14 +1,14 @@
 {
   "ticker": "GENCON",
-  "collected_at": "2026-10-04 07:22:13",
+  "collected_at": "2026-10-05 07:39:07",
   "company_info": {
     "name": "Generic Engineering Construction and Projects Limited",
     "sector": "Industrials",
     "industry": "Engineering & Construction",
-    "market_cap": 2334155520,
-    "current_price": 40.96,
-    "pe_ratio": 27.306665,
-    "pb_ratio": 0.7772148,
+    "market_cap": 2252095488,
+    "current_price": 39.52,
+    "pe_ratio": 26.346666,
+    "pb_ratio": 0.7498909,
     "roe": 0.02945,
     "debt_to_equity": 21.937,
     "revenue": 3053652992,
@@ -16,6 +16,6 @@
     "eps": 1.5,
     "52_week_high": 59.96,
     "52_week_low": 36.35,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

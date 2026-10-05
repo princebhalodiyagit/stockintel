@@ -1,14 +1,14 @@
 {
   "ticker": "SURANASOL",
-  "collected_at": "2026-10-04 07:42:01",
+  "collected_at": "2026-10-05 08:03:22",
   "company_info": {
     "name": "Surana Solar Limited",
     "sector": "Technology",
     "industry": "Solar",
-    "market_cap": 1195720320,
-    "current_price": 24.3,
-    "pe_ratio": 18.692308,
-    "pb_ratio": 2.0932035,
+    "market_cap": 1189815552,
+    "current_price": 24.18,
+    "pe_ratio": 18.6,
+    "pb_ratio": 2.0828667,
     "roe": "N/A",
     "debt_to_equity": "N/A",
     "revenue": 358984000,
@@ -16,6 +16,6 @@
     "eps": 1.3,
     "52_week_high": 34.51,
     "52_week_low": 18.31,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

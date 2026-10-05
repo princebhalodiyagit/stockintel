@@ -1,14 +1,14 @@
 {
   "ticker": "RVNL",
-  "collected_at": "2026-10-04 07:38:10",
+  "collected_at": "2026-10-05 07:58:39",
   "company_info": {
     "name": "Rail Vikas Nigam Limited",
     "sector": "Industrials",
     "industry": "Engineering & Construction",
-    "market_cap": 410748977152,
-    "current_price": 197.0,
-    "pe_ratio": 45.707657,
-    "pb_ratio": 4.1819687,
+    "market_cap": 409185222656,
+    "current_price": 196.25,
+    "pe_ratio": 45.53364,
+    "pb_ratio": 4.1660476,
     "roe": "N/A",
     "debt_to_equity": 49.078,
     "revenue": 208245800960,
@@ -16,6 +16,6 @@
     "eps": 4.31,
     "52_week_high": 400.7,
     "52_week_low": 194.05,
-    "dividend_yield": 1.74
+    "dividend_yield": 0.87
   }
 }

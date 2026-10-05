@@ -1,14 +1,14 @@
 {
   "ticker": "RPOWER",
-  "collected_at": "2026-10-04 07:37:48",
+  "collected_at": "2026-10-05 07:58:13",
   "company_info": {
     "name": "Reliance Power Limited",
     "sector": "Utilities",
     "industry": "Utilities - Independent Power Producers",
-    "market_cap": "N/A",
-    "current_price": 19.42,
+    "market_cap": 81474691072,
+    "current_price": 19.7,
     "pe_ratio": "N/A",
-    "pb_ratio": 0.50074774,
+    "pb_ratio": 0.5079676,
     "roe": "N/A",
     "debt_to_equity": 92.348,
     "revenue": 76904497152,
@@ -16,6 +16,6 @@
     "eps": -0.77,
     "52_week_high": 50.73,
     "52_week_low": 19.09,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

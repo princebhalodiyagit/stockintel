@@ -1,14 +1,14 @@
 {
   "ticker": "AJOONI",
-  "collected_at": "2026-10-04 07:12:40",
+  "collected_at": "2026-10-05 07:27:23",
   "company_info": {
     "name": "Ajooni Biotech Limited",
     "sector": "Consumer Defensive",
     "industry": "Packaged Foods",
-    "market_cap": 533955136,
-    "current_price": 3.1,
-    "pe_ratio": 12.4,
-    "pb_ratio": 0.6439551,
+    "market_cap": 535677568,
+    "current_price": 3.11,
+    "pe_ratio": 12.44,
+    "pb_ratio": 0.58469635,
     "roe": 0.04402,
     "debt_to_equity": 29.371,
     "revenue": 2142246016,
@@ -16,6 +16,6 @@
     "eps": 0.25,
     "52_week_high": 5.5,
     "52_week_low": 3.02,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

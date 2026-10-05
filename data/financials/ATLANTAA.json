@@ -1,14 +1,14 @@
 {
   "ticker": "ATLANTAA",
-  "collected_at": "2026-10-04 07:14:29",
+  "collected_at": "2026-10-05 07:29:37",
   "company_info": {
     "name": "Atlantaa Limited",
     "sector": "Industrials",
     "industry": "Infrastructure Operations",
-    "market_cap": 2933185024,
-    "current_price": 35.99,
+    "market_cap": 2866354944,
+    "current_price": 35.17,
     "pe_ratio": "N/A",
-    "pb_ratio": 1.3808849,
+    "pb_ratio": 1.3494225,
     "roe": "N/A",
     "debt_to_equity": 148.258,
     "revenue": 777177024,
@@ -16,6 +16,6 @@
     "eps": -0.62,
     "52_week_high": 73.39,
     "52_week_low": 31.52,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

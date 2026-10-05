@@ -1,14 +1,14 @@
 {
   "ticker": "MARKOLINES",
-  "collected_at": "2026-10-04 07:30:50",
+  "collected_at": "2026-10-05 07:49:38",
   "company_info": {
     "name": "Markolines Pavement Technologies Limited",
     "sector": "Industrials",
     "industry": "Infrastructure Operations",
-    "market_cap": 3721609472,
-    "current_price": 168.85,
-    "pe_ratio": 13.908566,
-    "pb_ratio": 1.8407886,
+    "market_cap": 3714115328,
+    "current_price": 168.51,
+    "pe_ratio": 13.880559,
+    "pb_ratio": 1.8370818,
     "roe": "N/A",
     "debt_to_equity": 42.552,
     "revenue": 3516335104,
@@ -16,6 +16,6 @@
     "eps": 12.14,
     "52_week_high": 191.75,
     "52_week_low": 131.65,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

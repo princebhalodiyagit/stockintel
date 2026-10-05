@@ -1,21 +1,21 @@
 {
   "ticker": "INDOWIND",
-  "collected_at": "2026-10-04 07:25:58",
+  "collected_at": "2026-10-05 07:43:44",
   "company_info": {
     "name": "Indowind Energy Limited",
     "sector": "Utilities",
     "industry": "Utilities - Renewable",
-    "market_cap": 1374958592,
-    "current_price": 8.54,
-    "pe_ratio": "N/A",
-    "pb_ratio": 0.45046946,
+    "market_cap": 1358858240,
+    "current_price": 8.44,
+    "pe_ratio": 120.57142,
+    "pb_ratio": 0.4451946,
     "roe": "N/A",
     "debt_to_equity": 3.094,
     "revenue": 376385984,
     "net_income": -3003000,
-    "eps": -0.07,
+    "eps": 0.07,
     "52_week_high": 18.94,
     "52_week_low": 7.0,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

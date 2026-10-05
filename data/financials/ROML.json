@@ -1,14 +1,14 @@
 {
   "ticker": "ROML",
-  "collected_at": "2026-10-04 07:37:40",
+  "collected_at": "2026-10-05 07:58:03",
   "company_info": {
     "name": "Raj Oil Mills Limited",
     "sector": "Consumer Defensive",
     "industry": "Packaged Foods",
-    "market_cap": 650358976,
-    "current_price": 43.39,
-    "pe_ratio": 14.910652,
-    "pb_ratio": 30.215878,
+    "market_cap": 644513408,
+    "current_price": 43.0,
+    "pe_ratio": 14.776632,
+    "pb_ratio": 29.94429,
     "roe": "N/A",
     "debt_to_equity": 1222.773,
     "revenue": 1533310976,
@@ -16,6 +16,6 @@
     "eps": 2.91,
     "52_week_high": 62.0,
     "52_week_low": 35.11,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

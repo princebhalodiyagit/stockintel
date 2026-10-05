@@ -1,14 +1,14 @@
 {
   "ticker": "HYBRIDFIN",
-  "collected_at": "2026-10-04 07:25:01",
+  "collected_at": "2026-10-05 07:42:33",
   "company_info": {
     "name": "Hybrid Financial Services Limited",
     "sector": "Financial Services",
     "industry": "Capital Markets",
-    "market_cap": 509247552,
-    "current_price": 17.3,
-    "pe_ratio": 19.885056,
-    "pb_ratio": 1.1511844,
+    "market_cap": 516606624,
+    "current_price": 17.55,
+    "pe_ratio": 20.172413,
+    "pb_ratio": 1.16782,
     "roe": "N/A",
     "debt_to_equity": 1.585,
     "revenue": 57772000,
@@ -16,6 +16,6 @@
     "eps": 0.87,
     "52_week_high": 33.62,
     "52_week_low": 14.5,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

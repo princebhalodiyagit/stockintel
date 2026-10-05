@@ -1,14 +1,14 @@
 {
   "ticker": "AMDIND",
-  "collected_at": "2026-10-04 07:13:10",
+  "collected_at": "2026-10-05 07:27:59",
   "company_info": {
     "name": "AMD Industries Limited",
     "sector": "Consumer Cyclical",
     "industry": "Packaging & Containers",
-    "market_cap": 994754240,
-    "current_price": 51.9,
-    "pe_ratio": 30.350878,
-    "pb_ratio": 0.6485879,
+    "market_cap": 989004160,
+    "current_price": 51.6,
+    "pe_ratio": 30.175438,
+    "pb_ratio": 0.6448388,
     "roe": "N/A",
     "debt_to_equity": 51.225,
     "revenue": 3175712000,
@@ -16,6 +16,6 @@
     "eps": 1.71,
     "52_week_high": 74.39,
     "52_week_low": 33.77,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

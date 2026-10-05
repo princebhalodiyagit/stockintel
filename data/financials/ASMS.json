@@ -1,14 +1,14 @@
 {
   "ticker": "ASMS",
-  "collected_at": "2026-10-04 07:14:16",
+  "collected_at": "2026-10-05 07:29:21",
   "company_info": {
     "name": "Avio Smart Market Stack Limited",
     "sector": "Technology",
     "industry": "Information Technology Services",
-    "market_cap": 1824414592,
-    "current_price": 5.99,
-    "pe_ratio": 28.52381,
-    "pb_ratio": 5.2177696,
+    "market_cap": 1778728192,
+    "current_price": 5.84,
+    "pe_ratio": 27.809525,
+    "pb_ratio": 5.087108,
     "roe": "N/A",
     "debt_to_equity": 25.615,
     "revenue": 1070929984,
@@ -16,6 +16,6 @@
     "eps": 0.21,
     "52_week_high": 16.7,
     "52_week_low": 5.1,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

@@ -1,14 +1,14 @@
 {
   "ticker": "RVHL",
-  "collected_at": "2026-10-04 07:38:09",
+  "collected_at": "2026-10-05 07:58:38",
   "company_info": {
     "name": "Ravinder Heights Limited",
     "sector": "Real Estate",
     "industry": "Real Estate - Development",
-    "market_cap": 2342643456,
-    "current_price": 38.2,
-    "pe_ratio": 4.916345,
-    "pb_ratio": 0.80708206,
+    "market_cap": 2304008192,
+    "current_price": 37.57,
+    "pe_ratio": 4.8352637,
+    "pb_ratio": 0.7937715,
     "roe": "N/A",
     "debt_to_equity": 0.345,
     "revenue": 750483968,
@@ -16,6 +16,6 @@
     "eps": 7.77,
     "52_week_high": 62.15,
     "52_week_low": 28.5,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

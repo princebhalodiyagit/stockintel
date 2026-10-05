@@ -1,14 +1,14 @@
 {
   "ticker": "LANDSMILL",
-  "collected_at": "2026-10-04 07:29:26",
+  "collected_at": "2026-10-05 07:47:55",
   "company_info": {
     "name": "Landsmill Green Limited",
     "sector": "Industrials",
     "industry": "Conglomerates",
-    "market_cap": 1481229696,
-    "current_price": 1.05,
-    "pe_ratio": 52.5,
-    "pb_ratio": 0.72363883,
+    "market_cap": 1467122816,
+    "current_price": 1.04,
+    "pe_ratio": 52.0,
+    "pb_ratio": 0.71674705,
     "roe": "N/A",
     "debt_to_equity": 0.444,
     "revenue": 15127000,
@@ -16,6 +16,6 @@
     "eps": 0.02,
     "52_week_high": 1.68,
     "52_week_low": 0.52,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

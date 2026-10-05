@@ -1,14 +1,14 @@
 {
   "ticker": "LOTUSEYE",
-  "collected_at": "2026-10-04 07:29:54",
+  "collected_at": "2026-10-05 07:48:29",
   "company_info": {
     "name": "Lotus Eye Hospital and Institute Limited",
     "sector": "Healthcare",
     "industry": "Medical Care Facilities",
-    "market_cap": 2416533504,
-    "current_price": 116.2,
-    "pe_ratio": 1452.5,
-    "pb_ratio": 4.1156054,
+    "market_cap": 2399688448,
+    "current_price": 115.39,
+    "pe_ratio": 1442.375,
+    "pb_ratio": 4.0869164,
     "roe": "N/A",
     "debt_to_equity": 26.329,
     "revenue": 572542976,
@@ -16,6 +16,6 @@
     "eps": 0.08,
     "52_week_high": 147.0,
     "52_week_low": 97.59,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

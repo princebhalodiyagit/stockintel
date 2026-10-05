@@ -1,14 +1,14 @@
 {
   "ticker": "JYOTISTRUC",
-  "collected_at": "2026-10-04 07:27:53",
+  "collected_at": "2026-10-05 07:46:00",
   "company_info": {
     "name": "Jyoti Structures Limited",
     "sector": "Industrials",
     "industry": "Specialty Industrial Machinery",
-    "market_cap": 10695192576,
-    "current_price": 8.96,
-    "pe_ratio": 16.592592,
-    "pb_ratio": 2.2535212,
+    "market_cap": 10384840704,
+    "current_price": 8.7,
+    "pe_ratio": 16.11111,
+    "pb_ratio": 2.1881287,
     "roe": "N/A",
     "debt_to_equity": 439.045,
     "revenue": 8461400064,
@@ -16,6 +16,6 @@
     "eps": 0.54,
     "52_week_high": 15.49,
     "52_week_low": 7.94,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

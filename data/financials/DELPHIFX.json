@@ -1,14 +1,14 @@
 {
   "ticker": "DELPHIFX",
-  "collected_at": "2026-10-04 07:19:18",
+  "collected_at": "2026-10-05 07:35:29",
   "company_info": {
     "name": "Delphi World Money Limited",
     "sector": "Financial Services",
     "industry": "Capital Markets",
-    "market_cap": 1692347648,
-    "current_price": 6.9,
-    "pe_ratio": 28.750002,
-    "pb_ratio": 0.5182515,
+    "market_cap": 1724232576,
+    "current_price": 7.03,
+    "pe_ratio": 29.291668,
+    "pb_ratio": 0.5280156,
     "roe": 0.01635,
     "debt_to_equity": 134.635,
     "revenue": 14195460096,
@@ -16,6 +16,6 @@
     "eps": 0.24,
     "52_week_high": 18.25,
     "52_week_low": 4.72,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

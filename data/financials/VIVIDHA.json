@@ -1,21 +1,21 @@
 {
   "ticker": "VIVIDHA",
-  "collected_at": "2026-10-04 07:45:30",
+  "collected_at": "2026-10-05 08:07:41",
   "company_info": {
     "name": "Visagar Polytex Limited",
     "sector": "Consumer Cyclical",
     "industry": "Textile Manufacturing",
-    "market_cap": 143423264,
-    "current_price": 0.49,
-    "pe_ratio": 49.000004,
-    "pb_ratio": -49.000004,
+    "market_cap": 152204272,
+    "current_price": 0.52,
+    "pe_ratio": "N/A",
+    "pb_ratio": -52.0,
     "roe": "N/A",
     "debt_to_equity": "N/A",
     "revenue": 2335000,
     "net_income": -13289000,
-    "eps": 0.01,
+    "eps": -0.04,
     "52_week_high": 0.82,
     "52_week_low": 0.43,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

@@ -1,14 +1,14 @@
 {
   "ticker": "PRITIKAUTO",
-  "collected_at": "2026-10-04 07:36:06",
+  "collected_at": "2026-10-05 07:56:07",
   "company_info": {
     "name": "Pritika Auto Industries Limited",
     "sector": "Industrials",
     "industry": "Specialty Industrial Machinery",
-    "market_cap": 2689179648,
-    "current_price": 16.15,
-    "pe_ratio": 12.423077,
-    "pb_ratio": 1.0766666,
+    "market_cap": 2670863360,
+    "current_price": 16.04,
+    "pe_ratio": 12.338463,
+    "pb_ratio": 1.0693334,
     "roe": "N/A",
     "debt_to_equity": 70.81,
     "revenue": 5133035008,
@@ -16,6 +16,6 @@
     "eps": 1.3,
     "52_week_high": 20.99,
     "52_week_low": 10.41,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }

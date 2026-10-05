@@ -1,14 +1,14 @@
 {
   "ticker": "AVONMORE",
-  "collected_at": "2026-10-04 07:14:46",
+  "collected_at": "2026-10-05 07:29:58",
   "company_info": {
     "name": "Avonmore Capital & Management Services Limited",
     "sector": "Financial Services",
     "industry": "Capital Markets",
-    "market_cap": 3637361408,
-    "current_price": 12.89,
-    "pe_ratio": 23.87037,
-    "pb_ratio": 0.88172925,
+    "market_cap": 3499090688,
+    "current_price": 12.4,
+    "pe_ratio": 22.962961,
+    "pb_ratio": 0.84821117,
     "roe": "N/A",
     "debt_to_equity": 4.926,
     "revenue": 2019900032,
@@ -16,6 +16,6 @@
     "eps": 0.54,
     "52_week_high": 20.39,
     "52_week_low": 9.05,
-    "dividend_yield": "N/A"
+    "dividend_yield": 0.0
   }
 }
