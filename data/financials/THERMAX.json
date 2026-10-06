@@ -1,14 +1,14 @@
 {
   "ticker": "THERMAX",
-  "collected_at": "2026-10-05 08:04:55",
+  "collected_at": "2026-10-06 08:24:57",
   "company_info": {
     "name": "Thermax Limited",
     "sector": "Industrials",
     "industry": "Conglomerates",
-    "market_cap": 366953037824,
-    "current_price": 3257.5,
-    "pe_ratio": 61.859097,
-    "pb_ratio": 6.6133676,
+    "market_cap": 362841374720,
+    "current_price": 3221.0,
+    "pe_ratio": 61.16597,
+    "pb_ratio": 6.539265,
     "roe": "N/A",
     "debt_to_equity": 42.166,
     "revenue": 108393496576,
@@ -16,6 +16,6 @@
     "eps": 52.66,
     "52_week_high": 5277.8,
     "52_week_low": 2742.7,
-    "dividend_yield": 0.42
+    "dividend_yield": 0.43
   }
 }

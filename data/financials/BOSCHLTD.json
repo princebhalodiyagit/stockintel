@@ -1,14 +1,14 @@
 {
   "ticker": "BOSCHLTD",
-  "collected_at": "2026-10-05 07:32:22",
+  "collected_at": "2026-10-06 07:57:36",
   "company_info": {
     "name": "Bosch Limited",
     "sector": "Consumer Cyclical",
     "industry": "Auto Parts",
-    "market_cap": 1326292140032,
-    "current_price": 44965.0,
-    "pe_ratio": 56.11716,
-    "pb_ratio": 8.933404,
+    "market_cap": "N/A",
+    "current_price": 45060.0,
+    "pe_ratio": 56.235725,
+    "pb_ratio": 8.952277,
     "roe": "N/A",
     "debt_to_equity": 0.8,
     "revenue": 208610000896,
@@ -16,6 +16,6 @@
     "eps": 801.27,
     "52_week_high": 50000.0,
     "52_week_low": 28610.0,
-    "dividend_yield": 0.59
+    "dividend_yield": 0.6
   }
 }

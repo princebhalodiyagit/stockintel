@@ -1,14 +1,14 @@
 {
   "ticker": "ICRA",
-  "collected_at": "2026-10-05 07:42:44",
+  "collected_at": "2026-10-06 08:06:20",
   "company_info": {
     "name": "ICRA Limited",
     "sector": "Financial Services",
     "industry": "Financial Data & Stock Exchanges",
-    "market_cap": 41361960960,
-    "current_price": 4297.3,
-    "pe_ratio": 21.217043,
-    "pb_ratio": 3.5025387,
+    "market_cap": 41821081600,
+    "current_price": 4345.0,
+    "pe_ratio": 21.452553,
+    "pb_ratio": 3.541547,
     "roe": "N/A",
     "debt_to_equity": 1.553,
     "revenue": 6383874048,
@@ -16,6 +16,6 @@
     "eps": 202.54,
     "52_week_high": 6620.0,
     "52_week_low": 4198.2,
-    "dividend_yield": 1.62
+    "dividend_yield": 1.63
   }
 }

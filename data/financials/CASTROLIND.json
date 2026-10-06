@@ -1,14 +1,14 @@
 {
   "ticker": "CASTROLIND",
-  "collected_at": "2026-10-05 07:33:02",
+  "collected_at": "2026-10-06 07:58:09",
   "company_info": {
     "name": "Castrol India Limited",
     "sector": "Energy",
     "industry": "Oil & Gas Refining & Marketing",
-    "market_cap": 197577195520,
-    "current_price": 199.75,
-    "pe_ratio": 18.61603,
-    "pb_ratio": 10.365853,
+    "market_cap": 196924375040,
+    "current_price": 199.09,
+    "pe_ratio": 18.55452,
+    "pb_ratio": 10.331603,
     "roe": 0.56996,
     "debt_to_equity": 2.784,
     "revenue": 62250000384,
@@ -16,6 +16,6 @@
     "eps": 10.73,
     "52_week_high": 207.2,
     "52_week_low": 170.1,
-    "dividend_yield": 6.28
+    "dividend_yield": 6.27
   }
 }
