@@ -1,14 +1,14 @@
 {
   "ticker": "ULTRACEMCO",
-  "collected_at": "2026-10-06 08:26:06",
+  "collected_at": "2026-10-07 08:10:07",
   "company_info": {
     "name": "UltraTech Cement Limited",
     "sector": "Basic Materials",
     "industry": "Building Materials",
-    "market_cap": 3174384533504,
-    "current_price": 10791.0,
-    "pe_ratio": 37.194954,
-    "pb_ratio": 4.1422563,
+    "market_cap": 3127023239168,
+    "current_price": 10630.0,
+    "pe_ratio": 36.64001,
+    "pb_ratio": 4.0804543,
     "roe": "N/A",
     "debt_to_equity": 29.432,
     "revenue": 918842769408,
@@ -16,6 +16,6 @@
     "eps": 290.12,
     "52_week_high": 13110.0,
     "52_week_low": 10325.0,
-    "dividend_yield": 2.21
+    "dividend_yield": 2.23
   }
 }

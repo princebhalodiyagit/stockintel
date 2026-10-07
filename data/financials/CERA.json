@@ -1,14 +1,14 @@
 {
   "ticker": "CERA",
-  "collected_at": "2026-10-06 07:58:28",
+  "collected_at": "2026-10-07 07:38:24",
   "company_info": {
     "name": "Cera Sanitaryware Limited",
     "sector": "Industrials",
     "industry": "Building Products & Equipment",
-    "market_cap": 65912668160,
-    "current_price": 5111.5,
-    "pe_ratio": 32.48284,
-    "pb_ratio": 4.4776254,
+    "market_cap": 65500028928,
+    "current_price": 5079.5,
+    "pe_ratio": 32.279488,
+    "pb_ratio": 4.4495935,
     "roe": "N/A",
     "debt_to_equity": 3.172,
     "revenue": 21307930624,
@@ -16,6 +16,6 @@
     "eps": 157.36,
     "52_week_high": 6740.0,
     "52_week_low": 4461.1,
-    "dividend_yield": 1.48
+    "dividend_yield": 1.46
   }
 }

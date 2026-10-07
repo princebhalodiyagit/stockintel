@@ -1,14 +1,14 @@
 {
   "ticker": "SCI",
-  "collected_at": "2026-10-06 08:20:36",
+  "collected_at": "2026-10-07 08:03:48",
   "company_info": {
     "name": "The Shipping Corporation of India Limited",
     "sector": "Industrials",
     "industry": "Marine Shipping",
-    "market_cap": 135500931072,
-    "current_price": 290.9,
-    "pe_ratio": 8.373632,
-    "pb_ratio": 1.4889697,
+    "market_cap": 132822581248,
+    "current_price": 285.15,
+    "pe_ratio": 8.208117,
+    "pb_ratio": 1.4595383,
     "roe": "N/A",
     "debt_to_equity": 29.454,
     "revenue": 63103098880,
@@ -16,6 +16,6 @@
     "eps": 34.74,
     "52_week_high": 368.75,
     "52_week_low": 195.55,
-    "dividend_yield": 2.58
+    "dividend_yield": 2.6
   }
 }

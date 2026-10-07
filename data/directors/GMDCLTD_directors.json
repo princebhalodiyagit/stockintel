@@ -1,15 +1,8 @@
 {
   "ticker": "GMDCLTD",
   "company": "Gujarat Mineral Development Corporation Limited",
-  "collected_at": "2026-10-06 08:03:46",
+  "collected_at": "2026-10-07 07:44:28",
   "directors": [
-    {
-      "name": "Mr. Roopwant  Singh I.A.S.",
-      "role": "MD & Director",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
     {
       "name": "Ms. Anupma K. Iyer",
       "role": "CFO & GM of Accounts",
@@ -71,6 +64,13 @@
       "role": "Chief Security Officer",
       "age": 62,
       "year_born": 1963,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sureshkumar Madanlal Joshi",
+      "role": "General Manager of Geology",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

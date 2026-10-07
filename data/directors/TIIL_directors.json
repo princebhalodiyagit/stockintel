@@ -1,7 +1,7 @@
 {
   "ticker": "TIIL",
   "company": "Technocraft Industries (India) Limited",
-  "collected_at": "2026-10-06 08:25:04",
+  "collected_at": "2026-10-07 08:08:55",
   "directors": [
     {
       "name": "Mr. Sudarshan Kumar Saraf B.Tech",
@@ -46,13 +46,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Ketan  Oza",
-      "role": "General Manager of Marketing",
-      "age": 55,
-      "year_born": 1970,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Subhash  Khandelwal",
       "role": "President of Corporate",
       "age": 63,
@@ -72,6 +65,13 @@
       "age": 63,
       "year_born": 1962,
       "total_pay": 880000
+    },
+    {
+      "name": "Mr. Mudit  Raniwala",
+      "role": "President of Scaffolding & Formwork",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

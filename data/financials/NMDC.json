@@ -1,14 +1,14 @@
 {
   "ticker": "NMDC",
-  "collected_at": "2026-10-06 08:14:54",
+  "collected_at": "2026-10-07 07:57:18",
   "company_info": {
     "name": "NMDC Limited",
     "sector": "Basic Materials",
     "industry": "Steel",
-    "market_cap": 652528713728,
-    "current_price": 74.22,
-    "pe_ratio": 8.74205,
-    "pb_ratio": 1.9121968,
+    "market_cap": 639692636160,
+    "current_price": 72.76,
+    "pe_ratio": 8.570083,
+    "pb_ratio": 1.8745815,
     "roe": "N/A",
     "debt_to_equity": 18.802,
     "revenue": 321272807424,
@@ -16,6 +16,6 @@
     "eps": 8.49,
     "52_week_high": 97.49,
     "52_week_low": 72.24,
-    "dividend_yield": 2.71
+    "dividend_yield": 2.69
   }
 }

@@ -1,15 +1,8 @@
 {
   "ticker": "INTENTECH",
   "company": "Intense Technologies Limited",
-  "collected_at": "2026-10-06 08:07:30",
+  "collected_at": "2026-10-07 07:48:45",
   "directors": [
-    {
-      "name": "Ms. Anisha Shastri Chidella",
-      "role": "CEO & Executive Director",
-      "age": 35,
-      "year_born": 1990,
-      "total_pay": 3976056
-    },
     {
       "name": "Mr. Philips  Eapen",
       "role": "President & Chief Revenue Officer",
@@ -69,6 +62,13 @@
     {
       "name": "Mr. Phaneendra  Maduri",
       "role": "Head of Government Business",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Prashanth  A.",
+      "role": "Head of Innovation",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

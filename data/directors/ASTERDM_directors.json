@@ -1,7 +1,7 @@
 {
   "ticker": "ASTERDM",
   "company": "Aster DM Healthcare Limited",
-  "collected_at": "2026-10-06 07:55:10",
+  "collected_at": "2026-10-07 07:34:29",
   "directors": [
     {
       "name": "Dr. Mandayapurath Azad Moopen DTCD, M.D., MBBS",
@@ -18,25 +18,11 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Thadathil Joseph Wilson ACA",
-      "role": "Group Head of Governance & Corporate Affairs and Non-Executive Non-Independent Director",
-      "age": 64,
-      "year_born": 1961,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Ms. Alisha  Moopen",
       "role": "Deputy MD & Executive Director",
       "age": 44,
       "year_born": 1981,
       "total_pay": 3000000
-    },
-    {
-      "name": "Mr. S. Ramesh Kumar",
-      "role": "Chief Executive Officer of India I",
-      "age": 52,
-      "year_born": 1973,
-      "total_pay": "N/A"
     },
     {
       "name": "Dr. N.  Prashanth",
@@ -60,17 +46,31 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Sudeep  Dey",
-      "role": "Chief Information Officer",
-      "age": 45,
-      "year_born": 1980,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Pritpal  Singh",
       "role": "Chief of Internal Audit, Risk & Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rahul  Kadavakolu",
+      "role": "Group Chief Marketing Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. S V Kiran",
+      "role": "Group Chief People Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Malathi  Arshanapalai",
+      "role": "Group Chief Medical & Quality Officer",
+      "age": 71,
+      "year_born": 1954,
       "total_pay": "N/A"
     }
   ]

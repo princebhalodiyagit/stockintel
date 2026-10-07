@@ -1,14 +1,14 @@
 {
   "ticker": "PNB",
-  "collected_at": "2026-10-06 08:16:52",
+  "collected_at": "2026-10-07 07:59:33",
   "company_info": {
     "name": "Punjab National Bank",
     "sector": "Financial Services",
     "industry": "Banks - Regional",
-    "market_cap": 1281003356160,
-    "current_price": 111.46,
-    "pe_ratio": 5.8112617,
-    "pb_ratio": 0.81923354,
+    "market_cap": 1305943080960,
+    "current_price": 113.63,
+    "pe_ratio": 5.9244003,
+    "pb_ratio": 0.8351831,
     "roe": 0.14965999,
     "debt_to_equity": "N/A",
     "revenue": 579009773568,
@@ -16,6 +16,6 @@
     "eps": 19.18,
     "52_week_high": 135.15,
     "52_week_low": 98.5,
-    "dividend_yield": 2.67
+    "dividend_yield": 2.68
   }
 }
