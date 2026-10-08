@@ -1,14 +1,14 @@
 {
   "ticker": "HEXT",
-  "collected_at": "2026-10-07 07:46:31",
+  "collected_at": "2026-10-08 08:02:03",
   "company_info": {
     "name": "Hexaware Technologies Limited",
     "sector": "Technology",
     "industry": "Information Technology Services",
-    "market_cap": 305810702336,
-    "current_price": 501.5,
-    "pe_ratio": 23.004587,
-    "pb_ratio": 4.5563984,
+    "market_cap": 312518410240,
+    "current_price": 512.5,
+    "pe_ratio": 23.509174,
+    "pb_ratio": 4.656339,
     "roe": 0.21473,
     "debt_to_equity": 10.18,
     "revenue": 144200007680,
@@ -16,6 +16,6 @@
     "eps": 21.8,
     "52_week_high": 807.75,
     "52_week_low": 400.2,
-    "dividend_yield": 2.85
+    "dividend_yield": 2.82
   }
 }

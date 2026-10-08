@@ -1,14 +1,14 @@
 {
   "ticker": "TEMBO",
-  "collected_at": "2026-10-07 08:08:28",
+  "collected_at": "2026-10-08 08:22:28",
   "company_info": {
     "name": "Tembo Global Industries Limited",
     "sector": "Industrials",
     "industry": "Metal Fabrication",
-    "market_cap": 11032463360,
-    "current_price": 57.0,
-    "pe_ratio": 12.076272,
-    "pb_ratio": 1.8685462,
+    "market_cap": 10962784256,
+    "current_price": 56.64,
+    "pe_ratio": 12.0,
+    "pb_ratio": 1.8567449,
     "roe": "N/A",
     "debt_to_equity": 78.443,
     "revenue": 11444140032,
@@ -16,6 +16,6 @@
     "eps": 4.72,
     "52_week_high": 83.7,
     "52_week_low": 43.335,
-    "dividend_yield": 0.17
+    "dividend_yield": 0.18
   }
 }

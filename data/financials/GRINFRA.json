@@ -1,14 +1,14 @@
 {
   "ticker": "GRINFRA",
-  "collected_at": "2026-10-07 07:45:19",
+  "collected_at": "2026-10-08 08:00:55",
   "company_info": {
     "name": "G R Infraprojects Limited",
     "sector": "Industrials",
     "industry": "Engineering & Construction",
-    "market_cap": 77505183744,
-    "current_price": 801.0,
-    "pe_ratio": 7.6285715,
-    "pb_ratio": 0.82630134,
+    "market_cap": 76503711744,
+    "current_price": 790.65,
+    "pe_ratio": 7.53,
+    "pb_ratio": 0.8156244,
     "roe": "N/A",
     "debt_to_equity": 51.877,
     "revenue": 91979915264,
@@ -16,6 +16,6 @@
     "eps": 105.0,
     "52_week_high": 1309.8,
     "52_week_low": 775.0,
-    "dividend_yield": 0.61
+    "dividend_yield": 0.63
   }
 }

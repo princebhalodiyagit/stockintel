@@ -1,14 +1,14 @@
 {
   "ticker": "HDFCAMC",
-  "collected_at": "2026-10-07 07:46:13",
+  "collected_at": "2026-10-08 08:01:47",
   "company_info": {
     "name": "HDFC Asset Management Company Limited",
     "sector": "Financial Services",
     "industry": "Asset Management",
-    "market_cap": 990644731904,
-    "current_price": 2308.8,
-    "pe_ratio": 33.68544,
-    "pb_ratio": 10.717519,
+    "market_cap": 966530826240,
+    "current_price": 2252.6,
+    "pe_ratio": 32.865482,
+    "pb_ratio": 10.456636,
     "roe": "N/A",
     "debt_to_equity": 2.364,
     "revenue": 47832199168,
@@ -16,6 +16,6 @@
     "eps": 68.54,
     "52_week_high": 2967.25,
     "52_week_low": 2205.6,
-    "dividend_yield": 2.3
+    "dividend_yield": 2.33
   }
 }
