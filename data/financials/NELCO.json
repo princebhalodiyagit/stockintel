@@ -1,14 +1,14 @@
 {
   "ticker": "NELCO",
-  "collected_at": "2026-10-08 08:11:28",
+  "collected_at": "2026-10-09 08:10:07",
   "company_info": {
     "name": "Nelco Limited",
     "sector": "Technology",
     "industry": "Communication Equipment",
-    "market_cap": 19952408576,
-    "current_price": 874.4,
-    "pe_ratio": 517.3964,
-    "pb_ratio": 15.487346,
+    "market_cap": 19338594304,
+    "current_price": 847.5,
+    "pe_ratio": 501.47928,
+    "pb_ratio": 15.010893,
     "roe": "N/A",
     "debt_to_equity": 56.54,
     "revenue": 3118400000,
@@ -16,6 +16,6 @@
     "eps": 1.69,
     "52_week_high": 1120.0,
     "52_week_low": 500.1,
-    "dividend_yield": 0.11
+    "dividend_yield": 0.12
   }
 }

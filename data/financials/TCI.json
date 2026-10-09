@@ -1,14 +1,14 @@
 {
   "ticker": "TCI",
-  "collected_at": "2026-10-08 08:22:12",
+  "collected_at": "2026-10-09 08:21:59",
   "company_info": {
     "name": "Transport Corporation of India Limited",
     "sector": "Industrials",
     "industry": "Integrated Freight & Logistics",
-    "market_cap": 67611406336,
-    "current_price": 880.0,
-    "pe_ratio": 14.809829,
-    "pb_ratio": 2.6319096,
+    "market_cap": 65379463168,
+    "current_price": 850.95,
+    "pe_ratio": 14.320936,
+    "pb_ratio": 2.5450265,
     "roe": "N/A",
     "debt_to_equity": 11.991,
     "revenue": 50405650432,
@@ -16,6 +16,6 @@
     "eps": 59.42,
     "52_week_high": 1242.0,
     "52_week_low": 797.0,
-    "dividend_yield": 1.13
+    "dividend_yield": 1.14
   }
 }

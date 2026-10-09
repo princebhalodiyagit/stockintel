@@ -1,7 +1,7 @@
 {
   "ticker": "PPLPHARMA",
   "company": "Piramal Pharma Limited",
-  "collected_at": "2026-10-08 08:14:36",
+  "collected_at": "2026-10-09 08:13:35",
   "directors": [
     {
       "name": "Ms. Nandini Ajay Piramal",
@@ -29,13 +29,6 @@
       "role": "Senior Vice President of Operations",
       "age": 61,
       "year_born": 1964,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Viral  Gandhi",
-      "role": "President & Group CIO of Piramal Group",
-      "age": 51,
-      "year_born": 1974,
       "total_pay": "N/A"
     },
     {
@@ -71,6 +64,13 @@
       "role": "Chief Human Resources Officer",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Debashish  Chakravorty",
+      "role": "Executive Vice President of India & UK Formulations",
+      "age": 58,
+      "year_born": 1967,
       "total_pay": "N/A"
     }
   ]
