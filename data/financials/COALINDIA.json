@@ -1,14 +1,14 @@
 {
   "ticker": "COALINDIA",
-  "collected_at": "2026-10-09 07:52:06",
+  "collected_at": "2026-10-10 07:39:11",
   "company_info": {
     "name": "Coal India Limited",
     "sector": "Energy",
     "industry": "Thermal Coal",
-    "market_cap": 2534730104832,
-    "current_price": 411.3,
-    "pe_ratio": 8.123642,
-    "pb_ratio": 2.1280007,
+    "market_cap": 2536270725120,
+    "current_price": 411.55,
+    "pe_ratio": 8.128579,
+    "pb_ratio": 2.1292942,
     "roe": "N/A",
     "debt_to_equity": 11.629,
     "revenue": 1717358952448,
@@ -16,6 +16,6 @@
     "eps": 50.63,
     "52_week_high": 491.25,
     "52_week_low": 369.6,
-    "dividend_yield": 6.47
+    "dividend_yield": 6.44
   }
 }

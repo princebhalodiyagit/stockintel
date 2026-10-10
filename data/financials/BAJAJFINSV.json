@@ -1,14 +1,14 @@
 {
   "ticker": "BAJAJFINSV",
-  "collected_at": "2026-10-09 07:48:30",
+  "collected_at": "2026-10-10 07:35:18",
   "company_info": {
     "name": "Bajaj Finserv Ltd.",
     "sector": "Financial Services",
     "industry": "Financial Conglomerates",
-    "market_cap": 2786026061824,
-    "current_price": 1741.0,
-    "pe_ratio": 27.639307,
-    "pb_ratio": 3.5723667,
+    "market_cap": 2775944527872,
+    "current_price": 1734.7,
+    "pe_ratio": 27.539291,
+    "pb_ratio": 3.5594397,
     "roe": "N/A",
     "debt_to_equity": 256.404,
     "revenue": 1567607357440,
@@ -16,6 +16,6 @@
     "eps": 62.99,
     "52_week_high": 2195.0,
     "52_week_low": 1597.0,
-    "dividend_yield": 0.08
+    "dividend_yield": 0.07
   }
 }

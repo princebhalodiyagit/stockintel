@@ -1,14 +1,14 @@
 {
   "ticker": "EMAMILTD",
-  "collected_at": "2026-10-09 07:55:11",
+  "collected_at": "2026-10-10 07:42:33",
   "company_info": {
     "name": "Emami Limited",
     "sector": "Consumer Defensive",
     "industry": "Household & Personal Products",
-    "market_cap": 158267506688,
-    "current_price": 368.75,
-    "pe_ratio": 21.50146,
-    "pb_ratio": 5.5047994,
+    "market_cap": 158567940096,
+    "current_price": 369.45,
+    "pe_ratio": 21.542274,
+    "pb_ratio": 5.5152493,
     "roe": "N/A",
     "debt_to_equity": 5.541,
     "revenue": 39146340352,
@@ -16,6 +16,6 @@
     "eps": 17.15,
     "52_week_high": 556.15,
     "52_week_low": 361.15,
-    "dividend_yield": 2.72
+    "dividend_yield": 2.71
   }
 }

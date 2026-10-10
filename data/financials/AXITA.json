@@ -1,14 +1,14 @@
 {
   "ticker": "AXITA",
-  "collected_at": "2026-10-09 07:48:19",
+  "collected_at": "2026-10-10 07:35:07",
   "company_info": {
     "name": "Axita Cotton Limited",
     "sector": "Consumer Cyclical",
     "industry": "Textile Manufacturing",
-    "market_cap": 2839437568,
-    "current_price": 7.42,
-    "pe_ratio": 82.44444,
-    "pb_ratio": 4.3724217,
+    "market_cap": 2824130816,
+    "current_price": 7.38,
+    "pe_ratio": 82.0,
+    "pb_ratio": 4.3488507,
     "roe": "N/A",
     "debt_to_equity": "N/A",
     "revenue": 2719809024,
@@ -16,6 +16,6 @@
     "eps": 0.09,
     "52_week_high": 12.2,
     "52_week_low": 6.57,
-    "dividend_yield": 0.67
+    "dividend_yield": 0.68
   }
 }

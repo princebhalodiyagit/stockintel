@@ -1,14 +1,14 @@
 {
   "ticker": "CIPLA",
-  "collected_at": "2026-10-09 07:51:58",
+  "collected_at": "2026-10-10 07:39:02",
   "company_info": {
     "name": "Cipla Limited",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - Specialty & Generic",
-    "market_cap": 1055725322240,
-    "current_price": 1306.8,
-    "pe_ratio": 31.33813,
-    "pb_ratio": 3.0657852,
+    "market_cap": 1051039629312,
+    "current_price": 1301.0,
+    "pe_ratio": 31.19904,
+    "pb_ratio": 3.052178,
     "roe": "N/A",
     "debt_to_equity": 1.778,
     "revenue": 280678203392,
@@ -16,6 +16,6 @@
     "eps": 41.7,
     "52_week_high": 1673.0,
     "52_week_low": 1165.7,
-    "dividend_yield": 0.99
+    "dividend_yield": 1.0
   }
 }

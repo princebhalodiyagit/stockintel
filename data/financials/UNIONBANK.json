@@ -1,14 +1,14 @@
 {
   "ticker": "UNIONBANK",
-  "collected_at": "2026-10-09 08:24:07",
+  "collected_at": "2026-10-10 08:13:33",
   "company_info": {
     "name": "Union Bank of India",
     "sector": "Financial Services",
     "industry": "Banks - Regional",
-    "market_cap": 1321987735552,
-    "current_price": 173.18,
-    "pe_ratio": 6.402218,
-    "pb_ratio": 0.9475296,
+    "market_cap": 1321071804416,
+    "current_price": 173.06,
+    "pe_ratio": 6.397782,
+    "pb_ratio": 0.94687307,
     "roe": 0.15798001,
     "debt_to_equity": "N/A",
     "revenue": 510219583488,
@@ -16,6 +16,6 @@
     "eps": 27.05,
     "52_week_high": 205.49,
     "52_week_low": 135.8,
-    "dividend_yield": 2.92
+    "dividend_yield": 2.89
   }
 }

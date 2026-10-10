@@ -1,14 +1,14 @@
 {
   "ticker": "BANKINDIA",
-  "collected_at": "2026-10-09 07:49:00",
+  "collected_at": "2026-10-10 07:35:49",
   "company_info": {
     "name": "Bank of India",
     "sector": "Financial Services",
     "industry": "Banks - Regional",
-    "market_cap": 606369808384,
-    "current_price": 133.19,
-    "pe_ratio": 5.1484346,
-    "pb_ratio": 0.6668002,
+    "market_cap": 612151721984,
+    "current_price": 134.46,
+    "pe_ratio": 5.197526,
+    "pb_ratio": 0.67315835,
     "roe": 0.13697,
     "debt_to_equity": "N/A",
     "revenue": 336627073024,
@@ -16,6 +16,6 @@
     "eps": 25.87,
     "52_week_high": 178.36,
     "52_week_low": 122.2,
-    "dividend_yield": 3.51
+    "dividend_yield": 3.46
   }
 }
