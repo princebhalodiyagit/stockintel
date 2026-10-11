@@ -1,7 +1,7 @@
 {
   "ticker": "TCIFINANCE",
   "company": "TCI Finance Limited",
-  "collected_at": "2026-10-10 08:11:18",
+  "collected_at": "2026-10-11 08:08:53",
   "directors": [
     {
       "name": "Mr. Amit Kumar Ray",
@@ -9,20 +9,6 @@
       "age": 46,
       "year_born": 1979,
       "total_pay": 1484000
-    },
-    {
-      "name": "Mr. Sardar Jasminder Singh",
-      "role": "Company Secretary & Compliance Officer",
-      "age": 46,
-      "year_born": 1979,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ms. D N V Sai Anusha",
-      "role": "Chief Financial Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
     }
   ]
 }

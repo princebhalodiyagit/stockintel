@@ -1,28 +1,14 @@
 {
   "ticker": "IRCON",
   "company": "Ircon International Limited",
-  "collected_at": "2026-10-10 07:50:12",
+  "collected_at": "2026-10-11 07:51:36",
   "directors": [
-    {
-      "name": "Ms. Ragini  Advani",
-      "role": "Director of Finance & Director",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 7579499
-    },
     {
       "name": "Mr. Ajit Kumar Mishra",
       "role": "Director of Works & Director",
       "age": 52,
       "year_born": 1973,
       "total_pay": 6101483
-    },
-    {
-      "name": "Mr. Rajesh  Naik",
-      "role": "Director of Projects & Director",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 5001940
     },
     {
       "name": "Mr. Saleem  Ahmad",
@@ -69,6 +55,20 @@
     {
       "name": "Surendra  Yadav",
       "role": "Chief General Manager of Electrical",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Sanjay Kumar Gupta",
+      "role": "Chief General Manager of Finance",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pawan Kumar Suman",
+      "role": "Chief General Manager of S&T",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
