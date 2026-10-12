@@ -1,14 +1,14 @@
 {
   "ticker": "STEELCAS",
-  "collected_at": "2026-10-11 08:07:18",
+  "collected_at": "2026-10-12 08:26:06",
   "company_info": {
     "name": "Steelcast Limited",
     "sector": "Basic Materials",
     "industry": "Steel",
-    "market_cap": 36077801472,
-    "current_price": 356.5,
-    "pe_ratio": 39.8324,
-    "pb_ratio": 9.133297,
+    "market_cap": 36452241408,
+    "current_price": 360.2,
+    "pe_ratio": 40.24581,
+    "pb_ratio": 9.228089,
     "roe": "N/A",
     "debt_to_equity": "N/A",
     "revenue": 4413003776,
@@ -16,6 +16,6 @@
     "eps": 8.95,
     "52_week_high": 390.9,
     "52_week_low": 176.02,
-    "dividend_yield": 0.5
+    "dividend_yield": 0.48
   }
 }

@@ -1,14 +1,14 @@
 {
   "ticker": "GANESHCP",
-  "collected_at": "2026-10-11 07:46:47",
+  "collected_at": "2026-10-12 07:58:04",
   "company_info": {
     "name": "Ganesh Consumer Products Limited",
     "sector": "Consumer Defensive",
     "industry": "Packaged Foods",
-    "market_cap": 6146000384,
-    "current_price": 152.08,
-    "pe_ratio": 13.48227,
-    "pb_ratio": 1.6518047,
+    "market_cap": 6264006144,
+    "current_price": 155.0,
+    "pe_ratio": 13.741135,
+    "pb_ratio": 1.68352,
     "roe": "N/A",
     "debt_to_equity": 7.166,
     "revenue": 8569890816,
@@ -16,6 +16,6 @@
     "eps": 11.28,
     "52_week_high": 303.1,
     "52_week_low": 144.5,
-    "dividend_yield": 3.29
+    "dividend_yield": 3.32
   }
 }

@@ -1,7 +1,7 @@
 {
   "ticker": "PETRONET",
   "company": "Petronet LNG Limited",
-  "collected_at": "2026-10-11 08:00:39",
+  "collected_at": "2026-10-12 08:17:42",
   "directors": [
     {
       "name": "Mr. Akshay Kumar Singh",
@@ -53,6 +53,13 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. Sanjay  Kumar",
+      "role": "GGM & President (Plant Head) - Dahej",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Yogananda  Reddy",
       "role": "CGM & Vice-President (Technical-HSE) and Chief Risk Officer",
       "age": 58,
@@ -64,13 +71,6 @@
       "role": "GGM & President (Projects)",
       "age": 52,
       "year_born": 1973,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Vikas  Singh",
-      "role": "CGM & Vice President (Shipping & CSR)",
-      "age": 49,
-      "year_born": 1976,
       "total_pay": "N/A"
     }
   ]

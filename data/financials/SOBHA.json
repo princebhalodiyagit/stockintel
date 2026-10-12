@@ -1,14 +1,14 @@
 {
   "ticker": "SOBHA",
-  "collected_at": "2026-10-11 08:06:31",
+  "collected_at": "2026-10-12 08:25:10",
   "company_info": {
     "name": "Sobha Limited",
     "sector": "Real Estate",
     "industry": "Real Estate - Development",
-    "market_cap": 124248260608,
-    "current_price": 1161.7,
-    "pe_ratio": 53.882187,
-    "pb_ratio": 2.6324136,
+    "market_cap": 124815122432,
+    "current_price": 1167.0,
+    "pe_ratio": 54.128017,
+    "pb_ratio": 2.6444235,
     "roe": "N/A",
     "debt_to_equity": 24.62,
     "revenue": 56167161856,
@@ -16,6 +16,6 @@
     "eps": 21.56,
     "52_week_high": 1732.0,
     "52_week_low": 1130.0,
-    "dividend_yield": 0.52
+    "dividend_yield": 0.5
   }
 }

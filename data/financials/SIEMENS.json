@@ -1,14 +1,14 @@
 {
   "ticker": "SIEMENS",
-  "collected_at": "2026-10-11 08:05:56",
+  "collected_at": "2026-10-12 08:24:27",
   "company_info": {
     "name": "Siemens Limited",
     "sector": "Industrials",
     "industry": "Specialty Industrial Machinery",
-    "market_cap": 1280253231104,
-    "current_price": 3595.0,
-    "pe_ratio": 88.134346,
-    "pb_ratio": 9.250254,
+    "market_cap": 1310345396224,
+    "current_price": 3679.5,
+    "pe_ratio": 90.20593,
+    "pb_ratio": 9.467679,
     "roe": "N/A",
     "debt_to_equity": 2.213,
     "revenue": 173932003328,
@@ -16,6 +16,6 @@
     "eps": 40.79,
     "52_week_high": 4149.4,
     "52_week_low": 2826.0,
-    "dividend_yield": 0.5
+    "dividend_yield": 0.47
   }
 }

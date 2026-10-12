@@ -1,14 +1,14 @@
 {
   "ticker": "TATACONSUM",
-  "collected_at": "2026-10-11 08:08:40",
+  "collected_at": "2026-10-12 08:27:47",
   "company_info": {
     "name": "Tata Consumer Products Limited",
     "sector": "Consumer Defensive",
     "industry": "Packaged Foods",
-    "market_cap": 945153966080,
-    "current_price": 955.0,
-    "pe_ratio": 57.808716,
-    "pb_ratio": 4.3374786,
+    "market_cap": 948172488704,
+    "current_price": 958.05,
+    "pe_ratio": 57.99334,
+    "pb_ratio": 4.351331,
     "roe": "N/A",
     "debt_to_equity": 12.159,
     "revenue": 208604004352,
@@ -16,6 +16,6 @@
     "eps": 16.52,
     "52_week_high": 1282.7,
     "52_week_low": 945.0,
-    "dividend_yield": 1.05
+    "dividend_yield": 1.03
   }
 }

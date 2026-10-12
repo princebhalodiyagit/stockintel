@@ -1,14 +1,14 @@
 {
   "ticker": "HINDCOPPER",
-  "collected_at": "2026-10-11 07:49:31",
+  "collected_at": "2026-10-12 08:02:05",
   "company_info": {
     "name": "Hindustan Copper Limited",
     "sector": "Basic Materials",
     "industry": "Copper",
-    "market_cap": 453389221888,
-    "current_price": 468.85,
-    "pe_ratio": 39.936115,
-    "pb_ratio": 13.578049,
+    "market_cap": 454501269504,
+    "current_price": 470.0,
+    "pe_ratio": 40.034073,
+    "pb_ratio": 13.611353,
     "roe": "N/A",
     "debt_to_equity": 3.319,
     "revenue": 34980499456,
@@ -16,6 +16,6 @@
     "eps": 11.74,
     "52_week_high": 760.05,
     "52_week_low": 308.5,
-    "dividend_yield": 0.61
+    "dividend_yield": 0.6
   }
 }

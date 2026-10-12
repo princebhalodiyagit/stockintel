@@ -1,14 +1,14 @@
 {
   "ticker": "TRIDENT",
-  "collected_at": "2026-10-11 08:10:05",
+  "collected_at": "2026-10-12 08:29:27",
   "company_info": {
     "name": "Trident Limited",
     "sector": "Consumer Cyclical",
     "industry": "Textile Manufacturing",
-    "market_cap": 111899025408,
-    "current_price": 21.96,
-    "pe_ratio": 28.153847,
-    "pb_ratio": 2.3466551,
+    "market_cap": 112255721472,
+    "current_price": 22.03,
+    "pe_ratio": 28.243591,
+    "pb_ratio": 2.3541355,
     "roe": "N/A",
     "debt_to_equity": 38.323,
     "revenue": 67809898496,
@@ -16,6 +16,6 @@
     "eps": 0.78,
     "52_week_high": 30.94,
     "52_week_low": 21.6,
-    "dividend_yield": 2.28
+    "dividend_yield": 2.24
   }
 }

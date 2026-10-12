@@ -1,7 +1,7 @@
 {
   "ticker": "INDIAGLYCO",
   "company": "India Glycols Limited",
-  "collected_at": "2026-10-11 07:50:40",
+  "collected_at": "2026-10-12 08:03:46",
   "directors": [
     {
       "name": "Mr. Uma Shankar Bhartia",
@@ -22,6 +22,55 @@
       "role": "Chief Financial Officer",
       "age": 59,
       "year_born": 1966,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Atul  Govil",
+      "role": "CTO and Head of SAP & IT",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Alok  Singhal",
+      "role": "Whole-time Director",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": 10553721
+    },
+    {
+      "name": "Mr. Manoj Kumar Rai",
+      "role": "Chief Operating Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ankur  Jain",
+      "role": "Head of Legal, Compliance Officer & Company Secretary",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Dev Chander Jha",
+      "role": "Chief Human Resource Officer",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Prof. Rakesh Kumar Khandal",
+      "role": "President of R&D and Business Development",
+      "age": 67,
+      "year_born": 1958,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. R. K. Sharma",
+      "role": "Head of Sustainability",
+      "age": 61,
+      "year_born": 1964,
       "total_pay": "N/A"
     }
   ]

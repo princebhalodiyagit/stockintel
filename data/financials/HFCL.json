@@ -1,14 +1,14 @@
 {
   "ticker": "HFCL",
-  "collected_at": "2026-10-11 07:49:22",
+  "collected_at": "2026-10-12 08:01:53",
   "company_info": {
     "name": "HFCL Limited",
     "sector": "Technology",
     "industry": "Communication Equipment",
-    "market_cap": 398480637952,
-    "current_price": 260.4,
-    "pe_ratio": 67.8125,
-    "pb_ratio": 7.8544927,
+    "market_cap": 396338298880,
+    "current_price": 259.0,
+    "pe_ratio": 67.44792,
+    "pb_ratio": 7.8122644,
     "roe": "N/A",
     "debt_to_equity": 38.321,
     "revenue": 59932299264,
@@ -16,6 +16,6 @@
     "eps": 3.84,
     "52_week_high": 275.91,
     "52_week_low": 59.82,
-    "dividend_yield": 0.08
+    "dividend_yield": 0.07
   }
 }

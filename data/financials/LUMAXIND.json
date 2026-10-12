@@ -1,14 +1,14 @@
 {
   "ticker": "LUMAXIND",
-  "collected_at": "2026-10-11 07:55:24",
+  "collected_at": "2026-10-12 08:10:22",
   "company_info": {
     "name": "Lumax Industries Limited",
     "sector": "Consumer Cyclical",
     "industry": "Auto Parts",
-    "market_cap": 49262546944,
-    "current_price": 5270.0,
-    "pe_ratio": 26.29347,
-    "pb_ratio": 5.36919,
+    "market_cap": 50244059136,
+    "current_price": 5375.0,
+    "pe_ratio": 26.817343,
+    "pb_ratio": 5.4761667,
     "roe": "N/A",
     "debt_to_equity": 106.063,
     "revenue": 44853760000,
@@ -16,6 +16,6 @@
     "eps": 200.43,
     "52_week_high": 6934.5,
     "52_week_low": 4480.0,
-    "dividend_yield": 1.04
+    "dividend_yield": 1.02
   }
 }

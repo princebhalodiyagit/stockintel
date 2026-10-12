@@ -1,14 +1,14 @@
 {
   "ticker": "ARVIND",
-  "collected_at": "2026-10-11 07:38:04",
+  "collected_at": "2026-10-12 07:46:52",
   "company_info": {
     "name": "Arvind Limited",
     "sector": "Consumer Cyclical",
     "industry": "Textile Manufacturing",
-    "market_cap": 133547048960,
-    "current_price": 509.45,
-    "pe_ratio": 32.24367,
-    "pb_ratio": 3.3018777,
+    "market_cap": 139039965184,
+    "current_price": 511.1,
+    "pe_ratio": 32.348103,
+    "pb_ratio": 3.3125718,
     "roe": "N/A",
     "debt_to_equity": 40.071,
     "revenue": 97978302464,
@@ -16,6 +16,6 @@
     "eps": 15.8,
     "52_week_high": 607.15,
     "52_week_low": 277.9,
-    "dividend_yield": 0.88
+    "dividend_yield": 0.85
   }
 }

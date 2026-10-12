@@ -1,14 +1,14 @@
 {
   "ticker": "USHAMART",
-  "collected_at": "2026-10-11 08:10:55",
+  "collected_at": "2026-10-12 08:30:30",
   "company_info": {
     "name": "Usha Martin Limited",
     "sector": "Basic Materials",
     "industry": "Steel",
-    "market_cap": 152824168448,
-    "current_price": 502.05,
-    "pe_ratio": 28.754297,
-    "pb_ratio": 4.6283407,
+    "market_cap": 148669104128,
+    "current_price": 488.4,
+    "pe_ratio": 27.97251,
+    "pb_ratio": 4.502503,
     "roe": "N/A",
     "debt_to_equity": 6.922,
     "revenue": 38368698368,
@@ -16,6 +16,6 @@
     "eps": 17.46,
     "52_week_high": 542.6,
     "52_week_low": 380.0,
-    "dividend_yield": 0.75
+    "dividend_yield": 0.74
   }
 }

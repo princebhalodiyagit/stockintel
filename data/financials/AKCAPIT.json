@@ -1,14 +1,14 @@
 {
   "ticker": "AKCAPIT",
-  "collected_at": "2026-10-11 07:36:44",
+  "collected_at": "2026-10-12 07:45:20",
   "company_info": {
     "name": "A. K. Capital Services Limited",
     "sector": "Financial Services",
     "industry": "Capital Markets",
-    "market_cap": 11561220096,
-    "current_price": 1751.7,
-    "pe_ratio": 10.102077,
-    "pb_ratio": 1.1048584,
+    "market_cap": 11490599936,
+    "current_price": 1741.0,
+    "pe_ratio": 10.040369,
+    "pb_ratio": 1.0981095,
     "roe": "N/A",
     "debt_to_equity": 272.89,
     "revenue": 5771929088,
@@ -16,6 +16,6 @@
     "eps": 173.4,
     "52_week_high": 1800.0,
     "52_week_low": 1644.2,
-    "dividend_yield": 1.94
+    "dividend_yield": 1.95
   }
 }

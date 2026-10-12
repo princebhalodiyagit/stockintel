@@ -1,14 +1,14 @@
 {
   "ticker": "SBIN",
-  "collected_at": "2026-10-11 08:04:49",
+  "collected_at": "2026-10-12 08:23:03",
   "company_info": {
     "name": "State Bank of India",
     "sector": "Financial Services",
     "industry": "Banks - Regional",
-    "market_cap": 8853085224960,
-    "current_price": 959.1,
-    "pe_ratio": 10.279742,
-    "pb_ratio": 1.4234637,
+    "market_cap": 8696164777984,
+    "current_price": 942.1,
+    "pe_ratio": 10.097534,
+    "pb_ratio": 1.3982329,
     "roe": 0.15177,
     "debt_to_equity": "N/A",
     "revenue": 3852830244864,
@@ -16,6 +16,6 @@
     "eps": 93.3,
     "52_week_high": 1234.7,
     "52_week_low": 872.1,
-    "dividend_yield": 1.81
+    "dividend_yield": 1.85
   }
 }

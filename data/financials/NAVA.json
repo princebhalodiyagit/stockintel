@@ -1,14 +1,14 @@
 {
   "ticker": "NAVA",
-  "collected_at": "2026-10-11 07:58:11",
+  "collected_at": "2026-10-12 08:14:17",
   "company_info": {
     "name": "Nava Limited",
     "sector": "Industrials",
     "industry": "Conglomerates",
-    "market_cap": 155566948352,
-    "current_price": 549.1,
-    "pe_ratio": 20.534779,
-    "pb_ratio": 1.7769077,
+    "market_cap": 153470435328,
+    "current_price": 541.7,
+    "pe_ratio": 20.258041,
+    "pb_ratio": 1.752961,
     "roe": "N/A",
     "debt_to_equity": 20.684,
     "revenue": 43094896640,
@@ -16,6 +16,6 @@
     "eps": 26.74,
     "52_week_high": 739.4,
     "52_week_low": 501.65,
-    "dividend_yield": 1.55
+    "dividend_yield": 1.56
   }
 }

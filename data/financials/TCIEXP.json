@@ -1,14 +1,14 @@
 {
   "ticker": "TCIEXP",
-  "collected_at": "2026-10-11 08:08:52",
+  "collected_at": "2026-10-12 08:28:00",
   "company_info": {
     "name": "TCI Express Limited",
     "sector": "Industrials",
     "industry": "Integrated Freight & Logistics",
-    "market_cap": 17920747520,
-    "current_price": 466.15,
-    "pe_ratio": 21.304846,
-    "pb_ratio": 2.1872244,
+    "market_cap": 18053083136,
+    "current_price": 469.9,
+    "pe_ratio": 21.476234,
+    "pb_ratio": 2.2048197,
     "roe": "N/A",
     "debt_to_equity": 7.738,
     "revenue": 12640600064,
@@ -16,6 +16,6 @@
     "eps": 21.88,
     "52_week_high": 705.0,
     "52_week_low": 447.55,
-    "dividend_yield": 1.5
+    "dividend_yield": 1.47
   }
 }

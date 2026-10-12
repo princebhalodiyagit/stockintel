@@ -1,14 +1,14 @@
 {
   "ticker": "DBL",
-  "collected_at": "2026-10-11 07:43:24",
+  "collected_at": "2026-10-12 07:53:41",
   "company_info": {
     "name": "Dilip Buildcon Limited",
     "sector": "Industrials",
     "industry": "Engineering & Construction",
-    "market_cap": 64271298560,
-    "current_price": 395.65,
-    "pe_ratio": 5.02668,
-    "pb_ratio": 0.7586274,
+    "market_cap": 64108851200,
+    "current_price": 394.65,
+    "pe_ratio": 5.013975,
+    "pb_ratio": 0.75671,
     "roe": "N/A",
     "debt_to_equity": 115.513,
     "revenue": 87413686272,
@@ -16,6 +16,6 @@
     "eps": 78.71,
     "52_week_high": 528.25,
     "52_week_low": 381.55,
-    "dividend_yield": 0.25
+    "dividend_yield": 0.24
   }
 }
