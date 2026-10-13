@@ -1,32 +1,25 @@
 {
   "ticker": "KRONOX",
   "company": "Kronox Lab Sciences Limited",
-  "collected_at": "2026-10-12 08:09:01",
+  "collected_at": "2026-10-13 08:23:58",
   "directors": [
     {
-      "name": "Mr. Jogindersingh Gianchand Jaswal",
-      "role": "MD & Chairman",
-      "age": 59,
-      "year_born": 1966,
+      "name": "Mr. Suresh  Kalra",
+      "role": "MD & CEO and Additional Director",
+      "age": 51,
+      "year_born": 1974,
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Ketan Vinodchandra Ramani",
-      "role": "Executive Whole-time Director",
-      "age": 57,
-      "year_born": 1968,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Pritesh Vinodchandra Ramani",
-      "role": "Executive Whole-time Director",
-      "age": 50,
-      "year_born": 1975,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Samir  Gadhiya",
+      "name": "Mr. Shashikant  Bharuka",
       "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pravin Prabhakar Chavan",
+      "role": "Company Secretary & Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
@@ -36,6 +29,20 @@
       "role": "Marketing Manager",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Harsh  Malhotra",
+      "role": "Additional Executive & Non Independent Director",
+      "age": 32,
+      "year_born": 1993,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sunil  Malhotra",
+      "role": "Additional Whole-time Director",
+      "age": 60,
+      "year_born": 1965,
       "total_pay": "N/A"
     }
   ]

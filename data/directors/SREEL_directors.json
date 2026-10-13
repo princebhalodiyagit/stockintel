@@ -1,7 +1,7 @@
 {
   "ticker": "SREEL",
   "company": "Sreeleathers Limited",
-  "collected_at": "2026-10-12 08:25:44",
+  "collected_at": "2026-10-13 08:36:09",
   "directors": [
     {
       "name": "Mr. Satyabrata  Dey",
@@ -36,6 +36,13 @@
       "role": "Whole time Director",
       "age": 62,
       "year_born": 1963,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Soham  Dey",
+      "role": "Whole-Time Director",
+      "age": 26,
+      "year_born": 1999,
       "total_pay": "N/A"
     }
   ]

@@ -1,14 +1,21 @@
 {
   "ticker": "MAITHANALL",
   "company": "Maithan Alloys Limited",
-  "collected_at": "2026-10-12 08:11:02",
+  "collected_at": "2026-10-13 08:25:16",
   "directors": [
     {
       "name": "Mr. Subhas Chandra Agarwalla B.Com.",
-      "role": "Chairman & MD",
+      "role": "Executive Chairman",
       "age": 74,
       "year_born": 1951,
       "total_pay": 235100000
+    },
+    {
+      "name": "Mr. Subodh  Agarwalla B.Tech., M.B.A.",
+      "role": "CEO & MD",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": 233300000
     },
     {
       "name": "Mr. Sudhanshu  Agarwalla M.B.A.",

@@ -1,7 +1,7 @@
 {
   "ticker": "PGHH",
   "company": "Procter & Gamble Hygiene and Health Care Limited",
-  "collected_at": "2026-10-12 08:17:50",
+  "collected_at": "2026-10-13 08:30:03",
   "directors": [
     {
       "name": "Mr. Kumar  Venkatasubramanian",
@@ -20,6 +20,13 @@
     {
       "name": "Mr. John T. Chevalier",
       "role": "Chief Investor Relations Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Flavia Peter Machado",
+      "role": "Company Secretary & Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
@@ -62,13 +69,6 @@
     {
       "name": "Mr. Sachan  Saini",
       "role": "Government Relations Head",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Ankur  Bhagat",
-      "role": "Supply Network Operations Head",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

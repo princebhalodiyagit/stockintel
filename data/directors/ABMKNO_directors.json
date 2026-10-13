@@ -1,7 +1,7 @@
 {
   "ticker": "ABMKNO",
   "company": "ABM Knowledgeware Limited",
-  "collected_at": "2026-10-12 07:44:10",
+  "collected_at": "2026-10-13 08:06:09",
   "directors": [
     {
       "name": "Mr. Prakash Baburao Rane B.Tech., M.M.S.",
@@ -16,6 +16,34 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 858400
+    },
+    {
+      "name": "Ms. Sarika Abhijit Ghanekar",
+      "role": "Compliance Officer & Company Secretary",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 965490
+    },
+    {
+      "name": "Ramchandra  Patil",
+      "role": "Head of HR",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Venkat  Sitaram",
+      "role": "Head IT Infra",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Govind Singh Chauhan",
+      "role": "Executive Director of Business Development",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "ticker": "RVHL",
   "company": "Ravinder Heights Limited",
-  "collected_at": "2026-10-12 08:21:54",
+  "collected_at": "2026-10-13 08:33:12",
   "directors": [
     {
       "name": "Ms. Sunanda  Jain",
@@ -16,6 +16,13 @@
       "age": 54,
       "year_born": 1971,
       "total_pay": 2304000
+    },
+    {
+      "name": "Ms. Akansha  Gupta",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Sumit  Jain",

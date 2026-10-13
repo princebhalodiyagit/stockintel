@@ -1,15 +1,8 @@
 {
   "ticker": "COLPAL",
   "company": "Colgate Palmolive (India) Limited",
-  "collected_at": "2026-10-12 07:52:38",
+  "collected_at": "2026-10-13 08:12:44",
   "directors": [
-    {
-      "name": "Ms. Prabha  Narasimhan",
-      "role": "MD, CEO & Director",
-      "age": 53,
-      "year_born": 1972,
-      "total_pay": 76222000
-    },
     {
       "name": "Mr. Madukkakuzy Sebastian Jacob",
       "role": "CFO & Whole-Time Director",
@@ -23,6 +16,13 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 1800000
+    },
+    {
+      "name": "Mr. Manish  Anandani",
+      "role": "MD, CEO & Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Priyan  Pillay",

@@ -1,7 +1,7 @@
 {
   "ticker": "INDIAGLYCO",
   "company": "India Glycols Limited",
-  "collected_at": "2026-10-12 08:03:46",
+  "collected_at": "2026-10-13 08:20:27",
   "directors": [
     {
       "name": "Mr. Uma Shankar Bhartia",
@@ -25,6 +25,13 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. Alok  Singhal",
+      "role": "President of Operations & Whole-Time Director",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": 10553721
+    },
+    {
       "name": "Mr. Atul  Govil",
       "role": "CTO and Head of SAP & IT",
       "age": "N/A",
@@ -32,24 +39,10 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Alok  Singhal",
-      "role": "Whole-time Director",
-      "age": 56,
-      "year_born": 1969,
-      "total_pay": 10553721
-    },
-    {
-      "name": "Mr. Manoj Kumar Rai",
-      "role": "Chief Operating Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Ankur  Jain",
       "role": "Head of Legal, Compliance Officer & Company Secretary",
-      "age": 49,
-      "year_born": 1976,
+      "age": 50,
+      "year_born": 1975,
       "total_pay": "N/A"
     },
     {
@@ -71,6 +64,13 @@
       "role": "Head of Sustainability",
       "age": 61,
       "year_born": 1964,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Bhupendar Pal Singhal",
+      "role": "Head of Projects & Purchase",
+      "age": 52,
+      "year_born": 1973,
       "total_pay": "N/A"
     }
   ]

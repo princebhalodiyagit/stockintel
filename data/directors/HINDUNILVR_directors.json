@@ -1,7 +1,7 @@
 {
   "ticker": "HINDUNILVR",
   "company": "Hindustan Unilever Limited",
-  "collected_at": "2026-10-12 08:02:09",
+  "collected_at": "2026-10-13 08:19:23",
   "directors": [
     {
       "name": "Ms. Priya  Nair",
@@ -23,6 +23,13 @@
       "age": 59,
       "year_born": 1966,
       "total_pay": 133900000
+    },
+    {
+      "name": "Mr. Yogesh  Mulgaonkar",
+      "role": "CFO Beauty & Wellbeing and Head of Investor Relations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     },
     {
       "name": "Ms. Radhika Kartik Shah",
@@ -62,13 +69,6 @@
     {
       "name": "Ms. Shailee Chatrath Tyagi",
       "role": "Head of Functional Nutrition Portfolio",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ms. Sunanda  Khaitan",
-      "role": "Chief Marketing Officer of Beauty & Wellbeing Division",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

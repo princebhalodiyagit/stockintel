@@ -1,7 +1,7 @@
 {
   "ticker": "KPIGREEN",
   "company": "KPI Green Energy Limited",
-  "collected_at": "2026-10-12 08:08:38",
+  "collected_at": "2026-10-13 08:23:45",
   "directors": [
     {
       "name": "Dr. Farukbhai Gulambhai Patel",
@@ -16,6 +16,48 @@
       "age": 42,
       "year_born": 1983,
       "total_pay": 9969000
+    },
+    {
+      "name": "Mr. Kapil  Kriplani",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Surinder Kumar Negi",
+      "role": "Chief Operating Officer",
+      "age": 67,
+      "year_born": 1958,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vinod  Jain",
+      "role": "President of Investor Relation",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Krunal Devendrak Umar Bhatt",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rafik  Burma",
+      "role": "Project Head",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajesh  Shrivastava",
+      "role": "Whole Time Director",
+      "age": 58,
+      "year_born": 1967,
+      "total_pay": "N/A"
     }
   ]
 }

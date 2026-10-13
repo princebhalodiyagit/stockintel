@@ -1,7 +1,7 @@
 {
   "ticker": "PKTEA",
   "company": "The Peria Karamalai Tea & Produce Company Limited",
-  "collected_at": "2026-10-12 08:18:09",
+  "collected_at": "2026-10-13 08:30:20",
   "directors": [
     {
       "name": "Mr. Sanjeev Kumar Singh",
@@ -23,6 +23,13 @@
       "age": 74,
       "year_born": 1951,
       "total_pay": 4208000
+    },
+    {
+      "name": "Mr. Anup Kumar Gupta",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Rohan  Jhawar",

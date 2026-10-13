@@ -1,14 +1,21 @@
 {
   "ticker": "GEOJITFSL",
   "company": "Geojit Financial Services Limited",
-  "collected_at": "2026-10-12 07:58:24",
+  "collected_at": "2026-10-13 08:16:57",
   "directors": [
     {
       "name": "Mr. Chenayappillil John George CFP, M.Com",
-      "role": "MD & Executive Chairman",
+      "role": "Executive Chairman",
       "age": 66,
       "year_born": 1959,
       "total_pay": 28796724
+    },
+    {
+      "name": "Mr. Jones  George",
+      "role": "MD & Whole-Time Director",
+      "age": 34,
+      "year_born": 1991,
+      "total_pay": 12316207
     },
     {
       "name": "Ms. Mini  Nair",

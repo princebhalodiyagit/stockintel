@@ -1,7 +1,7 @@
 {
   "ticker": "SAURASHCEM",
   "company": "Saurashtra Cement Limited",
-  "collected_at": "2026-10-12 08:22:54",
+  "collected_at": "2026-10-13 08:33:55",
   "directors": [
     {
       "name": "Mr. Mohinderpal Singh Gilotra M.D.",
@@ -39,13 +39,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Prakash  Kunte",
-      "role": "Director of Human Resources",
-      "age": 67,
-      "year_born": 1958,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Tusher  Majumder",
       "role": "Head of Human Resource",
       "age": 52,
@@ -58,6 +51,13 @@
       "age": 53,
       "year_born": 1972,
       "total_pay": 11065000
+    },
+    {
+      "name": "Mr. Prakash  Kunte",
+      "role": "Director of Human Resources",
+      "age": 67,
+      "year_born": 1958,
+      "total_pay": "N/A"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "ticker": "KRIDHANINF",
   "company": "Kridhan Infra Limited",
-  "collected_at": "2026-10-12 08:08:50",
+  "collected_at": "2026-10-13 08:23:51",
   "directors": [
     {
       "name": "Mr. Mithlesh Kumar Ayodya Prasad Jaiswal",
@@ -22,6 +22,20 @@
       "role": "General Manager of Technical & New Project",
       "age": 60,
       "year_born": 1965,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pankaj  Patil",
+      "role": "Head of Business Development",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Krishnaprasad Sunder Rao",
+      "role": "Whole-Time Director",
+      "age": 44,
+      "year_born": 1981,
       "total_pay": "N/A"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "ticker": "ISGEC",
   "company": "Isgec Heavy Engineering Limited",
-  "collected_at": "2026-10-12 08:05:07",
+  "collected_at": "2026-10-13 08:21:27",
   "directors": [
     {
       "name": "Mr. Aditya  Puri",
@@ -57,6 +57,20 @@
       "role": "Chief Information Officer",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Mahua  Chakrabarty",
+      "role": "Chief Human Resources Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ravi  Jaidka",
+      "role": "Executive Director of ISGEC Works & Unit Head of ISGEC",
+      "age": 78,
+      "year_born": 1947,
       "total_pay": "N/A"
     }
   ]

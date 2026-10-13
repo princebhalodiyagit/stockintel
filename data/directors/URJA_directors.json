@@ -1,15 +1,8 @@
 {
   "ticker": "URJA",
   "company": "Urja Global Limited",
-  "collected_at": "2026-10-12 08:30:29",
+  "collected_at": "2026-10-13 08:39:58",
   "directors": [
-    {
-      "name": "Mr. Yogesh Kumar Goyal",
-      "role": "Whole Time Director",
-      "age": 36,
-      "year_born": 1989,
-      "total_pay": 600000
-    },
     {
       "name": "Mr. Mohan Jagdish Agarwal",
       "role": "MD & Director",
@@ -18,18 +11,11 @@
       "total_pay": 848541
     },
     {
-      "name": "Mr. Amitav  Roy",
-      "role": "Chief Executive Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Vijay Kumar Singhal",
-      "role": "Chief Financial Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
+      "name": "Mr. Yogesh Kumar Goyal",
+      "role": "Whole Time Director",
+      "age": 36,
+      "year_born": 1989,
+      "total_pay": 600000
     },
     {
       "name": "Mr. Sunil Kumar Singh",
@@ -71,6 +57,20 @@
       "role": "Sales Executive",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Rajeev  Pandey",
+      "role": "Marketing Manager",
+      "age": 32,
+      "year_born": 1993,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mahesh  Pandian",
+      "role": "Procurement Head",
+      "age": 50,
+      "year_born": 1975,
       "total_pay": "N/A"
     }
   ]

@@ -1,14 +1,21 @@
 {
   "ticker": "SOUTHBANK",
   "company": "The South Indian Bank Limited",
-  "collected_at": "2026-10-12 08:25:26",
+  "collected_at": "2026-10-13 08:35:54",
   "directors": [
     {
-      "name": "Mr. Peruvemba Ramachandran Seshadri B.E.",
+      "name": "Mr. Dolphy  Jose",
+      "role": "Whole-time Executive Director",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": 16229974
+    },
+    {
+      "name": "Mr. Mahesh Muralidhar Pai",
       "role": "MD, CEO & Director",
-      "age": 62,
-      "year_born": 1963,
-      "total_pay": 53507829
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Vinod  Francis",
@@ -64,13 +71,6 @@
       "role": "GM & Head of Business Process Group",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ms. Minu  Moonjely",
-      "role": "Chief GM & Head of Large and Emerging Corporate and Transaction Banking Group",
-      "age": 52,
-      "year_born": 1973,
       "total_pay": "N/A"
     }
   ]

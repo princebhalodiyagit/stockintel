@@ -1,7 +1,7 @@
 {
   "ticker": "SANOFI",
   "company": "Sanofi India Limited",
-  "collected_at": "2026-10-12 08:22:36",
+  "collected_at": "2026-10-13 08:33:43",
   "directors": [
     {
       "name": "Mr. Deepak  Arora",
@@ -9,13 +9,6 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 8230000
-    },
-    {
-      "name": "Mr. Rachid  Ayari",
-      "role": "CFO & Whole Time Director",
-      "age": 50,
-      "year_born": 1975,
-      "total_pay": 22000000
     },
     {
       "name": "Mr. Mahadev  Gawade",
@@ -69,6 +62,13 @@
     {
       "name": "Mr. Debajit  Roy",
       "role": "Sales & Customer Engagement Head of Diabetes",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Hitesh  Grover",
+      "role": "Head of Ethics & Business Integrity, India, Strategic EBI Business Partner and SEA&I MCO",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

@@ -1,11 +1,11 @@
 {
   "ticker": "GTECJAINX",
   "company": "G-TEC JAINX EDUCATION LIMITED",
-  "collected_at": "2026-10-12 08:00:35",
+  "collected_at": "2026-10-13 08:18:17",
   "directors": [
     {
       "name": "Mr. Sudhakar Pandurang Sonawane",
-      "role": "Founder, MD & Director",
+      "role": "Founder, Joint MD & Director",
       "age": 52,
       "year_born": 1973,
       "total_pay": 1500000
@@ -36,6 +36,20 @@
       "role": "Chief Operating Officer",
       "age": 49,
       "year_born": 1976,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dipti  Dalvi",
+      "role": "HR Manager",
+      "age": 36,
+      "year_born": 1989,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Supriya  Patil",
+      "role": "Centre Head",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

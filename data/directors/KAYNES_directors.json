@@ -1,13 +1,20 @@
 {
   "ticker": "KAYNES",
   "company": "Kaynes Technology India Limited",
-  "collected_at": "2026-10-12 08:07:31",
+  "collected_at": "2026-10-13 08:22:59",
   "directors": [
     {
       "name": "Ms. Savitha  Ramesh",
-      "role": "Chairperson",
+      "role": "Executive Chairperson",
       "age": 53,
       "year_born": 1972,
+      "total_pay": 18000000
+    },
+    {
+      "name": "Mr. Ramesh  Kunhikannan",
+      "role": "Promoter & Executive Vice Chairman of the Board",
+      "age": 61,
+      "year_born": 1964,
       "total_pay": 18000000
     },
     {
@@ -62,13 +69,6 @@
     {
       "name": "Mr. Abdul  Nazar",
       "role": "Senior Vice President of Business Development Automotive",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Vishwanathan  K",
-      "role": "Senior Vice President of Supply Chain Management",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

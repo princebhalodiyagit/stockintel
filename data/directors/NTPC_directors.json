@@ -1,8 +1,15 @@
 {
   "ticker": "NTPC",
   "company": "NTPC Limited",
-  "collected_at": "2026-10-12 08:15:53",
+  "collected_at": "2026-10-13 08:28:41",
   "directors": [
+    {
+      "name": "Mr. Gurdeep  Singh",
+      "role": "Chairman of the Board & MD",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": 27451520
+    },
     {
       "name": "Mr. Jaikumar  Srinivasan",
       "role": "CFO, Director of Finance & Director",
@@ -61,13 +68,6 @@
     },
     {
       "name": "Mr. Balaji Bhagwatrao Narare",
-      "role": "Executive Director",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Vijay  Chand",
       "role": "Executive Director",
       "age": "N/A",
       "year_born": "N/A",

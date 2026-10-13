@@ -1,8 +1,15 @@
 {
   "ticker": "HINDWAREAP",
   "company": "Hindware Home Innovation Limited",
-  "collected_at": "2026-10-12 08:02:10",
+  "collected_at": "2026-10-13 08:19:24",
   "directors": [
+    {
+      "name": "Mr. Sandip  Somany B.Com.",
+      "role": "MD & Chairman",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": 280000
+    },
     {
       "name": "Mr. Naveen  Malik",
       "role": "Chief Financial Officer and Chief Executive Officer",
@@ -41,6 +48,13 @@
     {
       "name": "Mr. Nitesh  Raj",
       "role": "Head of Commercial Business",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Shashvat  Somany",
+      "role": "Joint MD & Non-Executive Non-Independent Director",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

@@ -1,7 +1,7 @@
 {
   "ticker": "SRF",
   "company": "SRF Limited",
-  "collected_at": "2026-10-12 08:25:45",
+  "collected_at": "2026-10-13 08:36:10",
   "directors": [
     {
       "name": "Mr. Ashish Bharat Ram MBA",
@@ -39,6 +39,13 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Ms. Jyothsana  Vasudevan",
+      "role": "President & CHRO",
+      "age": 46,
+      "year_born": 1979,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Sunil  Gulpadia",
       "role": "Senior Vice President of Finance & Account",
       "age": 57,
@@ -64,13 +71,6 @@
       "role": "President and CEO of Fluorochemicals Business & Technical Textiles Business",
       "age": 55,
       "year_born": 1970,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Prashant  Mehra BE. MBA",
-      "role": "President & CEO of Performance Films & Foil Business, Coated & Laminated Fabrics Business",
-      "age": 52,
-      "year_born": 1973,
       "total_pay": "N/A"
     }
   ]

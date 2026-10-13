@@ -1,7 +1,7 @@
 {
   "ticker": "LICI",
   "company": "Life Insurance Corporation Of India",
-  "collected_at": "2026-10-12 08:09:57",
+  "collected_at": "2026-10-13 08:24:33",
   "directors": [
     {
       "name": "Mr. Doraiswamy  Ramchandran",
@@ -9,13 +9,6 @@
       "age": 59,
       "year_born": 1966,
       "total_pay": 12276000
-    },
-    {
-      "name": "Mr. Dinesh  Pant",
-      "role": "MD & Director",
-      "age": 58,
-      "year_born": 1967,
-      "total_pay": 6712000
     },
     {
       "name": "Mr. Ratnakar  Patnaik",
@@ -30,6 +23,55 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 2886000
+    },
+    {
+      "name": "Mr. Arindam Das Gupta",
+      "role": "Chief Investment Officer & Executive Director of Investment \u0096 Front Office",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. K. R. Ashok",
+      "role": "Executive Director of Acturial/Administration/IT Implementation",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Jayasimhan Madabhushi Matam Tirumala",
+      "role": "Chief Compliance Officer & Executive Director of Board & Secretarial/Regulatory Compliance",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pradeep  Shenoy",
+      "role": "Executive Director of Corporate Communication",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Govind Prasad Agarwal",
+      "role": "Additional Executive Director & Director of Marketing/Product Development",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Salil  Vishwanath",
+      "role": "Executive Director of Human Resources Development/OD",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pradeep  Pandey",
+      "role": "Chief Digital Officer",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
     }
   ]
 }

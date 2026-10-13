@@ -1,8 +1,43 @@
 {
   "ticker": "AVROIND",
   "company": "AVRO INDIA LIMITED",
-  "collected_at": "2026-10-12 07:48:06",
+  "collected_at": "2026-10-13 08:09:16",
   "directors": [
+    {
+      "name": "Mr. Sushil Kumar Aggarwal",
+      "role": "Director",
+      "age": 64,
+      "year_born": 1961,
+      "total_pay": 1275000
+    },
+    {
+      "name": "Mr. Ghanshyam  Singh",
+      "role": "Chief Financial Officer",
+      "age": 38,
+      "year_born": 1987,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sumit  Bansal",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 35,
+      "year_born": 1990,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sahil  Aggarwal",
+      "role": "Whole Time Director",
+      "age": 35,
+      "year_born": 1990,
+      "total_pay": 1275000
+    },
+    {
+      "name": "Ms. Anita  Aggarwal",
+      "role": "Whole Time Director",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 13000
+    },
     {
       "name": "Ms. Akshita  Aggarwal",
       "role": "Head of Communication",

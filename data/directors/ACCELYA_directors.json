@@ -1,13 +1,20 @@
 {
   "ticker": "ACCELYA",
   "company": "Accelya Solutions India Limited",
-  "collected_at": "2026-10-12 07:44:16",
+  "collected_at": "2026-10-13 08:06:13",
   "directors": [
     {
       "name": "Mr. Gurudas Vasudev Shenoy",
       "role": "MD & Director",
       "age": 56,
       "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Uttamkumar  Bhati",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
@@ -62,13 +69,6 @@
     {
       "name": "Mr. John Eric Fountain Johnston",
       "role": "Special Advisor to the Board",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Tye  Radcliffe",
-      "role": "Chief Customer Success Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

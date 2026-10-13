@@ -1,7 +1,7 @@
 {
   "ticker": "AHLADA",
   "company": "Ahlada Engineers Limited",
-  "collected_at": "2026-10-12 07:45:06",
+  "collected_at": "2026-10-13 08:06:56",
   "directors": [
     {
       "name": "Mr. Chedepudi Suresh Mohan Reddy",
@@ -18,6 +18,13 @@
       "total_pay": 1500000
     },
     {
+      "name": "Mr. Garikapati  Shyam Krishna",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Chedepudi Akarsh Reddy",
       "role": "Whole Time Director",
       "age": 25,
@@ -29,13 +36,6 @@
       "role": "Senior Vice President of Operations",
       "age": 56,
       "year_born": 1969,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Garikapati  Shyam Krishna",
-      "role": "Company Secretary & Compliance Officer",
-      "age": "N/A",
-      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

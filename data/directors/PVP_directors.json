@@ -1,7 +1,7 @@
 {
   "ticker": "PVP",
   "company": "PVP Ventures Limited",
-  "collected_at": "2026-10-12 08:19:28",
+  "collected_at": "2026-10-13 08:31:20",
   "directors": [
     {
       "name": "Mr. Prasad Veera Potluri BME, MES",
@@ -18,22 +18,8 @@
       "total_pay": 2300000
     },
     {
-      "name": "Dr. Ellen  Feehan",
-      "role": "CEO & Executive Director",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Raghu  Chaitanya",
       "role": "Chief Financial Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Dr. Neeraja  Nagarajan",
-      "role": "COO & Executive Director",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
@@ -64,6 +50,13 @@
       "role": "Head of Strategy and M&A",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Abhay Paramal Singh",
+      "role": "General Manager of Operations",
+      "age": 31,
+      "year_born": 1994,
       "total_pay": "N/A"
     }
   ]

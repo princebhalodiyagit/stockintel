@@ -1,14 +1,14 @@
 {
   "ticker": "SHEMAROO",
   "company": "Shemaroo Entertainment Limited",
-  "collected_at": "2026-10-12 08:23:55",
+  "collected_at": "2026-10-13 08:34:43",
   "directors": [
     {
       "name": "Mr. Raman Hirji Maroo",
       "role": "MD & Chairman of the Board",
       "age": 75,
       "year_born": 1950,
-      "total_pay": 9000000
+      "total_pay": 9500000
     },
     {
       "name": "Mr. Hiren Uday Gada",
@@ -18,18 +18,25 @@
       "total_pay": 22000000
     },
     {
+      "name": "Ms. Meenakshi Ankit Pansari B.Com.",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 1534000
+    },
+    {
       "name": "Mr. Atul Hirji Maru",
       "role": "Joint MD & Executive Director",
       "age": 64,
       "year_born": 1961,
-      "total_pay": 9000000
+      "total_pay": 9500000
     },
     {
       "name": "Mr. Jai Buddhichand Maroo",
       "role": "Director of Center of Excellence & Executive Director",
       "age": 52,
       "year_born": 1973,
-      "total_pay": 9000000
+      "total_pay": 9500000
     },
     {
       "name": "Mr. Ashish  Gupta",
@@ -41,13 +48,6 @@
     {
       "name": "Mr. Arghya  Chakravarty",
       "role": "Chief Operating Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ms. Meenakshi Ankit Pansari B.Com.",
-      "role": "Company Secretary & Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

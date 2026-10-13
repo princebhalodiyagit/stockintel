@@ -1,7 +1,7 @@
 {
   "ticker": "STYLEBAAZA",
   "company": "Baazar Style Retail Limited",
-  "collected_at": "2026-10-12 08:26:23",
+  "collected_at": "2026-10-13 08:36:36",
   "directors": [
     {
       "name": "Mr. Shreyans  Surana",
@@ -32,20 +32,6 @@
       "total_pay": 18000000
     },
     {
-      "name": "Mr. Rohit  Kedia",
-      "role": "Whole Time Director",
-      "age": 42,
-      "year_born": 1983,
-      "total_pay": 18000000
-    },
-    {
-      "name": "Mr. Pradeep Kumar Agarwal",
-      "role": "Whole Time Director",
-      "age": 60,
-      "year_born": 1965,
-      "total_pay": 18000000
-    },
-    {
       "name": "Mr. Vikash  Kumar",
       "role": "Chief Technology Officer",
       "age": "N/A",
@@ -71,6 +57,20 @@
       "role": "Head of E-commerce",
       "age": 36,
       "year_born": 1989,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pradeep  Jajoria",
+      "role": "Head of Category Planning",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Alok Kumar Prakash",
+      "role": "Head of Supply Chain Management",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

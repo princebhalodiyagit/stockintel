@@ -1,6 +1,77 @@
 {
   "ticker": "AARTIIND",
   "company": "Aarti Industries Limited",
-  "collected_at": "2026-10-12 07:43:53",
-  "directors": []
+  "collected_at": "2026-10-13 08:05:55",
+  "directors": [
+    {
+      "name": "Mr. Suyog Kalyanji Kotecha",
+      "role": "CEO, MD & Executive Director",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": 47800000
+    },
+    {
+      "name": "Mr. Manoj Murjibhai Chheda B.Com",
+      "role": "Executive Director",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": 24900000
+    },
+    {
+      "name": "Mr. Ajay Kumar Gupta",
+      "role": "Chief Manufacturing Officer & Executive Director",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": 39100000
+    },
+    {
+      "name": "Mr. Chandrakant Vallabhaji Gogri (UDCT, B.E. (Chem), DBM, Mumbai)",
+      "role": "Founder & Chairman Emeritus",
+      "age": 79,
+      "year_born": 1946,
+      "total_pay": 523945
+    },
+    {
+      "name": "Mr. Chetan Bipin Gandhi CA",
+      "role": "CFO & Chief Risk Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Bhaskaran  Rajagopalan",
+      "role": "Chief Technology Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Prashant V. Potnis",
+      "role": "Chief Scientific Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Raj Kumar Sarraf",
+      "role": "Compliance Officer & Company Secretary",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manoj Kumar Sharma",
+      "role": "Chief Human Resource Officer & President",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Adwait  Thakre",
+      "role": "Senior Vice President of Zone-3 Head",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": "N/A"
+    }
+  ]
 }
