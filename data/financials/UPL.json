@@ -1,14 +1,14 @@
 {
   "ticker": "UPL",
-  "collected_at": "2026-10-13 08:39:55",
+  "collected_at": "2026-10-14 07:04:10",
   "company_info": {
     "name": "UPL Limited",
     "sector": "Basic Materials",
     "industry": "Agricultural Inputs",
-    "market_cap": 439547756544,
-    "current_price": 520.0,
-    "pe_ratio": 22.717344,
-    "pb_ratio": 1.2651823,
+    "market_cap": 454805127168,
+    "current_price": 538.05,
+    "pe_ratio": 23.505898,
+    "pb_ratio": 1.3090986,
     "roe": "N/A",
     "debt_to_equity": 57.128,
     "revenue": 528040001536,
@@ -16,6 +16,6 @@
     "eps": 22.89,
     "52_week_high": 812.2,
     "52_week_low": 476.45,
-    "dividend_yield": 1.17
+    "dividend_yield": 1.14
   }
 }
