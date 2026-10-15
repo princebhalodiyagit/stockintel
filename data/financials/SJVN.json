@@ -1,14 +1,14 @@
 {
   "ticker": "SJVN",
-  "collected_at": "2026-10-14 06:59:31",
+  "collected_at": "2026-10-15 06:40:33",
   "company_info": {
     "name": "SJVN Limited",
     "sector": "Utilities",
     "industry": "Utilities - Renewable",
-    "market_cap": 224823574528,
-    "current_price": 57.21,
-    "pe_ratio": 35.314816,
-    "pb_ratio": 1.5800811,
+    "market_cap": 219636236288,
+    "current_price": 55.89,
+    "pe_ratio": 34.5,
+    "pb_ratio": 1.5436242,
     "roe": "N/A",
     "debt_to_equity": 226.528,
     "revenue": 50052198400,
@@ -16,6 +16,6 @@
     "eps": 1.62,
     "52_week_high": 91.25,
     "52_week_low": 53.66,
-    "dividend_yield": 2.68
+    "dividend_yield": 2.64
   }
 }

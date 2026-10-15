@@ -1,14 +1,14 @@
 {
   "ticker": "MAHABANK",
-  "collected_at": "2026-10-14 06:48:41",
+  "collected_at": "2026-10-15 06:30:28",
   "company_info": {
     "name": "Bank of Maharashtra",
     "sector": "Financial Services",
     "industry": "Banks - Regional",
-    "market_cap": 634322550784,
-    "current_price": 82.47,
-    "pe_ratio": 8.4239025,
-    "pb_ratio": 1.7774091,
+    "market_cap": 615555137536,
+    "current_price": 80.03,
+    "pe_ratio": 8.174668,
+    "pb_ratio": 1.7248217,
     "roe": 0.22961001,
     "debt_to_equity": "N/A",
     "revenue": 141095370752,
@@ -16,6 +16,6 @@
     "eps": 9.79,
     "52_week_high": 94.5,
     "52_week_low": 55.34,
-    "dividend_yield": 2.63
+    "dividend_yield": 2.65
   }
 }

@@ -1,14 +1,14 @@
 {
   "ticker": "MCX",
-  "collected_at": "2026-10-14 06:49:38",
+  "collected_at": "2026-10-15 06:31:20",
   "company_info": {
     "name": "Multi Commodity Exchange of India Limited",
     "sector": "Financial Services",
     "industry": "Financial Data & Stock Exchanges",
-    "market_cap": "N/A",
-    "current_price": 3251.2,
-    "pe_ratio": 67.90309,
-    "pb_ratio": 19.663603,
+    "market_cap": 810041999360,
+    "current_price": 3182.7,
+    "pe_ratio": 66.47243,
+    "pb_ratio": 19.249308,
     "roe": "N/A",
     "debt_to_equity": 0.113,
     "revenue": 27750199296,
@@ -16,6 +16,6 @@
     "eps": 47.88,
     "52_week_high": 3481.4,
     "52_week_low": 1762.1,
-    "dividend_yield": 0.24
+    "dividend_yield": 0.25
   }
 }

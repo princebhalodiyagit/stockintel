@@ -1,14 +1,14 @@
 {
   "ticker": "ANGELONE",
-  "collected_at": "2026-10-14 06:30:22",
+  "collected_at": "2026-10-15 06:13:36",
   "company_info": {
     "name": "Angel One Limited",
     "sector": "Financial Services",
     "industry": "Capital Markets",
-    "market_cap": 280048926720,
-    "current_price": 306.2,
-    "pe_ratio": 27.710407,
-    "pb_ratio": 4.5589223,
+    "market_cap": 282655490048,
+    "current_price": 309.05,
+    "pe_ratio": 27.968325,
+    "pb_ratio": 4.6013546,
     "roe": "N/A",
     "debt_to_equity": 129.314,
     "revenue": 49862279168,
@@ -16,6 +16,6 @@
     "eps": 11.05,
     "52_week_high": 360.45,
     "52_week_low": 208.63,
-    "dividend_yield": 1.63
+    "dividend_yield": 1.65
   }
 }

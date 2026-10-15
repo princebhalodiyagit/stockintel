@@ -1,7 +1,7 @@
 {
   "ticker": "NCC",
   "company": "NCC Limited",
-  "collected_at": "2026-10-14 06:51:23",
+  "collected_at": "2026-10-15 06:32:59",
   "directors": [
     {
       "name": "Mr. Alluri Ananta Venkata Ranga Raju",
@@ -39,13 +39,6 @@
       "total_pay": 45890062
     },
     {
-      "name": "Dr. Alluri Venkata Satyanarayana Raju",
-      "role": "Founder & Chairman Emeritus",
-      "age": 88,
-      "year_born": 1937,
-      "total_pay": 8216000
-    },
-    {
       "name": "Mr. Sanjay  Pusarla",
       "role": "Executive VP of Finance & Accounts and CFO",
       "age": "N/A",
@@ -69,6 +62,13 @@
     {
       "name": "Mr. S. S. Bhagat",
       "role": "General Manager of Business Development",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. N. V. N. Sudhakara Moorthy",
+      "role": "Executive Vice President of Human Resources",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

@@ -1,14 +1,14 @@
 {
   "ticker": "PTC",
-  "collected_at": "2026-10-14 06:55:08",
+  "collected_at": "2026-10-15 06:36:27",
   "company_info": {
     "name": "PTC India Limited",
     "sector": "Utilities",
     "industry": "Utilities - Independent Power Producers",
-    "market_cap": 44783095808,
-    "current_price": 151.29,
-    "pe_ratio": 8.8061695,
-    "pb_ratio": 0.74850833,
+    "market_cap": 44342046720,
+    "current_price": 149.8,
+    "pe_ratio": 8.719441,
+    "pb_ratio": 0.74113655,
     "roe": "N/A",
     "debt_to_equity": 25.059,
     "revenue": 175354200064,
@@ -16,6 +16,6 @@
     "eps": 17.18,
     "52_week_high": 229.51,
     "52_week_low": 146.5,
-    "dividend_yield": 7.28
+    "dividend_yield": 7.29
   }
 }
