@@ -1,14 +1,14 @@
 {
   "ticker": "SUNTV",
-  "collected_at": "2026-10-15 06:42:00",
+  "collected_at": "2026-10-16 06:39:08",
   "company_info": {
     "name": "Sun TV Network Limited",
     "sector": "Communication Services",
     "industry": "Broadcasting",
-    "market_cap": 258243641344,
-    "current_price": 655.3,
-    "pe_ratio": 16.87178,
-    "pb_ratio": 2.03822,
+    "market_cap": 250519584768,
+    "current_price": 635.7,
+    "pe_ratio": 16.367147,
+    "pb_ratio": 1.977257,
     "roe": "N/A",
     "debt_to_equity": 0.837,
     "revenue": 45024198656,
@@ -16,6 +16,6 @@
     "eps": 38.84,
     "52_week_high": 673.95,
     "52_week_low": 447.2,
-    "dividend_yield": 3.06
+    "dividend_yield": 3.18
   }
 }

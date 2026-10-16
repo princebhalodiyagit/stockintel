@@ -1,21 +1,21 @@
 {
   "ticker": "RIIL",
-  "collected_at": "2026-10-15 06:37:39",
+  "collected_at": "2026-10-16 06:34:38",
   "company_info": {
     "name": "Reliance Industrial Infrastructure Limited",
     "sector": "Industrials",
     "industry": "Engineering & Construction",
-    "market_cap": 11566600192,
-    "current_price": 766.0,
-    "pe_ratio": 98.205124,
-    "pb_ratio": 2.440672,
-    "roe": "N/A",
+    "market_cap": 11044894720,
+    "current_price": 731.45,
+    "pe_ratio": 93.0598,
+    "pb_ratio": 2.3894536,
+    "roe": 0.02542,
     "debt_to_equity": "N/A",
-    "revenue": 416000000,
-    "net_income": 121300000,
-    "eps": 7.8,
+    "revenue": 377800000,
+    "net_income": 118700000,
+    "eps": 7.86,
     "52_week_high": 928.0,
     "52_week_low": 617.35,
-    "dividend_yield": 0.51
+    "dividend_yield": 0.48
   }
 }

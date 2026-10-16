@@ -1,14 +1,14 @@
 {
   "ticker": "DAMCAPITAL",
-  "collected_at": "2026-10-15 06:19:06",
+  "collected_at": "2026-10-16 06:15:20",
   "company_info": {
     "name": "DAM Capital Advisors Limited",
     "sector": "Financial Services",
     "industry": "Capital Markets",
-    "market_cap": 10071341056,
-    "current_price": 142.48,
-    "pe_ratio": 13.859922,
-    "pb_ratio": 2.682936,
+    "market_cap": 10108097536,
+    "current_price": 143.0,
+    "pe_ratio": 13.910506,
+    "pb_ratio": 2.6927278,
     "roe": "N/A",
     "debt_to_equity": 25.432,
     "revenue": 2272499968,
@@ -16,6 +16,6 @@
     "eps": 10.28,
     "52_week_high": 286.0,
     "52_week_low": 119.22,
-    "dividend_yield": 0.7
+    "dividend_yield": 0.69
   }
 }

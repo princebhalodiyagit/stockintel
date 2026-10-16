@@ -1,14 +1,14 @@
 {
   "ticker": "DEEDEV",
-  "collected_at": "2026-10-15 06:19:28",
+  "collected_at": "2026-10-16 06:15:43",
   "company_info": {
     "name": "DEE Development Engineers Limited",
     "sector": "Industrials",
     "industry": "Metal Fabrication",
-    "market_cap": 43672735744,
-    "current_price": 580.45,
-    "pe_ratio": 50.29896,
-    "pb_ratio": 4.564686,
+    "market_cap": 43390586880,
+    "current_price": 576.7,
+    "pe_ratio": 49.974003,
+    "pb_ratio": 4.5351954,
     "roe": "N/A",
     "debt_to_equity": 86.608,
     "revenue": 12127031296,
@@ -16,6 +16,6 @@
     "eps": 11.54,
     "52_week_high": 760.0,
     "52_week_low": 183.0,
-    "dividend_yield": 0.16
+    "dividend_yield": 0.17
   }
 }

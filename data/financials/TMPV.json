@@ -1,14 +1,14 @@
 {
   "ticker": "TMPV",
-  "collected_at": "2026-10-15 06:43:49",
+  "collected_at": "2026-10-16 06:40:59",
   "company_info": {
     "name": "Tata Motors Passenger Vehicles Limited",
     "sector": "Consumer Cyclical",
     "industry": "Auto Manufacturers",
-    "market_cap": 1058860236800,
-    "current_price": 287.5,
+    "market_cap": 1054256529408,
+    "current_price": 286.25,
     "pe_ratio": "N/A",
-    "pb_ratio": 0.94467956,
+    "pb_ratio": 0.94057226,
     "roe": "N/A",
     "debt_to_equity": 70.364,
     "revenue": 3473389912064,
@@ -16,6 +16,6 @@
     "eps": -9.17,
     "52_week_high": 419.0,
     "52_week_low": 272.2,
-    "dividend_yield": 1.06
+    "dividend_yield": 1.05
   }
 }

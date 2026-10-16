@@ -1,14 +1,14 @@
 {
   "ticker": "SWANCORP",
-  "collected_at": "2026-10-15 06:42:22",
+  "collected_at": "2026-10-16 06:39:31",
   "company_info": {
     "name": "Swan Corp Limited",
     "sector": "Industrials",
     "industry": "Conglomerates",
-    "market_cap": 85087879168,
-    "current_price": 271.45,
-    "pe_ratio": 39.97791,
-    "pb_ratio": 1.1290283,
+    "market_cap": 83630292992,
+    "current_price": 266.8,
+    "pe_ratio": 39.293076,
+    "pb_ratio": 1.1096877,
     "roe": "N/A",
     "debt_to_equity": 24.561,
     "revenue": 41717592064,
@@ -16,6 +16,6 @@
     "eps": 6.79,
     "52_week_high": 493.6,
     "52_week_low": 254.4,
-    "dividend_yield": 0.05
+    "dividend_yield": 0.06
   }
 }

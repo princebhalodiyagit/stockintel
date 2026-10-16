@@ -1,14 +1,14 @@
 {
   "ticker": "NH",
-  "collected_at": "2026-10-15 06:33:22",
+  "collected_at": "2026-10-16 06:30:15",
   "company_info": {
     "name": "Narayana Hrudayalaya Limited",
     "sector": "Healthcare",
     "industry": "Medical Care Facilities",
-    "market_cap": 351443976192,
-    "current_price": 1730.4,
-    "pe_ratio": 42.7999,
-    "pb_ratio": 7.745748,
+    "market_cap": 348559933440,
+    "current_price": 1716.2,
+    "pe_ratio": 42.448677,
+    "pb_ratio": 7.682184,
     "roe": "N/A",
     "debt_to_equity": 129.033,
     "revenue": 90723999744,
@@ -16,6 +16,6 @@
     "eps": 40.43,
     "52_week_high": 2093.3,
     "52_week_low": 1589.0,
-    "dividend_yield": 0.27
+    "dividend_yield": 0.26
   }
 }

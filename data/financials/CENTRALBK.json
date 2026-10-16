@@ -1,14 +1,14 @@
 {
   "ticker": "CENTRALBK",
-  "collected_at": "2026-10-15 06:17:47",
+  "collected_at": "2026-10-16 06:13:57",
   "company_info": {
     "name": "Central Bank of India",
     "sector": "Financial Services",
     "industry": "Banks - Regional",
-    "market_cap": 284214001664,
-    "current_price": 31.4,
-    "pe_ratio": 6.230159,
-    "pb_ratio": 0.6947671,
+    "market_cap": 278059024384,
+    "current_price": 30.72,
+    "pe_ratio": 6.095238,
+    "pb_ratio": 0.6797212,
     "roe": 0.115600005,
     "debt_to_equity": "N/A",
     "revenue": 163976839168,
@@ -16,6 +16,6 @@
     "eps": 5.04,
     "52_week_high": 40.92,
     "52_week_low": 29.32,
-    "dividend_yield": 3.21
+    "dividend_yield": 3.25
   }
 }

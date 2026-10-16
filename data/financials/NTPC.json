@@ -1,14 +1,14 @@
 {
   "ticker": "NTPC",
-  "collected_at": "2026-10-15 06:33:56",
+  "collected_at": "2026-10-16 06:30:50",
   "company_info": {
     "name": "NTPC Limited",
     "sector": "Utilities",
     "industry": "Utilities - Regulated Electric",
-    "market_cap": 3061722382336,
-    "current_price": 315.75,
-    "pe_ratio": 11.028642,
-    "pb_ratio": 1.5075629,
+    "market_cap": 3068510339072,
+    "current_price": 316.45,
+    "pe_ratio": 11.053092,
+    "pb_ratio": 1.5109051,
     "roe": "N/A",
     "debt_to_equity": 128.345,
     "revenue": 1910612426752,
@@ -16,6 +16,6 @@
     "eps": 28.63,
     "52_week_high": 414.4,
     "52_week_low": 305.7,
-    "dividend_yield": 3.94
+    "dividend_yield": 3.93
   }
 }
