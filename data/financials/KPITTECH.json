@@ -1,14 +1,14 @@
 {
   "ticker": "KPITTECH",
-  "collected_at": "2026-10-16 06:25:52",
+  "collected_at": "2026-10-17 06:11:21",
   "company_info": {
     "name": "KPIT Technologies Limited",
     "sector": "Technology",
     "industry": "Software - Application",
-    "market_cap": 149534408704,
-    "current_price": 549.3,
-    "pe_ratio": 25.81297,
-    "pb_ratio": 4.2230453,
+    "market_cap": 151086120960,
+    "current_price": 555.0,
+    "pe_ratio": 26.080826,
+    "pb_ratio": 4.266867,
     "roe": "N/A",
     "debt_to_equity": 23.624,
     "revenue": 65911640064,
@@ -16,6 +16,6 @@
     "eps": 21.28,
     "52_week_high": 1284.9,
     "52_week_low": 470.1,
-    "dividend_yield": 1.43
+    "dividend_yield": 1.35
   }
 }

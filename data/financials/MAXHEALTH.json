@@ -1,14 +1,14 @@
 {
   "ticker": "MAXHEALTH",
-  "collected_at": "2026-10-16 06:28:00",
+  "collected_at": "2026-10-17 06:13:25",
   "company_info": {
     "name": "Max Healthcare Institute Limited",
     "sector": "Healthcare",
     "industry": "Medical Care Facilities",
-    "market_cap": 825999818752,
-    "current_price": 848.65,
-    "pe_ratio": 56.91818,
-    "pb_ratio": 7.6847506,
+    "market_cap": 823420518400,
+    "current_price": 846.0,
+    "pe_ratio": 56.740444,
+    "pb_ratio": 7.6607537,
     "roe": "N/A",
     "debt_to_equity": 32.367,
     "revenue": 87120502784,
@@ -16,6 +16,6 @@
     "eps": 14.91,
     "52_week_high": 1221.9,
     "52_week_low": 842.05,
-    "dividend_yield": 0.23
+    "dividend_yield": 0.24
   }
 }

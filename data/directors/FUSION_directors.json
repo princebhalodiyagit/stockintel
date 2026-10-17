@@ -1,7 +1,7 @@
 {
   "ticker": "FUSION",
   "company": "Fusion Finance Limited",
-  "collected_at": "2026-10-16 06:18:28",
+  "collected_at": "2026-10-17 06:03:59",
   "directors": [
     {
       "name": "Mr. Sanjay  Garyali",
@@ -9,13 +9,6 @@
       "age": 55,
       "year_born": 1970,
       "total_pay": 41927100
-    },
-    {
-      "name": "Ms. Pooja  Mehta",
-      "role": "Chief Human Resource Officer",
-      "age": 48,
-      "year_born": 1977,
-      "total_pay": "N/A"
     },
     {
       "name": "Mr. Sanjay Vishwanath Choudhary",
@@ -71,6 +64,13 @@
       "role": "Chief Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Satish  Mani",
+      "role": "Chief Vigilance Officer & Interim Head of Internal Audit",
+      "age": 52,
+      "year_born": 1973,
       "total_pay": "N/A"
     }
   ]

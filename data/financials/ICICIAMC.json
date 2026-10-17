@@ -1,14 +1,14 @@
 {
   "ticker": "ICICIAMC",
-  "collected_at": "2026-10-16 06:21:53",
+  "collected_at": "2026-10-17 06:07:21",
   "company_info": {
     "name": "ICICI Prudential Asset Management Company Limited",
     "sector": "Financial Services",
     "industry": "Asset Management",
-    "market_cap": 1406165450752,
-    "current_price": 2845.0,
-    "pe_ratio": 39.79021,
-    "pb_ratio": 26.324799,
+    "market_cap": 1389953810432,
+    "current_price": 2812.2,
+    "pe_ratio": 39.331467,
+    "pb_ratio": 26.021301,
     "roe": 0.76232004,
     "debt_to_equity": "N/A",
     "revenue": 64483999744,
@@ -16,6 +16,6 @@
     "eps": 71.5,
     "52_week_high": 3611.0,
     "52_week_low": 2530.0,
-    "dividend_yield": 0.96
+    "dividend_yield": 0.97
   }
 }

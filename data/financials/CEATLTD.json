@@ -1,14 +1,14 @@
 {
   "ticker": "CEATLTD",
-  "collected_at": "2026-10-16 06:13:49",
+  "collected_at": "2026-10-17 05:59:24",
   "company_info": {
     "name": "CEAT Limited",
     "sector": "Consumer Cyclical",
     "industry": "Auto Parts",
-    "market_cap": 133758803968,
-    "current_price": 3318.1,
-    "pe_ratio": 25.944954,
-    "pb_ratio": 2.6955647,
+    "market_cap": 132823556096,
+    "current_price": 3294.9,
+    "pe_ratio": 25.763546,
+    "pb_ratio": 2.6767173,
     "roe": 0.10792,
     "debt_to_equity": 81.807,
     "revenue": 174560002048,
@@ -16,6 +16,6 @@
     "eps": 127.89,
     "52_week_high": 4438.0,
     "52_week_low": 3061.2,
-    "dividend_yield": 1.09
+    "dividend_yield": 1.06
   }
 }

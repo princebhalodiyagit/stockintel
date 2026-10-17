@@ -1,14 +1,14 @@
 {
   "ticker": "NATIONALUM",
-  "collected_at": "2026-10-16 06:29:39",
+  "collected_at": "2026-10-17 06:15:03",
   "company_info": {
     "name": "National Aluminium Company Limited",
     "sector": "Basic Materials",
     "industry": "Aluminum",
-    "market_cap": 597915467776,
-    "current_price": 325.55,
-    "pe_ratio": 8.856093,
-    "pb_ratio": 2.7671292,
+    "market_cap": 595527860224,
+    "current_price": 324.25,
+    "pe_ratio": 8.820729,
+    "pb_ratio": 2.7560794,
     "roe": "N/A",
     "debt_to_equity": 0.277,
     "revenue": 193384906752,
@@ -16,6 +16,6 @@
     "eps": 36.76,
     "52_week_high": 445.15,
     "52_week_low": 222.71,
-    "dividend_yield": 1.26
+    "dividend_yield": 1.23
   }
 }

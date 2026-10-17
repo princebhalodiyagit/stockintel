@@ -1,14 +1,14 @@
 {
   "ticker": "MOIL",
-  "collected_at": "2026-10-16 06:28:52",
+  "collected_at": "2026-10-17 06:14:17",
   "company_info": {
     "name": "MOIL Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining",
-    "market_cap": 47654203392,
-    "current_price": 234.19,
-    "pe_ratio": 15.696381,
-    "pb_ratio": 1.7594645,
+    "market_cap": 47540252672,
+    "current_price": 233.63,
+    "pe_ratio": 15.658848,
+    "pb_ratio": 1.7552572,
     "roe": "N/A",
     "debt_to_equity": "N/A",
     "revenue": 14956616704,
@@ -16,6 +16,6 @@
     "eps": 14.92,
     "52_week_high": 389.4,
     "52_week_low": 228.7,
-    "dividend_yield": 6.07
+    "dividend_yield": 6.04
   }
 }
