@@ -1,14 +1,14 @@
 {
   "ticker": "DABUR",
-  "collected_at": "2026-10-19 06:40:28",
+  "collected_at": "2026-10-20 06:28:11",
   "company_info": {
     "name": "Dabur India Limited",
     "sector": "Consumer Defensive",
     "industry": "Household & Personal Products",
-    "market_cap": 675522805760,
-    "current_price": 380.8,
-    "pe_ratio": 34.306305,
-    "pb_ratio": 5.914604,
+    "market_cap": 671442731008,
+    "current_price": 378.5,
+    "pe_ratio": 34.0991,
+    "pb_ratio": 5.878881,
     "roe": "N/A",
     "debt_to_equity": 10.907,
     "revenue": 135523803136,
@@ -16,6 +16,6 @@
     "eps": 11.1,
     "52_week_high": 534.0,
     "52_week_low": 368.05,
-    "dividend_yield": 2.14
+    "dividend_yield": 2.18
   }
 }

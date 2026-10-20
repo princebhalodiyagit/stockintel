@@ -1,14 +1,14 @@
 {
   "ticker": "APOLLOHOSP",
-  "collected_at": "2026-10-19 06:34:35",
+  "collected_at": "2026-10-20 06:21:57",
   "company_info": {
     "name": "Apollo Hospitals Enterprise Limited",
     "sector": "Healthcare",
     "industry": "Medical Care Facilities",
-    "market_cap": 1116344025088,
-    "current_price": 7764.0,
-    "pe_ratio": 53.44899,
-    "pb_ratio": 11.775662,
+    "market_cap": 1107141853184,
+    "current_price": 7700.0,
+    "pe_ratio": 53.0084,
+    "pb_ratio": 11.678594,
     "roe": "N/A",
     "debt_to_equity": 85.146,
     "revenue": 264299003904,
@@ -16,6 +16,6 @@
     "eps": 145.26,
     "52_week_high": 9070.5,
     "52_week_low": 6696.5,
-    "dividend_yield": 0.25
+    "dividend_yield": 0.26
   }
 }

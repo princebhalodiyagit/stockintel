@@ -1,14 +1,14 @@
 {
   "ticker": "LODHA",
-  "collected_at": "2026-10-19 06:52:53",
+  "collected_at": "2026-10-20 06:41:21",
   "company_info": {
     "name": "Lodha Developers Limited",
     "sector": "Real Estate",
     "industry": "Real Estate - Development",
-    "market_cap": 1041019633664,
-    "current_price": 1041.8,
-    "pe_ratio": 25.28641,
-    "pb_ratio": 4.469039,
+    "market_cap": 1029228396544,
+    "current_price": 1030.0,
+    "pe_ratio": 25.0,
+    "pb_ratio": 4.41842,
     "roe": "N/A",
     "debt_to_equity": 42.238,
     "revenue": 181812002816,
@@ -16,6 +16,6 @@
     "eps": 41.2,
     "52_week_high": 1344.95,
     "52_week_low": 650.8,
-    "dividend_yield": 0.4
+    "dividend_yield": 0.41
   }
 }

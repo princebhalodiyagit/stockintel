@@ -1,14 +1,14 @@
 {
   "ticker": "RBLBANK",
-  "collected_at": "2026-10-19 07:00:57",
+  "collected_at": "2026-10-20 06:49:49",
   "company_info": {
     "name": "RBL Bank Limited",
     "sector": "Financial Services",
     "industry": "Banks - Regional",
-    "market_cap": 584356397056,
-    "current_price": 376.45,
-    "pe_ratio": 27.180506,
-    "pb_ratio": 1.3408058,
+    "market_cap": 583269744640,
+    "current_price": 375.75,
+    "pe_ratio": 27.129963,
+    "pb_ratio": 1.3383126,
     "roe": 0.04045,
     "debt_to_equity": "N/A",
     "revenue": 85567094784,
@@ -16,6 +16,6 @@
     "eps": 13.85,
     "52_week_high": 429.6,
     "52_week_low": 287.2,
-    "dividend_yield": 0.26
+    "dividend_yield": 0.27
   }
 }

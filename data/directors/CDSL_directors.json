@@ -1,7 +1,7 @@
 {
   "ticker": "CDSL",
   "company": "Central Depository Services (India) Limited",
-  "collected_at": "2026-10-19 06:38:53",
+  "collected_at": "2026-10-20 06:26:32",
   "directors": [
     {
       "name": "Mr. Nehal Naleen Vora",
@@ -25,25 +25,11 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Amit  Mahajan",
-      "role": "CTO & Executive Director of Vertical 1",
-      "age": 53,
-      "year_born": 1972,
-      "total_pay": 30000000
-    },
-    {
       "name": "Mr. Nilay Rajendra Shah",
       "role": "Compliance Officer & Company Secretary",
       "age": 41,
       "year_born": 1984,
       "total_pay": "N/A"
-    },
-    {
-      "name": "Ms. Nayana  Ovalekar",
-      "role": "Chief Regulatory Officer & Executive Director of Vertical 2",
-      "age": 57,
-      "year_born": 1968,
-      "total_pay": 30000000
     },
     {
       "name": "Mr. Jitendra Panchal Chad",
@@ -71,6 +57,20 @@
       "role": "Chief Risk Officer",
       "age": 47,
       "year_born": 1978,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Nilesh  Lodaya",
+      "role": "Chief of Business Development & New Projects",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Swaroopkumar Jagadishbhai Gothi",
+      "role": "Senior VP & Financial Controller",
+      "age": 38,
+      "year_born": 1987,
       "total_pay": "N/A"
     }
   ]

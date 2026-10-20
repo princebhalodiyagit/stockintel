@@ -1,7 +1,7 @@
 {
   "ticker": "MAXHEALTH",
   "company": "Max Healthcare Institute Limited",
-  "collected_at": "2026-10-19 06:54:11",
+  "collected_at": "2026-10-20 06:42:44",
   "directors": [
     {
       "name": "Mr. Abhay  Soi",
@@ -39,20 +39,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Anas Abdul Wajid",
-      "role": "Senior Director and Chief Sales & Marketing Officer",
-      "age": 52,
-      "year_born": 1973,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Umesh  Gupta",
-      "role": "Member of Group Medical Advisory Council, Senior Director - HR & Chief People Officer",
-      "age": 47,
-      "year_born": 1978,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Dr. Sandeep  Budhiraja",
       "role": "Member of Group Medical Advisory Council, Joint Chief Risk Officer & Group Medical Director",
       "age": 55,
@@ -60,17 +46,31 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Dr. Anurag  Krishna",
-      "role": "Member of Group Medical Advisory Council & Chairman of Paediatrics & Paediatric Surgery",
-      "age": 67,
-      "year_born": 1958,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Colonel Harinder Singh Chehal",
       "role": "Group Director & CEO of Cluster 2",
       "age": 61,
       "year_born": 1964,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Mradul  Kaushik",
+      "role": "Member of Group Medical Advisory Council, Group Director of Ops & Planning and CEO of Cluster 1",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. D. N. Suresh Kumar",
+      "role": "Senior Vice President of Infrastructure",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sachin  Kumar",
+      "role": "Senior Vice President of Internal Audit",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

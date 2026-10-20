@@ -1,14 +1,14 @@
 {
   "ticker": "RSYSTEMS",
-  "collected_at": "2026-10-19 07:02:00",
+  "collected_at": "2026-10-20 06:50:55",
   "company_info": {
     "name": "R Systems International Limited",
     "sector": "Technology",
     "industry": "Information Technology Services",
-    "market_cap": 30530484224,
-    "current_price": 257.65,
-    "pe_ratio": 16.547848,
-    "pb_ratio": 2.7796357,
+    "market_cap": 30459385856,
+    "current_price": 257.05,
+    "pe_ratio": 16.509312,
+    "pb_ratio": 2.7731626,
     "roe": 0.17333001,
     "debt_to_equity": 28.616,
     "revenue": 22429859840,
@@ -16,6 +16,6 @@
     "eps": 15.57,
     "52_week_high": 435.9,
     "52_week_low": 213.52,
-    "dividend_yield": 6.12
+    "dividend_yield": 6.22
   }
 }

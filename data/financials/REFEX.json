@@ -1,14 +1,14 @@
 {
   "ticker": "REFEX",
-  "collected_at": "2026-10-19 07:01:04",
+  "collected_at": "2026-10-20 06:49:56",
   "company_info": {
     "name": "Refex Industries Limited",
     "sector": "Energy",
     "industry": "Thermal Coal",
-    "market_cap": 34773712896,
-    "current_price": 253.4,
-    "pe_ratio": 12.312925,
-    "pb_ratio": 2.3113477,
+    "market_cap": 34265966592,
+    "current_price": 249.7,
+    "pe_ratio": 12.133139,
+    "pb_ratio": 2.2775989,
     "roe": "N/A",
     "debt_to_equity": 14.918,
     "revenue": 28411768832,
@@ -16,6 +16,6 @@
     "eps": 20.58,
     "52_week_high": 382.0,
     "52_week_low": 188.0,
-    "dividend_yield": 0.78
+    "dividend_yield": 0.8
   }
 }

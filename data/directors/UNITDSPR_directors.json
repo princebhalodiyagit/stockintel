@@ -1,22 +1,8 @@
 {
   "ticker": "UNITDSPR",
   "company": "United Spirits Limited",
-  "collected_at": "2026-10-19 07:09:28",
+  "collected_at": "2026-10-20 06:58:43",
   "directors": [
-    {
-      "name": "Mr. Praveen  Someshwar",
-      "role": "MD, CEO & Director",
-      "age": 58,
-      "year_born": 1967,
-      "total_pay": 183339510
-    },
-    {
-      "name": "Mr. Pradeep  Jain",
-      "role": "CFO & Executive Whole-time Director",
-      "age": 56,
-      "year_born": 1969,
-      "total_pay": 47299440
-    },
     {
       "name": "Dhivya Kumar Bansal",
       "role": "VP and Chief Digital & Technology Officer",
@@ -71,6 +57,20 @@
       "role": "Chief Strategy Officer",
       "age": 48,
       "year_born": 1977,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Shobhana  Nikam",
+      "role": "General Counsel (Leave of Absence)",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mahaveer Chand Jain",
+      "role": "VP of USL Head and Africa Audit & Head of Internal Audit",
+      "age": 45,
+      "year_born": 1980,
       "total_pay": "N/A"
     }
   ]

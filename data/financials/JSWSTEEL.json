@@ -1,14 +1,14 @@
 {
   "ticker": "JSWSTEEL",
-  "collected_at": "2026-10-19 06:50:26",
+  "collected_at": "2026-10-20 06:38:44",
   "company_info": {
     "name": "JSW Steel Limited",
     "sector": "Basic Materials",
     "industry": "Steel",
-    "market_cap": 3031694835712,
-    "current_price": 1242.0,
-    "pe_ratio": 12.254563,
-    "pb_ratio": 3.029904,
+    "market_cap": 3029986443264,
+    "current_price": 1241.3,
+    "pe_ratio": 12.247658,
+    "pb_ratio": 3.0281963,
     "roe": "N/A",
     "debt_to_equity": 95.374,
     "revenue": 1896870051840,
@@ -16,6 +16,6 @@
     "eps": 101.35,
     "52_week_high": 1351.0,
     "52_week_low": 1073.2,
-    "dividend_yield": 0.58
+    "dividend_yield": 0.57
   }
 }

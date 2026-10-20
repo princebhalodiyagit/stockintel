@@ -1,14 +1,14 @@
 {
   "ticker": "KPIGREEN",
-  "collected_at": "2026-10-19 06:51:50",
+  "collected_at": "2026-10-20 06:40:14",
   "company_info": {
     "name": "KPI Green Energy Limited",
     "sector": "Utilities",
     "industry": "Utilities - Renewable",
-    "market_cap": 61713190912,
-    "current_price": 312.2,
-    "pe_ratio": 13.515152,
-    "pb_ratio": 2.0312693,
+    "market_cap": 62237020160,
+    "current_price": 314.85,
+    "pe_ratio": 13.62987,
+    "pb_ratio": 2.048511,
     "roe": "N/A",
     "debt_to_equity": 158.765,
     "revenue": 27868073984,
@@ -16,6 +16,6 @@
     "eps": 23.1,
     "52_week_high": 542.25,
     "52_week_low": 271.9,
-    "dividend_yield": 0.31
+    "dividend_yield": 0.32
   }
 }

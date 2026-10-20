@@ -1,7 +1,7 @@
 {
   "ticker": "EPL",
   "company": "EPL Limited",
-  "collected_at": "2026-10-19 06:42:53",
+  "collected_at": "2026-10-20 06:30:45",
   "directors": [
     {
       "name": "Mr. Hemant  Bakshi",
@@ -46,13 +46,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Ms. Sonal  Jain",
-      "role": "Global CHRO, Transformation and Marketing",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Kelvin  Wang",
       "role": "President of EAP Region",
       "age": "N/A",
@@ -71,6 +64,13 @@
       "role": "President of Creativity & Innovation",
       "age": 51,
       "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Shrihari K. Rao",
+      "role": "President of Global Centre of Excellence of Beauty & Cosmetics",
+      "age": 54,
+      "year_born": 1971,
       "total_pay": "N/A"
     }
   ]

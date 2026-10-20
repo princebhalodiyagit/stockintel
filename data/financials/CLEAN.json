@@ -1,14 +1,14 @@
 {
   "ticker": "CLEAN",
-  "collected_at": "2026-10-19 06:39:33",
+  "collected_at": "2026-10-20 06:27:13",
   "company_info": {
     "name": "Clean Science and Technology Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals",
-    "market_cap": 81307353088,
-    "current_price": 765.0,
-    "pe_ratio": 34.915565,
-    "pb_ratio": 5.1362624,
+    "market_cap": 80759988224,
+    "current_price": 759.85,
+    "pe_ratio": 34.68051,
+    "pb_ratio": 5.1016846,
     "roe": "N/A",
     "debt_to_equity": 0.135,
     "revenue": 9821100032,
@@ -16,6 +16,6 @@
     "eps": 21.91,
     "52_week_high": 1069.8,
     "52_week_low": 652.0,
-    "dividend_yield": 0.77
+    "dividend_yield": 0.79
   }
 }

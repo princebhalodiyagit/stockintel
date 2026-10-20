@@ -1,14 +1,14 @@
 {
   "ticker": "KUANTUM",
-  "collected_at": "2026-10-19 06:52:15",
+  "collected_at": "2026-10-20 06:40:41",
   "company_info": {
     "name": "Kuantum Papers Limited",
     "sector": "Basic Materials",
     "industry": "Paper & Paper Products",
-    "market_cap": 6298689024,
-    "current_price": 72.18,
-    "pe_ratio": 17.434784,
-    "pb_ratio": 0.51278776,
+    "market_cap": 6212298240,
+    "current_price": 71.19,
+    "pe_ratio": 17.195654,
+    "pb_ratio": 0.50575453,
     "roe": "N/A",
     "debt_to_equity": 70.808,
     "revenue": 11788099584,
@@ -16,6 +16,6 @@
     "eps": 4.14,
     "52_week_high": 111.3,
     "52_week_low": 65.01,
-    "dividend_yield": 3.46
+    "dividend_yield": 3.51
   }
 }
