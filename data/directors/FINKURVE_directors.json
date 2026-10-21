@@ -1,15 +1,8 @@
 {
   "ticker": "FINKURVE",
   "company": "Finkurve Financial Services Limited",
-  "collected_at": "2026-10-20 06:31:27",
+  "collected_at": "2026-10-21 06:30:56",
   "directors": [
-    {
-      "name": "Mr. Naveen Kumar Kottala",
-      "role": "Chief Executive Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
     {
       "name": "Mr. Aakash Nemichand Jain",
       "role": "Chief Financial Officer",
@@ -71,6 +64,13 @@
       "role": "Chief Risk Officer",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Sugandhi Ravi Kumar",
+      "role": "Chartered Accountant",
+      "age": 36,
+      "year_born": 1989,
       "total_pay": "N/A"
     }
   ]
