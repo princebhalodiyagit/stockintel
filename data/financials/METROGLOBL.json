@@ -1,14 +1,14 @@
 {
   "ticker": "METROGLOBL",
-  "collected_at": "2026-10-21 06:42:41",
+  "collected_at": "2026-10-22 06:43:41",
   "company_info": {
     "name": "MetroGlobal Limited",
     "sector": "Industrials",
     "industry": "Conglomerates",
-    "market_cap": 1517128064,
-    "current_price": 123.0,
-    "pe_ratio": 6.202723,
-    "pb_ratio": 0.37161353,
+    "market_cap": 1485675392,
+    "current_price": 120.45,
+    "pe_ratio": 6.07413,
+    "pb_ratio": 0.36390936,
     "roe": "N/A",
     "debt_to_equity": 0.815,
     "revenue": 2638248960,
@@ -16,6 +16,6 @@
     "eps": 19.83,
     "52_week_high": 165.0,
     "52_week_low": 110.0,
-    "dividend_yield": 1.94
+    "dividend_yield": 2.07
   }
 }

@@ -1,14 +1,14 @@
 {
   "ticker": "BFINVEST",
-  "collected_at": "2026-10-21 06:24:13",
+  "collected_at": "2026-10-22 06:27:32",
   "company_info": {
     "name": "BF Investment Limited",
     "sector": "Financial Services",
     "industry": "Asset Management",
-    "market_cap": 15366509568,
-    "current_price": 407.95,
-    "pe_ratio": 3.9442136,
-    "pb_ratio": 0.17996426,
+    "market_cap": 14942748672,
+    "current_price": 396.7,
+    "pe_ratio": 3.8354445,
+    "pb_ratio": 0.1750014,
     "roe": "N/A",
     "debt_to_equity": 0.001,
     "revenue": 781820032,
@@ -16,6 +16,6 @@
     "eps": 103.43,
     "52_week_high": 584.7,
     "52_week_low": 315.0,
-    "dividend_yield": 2.36
+    "dividend_yield": 2.5
   }
 }

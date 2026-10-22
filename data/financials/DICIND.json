@@ -1,14 +1,14 @@
 {
   "ticker": "DICIND",
-  "collected_at": "2026-10-21 06:28:37",
+  "collected_at": "2026-10-22 06:31:24",
   "company_info": {
     "name": "DIC India Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals",
-    "market_cap": 5277911552,
-    "current_price": 575.0,
-    "pe_ratio": 18.242386,
-    "pb_ratio": 1.1883799,
+    "market_cap": 5267355648,
+    "current_price": 573.85,
+    "pe_ratio": 18.2059,
+    "pb_ratio": 1.1860031,
     "roe": "N/A",
     "debt_to_equity": 0.736,
     "revenue": 9844589568,
@@ -16,6 +16,6 @@
     "eps": 31.52,
     "52_week_high": 675.0,
     "52_week_low": 450.5,
-    "dividend_yield": 0.51
+    "dividend_yield": 0.52
   }
 }

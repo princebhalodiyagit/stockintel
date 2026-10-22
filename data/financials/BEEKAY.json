@@ -1,14 +1,14 @@
 {
   "ticker": "BEEKAY",
-  "collected_at": "2026-10-21 06:24:00",
+  "collected_at": "2026-10-22 06:27:21",
   "company_info": {
     "name": "Beekay Steel Industries Limited",
     "sector": "Basic Materials",
     "industry": "Steel",
     "market_cap": "N/A",
-    "current_price": 420.0,
-    "pe_ratio": 18.608772,
-    "pb_ratio": 0.7439238,
+    "current_price": 412.0,
+    "pe_ratio": 18.25432,
+    "pb_ratio": 0.7297538,
     "roe": "N/A",
     "debt_to_equity": 31.766,
     "revenue": 12669114368,
@@ -16,6 +16,6 @@
     "eps": 22.57,
     "52_week_high": 480.0,
     "52_week_low": 390.2,
-    "dividend_yield": 0.23
+    "dividend_yield": 0.24
   }
 }

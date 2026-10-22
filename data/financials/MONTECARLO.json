@@ -1,14 +1,14 @@
 {
   "ticker": "MONTECARLO",
-  "collected_at": "2026-10-21 06:43:23",
+  "collected_at": "2026-10-22 06:44:18",
   "company_info": {
     "name": "Monte Carlo Fashions Limited",
     "sector": "Consumer Cyclical",
     "industry": "Apparel Manufacturing",
-    "market_cap": 10734025728,
-    "current_price": 517.75,
-    "pe_ratio": 10.238283,
-    "pb_ratio": 1.1830851,
+    "market_cap": 10550547456,
+    "current_price": 508.9,
+    "pe_ratio": 10.063278,
+    "pb_ratio": 1.1628624,
     "roe": "N/A",
     "debt_to_equity": 63.989,
     "revenue": 12864199680,
@@ -16,6 +16,6 @@
     "eps": 50.57,
     "52_week_high": 860.95,
     "52_week_low": 464.0,
-    "dividend_yield": 3.84
+    "dividend_yield": 3.88
   }
 }

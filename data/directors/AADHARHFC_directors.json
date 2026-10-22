@@ -1,22 +1,8 @@
 {
   "ticker": "AADHARHFC",
   "company": "Aadhar Housing Finance Limited",
-  "collected_at": "2026-10-21 06:18:47",
+  "collected_at": "2026-10-22 06:22:48",
   "directors": [
-    {
-      "name": "Mr. Rishi  Anand",
-      "role": "MD, CEO & Director",
-      "age": 53,
-      "year_born": 1972,
-      "total_pay": 233300000
-    },
-    {
-      "name": "Mr. Deo Shankar Tripathi",
-      "role": "Executive Vice Chairman",
-      "age": 72,
-      "year_born": 1953,
-      "total_pay": 382700000
-    },
     {
       "name": "Mr. Rajesh  Viswanathan",
       "role": "Chief Financial Officer",
@@ -69,6 +55,20 @@
     {
       "name": "Mr. Pratik Rajendra Jariwala",
       "role": "Chief Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Suraj Jayaram Shetty",
+      "role": "Head of Legal",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Noel  Mascarenhas",
+      "role": "Head of Marketing & Product",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

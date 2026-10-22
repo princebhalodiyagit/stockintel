@@ -1,14 +1,14 @@
 {
   "ticker": "TRANSPEK",
-  "collected_at": "2026-10-21 06:57:26",
+  "collected_at": "2026-10-22 06:56:44",
   "company_info": {
     "name": "Transpek Industry Limited",
     "sector": "Basic Materials",
     "industry": "Chemicals",
-    "market_cap": 7418193920,
-    "current_price": 1328.1,
-    "pe_ratio": 19.02722,
-    "pb_ratio": 0.96661353,
+    "market_cap": 7143942656,
+    "current_price": 1279.0,
+    "pe_ratio": 18.323782,
+    "pb_ratio": 0.93087775,
     "roe": "N/A",
     "debt_to_equity": "N/A",
     "revenue": 6180284928,
@@ -16,6 +16,6 @@
     "eps": 69.8,
     "52_week_high": 1475.0,
     "52_week_low": 952.3,
-    "dividend_yield": 1.43
+    "dividend_yield": 1.5
   }
 }

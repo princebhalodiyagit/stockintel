@@ -1,14 +1,14 @@
 {
   "ticker": "FORCEMOT",
-  "collected_at": "2026-10-21 06:31:11",
+  "collected_at": "2026-10-22 06:33:39",
   "company_info": {
     "name": "Force Motors Limited",
     "sector": "Consumer Cyclical",
     "industry": "Auto Manufacturers",
-    "market_cap": 223205883904,
-    "current_price": 16940.0,
-    "pe_ratio": 17.82989,
-    "pb_ratio": 5.4162645,
+    "market_cap": 220702392320,
+    "current_price": 16750.0,
+    "pe_ratio": 17.629908,
+    "pb_ratio": 5.355515,
     "roe": "N/A",
     "debt_to_equity": "N/A",
     "revenue": 91998101504,
@@ -16,6 +16,6 @@
     "eps": 950.09,
     "52_week_high": 26450.0,
     "52_week_low": 16109.0,
-    "dividend_yield": 0.28
+    "dividend_yield": 0.3
   }
 }

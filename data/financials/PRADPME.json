@@ -1,14 +1,14 @@
 {
   "ticker": "PRADPME",
-  "collected_at": "2026-10-21 06:47:58",
+  "collected_at": "2026-10-22 06:48:22",
   "company_info": {
     "name": "Pradeep Metals Limited",
     "sector": "Industrials",
     "industry": "Metal Fabrication",
     "market_cap": "N/A",
-    "current_price": 598.8,
-    "pe_ratio": 31.20375,
-    "pb_ratio": 6.2966623,
+    "current_price": 596.4,
+    "pe_ratio": 31.078688,
+    "pb_ratio": 6.2714257,
     "roe": "N/A",
     "debt_to_equity": 45.897,
     "revenue": 3542050048,
@@ -16,6 +16,6 @@
     "eps": 19.19,
     "52_week_high": 725.45,
     "52_week_low": 440.0,
-    "dividend_yield": 0.4
+    "dividend_yield": 0.44
   }
 }

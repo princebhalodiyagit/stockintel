@@ -1,14 +1,14 @@
 {
   "ticker": "AVL",
-  "collected_at": "2026-10-21 06:22:47",
+  "collected_at": "2026-10-22 06:26:19",
   "company_info": {
     "name": "Aditya Vision Limited",
     "sector": "Consumer Cyclical",
     "industry": "Specialty Retail",
-    "market_cap": 69605408768,
-    "current_price": 539.0,
-    "pe_ratio": 50.186222,
-    "pb_ratio": 10.067239,
+    "market_cap": 69921800192,
+    "current_price": 541.45,
+    "pe_ratio": 50.41434,
+    "pb_ratio": 10.113,
     "roe": "N/A",
     "debt_to_equity": 83.205,
     "revenue": 29240700928,
@@ -16,6 +16,6 @@
     "eps": 10.74,
     "52_week_high": 705.0,
     "52_week_low": 436.55,
-    "dividend_yield": 0.22
+    "dividend_yield": 0.23
   }
 }

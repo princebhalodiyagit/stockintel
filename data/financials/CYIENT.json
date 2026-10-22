@@ -1,14 +1,14 @@
 {
   "ticker": "CYIENT",
-  "collected_at": "2026-10-21 06:27:35",
+  "collected_at": "2026-10-22 06:30:29",
   "company_info": {
     "name": "Cyient Limited",
     "sector": "Industrials",
     "industry": "Conglomerates",
-    "market_cap": 121278406656,
-    "current_price": 1165.0,
-    "pe_ratio": 34.22444,
-    "pb_ratio": 2.2651446,
+    "market_cap": 120143699968,
+    "current_price": 1154.1,
+    "pe_ratio": 33.90423,
+    "pb_ratio": 2.2439513,
     "roe": "N/A",
     "debt_to_equity": 7.528,
     "revenue": 76320997376,
@@ -16,6 +16,6 @@
     "eps": 34.04,
     "52_week_high": 1224.4,
     "52_week_low": 750.3,
-    "dividend_yield": 2.73
+    "dividend_yield": 2.74
   }
 }
