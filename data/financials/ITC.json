@@ -1,14 +1,14 @@
 {
   "ticker": "ITC",
-  "collected_at": "2026-10-22 06:38:50",
+  "collected_at": "2026-10-23 06:36:08",
   "company_info": {
     "name": "ITC Limited",
     "sector": "Consumer Defensive",
     "industry": "Tobacco",
-    "market_cap": 3225355026432,
-    "current_price": 257.4,
-    "pe_ratio": 16.25,
-    "pb_ratio": 4.447977,
+    "market_cap": 3199667535872,
+    "current_price": 255.35,
+    "pe_ratio": 16.12058,
+    "pb_ratio": 4.412553,
     "roe": "N/A",
     "debt_to_equity": 3.293,
     "revenue": 764879831040,
@@ -16,6 +16,6 @@
     "eps": 15.84,
     "52_week_high": 426.4,
     "52_week_low": 253.15,
-    "dividend_yield": 6.11
+    "dividend_yield": 6.18
   }
 }

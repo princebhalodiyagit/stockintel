@@ -1,7 +1,7 @@
 {
   "ticker": "GREENPANEL",
   "company": "Greenpanel Industries Limited",
-  "collected_at": "2026-10-22 06:35:21",
+  "collected_at": "2026-10-23 06:31:52",
   "directors": [
     {
       "name": "Mr. Shiv Prakash Mittal B.Sc.",
@@ -53,13 +53,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Prakash  Tripathi",
-      "role": "Chief Sales Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Somnath  Mukherjee",
       "role": "Chief Human Resources Officer",
       "age": 53,
@@ -71,6 +64,13 @@
       "role": "President of Technical Operations",
       "age": 65,
       "year_born": 1960,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vinod Kumar Agarwal",
+      "role": "Vice President of Imports",
+      "age": 66,
+      "year_born": 1959,
       "total_pay": "N/A"
     }
   ]

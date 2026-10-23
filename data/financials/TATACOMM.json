@@ -1,14 +1,14 @@
 {
   "ticker": "TATACOMM",
-  "collected_at": "2026-10-22 06:55:27",
+  "collected_at": "2026-10-23 06:56:21",
   "company_info": {
     "name": "Tata Communications Limited",
     "sector": "Communication Services",
     "industry": "Telecom Services",
-    "market_cap": 480654360576,
-    "current_price": 1686.0,
-    "pe_ratio": 43.610966,
-    "pb_ratio": 14.134809,
+    "market_cap": 458674274304,
+    "current_price": 1608.9,
+    "pe_ratio": 41.616657,
+    "pb_ratio": 13.488431,
     "roe": 0.3376,
     "debt_to_equity": 371.497,
     "revenue": 260138303488,
@@ -16,6 +16,6 @@
     "eps": 38.66,
     "52_week_high": 2110.0,
     "52_week_low": 1322.5,
-    "dividend_yield": 1.03
+    "dividend_yield": 1.04
   }
 }

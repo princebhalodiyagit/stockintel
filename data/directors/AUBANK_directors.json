@@ -1,7 +1,7 @@
 {
   "ticker": "AUBANK",
   "company": "AU Small Finance Bank Limited",
-  "collected_at": "2026-10-22 06:26:06",
+  "collected_at": "2026-10-23 06:20:33",
   "directors": [
     {
       "name": "Mr. Sanjay  Agarwal C.A.",
@@ -29,13 +29,6 @@
       "role": "Company Secretary & Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Yogesh  Soni",
-      "role": "Chief of Branch Banking Operations and Head of Operations & Service",
-      "age": 40,
-      "year_born": 1985,
       "total_pay": "N/A"
     },
     {
@@ -71,6 +64,13 @@
       "role": "President of Core Market Banking",
       "age": 43,
       "year_born": 1982,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vivek  Tripathi",
+      "role": "Chief Credit Officer & Whole-Time Director",
+      "age": 46,
+      "year_born": 1979,
       "total_pay": "N/A"
     }
   ]

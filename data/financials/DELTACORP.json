@@ -1,14 +1,14 @@
 {
   "ticker": "DELTACORP",
-  "collected_at": "2026-10-22 06:31:05",
+  "collected_at": "2026-10-23 06:26:41",
   "company_info": {
     "name": "Delta Corp Limited",
     "sector": "Consumer Cyclical",
     "industry": "Resorts & Casinos",
-    "market_cap": 20521977856,
-    "current_price": 76.64,
+    "market_cap": 19844515840,
+    "current_price": 74.11,
     "pe_ratio": "N/A",
-    "pb_ratio": 1.0684661,
+    "pb_ratio": 1.0331944,
     "roe": -0.13731,
     "debt_to_equity": 4.333,
     "revenue": 6494199808,
@@ -16,6 +16,6 @@
     "eps": -10.77,
     "52_week_high": 88.6,
     "52_week_low": 48.3,
-    "dividend_yield": 0.68
+    "dividend_yield": 0.66
   }
 }

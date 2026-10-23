@@ -1,22 +1,8 @@
 {
   "ticker": "CRAFTSMAN",
   "company": "Craftsman Automation Limited",
-  "collected_at": "2026-10-22 06:30:12",
+  "collected_at": "2026-10-23 06:25:37",
   "directors": [
-    {
-      "name": "Mr. Srinivasan  Ravi",
-      "role": "Chairman & MD",
-      "age": 61,
-      "year_born": 1964,
-      "total_pay": 59300000
-    },
-    {
-      "name": "Mr. Ravi  Gauthamram",
-      "role": "Whole-Time Director",
-      "age": 37,
-      "year_born": 1988,
-      "total_pay": 19200000
-    },
     {
       "name": "Mr. C.B.  Chandrasekar",
       "role": "Chief Financial Officer",
@@ -71,6 +57,13 @@
       "role": "Chief Technical Officer- Aluminium Products",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Deepak  Bhoi",
+      "role": "Vice President",
+      "age": 40,
+      "year_born": 1985,
       "total_pay": "N/A"
     }
   ]

@@ -1,15 +1,8 @@
 {
   "ticker": "REFEX",
   "company": "Refex Industries Limited",
-  "collected_at": "2026-10-22 06:49:44",
+  "collected_at": "2026-10-23 06:49:25",
   "directors": [
-    {
-      "name": "Mr. T. Anil Jain",
-      "role": "Executive Chairman & MD",
-      "age": 49,
-      "year_born": 1976,
-      "total_pay": 15000000
-    },
     {
       "name": "Mr. Dinesh Kumar Agarwal B.Com., F.C.A.",
       "role": "CFO & Whole-Time Director",
@@ -53,13 +46,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Ankit  Poddar",
-      "role": "Company Secretary & Compliance Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
       "name": "Ms. Harini  Sriraman",
       "role": "VP & Group General Counsel",
       "age": "N/A",
@@ -69,6 +55,20 @@
     {
       "name": "Ms. Srividya  Nirmalkumar",
       "role": "Vice President of Corporate Communications",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Purvesh Madhusudan Kapadia",
+      "role": "Group Chief Human Resource Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Tarun  Arora",
+      "role": "Chief Business Officer of Ash & Coal Handling",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

@@ -1,14 +1,14 @@
 {
   "ticker": "CANBK",
-  "collected_at": "2026-10-22 06:28:42",
+  "collected_at": "2026-10-23 06:23:48",
   "company_info": {
     "name": "Canara Bank",
     "sector": "Financial Services",
     "industry": "Banks - Regional",
-    "market_cap": 1083307917312,
-    "current_price": 119.43,
-    "pe_ratio": 5.315087,
-    "pb_ratio": 0.84662503,
+    "market_cap": 1058091499520,
+    "current_price": 116.65,
+    "pe_ratio": 5.1913667,
+    "pb_ratio": 0.82691795,
     "roe": 0.1512,
     "debt_to_equity": "N/A",
     "revenue": 438066511872,
@@ -16,6 +16,6 @@
     "eps": 22.47,
     "52_week_high": 162.89,
     "52_week_low": 116.51,
-    "dividend_yield": 3.48
+    "dividend_yield": 3.47
   }
 }

@@ -1,14 +1,14 @@
 {
   "ticker": "VBL",
-  "collected_at": "2026-10-22 06:57:57",
+  "collected_at": "2026-10-23 06:59:23",
   "company_info": {
     "name": "Varun Beverages Limited",
     "sector": "Consumer Defensive",
     "industry": "Beverages - Non-Alcoholic",
-    "market_cap": 1362130632704,
-    "current_price": 402.7,
-    "pe_ratio": 40.27,
-    "pb_ratio": 6.256409,
+    "market_cap": 1317650825216,
+    "current_price": 389.55,
+    "pe_ratio": 38.954998,
+    "pb_ratio": 6.0521083,
     "roe": 0.16853,
     "debt_to_equity": 15.869,
     "revenue": 241264951296,
@@ -16,6 +16,6 @@
     "eps": 10.0,
     "52_week_high": 555.8,
     "52_week_low": 381.0,
-    "dividend_yield": 0.49
+    "dividend_yield": 0.5
   }
 }

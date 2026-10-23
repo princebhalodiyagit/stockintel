@@ -1,14 +1,14 @@
 {
   "ticker": "GABRIEL",
-  "collected_at": "2026-10-22 06:33:46",
+  "collected_at": "2026-10-23 06:29:57",
   "company_info": {
     "name": "Gabriel India Limited",
     "sector": "Consumer Cyclical",
     "industry": "Auto Parts",
-    "market_cap": 262174769152,
-    "current_price": 1368.1,
-    "pe_ratio": 70.849304,
-    "pb_ratio": 14.379861,
+    "market_cap": 255160975360,
+    "current_price": 1331.5,
+    "pe_ratio": 68.95391,
+    "pb_ratio": 13.995165,
     "roe": "N/A",
     "debt_to_equity": 10.642,
     "revenue": 48582590464,
@@ -16,6 +16,6 @@
     "eps": 19.31,
     "52_week_high": 1600.0,
     "52_week_low": 795.7,
-    "dividend_yield": 0.35
+    "dividend_yield": 0.37
   }
 }

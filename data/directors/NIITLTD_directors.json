@@ -1,7 +1,7 @@
 {
   "ticker": "NIITLTD",
   "company": "NIIT Limited",
-  "collected_at": "2026-10-22 06:45:41",
+  "collected_at": "2026-10-23 06:44:30",
   "directors": [
     {
       "name": "Mr. Rajendra Singh Pawar B. Tech",
@@ -9,13 +9,6 @@
       "age": 74,
       "year_born": 1951,
       "total_pay": 5617487
-    },
-    {
-      "name": "Mr. Pankaj Prabhakar Jathar",
-      "role": "Chief Executive Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
     },
     {
       "name": "Mr. Vijay Kumar Thadani B. Tech",
@@ -71,6 +64,13 @@
       "role": "Vice President",
       "age": 40,
       "year_born": 1985,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sunil  Sirohi B.Sc. M.Sc.",
+      "role": "Chief Information officer & Head of Technology Services - Organisation India",
+      "age": 58,
+      "year_born": 1967,
       "total_pay": "N/A"
     }
   ]
