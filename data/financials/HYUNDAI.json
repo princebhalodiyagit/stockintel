@@ -1,14 +1,14 @@
 {
   "ticker": "HYUNDAI",
-  "collected_at": "2026-10-23 06:34:03",
+  "collected_at": "2026-10-24 06:28:56",
   "company_info": {
     "name": "Hyundai Motor India Limited",
     "sector": "Consumer Cyclical",
     "industry": "Auto Manufacturers",
-    "market_cap": 1514495410176,
-    "current_price": 1863.9,
-    "pe_ratio": 30.590841,
-    "pb_ratio": 7.568338,
+    "market_cap": 1503201067008,
+    "current_price": 1850.0,
+    "pe_ratio": 30.36271,
+    "pb_ratio": 7.511897,
     "roe": "N/A",
     "debt_to_equity": 5.484,
     "revenue": 706850914304,
@@ -16,6 +16,6 @@
     "eps": 60.93,
     "52_week_high": 2468.0,
     "52_week_low": 1658.0,
-    "dividend_yield": 1.11
+    "dividend_yield": 1.14
   }
 }

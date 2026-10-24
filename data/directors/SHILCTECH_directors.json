@@ -1,7 +1,7 @@
 {
   "ticker": "SHILCTECH",
   "company": "Shilchar Technologies Limited",
-  "collected_at": "2026-10-23 06:52:37",
+  "collected_at": "2026-10-24 06:47:07",
   "directors": [
     {
       "name": "Mr. Alay Jitendra Shah",
@@ -39,13 +39,6 @@
       "total_pay": 11547000
     },
     {
-      "name": "Mr. Rajendra K. Nath",
-      "role": "Chief Operating Officer",
-      "age": 59,
-      "year_born": 1966,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Vishwas  Desai",
       "role": "Senior Manager of EHS, Human Resources & Administration",
       "age": 40,
@@ -71,6 +64,13 @@
       "role": "Head of Business Development",
       "age": 63,
       "year_born": 1962,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Varsha  Pathak",
+      "role": "Deputy GM-Operations and Deputy GM- Electronics & Telecom",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

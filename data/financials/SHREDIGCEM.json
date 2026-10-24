@@ -1,21 +1,21 @@
 {
   "ticker": "SHREDIGCEM",
-  "collected_at": "2026-10-23 06:52:47",
+  "collected_at": "2026-10-24 06:47:17",
   "company_info": {
     "name": "Shree Digvijay Cement Company Limited",
     "sector": "Basic Materials",
     "industry": "Building Materials",
-    "market_cap": 8763920384,
-    "current_price": 59.25,
-    "pe_ratio": 47.782257,
-    "pb_ratio": 2.395391,
+    "market_cap": 8306865664,
+    "current_price": 56.16,
+    "pe_ratio": "N/A",
+    "pb_ratio": 2.2704668,
     "roe": "N/A",
     "debt_to_equity": 140.51,
     "revenue": 8904203264,
     "net_income": 180084000,
-    "eps": 1.24,
+    "eps": -0.57,
     "52_week_high": 93.95,
     "52_week_low": 53.9,
-    "dividend_yield": 1.64
+    "dividend_yield": 1.78
   }
 }

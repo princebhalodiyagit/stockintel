@@ -1,14 +1,14 @@
 {
   "ticker": "EXIDEIND",
-  "collected_at": "2026-10-23 06:29:10",
+  "collected_at": "2026-10-24 06:24:09",
   "company_info": {
     "name": "Exide Industries Limited",
     "sector": "Consumer Cyclical",
     "industry": "Auto Parts",
-    "market_cap": 283304984576,
-    "current_price": 333.3,
-    "pe_ratio": 30.410583,
-    "pb_ratio": 2.0374603,
+    "market_cap": 282157514752,
+    "current_price": 331.95,
+    "pe_ratio": 30.287409,
+    "pb_ratio": 2.029208,
     "roe": "N/A",
     "debt_to_equity": 11.308,
     "revenue": 188286107648,
@@ -16,6 +16,6 @@
     "eps": 10.96,
     "52_week_high": 496.4,
     "52_week_low": 287.0,
-    "dividend_yield": 0.58
+    "dividend_yield": 0.6
   }
 }
