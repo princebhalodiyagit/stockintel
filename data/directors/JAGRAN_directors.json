@@ -1,50 +1,8 @@
 {
   "ticker": "JAGRAN",
   "company": "Jagran Prakashan Limited",
-  "collected_at": "2026-10-24 06:31:13",
+  "collected_at": "2026-10-25 06:47:09",
   "directors": [
-    {
-      "name": "Mr. Sandeep  Gupta B.Tech",
-      "role": "Executive President of Technical & Whole-Time Director",
-      "age": 61,
-      "year_born": 1964,
-      "total_pay": 14629000
-    },
-    {
-      "name": "Mr. Shailesh  Gupta",
-      "role": "Head of Advertisement & Marketing Department and Whole Time Director",
-      "age": 56,
-      "year_born": 1969,
-      "total_pay": 23524000
-    },
-    {
-      "name": "Mr. Sanjay  Gupta B.Sc.",
-      "role": "Chief Editor of Dainik Jagran & Whole Time Director",
-      "age": 63,
-      "year_born": 1962,
-      "total_pay": 26974000
-    },
-    {
-      "name": "Mr. Dhirendra Mohan Gupta B.A.",
-      "role": "Whole-Time Director",
-      "age": 81,
-      "year_born": 1944,
-      "total_pay": 27714000
-    },
-    {
-      "name": "Mr. Sunil  Gupta M. Com.",
-      "role": "Whole Time Director",
-      "age": 63,
-      "year_born": 1962,
-      "total_pay": 30440000
-    },
-    {
-      "name": "Mr. Satish Chandra Mishra",
-      "role": "Head of Production Department & Whole Time Director",
-      "age": 62,
-      "year_born": 1963,
-      "total_pay": 5133000
-    },
     {
       "name": "Mr. Amit  Jaiswal",
       "role": "CFO, Compliance Officer & Company Secretary",
@@ -71,6 +29,48 @@
       "role": "Senior Vice President of Advertisement",
       "age": 56,
       "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Sarbani  Bhatia",
+      "role": "Senior Vice President of Information Technology",
+      "age": 57,
+      "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Basant Raj Singh Rathore",
+      "role": "Senior Vice President of Strategy and Brand Development",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vipon  Khatwani",
+      "role": "Senior Vice President of Advertisement",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sanjay  Shukla",
+      "role": "Senior Vice President of Nai Dunia",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Alok  Sanwal",
+      "role": "Senior VP & CEO of I-next",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Pawan  Bansal",
+      "role": "Senior VP and COO of Jagran Engage & Jagran Solutions",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

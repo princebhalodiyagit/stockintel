@@ -1,21 +1,21 @@
 {
   "ticker": "INDOTHAI",
-  "collected_at": "2026-10-24 06:30:05",
+  "collected_at": "2026-10-25 06:46:16",
   "company_info": {
     "name": "Indo Thai Securities Limited",
     "sector": "Financial Services",
     "industry": "Capital Markets",
     "market_cap": 4124625664,
     "current_price": 31.05,
-    "pe_ratio": 5.47619,
-    "pb_ratio": 1.4068872,
-    "roe": "N/A",
-    "debt_to_equity": 8.366,
-    "revenue": 1076349952,
-    "net_income": 686147008,
-    "eps": 5.67,
+    "pe_ratio": 5.760668,
+    "pb_ratio": 1.5056006,
+    "roe": 0.07423,
+    "debt_to_equity": 1.465,
+    "revenue": 786225024,
+    "net_income": 185815008,
+    "eps": 5.39,
     "52_week_high": 466.35,
     "52_week_low": 29.0,
-    "dividend_yield": 0.61
+    "dividend_yield": 0.64
   }
 }
