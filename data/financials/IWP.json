@@ -1,14 +1,14 @@
 {
   "ticker": "IWP",
-  "collected_at": "2026-10-26 06:57:37",
+  "collected_at": "2026-10-27 06:54:03",
   "company_info": {
     "name": "The Indian Wood Products Company Limited",
     "sector": "Basic Materials",
     "industry": "Lumber & Wood Production",
-    "market_cap": 2250560256,
-    "current_price": 35.18,
-    "pe_ratio": 37.827957,
-    "pb_ratio": 0.60425967,
+    "market_cap": 2207058944,
+    "current_price": 34.5,
+    "pe_ratio": 37.096775,
+    "pb_ratio": 0.59257984,
     "roe": "N/A",
     "debt_to_equity": 18.586,
     "revenue": 2422948096,
@@ -16,6 +16,6 @@
     "eps": 0.93,
     "52_week_high": 42.4,
     "52_week_low": 32.5,
-    "dividend_yield": 0.56
+    "dividend_yield": 0.59
   }
 }

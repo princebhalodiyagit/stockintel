@@ -1,15 +1,8 @@
 {
   "ticker": "HDFCBANK",
   "company": "HDFC Bank Limited",
-  "collected_at": "2026-10-26 06:55:01",
+  "collected_at": "2026-10-27 06:50:59",
   "directors": [
-    {
-      "name": "Mr. Sashidhar  Jagdishan",
-      "role": "MD, CEO & Director",
-      "age": 60,
-      "year_born": 1965,
-      "total_pay": 151250779
-    },
     {
       "name": "Mr. Kaizad Maneck Bharucha",
       "role": "Deputy MD & Director",
@@ -71,6 +64,13 @@
       "role": "Head of Corporate Communications",
       "age": 56,
       "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ravi  Santhanam",
+      "role": "Chief Marketing Officer & Group Head",
+      "age": 54,
+      "year_born": 1971,
       "total_pay": "N/A"
     }
   ]

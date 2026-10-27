@@ -1,14 +1,14 @@
 {
   "ticker": "NAM-INDIA",
-  "collected_at": "2026-10-26 07:03:22",
+  "collected_at": "2026-10-27 07:00:41",
   "company_info": {
     "name": "Nippon Life India Asset Management Limited",
     "sector": "Financial Services",
     "industry": "Asset Management",
-    "market_cap": 592678879232,
-    "current_price": 926.0,
-    "pe_ratio": 37.248592,
-    "pb_ratio": 12.419861,
+    "market_cap": 601767477248,
+    "current_price": 940.2,
+    "pe_ratio": 37.81979,
+    "pb_ratio": 12.610317,
     "roe": 0.35324,
     "debt_to_equity": 1.614,
     "revenue": 32417200128,
@@ -16,6 +16,6 @@
     "eps": 24.86,
     "52_week_high": 1269.5,
     "52_week_low": 795.8,
-    "dividend_yield": 2.33
+    "dividend_yield": 2.34
   }
 }
