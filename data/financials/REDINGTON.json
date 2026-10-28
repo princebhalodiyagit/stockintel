@@ -1,14 +1,14 @@
 {
   "ticker": "REDINGTON",
-  "collected_at": "2026-10-27 07:06:05",
+  "collected_at": "2026-10-28 07:32:00",
   "company_info": {
     "name": "Redington Limited",
     "sector": "Technology",
     "industry": "Information Technology Services",
-    "market_cap": 284604956672,
-    "current_price": 364.05,
-    "pe_ratio": 16.730238,
-    "pb_ratio": 2.8010309,
+    "market_cap": 275028213760,
+    "current_price": 351.8,
+    "pe_ratio": 16.167278,
+    "pb_ratio": 2.7067783,
     "roe": "N/A",
     "debt_to_equity": 27.26,
     "revenue": 1282364801024,
@@ -16,6 +16,6 @@
     "eps": 21.76,
     "52_week_high": 419.5,
     "52_week_low": 191.31,
-    "dividend_yield": 1.64
+    "dividend_yield": 1.68
   }
 }

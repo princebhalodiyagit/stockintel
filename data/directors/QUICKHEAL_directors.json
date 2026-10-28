@@ -1,7 +1,7 @@
 {
   "ticker": "QUICKHEAL",
   "company": "Quick Heal Technologies Limited",
-  "collected_at": "2026-10-27 07:05:22",
+  "collected_at": "2026-10-28 07:31:24",
   "directors": [
     {
       "name": "Dr. Kailash Sahebrao Katkar",
@@ -39,13 +39,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Sarang Hari Deshpande",
-      "role": "Company Secretary",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Harish Kumar G S",
       "role": "Chief Executive Officer",
       "age": "N/A",
@@ -71,6 +64,13 @@
       "role": "Head of Retail Sales",
       "age": 48,
       "year_born": 1977,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sangamesh  S",
+      "role": "Head of Seqrite Labs & MDR",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

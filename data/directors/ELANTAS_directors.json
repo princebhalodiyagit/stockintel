@@ -1,7 +1,7 @@
 {
   "ticker": "ELANTAS",
   "company": "Elantas Beck India Limited",
-  "collected_at": "2026-10-27 06:46:33",
+  "collected_at": "2026-10-28 07:15:23",
   "directors": [
     {
       "name": "Mr. Anurag  Roy",
@@ -9,13 +9,6 @@
       "age": 51,
       "year_born": 1974,
       "total_pay": 39886606
-    },
-    {
-      "name": "Mr. Sanjay  Kulkarni",
-      "role": "CFO and VP of Information Technology & Procurement",
-      "age": 58,
-      "year_born": 1967,
-      "total_pay": "N/A"
     },
     {
       "name": "Mr. Saurabh Kishor Kothade",
@@ -69,6 +62,13 @@
     {
       "name": "Mr. Abhiroop  Upadhyay",
       "role": "Head of Sales, Wire Enamels & Construction Chemicals",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kapilkumar  Dubey",
+      "role": "Head of Sales SI ( EL-I)",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

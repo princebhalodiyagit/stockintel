@@ -1,14 +1,14 @@
 {
   "ticker": "M&M",
-  "collected_at": "2026-10-27 06:57:54",
+  "collected_at": "2026-10-28 07:25:00",
   "company_info": {
     "name": "Mahindra & Mahindra Limited",
     "sector": "Consumer Cyclical",
     "industry": "Auto Manufacturers",
-    "market_cap": 3427455729664,
-    "current_price": 2854.4,
-    "pe_ratio": 17.37627,
-    "pb_ratio": 3.4265475,
+    "market_cap": 3465399762944,
+    "current_price": 2886.0,
+    "pe_ratio": 17.568636,
+    "pb_ratio": 3.4644818,
     "roe": "N/A",
     "debt_to_equity": 125.278,
     "revenue": 2145559379968,
@@ -16,6 +16,6 @@
     "eps": 164.27,
     "52_week_high": 3839.9,
     "52_week_low": 2744.3,
-    "dividend_yield": 1.16
+    "dividend_yield": 1.15
   }
 }

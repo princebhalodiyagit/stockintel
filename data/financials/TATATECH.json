@@ -1,14 +1,14 @@
 {
   "ticker": "TATATECH",
-  "collected_at": "2026-10-27 07:12:39",
+  "collected_at": "2026-10-28 07:37:35",
   "company_info": {
     "name": "Tata Technologies Limited",
     "sector": "Technology",
     "industry": "Information Technology Services",
-    "market_cap": 268461178880,
-    "current_price": 661.15,
-    "pe_ratio": 47.702023,
-    "pb_ratio": 7.008237,
+    "market_cap": 265314287616,
+    "current_price": 653.4,
+    "pe_ratio": 47.14286,
+    "pb_ratio": 6.9260864,
     "roe": 0.15218,
     "debt_to_equity": 28.96,
     "revenue": 63013801984,
@@ -16,6 +16,6 @@
     "eps": 13.86,
     "52_week_high": 891.0,
     "52_week_low": 507.4,
-    "dividend_yield": 1.24
+    "dividend_yield": 1.27
   }
 }
