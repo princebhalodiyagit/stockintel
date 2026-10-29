@@ -1,14 +1,14 @@
 {
   "ticker": "PREMEXPLN",
-  "collected_at": "2026-10-28 07:30:53",
+  "collected_at": "2026-10-29 07:58:12",
   "company_info": {
     "name": "Premier Explosives Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals",
-    "market_cap": 30979665920,
-    "current_price": 576.0,
-    "pe_ratio": 92.30769,
-    "pb_ratio": 10.7464695,
+    "market_cap": 30597799936,
+    "current_price": 568.9,
+    "pe_ratio": 91.169876,
+    "pb_ratio": 10.614005,
     "roe": "N/A",
     "debt_to_equity": 11.133,
     "revenue": 3487569920,
@@ -16,6 +16,6 @@
     "eps": 6.24,
     "52_week_high": 829.8,
     "52_week_low": 378.4,
-    "dividend_yield": 0.08
+    "dividend_yield": 0.09
   }
 }

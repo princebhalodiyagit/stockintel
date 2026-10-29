@@ -1,14 +1,14 @@
 {
   "ticker": "HDFCBANK",
-  "collected_at": "2026-10-28 07:19:09",
+  "collected_at": "2026-10-29 07:43:59",
   "company_info": {
     "name": "HDFC Bank Limited",
     "sector": "Financial Services",
     "industry": "Banks - Regional",
-    "market_cap": 10570232233984,
-    "current_price": 685.15,
-    "pe_ratio": 14.975957,
-    "pb_ratio": 1.7352643,
+    "market_cap": 10518550020096,
+    "current_price": 681.8,
+    "pe_ratio": 14.902732,
+    "pb_ratio": 1.7267798,
     "roe": 0.11005,
     "debt_to_equity": "N/A",
     "revenue": 3019087282176,
@@ -16,6 +16,6 @@
     "eps": 45.75,
     "52_week_high": 1017.5,
     "52_week_low": 669.2,
-    "dividend_yield": 1.91
+    "dividend_yield": 1.9
   }
 }

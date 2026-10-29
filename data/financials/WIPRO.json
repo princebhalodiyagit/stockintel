@@ -1,14 +1,14 @@
 {
   "ticker": "WIPRO",
-  "collected_at": "2026-10-28 07:41:06",
+  "collected_at": "2026-10-29 08:11:12",
   "company_info": {
     "name": "Wipro Limited",
     "sector": "Technology",
     "industry": "Information Technology Services",
-    "market_cap": 1835941625856,
-    "current_price": 185.57,
-    "pe_ratio": 14.577377,
-    "pb_ratio": 2.3098085,
+    "market_cap": 1879318069248,
+    "current_price": 189.95,
+    "pe_ratio": 14.921446,
+    "pb_ratio": 2.3643267,
     "roe": 0.15939,
     "debt_to_equity": 27.753,
     "revenue": 970234003456,
@@ -16,6 +16,6 @@
     "eps": 12.73,
     "52_week_high": 273.1,
     "52_week_low": 156.79,
-    "dividend_yield": 4.28
+    "dividend_yield": 4.34
   }
 }

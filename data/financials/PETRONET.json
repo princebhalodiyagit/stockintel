@@ -1,14 +1,14 @@
 {
   "ticker": "PETRONET",
-  "collected_at": "2026-10-28 07:29:53",
+  "collected_at": "2026-10-29 07:57:00",
   "company_info": {
     "name": "Petronet LNG Limited",
     "sector": "Energy",
     "industry": "Oil & Gas Refining & Marketing",
-    "market_cap": 430275035136,
-    "current_price": 286.85,
-    "pe_ratio": 10.222737,
-    "pb_ratio": 1.930428,
+    "market_cap": 429975011328,
+    "current_price": 286.65,
+    "pe_ratio": 10.21561,
+    "pb_ratio": 1.9290819,
     "roe": "N/A",
     "debt_to_equity": 10.507,
     "revenue": 371728908288,
@@ -16,6 +16,6 @@
     "eps": 28.06,
     "52_week_high": 326.4,
     "52_week_low": 235.35,
-    "dividend_yield": 3.38
+    "dividend_yield": 3.51
   }
 }

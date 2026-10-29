@@ -1,14 +1,14 @@
 {
   "ticker": "HAPPSTMNDS",
-  "collected_at": "2026-10-28 07:18:51",
+  "collected_at": "2026-10-29 07:43:37",
   "company_info": {
     "name": "Happiest Minds Technologies Limited",
     "sector": "Technology",
     "industry": "Information Technology Services",
-    "market_cap": 45957615616,
-    "current_price": 305.85,
-    "pe_ratio": 20.66554,
-    "pb_ratio": 2.5935097,
+    "market_cap": 45754761216,
+    "current_price": 304.5,
+    "pe_ratio": 20.574324,
+    "pb_ratio": 2.582062,
     "roe": 0.13317999,
     "debt_to_equity": 98.705,
     "revenue": 23937200128,
@@ -16,6 +16,6 @@
     "eps": 14.8,
     "52_week_high": 531.0,
     "52_week_low": 295.1,
-    "dividend_yield": 2.35
+    "dividend_yield": 2.4
   }
 }

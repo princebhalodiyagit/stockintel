@@ -1,14 +1,14 @@
 {
   "ticker": "SWARAJENG",
-  "collected_at": "2026-10-28 07:37:06",
+  "collected_at": "2026-10-29 08:06:03",
   "company_info": {
     "name": "Swaraj Engines Limited",
     "sector": "Industrials",
     "industry": "Farm & Heavy Construction Machinery",
-    "market_cap": 41987502080,
-    "current_price": 3455.8,
-    "pe_ratio": 19.737278,
-    "pb_ratio": 8.904291,
+    "market_cap": 41795534848,
+    "current_price": 3440.0,
+    "pe_ratio": 19.64704,
+    "pb_ratio": 8.863581,
     "roe": 0.49278,
     "debt_to_equity": 0.526,
     "revenue": 22425743360,
@@ -16,6 +16,6 @@
     "eps": 175.09,
     "52_week_high": 4394.0,
     "52_week_low": 3285.1,
-    "dividend_yield": 3.21
+    "dividend_yield": 3.2
   }
 }

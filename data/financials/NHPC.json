@@ -1,14 +1,14 @@
 {
   "ticker": "NHPC",
-  "collected_at": "2026-10-28 07:28:04",
+  "collected_at": "2026-10-29 07:54:50",
   "company_info": {
     "name": "NHPC Limited",
     "sector": "Utilities",
     "industry": "Utilities - Renewable",
-    "market_cap": 740720836608,
-    "current_price": 73.74,
-    "pe_ratio": 19.507936,
-    "pb_ratio": 1.7920241,
+    "market_cap": 765632512000,
+    "current_price": 76.22,
+    "pe_ratio": 20.164022,
+    "pb_ratio": 1.852293,
     "roe": "N/A",
     "debt_to_equity": 113.111,
     "revenue": 122098302976,
@@ -16,6 +16,6 @@
     "eps": 3.78,
     "52_week_high": 87.23,
     "52_week_low": 68.79,
-    "dividend_yield": 2.2
+    "dividend_yield": 2.16
   }
 }

@@ -1,14 +1,14 @@
 {
   "ticker": "MINDACORP",
-  "collected_at": "2026-10-28 07:26:25",
+  "collected_at": "2026-10-29 07:52:49",
   "company_info": {
     "name": "Minda Corporation Limited",
     "sector": "Consumer Cyclical",
     "industry": "Auto Parts",
-    "market_cap": 149936668672,
-    "current_price": 637.05,
-    "pe_ratio": 30.408113,
-    "pb_ratio": 5.6820107,
+    "market_cap": 150630989824,
+    "current_price": 640.0,
+    "pe_ratio": 30.548925,
+    "pb_ratio": 5.7083225,
     "roe": "N/A",
     "debt_to_equity": 55.351,
     "revenue": 66457300992,
@@ -16,6 +16,6 @@
     "eps": 20.95,
     "52_week_high": 769.0,
     "52_week_low": 468.5,
-    "dividend_yield": 0.27
+    "dividend_yield": 0.25
   }
 }
