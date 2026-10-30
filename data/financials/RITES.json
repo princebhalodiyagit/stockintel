@@ -1,14 +1,14 @@
 {
   "ticker": "RITES",
-  "collected_at": "2026-10-29 08:00:04",
+  "collected_at": "2026-10-30 08:00:13",
   "company_info": {
     "name": "RITES Limited",
     "sector": "Industrials",
     "industry": "Engineering & Construction",
-    "market_cap": 92972802048,
-    "current_price": 193.45,
-    "pe_ratio": 22.312572,
-    "pb_ratio": 3.47307,
+    "market_cap": 90935042048,
+    "current_price": 189.21,
+    "pe_ratio": 21.82353,
+    "pb_ratio": 3.396948,
     "roe": "N/A",
     "debt_to_equity": 0.236,
     "revenue": 24575799296,
@@ -16,6 +16,6 @@
     "eps": 8.67,
     "52_week_high": 259.7,
     "52_week_low": 175.0,
-    "dividend_yield": 5.56
+    "dividend_yield": 5.65
   }
 }

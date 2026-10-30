@@ -1,14 +1,14 @@
 {
   "ticker": "CDSL",
-  "collected_at": "2026-10-29 07:35:43",
+  "collected_at": "2026-10-30 07:37:52",
   "company_info": {
     "name": "Central Depository Services (India) Limited",
     "sector": "Financial Services",
     "industry": "Capital Markets",
-    "market_cap": 265283715072,
-    "current_price": 1269.3,
-    "pe_ratio": 56.288254,
-    "pb_ratio": 13.536457,
+    "market_cap": 263632601088,
+    "current_price": 1261.4,
+    "pe_ratio": 55.93792,
+    "pb_ratio": 13.452208,
     "roe": "N/A",
     "debt_to_equity": 0.11,
     "revenue": 12807166976,
@@ -16,6 +16,6 @@
     "eps": 22.55,
     "52_week_high": 1673.7,
     "52_week_low": 1116.3,
-    "dividend_yield": 1.04
+    "dividend_yield": 1.03
   }
 }

@@ -1,14 +1,14 @@
 {
   "ticker": "BBL",
-  "collected_at": "2026-10-29 07:33:34",
+  "collected_at": "2026-10-30 07:35:53",
   "company_info": {
     "name": "Bharat Bijlee Limited",
     "sector": "Industrials",
     "industry": "Electrical Equipment & Parts",
-    "market_cap": 27503882240,
-    "current_price": 2433.3,
-    "pe_ratio": 21.214474,
-    "pb_ratio": 1.3557191,
+    "market_cap": 26743181312,
+    "current_price": 2366.0,
+    "pe_ratio": 20.627726,
+    "pb_ratio": 1.3182226,
     "roe": "N/A",
     "debt_to_equity": 15.116,
     "revenue": 23560699904,
@@ -16,6 +16,6 @@
     "eps": 114.7,
     "52_week_high": 3270.0,
     "52_week_low": 2009.0,
-    "dividend_yield": 1.35
+    "dividend_yield": 1.39
   }
 }

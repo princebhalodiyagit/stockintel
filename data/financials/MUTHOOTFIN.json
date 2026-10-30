@@ -1,14 +1,14 @@
 {
   "ticker": "MUTHOOTFIN",
-  "collected_at": "2026-10-29 07:53:49",
+  "collected_at": "2026-10-30 07:54:30",
   "company_info": {
     "name": "Muthoot Finance Limited",
     "sector": "Financial Services",
     "industry": "Credit Services",
-    "market_cap": 995641851904,
-    "current_price": 2480.0,
-    "pe_ratio": 8.754589,
-    "pb_ratio": 2.4522407,
+    "market_cap": 969425944576,
+    "current_price": 2414.7,
+    "pe_ratio": 8.524075,
+    "pb_ratio": 2.3876715,
     "roe": 0.31735,
     "debt_to_equity": 393.56,
     "revenue": 204913885184,
@@ -16,6 +16,6 @@
     "eps": 283.28,
     "52_week_high": 4149.5,
     "52_week_low": 2331.9,
-    "dividend_yield": 1.25
+    "dividend_yield": 1.2
   }
 }

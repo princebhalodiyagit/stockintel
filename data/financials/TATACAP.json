@@ -1,21 +1,21 @@
 {
   "ticker": "TATACAP",
-  "collected_at": "2026-10-29 08:06:27",
+  "collected_at": "2026-10-30 08:05:52",
   "company_info": {
     "name": "Tata Capital Limited",
     "sector": "Financial Services",
     "industry": "Credit Services",
-    "market_cap": 1357142556672,
-    "current_price": 321.85,
-    "pe_ratio": 22.874912,
-    "pb_ratio": 2.9592137,
-    "roe": "N/A",
-    "debt_to_equity": 502.931,
-    "revenue": 136186699776,
-    "net_income": 54035898368,
+    "market_cap": 1349341675520,
+    "current_price": 320.0,
+    "pe_ratio": 22.743425,
+    "pb_ratio": 2.7734683,
+    "roe": 0.14064,
+    "debt_to_equity": 518.106,
+    "revenue": "N/A",
+    "net_income": "N/A",
     "eps": 14.07,
     "52_week_high": 390.2,
     "52_week_low": 296.0,
-    "dividend_yield": 0.19
+    "dividend_yield": 0.17
   }
 }

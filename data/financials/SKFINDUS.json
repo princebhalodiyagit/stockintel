@@ -1,14 +1,14 @@
 {
   "ticker": "SKFINDUS",
-  "collected_at": "2026-10-29 08:03:38",
+  "collected_at": "2026-10-30 08:03:28",
   "company_info": {
     "name": "SKF India (Industrial) Limited",
     "sector": "Industrials",
     "industry": "Tools & Accessories",
-    "market_cap": 118972456960,
-    "current_price": 2406.5,
-    "pe_ratio": 57.35224,
-    "pb_ratio": 8.055823,
+    "market_cap": 118483025920,
+    "current_price": 2396.6,
+    "pe_ratio": 57.116306,
+    "pb_ratio": 8.022683,
     "roe": "N/A",
     "debt_to_equity": 0.309,
     "revenue": 35897098240,
@@ -16,6 +16,6 @@
     "eps": 41.96,
     "52_week_high": 3218.7,
     "52_week_low": 1994.1,
-    "dividend_yield": 1.21
+    "dividend_yield": 1.23
   }
 }

@@ -1,21 +1,21 @@
 {
   "ticker": "UBL",
-  "collected_at": "2026-10-29 08:08:31",
+  "collected_at": "2026-10-30 08:07:42",
   "company_info": {
     "name": "United Breweries Limited",
     "sector": "Consumer Defensive",
     "industry": "Beverages - Brewers",
-    "market_cap": 313452298240,
-    "current_price": 1185.5,
-    "pe_ratio": 64.7107,
-    "pb_ratio": 6.931573,
-    "roe": "N/A",
-    "debt_to_equity": 29.076,
-    "revenue": 94424801280,
-    "net_income": 3956300032,
+    "market_cap": 310940467200,
+    "current_price": 1176.0,
+    "pe_ratio": 64.19214,
+    "pb_ratio": 6.81431,
+    "roe": 0.108610004,
+    "debt_to_equity": 24.508,
+    "revenue": 107304001536,
+    "net_income": 4844199936,
     "eps": 18.32,
-    "52_week_high": 1844.0,
+    "52_week_high": 1827.9,
     "52_week_low": 1128.6,
-    "dividend_yield": 0.88
+    "dividend_yield": 0.84
   }
 }

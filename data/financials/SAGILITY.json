@@ -1,14 +1,14 @@
 {
   "ticker": "SAGILITY",
-  "collected_at": "2026-10-29 08:01:00",
+  "collected_at": "2026-10-30 08:01:05",
   "company_info": {
     "name": "Sagility Limited",
     "sector": "Healthcare",
     "industry": "Health Information Services",
-    "market_cap": 209442652160,
-    "current_price": 44.74,
-    "pe_ratio": 20.336365,
-    "pb_ratio": 2.0380833,
+    "market_cap": 197786140672,
+    "current_price": 42.25,
+    "pe_ratio": 19.204546,
+    "pb_ratio": 1.9246538,
     "roe": 0.10735,
     "debt_to_equity": 8.819,
     "revenue": 79909896192,
@@ -16,6 +16,6 @@
     "eps": 2.2,
     "52_week_high": 57.89,
     "52_week_low": 35.83,
-    "dividend_yield": 0.66
+    "dividend_yield": 0.67
   }
 }

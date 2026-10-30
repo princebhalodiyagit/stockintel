@@ -1,14 +1,14 @@
 {
   "ticker": "BAJAJHLDNG",
-  "collected_at": "2026-10-29 07:33:00",
+  "collected_at": "2026-10-30 07:35:23",
   "company_info": {
     "name": "Bajaj Holdings & Investment Limited",
     "sector": "Financial Services",
     "industry": "Asset Management",
-    "market_cap": 1132411486208,
-    "current_price": 10175.0,
-    "pe_ratio": 12.784591,
-    "pb_ratio": 1.5480554,
+    "market_cap": 1135193882624,
+    "current_price": 10200.0,
+    "pe_ratio": 12.816002,
+    "pb_ratio": 1.551859,
     "roe": 0.11598,
     "debt_to_equity": 0.012,
     "revenue": 12055799808,
@@ -16,6 +16,6 @@
     "eps": 795.88,
     "52_week_high": 13250.0,
     "52_week_low": 8588.0,
-    "dividend_yield": 1.18
+    "dividend_yield": 1.28
   }
 }
