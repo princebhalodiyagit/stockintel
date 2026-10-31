@@ -1,14 +1,14 @@
 {
   "ticker": "CHOLAFIN",
-  "collected_at": "2026-10-30 07:38:22",
+  "collected_at": "2026-10-31 07:26:07",
   "company_info": {
     "name": "Cholamandalam Investment and Finance Company Limited",
     "sector": "Financial Services",
     "industry": "Credit Services",
-    "market_cap": 1385651634176,
-    "current_price": 1615.9,
-    "pe_ratio": 22.141682,
-    "pb_ratio": 3.9964287,
+    "market_cap": 1360347136000,
+    "current_price": 1586.0,
+    "pe_ratio": 21.731981,
+    "pb_ratio": 3.9224803,
     "roe": 0.20577,
     "debt_to_equity": 671.801,
     "revenue": 152007606272,
@@ -16,6 +16,6 @@
     "eps": 72.98,
     "52_week_high": 1952.5,
     "52_week_low": 1299.4,
-    "dividend_yield": 0.12
+    "dividend_yield": 0.13
   }
 }

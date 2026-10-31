@@ -1,14 +1,14 @@
 {
   "ticker": "ATUL",
-  "collected_at": "2026-10-30 07:34:41",
+  "collected_at": "2026-10-31 07:22:15",
   "company_info": {
     "name": "Atul Ltd",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals",
-    "market_cap": 147959545856,
-    "current_price": 5025.5,
-    "pe_ratio": 19.167398,
-    "pb_ratio": 2.2475762,
+    "market_cap": 148047872000,
+    "current_price": 5028.5,
+    "pe_ratio": 19.178839,
+    "pb_ratio": 2.248918,
     "roe": 0.12441,
     "debt_to_equity": 2.54,
     "revenue": 69686796288,
@@ -16,6 +16,6 @@
     "eps": 262.19,
     "52_week_high": 7180.0,
     "52_week_low": 4995.0,
-    "dividend_yield": 0.58
+    "dividend_yield": 0.6
   }
 }

@@ -1,14 +1,14 @@
 {
   "ticker": "HPAL",
-  "collected_at": "2026-10-30 07:46:12",
+  "collected_at": "2026-10-31 07:34:18",
   "company_info": {
     "name": "HP Adhesives Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals",
-    "market_cap": 2917941760,
-    "current_price": 31.76,
-    "pe_ratio": 158.8,
-    "pb_ratio": 1.543771,
+    "market_cap": 2788398336,
+    "current_price": 30.35,
+    "pe_ratio": 151.75,
+    "pb_ratio": 1.4752345,
     "roe": "N/A",
     "debt_to_equity": 2.255,
     "revenue": 2465868032,
@@ -16,6 +16,6 @@
     "eps": 0.2,
     "52_week_high": 53.0,
     "52_week_low": 26.52,
-    "dividend_yield": 1.22
+    "dividend_yield": 1.32
   }
 }

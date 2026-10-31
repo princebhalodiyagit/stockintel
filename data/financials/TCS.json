@@ -1,14 +1,14 @@
 {
   "ticker": "TCS",
-  "collected_at": "2026-10-30 08:06:10",
+  "collected_at": "2026-10-31 07:54:55",
   "company_info": {
     "name": "Tata Consultancy Services Limited",
     "sector": "Technology",
     "industry": "Information Technology Services",
-    "market_cap": 9125901631488,
-    "current_price": 2522.3,
-    "pe_ratio": 17.680498,
-    "pb_ratio": 7.6697354,
+    "market_cap": "N/A",
+    "current_price": 2502.6,
+    "pe_ratio": 17.542408,
+    "pb_ratio": 7.609833,
     "roe": 0.45573002,
     "debt_to_equity": 9.83,
     "revenue": 2832480075776,
@@ -16,6 +16,6 @@
     "eps": 142.66,
     "52_week_high": 3350.0,
     "52_week_low": 1976.8,
-    "dividend_yield": 1.95
+    "dividend_yield": 1.92
   }
 }

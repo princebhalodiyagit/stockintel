@@ -1,14 +1,14 @@
 {
   "ticker": "BLUEJET",
-  "collected_at": "2026-10-30 07:36:54",
+  "collected_at": "2026-10-31 07:24:32",
   "company_info": {
     "name": "Blue Jet Healthcare Limited",
     "sector": "Healthcare",
     "industry": "Biotechnology",
-    "market_cap": 88328593408,
-    "current_price": 509.2,
-    "pe_ratio": 37.579334,
-    "pb_ratio": 6.4951463,
+    "market_cap": 87521976320,
+    "current_price": 504.55,
+    "pe_ratio": 37.23616,
+    "pb_ratio": 6.4358325,
     "roe": "N/A",
     "debt_to_equity": 3.102,
     "revenue": 8856760320,
@@ -16,6 +16,6 @@
     "eps": 13.55,
     "52_week_high": 688.5,
     "52_week_low": 325.0,
-    "dividend_yield": 0.23
+    "dividend_yield": 0.24
   }
 }

@@ -1,14 +1,14 @@
 {
   "ticker": "PFC",
-  "collected_at": "2026-10-30 07:57:25",
+  "collected_at": "2026-10-31 07:45:55",
   "company_info": {
     "name": "Power Finance Corporation Limited",
     "sector": "Financial Services",
     "industry": "Credit Services",
-    "market_cap": 1044812201984,
-    "current_price": 316.6,
-    "pe_ratio": 4.0111494,
-    "pb_ratio": 0.73098874,
+    "market_cap": 1034911875072,
+    "current_price": 313.6,
+    "pe_ratio": 3.9731407,
+    "pb_ratio": 0.72406214,
     "roe": "N/A",
     "debt_to_equity": 536.837,
     "revenue": 478058905600,
@@ -16,6 +16,6 @@
     "eps": 78.93,
     "52_week_high": 486.5,
     "52_week_low": 310.3,
-    "dividend_yield": 4.93
+    "dividend_yield": 4.97
   }
 }

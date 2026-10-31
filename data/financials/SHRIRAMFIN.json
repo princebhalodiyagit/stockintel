@@ -1,14 +1,14 @@
 {
   "ticker": "SHRIRAMFIN",
-  "collected_at": "2026-10-30 08:02:57",
+  "collected_at": "2026-10-31 07:51:35",
   "company_info": {
     "name": "Shriram Finance Limited",
     "sector": "Financial Services",
     "industry": "Credit Services",
-    "market_cap": 1948944039936,
-    "current_price": 828.25,
-    "pe_ratio": 13.804167,
-    "pb_ratio": 1.748429,
+    "market_cap": 1936943349760,
+    "current_price": 823.15,
+    "pe_ratio": 13.719167,
+    "pb_ratio": 1.7376629,
     "roe": 0.1475,
     "debt_to_equity": 146.073,
     "revenue": 244450394112,
@@ -16,6 +16,6 @@
     "eps": 60.0,
     "52_week_high": 1153.7,
     "52_week_low": 727.0,
-    "dividend_yield": 1.3
+    "dividend_yield": 2.1
   }
 }

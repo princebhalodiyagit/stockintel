@@ -1,14 +1,14 @@
 {
   "ticker": "MAZDOCK",
-  "collected_at": "2026-10-30 07:53:03",
+  "collected_at": "2026-10-31 07:41:22",
   "company_info": {
     "name": "Mazagon Dock Shipbuilders Limited",
     "sector": "Industrials",
     "industry": "Aerospace & Defense",
-    "market_cap": 691393331200,
-    "current_price": 1714.0,
-    "pe_ratio": 28.19079,
-    "pb_ratio": 6.6111493,
+    "market_cap": 687883943936,
+    "current_price": 1705.3,
+    "pe_ratio": 28.047699,
+    "pb_ratio": 6.5775924,
     "roe": 0.23207001,
     "debt_to_equity": 7.589,
     "revenue": 127887499264,
@@ -16,6 +16,6 @@
     "eps": 60.8,
     "52_week_high": 2848.0,
     "52_week_low": 1687.5,
-    "dividend_yield": 1.05
+    "dividend_yield": 1.06
   }
 }

@@ -1,14 +1,14 @@
 {
   "ticker": "SRF",
-  "collected_at": "2026-10-30 08:04:12",
+  "collected_at": "2026-10-31 07:52:52",
   "company_info": {
     "name": "SRF Limited",
     "sector": "Industrials",
     "industry": "Conglomerates",
-    "market_cap": 692700839936,
-    "current_price": 2337.0,
-    "pe_ratio": 30.346708,
-    "pb_ratio": 4.5252633,
+    "market_cap": 692256243712,
+    "current_price": 2335.5,
+    "pe_ratio": 30.327229,
+    "pb_ratio": 4.522359,
     "roe": 0.15981,
     "debt_to_equity": 35.123,
     "revenue": 182651600896,
@@ -16,6 +16,6 @@
     "eps": 77.01,
     "52_week_high": 3143.0,
     "52_week_low": 2178.3,
-    "dividend_yield": 0.42
+    "dividend_yield": 0.43
   }
 }

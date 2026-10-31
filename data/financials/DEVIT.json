@@ -1,14 +1,14 @@
 {
   "ticker": "DEVIT",
-  "collected_at": "2026-10-30 07:40:06",
+  "collected_at": "2026-10-31 07:27:56",
   "company_info": {
     "name": "Dev Information Technology Limited",
     "sector": "Technology",
     "industry": "Information Technology Services",
-    "market_cap": 1042874048,
-    "current_price": 18.3,
-    "pe_ratio": 1.3821752,
-    "pb_ratio": 0.9564626,
+    "market_cap": 1034895808,
+    "current_price": 18.16,
+    "pe_ratio": 1.3716012,
+    "pb_ratio": 0.9491455,
     "roe": "N/A",
     "debt_to_equity": 28.008,
     "revenue": 1906461952,
@@ -16,6 +16,6 @@
     "eps": 13.24,
     "52_week_high": 44.0,
     "52_week_low": 17.05,
-    "dividend_yield": 0.57
+    "dividend_yield": 0.55
   }
 }

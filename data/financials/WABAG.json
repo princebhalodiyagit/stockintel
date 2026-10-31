@@ -1,14 +1,14 @@
 {
   "ticker": "WABAG",
-  "collected_at": "2026-10-30 08:09:27",
+  "collected_at": "2026-10-31 07:58:20",
   "company_info": {
     "name": "VA Tech Wabag Limited",
     "sector": "Industrials",
     "industry": "Engineering & Construction",
-    "market_cap": 113608196096,
-    "current_price": 1817.3,
-    "pe_ratio": 28.162096,
-    "pb_ratio": 4.4086113,
+    "market_cap": 113295622144,
+    "current_price": 1812.3,
+    "pe_ratio": 28.084614,
+    "pb_ratio": 4.3964815,
     "roe": "N/A",
     "debt_to_equity": 8.874,
     "revenue": 40969998336,
@@ -16,6 +16,6 @@
     "eps": 64.53,
     "52_week_high": 2319.0,
     "52_week_low": 1033.0,
-    "dividend_yield": 0.27
+    "dividend_yield": 0.28
   }
 }

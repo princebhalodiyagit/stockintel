@@ -1,14 +1,14 @@
 {
   "ticker": "WEALTH",
-  "collected_at": "2026-10-30 08:09:31",
+  "collected_at": "2026-10-31 07:58:25",
   "company_info": {
     "name": "Wealth First Portfolio Managers Limited",
     "sector": "Financial Services",
     "industry": "Capital Markets",
-    "market_cap": 8886269952,
-    "current_price": 834.0,
-    "pe_ratio": 26.903225,
-    "pb_ratio": 5.905219,
+    "market_cap": 8682760192,
+    "current_price": 814.9,
+    "pe_ratio": 26.287098,
+    "pb_ratio": 5.76998,
     "roe": "N/A",
     "debt_to_equity": "N/A",
     "revenue": 651438976,
@@ -16,6 +16,6 @@
     "eps": 31.0,
     "52_week_high": 1219.0,
     "52_week_low": 774.95,
-    "dividend_yield": 1.09
+    "dividend_yield": 1.1
   }
 }

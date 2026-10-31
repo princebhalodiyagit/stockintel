@@ -1,14 +1,14 @@
 {
   "ticker": "IGIL",
-  "collected_at": "2026-10-30 07:46:46",
+  "collected_at": "2026-10-31 07:34:52",
   "company_info": {
     "name": "International Gemological Institute Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining",
-    "market_cap": 172107595776,
-    "current_price": 398.25,
-    "pe_ratio": 26.746138,
-    "pb_ratio": 9.829935,
+    "market_cap": 171891507200,
+    "current_price": 397.75,
+    "pe_ratio": 26.712559,
+    "pb_ratio": 9.817594,
     "roe": "N/A",
     "debt_to_equity": 8.552,
     "revenue": 14570279936,
@@ -16,6 +16,6 @@
     "eps": 14.89,
     "52_week_high": 420.6,
     "52_week_low": 287.0,
-    "dividend_yield": 1.25
+    "dividend_yield": 1.28
   }
 }

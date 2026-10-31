@@ -1,21 +1,21 @@
 {
   "ticker": "SANOFICONR",
-  "collected_at": "2026-10-30 08:01:32",
+  "collected_at": "2026-10-31 07:50:08",
   "company_info": {
     "name": "Sanofi Consumer Healthcare India Limited",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - General",
-    "market_cap": 77172736000,
-    "current_price": 3346.1,
-    "pe_ratio": 28.758919,
-    "pb_ratio": 20.068373,
-    "roe": 0.87948,
+    "market_cap": 79391449088,
+    "current_price": 3442.3,
+    "pe_ratio": 28.13486,
+    "pb_ratio": 20.645336,
+    "roe": "N/A",
     "debt_to_equity": 5.979,
-    "revenue": 9498000384,
-    "net_income": 2660000000,
-    "eps": 116.35,
+    "revenue": 9815000064,
+    "net_income": 2796999936,
+    "eps": 122.35,
     "52_week_high": 5255.0,
     "52_week_low": 3168.2,
-    "dividend_yield": 2.31
+    "dividend_yield": 2.18
   }
 }
