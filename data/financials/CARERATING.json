@@ -1,21 +1,21 @@
 {
   "ticker": "CARERATING",
-  "collected_at": "2026-10-31 07:25:24",
+  "collected_at": "2026-11-01 07:57:53",
   "company_info": {
     "name": "CARE Ratings Limited",
     "sector": "Financial Services",
     "industry": "Financial Data & Stock Exchanges",
     "market_cap": 49959870464,
     "current_price": 1658.0,
-    "pe_ratio": 28.78972,
-    "pb_ratio": 5.3427167,
-    "roe": "N/A",
-    "debt_to_equity": 2.776,
-    "revenue": 4908449792,
-    "net_income": 1776573056,
-    "eps": 57.59,
+    "pe_ratio": 28.135075,
+    "pb_ratio": 4.978157,
+    "roe": 0.20709999,
+    "debt_to_equity": 2.379,
+    "revenue": 5227162112,
+    "net_income": 1928372992,
+    "eps": 58.93,
     "52_week_high": 1838.0,
     "52_week_low": 1392.7,
-    "dividend_yield": 1.36
+    "dividend_yield": 1.21
   }
 }
