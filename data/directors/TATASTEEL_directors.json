@@ -1,7 +1,7 @@
 {
   "ticker": "TATASTEEL",
   "company": "Tata Steel Limited",
-  "collected_at": "2026-11-01 08:27:51",
+  "collected_at": "2026-11-02 08:26:18",
   "directors": [
     {
       "name": "Mr. Thachat Viswanath Narendran",
@@ -39,13 +39,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Jayanta  Banerjee",
-      "role": "Chief Information Officer",
-      "age": 58,
-      "year_born": 1967,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Ritu Raj Sinha",
       "role": "Chief of Corporate Administration",
       "age": 57,
@@ -71,6 +64,13 @@
       "role": "Chief People Officer",
       "age": 55,
       "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Subramaniam  Hariharan",
+      "role": "Chief of 3MT Expansion Project",
+      "age": 71,
+      "year_born": 1954,
       "total_pay": "N/A"
     }
   ]
