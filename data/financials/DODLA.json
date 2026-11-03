@@ -1,14 +1,14 @@
 {
   "ticker": "DODLA",
-  "collected_at": "2026-11-02 08:05:04",
+  "collected_at": "2026-11-03 08:25:53",
   "company_info": {
     "name": "Dodla Dairy Limited",
     "sector": "Consumer Defensive",
     "industry": "Food Distribution",
-    "market_cap": 60689776640,
-    "current_price": 1006.0,
-    "pe_ratio": 28.13986,
-    "pb_ratio": 3.5281162,
+    "market_cap": 62170824704,
+    "current_price": 1030.55,
+    "pe_ratio": 28.826574,
+    "pb_ratio": 3.6142151,
     "roe": 0.13262,
     "debt_to_equity": 4.17,
     "revenue": 44934709248,
@@ -16,6 +16,6 @@
     "eps": 35.75,
     "52_week_high": 1318.9,
     "52_week_low": 923.7,
-    "dividend_yield": 0.51
+    "dividend_yield": 0.49
   }
 }

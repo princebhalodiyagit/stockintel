@@ -1,7 +1,7 @@
 {
   "ticker": "BALUFORGE",
   "company": "Balu Forge Industries Limited",
-  "collected_at": "2026-11-02 08:00:53",
+  "collected_at": "2026-11-03 08:21:25",
   "directors": [
     {
       "name": "Mr. Jaspalsingh Prehladsingh Chandock",
@@ -34,6 +34,13 @@
     {
       "name": "Mr. Sadik Aman Patel",
       "role": "Chief Operating Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Amit Vinaybhai Jain",
+      "role": "Company Secretary & Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

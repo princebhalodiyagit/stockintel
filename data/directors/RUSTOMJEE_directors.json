@@ -1,8 +1,29 @@
 {
   "ticker": "RUSTOMJEE",
   "company": "Keystone Realtors Limited",
-  "collected_at": "2026-11-02 08:22:05",
+  "collected_at": "2026-11-03 08:44:12",
   "directors": [
+    {
+      "name": "Mr. Chandresh Dinesh Mehta",
+      "role": "Executive Director",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": 108200000
+    },
+    {
+      "name": "Mr. Percy Sorabji Chowdhry",
+      "role": "Executive Director",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": 65000000
+    },
+    {
+      "name": "Mr. Boman Rustom Irani",
+      "role": "Founder, Chairman & MD",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
     {
       "name": "Mr. Sajal  Gupta",
       "role": "Group CFO & Head of Corporate Strategy",
@@ -48,27 +69,6 @@
     {
       "name": "Mr. Salil  Chinchore",
       "role": "Group Chief Human Resources Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Atul  Date",
-      "role": "Group Head of Planning & Architecture - Real Gem Buildtech Private Limited",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Sreedharan  Veede",
-      "role": "Head of Special Projects - Real Gem Buildtech Private Limited",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Manish  Savant",
-      "role": "Group Head of Liaisoning - Kapstone Constructions Private Limited",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

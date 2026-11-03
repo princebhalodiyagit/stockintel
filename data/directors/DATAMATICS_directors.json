@@ -1,7 +1,7 @@
 {
   "ticker": "DATAMATICS",
   "company": "Datamatics Global Services Limited",
-  "collected_at": "2026-11-02 08:04:12",
+  "collected_at": "2026-11-03 08:24:57",
   "directors": [
     {
       "name": "Dr. Lalit Surajmal Kanodia M.I.T., Ph.D.",
@@ -57,6 +57,20 @@
       "role": "President of IT Operations",
       "age": 67,
       "year_born": 1958,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Rajesh  Gharpure",
+      "role": "Chief Operating Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mrs. Priyadarshini Rahul Kanodia",
+      "role": "Chief Investment Officer",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "ticker": "SURAKSHA",
   "company": "Suraksha Diagnostic Limited",
-  "collected_at": "2026-11-02 08:25:40",
+  "collected_at": "2026-11-03 08:48:01",
   "directors": [
     {
       "name": "Dr. Somnath  Chatterjee",
@@ -27,6 +27,27 @@
     {
       "name": "Ms. Sangeeta  Chakraborty",
       "role": "General Manager of Operations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Shreya  Arora",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Niren  Kaul",
+      "role": "Chief Sales Operations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Balgopal  Jhunjhunwala",
+      "role": "Regional Business Head",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

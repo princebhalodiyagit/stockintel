@@ -1,7 +1,7 @@
 {
   "ticker": "HARIOMPIPE",
   "company": "Hariom Pipe Industries Limited",
-  "collected_at": "2026-11-02 08:08:54",
+  "collected_at": "2026-11-03 08:30:01",
   "directors": [
     {
       "name": "Mr. Shailesh Kumar Gupta",
@@ -30,6 +30,13 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 2078000
+    },
+    {
+      "name": "Mr. Ansh  Golas",
+      "role": "Whole-Time Director",
+      "age": 25,
+      "year_born": 2000,
+      "total_pay": 7658240
     },
     {
       "name": "Gangadharan  Sathyan",
@@ -64,13 +71,6 @@
       "role": "Brand Manager",
       "age": 41,
       "year_born": 1984,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Paul  Gupta",
-      "role": "Human Resource Officer",
-      "age": 46,
-      "year_born": 1979,
       "total_pay": "N/A"
     }
   ]

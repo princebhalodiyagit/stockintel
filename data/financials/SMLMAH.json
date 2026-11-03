@@ -1,14 +1,14 @@
 {
   "ticker": "SMLMAH",
-  "collected_at": "2026-11-02 08:24:18",
+  "collected_at": "2026-11-03 08:46:34",
   "company_info": {
     "name": "SML Mahindra Limited",
     "sector": "Consumer Cyclical",
     "industry": "Auto Manufacturers",
-    "market_cap": 71060119552,
-    "current_price": 4910.3,
-    "pe_ratio": 48.32021,
-    "pb_ratio": 12.683165,
+    "market_cap": 71170105344,
+    "current_price": 4917.9,
+    "pe_ratio": 48.395,
+    "pb_ratio": 12.702795,
     "roe": 0.29302,
     "debt_to_equity": 6.853,
     "revenue": 30653872128,
@@ -16,6 +16,6 @@
     "eps": 101.62,
     "52_week_high": 6898.5,
     "52_week_low": 2749.0,
-    "dividend_yield": 0.5
+    "dividend_yield": 0.48
   }
 }

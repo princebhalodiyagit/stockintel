@@ -1,8 +1,15 @@
 {
   "ticker": "STANLEY",
   "company": "Stanley Lifestyles Limited",
-  "collected_at": "2026-11-02 08:24:56",
+  "collected_at": "2026-11-03 08:47:14",
   "directors": [
+    {
+      "name": "Mr. Sunil  Suresh",
+      "role": "Executive Chairman",
+      "age": 59,
+      "year_born": 1966,
+      "total_pay": 20000000
+    },
     {
       "name": "Mr. Venkataramana Seshagirirao Gorti",
       "role": "MD & Additional Director",

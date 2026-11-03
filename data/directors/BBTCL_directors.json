@@ -1,7 +1,7 @@
 {
   "ticker": "BBTCL",
   "company": "B&B Triplewall Containers Limited",
-  "collected_at": "2026-11-02 08:01:10",
+  "collected_at": "2026-11-03 08:21:43",
   "directors": [
     {
       "name": "Mr. Manish Kumar Gupta",
@@ -62,6 +62,13 @@
     {
       "name": "Mr. Dharmendra Kumar Dubay",
       "role": "HR & Administration Head",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Shailendra Kumar Panday",
+      "role": "Purchase Head",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

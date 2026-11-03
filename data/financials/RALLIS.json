@@ -1,14 +1,14 @@
 {
   "ticker": "RALLIS",
-  "collected_at": "2026-11-02 08:20:47",
+  "collected_at": "2026-11-03 08:42:48",
   "company_info": {
     "name": "Rallis India Limited",
     "sector": "Basic Materials",
     "industry": "Agricultural Inputs",
-    "market_cap": 35782275072,
-    "current_price": 184.0,
-    "pe_ratio": 18.199802,
-    "pb_ratio": 1.6327255,
+    "market_cap": 36653498368,
+    "current_price": 188.48,
+    "pe_ratio": 18.642927,
+    "pb_ratio": 1.6724788,
     "roe": 0.09278,
     "debt_to_equity": 4.516,
     "revenue": 29586499584,
@@ -16,6 +16,6 @@
     "eps": 10.11,
     "52_week_high": 298.4,
     "52_week_low": 182.1,
-    "dividend_yield": 1.64
+    "dividend_yield": 1.62
   }
 }

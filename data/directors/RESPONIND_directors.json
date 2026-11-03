@@ -1,7 +1,7 @@
 {
   "ticker": "RESPONIND",
   "company": "Responsive Industries Limited",
-  "collected_at": "2026-11-02 08:21:22",
+  "collected_at": "2026-11-03 08:43:25",
   "directors": [
     {
       "name": "Mr. Mehul Laljibhai Vala",
@@ -27,6 +27,13 @@
     {
       "name": "Mr. Rajendra Kumar Parsania",
       "role": "Chief Operating Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jayesh Popatlal Jain",
+      "role": "Company Secretary & Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

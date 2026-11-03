@@ -1,7 +1,7 @@
 {
   "ticker": "ZSARACOM",
   "company": "Saraswati Commercial India Limited",
-  "collected_at": "2026-11-02 08:29:59",
+  "collected_at": "2026-11-03 08:52:42",
   "directors": [
     {
       "name": "Mr. Rajiv  Pathak",
@@ -27,6 +27,20 @@
     {
       "name": "Mr. Manoj  Dhopat",
       "role": "Group Chief Information Security Officer & Group Chief Technology Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Gajendra  Pawar",
+      "role": "Admin Manager",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Meenakshi  Bishnoi",
+      "role": "Chief Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

@@ -1,7 +1,7 @@
 {
   "ticker": "MACPOWER",
   "company": "Macpower CNC Machines Limited",
-  "collected_at": "2026-11-02 08:14:43",
+  "collected_at": "2026-11-03 08:36:16",
   "directors": [
     {
       "name": "Mr. Rupesh Kumar Jagdishchandra Mehta",
@@ -9,6 +9,13 @@
       "age": 57,
       "year_born": 1968,
       "total_pay": 3600000
+    },
+    {
+      "name": "Mr. Nikesh Jagdishchandra Metha",
+      "role": "CEO & Whole-Time Director",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": 2400000
     },
     {
       "name": "Mr. Vishal Bipinkumar Mehta",

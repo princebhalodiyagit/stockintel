@@ -1,7 +1,7 @@
 {
   "ticker": "SAGARDEEP",
   "company": "Sagardeep Alloys Limited",
-  "collected_at": "2026-11-02 08:22:11",
+  "collected_at": "2026-11-03 08:44:19",
   "directors": [
     {
       "name": "Mr. Satishkumar Asamal Mehta",
@@ -9,6 +9,27 @@
       "age": 48,
       "year_born": 1977,
       "total_pay": 2400000
+    },
+    {
+      "name": "Mr. Shashwat Arvind Shah",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 844301
+    },
+    {
+      "name": "Ms. Ami Rajeshkumar Doshi",
+      "role": "Chief Investor Relations Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 180000
+    },
+    {
+      "name": "Ms. Payal  Kothari",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

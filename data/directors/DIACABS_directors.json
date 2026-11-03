@@ -1,11 +1,18 @@
 {
   "ticker": "DIACABS",
   "company": "Diamond Power Infrastructure Limited",
-  "collected_at": "2026-11-02 08:04:48",
+  "collected_at": "2026-11-03 08:25:36",
   "directors": [
     {
       "name": "Mr. Kavish V. Shah",
       "role": "Vice President of Corporate Strategy",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kundip S. Thakker",
+      "role": "Chief Financial Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
@@ -62,13 +69,6 @@
     {
       "name": "Mr. Narayan  Navik",
       "role": "Chief Information Technology Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Shaishav Rakeshbhai Shah",
-      "role": "President of Corporate Strategy",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

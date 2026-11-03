@@ -1,14 +1,42 @@
 {
   "ticker": "VEEDOL",
   "company": "Veedol Corporation Limited",
-  "collected_at": "2026-11-02 08:28:29",
+  "collected_at": "2026-11-03 08:51:04",
   "directors": [
+    {
+      "name": "Mr. Upendra V. Gadre",
+      "role": "Group Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 14000000
+    },
+    {
+      "name": "Mr. Abhijit Satish Tikekar",
+      "role": "Company Secretary and Head of Legal & CSR",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 2300000
+    },
     {
       "name": "Mr. Rajendra Nath Ghosal M.Sc.",
       "role": "MD & Director",
       "age": 70,
       "year_born": 1955,
       "total_pay": 16035901
+    },
+    {
+      "name": "Dr. Kalpendra  Rajurkar",
+      "role": "Senior General Manager of Technology & Service",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Naresh  Sharma",
+      "role": "Senior Vice President of B2B Business",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

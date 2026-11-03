@@ -1,7 +1,7 @@
 {
   "ticker": "ZENSARTECH",
   "company": "Zensar Technologies Limited",
-  "collected_at": "2026-11-02 08:29:53",
+  "collected_at": "2026-11-03 08:52:35",
   "directors": [
     {
       "name": "Mr. Manish  Tandon",
@@ -20,6 +20,13 @@
     {
       "name": "Mr. Vijayasimha  Alilughatta",
       "role": "Chief Operating Officer",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Harish  Lala",
+      "role": "Executive VP and Head of Telecom & Public Services",
       "age": 51,
       "year_born": 1974,
       "total_pay": "N/A"
@@ -60,15 +67,8 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Anshul  Srivastav",
-      "role": "Senior VP and Head of UK & Europe",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Kaushik  Chatterjee",
-      "role": "Senior VP & Head of Africa",
+      "name": "Mr. Parag  Jain",
+      "role": "EVP and Global Head of Retail & Consumer Services, Growth Office, Marketing, and Brand Comms",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

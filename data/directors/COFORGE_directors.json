@@ -1,7 +1,7 @@
 {
   "ticker": "COFORGE",
   "company": "Coforge Limited",
-  "collected_at": "2026-11-02 08:03:31",
+  "collected_at": "2026-11-03 08:24:12",
   "directors": [
     {
       "name": "Mr. Sudhir  Singh",
@@ -48,6 +48,27 @@
     {
       "name": "Mr. Vic  Gupta",
       "role": "Chief Technology Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Radhika  Arora",
+      "role": "Head of Investor Relations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Madan  Mohan",
+      "role": "Head of Enterprise Application Services",
+      "age": 56,
+      "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Anuradha  Sehgal",
+      "role": "Chief Brand & Sustainability Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

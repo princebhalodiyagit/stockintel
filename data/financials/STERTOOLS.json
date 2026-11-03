@@ -1,14 +1,14 @@
 {
   "ticker": "STERTOOLS",
-  "collected_at": "2026-11-02 08:25:06",
+  "collected_at": "2026-11-03 08:47:25",
   "company_info": {
     "name": "Sterling Tools Limited",
     "sector": "Industrials",
     "industry": "Tools & Accessories",
-    "market_cap": 7396453376,
-    "current_price": 203.51,
-    "pe_ratio": 62.04573,
-    "pb_ratio": 1.397436,
+    "market_cap": 7269248000,
+    "current_price": 200.01,
+    "pe_ratio": 60.978657,
+    "pb_ratio": 1.3734026,
     "roe": 0.02269,
     "debt_to_equity": 38.6,
     "revenue": 8922441728,
@@ -16,6 +16,6 @@
     "eps": 3.28,
     "52_week_high": 321.0,
     "52_week_low": 155.0,
-    "dividend_yield": 1.39
+    "dividend_yield": 1.35
   }
 }

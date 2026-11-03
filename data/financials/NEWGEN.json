@@ -1,14 +1,14 @@
 {
   "ticker": "NEWGEN",
-  "collected_at": "2026-11-02 08:17:25",
+  "collected_at": "2026-11-03 08:39:09",
   "company_info": {
     "name": "Newgen Software Technologies Limited",
     "sector": "Technology",
     "industry": "Software - Infrastructure",
-    "market_cap": 63521775616,
-    "current_price": 450.0,
-    "pe_ratio": 25.743708,
-    "pb_ratio": 3.573953,
+    "market_cap": 62597185536,
+    "current_price": 443.45,
+    "pe_ratio": 25.368994,
+    "pb_ratio": 3.5219321,
     "roe": "N/A",
     "debt_to_equity": 2.214,
     "revenue": 16104229888,
@@ -16,6 +16,6 @@
     "eps": 17.48,
     "52_week_high": 1008.4,
     "52_week_low": 401.05,
-    "dividend_yield": 1.36
+    "dividend_yield": 1.34
   }
 }

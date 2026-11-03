@@ -1,7 +1,7 @@
 {
   "ticker": "WINDMACHIN",
   "company": "Windsor Machines Limited",
-  "collected_at": "2026-11-02 08:29:32",
+  "collected_at": "2026-11-03 08:52:12",
   "directors": [
     {
       "name": "Mr. Anand Suklal Jain",
@@ -13,6 +13,34 @@
     {
       "name": "Mr. Rohit Dineshbhai Sojitra",
       "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Hitendrabhai Hasmukhbhai Patel",
+      "role": "Executive Director",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": 9600004
+    },
+    {
+      "name": "Mr. Mohan  Ramachandran BE, PGDM",
+      "role": "CEO & Whole Time Director",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Dipesh Mukundbhai Kachhia",
+      "role": "Vice President of Human Resources",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Dharmendrabhai Becharbhai Varasada",
+      "role": "Executive Director",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

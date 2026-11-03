@@ -1,7 +1,7 @@
 {
   "ticker": "MOLDTECH",
   "company": "Mold-Tek Technologies Limited",
-  "collected_at": "2026-11-02 08:16:18",
+  "collected_at": "2026-11-03 08:37:57",
   "directors": [
     {
       "name": "Mr. Lakshmana Rao Janumahanti",
@@ -39,11 +39,25 @@
       "total_pay": "N/A"
     },
     {
+      "name": "C. H. Rajeev",
+      "role": "General Manager of HR",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
       "name": "Gopalraj  Pradeep",
       "role": "Senior Executive Vice President",
       "age": 45,
       "year_born": 1980,
       "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Janumahanti Sathya Sravya",
+      "role": "Vice President of Mold-Tek Technologies Inc. (USA)",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 1952000
     }
   ]
 }

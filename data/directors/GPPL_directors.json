@@ -1,7 +1,7 @@
 {
   "ticker": "GPPL",
   "company": "Gujarat Pipavav Port Limited",
-  "collected_at": "2026-11-02 08:08:09",
+  "collected_at": "2026-11-03 08:29:13",
   "directors": [
     {
       "name": "Mr. Girish  Aggarwal",
@@ -36,6 +36,13 @@
       "role": "Head of Information Technology and Communications",
       "age": 66,
       "year_born": 1959,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Zeeshan  Mukhi",
+      "role": "Chief Commercial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

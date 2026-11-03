@@ -1,7 +1,7 @@
 {
   "ticker": "VENUSREM",
   "company": "Venus Remedies Limited",
-  "collected_at": "2026-11-02 08:28:33",
+  "collected_at": "2026-11-03 08:51:09",
   "directors": [
     {
       "name": "Mr. Pawan  Chaudhary",
@@ -39,6 +39,13 @@
       "total_pay": 8741489
     },
     {
+      "name": "Lieutenant Colonel Naveen Kumar Singh",
+      "role": "Chief Administrative Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
       "name": "Ms. Neha  Kodan",
       "role": "Company Secretary & Compliance Officer",
       "age": "N/A",
@@ -55,6 +62,13 @@
     {
       "name": "Mr. Manav  Soni",
       "role": "President of Commercial & Inventory",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rakesh  Pandit",
+      "role": "Chief General Manager",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

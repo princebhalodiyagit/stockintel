@@ -1,7 +1,7 @@
 {
   "ticker": "KALAMANDIR",
   "company": "Sai Silks (Kalamandir) Limited",
-  "collected_at": "2026-11-02 08:12:35",
+  "collected_at": "2026-11-03 08:33:57",
   "directors": [
     {
       "name": "Mr. Rachamadugu Balaji Bharadwaj",
@@ -36,6 +36,41 @@
       "role": "Senior Vice President of Business Operations",
       "age": 45,
       "year_born": 1980,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Konduri Venkata Lakshmi Narasimha Sarma",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Annam  Sowjanya",
+      "role": "General Manager of Administration",
+      "age": 40,
+      "year_born": 1985,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Sabitha  Borra",
+      "role": "General Manager of Legal",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Shilpa  Kotagiri",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sai Ram Chavali",
+      "role": "Head of Human Resources",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

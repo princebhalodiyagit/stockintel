@@ -1,7 +1,7 @@
 {
   "ticker": "EMMBI",
   "company": "Emmbi Industries Limited",
-  "collected_at": "2026-11-02 08:05:52",
+  "collected_at": "2026-11-03 08:26:48",
   "directors": [
     {
       "name": "Mr. Makrand Moreshwar Appalwar",
@@ -23,6 +23,20 @@
       "age": 32,
       "year_born": 1993,
       "total_pay": 1871100
+    },
+    {
+      "name": "Mr. Yash Ravi Punjabi",
+      "role": "VP of Operations & Executive Director",
+      "age": 29,
+      "year_born": 1996,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Maithili Makrand Appalwar",
+      "role": "VP & Executive Director",
+      "age": 28,
+      "year_born": 1997,
+      "total_pay": "N/A"
     }
   ]
 }

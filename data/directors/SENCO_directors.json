@@ -1,7 +1,7 @@
 {
   "ticker": "SENCO",
   "company": "Senco Gold Limited",
-  "collected_at": "2026-11-02 08:23:05",
+  "collected_at": "2026-11-03 08:45:16",
   "directors": [
     {
       "name": "Ms. Ranjana  Sen",
@@ -50,6 +50,27 @@
       "role": "Company Secretary & Compliance Officer",
       "age": 42,
       "year_born": 1983,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Shashi Bhushan Singh",
+      "role": "Chief General Manager of Sales & Business Development",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Subhashri  Sengupta",
+      "role": "Chief Human Resources Officer",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Debjit  Mallick",
+      "role": "Chief General Manager of Gold Merchandising",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

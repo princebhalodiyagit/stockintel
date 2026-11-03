@@ -1,14 +1,14 @@
 {
   "ticker": "AFCONS",
-  "collected_at": "2026-11-02 07:57:57",
+  "collected_at": "2026-11-03 08:18:23",
   "company_info": {
     "name": "Afcons Infrastructure Limited",
     "sector": "Industrials",
     "industry": "Engineering & Construction",
-    "market_cap": 78566154240,
-    "current_price": 213.62,
-    "pe_ratio": 55.056698,
-    "pb_ratio": 1.4416348,
+    "market_cap": 79228166144,
+    "current_price": 215.42,
+    "pe_ratio": 55.520615,
+    "pb_ratio": 1.4537822,
     "roe": "N/A",
     "debt_to_equity": 66.542,
     "revenue": 112489996288,
@@ -16,6 +16,6 @@
     "eps": 3.88,
     "52_week_high": 455.5,
     "52_week_low": 203.6,
-    "dividend_yield": 0.97
+    "dividend_yield": 0.94
   }
 }

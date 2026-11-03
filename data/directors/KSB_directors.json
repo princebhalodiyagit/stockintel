@@ -1,8 +1,22 @@
 {
   "ticker": "KSB",
   "company": "Ksb Limited",
-  "collected_at": "2026-11-02 08:13:49",
+  "collected_at": "2026-11-03 08:35:15",
   "directors": [
+    {
+      "name": "Mr. Rajeev Jayantiprasad Jain",
+      "role": "MD, Executive Director & Executive Director - Region Asia West",
+      "age": 61,
+      "year_born": 1964,
+      "total_pay": 57420000
+    },
+    {
+      "name": "Mr. Mahesh Gopal Bhave",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
     {
       "name": "Mr. Nandan B. Paranjape M.Tech",
       "role": "Director of Operations",
@@ -27,6 +41,20 @@
     {
       "name": "Mr. Mohan  Patil",
       "role": "Vice President of Human Resources",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Nitin  Patil",
+      "role": "Vice President of Nuclear Business, Operations: Pimpri, Chinchwad & Shirwal Plants",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sunil  Bapat",
+      "role": "Vice President of Operations of Sinnar, Solar Business, & Foundry",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

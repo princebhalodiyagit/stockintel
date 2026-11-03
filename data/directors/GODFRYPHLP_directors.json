@@ -1,8 +1,15 @@
 {
   "ticker": "GODFRYPHLP",
   "company": "Godfrey Phillips India Limited",
-  "collected_at": "2026-11-02 08:07:54",
+  "collected_at": "2026-11-03 08:28:57",
   "directors": [
+    {
+      "name": "Dr. Bina  Modi",
+      "role": "Chairperson of the Board, CEO & MD",
+      "age": 80,
+      "year_born": 1945,
+      "total_pay": 602700000
+    },
     {
       "name": "Mr. Sharad  Aggarwal",
       "role": "Functional CEO & Whole-Time Director",
@@ -41,6 +48,27 @@
     {
       "name": "Mr. Siddharth  Chawla",
       "role": "Chief Operating Officer & Chief Risk Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajesh  Menon",
+      "role": "Chief Commercial & Operations Officer",
+      "age": 53,
+      "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Jaishree  Tolani",
+      "role": "General Counsel",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Lokesh Kumar Singh",
+      "role": "VP and Head of Sales & Distribution",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

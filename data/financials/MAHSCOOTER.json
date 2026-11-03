@@ -1,14 +1,14 @@
 {
   "ticker": "MAHSCOOTER",
-  "collected_at": "2026-11-02 08:14:53",
+  "collected_at": "2026-11-03 08:36:27",
   "company_info": {
     "name": "Bajaj Nivesh Limited",
     "sector": "Financial Services",
     "industry": "Asset Management",
-    "market_cap": 138537107456,
-    "current_price": 12122.0,
-    "pe_ratio": 45.465458,
-    "pb_ratio": 0.42743665,
+    "market_cap": 137371385856,
+    "current_price": 12020.0,
+    "pe_ratio": 45.08289,
+    "pb_ratio": 0.42384002,
     "roe": 0.00932,
     "debt_to_equity": "N/A",
     "revenue": 3157199872,
@@ -16,6 +16,6 @@
     "eps": 266.62,
     "52_week_high": 15750.0,
     "52_week_low": 10901.0,
-    "dividend_yield": 1.89
+    "dividend_yield": 1.81
   }
 }

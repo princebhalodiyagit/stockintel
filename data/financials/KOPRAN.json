@@ -1,14 +1,14 @@
 {
   "ticker": "KOPRAN",
-  "collected_at": "2026-11-02 08:13:23",
+  "collected_at": "2026-11-03 08:34:49",
   "company_info": {
     "name": "Kopran Limited",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - General",
-    "market_cap": 11656256512,
-    "current_price": 241.2,
-    "pe_ratio": 46.65377,
-    "pb_ratio": 2.1962812,
+    "market_cap": 11289944064,
+    "current_price": 233.62,
+    "pe_ratio": 45.18762,
+    "pb_ratio": 2.1272604,
     "roe": "N/A",
     "debt_to_equity": 28.795,
     "revenue": 7002016768,
@@ -16,6 +16,6 @@
     "eps": 5.17,
     "52_week_high": 295.83,
     "52_week_low": 107.0,
-    "dividend_yield": 1.26
+    "dividend_yield": 1.24
   }
 }

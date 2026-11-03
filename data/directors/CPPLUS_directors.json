@@ -1,7 +1,7 @@
 {
   "ticker": "CPPLUS",
   "company": "Aditya Infotech Limited",
-  "collected_at": "2026-11-02 08:03:47",
+  "collected_at": "2026-11-03 08:24:30",
   "directors": [
     {
       "name": "Mr. Hari Shanker Khemka",
@@ -37,6 +37,20 @@
       "age": 26,
       "year_born": 1999,
       "total_pay": 16380000
+    },
+    {
+      "name": "Mr. Sanjay  Gogia",
+      "role": "President of Sales",
+      "age": 55,
+      "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anup  Nair",
+      "role": "President of Strategy & Business Development",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": "N/A"
     },
     {
       "name": "Ms. Monika  Sharma",

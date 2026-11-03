@@ -1,7 +1,7 @@
 {
   "ticker": "AEQUS",
   "company": "Aequs Limited",
-  "collected_at": "2026-11-02 07:57:53",
+  "collected_at": "2026-11-03 08:18:19",
   "directors": [
     {
       "name": "Mr. Aravind Shivaputrappa Melligeri",
@@ -62,6 +62,13 @@
     {
       "name": "Mr. Ravi Kumar Assudani",
       "role": "Head of Engineering of Consumer Business",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Harish  Bang",
+      "role": "Deputy Chief Financial Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

@@ -1,14 +1,14 @@
 {
   "ticker": "LTF",
-  "collected_at": "2026-11-02 08:14:30",
+  "collected_at": "2026-11-03 08:36:01",
   "company_info": {
     "name": "L&T Finance Limited",
     "sector": "Financial Services",
     "industry": "Credit Services",
-    "market_cap": 626037227520,
-    "current_price": 249.77,
-    "pe_ratio": 18.325018,
-    "pb_ratio": 2.1392477,
+    "market_cap": 632904876032,
+    "current_price": 252.51,
+    "pe_ratio": 18.526045,
+    "pb_ratio": 2.1627154,
     "roe": 0.12331,
     "debt_to_equity": 422.732,
     "revenue": 103110098944,
@@ -16,6 +16,6 @@
     "eps": 13.63,
     "52_week_high": 338.6,
     "52_week_low": 229.2,
-    "dividend_yield": 1.13
+    "dividend_yield": 1.09
   }
 }

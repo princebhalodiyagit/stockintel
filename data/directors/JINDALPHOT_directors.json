@@ -1,7 +1,7 @@
 {
   "ticker": "JINDALPHOT",
   "company": "Jindal Photo Limited",
-  "collected_at": "2026-11-02 08:11:54",
+  "collected_at": "2026-11-03 08:33:14",
   "directors": [
     {
       "name": "Mr. Manoj Kumar Rastogi",
@@ -15,6 +15,13 @@
       "role": "Chief Financial Officer",
       "age": 43,
       "year_born": 1982,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Manish  Kumar",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

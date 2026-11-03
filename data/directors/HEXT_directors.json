@@ -1,8 +1,15 @@
 {
   "ticker": "HEXT",
   "company": "Hexaware Technologies Limited",
-  "collected_at": "2026-11-02 08:09:20",
+  "collected_at": "2026-11-03 08:30:28",
   "directors": [
+    {
+      "name": "Mr. Vivek  Jetley",
+      "role": "Chief Executive Officer",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": "N/A"
+    },
     {
       "name": "Mr. Srinivasan  Panchapakesan",
       "role": "President & Chief Platform Officer",

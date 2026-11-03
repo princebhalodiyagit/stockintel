@@ -1,7 +1,7 @@
 {
   "ticker": "GICRE",
   "company": "General Insurance Corporation of India",
-  "collected_at": "2026-11-02 08:07:27",
+  "collected_at": "2026-11-03 08:28:28",
   "directors": [
     {
       "name": "Mr. Hitesh Rameshchandra Joshi",
@@ -9,6 +9,69 @@
       "age": 57,
       "year_born": 1968,
       "total_pay": 7052000
+    },
+    {
+      "name": "Mr. Satheesh Kumar S.",
+      "role": "Chief Information Security Officer, Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 7247000
+    },
+    {
+      "name": "Mr. Rajesh  Khadatare",
+      "role": "Chief Marketing Officer & GM",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 9800000
+    },
+    {
+      "name": "Mr. Sanjay  Mokashi",
+      "role": "GM & Chief Underwriting Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 8987000
+    },
+    {
+      "name": "Ms. Manali  Patke",
+      "role": "Financial Advisor, Chief of Internal Audit & GM",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 6466000
+    },
+    {
+      "name": "Mr. Rajesh Prasad Laheri",
+      "role": "Deputy GM & CFO",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Uday Laxmandas Devi",
+      "role": "Chief Vigilance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Prerana  Puthran",
+      "role": "Chief Risk Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sateesh N. Bhat",
+      "role": "Appointed Actuary of Non Life Insurance",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 9232000
+    },
+    {
+      "name": "Mr. Suresh Narayan Sindhi",
+      "role": "Appointed Actuary - Life Reinsurance Business",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": 7036000
     }
   ]
 }

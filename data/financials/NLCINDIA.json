@@ -1,14 +1,14 @@
 {
   "ticker": "NLCINDIA",
-  "collected_at": "2026-11-02 08:17:48",
+  "collected_at": "2026-11-03 08:39:35",
   "company_info": {
     "name": "NLC India Limited",
     "sector": "Utilities",
     "industry": "Utilities - Regulated Electric",
-    "market_cap": 330837622784,
-    "current_price": 238.59,
-    "pe_ratio": 10.11832,
-    "pb_ratio": 1.5368907,
+    "market_cap": 327911833600,
+    "current_price": 236.48,
+    "pe_ratio": 10.028838,
+    "pb_ratio": 1.523299,
     "roe": "N/A",
     "debt_to_equity": 110.358,
     "revenue": 183806705664,
@@ -16,6 +16,6 @@
     "eps": 23.58,
     "52_week_high": 387.8,
     "52_week_low": 222.3,
-    "dividend_yield": 1.69
+    "dividend_yield": 1.61
   }
 }

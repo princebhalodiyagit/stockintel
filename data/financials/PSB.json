@@ -1,14 +1,14 @@
 {
   "ticker": "PSB",
-  "collected_at": "2026-11-02 08:20:20",
+  "collected_at": "2026-11-03 08:42:17",
   "company_info": {
     "name": "Punjab & Sind Bank",
     "sector": "Financial Services",
     "industry": "Banks - Regional",
-    "market_cap": 135170891776,
-    "current_price": 19.05,
-    "pe_ratio": 9.028436,
-    "pb_ratio": 0.93035746,
+    "market_cap": 134887079936,
+    "current_price": 19.01,
+    "pe_ratio": 9.0094795,
+    "pb_ratio": 0.92840403,
     "roe": 0.10659,
     "debt_to_equity": "N/A",
     "revenue": 51384442880,
@@ -16,6 +16,6 @@
     "eps": 2.11,
     "52_week_high": 32.4,
     "52_week_low": 18.0,
-    "dividend_yield": 2.09
+    "dividend_yield": 2.05
   }
 }

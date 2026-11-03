@@ -1,7 +1,7 @@
 {
   "ticker": "WELSPLSOL",
   "company": "Welspun Specialty Solutions Limited",
-  "collected_at": "2026-11-02 08:29:22",
+  "collected_at": "2026-11-03 08:52:01",
   "directors": [
     {
       "name": "Mr. Anuj  Burakia",
@@ -29,6 +29,13 @@
       "role": "VP and Head of Sales & Marketing",
       "age": 53,
       "year_born": 1972,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rahul Abhiman Gujar",
+      "role": "Business Head",
+      "age": 47,
+      "year_born": 1978,
       "total_pay": "N/A"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "ticker": "AZAD",
   "company": "Azad Engineering Limited",
-  "collected_at": "2026-11-02 08:00:31",
+  "collected_at": "2026-11-03 08:21:02",
   "directors": [
     {
       "name": "Mr. Rakesh  Chopdar",
@@ -44,6 +44,34 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 16710000
+    },
+    {
+      "name": "Saravanan  Krishnan",
+      "role": "Chief Business Officer",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ashok  Gentyala",
+      "role": "Director of Technical",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Balaji  P. R.",
+      "role": "Head of Business Growth",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Dinesh J. Shetty",
+      "role": "Head of Supply Chain",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

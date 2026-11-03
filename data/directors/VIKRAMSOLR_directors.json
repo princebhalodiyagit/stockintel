@@ -1,7 +1,7 @@
 {
   "ticker": "VIKRAMSOLR",
   "company": "Vikram Solar Limited",
-  "collected_at": "2026-11-02 08:28:43",
+  "collected_at": "2026-11-03 08:51:19",
   "directors": [
     {
       "name": "Mr. Gyanesh  Chaudhary",
@@ -39,6 +39,13 @@
       "total_pay": 8810000
     },
     {
+      "name": "Mr. Sumit  Kumar",
+      "role": "Senior Vice President of Operations (Manufacturing) & Technology",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Sudipta  Bhowal",
       "role": "Company Secretary & Compliance Officer",
       "age": 50,
@@ -62,13 +69,6 @@
     {
       "name": "Ms. Hansveen  Kaur",
       "role": "Head of Marketing",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Biresh Ranjan Das",
-      "role": "Senior Vice President of Human Resources",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

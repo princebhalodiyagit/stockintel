@@ -1,13 +1,27 @@
 {
   "ticker": "SKFINDUS",
   "company": "SKF India (Industrial) Limited",
-  "collected_at": "2026-11-02 08:24:12",
+  "collected_at": "2026-11-03 08:46:28",
   "directors": [
+    {
+      "name": "Mr. Mangalore Sujeeth Pai",
+      "role": "MD & Whole-Time Director",
+      "age": 44,
+      "year_born": 1981,
+      "total_pay": 20725249
+    },
     {
       "name": "Mr. Ashish  Saraf",
       "role": "Chief Financial Officer",
       "age": 45,
       "year_born": 1980,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Poorva  Bang",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
@@ -41,6 +55,13 @@
     {
       "name": "Ms. Manasa  Nagaraju",
       "role": "Head of IT & Digitalization of India, Southeast Asia and Middle East (ISEAM)",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Nilesh  Vaidya",
+      "role": "Head of Seals of ISEA Region- covering India & Southeast Asia",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

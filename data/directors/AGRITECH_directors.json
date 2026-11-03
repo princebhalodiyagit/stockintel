@@ -1,13 +1,27 @@
 {
   "ticker": "AGRITECH",
   "company": "Agri-Tech (India) Limited",
-  "collected_at": "2026-11-02 07:58:04",
+  "collected_at": "2026-11-03 08:18:31",
   "directors": [
     {
       "name": "Mr. Satish  Kagliwal",
       "role": "MD & Executive Chairman",
       "age": 68,
       "year_born": 1957,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajendra Balmukundji Sharma",
+      "role": "CFO & Deputy GM of Accounts",
+      "age": 63,
+      "year_born": 1962,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Meher Amit Rajani",
+      "role": "Compliance Officer & Company Secretary",
+      "age": 37,
+      "year_born": 1988,
       "total_pay": "N/A"
     },
     {

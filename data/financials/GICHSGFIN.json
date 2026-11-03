@@ -1,14 +1,14 @@
 {
   "ticker": "GICHSGFIN",
-  "collected_at": "2026-11-02 08:07:25",
+  "collected_at": "2026-11-03 08:28:26",
   "company_info": {
     "name": "GIC Housing Finance Limited",
     "sector": "Financial Services",
     "industry": "Mortgage Finance",
-    "market_cap": 6600524800,
-    "current_price": 122.57,
-    "pe_ratio": 4.1918607,
-    "pb_ratio": 0.31335562,
+    "market_cap": 6574137856,
+    "current_price": 122.08,
+    "pe_ratio": 4.1751027,
+    "pb_ratio": 0.31210294,
     "roe": "N/A",
     "debt_to_equity": 432.907,
     "revenue": 3608699904,
@@ -16,6 +16,6 @@
     "eps": 29.24,
     "52_week_high": 184.0,
     "52_week_low": 120.0,
-    "dividend_yield": 3.73
+    "dividend_yield": 3.67
   }
 }

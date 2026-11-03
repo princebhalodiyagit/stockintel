@@ -1,11 +1,25 @@
 {
   "ticker": "BLUEDART",
   "company": "Blue Dart Express Limited",
-  "collected_at": "2026-11-02 08:01:59",
+  "collected_at": "2026-11-03 08:22:33",
   "directors": [
+    {
+      "name": "Mr. Balfour  Manuel",
+      "role": "MD & Executive Director",
+      "age": 64,
+      "year_born": 1961,
+      "total_pay": "N/A"
+    },
     {
       "name": "Mr. Sagar  Patil",
       "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Tushar Jayant Gunderia",
+      "role": "Corporate Affairs & Legal Counsel",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
@@ -20,6 +34,41 @@
     {
       "name": "Mr. Manoj  Madhavan",
       "role": "Chief Information Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rabindra Kumar Purohit",
+      "role": "VP of Legal & Compliance, Company Secretary and Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Beena Mathen Jacob",
+      "role": "Chief Human Resources Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sandeep  Petkar",
+      "role": "Regional Head of South",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Subrata  Biswas",
+      "role": "Regional Head of East",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Nitin  Varkey",
+      "role": "Chief of Staff",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

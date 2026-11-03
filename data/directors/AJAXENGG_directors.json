@@ -1,7 +1,7 @@
 {
   "ticker": "AJAXENGG",
   "company": "Ajax Engineering Limited",
-  "collected_at": "2026-11-02 07:58:14",
+  "collected_at": "2026-11-03 08:18:41",
   "directors": [
     {
       "name": "Mr. Krishnaswamy  Vijay",
@@ -25,6 +25,13 @@
       "total_pay": 3260000
     },
     {
+      "name": "Debashish  Bhattacharya",
+      "role": "Head of Sales & Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Joseph J. M. Peeris",
       "role": "Chief People Officer & Corporate Affairs Officer",
       "age": 52,
@@ -32,10 +39,38 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. Anshul  Joshi",
+      "role": "Chief of Product Management & Customer Experience",
+      "age": 47,
+      "year_born": 1978,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Arunesh  Verma",
       "role": "National Head of B2B",
       "age": 55,
       "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Riaz  Nawaz",
+      "role": "Head of Product Design & Engineering",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Murugan  J.",
+      "role": "Head of Manufacturing & Projects",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dinesh  Krishnan",
+      "role": "Head of IT",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

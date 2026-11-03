@@ -1,7 +1,7 @@
 {
   "ticker": "RAMASTEEL",
   "company": "Rama Steel Tubes Limited",
-  "collected_at": "2026-11-02 08:20:50",
+  "collected_at": "2026-11-03 08:42:51",
   "directors": [
     {
       "name": "Mr. Naresh Kumar Bansal",
@@ -30,6 +30,13 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rakesh  Chaturvedi",
+      "role": "President of Commercial & Executive Director",
+      "age": 67,
+      "year_born": 1958,
+      "total_pay": 3422352
     },
     {
       "name": "Mr. Vineet  Goel",

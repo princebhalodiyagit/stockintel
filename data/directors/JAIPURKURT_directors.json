@@ -1,8 +1,15 @@
 {
   "ticker": "JAIPURKURT",
   "company": "Nandani Creation Limited",
-  "collected_at": "2026-11-02 08:11:42",
+  "collected_at": "2026-11-03 08:33:01",
   "directors": [
+    {
+      "name": "Mr. Anuj  Mundhra",
+      "role": "Founder, Executive Chairman & MD",
+      "age": 44,
+      "year_born": 1981,
+      "total_pay": 6629000
+    },
     {
       "name": "Mr. Dwarka Dass Mundhra",
       "role": "Chief Financial Officer",
@@ -32,6 +39,13 @@
       "total_pay": 2067000
     },
     {
+      "name": "Mr. Umesh  Pareek",
+      "role": "Head of Inventory & Operations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
       "name": "Siddharth  Sharma",
       "role": "Human Resource Manager",
       "age": "N/A",
@@ -46,15 +60,15 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Ms. Neha  Chauhan",
-      "role": "Head of Fashion Designer",
+      "name": "Mr. Tarun  Singh",
+      "role": "Head of Distribution",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Vijay  Kumar",
-      "role": "Head of Buying & Sourcing",
+      "name": "Ms. Neha  Chauhan",
+      "role": "Head of Fashion Designer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

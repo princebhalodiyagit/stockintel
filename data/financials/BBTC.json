@@ -1,14 +1,14 @@
 {
   "ticker": "BBTC",
-  "collected_at": "2026-11-02 08:01:09",
+  "collected_at": "2026-11-03 08:21:41",
   "company_info": {
     "name": "The Bombay Burmah Trading Corporation Limited",
     "sector": "Consumer Defensive",
     "industry": "Packaged Foods",
-    "market_cap": 85261262848,
-    "current_price": 1222.0,
-    "pe_ratio": 6.608263,
-    "pb_ratio": 1.2107569,
+    "market_cap": 87214882816,
+    "current_price": 1250.0,
+    "pe_ratio": 6.75968,
+    "pb_ratio": 1.2384993,
     "roe": "N/A",
     "debt_to_equity": 16.57,
     "revenue": 202108305408,
@@ -16,6 +16,6 @@
     "eps": 184.92,
     "52_week_high": 2048.0,
     "52_week_low": 1107.5,
-    "dividend_yield": 1.48
+    "dividend_yield": 1.38
   }
 }

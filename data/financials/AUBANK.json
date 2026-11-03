@@ -1,14 +1,14 @@
 {
   "ticker": "AUBANK",
-  "collected_at": "2026-11-02 08:00:02",
+  "collected_at": "2026-11-03 08:20:36",
   "company_info": {
     "name": "AU Small Finance Bank Limited",
     "sector": "Financial Services",
     "industry": "Banks - Regional",
-    "market_cap": 667279884288,
-    "current_price": 890.4,
-    "pe_ratio": 21.357641,
-    "pb_ratio": 3.0608459,
+    "market_cap": 661097218048,
+    "current_price": 882.15,
+    "pe_ratio": 21.159752,
+    "pb_ratio": 3.0324855,
     "roe": 0.15716,
     "debt_to_equity": "N/A",
     "revenue": 120218615808,
@@ -16,6 +16,6 @@
     "eps": 41.69,
     "52_week_high": 1144.1,
     "52_week_low": 831.65,
-    "dividend_yield": 0.12
+    "dividend_yield": 0.11
   }
 }

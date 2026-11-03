@@ -1,14 +1,14 @@
 {
   "ticker": "GODREJCP",
-  "collected_at": "2026-11-02 08:07:56",
+  "collected_at": "2026-11-03 08:29:00",
   "company_info": {
     "name": "Godrej Consumer Products Limited",
     "sector": "Consumer Defensive",
     "industry": "Household & Personal Products",
-    "market_cap": 831051202560,
-    "current_price": 812.0,
-    "pe_ratio": 42.007244,
-    "pb_ratio": 6.5852966,
+    "market_cap": 844970262528,
+    "current_price": 825.6,
+    "pe_ratio": 42.71081,
+    "pb_ratio": 6.695592,
     "roe": 0.15956001,
     "debt_to_equity": 39.999,
     "revenue": 165369495552,
@@ -16,6 +16,6 @@
     "eps": 19.33,
     "52_week_high": 1273.9,
     "52_week_low": 777.2,
-    "dividend_yield": 2.45
+    "dividend_yield": 2.43
   }
 }

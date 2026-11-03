@@ -1,7 +1,7 @@
 {
   "ticker": "LAGNAM",
   "company": "Lagnam Spintex Limited",
-  "collected_at": "2026-11-02 08:13:56",
+  "collected_at": "2026-11-03 08:35:23",
   "directors": [
     {
       "name": "Mr. Dwarka Prasad Mangal",
@@ -16,6 +16,20 @@
       "age": 43,
       "year_born": 1982,
       "total_pay": 6660000
+    },
+    {
+      "name": "Mr. Devi Lal Mundra",
+      "role": "Chief Financial Officer",
+      "age": 64,
+      "year_born": 1961,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajeev  Parashar",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 32,
+      "year_born": 1993,
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Shubh  Mangal",

@@ -1,7 +1,7 @@
 {
   "ticker": "WEL",
   "company": "Wonder Electricals Limited",
-  "collected_at": "2026-11-02 08:29:18",
+  "collected_at": "2026-11-03 08:51:58",
   "directors": [
     {
       "name": "Mr. Harsh Kumar Anand",
@@ -23,6 +23,27 @@
       "age": 71,
       "year_born": 1954,
       "total_pay": 2420000
+    },
+    {
+      "name": "Mr. Jatin  Anand",
+      "role": "Whole Time Director",
+      "age": 42,
+      "year_born": 1983,
+      "total_pay": 2900000
+    },
+    {
+      "name": "Mr. Siddhant  Sahni",
+      "role": "Whole Time Director",
+      "age": 38,
+      "year_born": 1987,
+      "total_pay": 2900000
+    },
+    {
+      "name": "Mr. Karan  Anand",
+      "role": "Whole Time Director",
+      "age": 41,
+      "year_born": 1984,
+      "total_pay": 2950000
     }
   ]
 }

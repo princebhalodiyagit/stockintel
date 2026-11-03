@@ -1,7 +1,7 @@
 {
   "ticker": "AGI",
   "company": "AGI Greenpac Limited",
-  "collected_at": "2026-11-02 07:58:02",
+  "collected_at": "2026-11-03 08:18:29",
   "directors": [
     {
       "name": "Mr. Sandip  Somany B.Com.",
@@ -39,6 +39,13 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Ms. Shaili  Tyagi",
+      "role": "Chief Human Resources Officer",
+      "age": 51,
+      "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Sandeep  Sikka",
       "role": "Group Chief Financial Officer",
       "age": 54,
@@ -62,13 +69,6 @@
     {
       "name": "Mr. Govind Jee Rai",
       "role": "Senior VP of Human Resource",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Manpreet  Singh",
-      "role": "President of New Business Development",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

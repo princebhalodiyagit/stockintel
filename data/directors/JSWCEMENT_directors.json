@@ -1,7 +1,7 @@
 {
   "ticker": "JSWCEMENT",
   "company": "JSW Cement Limited",
-  "collected_at": "2026-11-02 08:12:16",
+  "collected_at": "2026-11-03 08:33:38",
   "directors": [
     {
       "name": "Mr. Nilesh  Narwekar",
@@ -16,6 +16,13 @@
       "age": 58,
       "year_born": 1967,
       "total_pay": 39900000
+    },
+    {
+      "name": "Mr. Parth Sajjan Jindal",
+      "role": "MD of SW Cement & JSW Paints and Director",
+      "age": 35,
+      "year_born": 1990,
+      "total_pay": 97900000
     },
     {
       "name": "Mr. Kunal  Mukherjee",
@@ -64,13 +71,6 @@
       "role": "Head of R&D",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Manoj Kumar Rustagi",
-      "role": "Chief Sustainability & Innovation Officer",
-      "age": 54,
-      "year_born": 1971,
       "total_pay": "N/A"
     }
   ]

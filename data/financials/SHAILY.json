@@ -1,14 +1,14 @@
 {
   "ticker": "SHAILY",
-  "collected_at": "2026-11-02 08:23:18",
+  "collected_at": "2026-11-03 08:45:29",
   "company_info": {
     "name": "Shaily Engineering Plastics Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals",
-    "market_cap": 139447730176,
-    "current_price": 3031.7,
-    "pe_ratio": 74.91228,
-    "pb_ratio": 16.706802,
+    "market_cap": 136609751040,
+    "current_price": 2970.0,
+    "pe_ratio": 73.387695,
+    "pb_ratio": 16.366793,
     "roe": 0.25415,
     "debt_to_equity": 21.59,
     "revenue": 10881172480,
@@ -16,6 +16,6 @@
     "eps": 40.47,
     "52_week_high": 3615.2,
     "52_week_low": 1770.9,
-    "dividend_yield": 0.09
+    "dividend_yield": 0.1
   }
 }
