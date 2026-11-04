@@ -1,14 +1,14 @@
 {
   "ticker": "ICICIBANK",
-  "collected_at": "2026-11-03 08:31:10",
+  "collected_at": "2026-11-04 08:02:48",
   "company_info": {
     "name": "ICICI Bank Limited",
     "sector": "Financial Services",
     "industry": "Banks - Regional",
-    "market_cap": 10239034261504,
-    "current_price": 1425.9,
-    "pe_ratio": 17.510746,
-    "pb_ratio": 2.6202292,
+    "market_cap": 10195949322240,
+    "current_price": 1419.9,
+    "pe_ratio": 17.437063,
+    "pb_ratio": 2.6092038,
     "roe": 0.1649,
     "debt_to_equity": "N/A",
     "revenue": 2121214853120,
@@ -16,6 +16,6 @@
     "eps": 81.43,
     "52_week_high": 1480.0,
     "52_week_low": 1187.6,
-    "dividend_yield": 0.86
+    "dividend_yield": 0.84
   }
 }

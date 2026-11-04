@@ -1,14 +1,14 @@
 {
   "ticker": "GALLANTT",
-  "collected_at": "2026-11-03 08:28:00",
+  "collected_at": "2026-11-04 07:59:09",
   "company_info": {
     "name": "Gallantt Ispat Limited",
     "sector": "Basic Materials",
     "industry": "Steel",
-    "market_cap": 127142993920,
-    "current_price": 526.95,
-    "pe_ratio": 31.217419,
-    "pb_ratio": 3.6466875,
+    "market_cap": 126913773568,
+    "current_price": 526.0,
+    "pe_ratio": 31.161139,
+    "pb_ratio": 3.640113,
     "roe": 0.123100005,
     "debt_to_equity": 16.979,
     "revenue": 45699518464,
@@ -16,6 +16,6 @@
     "eps": 16.88,
     "52_week_high": 948.0,
     "52_week_low": 496.25,
-    "dividend_yield": 0.39
+    "dividend_yield": 0.38
   }
 }

@@ -1,7 +1,7 @@
 {
   "ticker": "COALINDIA",
   "company": "Coal India Limited",
-  "collected_at": "2026-11-03 08:24:07",
+  "collected_at": "2026-11-04 07:54:43",
   "directors": [
     {
       "name": "Mr. B.  Sairam",
@@ -16,13 +16,6 @@
       "age": 56,
       "year_born": 1969,
       "total_pay": 5497042
-    },
-    {
-      "name": "Mr. Achyuta  Ghatak",
-      "role": "Technical Director & Director",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 9528274
     },
     {
       "name": "Mr. Mukesh  Choudhary",
@@ -69,6 +62,13 @@
     {
       "name": "Kavita  Gupta",
       "role": "Head of Corporate Communication & Public Relation Department",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Goutam  Banerjee",
+      "role": "Executive Director of Human Resource",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

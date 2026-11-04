@@ -1,14 +1,14 @@
 {
   "ticker": "GAIL",
-  "collected_at": "2026-11-03 08:27:57",
+  "collected_at": "2026-11-04 07:59:06",
   "company_info": {
     "name": "GAIL (India) Limited",
     "sector": "Utilities",
     "industry": "Utilities - Regulated Gas",
-    "market_cap": 1185749794816,
-    "current_price": 180.34,
-    "pe_ratio": 9.392708,
-    "pb_ratio": 1.2254772,
+    "market_cap": 1211195457536,
+    "current_price": 184.21,
+    "pe_ratio": 9.594271,
+    "pb_ratio": 1.2517754,
     "roe": 0.13597,
     "debt_to_equity": 24.939,
     "revenue": 1590866345984,
@@ -16,6 +16,6 @@
     "eps": 19.2,
     "52_week_high": 186.87,
     "52_week_low": 134.36,
-    "dividend_yield": 3.11
+    "dividend_yield": 3.03
   }
 }

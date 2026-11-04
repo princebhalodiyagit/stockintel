@@ -1,7 +1,7 @@
 {
   "ticker": "AXISBANK",
   "company": "Axis Bank Limited",
-  "collected_at": "2026-11-03 08:20:57",
+  "collected_at": "2026-11-04 07:51:07",
   "directors": [
     {
       "name": "Mr. Amitabh  Chaudhry",
@@ -30,13 +30,6 @@
       "age": 54,
       "year_born": 1971,
       "total_pay": 57022882
-    },
-    {
-      "name": "Mr. Rajeev  Mantri",
-      "role": "Chief Financial Officer",
-      "age": 48,
-      "year_born": 1977,
-      "total_pay": "N/A"
     },
     {
       "name": "Mr. Julius  Samson",
@@ -71,6 +64,13 @@
       "role": "Group Head of Human Resources",
       "age": 48,
       "year_born": 1977,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jitendra Pratap Singh",
+      "role": "President of Commercial Banking Group",
+      "age": 64,
+      "year_born": 1961,
       "total_pay": "N/A"
     }
   ]

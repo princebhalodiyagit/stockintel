@@ -1,14 +1,14 @@
 {
   "ticker": "CAMS",
-  "collected_at": "2026-11-03 08:23:07",
+  "collected_at": "2026-11-04 07:53:34",
   "company_info": {
     "name": "Computer Age Management Services Limited",
     "sector": "Technology",
     "industry": "Information Technology Services",
-    "market_cap": 171848679424,
-    "current_price": 691.5,
-    "pe_ratio": 33.682415,
-    "pb_ratio": 11.902303,
+    "market_cap": 171426201600,
+    "current_price": 689.8,
+    "pe_ratio": 33.59961,
+    "pb_ratio": 11.873042,
     "roe": 0.382,
     "debt_to_equity": 4.104,
     "revenue": 15948544000,
@@ -16,6 +16,6 @@
     "eps": 20.53,
     "52_week_high": 844.9,
     "52_week_low": 611.4,
-    "dividend_yield": 1.92
+    "dividend_yield": 1.86
   }
 }

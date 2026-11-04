@@ -1,14 +1,14 @@
 {
   "ticker": "INDIGOPNTS",
-  "collected_at": "2026-11-03 08:31:52",
+  "collected_at": "2026-11-04 08:03:34",
   "company_info": {
     "name": "Indigo Paints Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals",
-    "market_cap": 41384194048,
-    "current_price": 867.0,
-    "pe_ratio": 27.806286,
-    "pb_ratio": 3.4857774,
+    "market_cap": 41279184896,
+    "current_price": 864.8,
+    "pe_ratio": 27.735727,
+    "pb_ratio": 3.4769323,
     "roe": 0.13457,
     "debt_to_equity": 2.119,
     "revenue": 15125150720,
@@ -16,6 +16,6 @@
     "eps": 31.18,
     "52_week_high": 1345.9,
     "52_week_low": 708.05,
-    "dividend_yield": 0.57
+    "dividend_yield": 0.58
   }
 }

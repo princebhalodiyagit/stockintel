@@ -1,14 +1,14 @@
 {
   "ticker": "M&MFIN",
-  "collected_at": "2026-11-03 08:36:13",
+  "collected_at": "2026-11-04 08:08:34",
   "company_info": {
     "name": "Mahindra & Mahindra Financial Services Limited",
     "sector": "Financial Services",
     "industry": "Credit Services",
-    "market_cap": 365818576896,
-    "current_price": 263.25,
-    "pe_ratio": 10.1719475,
-    "pb_ratio": 1.331765,
+    "market_cap": 376171298816,
+    "current_price": 270.7,
+    "pe_ratio": 10.459815,
+    "pb_ratio": 1.3694543,
     "roe": 0.13774,
     "debt_to_equity": 490.012,
     "revenue": 112577503232,
@@ -16,6 +16,6 @@
     "eps": 25.88,
     "52_week_high": 415.0,
     "52_week_low": 253.4,
-    "dividend_yield": 2.87
+    "dividend_yield": 2.84
   }
 }

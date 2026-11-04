@@ -1,14 +1,14 @@
 {
   "ticker": "GREAVESCOT",
-  "collected_at": "2026-11-03 08:29:23",
+  "collected_at": "2026-11-04 08:00:44",
   "company_info": {
     "name": "Greaves Cotton Limited",
     "sector": "Industrials",
     "industry": "Specialty Industrial Machinery",
-    "market_cap": 47056191488,
-    "current_price": 202.0,
-    "pe_ratio": 60.298508,
-    "pb_ratio": 3.5649366,
+    "market_cap": 47216926720,
+    "current_price": 202.69,
+    "pe_ratio": 60.50448,
+    "pb_ratio": 3.5771139,
     "roe": -0.010240001,
     "debt_to_equity": 37.01,
     "revenue": 40257601536,
@@ -16,6 +16,6 @@
     "eps": 3.35,
     "52_week_high": 271.9,
     "52_week_low": 119.99,
-    "dividend_yield": 0.97
+    "dividend_yield": 1.01
   }
 }

@@ -1,14 +1,14 @@
 {
   "ticker": "INDIANB",
-  "collected_at": "2026-11-03 08:31:46",
+  "collected_at": "2026-11-04 08:03:28",
   "company_info": {
     "name": "Indian Bank",
     "sector": "Financial Services",
     "industry": "Banks - Regional",
-    "market_cap": 1151115329536,
-    "current_price": 854.6,
-    "pe_ratio": 8.708856,
-    "pb_ratio": 1.3250496,
+    "market_cap": 1144515330048,
+    "current_price": 849.7,
+    "pe_ratio": 8.658922,
+    "pb_ratio": 1.3174522,
     "roe": 0.16139999,
     "debt_to_equity": "N/A",
     "revenue": 363325587456,
@@ -16,6 +16,6 @@
     "eps": 98.13,
     "52_week_high": 1000.9,
     "52_week_low": 764.05,
-    "dividend_yield": 2.11
+    "dividend_yield": 2.15
   }
 }

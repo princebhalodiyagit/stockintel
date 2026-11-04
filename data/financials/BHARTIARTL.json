@@ -1,14 +1,14 @@
 {
   "ticker": "BHARTIARTL",
-  "collected_at": "2026-11-03 08:22:11",
+  "collected_at": "2026-11-04 07:52:30",
   "company_info": {
     "name": "Bharti Airtel Limited",
     "sector": "Communication Services",
     "industry": "Telecom Services",
-    "market_cap": 12899050323968,
-    "current_price": 2067.6,
-    "pe_ratio": 43.219067,
-    "pb_ratio": 7.968275,
+    "market_cap": 12836039294976,
+    "current_price": 2057.5,
+    "pe_ratio": 43.007942,
+    "pb_ratio": 7.929351,
     "roe": 0.20151,
     "debt_to_equity": 100.415,
     "revenue": 2200493096960,
@@ -16,6 +16,6 @@
     "eps": 47.84,
     "52_week_high": 2174.5,
     "52_week_low": 1726.3,
-    "dividend_yield": 1.21
+    "dividend_yield": 1.16
   }
 }
