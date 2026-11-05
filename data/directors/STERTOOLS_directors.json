@@ -1,7 +1,7 @@
 {
   "ticker": "STERTOOLS",
   "company": "Sterling Tools Limited",
-  "collected_at": "2026-11-04 08:21:19",
+  "collected_at": "2026-11-05 08:50:40",
   "directors": [
     {
       "name": "Mr. Anil  Aggarwal",
@@ -9,20 +9,6 @@
       "age": 67,
       "year_born": 1958,
       "total_pay": 37879000
-    },
-    {
-      "name": "Mr. Atul  Aggarwal",
-      "role": "MD & Director",
-      "age": 61,
-      "year_born": 1964,
-      "total_pay": 37156000
-    },
-    {
-      "name": "Mr. Anish  Agarwal",
-      "role": "CFO & Non-Independent Non-Executive Director",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
     },
     {
       "name": "R. K. Agrawal",
@@ -69,6 +55,20 @@
     {
       "name": "V. K. Puri",
       "role": "Purchase Head",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "R.  Jayaraman",
+      "role": "Design Head",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Chandrakant  Poojari",
+      "role": "IT Head",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

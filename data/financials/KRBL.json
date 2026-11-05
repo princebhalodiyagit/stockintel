@@ -1,14 +1,14 @@
 {
   "ticker": "KRBL",
-  "collected_at": "2026-11-04 08:07:16",
+  "collected_at": "2026-11-05 08:34:34",
   "company_info": {
     "name": "KRBL Limited",
     "sector": "Consumer Defensive",
     "industry": "Packaged Foods",
-    "market_cap": 93615964160,
-    "current_price": 409.0,
-    "pe_ratio": 11.078007,
-    "pb_ratio": 1.5031736,
+    "market_cap": 93913522176,
+    "current_price": 410.3,
+    "pe_ratio": 11.113218,
+    "pb_ratio": 1.5079514,
     "roe": 0.14428,
     "debt_to_equity": 0.537,
     "revenue": 62256500736,
@@ -16,6 +16,6 @@
     "eps": 36.92,
     "52_week_high": 452.8,
     "52_week_low": 274.65,
-    "dividend_yield": 1.12
+    "dividend_yield": 1.1
   }
 }
