@@ -1,7 +1,7 @@
 {
   "ticker": "RUSTOMJEE",
   "company": "Keystone Realtors Limited",
-  "collected_at": "2026-11-05 08:46:28",
+  "collected_at": "2026-11-06 08:39:29",
   "directors": [
     {
       "name": "Mr. Chandresh Dinesh Mehta",
@@ -16,13 +16,6 @@
       "age": 54,
       "year_born": 1971,
       "total_pay": 65000000
-    },
-    {
-      "name": "Mr. Boman Rustom Irani",
-      "role": "Founder, Chairman & MD",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
     },
     {
       "name": "Mr. Sajal  Gupta",
@@ -69,6 +62,13 @@
     {
       "name": "Mr. Salil  Chinchore",
       "role": "Group Chief Human Resources Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Atul  Date",
+      "role": "Group Head of Planning & Architecture - Real Gem Buildtech Private Limited",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

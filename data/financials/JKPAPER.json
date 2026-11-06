@@ -1,14 +1,14 @@
 {
   "ticker": "JKPAPER",
-  "collected_at": "2026-11-05 08:32:26",
+  "collected_at": "2026-11-06 08:29:48",
   "company_info": {
     "name": "JK Paper Limited",
     "sector": "Basic Materials",
     "industry": "Paper & Paper Products",
-    "market_cap": 67541241856,
-    "current_price": 372.5,
-    "pe_ratio": 19.15167,
-    "pb_ratio": 1.192561,
+    "market_cap": 66262945792,
+    "current_price": 365.45,
+    "pe_ratio": 18.789204,
+    "pb_ratio": 1.1699904,
     "roe": 0.06101,
     "debt_to_equity": 42.61,
     "revenue": 74302701568,
@@ -16,6 +16,6 @@
     "eps": 19.45,
     "52_week_high": 442.0,
     "52_week_low": 304.85,
-    "dividend_yield": 1.09
+    "dividend_yield": 1.08
   }
 }

@@ -1,14 +1,14 @@
 {
   "ticker": "CHENNPETRO",
-  "collected_at": "2026-11-05 08:19:59",
+  "collected_at": "2026-11-06 08:21:10",
   "company_info": {
     "name": "Chennai Petroleum Corporation Limited",
     "sector": "Energy",
     "industry": "Oil & Gas Refining & Marketing",
-    "market_cap": 213255995392,
-    "current_price": 1432.1,
-    "pe_ratio": 3.740141,
-    "pb_ratio": 1.5688298,
+    "market_cap": 213613395968,
+    "current_price": 1434.5,
+    "pe_ratio": 3.746409,
+    "pb_ratio": 1.5714589,
     "roe": 0.50865,
     "debt_to_equity": 16.197,
     "revenue": 804272603136,
@@ -16,6 +16,6 @@
     "eps": 382.9,
     "52_week_high": 1677.5,
     "52_week_low": 765.5,
-    "dividend_yield": 5.04
+    "dividend_yield": 5.57
   }
 }

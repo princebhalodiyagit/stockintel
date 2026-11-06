@@ -1,14 +1,14 @@
 {
   "ticker": "DCW",
-  "collected_at": "2026-11-05 08:21:46",
+  "collected_at": "2026-11-06 08:22:22",
   "company_info": {
     "name": "DCW Limited",
     "sector": "Basic Materials",
     "industry": "Chemicals",
-    "market_cap": 13875236864,
-    "current_price": 47.01,
-    "pe_ratio": 20.43913,
-    "pb_ratio": 1.2426974,
+    "market_cap": 13860478976,
+    "current_price": 46.96,
+    "pe_ratio": 20.41739,
+    "pb_ratio": 1.2413757,
     "roe": 0.06235,
     "debt_to_equity": 30.042,
     "revenue": 23336454144,
@@ -16,6 +16,6 @@
     "eps": 2.3,
     "52_week_high": 72.3,
     "52_week_low": 37.11,
-    "dividend_yield": 0.65
+    "dividend_yield": 0.64
   }
 }

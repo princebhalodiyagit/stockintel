@@ -1,14 +1,14 @@
 {
   "ticker": "EICHERMOT",
-  "collected_at": "2026-11-05 08:23:17",
+  "collected_at": "2026-11-06 08:23:25",
   "company_info": {
     "name": "Eicher Motors Limited",
     "sector": "Consumer Cyclical",
     "industry": "Auto Manufacturers",
-    "market_cap": 2112993492992,
-    "current_price": 7697.0,
-    "pe_ratio": 36.62622,
-    "pb_ratio": 8.411883,
+    "market_cap": 2088698380288,
+    "current_price": 7608.5,
+    "pe_ratio": 36.205093,
+    "pb_ratio": 8.315165,
     "roe": "N/A",
     "debt_to_equity": 2.048,
     "revenue": 248687296512,
@@ -16,6 +16,6 @@
     "eps": 210.15,
     "52_week_high": 8230.0,
     "52_week_low": 6442.0,
-    "dividend_yield": 1.11
+    "dividend_yield": 1.06
   }
 }

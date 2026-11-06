@@ -1,14 +1,14 @@
 {
   "ticker": "KTKBANK",
-  "collected_at": "2026-11-05 08:34:56",
+  "collected_at": "2026-11-06 08:31:31",
   "company_info": {
     "name": "The Karnataka Bank Limited",
     "sector": "Financial Services",
     "industry": "Banks - Regional",
-    "market_cap": 122351443968,
-    "current_price": 323.35,
-    "pe_ratio": 7.8808193,
-    "pb_ratio": 0.8779838,
+    "market_cap": 120970330112,
+    "current_price": 319.7,
+    "pe_ratio": 7.79186,
+    "pb_ratio": 0.86807305,
     "roe": 0.117180005,
     "debt_to_equity": "N/A",
     "revenue": 46738604032,
@@ -16,6 +16,6 @@
     "eps": 41.03,
     "52_week_high": 345.9,
     "52_week_low": 173.8,
-    "dividend_yield": 1.61
+    "dividend_yield": 1.54
   }
 }

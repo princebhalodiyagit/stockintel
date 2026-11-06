@@ -1,14 +1,14 @@
 {
   "ticker": "CELLO",
-  "collected_at": "2026-11-05 08:19:33",
+  "collected_at": "2026-11-06 08:20:52",
   "company_info": {
     "name": "Cello World Limited",
     "sector": "Consumer Cyclical",
     "industry": "Furnishings, Fixtures & Appliances",
-    "market_cap": 82851487744,
-    "current_price": 367.35,
-    "pe_ratio": 26.239286,
-    "pb_ratio": 3.00422,
+    "market_cap": 79615008768,
+    "current_price": 353.0,
+    "pe_ratio": 25.214285,
+    "pb_ratio": 2.8868644,
     "roe": "N/A",
     "debt_to_equity": 1.411,
     "revenue": 23222616064,
@@ -16,6 +16,6 @@
     "eps": 14.0,
     "52_week_high": 656.7,
     "52_week_low": 314.0,
-    "dividend_yield": 0.43
+    "dividend_yield": 0.4
   }
 }

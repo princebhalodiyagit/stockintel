@@ -1,14 +1,14 @@
 {
   "ticker": "FIVESTAR",
-  "collected_at": "2026-11-05 08:24:59",
+  "collected_at": "2026-11-06 08:24:39",
   "company_info": {
     "name": "Five-Star Business Finance Limited",
     "sector": "Financial Services",
     "industry": "Credit Services",
-    "market_cap": 127127273472,
-    "current_price": 430.65,
-    "pe_ratio": 11.3838215,
-    "pb_ratio": 1.6084334,
+    "market_cap": 124957556736,
+    "current_price": 423.3,
+    "pe_ratio": 11.189531,
+    "pb_ratio": 1.5809819,
     "roe": 0.15187,
     "debt_to_equity": 100.85,
     "revenue": 23674933248,
@@ -16,6 +16,6 @@
     "eps": 37.83,
     "52_week_high": 656.75,
     "52_week_low": 338.15,
-    "dividend_yield": 0.5
+    "dividend_yield": 0.47
   }
 }

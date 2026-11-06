@@ -1,14 +1,14 @@
 {
   "ticker": "GRASIM",
-  "collected_at": "2026-11-05 08:27:08",
+  "collected_at": "2026-11-06 08:26:08",
   "company_info": {
     "name": "Grasim Industries Limited",
     "sector": "Basic Materials",
     "industry": "Building Materials",
-    "market_cap": 2184023769088,
-    "current_price": 3219.9,
-    "pe_ratio": 38.400715,
-    "pb_ratio": 2.110668,
+    "market_cap": 2174799183872,
+    "current_price": 3206.3,
+    "pe_ratio": 38.23852,
+    "pb_ratio": 2.101753,
     "roe": "N/A",
     "debt_to_equity": 135.044,
     "revenue": 1840288628736,
@@ -16,6 +16,6 @@
     "eps": 83.85,
     "52_week_high": 3411.1,
     "52_week_low": 2502.5,
-    "dividend_yield": 0.32
+    "dividend_yield": 0.31
   }
 }

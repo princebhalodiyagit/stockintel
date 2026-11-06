@@ -1,14 +1,14 @@
 {
   "ticker": "TMCV",
-  "collected_at": "2026-11-05 08:53:33",
+  "collected_at": "2026-11-06 08:44:23",
   "company_info": {
     "name": "Tata Motors Limited",
     "sector": "Consumer Cyclical",
     "industry": "Auto Manufacturers",
-    "market_cap": 1583249227776,
-    "current_price": 429.75,
-    "pe_ratio": 25.067055,
-    "pb_ratio": 10.36578,
+    "market_cap": 1563545960448,
+    "current_price": 424.55,
+    "pe_ratio": 24.755102,
+    "pb_ratio": 10.23678,
     "roe": "N/A",
     "debt_to_equity": 24.605,
     "revenue": 939510005760,
@@ -16,6 +16,6 @@
     "eps": 17.15,
     "52_week_high": 509.0,
     "52_week_low": 306.3,
-    "dividend_yield": 0.99
+    "dividend_yield": 0.93
   }
 }

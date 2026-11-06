@@ -1,14 +1,14 @@
 {
   "ticker": "ELECTCAST",
-  "collected_at": "2026-11-05 08:23:32",
+  "collected_at": "2026-11-06 08:23:37",
   "company_info": {
     "name": "Electrosteel Castings Limited",
     "sector": "Industrials",
     "industry": "Building Products & Equipment",
-    "market_cap": 43013283840,
-    "current_price": 69.58,
-    "pe_ratio": 35.5,
-    "pb_ratio": 0.7261684,
+    "market_cap": 41869643776,
+    "current_price": 67.73,
+    "pe_ratio": 34.55612,
+    "pb_ratio": 0.70686096,
     "roe": "N/A",
     "debt_to_equity": 26.35,
     "revenue": 57859010560,
@@ -16,6 +16,6 @@
     "eps": 1.96,
     "52_week_high": 95.9,
     "52_week_low": 60.15,
-    "dividend_yield": 1.31
+    "dividend_yield": 1.29
   }
 }
