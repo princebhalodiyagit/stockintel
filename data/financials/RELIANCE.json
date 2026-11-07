@@ -1,21 +1,21 @@
 {
   "ticker": "RELIANCE",
-  "collected_at": "2026-11-06 08:38:40",
+  "collected_at": "2026-11-07 08:01:36",
   "company_info": {
     "name": "Reliance Industries Limited",
     "sector": "Energy",
     "industry": "Oil & Gas Refining & Marketing",
-    "market_cap": 17750544089088,
-    "current_price": 1311.7,
-    "pe_ratio": 21.616676,
-    "pb_ratio": 1.8794525,
+    "market_cap": "N/A",
+    "current_price": 1320.0,
+    "pe_ratio": 21.861544,
+    "pb_ratio": 1.891345,
     "roe": 0.08759,
     "debt_to_equity": 44.325,
     "revenue": 11990330245120,
     "net_income": 821100019712,
-    "eps": 60.68,
+    "eps": 60.38,
     "52_week_high": 1611.8,
     "52_week_low": 1152.2,
-    "dividend_yield": 0.46
+    "dividend_yield": 0.45
   }
 }
