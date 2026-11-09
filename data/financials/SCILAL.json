@@ -1,14 +1,14 @@
 {
   "ticker": "SCILAL",
-  "collected_at": "2026-11-08 08:11:07",
+  "collected_at": "2026-11-09 08:51:02",
   "company_info": {
     "name": "Shipping Corporation of India Land and Assets Limited",
     "sector": "Real Estate",
     "industry": "Real Estate Services",
-    "market_cap": 16796712960,
-    "current_price": 36.06,
-    "pe_ratio": 46.831173,
-    "pb_ratio": 0.55926055,
+    "market_cap": 17066874880,
+    "current_price": 36.64,
+    "pe_ratio": 47.584415,
+    "pb_ratio": 0.56825584,
     "roe": 0.01197,
     "debt_to_equity": 0.003,
     "revenue": 269900000,
@@ -16,6 +16,6 @@
     "eps": 0.77,
     "52_week_high": 55.0,
     "52_week_low": 34.16,
-    "dividend_yield": 1.53
+    "dividend_yield": 1.5
   }
 }

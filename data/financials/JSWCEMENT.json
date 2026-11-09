@@ -1,14 +1,14 @@
 {
   "ticker": "JSWCEMENT",
-  "collected_at": "2026-11-08 07:59:34",
+  "collected_at": "2026-11-09 08:40:11",
   "company_info": {
     "name": "JSW Cement Limited",
     "sector": "Basic Materials",
     "industry": "Building Materials",
-    "market_cap": 166932807680,
-    "current_price": 123.41,
-    "pe_ratio": 21.92007,
-    "pb_ratio": 2.4597876,
+    "market_cap": 164579164160,
+    "current_price": 121.67,
+    "pe_ratio": 21.611012,
+    "pb_ratio": 2.425106,
     "roe": 0.11292,
     "debt_to_equity": 71.17,
     "revenue": 75178196992,
@@ -16,6 +16,6 @@
     "eps": 5.63,
     "52_week_high": 143.4,
     "52_week_low": 106.65,
-    "dividend_yield": 0.41
+    "dividend_yield": 0.4
   }
 }

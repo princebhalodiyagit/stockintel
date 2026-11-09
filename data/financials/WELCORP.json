@@ -1,14 +1,14 @@
 {
   "ticker": "WELCORP",
-  "collected_at": "2026-11-08 08:18:09",
+  "collected_at": "2026-11-09 08:57:32",
   "company_info": {
     "name": "Welspun Corp Limited",
     "sector": "Basic Materials",
     "industry": "Steel",
-    "market_cap": 581440765952,
-    "current_price": 2204.9,
-    "pe_ratio": 24.569868,
-    "pb_ratio": 5.474476,
+    "market_cap": 580280516608,
+    "current_price": 2200.5,
+    "pe_ratio": 24.520838,
+    "pb_ratio": 5.4635515,
     "roe": 0.24476999,
     "debt_to_equity": 9.947,
     "revenue": 175698804736,
@@ -16,6 +16,6 @@
     "eps": 89.74,
     "52_week_high": 2900.0,
     "52_week_low": 710.0,
-    "dividend_yield": 0.23
+    "dividend_yield": 0.22
   }
 }

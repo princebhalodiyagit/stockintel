@@ -1,14 +1,14 @@
 {
   "ticker": "GIPCL",
-  "collected_at": "2026-11-08 07:54:29",
+  "collected_at": "2026-11-09 08:35:23",
   "company_info": {
     "name": "Gujarat Industries Power Company Limited",
     "sector": "Utilities",
     "industry": "Utilities - Regulated Electric",
-    "market_cap": 25512843264,
-    "current_price": 164.37,
-    "pe_ratio": 5.074714,
-    "pb_ratio": 0.6410311,
+    "market_cap": 25365387264,
+    "current_price": 163.42,
+    "pe_ratio": 5.0453844,
+    "pb_ratio": 0.6373262,
     "roe": 0.13864,
     "debt_to_equity": 104.52,
     "revenue": 18285455360,
@@ -16,6 +16,6 @@
     "eps": 32.39,
     "52_week_high": 211.71,
     "52_week_low": 119.9,
-    "dividend_yield": 2.49
+    "dividend_yield": 2.5
   }
 }

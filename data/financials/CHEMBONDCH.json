@@ -1,14 +1,14 @@
 {
   "ticker": "CHEMBONDCH",
-  "collected_at": "2026-11-08 07:49:36",
+  "collected_at": "2026-11-09 08:30:54",
   "company_info": {
     "name": "Chembond Chemicals Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals",
-    "market_cap": 6011384832,
-    "current_price": 223.5,
-    "pe_ratio": 17.556953,
-    "pb_ratio": 2.7760181,
+    "market_cap": 5944143360,
+    "current_price": 221.0,
+    "pe_ratio": 17.360567,
+    "pb_ratio": 2.7449665,
     "roe": 0.1696,
     "debt_to_equity": 0.712,
     "revenue": 3699813120,
@@ -16,6 +16,6 @@
     "eps": 12.73,
     "52_week_high": 290.0,
     "52_week_low": 104.85,
-    "dividend_yield": 0.56
+    "dividend_yield": 0.54
   }
 }

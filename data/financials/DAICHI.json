@@ -1,14 +1,14 @@
 {
   "ticker": "DAICHI",
-  "collected_at": "2026-11-08 07:50:41",
+  "collected_at": "2026-11-09 08:31:55",
   "company_info": {
     "name": "Dai-ichi Karkaria Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals",
     "market_cap": "N/A",
-    "current_price": 303.0,
-    "pe_ratio": 104.48276,
-    "pb_ratio": 1.2043595,
+    "current_price": 310.25,
+    "pe_ratio": 106.98276,
+    "pb_ratio": 1.2331767,
     "roe": 0.01642,
     "debt_to_equity": 4.387,
     "revenue": 1921600000,
@@ -16,6 +16,6 @@
     "eps": 2.9,
     "52_week_high": 380.0,
     "52_week_low": 285.5,
-    "dividend_yield": 0.5
+    "dividend_yield": 0.48
   }
 }

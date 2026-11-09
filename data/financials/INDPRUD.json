@@ -1,14 +1,14 @@
 {
   "ticker": "INDPRUD",
-  "collected_at": "2026-11-08 07:58:01",
+  "collected_at": "2026-11-09 08:38:43",
   "company_info": {
     "name": "Industrial And Prudential Investment Company Limited",
     "sector": "Financial Services",
     "industry": "Asset Management",
-    "market_cap": 10411156480,
-    "current_price": 6212.5,
-    "pe_ratio": 17.096899,
-    "pb_ratio": 1.2249724,
+    "market_cap": 10239382528,
+    "current_price": 6110.0,
+    "pe_ratio": 16.814817,
+    "pb_ratio": 1.2047615,
     "roe": "N/A",
     "debt_to_equity": "N/A",
     "revenue": 63866000,
@@ -16,6 +16,6 @@
     "eps": 363.37,
     "52_week_high": 6515.0,
     "52_week_low": 5850.0,
-    "dividend_yield": 1.93
+    "dividend_yield": 1.95
   }
 }
