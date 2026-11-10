@@ -1,14 +1,14 @@
 {
   "ticker": "THYROCARE",
-  "collected_at": "2026-11-09 08:55:05",
+  "collected_at": "2026-11-10 09:17:00",
   "company_info": {
     "name": "Thyrocare Technologies Limited",
     "sector": "Healthcare",
     "industry": "Diagnostics & Research",
-    "market_cap": 77274759168,
-    "current_price": 485.5,
-    "pe_ratio": 54.12486,
-    "pb_ratio": 14.520277,
+    "market_cap": 77242925056,
+    "current_price": 485.3,
+    "pe_ratio": 54.102562,
+    "pb_ratio": 14.514296,
     "roe": 0.26378,
     "debt_to_equity": 10.297,
     "revenue": 9303100416,
@@ -16,6 +16,6 @@
     "eps": 8.97,
     "52_week_high": 662.0,
     "52_week_low": 342.55,
-    "dividend_yield": 1.87
+    "dividend_yield": 1.92
   }
 }
