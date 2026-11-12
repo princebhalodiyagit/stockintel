@@ -1,7 +1,7 @@
 {
   "ticker": "AARTIPHARM",
   "company": "Aarti Pharmalabs Limited",
-  "collected_at": "2026-11-11 08:00:45",
+  "collected_at": "2026-11-12 08:39:55",
   "directors": [
     {
       "name": "Mr. Rashesh Chandrakant Gogri",
@@ -23,6 +23,13 @@
       "age": 61,
       "year_born": 1964,
       "total_pay": 17933000
+    },
+    {
+      "name": "Ms. Vibha  Thakkar",
+      "role": "Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Rajendra  Pagare",
@@ -62,13 +69,6 @@
     {
       "name": "Dr. B. S. Patravale",
       "role": "President of R&D",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Jasmin  Mehta",
-      "role": "Head of Business Development & Direct Procurement",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

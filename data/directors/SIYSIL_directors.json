@@ -1,7 +1,7 @@
 {
   "ticker": "SIYSIL",
   "company": "Siyaram Silk Mills Limited",
-  "collected_at": "2026-11-11 08:32:42",
+  "collected_at": "2026-11-12 09:11:06",
   "directors": [
     {
       "name": "Mr. Rameshkumar Dharaprasad Poddar",
@@ -64,6 +64,13 @@
       "role": "President of Export Marketing",
       "age": 37,
       "year_born": 1988,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Dinesh Kumar Jaithliya",
+      "role": "Deputy Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

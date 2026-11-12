@@ -1,7 +1,7 @@
 {
   "ticker": "HINDCOPPER",
   "company": "Hindustan Copper Limited",
-  "collected_at": "2026-11-11 08:15:16",
+  "collected_at": "2026-11-12 08:54:07",
   "directors": [
     {
       "name": "Mr. Rani Venkata Naga Vishweshwar",
@@ -46,6 +46,13 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. Rajender Singh Sajwan",
+      "role": "Executive Director of Human Resources",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Sitendu  Dash",
       "role": "DGM of Systems & CISO",
       "age": "N/A",
@@ -64,13 +71,6 @@
       "role": "Director of Mining & Director",
       "age": 55,
       "year_born": 1970,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Umesh  Singh",
-      "role": "Executive Director & Head of ICC",
-      "age": "N/A",
-      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

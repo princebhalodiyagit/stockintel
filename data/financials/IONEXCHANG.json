@@ -1,21 +1,21 @@
 {
   "ticker": "IONEXCHANG",
-  "collected_at": "2026-11-11 08:17:18",
+  "collected_at": "2026-11-12 08:56:06",
   "company_info": {
     "name": "Ion Exchange (India) Limited",
     "sector": "Industrials",
     "industry": "Pollution & Treatment Controls",
     "market_cap": "N/A",
-    "current_price": 331.35,
-    "pe_ratio": 40.066505,
-    "pb_ratio": 3.1478,
+    "current_price": 322.15,
+    "pe_ratio": "N/A",
+    "pb_ratio": 3.0604005,
     "roe": -0.02743,
     "debt_to_equity": 37.619,
     "revenue": 29729013760,
     "net_income": -325064992,
-    "eps": 8.27,
+    "eps": -2.74,
     "52_week_high": 486.0,
     "52_week_low": 295.0,
-    "dividend_yield": 0.39
+    "dividend_yield": 0.38
   }
 }

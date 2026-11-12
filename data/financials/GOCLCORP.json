@@ -1,14 +1,14 @@
 {
   "ticker": "GOCLCORP",
-  "collected_at": "2026-11-11 08:13:20",
+  "collected_at": "2026-11-12 08:52:13",
   "company_info": {
     "name": "GOCL Corporation Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals",
-    "market_cap": 17109944320,
-    "current_price": 345.15,
-    "pe_ratio": 6.051017,
-    "pb_ratio": 0.53745353,
+    "market_cap": 16963705856,
+    "current_price": 342.2,
+    "pe_ratio": 5.999299,
+    "pb_ratio": 0.53286,
     "roe": 0.096379995,
     "debt_to_equity": "N/A",
     "revenue": 125425000,
@@ -16,6 +16,6 @@
     "eps": 57.04,
     "52_week_high": 461.4,
     "52_week_low": 223.35,
-    "dividend_yield": 8.92
+    "dividend_yield": 8.68
   }
 }

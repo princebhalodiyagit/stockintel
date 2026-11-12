@@ -1,14 +1,14 @@
 {
   "ticker": "APTECHT",
-  "collected_at": "2026-11-11 08:03:03",
+  "collected_at": "2026-11-12 08:42:11",
   "company_info": {
     "name": "Aptech Limited",
     "sector": "Consumer Defensive",
     "industry": "Education & Training Services",
-    "market_cap": 4931399168,
-    "current_price": 85.02,
-    "pe_ratio": 20.14692,
-    "pb_ratio": 2.065748,
+    "market_cap": 4944159744,
+    "current_price": 85.24,
+    "pe_ratio": 20.199053,
+    "pb_ratio": 2.0710936,
     "roe": 0.113900006,
     "debt_to_equity": 10.484,
     "revenue": 5295429120,
@@ -16,6 +16,6 @@
     "eps": 4.22,
     "52_week_high": 128.48,
     "52_week_low": 69.1,
-    "dividend_yield": 5.44
+    "dividend_yield": 5.28
   }
 }

@@ -1,14 +1,14 @@
 {
   "ticker": "PRAJIND",
-  "collected_at": "2026-11-11 08:27:45",
+  "collected_at": "2026-11-12 09:06:16",
   "company_info": {
     "name": "Praj Industries Limited",
     "sector": "Industrials",
     "industry": "Engineering & Construction",
-    "market_cap": 47605751808,
-    "current_price": 258.99,
-    "pe_ratio": 139.99458,
-    "pb_ratio": 3.7242775,
+    "market_cap": 47414587392,
+    "current_price": 257.95,
+    "pe_ratio": 139.43243,
+    "pb_ratio": 3.7093227,
     "roe": 0.02636,
     "debt_to_equity": 10.792,
     "revenue": 32508612608,
@@ -16,6 +16,6 @@
     "eps": 1.85,
     "52_week_high": 427.65,
     "52_week_low": 240.1,
-    "dividend_yield": 1.44
+    "dividend_yield": 1.38
   }
 }

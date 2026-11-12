@@ -1,7 +1,7 @@
 {
   "ticker": "IOB",
   "company": "Indian Overseas Bank",
-  "collected_at": "2026-11-11 08:17:15",
+  "collected_at": "2026-11-12 08:56:03",
   "directors": [
     {
       "name": "Mr. Ajay Kumar Srivastava",
@@ -23,6 +23,13 @@
       "age": 55,
       "year_born": 1970,
       "total_pay": 7415523
+    },
+    {
+      "name": "Mr. Akshit  Choudhary",
+      "role": "Chief Financial Officer",
+      "age": 39,
+      "year_born": 1986,
+      "total_pay": "N/A"
     },
     {
       "name": "Sathia  Narayanan B",
@@ -62,13 +69,6 @@
     {
       "name": "Mr. Purna Chandra Satapathy",
       "role": "DGM & Functional Head of Banking Op., Internal Office Accounts Recon. & Customer Service Dep.",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Radhakrishnan  S",
-      "role": "Deputy GM & Chief Information Security Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

@@ -1,7 +1,7 @@
 {
   "ticker": "VCL",
   "company": "Vaxtex Cotfab Limited",
-  "collected_at": "2026-11-11 08:37:54",
+  "collected_at": "2026-11-12 09:16:08",
   "directors": [
     {
       "name": "Mr. Aakash Rajeshbhai Thakor",
@@ -15,6 +15,13 @@
       "role": "Company Secretary & Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Amay  Vatsalya",
+      "role": "CFO & Whole-time Director",
+      "age": 27,
+      "year_born": 1998,
       "total_pay": "N/A"
     }
   ]

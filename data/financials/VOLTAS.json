@@ -1,14 +1,14 @@
 {
   "ticker": "VOLTAS",
-  "collected_at": "2026-11-11 08:38:35",
+  "collected_at": "2026-11-12 09:16:48",
   "company_info": {
     "name": "Voltas Limited",
     "sector": "Consumer Cyclical",
     "industry": "Furnishings, Fixtures & Appliances",
-    "market_cap": 369399726080,
-    "current_price": 1116.4,
-    "pe_ratio": 79.0092,
-    "pb_ratio": 5.476576,
+    "market_cap": 369366663168,
+    "current_price": 1116.6,
+    "pe_ratio": 79.00213,
+    "pb_ratio": 5.4760857,
     "roe": 0.06966,
     "debt_to_equity": 23.099,
     "revenue": 153386696704,
@@ -16,6 +16,6 @@
     "eps": 14.13,
     "52_week_high": 1582.5,
     "52_week_low": 930.5,
-    "dividend_yield": 0.37
+    "dividend_yield": 0.36
   }
 }

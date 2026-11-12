@@ -1,7 +1,7 @@
 {
   "ticker": "LODHA",
   "company": "Lodha Developers Limited",
-  "collected_at": "2026-11-11 08:21:05",
+  "collected_at": "2026-11-12 08:59:44",
   "directors": [
     {
       "name": "Mr. Abhishek Mangal Prabhat Lodha",
@@ -39,6 +39,13 @@
       "total_pay": 77490000
     },
     {
+      "name": "Ms. Savita  Kodain",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
       "name": "Ms. Janhavi  Sukhtankar",
       "role": "President of Human Resources",
       "age": "N/A",
@@ -64,13 +71,6 @@
       "role": "CEO of Lodha Residences",
       "age": 53,
       "year_born": 1972,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Sumit  Kumar",
-      "role": "Executive Vice President of Strategy",
-      "age": "N/A",
-      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

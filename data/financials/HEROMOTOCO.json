@@ -1,14 +1,14 @@
 {
   "ticker": "HEROMOTOCO",
-  "collected_at": "2026-11-11 08:15:01",
+  "collected_at": "2026-11-12 08:53:52",
   "company_info": {
     "name": "Hero MotoCorp Limited",
     "sector": "Consumer Cyclical",
     "industry": "Auto Manufacturers",
-    "market_cap": 1072467083264,
-    "current_price": 5358.0,
-    "pe_ratio": 17.880861,
-    "pb_ratio": 4.5814686,
+    "market_cap": 1064160329728,
+    "current_price": 5316.5,
+    "pe_ratio": 17.742367,
+    "pb_ratio": 4.545983,
     "roe": 0.26927,
     "debt_to_equity": 6.007,
     "revenue": 535619502080,
@@ -16,6 +16,6 @@
     "eps": 299.65,
     "52_week_high": 6388.5,
     "52_week_low": 4671.5,
-    "dividend_yield": 3.42
+    "dividend_yield": 3.46
   }
 }

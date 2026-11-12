@@ -1,7 +1,7 @@
 {
   "ticker": "BAJAJ-AUTO",
   "company": "Bajaj Auto Limited",
-  "collected_at": "2026-11-11 08:04:36",
+  "collected_at": "2026-11-12 08:43:42",
   "directors": [
     {
       "name": "Mr. Rajivnayan Rahulkumar Bajaj",
@@ -29,6 +29,13 @@
       "role": "Chief Financial Officer",
       "age": 50,
       "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Kailash  Zanzari",
+      "role": "Chief Operating Officer",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
@@ -64,13 +71,6 @@
       "role": "Chief Human Resources Officer",
       "age": "N/A",
       "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. S.  Ravikumar",
-      "role": "Chief Business Development Officer",
-      "age": 67,
-      "year_born": 1958,
       "total_pay": "N/A"
     }
   ]

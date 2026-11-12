@@ -1,14 +1,14 @@
 {
   "ticker": "TATAINVEST",
-  "collected_at": "2026-11-11 08:35:14",
+  "collected_at": "2026-11-12 09:13:36",
   "company_info": {
     "name": "Tata Investment Corporation Limited",
     "sector": "Financial Services",
     "industry": "Asset Management",
-    "market_cap": 299169972224,
-    "current_price": 591.3,
-    "pe_ratio": 75.03807,
-    "pb_ratio": 0.96073693,
+    "market_cap": 297601531904,
+    "current_price": 588.2,
+    "pe_ratio": 74.64467,
+    "pb_ratio": 0.95570016,
     "roe": 0.012669999,
     "debt_to_equity": 0.002,
     "revenue": 3780148992,
@@ -16,6 +16,6 @@
     "eps": 7.88,
     "52_week_high": 804.75,
     "52_week_low": 538.85,
-    "dividend_yield": 0.59
+    "dividend_yield": 0.58
   }
 }

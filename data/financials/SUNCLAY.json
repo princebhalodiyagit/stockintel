@@ -1,14 +1,14 @@
 {
   "ticker": "SUNCLAY",
-  "collected_at": "2026-11-11 08:34:11",
+  "collected_at": "2026-11-12 09:12:34",
   "company_info": {
     "name": "Sundaram-Clayton Limited",
     "sector": "Industrials",
     "industry": "Metal Fabrication",
-    "market_cap": 24140548096,
-    "current_price": 1095.0,
-    "pe_ratio": 9.624681,
-    "pb_ratio": 2.012779,
+    "market_cap": 24030316544,
+    "current_price": 1090.0,
+    "pe_ratio": 9.580733,
+    "pb_ratio": 2.0035882,
     "roe": 0.25501,
     "debt_to_equity": 128.904,
     "revenue": 23106600960,
@@ -16,6 +16,6 @@
     "eps": 113.77,
     "52_week_high": 1573.4,
     "52_week_low": 993.1,
-    "dividend_yield": 0.41
+    "dividend_yield": 0.42
   }
 }

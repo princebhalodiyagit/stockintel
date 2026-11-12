@@ -1,13 +1,20 @@
 {
   "ticker": "SURYODAY",
   "company": "Suryoday Small Finance Bank Limited",
-  "collected_at": "2026-11-11 08:34:38",
+  "collected_at": "2026-11-12 09:13:00",
   "directors": [
     {
       "name": "Mr. Baskar Babu Ramachandran",
       "role": "Co-Founder, MD, CEO & Executive Director",
       "age": 56,
       "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Hemant Premchand Shah",
+      "role": "Whole-Time Executive Director",
+      "age": 60,
+      "year_born": 1965,
       "total_pay": "N/A"
     },
     {
@@ -46,6 +53,13 @@
       "total_pay": "N/A"
     },
     {
+      "name": "Mr. Shankar  Surendran",
+      "role": "Chief Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
       "name": "Amol  Anaokar",
       "role": "Head of Legal",
       "age": "N/A",
@@ -55,20 +69,6 @@
     {
       "name": "Mr. Navdeep  Panghal",
       "role": "Head of Marketing",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Pankaj  Gulati",
-      "role": "Chief People Officer & Head of CSR",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Yogesh  Dixit",
-      "role": "Head of Governance Projects",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

@@ -1,6 +1,70 @@
 {
   "ticker": "GULFPETRO",
   "company": "GP Petroleums Limited",
-  "collected_at": "2026-11-11 08:14:22",
-  "directors": []
+  "collected_at": "2026-11-12 08:53:14",
+  "directors": [
+    {
+      "name": "Mr. Ayush Ashok Goel",
+      "role": "Chairman of the Board",
+      "age": 35,
+      "year_born": 1990,
+      "total_pay": 4197674
+    },
+    {
+      "name": "Mr. Arjun  Verma",
+      "role": "MD & Executive Director",
+      "age": 62,
+      "year_born": 1963,
+      "total_pay": 16924320
+    },
+    {
+      "name": "Ms. Kanika Sehgal Sadana",
+      "role": "Company Secretary & Compliance Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Tajendra  Gupta",
+      "role": "Vice President of Automotive & Technology",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sunil Kumar Shetty",
+      "role": "Chief Human Resource Officer \u0096 HR & Administration",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jogesh  Sharma",
+      "role": "Chief Operating Officer of Lubricants",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ashish  Parab",
+      "role": "Head of Procurement, Imports & Business Development",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Anil  Keswani",
+      "role": "Chief Operating Officer of Bitumen & Terminalling",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Pallavi  Garg",
+      "role": "Deputy CFO of Finance & Accounts",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    }
+  ]
 }

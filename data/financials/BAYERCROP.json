@@ -1,14 +1,14 @@
 {
   "ticker": "BAYERCROP",
-  "collected_at": "2026-11-11 08:05:13",
+  "collected_at": "2026-11-12 08:44:18",
   "company_info": {
     "name": "Bayer CropScience Limited",
     "sector": "Basic Materials",
     "industry": "Agricultural Inputs",
-    "market_cap": 160506183680,
-    "current_price": 3571.4,
-    "pe_ratio": 21.527426,
-    "pb_ratio": 5.0406766,
+    "market_cap": 155674902528,
+    "current_price": 3463.9,
+    "pe_ratio": 20.879446,
+    "pb_ratio": 4.888951,
     "roe": 0.23641,
     "debt_to_equity": 2.211,
     "revenue": 52927000576,
@@ -16,6 +16,6 @@
     "eps": 165.9,
     "52_week_high": 5063.0,
     "52_week_low": 3226.1,
-    "dividend_yield": 4.31
+    "dividend_yield": 4.16
   }
 }

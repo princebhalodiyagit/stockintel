@@ -1,7 +1,7 @@
 {
   "ticker": "ASIANENE",
   "company": "Asian Energy Services Limited",
-  "collected_at": "2026-11-11 08:03:41",
+  "collected_at": "2026-11-12 08:42:48",
   "directors": [
     {
       "name": "Dr. Kapil  Garg",
@@ -23,6 +23,13 @@
       "age": 40,
       "year_born": 1985,
       "total_pay": 2333000
+    },
+    {
+      "name": "Vilas  Aade",
+      "role": "Manager of Human Resource",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     },
     {
       "name": "Mr. Sumit  Maheshwari",

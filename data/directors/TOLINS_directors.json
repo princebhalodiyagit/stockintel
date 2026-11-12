@@ -1,7 +1,7 @@
 {
   "ticker": "TOLINS",
   "company": "Tolins Tyres Limited",
-  "collected_at": "2026-11-11 08:36:27",
+  "collected_at": "2026-11-12 09:14:44",
   "directors": [
     {
       "name": "Dr. Kalamparambil Varkey Tolin",
@@ -15,6 +15,55 @@
       "role": "Chief Financial Officer",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Umesh  Muniraj",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 27,
+      "year_born": 1998,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Cyrus  Tolin",
+      "role": "Vice President of Operations",
+      "age": 23,
+      "year_born": 2002,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Abraham  Kuruvilla",
+      "role": "General Manager of Administration",
+      "age": 78,
+      "year_born": 1947,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. K. B. Pareeth",
+      "role": "Head of Marketing & Sales Department",
+      "age": 40,
+      "year_born": 1985,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. R.  Dinesh",
+      "role": "Business head of Institutional sales",
+      "age": 48,
+      "year_born": 1977,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jenu Varughese Pothen",
+      "role": "Marketing Head of VAN sales",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Joseph Vattayathil Varghese",
+      "role": "General Manager of Operations",
+      "age": 62,
+      "year_born": 1963,
       "total_pay": "N/A"
     }
   ]

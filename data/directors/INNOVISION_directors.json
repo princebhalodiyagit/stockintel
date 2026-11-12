@@ -1,8 +1,22 @@
 {
   "ticker": "INNOVISION",
   "company": "Innovision Limited",
-  "collected_at": "2026-11-11 08:17:03",
+  "collected_at": "2026-11-12 08:55:51",
   "directors": [
+    {
+      "name": "Lieutenant Colonel Randeep  Hundal",
+      "role": "Executive Chairman & MD",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Uday Pal Singh",
+      "role": "CEO & Whole Time Executive Director",
+      "age": 49,
+      "year_born": 1976,
+      "total_pay": "N/A"
+    },
     {
       "name": "Mr. Bijender  Yadav",
       "role": "Chief Financial Officer",
@@ -34,6 +48,20 @@
     {
       "name": "Commodore Arumugam Thanigai Anandan",
       "role": "Vice President of Sales & Operations Department - Skill Development Vertical",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajender  Prasad",
+      "role": "General Manager of Admin",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Munish  Kumar",
+      "role": "General Manager of Accounts",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

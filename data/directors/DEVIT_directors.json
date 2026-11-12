@@ -1,7 +1,7 @@
 {
   "ticker": "DEVIT",
   "company": "Dev Information Technology Limited",
-  "collected_at": "2026-11-11 08:09:29",
+  "collected_at": "2026-11-12 08:48:31",
   "directors": [
     {
       "name": "Mr. Pranav Niranjanbhai Pandya",
@@ -39,6 +39,20 @@
       "total_pay": 3231000
     },
     {
+      "name": "Ms. Krisa Kairav Shah",
+      "role": "Company Secretary & Compliance Officer",
+      "age": 33,
+      "year_born": 1992,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Praveen  Singh",
+      "role": "Vice President of HR, Compliance & Operations",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
       "name": "Mr. Ketan  Shah",
       "role": "Practice Head of Enterprise Applications",
       "age": "N/A",
@@ -55,20 +69,6 @@
     {
       "name": "Mr. Nilesh  Mandani",
       "role": "Senior Vice President of Sales - Enterprise Applications",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Manoj  Dhanak",
-      "role": "Senior Vice President of Operations -Blockchain",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Nilesh  Panchal",
-      "role": "Senior Vice President of Operations - Enterprise Applications",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

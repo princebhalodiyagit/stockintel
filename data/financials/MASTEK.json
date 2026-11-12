@@ -1,14 +1,14 @@
 {
   "ticker": "MASTEK",
-  "collected_at": "2026-11-11 08:22:16",
+  "collected_at": "2026-11-12 09:00:52",
   "company_info": {
     "name": "Mastek Limited",
     "sector": "Technology",
     "industry": "Information Technology Services",
-    "market_cap": 45982859264,
-    "current_price": 1482.8,
-    "pe_ratio": 10.862208,
-    "pb_ratio": 1.4412096,
+    "market_cap": 46072786944,
+    "current_price": 1485.7,
+    "pe_ratio": 10.883451,
+    "pb_ratio": 1.4440281,
     "roe": 0.14526,
     "debt_to_equity": 11.881,
     "revenue": 38476099584,
@@ -16,6 +16,6 @@
     "eps": 136.51,
     "52_week_high": 2369.0,
     "52_week_low": 1334.2,
-    "dividend_yield": 1.6
+    "dividend_yield": 1.62
   }
 }

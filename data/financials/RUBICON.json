@@ -1,14 +1,14 @@
 {
   "ticker": "RUBICON",
-  "collected_at": "2026-11-11 08:30:09",
+  "collected_at": "2026-11-12 09:08:37",
   "company_info": {
     "name": "Rubicon Research Limited",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - General",
-    "market_cap": 287889063936,
-    "current_price": 1739.1,
-    "pe_ratio": 89.184616,
-    "pb_ratio": 20.310183,
+    "market_cap": 283402960896,
+    "current_price": 1712.0,
+    "pe_ratio": 87.79487,
+    "pb_ratio": 19.993694,
     "roe": 0.31252,
     "debt_to_equity": 35.027,
     "revenue": 21001650176,
@@ -16,6 +16,6 @@
     "eps": 19.5,
     "52_week_high": 1899.0,
     "52_week_low": 609.25,
-    "dividend_yield": 0.08
+    "dividend_yield": 0.09
   }
 }

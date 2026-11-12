@@ -1,7 +1,7 @@
 {
   "ticker": "GMMPFAUDLR",
   "company": "GMM Pfaudler Limited",
-  "collected_at": "2026-11-11 08:13:12",
+  "collected_at": "2026-11-12 08:52:06",
   "directors": [
     {
       "name": "Mr. Tarak Ashok Patel",
@@ -15,6 +15,13 @@
       "role": "Group Chief Executive Officer",
       "age": 50,
       "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ankit  Nayyar",
+      "role": "Group Chief Financial Officer",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
@@ -37,6 +44,27 @@
       "age": 46,
       "year_born": 1979,
       "total_pay": 3420000
+    },
+    {
+      "name": "Mr. Alexander  Poempner",
+      "role": "Advisor",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ulf  Wittmann",
+      "role": "Executive Vice President of Global Services - International Business",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vincet  Leroux",
+      "role": "Executive Vice President of Sales Technologies & Systems - International Business",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

@@ -1,14 +1,35 @@
 {
   "ticker": "GENUSPAPER",
   "company": "Genus Paper & Boards Limited",
-  "collected_at": "2026-11-11 08:12:41",
+  "collected_at": "2026-11-12 08:51:36",
   "directors": [
+    {
+      "name": "Mr. Kailash Chandra Agarwal",
+      "role": "MD, CEO & Executive Director",
+      "age": 54,
+      "year_born": 1971,
+      "total_pay": 7370000
+    },
+    {
+      "name": "Mr. Sanjay Kumar Agarwal",
+      "role": "CFO & Whole Time Director",
+      "age": 50,
+      "year_born": 1975,
+      "total_pay": 2959928
+    },
     {
       "name": "Mr. Kunal  Nayar",
       "role": "Company Secretary & Compliance Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 708000
+    },
+    {
+      "name": "Mr. Surya Prakash Sinha",
+      "role": "GM of the Human Resource Department & Executive Non Independent Director",
+      "age": 75,
+      "year_born": 1950,
+      "total_pay": 900000
     }
   ]
 }
