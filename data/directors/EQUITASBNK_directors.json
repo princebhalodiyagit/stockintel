@@ -1,22 +1,8 @@
 {
   "ticker": "EQUITASBNK",
   "company": "Equitas Small Finance Bank Limited",
-  "collected_at": "2026-11-12 08:50:11",
+  "collected_at": "2026-11-13 08:40:35",
   "directors": [
-    {
-      "name": "Mr. Pathangi Narasimhan Vasudevan",
-      "role": "MD, CEO & Director",
-      "age": 62,
-      "year_born": 1963,
-      "total_pay": 33292000
-    },
-    {
-      "name": "Mr. Balaji  Nuthalapadi",
-      "role": "Executive Director of Technology & Operations and Executive Wholetime Director",
-      "age": 52,
-      "year_born": 1973,
-      "total_pay": 23966000
-    },
     {
       "name": "Mr. Natarajan  Ramanathan",
       "role": "Company Secretary & Compliance Officer",
@@ -71,6 +57,20 @@
       "role": "Chief People Officer",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. S.  Sethupathy",
+      "role": "Head of Process & Quality Assurance",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Murali  Vaidyanathan",
+      "role": "Snr. Prest., Buss. Head of Liabilities Count. and Head of Branch Bank, Liabilities, Prdct. & Wealth",
+      "age": 55,
+      "year_born": 1970,
       "total_pay": "N/A"
     }
   ]

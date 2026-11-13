@@ -1,15 +1,8 @@
 {
   "ticker": "EUREKAFORB",
   "company": "Eureka Forbes Limited",
-  "collected_at": "2026-11-12 08:50:21",
+  "collected_at": "2026-11-13 08:40:47",
   "directors": [
-    {
-      "name": "Mr. Pratik Rashmikant Pota BE, PGDM",
-      "role": "MD, CEO & Director",
-      "age": 57,
-      "year_born": 1968,
-      "total_pay": 83293000
-    },
     {
       "name": "Mr. Gaurav Pradip Khandelwal",
       "role": "Chief Financial Officer",
@@ -69,6 +62,13 @@
     {
       "name": "Mr. Aviral  Chopra",
       "role": "Chief Supply Chain Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Varun  Anchan",
+      "role": "Head of Brand Communications & Content",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

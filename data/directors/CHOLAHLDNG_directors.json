@@ -1,7 +1,7 @@
 {
   "ticker": "CHOLAHLDNG",
   "company": "Cholamandalam Financial Holdings Limited",
-  "collected_at": "2026-11-12 08:46:51",
+  "collected_at": "2026-11-13 08:37:07",
   "directors": [
     {
       "name": "Ms. Elanjezhia  Krithika",
@@ -15,6 +15,13 @@
       "role": "CFO & Manager",
       "age": 41,
       "year_born": 1984,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Santosh Kumar Pandey",
+      "role": "CFO of Cholamandalam MS General Insurance Company Ltd.",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

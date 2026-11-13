@@ -1,55 +1,13 @@
 {
   "ticker": "INDIANCARD",
   "company": "Indian Card Clothing Company Limited",
-  "collected_at": "2026-11-12 08:55:20",
+  "collected_at": "2026-11-13 08:46:00",
   "directors": [
     {
       "name": "Mr. Darshan  Sheth",
       "role": "Chief Executive Officer",
       "age": 50,
       "year_born": 1975,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Sanjeevkumar Walchand Karkamkar",
-      "role": "CFO & Executive Director",
-      "age": 69,
-      "year_born": 1956,
-      "total_pay": 2846879
-    },
-    {
-      "name": "Mr. Ashok Kumar Pal",
-      "role": "Vice President of Product Development & Technical Support",
-      "age": 66,
-      "year_born": 1959,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Amogh Arun Barve B.Com., C.S., L.L.B.",
-      "role": "Compliance Officer, Company Secretary and Head of Legal & Corporate Affairs",
-      "age": 45,
-      "year_born": 1980,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Laxmikant  Rathi",
-      "role": "President of Sales & Marketing",
-      "age": 54,
-      "year_born": 1971,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Yogesh  Deshpande B.E., M.B.A.",
-      "role": "Vice President of Supply Chain Management",
-      "age": 52,
-      "year_born": 1973,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Mohanraj  Kuppusamy",
-      "role": "Vice President of Sales & Marketing",
-      "age": 54,
-      "year_born": 1971,
       "total_pay": "N/A"
     },
     {
@@ -71,6 +29,27 @@
       "role": "Regional Head of South Zone & Head of Export",
       "age": 55,
       "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Gurpreet Singh Samrao",
+      "role": "Plant Head & Factory Manager",
+      "age": 45,
+      "year_born": 1980,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vivek  Shirbhate",
+      "role": "Head of IT",
+      "age": 52,
+      "year_born": 1973,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Aksaykumar  Sharma",
+      "role": "Deputy General Manager of Security & EA to Chairman",
+      "age": 37,
+      "year_born": 1988,
       "total_pay": "N/A"
     }
   ]

@@ -1,14 +1,14 @@
 {
   "ticker": "HDFCLIFE",
-  "collected_at": "2026-11-12 08:53:43",
+  "collected_at": "2026-11-13 08:44:18",
   "company_info": {
     "name": "HDFC Life Insurance Company Limited",
     "sector": "Financial Services",
     "industry": "Insurance - Life",
-    "market_cap": 1294541258752,
-    "current_price": 596.0,
-    "pe_ratio": 62.935585,
-    "pb_ratio": 6.8242974,
+    "market_cap": 1278685347840,
+    "current_price": 588.55,
+    "pe_ratio": 62.16473,
+    "pb_ratio": 6.740711,
     "roe": 0.11256,
     "debt_to_equity": 15.919,
     "revenue": 1080771608576,
@@ -16,6 +16,6 @@
     "eps": 9.47,
     "52_week_high": 788.5,
     "52_week_low": 508.05,
-    "dividend_yield": 0.37
+    "dividend_yield": 0.35
   }
 }

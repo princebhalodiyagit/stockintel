@@ -1,14 +1,14 @@
 {
   "ticker": "GSFC",
-  "collected_at": "2026-11-12 08:52:58",
+  "collected_at": "2026-11-13 08:43:31",
   "company_info": {
     "name": "Gujarat State Fertilizers & Chemicals Limited",
     "sector": "Basic Materials",
     "industry": "Agricultural Inputs",
-    "market_cap": 58958737408,
-    "current_price": 147.96,
-    "pe_ratio": 10.368606,
-    "pb_ratio": 0.45150504,
+    "market_cap": 57679622144,
+    "current_price": 144.75,
+    "pe_ratio": 10.143658,
+    "pb_ratio": 0.44170958,
     "roe": 0.04453,
     "debt_to_equity": 4.856,
     "revenue": 138978099200,
@@ -16,6 +16,6 @@
     "eps": 14.27,
     "52_week_high": 199.33,
     "52_week_low": 132.25,
-    "dividend_yield": 3.4
+    "dividend_yield": 3.39
   }
 }

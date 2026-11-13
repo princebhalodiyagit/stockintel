@@ -1,14 +1,14 @@
 {
   "ticker": "BAIDFIN",
-  "collected_at": "2026-11-12 08:43:40",
+  "collected_at": "2026-11-13 08:33:53",
   "company_info": {
     "name": "Baid Finserv Limited",
     "sector": "Financial Services",
     "industry": "Credit Services",
-    "market_cap": 1620922112,
-    "current_price": 10.0,
-    "pe_ratio": 9.259259,
-    "pb_ratio": 0.65112644,
+    "market_cap": 1622542976,
+    "current_price": 10.01,
+    "pe_ratio": 9.268518,
+    "pb_ratio": 0.6517776,
     "roe": 0.072519995,
     "debt_to_equity": 107.028,
     "revenue": 597918016,
@@ -16,6 +16,6 @@
     "eps": 1.08,
     "52_week_high": 12.98,
     "52_week_low": 8.8,
-    "dividend_yield": 0.98
+    "dividend_yield": 1.0
   }
 }

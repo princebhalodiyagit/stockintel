@@ -1,7 +1,7 @@
 {
   "ticker": "WOCKPHARMA",
   "company": "Wockhardt Limited",
-  "collected_at": "2026-11-12 09:17:28",
+  "collected_at": "2026-11-13 09:09:13",
   "directors": [
     {
       "name": "Dr. Habil Fakhruddin Khorakiwala",
@@ -39,13 +39,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Sumit  Garg",
-      "role": "Chief Digital & Information Officer (CDIO)",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
       "name": "Ms. Rashmi Dinesh Mamtura",
       "role": "Company Secretary & Compliance Officer",
       "age": "N/A",
@@ -71,6 +64,13 @@
       "role": "Senior Vice President of Business Development",
       "age": 74,
       "year_born": 1951,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Zoher T. Sihorwala",
+      "role": "Head of Global Regulatory Affairs",
+      "age": 55,
+      "year_born": 1970,
       "total_pay": "N/A"
     }
   ]

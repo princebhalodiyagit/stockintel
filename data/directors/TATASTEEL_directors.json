@@ -1,7 +1,7 @@
 {
   "ticker": "TATASTEEL",
   "company": "Tata Steel Limited",
-  "collected_at": "2026-11-12 09:13:38",
+  "collected_at": "2026-11-13 09:05:11",
   "directors": [
     {
       "name": "Mr. Thachat Viswanath Narendran",
@@ -9,13 +9,6 @@
       "age": 60,
       "year_born": 1965,
       "total_pay": 206607000
-    },
-    {
-      "name": "Mr. Koushik  Chatterjee B.Com. (Hons), F.C.A.",
-      "role": "CFO & Executive Director",
-      "age": 57,
-      "year_born": 1968,
-      "total_pay": 163867000
     },
     {
       "name": "Mr. Parvatheesam  Kanchinadham",
@@ -71,6 +64,13 @@
       "role": "Chief People Officer",
       "age": 55,
       "year_born": 1970,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Subramaniam  Hariharan",
+      "role": "Chief of 3MT Expansion Project",
+      "age": 71,
+      "year_born": 1954,
       "total_pay": "N/A"
     }
   ]

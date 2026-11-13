@@ -1,7 +1,7 @@
 {
   "ticker": "MINDACORP",
   "company": "Minda Corporation Limited",
-  "collected_at": "2026-11-12 09:01:32",
+  "collected_at": "2026-11-13 08:52:33",
   "directors": [
     {
       "name": "Mr. Ashok  Minda",
@@ -53,13 +53,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Sumit  Doseja",
-      "role": "Chief Executive Officer of Mechatronics & Vehicle Access System",
-      "age": 51,
-      "year_born": 1974,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Ranjit  Nambiar",
       "role": "Chief Executive Officer of Interior Plastic Division",
       "age": "N/A",
@@ -71,6 +64,13 @@
       "role": "Chief Executive Officer of Electrical Distribution System Division & Wiring Harness Division",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sunil  Goel",
+      "role": "CEO of BV- IV (After Market Division)",
+      "age": 45,
+      "year_born": 1980,
       "total_pay": "N/A"
     }
   ]

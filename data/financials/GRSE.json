@@ -1,21 +1,21 @@
 {
   "ticker": "GRSE",
-  "collected_at": "2026-11-12 08:52:56",
+  "collected_at": "2026-11-13 08:43:29",
   "company_info": {
     "name": "Garden Reach Shipbuilders & Engineers Limited",
     "sector": "Industrials",
     "industry": "Aerospace & Defense",
-    "market_cap": 252930818048,
-    "current_price": 2208.0,
-    "pe_ratio": 30.889757,
-    "pb_ratio": 9.631365,
-    "roe": "N/A",
+    "market_cap": 250193035264,
+    "current_price": 2184.1,
+    "pe_ratio": 30.5554,
+    "pb_ratio": 8.6386795,
+    "roe": 0.31537,
     "debt_to_equity": 1.424,
-    "revenue": 75069046784,
-    "net_income": 8005967872,
+    "revenue": 76734922752,
+    "net_income": 8187844096,
     "eps": 71.48,
     "52_week_high": 3339.0,
     "52_week_low": 1842.0,
-    "dividend_yield": 0.89
+    "dividend_yield": 0.63
   }
 }
