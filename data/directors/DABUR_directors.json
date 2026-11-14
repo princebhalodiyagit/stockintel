@@ -1,15 +1,8 @@
 {
   "ticker": "DABUR",
   "company": "Dabur India Limited",
-  "collected_at": "2026-11-13 08:38:10",
+  "collected_at": "2026-11-14 07:57:06",
   "directors": [
-    {
-      "name": "Mr. Mohit  Malhotra M.B.A.",
-      "role": "Global CEO & Whole Time Director",
-      "age": 56,
-      "year_born": 1969,
-      "total_pay": 153522029
-    },
     {
       "name": "Mr. Pritam Das Narang AICWA, B.Com, FCA, FCS, MIIA (USA)",
       "role": "Group Director of Corporate Affairs & Whole Time Director",
@@ -71,6 +64,13 @@
       "role": "Head of Corporate Social Responsibility",
       "age": 74,
       "year_born": 1951,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Adarsh  Sharma B.Com., M.B.A.",
+      "role": "Executive Vice President of Sales",
+      "age": 62,
+      "year_born": 1963,
       "total_pay": "N/A"
     }
   ]

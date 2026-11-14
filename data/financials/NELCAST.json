@@ -1,21 +1,21 @@
 {
   "ticker": "NELCAST",
-  "collected_at": "2026-11-13 08:54:09",
+  "collected_at": "2026-11-14 08:11:00",
   "company_info": {
     "name": "Nelcast Limited",
     "sector": "Industrials",
     "industry": "Metal Fabrication",
-    "market_cap": 13314255872,
-    "current_price": 152.61,
-    "pe_ratio": 25.266556,
-    "pb_ratio": 2.2253492,
-    "roe": "N/A",
-    "debt_to_equity": 42.912,
-    "revenue": 13375910912,
-    "net_income": 410646016,
+    "market_cap": 13435524096,
+    "current_price": 154.0,
+    "pe_ratio": 25.496689,
+    "pb_ratio": 2.2049139,
+    "roe": 0.08879,
+    "debt_to_equity": 38.327,
+    "revenue": 14448073728,
+    "net_income": 525113984,
     "eps": 6.04,
     "52_week_high": 173.2,
     "52_week_low": 85.98,
-    "dividend_yield": 0.49
+    "dividend_yield": 0.46
   }
 }

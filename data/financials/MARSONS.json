@@ -1,14 +1,14 @@
 {
   "ticker": "MARSONS",
-  "collected_at": "2026-11-13 08:51:48",
+  "collected_at": "2026-11-14 08:09:00",
   "company_info": {
     "name": "Marsons Limited",
     "sector": "Industrials",
     "industry": "Electrical Equipment & Parts",
-    "market_cap": 25405401088,
-    "current_price": 147.62,
-    "pe_ratio": 57.664062,
-    "pb_ratio": 11.7112255,
+    "market_cap": 25350330368,
+    "current_price": 147.3,
+    "pe_ratio": 57.539066,
+    "pb_ratio": 11.68584,
     "roe": "N/A",
     "debt_to_equity": 0.321,
     "revenue": 2476599040,
@@ -16,6 +16,6 @@
     "eps": 2.56,
     "52_week_high": 175.4,
     "52_week_low": 100.25,
-    "dividend_yield": 0.0
+    "dividend_yield": 0.07
   }
 }

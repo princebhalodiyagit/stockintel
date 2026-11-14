@@ -1,14 +1,14 @@
 {
   "ticker": "ACC",
-  "collected_at": "2026-11-13 08:30:11",
+  "collected_at": "2026-11-14 07:50:20",
   "company_info": {
     "name": "ACC Limited",
     "sector": "Basic Materials",
     "industry": "Building Materials",
-    "market_cap": 228555882496,
-    "current_price": 1217.1,
-    "pe_ratio": 25.96203,
-    "pb_ratio": 1.1059549,
+    "market_cap": 229419696128,
+    "current_price": 1221.7,
+    "pe_ratio": 26.060152,
+    "pb_ratio": 1.1101348,
     "roe": 0.04344,
     "debt_to_equity": 2.481,
     "revenue": 249716998144,
@@ -16,6 +16,6 @@
     "eps": 46.88,
     "52_week_high": 1987.0,
     "52_week_low": 1115.0,
-    "dividend_yield": 0.6
+    "dividend_yield": 0.61
   }
 }

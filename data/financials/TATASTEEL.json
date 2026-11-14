@@ -1,14 +1,14 @@
 {
   "ticker": "TATASTEEL",
-  "collected_at": "2026-11-13 09:05:11",
+  "collected_at": "2026-11-14 08:20:31",
   "company_info": {
     "name": "Tata Steel Limited",
     "sector": "Basic Materials",
     "industry": "Steel",
-    "market_cap": 2324003028992,
-    "current_price": 186.34,
-    "pe_ratio": 20.036558,
-    "pb_ratio": 2.2400942,
+    "market_cap": 2328243470336,
+    "current_price": 186.68,
+    "pe_ratio": 20.073116,
+    "pb_ratio": 2.2441816,
     "roe": 0.11686,
     "debt_to_equity": 96.863,
     "revenue": 2465030471680,
@@ -16,6 +16,6 @@
     "eps": 9.3,
     "52_week_high": 224.4,
     "52_week_low": 160.06,
-    "dividend_yield": 2.13
+    "dividend_yield": 2.14
   }
 }

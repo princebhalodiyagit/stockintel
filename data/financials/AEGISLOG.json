@@ -1,14 +1,14 @@
 {
   "ticker": "AEGISLOG",
-  "collected_at": "2026-11-13 08:30:38",
+  "collected_at": "2026-11-14 07:50:43",
   "company_info": {
     "name": "Aegis Logistics Limited",
     "sector": "Energy",
     "industry": "Oil & Gas Refining & Marketing",
-    "market_cap": 430325989376,
-    "current_price": 1226.0,
-    "pe_ratio": 32.297157,
-    "pb_ratio": 6.4676094,
+    "market_cap": 429975011328,
+    "current_price": 1225.0,
+    "pe_ratio": 32.270813,
+    "pb_ratio": 6.4623337,
     "roe": 0.17274,
     "debt_to_equity": 51.01,
     "revenue": 88899854336,
@@ -16,6 +16,6 @@
     "eps": 37.96,
     "52_week_high": 1528.7,
     "52_week_low": 576.1,
-    "dividend_yield": 1.08
+    "dividend_yield": 1.09
   }
 }

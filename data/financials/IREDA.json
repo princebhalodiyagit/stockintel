@@ -1,14 +1,14 @@
 {
   "ticker": "IREDA",
-  "collected_at": "2026-11-13 08:46:55",
+  "collected_at": "2026-11-14 08:04:41",
   "company_info": {
     "name": "Indian Renewable Energy Development Agency Limited",
     "sector": "Financial Services",
     "industry": "Credit Services",
-    "market_cap": 329888038912,
-    "current_price": 117.43,
-    "pe_ratio": 16.72792,
-    "pb_ratio": 2.2950788,
+    "market_cap": 332332072960,
+    "current_price": 118.3,
+    "pe_ratio": 16.851852,
+    "pb_ratio": 2.3120823,
     "roe": 0.14441,
     "debt_to_equity": 565.121,
     "revenue": 28447299584,
@@ -16,6 +16,6 @@
     "eps": 7.02,
     "52_week_high": 152.38,
     "52_week_low": 98.78,
-    "dividend_yield": 1.25
+    "dividend_yield": 1.27
   }
 }

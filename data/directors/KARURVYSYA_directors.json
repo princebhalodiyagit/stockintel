@@ -1,7 +1,7 @@
 {
   "ticker": "KARURVYSYA",
   "company": "Karur Vysya Bank Limited",
-  "collected_at": "2026-11-13 08:48:41",
+  "collected_at": "2026-11-14 08:06:14",
   "directors": [
     {
       "name": "Mr. Ramesh Babu Boddu",
@@ -23,13 +23,6 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 2438000
-    },
-    {
-      "name": "Mr. Sankar  Balabhadrapatruni",
-      "role": "Executive Director",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 10965662
     },
     {
       "name": "Mr. Ramshankar  R.",
@@ -71,6 +64,13 @@
       "role": "Chief General Manager",
       "age": 64,
       "year_born": 1961,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. S.  Ravi",
+      "role": "GM & Head of Agricultural Business Group",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

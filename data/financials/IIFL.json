@@ -1,14 +1,14 @@
 {
   "ticker": "IIFL",
-  "collected_at": "2026-11-13 08:45:41",
+  "collected_at": "2026-11-14 08:03:36",
   "company_info": {
     "name": "IIFL Finance Limited",
     "sector": "Financial Services",
     "industry": "Credit Services",
-    "market_cap": 273883840512,
-    "current_price": 641.4,
-    "pe_ratio": 11.013049,
-    "pb_ratio": 1.7696478,
+    "market_cap": 273755717632,
+    "current_price": 641.1,
+    "pe_ratio": 11.007897,
+    "pb_ratio": 1.76882,
     "roe": 0.16597,
     "debt_to_equity": 490.049,
     "revenue": 95475499008,
@@ -16,6 +16,6 @@
     "eps": 58.24,
     "52_week_high": 705.0,
     "52_week_low": 409.1,
-    "dividend_yield": 0.6
+    "dividend_yield": 0.62
   }
 }

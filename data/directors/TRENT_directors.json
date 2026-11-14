@@ -1,15 +1,8 @@
 {
   "ticker": "TRENT",
   "company": "Trent Limited",
-  "collected_at": "2026-11-13 09:06:36",
+  "collected_at": "2026-11-14 08:21:43",
   "directors": [
-    {
-      "name": "Mr. Venkatesalu  Palaniswamy",
-      "role": "MD & Executive Director",
-      "age": 48,
-      "year_born": 1977,
-      "total_pay": 147800000
-    },
     {
       "name": "Mr. Neeraj  Basur ACA, ACS, M.Com",
       "role": "Chief Financial Officer",
@@ -69,6 +62,13 @@
     {
       "name": "Mr. Vinod  Kapote",
       "role": "Head - Information Technology",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Ashley  D'cruz",
+      "role": "Head of Projects",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

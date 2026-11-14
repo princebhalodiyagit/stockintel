@@ -1,14 +1,14 @@
 {
   "ticker": "JKTYRE",
-  "collected_at": "2026-11-13 08:47:51",
+  "collected_at": "2026-11-14 08:05:28",
   "company_info": {
     "name": "JK Tyre & Industries Limited",
     "sector": "Consumer Cyclical",
     "industry": "Auto Parts",
-    "market_cap": 104850898944,
-    "current_price": 363.7,
-    "pe_ratio": 20.938398,
-    "pb_ratio": 1.7045349,
+    "market_cap": 104649089024,
+    "current_price": 363.0,
+    "pe_ratio": 20.8981,
+    "pb_ratio": 1.7012542,
     "roe": 0.086490005,
     "debt_to_equity": 100.967,
     "revenue": 172333694976,
@@ -16,6 +16,6 @@
     "eps": 17.37,
     "52_week_high": 611.9,
     "52_week_low": 296.75,
-    "dividend_yield": 1.09
+    "dividend_yield": 1.1
   }
 }
