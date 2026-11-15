@@ -1,15 +1,8 @@
 {
   "ticker": "SCHAND",
   "company": "S Chand And Company Limited",
-  "collected_at": "2026-11-14 08:16:56",
+  "collected_at": "2026-11-15 08:36:26",
   "directors": [
-    {
-      "name": "Mr. Himanshu  Gupta B.Com.",
-      "role": "MD & Executive Director",
-      "age": 47,
-      "year_born": 1978,
-      "total_pay": 27480000
-    },
     {
       "name": "Mr. Jagdeep  Singh B.Com., C.S., L.L.B.",
       "role": "President, General Counsel, Company Secretary & Compliance Officer",
@@ -30,13 +23,6 @@
       "age": 47,
       "year_born": 1978,
       "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Dinesh Kumar Jhunjhnuwala",
-      "role": "Executive Director",
-      "age": 65,
-      "year_born": 1960,
-      "total_pay": 20260000
     },
     {
       "name": "Ms. Meenu  Aggarwal",
@@ -71,6 +57,20 @@
       "role": "Business Head of S Chand Publishing & National Sales Head - Higher Education",
       "age": 39,
       "year_born": 1986,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Shammi  Manik",
+      "role": "CEO of New Saraswati House (India) Private Limited & CPD Singapore Education Services Pte. Ltd.",
+      "age": 60,
+      "year_born": 1965,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Naveen  Rajlani",
+      "role": "Chief Executive Officer of Vikas Publishing House Private Limited",
+      "age": 53,
+      "year_born": 1972,
       "total_pay": "N/A"
     }
   ]

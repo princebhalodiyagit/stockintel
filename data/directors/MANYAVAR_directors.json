@@ -1,7 +1,7 @@
 {
   "ticker": "MANYAVAR",
   "company": "Vedant Fashions Limited",
-  "collected_at": "2026-11-14 08:08:52",
+  "collected_at": "2026-11-15 08:28:30",
   "directors": [
     {
       "name": "Mr. Ravi  Modi",
@@ -9,13 +9,6 @@
       "age": 48,
       "year_born": 1977,
       "total_pay": 34200000
-    },
-    {
-      "name": "Mr. Rahul  Murarka",
-      "role": "Chief Financial Officer",
-      "age": 44,
-      "year_born": 1981,
-      "total_pay": 10020000
     },
     {
       "name": "Mr. Navin  Pareek",
@@ -71,6 +64,13 @@
       "role": "Chief of Retail Business Development & Projects",
       "age": 49,
       "year_born": 1976,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Vedant  Modi",
+      "role": "Chief Revenue Officer",
+      "age": 25,
+      "year_born": 2000,
       "total_pay": "N/A"
     }
   ]

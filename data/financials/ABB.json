@@ -1,6 +1,6 @@
 {
   "ticker": "ABB",
-  "collected_at": "2026-11-14 07:50:09",
+  "collected_at": "2026-11-15 08:10:22",
   "company_info": {
     "name": "ABB India Limited",
     "sector": "Industrials",
@@ -8,14 +8,14 @@
     "market_cap": 1494907617280,
     "current_price": 7054.5,
     "pe_ratio": 94.23591,
-    "pb_ratio": 19.077456,
-    "roe": 0.19131,
+    "pb_ratio": 16.012901,
+    "roe": "N/A",
     "debt_to_equity": 1.547,
-    "revenue": 139951194112,
-    "net_income": 15815199744,
+    "revenue": 146031394816,
+    "net_income": 16232899584,
     "eps": 74.86,
     "52_week_high": 7924.5,
     "52_week_low": 4637.5,
-    "dividend_yield": 0.43
+    "dividend_yield": 0.42
   }
 }
