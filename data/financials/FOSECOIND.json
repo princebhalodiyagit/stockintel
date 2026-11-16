@@ -1,21 +1,21 @@
 {
   "ticker": "FOSECOIND",
-  "collected_at": "2026-11-15 08:20:01",
+  "collected_at": "2026-11-16 08:29:47",
   "company_info": {
     "name": "Foseco India Limited",
     "sector": "Basic Materials",
     "industry": "Chemicals",
-    "market_cap": 47697551360,
-    "current_price": 6297.0,
-    "pe_ratio": 48.43474,
-    "pb_ratio": 4.5801625,
-    "roe": 0.13254,
+    "market_cap": 46436372480,
+    "current_price": 6130.5,
+    "pe_ratio": 47.154068,
+    "pb_ratio": 4.6227803,
+    "roe": "N/A",
     "debt_to_equity": 0.195,
-    "revenue": 7709380096,
-    "net_income": 989718016,
+    "revenue": 8723180544,
+    "net_income": 1147565952,
     "eps": 130.01,
     "52_week_high": 7389.5,
     "52_week_low": 4300.0,
-    "dividend_yield": 0.42
+    "dividend_yield": 0.4
   }
 }

@@ -1,7 +1,7 @@
 {
   "ticker": "TATACHEM",
   "company": "Tata Chemicals Limited",
-  "collected_at": "2026-11-15 08:39:48",
+  "collected_at": "2026-11-16 08:53:17",
   "directors": [
     {
       "name": "Mr. Ramakrishnan  Mukundan B.E.(Elec), MBA",
@@ -16,13 +16,6 @@
       "age": 53,
       "year_born": 1972,
       "total_pay": 38470314
-    },
-    {
-      "name": "Mr. Jeraz E. Mahernosh",
-      "role": "Company Secretary & Compliance Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 4761361
     },
     {
       "name": "Mr. C. R. Sriniwas",
@@ -71,6 +64,13 @@
       "role": "Chief Strategy & Projects Officer",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Dr. Gyanendra  Shukla B.S., Ph.D.",
+      "role": "MD & CEO of Rallis",
+      "age": 59,
+      "year_born": 1966,
       "total_pay": "N/A"
     }
   ]
