@@ -1,14 +1,14 @@
 {
   "ticker": "PGHL",
-  "collected_at": "2026-11-16 08:44:51",
+  "collected_at": "2026-11-17 09:58:04",
   "company_info": {
     "name": "Procter & Gamble Health Limited",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - Specialty & Generic",
-    "market_cap": 93844602880,
-    "current_price": 5653.5,
-    "pe_ratio": 26.9638,
-    "pb_ratio": 14.260419,
+    "market_cap": 90831814656,
+    "current_price": 5472.0,
+    "pe_ratio": 26.098154,
+    "pb_ratio": 13.802602,
     "roe": 0.59455,
     "debt_to_equity": 1.096,
     "revenue": 14905100288,
@@ -16,6 +16,6 @@
     "eps": 209.67,
     "52_week_high": 6975.0,
     "52_week_low": 4707.0,
-    "dividend_yield": 2.67
+    "dividend_yield": 2.77
   }
 }

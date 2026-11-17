@@ -1,14 +1,14 @@
 {
   "ticker": "HCLTECH",
-  "collected_at": "2026-11-16 08:32:30",
+  "collected_at": "2026-11-17 09:46:07",
   "company_info": {
     "name": "HCL Technologies Limited",
     "sector": "Technology",
     "industry": "Information Technology Services",
-    "market_cap": 3716196859904,
-    "current_price": 1373.0,
-    "pe_ratio": 20.313658,
-    "pb_ratio": 4.961799,
+    "market_cap": 3681010843648,
+    "current_price": 1360.0,
+    "pe_ratio": 20.12132,
+    "pb_ratio": 4.9148192,
     "roe": 0.24648,
     "debt_to_equity": 7.905,
     "revenue": 14849000448,
@@ -16,6 +16,6 @@
     "eps": 67.59,
     "52_week_high": 1780.1,
     "52_week_low": 1030.0,
-    "dividend_yield": 3.48
+    "dividend_yield": 3.47
   }
 }

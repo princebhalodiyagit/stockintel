@@ -1,14 +1,14 @@
 {
   "ticker": "ROSSARI",
-  "collected_at": "2026-11-16 08:47:45",
+  "collected_at": "2026-11-17 10:00:55",
   "company_info": {
     "name": "Rossari Biotech Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals",
-    "market_cap": 23650519040,
-    "current_price": 426.95,
-    "pe_ratio": 15.491655,
-    "pb_ratio": 1.6810842,
+    "market_cap": 23985651712,
+    "current_price": 433.0,
+    "pe_ratio": 15.711176,
+    "pb_ratio": 1.7049056,
     "roe": 0.114879996,
     "debt_to_equity": 27.569,
     "revenue": 26613020672,
@@ -16,6 +16,6 @@
     "eps": 27.56,
     "52_week_high": 638.7,
     "52_week_low": 375.0,
-    "dividend_yield": 0.11
+    "dividend_yield": 0.12
   }
 }

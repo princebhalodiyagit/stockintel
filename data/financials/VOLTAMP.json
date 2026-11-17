@@ -1,14 +1,14 @@
 {
   "ticker": "VOLTAMP",
-  "collected_at": "2026-11-16 08:56:39",
+  "collected_at": "2026-11-17 10:09:48",
   "company_info": {
     "name": "Voltamp Transformers Limited",
     "sector": "Industrials",
     "industry": "Electrical Equipment & Parts",
-    "market_cap": 96395919360,
-    "current_price": 9528.0,
-    "pe_ratio": 29.81693,
-    "pb_ratio": 5.163223,
+    "market_cap": 95849594880,
+    "current_price": 9474.0,
+    "pe_ratio": 29.647943,
+    "pb_ratio": 5.1339602,
     "roe": 0.18413,
     "debt_to_equity": 0.271,
     "revenue": 24790767616,
@@ -16,6 +16,6 @@
     "eps": 319.55,
     "52_week_high": 12863.0,
     "52_week_low": 6666.0,
-    "dividend_yield": 1.02
+    "dividend_yield": 1.05
   }
 }

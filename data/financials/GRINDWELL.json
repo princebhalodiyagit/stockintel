@@ -1,14 +1,14 @@
 {
   "ticker": "GRINDWELL",
-  "collected_at": "2026-11-16 08:31:39",
+  "collected_at": "2026-11-17 09:45:18",
   "company_info": {
     "name": "Grindwell Norton Limited",
     "sector": "Industrials",
     "industry": "Building Products & Equipment",
-    "market_cap": 204278398976,
-    "current_price": 1845.0,
-    "pe_ratio": 44.2022,
-    "pb_ratio": 7.8473573,
+    "market_cap": 203115839488,
+    "current_price": 1834.5,
+    "pe_ratio": 43.950645,
+    "pb_ratio": 7.8026977,
     "roe": 0.18861,
     "debt_to_equity": 2.128,
     "revenue": 32819595264,
@@ -16,6 +16,6 @@
     "eps": 41.74,
     "52_week_high": 2455.0,
     "52_week_low": 1329.0,
-    "dividend_yield": 0.99
+    "dividend_yield": 1.03
   }
 }

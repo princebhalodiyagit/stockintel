@@ -1,14 +1,14 @@
 {
   "ticker": "SANOFI",
-  "collected_at": "2026-11-16 08:48:51",
+  "collected_at": "2026-11-17 10:02:03",
   "company_info": {
     "name": "Sanofi India Limited",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - General",
-    "market_cap": 75501289472,
-    "current_price": 3278.3,
-    "pe_ratio": 20.713337,
-    "pb_ratio": 9.139597,
+    "market_cap": 74248421376,
+    "current_price": 3223.9,
+    "pe_ratio": 20.369621,
+    "pb_ratio": 8.987934,
     "roe": "N/A",
     "debt_to_equity": 1.78,
     "revenue": 18215000064,
@@ -16,6 +16,6 @@
     "eps": 158.27,
     "52_week_high": 4650.0,
     "52_week_low": 2758.2,
-    "dividend_yield": 3.73
+    "dividend_yield": 3.75
   }
 }

@@ -1,14 +1,14 @@
 {
   "ticker": "JUBLFOOD",
-  "collected_at": "2026-11-16 08:36:30",
+  "collected_at": "2026-11-17 09:50:00",
   "company_info": {
     "name": "Jubilant FoodWorks Limited",
     "sector": "Consumer Cyclical",
     "industry": "Restaurants",
-    "market_cap": "N/A",
-    "current_price": 429.15,
-    "pe_ratio": 75.95575,
-    "pb_ratio": 11.351673,
+    "market_cap": 282043744256,
+    "current_price": 428.85,
+    "pe_ratio": 75.90266,
+    "pb_ratio": 11.343738,
     "roe": 0.15944,
     "debt_to_equity": 187.771,
     "revenue": 101061918720,
@@ -16,6 +16,6 @@
     "eps": 5.65,
     "52_week_high": 619.0,
     "52_week_low": 397.8,
-    "dividend_yield": 0.27
+    "dividend_yield": 0.28
   }
 }

@@ -1,14 +1,14 @@
 {
   "ticker": "CRISIL",
-  "collected_at": "2026-11-16 08:26:09",
+  "collected_at": "2026-11-17 09:39:51",
   "company_info": {
     "name": "CRISIL Limited",
     "sector": "Financial Services",
     "industry": "Financial Data & Stock Exchanges",
-    "market_cap": 309771436032,
-    "current_price": 4235.9,
-    "pe_ratio": 34.5816,
-    "pb_ratio": 9.468978,
+    "market_cap": 312521129984,
+    "current_price": 4273.5,
+    "pe_ratio": 34.88856,
+    "pb_ratio": 9.553029,
     "roe": "N/A",
     "debt_to_equity": 10.23,
     "revenue": 43097800704,
@@ -16,6 +16,6 @@
     "eps": 122.49,
     "52_week_high": 4872.7,
     "52_week_low": 3686.0,
-    "dividend_yield": 1.56
+    "dividend_yield": 1.6
   }
 }
