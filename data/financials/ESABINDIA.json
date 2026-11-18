@@ -1,14 +1,14 @@
 {
   "ticker": "ESABINDIA",
-  "collected_at": "2026-11-17 09:42:35",
+  "collected_at": "2026-11-18 09:00:33",
   "company_info": {
     "name": "ESAB India Limited",
     "sector": "Industrials",
     "industry": "Tools & Accessories",
-    "market_cap": 79466463232,
-    "current_price": 5162.5,
-    "pe_ratio": 41.459206,
-    "pb_ratio": 15.990844,
+    "market_cap": 79581913088,
+    "current_price": 5170.0,
+    "pe_ratio": 41.519436,
+    "pb_ratio": 16.014074,
     "roe": 0.41955003,
     "debt_to_equity": 0.616,
     "revenue": 16197300224,
@@ -16,6 +16,6 @@
     "eps": 124.52,
     "52_week_high": 7319.5,
     "52_week_low": 4901.5,
-    "dividend_yield": 1.83
+    "dividend_yield": 1.84
   }
 }

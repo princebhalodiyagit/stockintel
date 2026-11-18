@@ -1,14 +1,14 @@
 {
   "ticker": "TRENT",
-  "collected_at": "2026-11-17 10:07:54",
+  "collected_at": "2026-11-18 09:20:47",
   "company_info": {
     "name": "Trent Limited",
     "sector": "Consumer Cyclical",
     "industry": "Apparel Retail",
-    "market_cap": 1693705699328,
-    "current_price": 3176.3,
-    "pe_ratio": 89.347404,
-    "pb_ratio": 21.792797,
+    "market_cap": 1695891980288,
+    "current_price": 3180.4,
+    "pe_ratio": 89.46273,
+    "pb_ratio": 21.820925,
     "roe": 0.27062,
     "debt_to_equity": 29.486,
     "revenue": 220009005056,
@@ -16,6 +16,6 @@
     "eps": 35.55,
     "52_week_high": 4417.8,
     "52_week_low": 2183.6667,
-    "dividend_yield": 0.12
+    "dividend_yield": 0.13
   }
 }

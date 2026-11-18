@@ -1,14 +1,14 @@
 {
   "ticker": "CEMPRO",
-  "collected_at": "2026-11-17 09:38:38",
+  "collected_at": "2026-11-18 08:57:26",
   "company_info": {
     "name": "Cemindia Projects Limited",
     "sector": "Industrials",
     "industry": "Engineering & Construction",
-    "market_cap": 249155420160,
-    "current_price": 1351.0,
-    "pe_ratio": 37.16644,
-    "pb_ratio": 8.862387,
+    "market_cap": 248159535104,
+    "current_price": 1345.6,
+    "pe_ratio": 37.017883,
+    "pb_ratio": 8.826963,
     "roe": 0.26732,
     "debt_to_equity": 35.173,
     "revenue": 107585396736,
@@ -16,6 +16,6 @@
     "eps": 36.35,
     "52_week_high": 1649.2,
     "52_week_low": 503.3,
-    "dividend_yield": 0.23
+    "dividend_yield": 0.22
   }
 }

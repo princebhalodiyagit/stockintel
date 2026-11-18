@@ -1,14 +1,14 @@
 {
   "ticker": "UNOMINDA",
-  "collected_at": "2026-11-17 10:08:45",
+  "collected_at": "2026-11-18 09:21:27",
   "company_info": {
     "name": "Uno Minda Limited",
     "sector": "Consumer Cyclical",
     "industry": "Auto Parts",
-    "market_cap": 801567801344,
-    "current_price": 1388.1,
-    "pe_ratio": 60.85489,
-    "pb_ratio": 10.77157,
+    "market_cap": 789556756480,
+    "current_price": 1367.3,
+    "pe_ratio": 59.943012,
+    "pb_ratio": 10.610164,
     "roe": 0.19396,
     "debt_to_equity": 37.171,
     "revenue": 225667399680,
@@ -16,6 +16,6 @@
     "eps": 22.81,
     "52_week_high": 1406.5,
     "52_week_low": 994.0,
-    "dividend_yield": 0.2
+    "dividend_yield": 0.19
   }
 }

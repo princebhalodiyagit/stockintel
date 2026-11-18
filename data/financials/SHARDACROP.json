@@ -1,14 +1,14 @@
 {
   "ticker": "SHARDACROP",
-  "collected_at": "2026-11-17 10:03:02",
+  "collected_at": "2026-11-18 09:16:56",
   "company_info": {
     "name": "Sharda Cropchem Limited",
     "sector": "Basic Materials",
     "industry": "Agricultural Inputs",
-    "market_cap": 63979868160,
-    "current_price": 709.15,
-    "pe_ratio": 9.940427,
-    "pb_ratio": 1.9693086,
+    "market_cap": 63212994560,
+    "current_price": 700.65,
+    "pe_ratio": 9.82128,
+    "pb_ratio": 1.9457041,
     "roe": 0.21719,
     "debt_to_equity": 0.745,
     "revenue": 54791077888,
@@ -16,6 +16,6 @@
     "eps": 71.34,
     "52_week_high": 1297.0,
     "52_week_low": 622.5,
-    "dividend_yield": 2.08
+    "dividend_yield": 2.12
   }
 }
