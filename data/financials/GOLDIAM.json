@@ -1,14 +1,14 @@
 {
   "ticker": "GOLDIAM",
-  "collected_at": "2026-11-18 09:02:25",
+  "collected_at": "2026-11-19 09:20:21",
   "company_info": {
     "name": "Goldiam International Limited",
     "sector": "Consumer Cyclical",
     "industry": "Luxury Goods",
-    "market_cap": 44474572800,
-    "current_price": 295.4,
-    "pe_ratio": 16.456823,
-    "pb_ratio": 3.583038,
+    "market_cap": 43932565504,
+    "current_price": 291.8,
+    "pe_ratio": 16.256266,
+    "pb_ratio": 3.539372,
     "roe": 0.20162001,
     "debt_to_equity": 4.416,
     "revenue": 11621310464,
@@ -16,6 +16,6 @@
     "eps": 17.95,
     "52_week_high": 398.2,
     "52_week_low": 198.75,
-    "dividend_yield": 1.35
+    "dividend_yield": 1.38
   }
 }

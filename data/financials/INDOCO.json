@@ -1,14 +1,14 @@
 {
   "ticker": "INDOCO",
-  "collected_at": "2026-11-18 09:04:54",
+  "collected_at": "2026-11-19 09:23:22",
   "company_info": {
     "name": "Indoco Remedies Limited",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - Specialty & Generic",
-    "market_cap": 22153830400,
-    "current_price": 240.31,
-    "pe_ratio": 69.85756,
-    "pb_ratio": 2.049185,
+    "market_cap": 21581340672,
+    "current_price": 234.1,
+    "pe_ratio": 68.05233,
+    "pb_ratio": 1.996231,
     "roe": 0.03194,
     "debt_to_equity": 104.259,
     "revenue": 19086389248,
@@ -16,6 +16,6 @@
     "eps": 3.44,
     "52_week_high": 287.8,
     "52_week_low": 162.19,
-    "dividend_yield": 0.09
+    "dividend_yield": 0.08
   }
 }

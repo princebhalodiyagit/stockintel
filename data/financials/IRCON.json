@@ -1,14 +1,14 @@
 {
   "ticker": "IRCON",
-  "collected_at": "2026-11-18 09:05:27",
+  "collected_at": "2026-11-19 09:24:02",
   "company_info": {
     "name": "Ircon International Limited",
     "sector": "Industrials",
     "industry": "Engineering & Construction",
-    "market_cap": 99769909248,
-    "current_price": 106.08,
-    "pe_ratio": 20.439306,
-    "pb_ratio": 1.4777873,
+    "market_cap": 102732537856,
+    "current_price": 109.23,
+    "pe_ratio": 21.046244,
+    "pb_ratio": 1.5216696,
     "roe": 0.07277,
     "debt_to_equity": 86.725,
     "revenue": 95355101184,
@@ -16,6 +16,6 @@
     "eps": 5.19,
     "52_week_high": 186.44,
     "52_week_low": 95.76,
-    "dividend_yield": 1.75
+    "dividend_yield": 1.8
   }
 }

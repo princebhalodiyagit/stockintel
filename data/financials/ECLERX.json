@@ -1,14 +1,14 @@
 {
   "ticker": "ECLERX",
-  "collected_at": "2026-11-18 08:59:54",
+  "collected_at": "2026-11-19 09:17:20",
   "company_info": {
     "name": "eClerx Services Limited",
     "sector": "Technology",
     "industry": "Information Technology Services",
-    "market_cap": 138037903360,
-    "current_price": 1500.0,
-    "pe_ratio": 19.533792,
-    "pb_ratio": 4.728505,
+    "market_cap": 135047086080,
+    "current_price": 1467.5,
+    "pe_ratio": 19.110561,
+    "pb_ratio": 4.626054,
     "roe": 0.26197,
     "debt_to_equity": 17.502,
     "revenue": 45186338816,
@@ -16,6 +16,6 @@
     "eps": 76.79,
     "52_week_high": 2497.5,
     "52_week_low": 1320.0,
-    "dividend_yield": 0.06
+    "dividend_yield": 0.07
   }
 }

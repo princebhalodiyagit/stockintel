@@ -1,14 +1,14 @@
 {
   "ticker": "ENGINERSIN",
-  "collected_at": "2026-11-18 09:00:25",
+  "collected_at": "2026-11-19 09:17:57",
   "company_info": {
     "name": "Engineers India Limited",
     "sector": "Industrials",
     "industry": "Engineering & Construction",
-    "market_cap": 171479121920,
-    "current_price": 305.1,
-    "pe_ratio": 19.11654,
-    "pb_ratio": 5.131526,
+    "market_cap": 172575096832,
+    "current_price": 307.05,
+    "pe_ratio": 19.238722,
+    "pb_ratio": 5.164323,
     "roe": 0.29681,
     "debt_to_equity": 0.468,
     "revenue": 37808611328,
@@ -16,6 +16,6 @@
     "eps": 15.96,
     "52_week_high": 323.65,
     "52_week_low": 163.55,
-    "dividend_yield": 2.08
+    "dividend_yield": 2.13
   }
 }

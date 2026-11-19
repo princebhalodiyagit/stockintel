@@ -1,22 +1,8 @@
 {
   "ticker": "KTKBANK",
   "company": "The Karnataka Bank Limited",
-  "collected_at": "2026-11-18 09:07:53",
+  "collected_at": "2026-11-19 09:26:57",
   "directors": [
-    {
-      "name": "Mr. Raghavendra Srinivas Bhat",
-      "role": "MD, CEO & Additional Director",
-      "age": 67,
-      "year_born": 1958,
-      "total_pay": 18060943
-    },
-    {
-      "name": "Mr. Chandra  Shekar",
-      "role": "Chief Business Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 2750000
-    },
     {
       "name": "Mr. Vijayakumar  P H",
       "role": "Chief Financial Officer",
@@ -69,6 +55,20 @@
     {
       "name": "Mr. Ramasubramanian  B.",
       "role": "Deputy GM & Head of Collections",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. S. Jayanagaraja Rao",
+      "role": "GM, Head of Inspection, IS Audit, Vigilance Dept. & Internal Audit and Chief of Internal Vigilance",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Raghavendra  Rao T V",
+      "role": "Deputy GM & National Head of Retail Asset Centre",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

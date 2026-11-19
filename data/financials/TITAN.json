@@ -1,14 +1,14 @@
 {
   "ticker": "TITAN",
-  "collected_at": "2026-11-18 09:20:29",
+  "collected_at": "2026-11-19 09:42:17",
   "company_info": {
     "name": "Titan Company Limited",
     "sector": "Consumer Cyclical",
     "industry": "Luxury Goods",
-    "market_cap": 4157235789824,
-    "current_price": 4685.2,
-    "pe_ratio": 59.134167,
-    "pb_ratio": 22.770884,
+    "market_cap": 4147563724800,
+    "current_price": 4674.3,
+    "pe_ratio": 58.996586,
+    "pb_ratio": 22.717905,
     "roe": 0.45271,
     "debt_to_equity": 218.562,
     "revenue": 943060025344,
@@ -16,6 +16,6 @@
     "eps": 79.23,
     "52_week_high": 5186.7,
     "52_week_low": 3751.0,
-    "dividend_yield": 0.31
+    "dividend_yield": 0.32
   }
 }
