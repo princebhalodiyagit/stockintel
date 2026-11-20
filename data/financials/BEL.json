@@ -1,14 +1,14 @@
 {
   "ticker": "BEL",
-  "collected_at": "2026-11-19 09:12:33",
+  "collected_at": "2026-11-20 08:57:28",
   "company_info": {
     "name": "Bharat Electronics Limited",
     "sector": "Industrials",
     "industry": "Aerospace & Defense",
-    "market_cap": 2938165788672,
-    "current_price": 401.95,
-    "pe_ratio": 45.937145,
-    "pb_ratio": 11.173348,
+    "market_cap": 2938531217408,
+    "current_price": 402.0,
+    "pe_ratio": 45.942856,
+    "pb_ratio": 11.174738,
     "roe": 0.26748,
     "debt_to_equity": 0.324,
     "revenue": 302529806336,
@@ -16,6 +16,6 @@
     "eps": 8.75,
     "52_week_high": 473.45,
     "52_week_low": 354.55,
-    "dividend_yield": 0.63
+    "dividend_yield": 0.62
   }
 }

@@ -1,7 +1,7 @@
 {
   "ticker": "CIFL",
   "company": "Capital India Finance Limited",
-  "collected_at": "2026-11-19 09:14:48",
+  "collected_at": "2026-11-20 08:59:55",
   "directors": [
     {
       "name": "Mr. Pinank Jayant Shah",
@@ -23,13 +23,6 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 17502000
-    },
-    {
-      "name": "Mr. Keshav  Porwal",
-      "role": "MD & Executive Director",
-      "age": 48,
-      "year_born": 1977,
-      "total_pay": 20105000
     },
     {
       "name": "Mr. Manvinder Singh Walia",
@@ -69,6 +62,13 @@
     {
       "name": "Mr. Subhendu  Bhanja",
       "role": "Chief of Service Delivery",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Mohit  Sirpurkar",
+      "role": "Head of Risk & Policy",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

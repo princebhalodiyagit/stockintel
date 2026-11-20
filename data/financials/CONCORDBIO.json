@@ -1,14 +1,14 @@
 {
   "ticker": "CONCORDBIO",
-  "collected_at": "2026-11-19 09:15:12",
+  "collected_at": "2026-11-20 09:00:23",
   "company_info": {
     "name": "Concord Biotech Limited",
     "sector": "Healthcare",
     "industry": "Biotechnology",
-    "market_cap": 116375068672,
-    "current_price": 556.2,
-    "pe_ratio": 42.104465,
-    "pb_ratio": 5.6937537,
+    "market_cap": 114450128896,
+    "current_price": 547.0,
+    "pe_ratio": 41.408024,
+    "pb_ratio": 5.599574,
     "roe": 0.14332,
     "debt_to_equity": 0.084,
     "revenue": 11704047616,
@@ -16,6 +16,6 @@
     "eps": 13.21,
     "52_week_high": 807.5,
     "52_week_low": 493.5,
-    "dividend_yield": 0.67
+    "dividend_yield": 0.68
   }
 }

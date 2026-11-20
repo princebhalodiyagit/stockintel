@@ -1,14 +1,14 @@
 {
   "ticker": "BEML",
-  "collected_at": "2026-11-19 09:12:36",
+  "collected_at": "2026-11-20 08:57:31",
   "company_info": {
     "name": "BEML Limited",
     "sector": "Industrials",
     "industry": "Conglomerates",
-    "market_cap": 169284894720,
-    "current_price": 2032.5,
-    "pe_ratio": 29.177431,
-    "pb_ratio": 5.894277,
+    "market_cap": 170909024256,
+    "current_price": 2052.0,
+    "pe_ratio": 29.457363,
+    "pb_ratio": 5.9508276,
     "roe": 0.057740003,
     "debt_to_equity": 21.949,
     "revenue": 48886755328,
@@ -16,6 +16,6 @@
     "eps": 69.66,
     "52_week_high": 2236.0,
     "52_week_low": 1355.0,
-    "dividend_yield": 0.85
+    "dividend_yield": 0.84
   }
 }

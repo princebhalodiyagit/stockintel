@@ -1,21 +1,21 @@
 {
   "ticker": "ALPHAGEO",
-  "collected_at": "2026-11-19 09:09:35",
+  "collected_at": "2026-11-20 08:54:13",
   "company_info": {
     "name": "Alphageo (India) Limited",
     "sector": "Energy",
     "industry": "Oil & Gas Equipment & Services",
-    "market_cap": 1456831488,
-    "current_price": 228.89,
+    "market_cap": 1419343104,
+    "current_price": 223.0,
     "pe_ratio": "N/A",
-    "pb_ratio": 0.57498497,
-    "roe": "N/A",
+    "pb_ratio": 0.53011686,
+    "roe": 0.03171,
     "debt_to_equity": "N/A",
-    "revenue": 1534610048,
-    "net_income": -4452000,
-    "eps": -0.72,
+    "revenue": 1710045056,
+    "net_income": 76288000,
+    "eps": -0.7,
     "52_week_high": 368.0,
     "52_week_low": 164.8,
-    "dividend_yield": 1.97
+    "dividend_yield": 2.21
   }
 }

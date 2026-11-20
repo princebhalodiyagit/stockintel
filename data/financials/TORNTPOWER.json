@@ -1,14 +1,14 @@
 {
   "ticker": "TORNTPOWER",
-  "collected_at": "2026-11-19 09:42:26",
+  "collected_at": "2026-11-20 09:30:32",
   "company_info": {
     "name": "Torrent Power Limited",
     "sector": "Utilities",
     "industry": "Utilities - Independent Power Producers",
-    "market_cap": 622119288832,
-    "current_price": 1234.6,
-    "pe_ratio": 25.71012,
-    "pb_ratio": 2.959777,
+    "market_cap": 618390421504,
+    "current_price": 1227.2,
+    "pe_ratio": 25.556017,
+    "pb_ratio": 2.9420366,
     "roe": 0.120979995,
     "debt_to_equity": 107.875,
     "revenue": 311096705024,
@@ -16,6 +16,6 @@
     "eps": 48.02,
     "52_week_high": 1824.1,
     "52_week_low": 1147.5,
-    "dividend_yield": 1.65
+    "dividend_yield": 1.62
   }
 }

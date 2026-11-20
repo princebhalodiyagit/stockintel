@@ -1,20 +1,13 @@
 {
   "ticker": "CANHLIFE",
   "company": "Canara HSBC Life Insurance Company Limited",
-  "collected_at": "2026-11-19 09:13:57",
+  "collected_at": "2026-11-20 08:59:01",
   "directors": [
     {
       "name": "Mr. Anuj Dayal Mathur B.Com., C.A., C.S.",
       "role": "CEO, MD & Whole-Time Director",
       "age": 54,
       "year_born": 1971,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Tarun  Rustagi",
-      "role": "Chief Financial Officer",
-      "age": "N/A",
-      "year_born": "N/A",
       "total_pay": "N/A"
     },
     {
@@ -69,6 +62,13 @@
     {
       "name": "Mr. Ritesh Kumar Rathod",
       "role": "Chief Strategy & Data Officer",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Saurabh  Sahni",
+      "role": "Chief Internal Auditor",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

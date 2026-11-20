@@ -1,14 +1,14 @@
 {
   "ticker": "HINDZINC",
-  "collected_at": "2026-11-19 09:22:05",
+  "collected_at": "2026-11-20 09:07:59",
   "company_info": {
     "name": "Hindustan Zinc Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining",
-    "market_cap": 2219137564672,
-    "current_price": 525.2,
-    "pe_ratio": 10.653145,
-    "pb_ratio": 7.405005,
+    "market_cap": 2203926134784,
+    "current_price": 521.6,
+    "pe_ratio": 10.580121,
+    "pb_ratio": 7.3542466,
     "roe": 0.95413,
     "debt_to_equity": 22.209,
     "revenue": 511329992704,
@@ -16,6 +16,6 @@
     "eps": 49.3,
     "52_week_high": 733.0,
     "52_week_low": 453.5,
-    "dividend_yield": 2.09
+    "dividend_yield": 2.08
   }
 }
