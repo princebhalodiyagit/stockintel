@@ -1,7 +1,7 @@
 {
   "ticker": "NLCINDIA",
   "company": "NLC India Limited",
-  "collected_at": "2026-11-20 09:18:29",
+  "collected_at": "2026-11-21 08:55:01",
   "directors": [
     {
       "name": "Dr. Prasanna Kumar Acharya",
@@ -11,25 +11,11 @@
       "total_pay": 6679283
     },
     {
-      "name": "Mr. Samir  Swarup",
-      "role": "Director of Human Resources & Power and Director",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 11762153
-    },
-    {
       "name": "Dr. Suresh Chandra Suman",
       "role": "Director of Mines & Director",
       "age": 57,
       "year_born": 1968,
       "total_pay": 9272413
-    },
-    {
-      "name": "Mr. Rajesh Pratap Singh Sisodia",
-      "role": "Director of Planning & Projects and Director",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 2293862
     },
     {
       "name": "Mr. Sushanta Kumar Panda",
@@ -69,6 +55,20 @@
     {
       "name": "Mr. S.  Harikrishnan",
       "role": "Chief General Manager of Mine-II",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. E.  Esaikkimuthu",
+      "role": "Chief General Manager of SPP / Tirunelveli",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. K.  Ganesan",
+      "role": "Chief General Manager of P&BD",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

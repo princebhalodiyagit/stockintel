@@ -1,14 +1,14 @@
 {
   "ticker": "HAVELLS",
-  "collected_at": "2026-11-20 09:07:14",
+  "collected_at": "2026-11-21 08:46:11",
   "company_info": {
     "name": "Havells India Limited",
     "sector": "Industrials",
     "industry": "Electrical Equipment & Parts",
-    "market_cap": 754391842816,
-    "current_price": 1202.1,
-    "pe_ratio": 45.362263,
-    "pb_ratio": 7.718534,
+    "market_cap": 759977148416,
+    "current_price": 1211.0,
+    "pe_ratio": 45.698112,
+    "pb_ratio": 7.77568,
     "roe": 0.17998,
     "debt_to_equity": 2.44,
     "revenue": 252432695296,
@@ -16,6 +16,6 @@
     "eps": 26.5,
     "52_week_high": 1514.7,
     "52_week_low": 999.2,
-    "dividend_yield": 1.0
+    "dividend_yield": 0.99
   }
 }

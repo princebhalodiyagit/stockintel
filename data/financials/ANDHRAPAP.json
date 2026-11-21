@@ -1,14 +1,14 @@
 {
   "ticker": "ANDHRAPAP",
-  "collected_at": "2026-11-20 08:54:31",
+  "collected_at": "2026-11-21 08:36:05",
   "company_info": {
     "name": "Andhra Paper Limited",
     "sector": "Basic Materials",
     "industry": "Paper & Paper Products",
-    "market_cap": 12398309376,
-    "current_price": 62.35,
-    "pe_ratio": 23.707222,
-    "pb_ratio": 0.64584625,
+    "market_cap": 12338654208,
+    "current_price": 62.05,
+    "pe_ratio": 23.593155,
+    "pb_ratio": 0.64273876,
     "roe": 0.02683,
     "debt_to_equity": 14.64,
     "revenue": 17655740416,
@@ -16,6 +16,6 @@
     "eps": 2.63,
     "52_week_high": 79.79,
     "52_week_low": 58.0,
-    "dividend_yield": 0.79
+    "dividend_yield": 0.8
   }
 }

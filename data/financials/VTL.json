@@ -1,14 +1,14 @@
 {
   "ticker": "VTL",
-  "collected_at": "2026-11-20 09:33:00",
+  "collected_at": "2026-11-21 09:06:28",
   "company_info": {
     "name": "Vardhman Textiles Limited",
     "sector": "Consumer Cyclical",
     "industry": "Textile Manufacturing",
-    "market_cap": 153089277952,
-    "current_price": 528.85,
-    "pe_ratio": 14.8137245,
-    "pb_ratio": 1.362236,
+    "market_cap": 152843223040,
+    "current_price": 528.0,
+    "pe_ratio": 14.789916,
+    "pb_ratio": 1.3600466,
     "roe": 0.09658,
     "debt_to_equity": 16.15,
     "revenue": 105720201216,
@@ -16,6 +16,6 @@
     "eps": 35.7,
     "52_week_high": 688.0,
     "52_week_low": 391.0,
-    "dividend_yield": 0.94
+    "dividend_yield": 0.95
   }
 }

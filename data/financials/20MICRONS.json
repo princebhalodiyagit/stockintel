@@ -1,14 +1,14 @@
 {
   "ticker": "20MICRONS",
-  "collected_at": "2026-11-20 08:52:11",
+  "collected_at": "2026-11-21 08:34:13",
   "company_info": {
     "name": "20 Microns Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining",
-    "market_cap": 6316284416,
-    "current_price": 179.0,
-    "pe_ratio": 9.867696,
-    "pb_ratio": 1.2361195,
+    "market_cap": 6318048768,
+    "current_price": 179.05,
+    "pe_ratio": 9.870453,
+    "pb_ratio": 1.2364649,
     "roe": 0.13122,
     "debt_to_equity": 29.924,
     "revenue": 9589980160,
@@ -16,6 +16,6 @@
     "eps": 18.14,
     "52_week_high": 237.4,
     "52_week_low": 129.61,
-    "dividend_yield": 0.69
+    "dividend_yield": 0.7
   }
 }

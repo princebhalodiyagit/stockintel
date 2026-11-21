@@ -1,14 +1,14 @@
 {
   "ticker": "ABBOTINDIA",
-  "collected_at": "2026-11-20 08:52:36",
+  "collected_at": "2026-11-21 08:34:33",
   "company_info": {
     "name": "Abbott India Limited",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - Specialty & Generic",
-    "market_cap": 565550186496,
-    "current_price": 26615.0,
-    "pe_ratio": 34.218307,
-    "pb_ratio": 13.244437,
+    "market_cap": 562894012416,
+    "current_price": 26490.0,
+    "pe_ratio": 34.0576,
+    "pb_ratio": 13.182233,
     "roe": 0.39918998,
     "debt_to_equity": 3.614,
     "revenue": 71982399488,
@@ -16,6 +16,6 @@
     "eps": 777.8,
     "52_week_high": 30655.0,
     "52_week_low": 24650.0,
-    "dividend_yield": 2.04
+    "dividend_yield": 1.98
   }
 }

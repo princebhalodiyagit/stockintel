@@ -1,14 +1,14 @@
 {
   "ticker": "TANLA",
-  "collected_at": "2026-11-20 09:29:02",
+  "collected_at": "2026-11-21 09:03:24",
   "company_info": {
     "name": "Tanla Platforms Limited",
     "sector": "Technology",
     "industry": "Software - Application",
-    "market_cap": 87437385728,
-    "current_price": 662.15,
-    "pe_ratio": 16.475492,
-    "pb_ratio": 3.2259872,
+    "market_cap": 87549624320,
+    "current_price": 663.0,
+    "pe_ratio": 16.496641,
+    "pb_ratio": 3.2301283,
     "roe": 0.22241,
     "debt_to_equity": 2.754,
     "revenue": 48767160320,
@@ -16,6 +16,6 @@
     "eps": 40.19,
     "52_week_high": 738.95,
     "52_week_low": 365.9,
-    "dividend_yield": 1.79
+    "dividend_yield": 1.82
   }
 }

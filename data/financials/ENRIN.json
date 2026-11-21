@@ -1,14 +1,14 @@
 {
   "ticker": "ENRIN",
-  "collected_at": "2026-11-20 09:03:27",
+  "collected_at": "2026-11-21 08:43:10",
   "company_info": {
     "name": "Siemens Energy India Limited",
     "sector": "Utilities",
     "industry": "Utilities - Renewable",
-    "market_cap": 1048952963072,
-    "current_price": 2947.0,
-    "pe_ratio": 70.48337,
-    "pb_ratio": 21.799625,
+    "market_cap": 1048418779136,
+    "current_price": 2944.0,
+    "pe_ratio": 70.44747,
+    "pb_ratio": 21.788523,
     "roe": "N/A",
     "debt_to_equity": 4.483,
     "revenue": 94363000832,
@@ -16,6 +16,6 @@
     "eps": 41.79,
     "52_week_high": 3968.0,
     "52_week_low": 2115.0,
-    "dividend_yield": 0.13
+    "dividend_yield": 0.14
   }
 }

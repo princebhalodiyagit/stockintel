@@ -1,14 +1,14 @@
 {
   "ticker": "DYCL",
-  "collected_at": "2026-11-20 09:02:38",
+  "collected_at": "2026-11-21 08:42:30",
   "company_info": {
     "name": "Dynamic Cables Limited",
     "sector": "Industrials",
     "industry": "Electrical Equipment & Parts",
-    "market_cap": 16732768256,
-    "current_price": 345.3,
-    "pe_ratio": 17.863424,
-    "pb_ratio": 3.333687,
+    "market_cap": 16621313024,
+    "current_price": 343.0,
+    "pe_ratio": 17.744438,
+    "pb_ratio": 3.311482,
     "roe": 0.20538001,
     "debt_to_equity": 8.081,
     "revenue": 13665185792,
@@ -16,6 +16,6 @@
     "eps": 19.33,
     "52_week_high": 560.0,
     "52_week_low": 236.8,
-    "dividend_yield": 0.14
+    "dividend_yield": 0.15
   }
 }

@@ -1,14 +1,14 @@
 {
   "ticker": "PITTIENG",
-  "collected_at": "2026-11-20 09:20:36",
+  "collected_at": "2026-11-21 08:56:43",
   "company_info": {
     "name": "Pitti Engineering Limited",
     "sector": "Industrials",
     "industry": "Metal Fabrication",
-    "market_cap": 32522717184,
-    "current_price": 881.05,
-    "pe_ratio": 27.55865,
-    "pb_ratio": 3.567163,
+    "market_cap": 32321536000,
+    "current_price": 875.6,
+    "pe_ratio": 27.388176,
+    "pb_ratio": 3.545097,
     "roe": 0.1277,
     "debt_to_equity": 82.74,
     "revenue": 20860426240,
@@ -16,6 +16,6 @@
     "eps": 31.97,
     "52_week_high": 1228.0,
     "52_week_low": 675.0,
-    "dividend_yield": 0.5
+    "dividend_yield": 0.51
   }
 }

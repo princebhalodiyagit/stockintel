@@ -1,7 +1,7 @@
 {
   "ticker": "360ONE",
   "company": "360 ONE WAM LIMITED",
-  "collected_at": "2026-11-20 08:52:14",
+  "collected_at": "2026-11-21 08:34:15",
   "directors": [
     {
       "name": "Mr. Karan  Bhagat",
@@ -39,13 +39,6 @@
       "total_pay": 20200000
     },
     {
-      "name": "Mr. Pankaj  Fitkariwala",
-      "role": "Chief Operating Officer",
-      "age": 49,
-      "year_born": 1976,
-      "total_pay": 16468409
-    },
-    {
       "name": "Mr. Sandeep  Joshi",
       "role": "Senior Executive Vice President of Legal",
       "age": "N/A",
@@ -69,6 +62,13 @@
     {
       "name": "Ms. Bhavika  Kotak",
       "role": "Head of Marketing",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Navin  Upadhyaya",
+      "role": "Chief Human Resources Officer",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

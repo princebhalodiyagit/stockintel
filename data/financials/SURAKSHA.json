@@ -1,14 +1,14 @@
 {
   "ticker": "SURAKSHA",
-  "collected_at": "2026-11-20 09:28:29",
+  "collected_at": "2026-11-21 09:02:58",
   "company_info": {
     "name": "Suraksha Diagnostic Limited",
     "sector": "Healthcare",
     "industry": "Diagnostics & Research",
-    "market_cap": 16267425792,
-    "current_price": 312.35,
-    "pe_ratio": 38.897884,
-    "pb_ratio": 5.893063,
+    "market_cap": 16249197568,
+    "current_price": 312.0,
+    "pe_ratio": 38.854298,
+    "pb_ratio": 5.8864594,
     "roe": 0.16332,
     "debt_to_equity": 56.386,
     "revenue": 3458152960,
@@ -16,6 +16,6 @@
     "eps": 8.03,
     "52_week_high": 384.0,
     "52_week_low": 224.1,
-    "dividend_yield": 0.15
+    "dividend_yield": 0.16
   }
 }

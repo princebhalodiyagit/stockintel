@@ -1,14 +1,14 @@
 {
   "ticker": "RAILTEL",
-  "collected_at": "2026-11-20 09:22:06",
+  "collected_at": "2026-11-21 08:57:54",
   "company_info": {
     "name": "RailTel Corporation of India Limited",
     "sector": "Communication Services",
     "industry": "Telecom Services",
-    "market_cap": 80423952384,
-    "current_price": 250.59,
-    "pe_ratio": 22.905851,
-    "pb_ratio": 3.4026752,
+    "market_cap": 79592726528,
+    "current_price": 248.0,
+    "pe_ratio": 22.669106,
+    "pb_ratio": 3.3675065,
     "roe": 0.15138,
     "debt_to_equity": 2.548,
     "revenue": 46217199616,
@@ -16,6 +16,6 @@
     "eps": 10.94,
     "52_week_high": 391.0,
     "52_week_low": 220.06,
-    "dividend_yield": 1.29
+    "dividend_yield": 1.3
   }
 }

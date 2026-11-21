@@ -1,14 +1,14 @@
 {
   "ticker": "GREENLAM",
-  "collected_at": "2026-11-20 09:06:25",
+  "collected_at": "2026-11-21 08:45:31",
   "company_info": {
     "name": "Greenlam Industries Limited",
     "sector": "Basic Materials",
     "industry": "Lumber & Wood Production",
-    "market_cap": 56642789376,
-    "current_price": 222.0,
-    "pe_ratio": 66.071434,
-    "pb_ratio": 4.655162,
+    "market_cap": 56451428352,
+    "current_price": 221.25,
+    "pe_ratio": 65.84821,
+    "pb_ratio": 4.639435,
     "roe": 0.07293,
     "debt_to_equity": 90.087,
     "revenue": 32359100416,
@@ -16,6 +16,6 @@
     "eps": 3.36,
     "52_week_high": 278.55,
     "52_week_low": 195.61,
-    "dividend_yield": 0.17
+    "dividend_yield": 0.18
   }
 }
