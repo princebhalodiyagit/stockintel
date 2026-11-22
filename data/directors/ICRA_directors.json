@@ -1,7 +1,7 @@
 {
   "ticker": "ICRA",
   "company": "ICRA Limited",
-  "collected_at": "2026-11-21 08:47:15",
+  "collected_at": "2026-11-22 08:45:09",
   "directors": [
     {
       "name": "Mr. Ramnath  Krishnan",
@@ -16,13 +16,6 @@
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": 23239000
-    },
-    {
-      "name": "Mr. S. Shakeb Rahman",
-      "role": "Company Secretary & Compliance Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 6766000
     },
     {
       "name": "Mr. Amit Kumar Gupta",
@@ -69,6 +62,13 @@
     {
       "name": "Ms. Aditi  Nayar",
       "role": "Chief Economist and Head of Research & Outreach",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Abhishek  Dafria",
+      "role": "Head of Group Strategy & Business Transformation",
       "age": "N/A",
       "year_born": "N/A",
       "total_pay": "N/A"

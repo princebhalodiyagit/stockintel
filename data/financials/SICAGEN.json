@@ -1,21 +1,21 @@
 {
   "ticker": "SICAGEN",
-  "collected_at": "2026-11-21 09:01:05",
+  "collected_at": "2026-11-22 09:01:35",
   "company_info": {
     "name": "Sicagen India Limited",
     "sector": "Basic Materials",
     "industry": "Steel",
     "market_cap": 2123020928,
     "current_price": 53.65,
-    "pe_ratio": 8.241167,
-    "pb_ratio": 0.42888436,
-    "roe": "N/A",
-    "debt_to_equity": 32.125,
-    "revenue": 10549000192,
-    "net_income": 204600000,
-    "eps": 6.51,
+    "pe_ratio": 8.3828125,
+    "pb_ratio": 0.40351394,
+    "roe": 0.04838,
+    "debt_to_equity": 27.313,
+    "revenue": 11560899584,
+    "net_income": 252800000,
+    "eps": 6.4,
     "52_week_high": 74.06,
     "52_week_low": 24.35,
-    "dividend_yield": 1.93
+    "dividend_yield": 1.86
   }
 }
