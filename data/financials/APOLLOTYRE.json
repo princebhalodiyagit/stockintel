@@ -1,14 +1,14 @@
 {
   "ticker": "APOLLOTYRE",
-  "collected_at": "2026-11-23 09:30:37",
+  "collected_at": "2026-11-24 11:26:13",
   "company_info": {
     "name": "Apollo Tyres Limited",
     "sector": "Consumer Cyclical",
     "industry": "Auto Parts",
-    "market_cap": 266285105152,
-    "current_price": 420.95,
-    "pe_ratio": 15.28504,
-    "pb_ratio": 1.5171994,
+    "market_cap": 266126966784,
+    "current_price": 420.7,
+    "pe_ratio": 15.275962,
+    "pb_ratio": 1.5162984,
     "roe": 0.105340004,
     "debt_to_equity": 31.408,
     "revenue": 304446898176,
@@ -16,6 +16,6 @@
     "eps": 27.54,
     "52_week_high": 539.2,
     "52_week_low": 365.3,
-    "dividend_yield": 1.44
+    "dividend_yield": 1.43
   }
 }

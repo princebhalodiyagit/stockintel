@@ -1,14 +1,14 @@
 {
   "ticker": "ROUTE",
-  "collected_at": "2026-11-23 09:56:45",
+  "collected_at": "2026-11-24 11:53:28",
   "company_info": {
     "name": "Route Mobile Limited",
     "sector": "Communication Services",
     "industry": "Telecom Services",
-    "market_cap": 26272284672,
-    "current_price": 417.0,
-    "pe_ratio": 7.523002,
-    "pb_ratio": 0.90239817,
+    "market_cap": 26240782336,
+    "current_price": 416.5,
+    "pe_ratio": 7.5139813,
+    "pb_ratio": 0.90131617,
     "roe": 0.13293,
     "debt_to_equity": 1.324,
     "revenue": 45691498496,
@@ -16,6 +16,6 @@
     "eps": 55.43,
     "52_week_high": 769.45,
     "52_week_low": 407.1,
-    "dividend_yield": 3.11
+    "dividend_yield": 3.12
   }
 }

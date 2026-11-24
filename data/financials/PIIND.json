@@ -1,14 +1,14 @@
 {
   "ticker": "PIIND",
-  "collected_at": "2026-11-23 09:53:59",
+  "collected_at": "2026-11-24 11:50:40",
   "company_info": {
     "name": "PI Industries Limited",
     "sector": "Basic Materials",
     "industry": "Agricultural Inputs",
-    "market_cap": 239013036032,
-    "current_price": 1575.5,
-    "pe_ratio": 27.224815,
-    "pb_ratio": 2.0874102,
+    "market_cap": 238330347520,
+    "current_price": 1571.0,
+    "pe_ratio": 27.147055,
+    "pb_ratio": 2.081448,
     "roe": 0.07879,
     "debt_to_equity": 2.615,
     "revenue": 63450001408,
@@ -16,6 +16,6 @@
     "eps": 57.87,
     "52_week_high": 3480.0,
     "52_week_low": 1570.1,
-    "dividend_yield": 0.94
+    "dividend_yield": 0.95
   }
 }

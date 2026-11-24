@@ -1,14 +1,14 @@
 {
   "ticker": "BSOFT",
-  "collected_at": "2026-11-23 09:34:15",
+  "collected_at": "2026-11-24 11:30:00",
   "company_info": {
     "name": "Birlasoft Limited",
     "sector": "Technology",
     "industry": "Information Technology Services",
-    "market_cap": 85200568320,
-    "current_price": 304.65,
-    "pe_ratio": 13.942791,
-    "pb_ratio": 1.9654078,
+    "market_cap": 85214560256,
+    "current_price": 304.7,
+    "pe_ratio": 13.945081,
+    "pb_ratio": 1.9657304,
     "roe": 0.15286,
     "debt_to_equity": 3.903,
     "revenue": 54917529600,
@@ -16,6 +16,6 @@
     "eps": 21.85,
     "52_week_high": 474.0,
     "52_week_low": 267.05,
-    "dividend_yield": 2.31
+    "dividend_yield": 2.3
   }
 }

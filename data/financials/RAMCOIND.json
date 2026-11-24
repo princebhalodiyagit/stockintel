@@ -1,14 +1,14 @@
 {
   "ticker": "RAMCOIND",
-  "collected_at": "2026-11-23 09:55:44",
+  "collected_at": "2026-11-24 11:52:26",
   "company_info": {
     "name": "Ramco Industries Limited",
     "sector": "Industrials",
     "industry": "Building Products & Equipment",
-    "market_cap": 27177066496,
-    "current_price": 312.95,
-    "pe_ratio": 8.04292,
-    "pb_ratio": 0.58396435,
+    "market_cap": 27168382976,
+    "current_price": 312.85,
+    "pe_ratio": 8.04035,
+    "pb_ratio": 0.5837778,
     "roe": 0.07495,
     "debt_to_equity": 0.186,
     "revenue": 19522799616,
@@ -16,6 +16,6 @@
     "eps": 38.91,
     "52_week_high": 395.5,
     "52_week_low": 230.65,
-    "dividend_yield": 0.41
+    "dividend_yield": 0.4
   }
 }

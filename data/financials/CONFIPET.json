@@ -1,14 +1,14 @@
 {
   "ticker": "CONFIPET",
-  "collected_at": "2026-11-23 09:35:45",
+  "collected_at": "2026-11-24 11:31:33",
   "company_info": {
     "name": "Confidence Petroleum India Limited",
     "sector": "Energy",
     "industry": "Oil & Gas Refining & Marketing",
-    "market_cap": 21462771712,
-    "current_price": 64.6,
-    "pe_ratio": 15.950616,
-    "pb_ratio": 1.5130931,
+    "market_cap": 21422905344,
+    "current_price": 64.48,
+    "pe_ratio": 15.920988,
+    "pb_ratio": 1.5102825,
     "roe": 0.11807,
     "debt_to_equity": 78.236,
     "revenue": 72533401600,
@@ -16,6 +16,6 @@
     "eps": 4.05,
     "52_week_high": 93.2,
     "52_week_low": 28.06,
-    "dividend_yield": 0.15
+    "dividend_yield": 0.16
   }
 }

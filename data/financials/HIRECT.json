@@ -1,14 +1,14 @@
 {
   "ticker": "HIRECT",
-  "collected_at": "2026-11-23 09:42:43",
+  "collected_at": "2026-11-24 11:38:49",
   "company_info": {
     "name": "Hirect Limited",
     "sector": "Industrials",
     "industry": "Electrical Equipment & Parts",
-    "market_cap": 29856145408,
-    "current_price": 842.0,
-    "pe_ratio": 84.96468,
-    "pb_ratio": 4.334598,
+    "market_cap": 29824231424,
+    "current_price": 841.1,
+    "pe_ratio": 84.87386,
+    "pb_ratio": 4.3299646,
     "roe": 0.08158,
     "debt_to_equity": 66.331,
     "revenue": 11313380352,
@@ -16,6 +16,6 @@
     "eps": 9.91,
     "52_week_high": 1399.0,
     "52_week_low": 565.2,
-    "dividend_yield": 0.16
+    "dividend_yield": 0.17
   }
 }

@@ -1,14 +1,14 @@
 {
   "ticker": "CARRARO",
-  "collected_at": "2026-11-23 09:34:37",
+  "collected_at": "2026-11-24 11:30:22",
   "company_info": {
     "name": "Carraro India Limited",
     "sector": "Consumer Cyclical",
     "industry": "Auto Parts",
-    "market_cap": 26791286784,
-    "current_price": 471.25,
-    "pe_ratio": 19.668198,
-    "pb_ratio": 4.525419,
+    "market_cap": 26754332672,
+    "current_price": 470.6,
+    "pe_ratio": 19.64107,
+    "pb_ratio": 4.519177,
     "roe": 0.25120002,
     "debt_to_equity": 33.511,
     "revenue": 24174510080,
@@ -16,6 +16,6 @@
     "eps": 23.96,
     "52_week_high": 667.55,
     "52_week_low": 416.0,
-    "dividend_yield": 1.48
+    "dividend_yield": 1.43
   }
 }

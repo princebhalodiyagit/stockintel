@@ -1,11 +1,11 @@
 {
   "ticker": "TVSMOTOR",
-  "collected_at": "2026-11-23 10:03:44",
+  "collected_at": "2026-11-24 12:00:42",
   "company_info": {
     "name": "TVS Motor Company Limited",
     "sector": "Consumer Cyclical",
     "industry": "Auto Manufacturers",
-    "market_cap": "N/A",
+    "market_cap": 2151919517696,
     "current_price": 4528.2,
     "pe_ratio": 56.216015,
     "pb_ratio": 18.95993,
@@ -16,6 +16,6 @@
     "eps": 80.55,
     "52_week_high": 4636.1,
     "52_week_low": 3228.0,
-    "dividend_yield": 0.26
+    "dividend_yield": 0.27
   }
 }

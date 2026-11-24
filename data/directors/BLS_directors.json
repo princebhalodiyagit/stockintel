@@ -1,7 +1,7 @@
 {
   "ticker": "BLS",
   "company": "BLS International Services Limited",
-  "collected_at": "2026-11-23 09:33:45",
+  "collected_at": "2026-11-24 11:29:30",
   "directors": [
     {
       "name": "Mr. Diwakar  Aggarwal",
@@ -30,13 +30,6 @@
       "age": 60,
       "year_born": 1965,
       "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Dharak Arvindbhai Mehta",
-      "role": "Company Secretary & Compliance Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 4380000
     },
     {
       "name": "Mr. Niraj  Barkakati",
@@ -71,6 +64,13 @@
       "role": "President of Operations",
       "age": 48,
       "year_born": 1977,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Jitendra  Sahu",
+      "role": "Chief Operating Officer",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

@@ -1,14 +1,14 @@
 {
   "ticker": "CENTUM",
-  "collected_at": "2026-11-23 09:34:57",
+  "collected_at": "2026-11-24 11:30:43",
   "company_info": {
     "name": "Centum Electronics Limited",
     "sector": "Technology",
     "industry": "Electronic Components",
-    "market_cap": 61411463168,
-    "current_price": 4160.1,
-    "pe_ratio": 177.40298,
-    "pb_ratio": 13.348329,
+    "market_cap": 61218078720,
+    "current_price": 4147.0,
+    "pe_ratio": 176.84435,
+    "pb_ratio": 13.306294,
     "roe": 0.23986,
     "debt_to_equity": 29.278,
     "revenue": 10936750080,
@@ -16,6 +16,6 @@
     "eps": 23.45,
     "52_week_high": 4999.5,
     "52_week_low": 2044.2,
-    "dividend_yield": 0.11
+    "dividend_yield": 0.12
   }
 }

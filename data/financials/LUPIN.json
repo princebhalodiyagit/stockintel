@@ -1,14 +1,14 @@
 {
   "ticker": "LUPIN",
-  "collected_at": "2026-11-23 09:48:26",
+  "collected_at": "2026-11-24 11:44:52",
   "company_info": {
     "name": "Lupin Limited",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - Specialty & Generic",
-    "market_cap": 905531555840,
-    "current_price": 1980.2,
-    "pe_ratio": 17.44977,
-    "pb_ratio": 3.7640948,
+    "market_cap": 903428046848,
+    "current_price": 1975.6,
+    "pe_ratio": 17.409235,
+    "pb_ratio": 3.755351,
     "roe": 0.23853001,
     "debt_to_equity": 25.697,
     "revenue": 307463290880,
@@ -16,6 +16,6 @@
     "eps": 113.48,
     "52_week_high": 2529.5,
     "52_week_low": 1892.9,
-    "dividend_yield": 0.89
+    "dividend_yield": 0.91
   }
 }

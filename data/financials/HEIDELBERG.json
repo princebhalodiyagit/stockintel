@@ -1,14 +1,14 @@
 {
   "ticker": "HEIDELBERG",
-  "collected_at": "2026-11-23 09:42:18",
+  "collected_at": "2026-11-24 11:38:23",
   "company_info": {
     "name": "HeidelbergCement India Limited",
     "sector": "Basic Materials",
     "industry": "Building Materials",
-    "market_cap": 26889805824,
-    "current_price": 118.65,
-    "pe_ratio": 24.822174,
-    "pb_ratio": 2.1331103,
+    "market_cap": 26932865024,
+    "current_price": 118.84,
+    "pe_ratio": 24.861923,
+    "pb_ratio": 2.136526,
     "roe": 0.084139995,
     "debt_to_equity": 1.006,
     "revenue": 24162799616,
@@ -16,6 +16,6 @@
     "eps": 4.78,
     "52_week_high": 185.22,
     "52_week_low": 114.03,
-    "dividend_yield": 5.9
+    "dividend_yield": 5.89
   }
 }

@@ -1,14 +1,14 @@
 {
   "ticker": "ADFFOODS",
-  "collected_at": "2026-11-23 09:28:56",
+  "collected_at": "2026-11-24 11:24:30",
   "company_info": {
     "name": "ADF Foods Limited",
     "sector": "Consumer Defensive",
     "industry": "Packaged Foods",
-    "market_cap": 23454779392,
-    "current_price": 213.49,
-    "pe_ratio": 25.783817,
-    "pb_ratio": 3.8497188,
+    "market_cap": 23400945664,
+    "current_price": 213.0,
+    "pe_ratio": 25.724638,
+    "pb_ratio": 3.8408828,
     "roe": 0.15983,
     "debt_to_equity": 11.871,
     "revenue": 7559392768,
@@ -16,6 +16,6 @@
     "eps": 8.28,
     "52_week_high": 346.95,
     "52_week_low": 153.1,
-    "dividend_yield": 0.55
+    "dividend_yield": 0.56
   }
 }

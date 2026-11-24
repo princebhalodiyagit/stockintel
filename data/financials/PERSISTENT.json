@@ -1,14 +1,14 @@
 {
   "ticker": "PERSISTENT",
-  "collected_at": "2026-11-23 09:53:43",
+  "collected_at": "2026-11-24 11:50:24",
   "company_info": {
     "name": "Persistent Systems Limited",
     "sector": "Technology",
     "industry": "Information Technology Services",
-    "market_cap": 1038169079808,
-    "current_price": 6307.5,
-    "pe_ratio": 55.174072,
-    "pb_ratio": 11.584085,
+    "market_cap": 1034054270976,
+    "current_price": 6282.5,
+    "pe_ratio": 54.955387,
+    "pb_ratio": 11.538172,
     "roe": 0.22918,
     "debt_to_equity": 6.696,
     "revenue": 168012726272,
@@ -16,6 +16,6 @@
     "eps": 114.32,
     "52_week_high": 6599.0,
     "52_week_low": 4244.5,
-    "dividend_yield": 0.59
+    "dividend_yield": 0.57
   }
 }

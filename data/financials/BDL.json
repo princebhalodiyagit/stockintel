@@ -1,14 +1,14 @@
 {
   "ticker": "BDL",
-  "collected_at": "2026-11-23 09:32:58",
+  "collected_at": "2026-11-24 11:28:40",
   "company_info": {
     "name": "Bharat Dynamics Limited",
     "sector": "Industrials",
     "industry": "Aerospace & Defense",
-    "market_cap": 374791831552,
-    "current_price": 1022.45,
-    "pe_ratio": 76.70293,
-    "pb_ratio": 8.271781,
+    "market_cap": 373893758976,
+    "current_price": 1020.0,
+    "pe_ratio": 76.51913,
+    "pb_ratio": 8.25196,
     "roe": 0.1117,
     "debt_to_equity": 0.205,
     "revenue": 32832108544,
@@ -16,6 +16,6 @@
     "eps": 13.33,
     "52_week_high": 1593.9,
     "52_week_low": 974.0,
-    "dividend_yield": 0.47
+    "dividend_yield": 0.48
   }
 }

@@ -1,14 +1,14 @@
 {
   "ticker": "CROMPTON",
-  "collected_at": "2026-11-23 09:36:04",
+  "collected_at": "2026-11-24 11:31:53",
   "company_info": {
     "name": "Crompton Greaves Consumer Electricals Limited",
     "sector": "Consumer Cyclical",
     "industry": "Furnishings, Fixtures & Appliances",
-    "market_cap": 141358628864,
-    "current_price": 219.53,
+    "market_cap": 141017366528,
+    "current_price": 219.0,
     "pe_ratio": "N/A",
-    "pb_ratio": 4.668765,
+    "pb_ratio": 4.6574936,
     "roe": -0.04422,
     "debt_to_equity": 5.783,
     "revenue": 86798802944,
@@ -16,6 +16,6 @@
     "eps": -2.72,
     "52_week_high": 310.5,
     "52_week_low": 191.55,
-    "dividend_yield": 1.34
+    "dividend_yield": 1.37
   }
 }

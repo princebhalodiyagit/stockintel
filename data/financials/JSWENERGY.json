@@ -1,14 +1,14 @@
 {
   "ticker": "JSWENERGY",
-  "collected_at": "2026-11-23 09:45:50",
+  "collected_at": "2026-11-24 11:42:08",
   "company_info": {
     "name": "JSW Energy Limited",
     "sector": "Utilities",
     "industry": "Utilities - Independent Power Producers",
-    "market_cap": 922371555328,
-    "current_price": 503.2,
-    "pe_ratio": 39.622047,
-    "pb_ratio": 2.509563,
+    "market_cap": 921180045312,
+    "current_price": 502.55,
+    "pe_ratio": 39.570866,
+    "pb_ratio": 2.5063212,
     "roe": 0.07776,
     "debt_to_equity": 207.431,
     "revenue": 201559392256,
@@ -16,6 +16,6 @@
     "eps": 12.7,
     "52_week_high": 617.35,
     "52_week_low": 427.75,
-    "dividend_yield": 0.39
+    "dividend_yield": 0.4
   }
 }

@@ -1,14 +1,14 @@
 {
   "ticker": "NRAIL",
-  "collected_at": "2026-11-23 09:52:20",
+  "collected_at": "2026-11-24 11:48:56",
   "company_info": {
     "name": "N R Agarwal Industries Limited",
     "sector": "Basic Materials",
     "industry": "Paper & Paper Products",
-    "market_cap": 10892224512,
-    "current_price": 640.0,
-    "pe_ratio": 11.5211525,
-    "pb_ratio": 1.241058,
+    "market_cap": 10864142336,
+    "current_price": 638.35,
+    "pe_ratio": 11.491448,
+    "pb_ratio": 1.2378584,
     "roe": 0.11363,
     "debt_to_equity": 94.262,
     "revenue": 24843845632,
@@ -16,6 +16,6 @@
     "eps": 55.55,
     "52_week_high": 834.0,
     "52_week_low": 385.0,
-    "dividend_yield": 0.3
+    "dividend_yield": 0.31
   }
 }

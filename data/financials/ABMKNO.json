@@ -1,14 +1,14 @@
 {
   "ticker": "ABMKNO",
-  "collected_at": "2026-11-23 09:28:37",
+  "collected_at": "2026-11-24 11:24:09",
   "company_info": {
     "name": "ABM Knowledgeware Limited",
     "sector": "Technology",
     "industry": "Software - Application",
-    "market_cap": 3000529920,
-    "current_price": 150.01,
-    "pe_ratio": 34.805103,
-    "pb_ratio": 1.2392399,
+    "market_cap": 2978327552,
+    "current_price": 148.9,
+    "pe_ratio": 34.54756,
+    "pb_ratio": 1.2300701,
     "roe": 0.03858,
     "debt_to_equity": "N/A",
     "revenue": 1091420032,
@@ -16,6 +16,6 @@
     "eps": 4.31,
     "52_week_high": 200.0,
     "52_week_low": 122.32,
-    "dividend_yield": 0.82
+    "dividend_yield": 0.84
   }
 }

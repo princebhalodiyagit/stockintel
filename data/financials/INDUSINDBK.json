@@ -1,14 +1,14 @@
 {
   "ticker": "INDUSINDBK",
-  "collected_at": "2026-11-23 09:44:13",
+  "collected_at": "2026-11-24 11:40:25",
   "company_info": {
     "name": "IndusInd Bank Limited",
     "sector": "Financial Services",
     "industry": "Banks - Regional",
-    "market_cap": 750199439360,
-    "current_price": 962.85,
-    "pe_ratio": 25.04161,
-    "pb_ratio": 1.1043656,
+    "market_cap": 750316355584,
+    "current_price": 963.0,
+    "pe_ratio": 25.045513,
+    "pb_ratio": 1.1045377,
     "roe": 0.04513,
     "debt_to_equity": "N/A",
     "revenue": 191365185536,
@@ -16,6 +16,6 @@
     "eps": 38.45,
     "52_week_high": 1077.85,
     "52_week_low": 750.5,
-    "dividend_yield": 0.15
+    "dividend_yield": 0.16
   }
 }

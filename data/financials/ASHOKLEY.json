@@ -1,14 +1,14 @@
 {
   "ticker": "ASHOKLEY",
-  "collected_at": "2026-11-23 09:31:16",
+  "collected_at": "2026-11-24 11:26:52",
   "company_info": {
     "name": "Ashok Leyland Limited",
     "sector": "Industrials",
     "industry": "Farm & Heavy Construction Machinery",
-    "market_cap": "N/A",
-    "current_price": 159.55,
-    "pe_ratio": 26.328384,
-    "pb_ratio": 7.124358,
+    "market_cap": 932180656128,
+    "current_price": 158.7,
+    "pe_ratio": 26.188118,
+    "pb_ratio": 7.086403,
     "roe": 0.22613001,
     "debt_to_equity": 376.705,
     "revenue": 621761396736,
@@ -16,6 +16,6 @@
     "eps": 6.06,
     "52_week_high": 215.42,
     "52_week_low": 138.03,
-    "dividend_yield": 2.14
+    "dividend_yield": 2.21
   }
 }

@@ -1,14 +1,14 @@
 {
   "ticker": "PFIZER",
-  "collected_at": "2026-11-23 09:53:47",
+  "collected_at": "2026-11-24 11:50:27",
   "company_info": {
     "name": "Pfizer Limited",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - General",
-    "market_cap": 175845130240,
-    "current_price": 3843.8,
-    "pe_ratio": 23.087273,
-    "pb_ratio": 4.0099735,
+    "market_cap": 175552348160,
+    "current_price": 3837.4,
+    "pe_ratio": 23.04883,
+    "pb_ratio": 4.0032964,
     "roe": 0.20875,
     "debt_to_equity": 4.488,
     "revenue": 26542899200,
@@ -16,6 +16,6 @@
     "eps": 166.49,
     "52_week_high": 5257.0,
     "52_week_low": 3589.0,
-    "dividend_yield": 1.94
+    "dividend_yield": 1.95
   }
 }

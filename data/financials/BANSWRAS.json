@@ -1,14 +1,14 @@
 {
   "ticker": "BANSWRAS",
-  "collected_at": "2026-11-23 09:32:44",
+  "collected_at": "2026-11-24 11:28:25",
   "company_info": {
     "name": "Banswara Syntex Limited",
     "sector": "Consumer Cyclical",
     "industry": "Textile Manufacturing",
-    "market_cap": 3379391488,
-    "current_price": 98.72,
-    "pe_ratio": 8.9258585,
-    "pb_ratio": 0.5693589,
+    "market_cap": 3371860224,
+    "current_price": 98.5,
+    "pe_ratio": 8.905967,
+    "pb_ratio": 0.5680901,
     "roe": 0.06549,
     "debt_to_equity": 86.878,
     "revenue": 13762949120,
@@ -16,6 +16,6 @@
     "eps": 11.06,
     "52_week_high": 144.0,
     "52_week_low": 92.88,
-    "dividend_yield": 1.01
+    "dividend_yield": 1.02
   }
 }

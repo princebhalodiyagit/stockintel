@@ -1,14 +1,14 @@
 {
   "ticker": "JUBLINGREA",
-  "collected_at": "2026-11-23 09:45:58",
+  "collected_at": "2026-11-24 11:42:17",
   "company_info": {
     "name": "Jubilant Ingrevia Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals",
-    "market_cap": 88226463744,
-    "current_price": 559.25,
-    "pe_ratio": 25.30543,
-    "pb_ratio": 2.6577923,
+    "market_cap": 88218583040,
+    "current_price": 559.2,
+    "pe_ratio": 25.303167,
+    "pb_ratio": 2.6575546,
     "roe": 0.110290006,
     "debt_to_equity": 26.996,
     "revenue": 49238851584,
@@ -16,6 +16,6 @@
     "eps": 22.1,
     "52_week_high": 795.0,
     "52_week_low": 537.3,
-    "dividend_yield": 0.88
+    "dividend_yield": 0.89
   }
 }

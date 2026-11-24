@@ -1,7 +1,7 @@
 {
   "ticker": "TATASTEEL",
   "company": "Tata Steel Limited",
-  "collected_at": "2026-11-23 10:02:09",
+  "collected_at": "2026-11-24 11:59:01",
   "directors": [
     {
       "name": "Mr. Thachat Viswanath Narendran",
@@ -39,13 +39,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Ritu Raj Sinha",
-      "role": "Chief of Corporate Administration",
-      "age": 57,
-      "year_born": 1968,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Sarvesh  Kumar",
       "role": "Chief of Corporate Communication",
       "age": 57,
@@ -71,6 +64,13 @@
       "role": "Chief of 3MT Expansion Project",
       "age": 71,
       "year_born": 1954,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Rajiv  Mangal B.E., P.G.D.B.M.",
+      "role": "Vice President of Safety, Health & Sustainability",
+      "age": 57,
+      "year_born": 1968,
       "total_pay": "N/A"
     }
   ]

@@ -1,14 +1,14 @@
 {
   "ticker": "DYNPRO",
-  "collected_at": "2026-11-23 09:37:48",
+  "collected_at": "2026-11-24 11:33:42",
   "company_info": {
     "name": "Dynemic Products Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals",
-    "market_cap": 2670860288,
-    "current_price": 214.9,
-    "pe_ratio": 11.9124155,
-    "pb_ratio": 1.0463684,
+    "market_cap": 2672227328,
+    "current_price": 215.01,
+    "pe_ratio": 11.918513,
+    "pb_ratio": 1.046904,
     "roe": 0.091809995,
     "debt_to_equity": 31.717,
     "revenue": 4083543040,
@@ -16,6 +16,6 @@
     "eps": 18.04,
     "52_week_high": 283.8,
     "52_week_low": 190.8,
-    "dividend_yield": 0.68
+    "dividend_yield": 0.7
   }
 }

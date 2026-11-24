@@ -1,14 +1,14 @@
 {
   "ticker": "INDIASHLTR",
-  "collected_at": "2026-11-23 09:43:52",
+  "collected_at": "2026-11-24 11:40:02",
   "company_info": {
     "name": "India Shelter Finance Corporation Limited",
     "sector": "Financial Services",
     "industry": "Mortgage Finance",
-    "market_cap": 68667846656,
-    "current_price": 628.3,
-    "pe_ratio": 12.634225,
-    "pb_ratio": 1.0148914,
+    "market_cap": 68733427712,
+    "current_price": 628.9,
+    "pe_ratio": 12.646291,
+    "pb_ratio": 1.0158607,
     "roe": 0.15932,
     "debt_to_equity": 201.391,
     "revenue": 10446921728,
@@ -16,6 +16,6 @@
     "eps": 49.73,
     "52_week_high": 888.0,
     "52_week_low": 592.4,
-    "dividend_yield": 1.56
+    "dividend_yield": 1.59
   }
 }

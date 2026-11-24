@@ -1,14 +1,14 @@
 {
   "ticker": "SOTL",
-  "collected_at": "2026-11-23 10:00:01",
+  "collected_at": "2026-11-24 11:56:52",
   "company_info": {
     "name": "Savita Oil Technologies Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals",
-    "market_cap": 39278264320,
-    "current_price": 572.9,
-    "pe_ratio": 6.7115746,
-    "pb_ratio": 1.7222617,
+    "market_cap": 39072583680,
+    "current_price": 569.9,
+    "pe_ratio": 6.6764293,
+    "pb_ratio": 1.713243,
     "roe": 0.29182,
     "debt_to_equity": 0.062,
     "revenue": 54867243008,
@@ -16,6 +16,6 @@
     "eps": 85.36,
     "52_week_high": 860.4,
     "52_week_low": 285.8,
-    "dividend_yield": 0.85
+    "dividend_yield": 0.88
   }
 }

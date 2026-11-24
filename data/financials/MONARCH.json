@@ -1,14 +1,14 @@
 {
   "ticker": "MONARCH",
-  "collected_at": "2026-11-23 09:50:25",
+  "collected_at": "2026-11-24 11:46:59",
   "company_info": {
     "name": "Monarch Networth Capital Limited",
     "sector": "Financial Services",
     "industry": "Capital Markets",
-    "market_cap": 26637520896,
-    "current_price": 336.0,
-    "pe_ratio": 13.849958,
-    "pb_ratio": 2.5020292,
+    "market_cap": 26601844736,
+    "current_price": 335.55,
+    "pe_ratio": 13.831409,
+    "pb_ratio": 2.4986782,
     "roe": 0.19814,
     "debt_to_equity": 8.929,
     "revenue": 3997665024,
@@ -16,6 +16,6 @@
     "eps": 24.26,
     "52_week_high": 406.95,
     "52_week_low": 235.45,
-    "dividend_yield": 0.29
+    "dividend_yield": 0.3
   }
 }

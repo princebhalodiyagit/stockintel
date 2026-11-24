@@ -1,14 +1,14 @@
 {
   "ticker": "PREMCO",
-  "collected_at": "2026-11-23 09:54:48",
+  "collected_at": "2026-11-24 11:51:29",
   "company_info": {
     "name": "Premco Global Limited",
     "sector": "Consumer Cyclical",
     "industry": "Textile Manufacturing",
     "market_cap": "N/A",
-    "current_price": 375.75,
-    "pe_ratio": 16.38683,
-    "pb_ratio": 1.1564528,
+    "current_price": 375.3,
+    "pe_ratio": 16.367205,
+    "pb_ratio": 1.1550678,
     "roe": 0.06949,
     "debt_to_equity": 27.479,
     "revenue": 797475008,
@@ -16,6 +16,6 @@
     "eps": 22.93,
     "52_week_high": 484.5,
     "52_week_low": 363.05,
-    "dividend_yield": 10.7
+    "dividend_yield": 10.66
   }
 }
