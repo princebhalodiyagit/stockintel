@@ -1,14 +1,14 @@
 {
   "ticker": "WSTCSTPAPR",
-  "collected_at": "2026-11-25 10:43:04",
+  "collected_at": "2026-11-26 10:30:05",
   "company_info": {
     "name": "West Coast Paper Mills Limited",
     "sector": "Basic Materials",
     "industry": "Paper & Paper Products",
-    "market_cap": 39404777472,
-    "current_price": 596.6,
-    "pe_ratio": 12.200408,
-    "pb_ratio": 1.0280942,
+    "market_cap": 43007746048,
+    "current_price": 651.15,
+    "pe_ratio": 13.315951,
+    "pb_ratio": 1.1220978,
     "roe": 0.07909,
     "debt_to_equity": 11.21,
     "revenue": 46091497472,
@@ -16,6 +16,6 @@
     "eps": 48.9,
     "52_week_high": 978.05,
     "52_week_low": 375.0,
-    "dividend_yield": 0.49
+    "dividend_yield": 0.5
   }
 }

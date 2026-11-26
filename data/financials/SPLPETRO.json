@@ -1,14 +1,14 @@
 {
   "ticker": "SPLPETRO",
-  "collected_at": "2026-11-25 10:37:48",
+  "collected_at": "2026-11-26 10:24:11",
   "company_info": {
     "name": "Supreme Petrochem Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals",
-    "market_cap": 130707529728,
-    "current_price": 695.1,
-    "pe_ratio": 24.527168,
-    "pb_ratio": 5.1109543,
+    "market_cap": 131478511616,
+    "current_price": 699.2,
+    "pe_ratio": 24.671843,
+    "pb_ratio": 5.141101,
     "roe": 0.22323,
     "debt_to_equity": 4.537,
     "revenue": 65810923520,
@@ -16,6 +16,6 @@
     "eps": 28.34,
     "52_week_high": 899.0,
     "52_week_low": 462.3,
-    "dividend_yield": 1.5
+    "dividend_yield": 1.51
   }
 }

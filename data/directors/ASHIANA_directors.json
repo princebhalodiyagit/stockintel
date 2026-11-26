@@ -1,7 +1,7 @@
 {
   "ticker": "ASHIANA",
   "company": "Ashiana Housing Limited",
-  "collected_at": "2026-11-25 10:11:24",
+  "collected_at": "2026-11-26 09:54:13",
   "directors": [
     {
       "name": "Mr. Ankur  Gupta",
@@ -46,13 +46,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Nitin  Sharma",
-      "role": "Company Secretary & Compliance Officer",
-      "age": 47,
-      "year_born": 1978,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Deepak  Dhyani",
       "role": "Senior VP of Sales & Marketing",
       "age": 46,
@@ -71,6 +64,13 @@
       "role": "Senior Vice President of Bhiwadi & Neemrana",
       "age": 57,
       "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sushil  Joshi",
+      "role": "Senior VP of Facility Management",
+      "age": 46,
+      "year_born": 1979,
       "total_pay": "N/A"
     }
   ]

@@ -1,14 +1,14 @@
 {
   "ticker": "NOCIL",
-  "collected_at": "2026-11-25 10:30:32",
+  "collected_at": "2026-11-26 10:15:59",
   "company_info": {
     "name": "NOCIL Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals",
-    "market_cap": 22560837632,
-    "current_price": 135.06,
-    "pe_ratio": 28.982834,
-    "pb_ratio": 1.2488095,
+    "market_cap": 22594244608,
+    "current_price": 135.26,
+    "pe_ratio": 29.025751,
+    "pb_ratio": 1.2506588,
     "roe": 0.04364,
     "debt_to_equity": 0.363,
     "revenue": 14760999936,
@@ -16,6 +16,6 @@
     "eps": 4.66,
     "52_week_high": 211.2,
     "52_week_low": 125.31,
-    "dividend_yield": 1.12
+    "dividend_yield": 1.11
   }
 }

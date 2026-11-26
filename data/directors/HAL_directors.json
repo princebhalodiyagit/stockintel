@@ -1,7 +1,7 @@
 {
   "ticker": "HAL",
   "company": "Hindustan Aeronautics Limited",
-  "collected_at": "2026-11-25 10:20:59",
+  "collected_at": "2026-11-26 10:05:06",
   "directors": [
     {
       "name": "Mr. Ravi  Kota",
@@ -16,13 +16,6 @@
       "age": 58,
       "year_born": 1967,
       "total_pay": 6460000
-    },
-    {
-      "name": "Mr. Shailesh  Bansal",
-      "role": "Company Secretary & Compliance Officer",
-      "age": 50,
-      "year_born": 1975,
-      "total_pay": 5500000
     },
     {
       "name": "Mr. M.G.  Balasubrahmanya",
@@ -72,6 +65,13 @@
       "age": 60,
       "year_born": 1965,
       "total_pay": 10800000
+    },
+    {
+      "name": "Mr. Jayakrishnan  S. B.Tech.",
+      "role": "Chief Executive Officer of Bangalore Complex",
+      "age": "N/A",
+      "year_born": "N/A",
+      "total_pay": "N/A"
     }
   ]
 }

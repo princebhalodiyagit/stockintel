@@ -1,7 +1,7 @@
 {
   "ticker": "SOUTHBANK",
   "company": "The South Indian Bank Limited",
-  "collected_at": "2026-11-25 10:37:38",
+  "collected_at": "2026-11-26 10:23:58",
   "directors": [
     {
       "name": "Mr. Dolphy  Jose",
@@ -25,41 +25,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Anto George T.",
-      "role": "Executive VP & COO",
-      "age": 56,
-      "year_born": 1969,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. A.  Sony",
-      "role": "CGM, CIO and Head of Strategic Alliances, Digital Business, Marketing & Customer Experience",
-      "age": 52,
-      "year_born": 1973,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ms. Chithra  H. F.C.A.",
-      "role": "Senior GM & Chief Compliance Officer",
-      "age": 56,
-      "year_born": 1969,
-      "total_pay": 2217272
-    },
-    {
-      "name": "Mr. Jimmy  Mathew A.C.M.A., A.C.S.",
-      "role": "Senior GM, Head of HR & Company Secretary",
-      "age": 48,
-      "year_born": 1977,
-      "total_pay": 2170906
-    },
-    {
-      "name": "Mr. Nandakumar  G.",
-      "role": "Senior GM, Head of Internal Audit & Chief of Internal Vigilance",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Shibu K. Thomas",
       "role": "GM & Head - IT Assurance",
       "age": "N/A",
@@ -71,6 +36,13 @@
       "role": "GM & Head of Business Process Group",
       "age": "N/A",
       "year_born": "N/A",
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Minu  Moonjely",
+      "role": "Chief GM & Head of Large and Emerging Corporate and Transaction Banking Group",
+      "age": 52,
+      "year_born": 1973,
       "total_pay": "N/A"
     }
   ]

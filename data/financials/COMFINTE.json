@@ -1,14 +1,14 @@
 {
   "ticker": "COMFINTE",
-  "collected_at": "2026-11-25 10:15:27",
+  "collected_at": "2026-11-26 09:58:47",
   "company_info": {
     "name": "Comfort Intech Limited",
     "sector": "Industrials",
     "industry": "Conglomerates",
-    "market_cap": 1836444544,
-    "current_price": 5.74,
-    "pe_ratio": 71.75,
-    "pb_ratio": 1.0257326,
+    "market_cap": 1823646976,
+    "current_price": 5.7,
+    "pe_ratio": 71.25,
+    "pb_ratio": 1.0185846,
     "roe": -0.01802,
     "debt_to_equity": 9.963,
     "revenue": 1484235008,
@@ -16,6 +16,6 @@
     "eps": 0.08,
     "52_week_high": 11.19,
     "52_week_low": 5.53,
-    "dividend_yield": 0.9
+    "dividend_yield": 0.87
   }
 }

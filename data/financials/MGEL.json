@@ -1,14 +1,14 @@
 {
   "ticker": "MGEL",
-  "collected_at": "2026-11-25 10:28:26",
+  "collected_at": "2026-11-26 10:13:38",
   "company_info": {
     "name": "Mangalam Global Enterprise Limited",
     "sector": "Consumer Defensive",
     "industry": "Farm Products",
-    "market_cap": 6057231360,
-    "current_price": 18.38,
-    "pe_ratio": 15.576271,
-    "pb_ratio": 2.2741895,
+    "market_cap": 5997912064,
+    "current_price": 18.2,
+    "pe_ratio": 15.42373,
+    "pb_ratio": 2.251918,
     "roe": 0.15685001,
     "debt_to_equity": 110.234,
     "revenue": 37547466752,
@@ -16,6 +16,6 @@
     "eps": 1.18,
     "52_week_high": 19.35,
     "52_week_low": 9.53,
-    "dividend_yield": 0.06
+    "dividend_yield": 0.05
   }
 }

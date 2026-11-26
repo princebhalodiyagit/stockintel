@@ -1,7 +1,7 @@
 {
   "ticker": "DLF",
   "company": "DLF Limited",
-  "collected_at": "2026-11-25 10:16:59",
+  "collected_at": "2026-11-26 10:00:31",
   "directors": [
     {
       "name": "Mr. Rajiv  Singh",
@@ -53,13 +53,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Rajiv  Goel",
-      "role": "Senior Vice President of Investor Relations",
-      "age": 55,
-      "year_born": 1970,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Ms. Poonam  Madan B.A., L.L.B.",
       "role": "Senior Executive Director \u0096 Corporate Legal",
       "age": 60,
@@ -71,6 +64,13 @@
       "role": "Group Executive Director of HR",
       "age": 57,
       "year_born": 1968,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Sanjay  Goenka",
+      "role": "Group Executive Director of Commercial and Taxation",
+      "age": 60,
+      "year_born": 1965,
       "total_pay": "N/A"
     }
   ]

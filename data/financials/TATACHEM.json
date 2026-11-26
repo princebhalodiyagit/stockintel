@@ -1,14 +1,14 @@
 {
   "ticker": "TATACHEM",
-  "collected_at": "2026-11-25 10:39:22",
+  "collected_at": "2026-11-26 10:25:57",
   "company_info": {
     "name": "Tata Chemicals Limited",
     "sector": "Basic Materials",
     "industry": "Chemicals",
-    "market_cap": 168928870400,
-    "current_price": 663.1,
+    "market_cap": 169400188928,
+    "current_price": 664.95,
     "pe_ratio": "N/A",
-    "pb_ratio": 0.77037734,
+    "pb_ratio": 0.7725267,
     "roe": -0.09397,
     "debt_to_equity": 33.81,
     "revenue": 154199998464,
@@ -16,6 +16,6 @@
     "eps": -92.79,
     "52_week_high": 854.85,
     "52_week_low": 570.05,
-    "dividend_yield": 1.69
+    "dividend_yield": 1.66
   }
 }

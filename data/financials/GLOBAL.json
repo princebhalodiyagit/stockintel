@@ -1,14 +1,14 @@
 {
   "ticker": "GLOBAL",
-  "collected_at": "2026-11-25 10:19:46",
+  "collected_at": "2026-11-26 10:03:41",
   "company_info": {
     "name": "Global Education Limited",
     "sector": "Consumer Defensive",
     "industry": "Education & Training Services",
-    "market_cap": 7393442816,
-    "current_price": 145.25,
-    "pe_ratio": 28.36914,
-    "pb_ratio": 5.622871,
+    "market_cap": 7408713728,
+    "current_price": 145.55,
+    "pe_ratio": 28.427736,
+    "pb_ratio": 4.849565,
     "roe": 0.2889,
     "debt_to_equity": -0.002,
     "revenue": 954966016,
@@ -16,6 +16,6 @@
     "eps": 5.12,
     "52_week_high": 151.09,
     "52_week_low": 73.36,
-    "dividend_yield": 0.72
+    "dividend_yield": 0.69
   }
 }

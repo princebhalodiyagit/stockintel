@@ -1,7 +1,7 @@
 {
   "ticker": "EPL",
   "company": "EPL Limited",
-  "collected_at": "2026-11-25 10:18:08",
+  "collected_at": "2026-11-26 10:01:50",
   "directors": [
     {
       "name": "Mr. Hemant  Bakshi",
@@ -39,13 +39,6 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Kamlesh  Jain C.A.",
-      "role": "Global Chief Information Officer",
-      "age": 52,
-      "year_born": 1973,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Ms. Sonal  Jain",
       "role": "Global CHRO, Transformation and Marketing Officer",
       "age": "N/A",
@@ -71,6 +64,13 @@
       "role": "President of Creativity & Innovation",
       "age": 51,
       "year_born": 1974,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. Shrihari K. Rao",
+      "role": "President of Global Centre of Excellence of Beauty & Cosmetics",
+      "age": 54,
+      "year_born": 1971,
       "total_pay": "N/A"
     }
   ]

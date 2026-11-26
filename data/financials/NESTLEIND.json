@@ -1,14 +1,14 @@
 {
   "ticker": "NESTLEIND",
-  "collected_at": "2026-11-25 10:30:01",
+  "collected_at": "2026-11-26 10:15:25",
   "company_info": {
     "name": "Nestl\u00e9 India Limited",
     "sector": "Consumer Defensive",
     "industry": "Packaged Foods",
-    "market_cap": 2619614953472,
-    "current_price": 1358.5,
-    "pe_ratio": 64.23168,
-    "pb_ratio": 45.3075,
+    "market_cap": 2545953538048,
+    "current_price": 1320.3,
+    "pe_ratio": 62.425537,
+    "pb_ratio": 44.033485,
     "roe": 0.79863,
     "debt_to_equity": 8.035,
     "revenue": 255397593088,
@@ -16,6 +16,6 @@
     "eps": 21.15,
     "52_week_high": 1553.0,
     "52_week_low": 1147.4,
-    "dividend_yield": 0.92
+    "dividend_yield": 0.88
   }
 }

@@ -1,14 +1,14 @@
 {
   "ticker": "BLUESTARCO",
-  "collected_at": "2026-11-25 10:13:47",
+  "collected_at": "2026-11-26 09:56:55",
   "company_info": {
     "name": "Blue Star Limited",
     "sector": "Industrials",
     "industry": "Building Products & Equipment",
-    "market_cap": 374486990848,
-    "current_price": 1821.5,
-    "pe_ratio": 70.111626,
-    "pb_ratio": 10.734027,
+    "market_cap": 368011411456,
+    "current_price": 1790.0,
+    "pe_ratio": 68.899155,
+    "pb_ratio": 10.548399,
     "roe": 0.16178,
     "debt_to_equity": 22.339,
     "revenue": 133062402048,
@@ -16,6 +16,6 @@
     "eps": 25.98,
     "52_week_high": 2029.6,
     "52_week_low": 1432.3,
-    "dividend_yield": 0.48
+    "dividend_yield": 0.47
   }
 }

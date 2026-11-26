@@ -1,14 +1,14 @@
 {
   "ticker": "SURYAROSNI",
-  "collected_at": "2026-11-25 10:38:52",
+  "collected_at": "2026-11-26 10:25:23",
   "company_info": {
     "name": "Surya Roshni Limited",
     "sector": "Basic Materials",
     "industry": "Steel",
-    "market_cap": 46456561664,
-    "current_price": 213.46,
-    "pe_ratio": 14.792793,
-    "pb_ratio": 1.7133684,
+    "market_cap": 45651304448,
+    "current_price": 209.76,
+    "pe_ratio": 14.536382,
+    "pb_ratio": 1.6836698,
     "roe": 0.120340005,
     "debt_to_equity": 3.628,
     "revenue": 85857001472,
@@ -16,6 +16,6 @@
     "eps": 14.43,
     "52_week_high": 282.55,
     "52_week_low": 187.35,
-    "dividend_yield": 2.32
+    "dividend_yield": 2.34
   }
 }

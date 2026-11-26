@@ -1,14 +1,14 @@
 {
   "ticker": "ORBTEXP",
-  "collected_at": "2026-11-25 10:31:10",
+  "collected_at": "2026-11-26 10:16:42",
   "company_info": {
     "name": "Orbit Exports Limited",
     "sector": "Consumer Cyclical",
     "industry": "Textile Manufacturing",
-    "market_cap": 6308346368,
-    "current_price": 245.85,
-    "pe_ratio": 13.063231,
-    "pb_ratio": 1.9571084,
+    "market_cap": 6262159360,
+    "current_price": 244.05,
+    "pe_ratio": 12.967588,
+    "pb_ratio": 1.9427793,
     "roe": 0.15851,
     "debt_to_equity": 9.672,
     "revenue": 2657184000,
@@ -16,6 +16,6 @@
     "eps": 18.82,
     "52_week_high": 282.85,
     "52_week_low": 135.0,
-    "dividend_yield": 0.4
+    "dividend_yield": 0.41
   }
 }

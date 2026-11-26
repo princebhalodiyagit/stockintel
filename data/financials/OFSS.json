@@ -1,14 +1,14 @@
 {
   "ticker": "OFSS",
-  "collected_at": "2026-11-25 10:30:54",
+  "collected_at": "2026-11-26 10:16:25",
   "company_info": {
     "name": "Oracle Financial Services Software Limited",
     "sector": "Technology",
     "industry": "Software - Infrastructure",
-    "market_cap": 808389246976,
-    "current_price": 9275.0,
-    "pe_ratio": 22.713915,
-    "pb_ratio": 10.507117,
+    "market_cap": 809783787520,
+    "current_price": 9291.0,
+    "pe_ratio": 22.753098,
+    "pb_ratio": 10.525243,
     "roe": 0.47409,
     "debt_to_equity": 0.468,
     "revenue": 90628997120,
@@ -16,6 +16,6 @@
     "eps": 408.34,
     "52_week_high": 12540.0,
     "52_week_low": 6234.5,
-    "dividend_yield": 2.79
+    "dividend_yield": 2.91
   }
 }

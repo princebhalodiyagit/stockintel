@@ -1,14 +1,14 @@
 {
   "ticker": "GLAXO",
-  "collected_at": "2026-11-25 10:19:44",
+  "collected_at": "2026-11-26 10:03:39",
   "company_info": {
     "name": "GlaxoSmithKline Pharmaceuticals Limited",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - General",
-    "market_cap": 459767971840,
-    "current_price": 2714.0,
-    "pe_ratio": 40.10047,
-    "pb_ratio": 24.438341,
+    "market_cap": 470914891776,
+    "current_price": 2779.8,
+    "pe_ratio": 41.072697,
+    "pb_ratio": 25.030842,
     "roe": 0.63896,
     "debt_to_equity": 2.087,
     "revenue": 41585745920,
@@ -16,6 +16,6 @@
     "eps": 67.68,
     "52_week_high": 3120.7,
     "52_week_low": 2088.1,
-    "dividend_yield": 2.11
+    "dividend_yield": 2.1
   }
 }

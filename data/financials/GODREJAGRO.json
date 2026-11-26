@@ -1,14 +1,14 @@
 {
   "ticker": "GODREJAGRO",
-  "collected_at": "2026-11-25 10:20:05",
+  "collected_at": "2026-11-26 10:04:03",
   "company_info": {
     "name": "Godrej Agrovet Limited",
     "sector": "Consumer Defensive",
     "industry": "Packaged Foods",
-    "market_cap": 110684651520,
-    "current_price": 575.25,
-    "pe_ratio": 23.57582,
-    "pb_ratio": 5.3298926,
+    "market_cap": 111540887552,
+    "current_price": 579.7,
+    "pe_ratio": 23.758198,
+    "pb_ratio": 5.371124,
     "roe": 0.21413,
     "debt_to_equity": 82.02,
     "revenue": 109102497792,
@@ -16,6 +16,6 @@
     "eps": 24.4,
     "52_week_high": 698.4,
     "52_week_low": 506.1,
-    "dividend_yield": 1.9
+    "dividend_yield": 1.91
   }
 }

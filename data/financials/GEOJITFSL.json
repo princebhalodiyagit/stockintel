@@ -1,14 +1,14 @@
 {
   "ticker": "GEOJITFSL",
-  "collected_at": "2026-11-25 10:19:28",
+  "collected_at": "2026-11-26 10:03:22",
   "company_info": {
     "name": "Geojit Financial Services Limited",
     "sector": "Financial Services",
     "industry": "Capital Markets",
-    "market_cap": 19415734272,
-    "current_price": 69.56,
-    "pe_ratio": 29.1046,
-    "pb_ratio": 1.631485,
+    "market_cap": 19284545536,
+    "current_price": 69.09,
+    "pe_ratio": 28.907948,
+    "pb_ratio": 1.6204615,
     "roe": 0.05311,
     "debt_to_equity": 12.74,
     "revenue": 6791888896,
@@ -16,6 +16,6 @@
     "eps": 2.39,
     "52_week_high": 86.5,
     "52_week_low": 50.86,
-    "dividend_yield": 2.06
+    "dividend_yield": 2.16
   }
 }

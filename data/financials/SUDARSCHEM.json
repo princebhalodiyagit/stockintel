@@ -1,14 +1,14 @@
 {
   "ticker": "SUDARSCHEM",
-  "collected_at": "2026-11-25 10:38:23",
+  "collected_at": "2026-11-26 10:24:50",
   "company_info": {
     "name": "Sudarshan Chemical Industries Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals",
-    "market_cap": 88543518720,
-    "current_price": 1111.85,
-    "pe_ratio": 100.166664,
-    "pb_ratio": 2.4000146,
+    "market_cap": 87360921600,
+    "current_price": 1097.0,
+    "pe_ratio": 98.82883,
+    "pb_ratio": 2.3679597,
     "roe": 0.025150001,
     "debt_to_equity": 57.657,
     "revenue": 102775996416,
@@ -16,6 +16,6 @@
     "eps": 11.1,
     "52_week_high": 1347.0,
     "52_week_low": 726.4,
-    "dividend_yield": 0.44
+    "dividend_yield": 0.45
   }
 }

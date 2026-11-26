@@ -1,7 +1,7 @@
 {
   "ticker": "AVG",
   "company": "AVG Logistics Limited",
-  "collected_at": "2026-11-25 10:12:03",
+  "collected_at": "2026-11-26 09:54:58",
   "directors": [
     {
       "name": "Mr. Sanjay  Gupta",
@@ -16,13 +16,6 @@
       "age": 54,
       "year_born": 1971,
       "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Mukesh Kumar Nagar",
-      "role": "Company Secretary & Compliance Officer",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": 2300000
     },
     {
       "name": "Ms. Asha  Gupta",
@@ -71,6 +64,13 @@
       "role": "General Manager of Sales & Operations",
       "age": 46,
       "year_born": 1979,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Ms. Mamta  Bhardwaj",
+      "role": "Manager of Human Resource",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]
