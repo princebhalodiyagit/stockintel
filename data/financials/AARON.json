@@ -1,14 +1,14 @@
 {
   "ticker": "AARON",
-  "collected_at": "2026-11-26 09:51:19",
+  "collected_at": "2026-11-27 09:56:12",
   "company_info": {
     "name": "Aaron Industries Limited",
     "sector": "Industrials",
     "industry": "Specialty Industrial Machinery",
-    "market_cap": 2701886208,
-    "current_price": 128.99,
-    "pe_ratio": 39.81173,
-    "pb_ratio": 5.1288276,
+    "market_cap": 2681986816,
+    "current_price": 128.04,
+    "pe_ratio": 39.518517,
+    "pb_ratio": 5.0910535,
     "roe": 0.20156,
     "debt_to_equity": 61.273,
     "revenue": 1020795008,
@@ -16,6 +16,6 @@
     "eps": 3.24,
     "52_week_high": 191.55,
     "52_week_low": 106.8,
-    "dividend_yield": 0.4
+    "dividend_yield": 0.39
   }
 }

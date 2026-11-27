@@ -1,14 +1,14 @@
 {
   "ticker": "GRAUWEIL",
-  "collected_at": "2026-11-26 10:04:27",
+  "collected_at": "2026-11-27 10:09:30",
   "company_info": {
     "name": "Grauer & Weil (India) Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals",
-    "market_cap": 35143925760,
-    "current_price": 77.51,
-    "pe_ratio": 22.663742,
-    "pb_ratio": 3.1152284,
+    "market_cap": 34912686080,
+    "current_price": 77.0,
+    "pe_ratio": 22.51462,
+    "pb_ratio": 3.0947309,
     "roe": 0.14585,
     "debt_to_equity": 2.362,
     "revenue": 12707458048,
@@ -16,6 +16,6 @@
     "eps": 3.42,
     "52_week_high": 115.6,
     "52_week_low": 62.09,
-    "dividend_yield": 0.68
+    "dividend_yield": 0.65
   }
 }

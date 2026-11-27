@@ -1,14 +1,14 @@
 {
   "ticker": "ORIENTCEM",
-  "collected_at": "2026-11-26 10:16:48",
+  "collected_at": "2026-11-27 10:21:39",
   "company_info": {
     "name": "Orient Cement Limited",
     "sector": "Basic Materials",
     "industry": "Building Materials",
-    "market_cap": 25957799936,
-    "current_price": 126.34,
-    "pe_ratio": 13.497864,
-    "pb_ratio": 1.1533581,
+    "market_cap": 25707139072,
+    "current_price": 125.12,
+    "pe_ratio": 13.367522,
+    "pb_ratio": 1.1422207,
     "roe": 0.089420006,
     "debt_to_equity": 3.249,
     "revenue": 24521234432,
@@ -16,6 +16,6 @@
     "eps": 9.36,
     "52_week_high": 179.0,
     "52_week_low": 109.29,
-    "dividend_yield": 0.39
+    "dividend_yield": 0.4
   }
 }

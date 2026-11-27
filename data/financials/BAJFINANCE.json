@@ -1,14 +1,14 @@
 {
   "ticker": "BAJFINANCE",
-  "collected_at": "2026-11-26 09:55:27",
+  "collected_at": "2026-11-27 10:00:23",
   "company_info": {
     "name": "Bajaj Finance Limited",
     "sector": "Financial Services",
     "industry": "Credit Services",
-    "market_cap": 6985798385664,
-    "current_price": 1102.2,
-    "pe_ratio": 31.690626,
-    "pb_ratio": 5.5679603,
+    "market_cap": 6845094166528,
+    "current_price": 1080.0,
+    "pe_ratio": 31.05233,
+    "pb_ratio": 5.455813,
     "roe": 0.19026,
     "debt_to_equity": 342.416,
     "revenue": 495866609664,
@@ -16,6 +16,6 @@
     "eps": 34.78,
     "52_week_high": 1176.4,
     "52_week_low": 787.9,
-    "dividend_yield": 0.48
+    "dividend_yield": 0.49
   }
 }

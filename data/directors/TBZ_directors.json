@@ -1,22 +1,8 @@
 {
   "ticker": "TBZ",
   "company": "Tribhovandas Bhimji Zaveri Limited",
-  "collected_at": "2026-11-26 10:26:09",
+  "collected_at": "2026-11-27 10:31:01",
   "directors": [
-    {
-      "name": "Mr. Govindarajulu Rajendran Radhakrishnan",
-      "role": "Additional Managing Director",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Mr. Govindarajulu Rajendran Ananthapadmanabhan",
-      "role": "Additional Managing Director",
-      "age": "N/A",
-      "year_born": "N/A",
-      "total_pay": "N/A"
-    },
     {
       "name": "Mr. Mukesh  Sharma C.A., C.S.",
       "role": "Chief Financial Officer",
@@ -71,6 +57,13 @@
       "role": "Head of Diamond Operation",
       "age": 56,
       "year_born": 1969,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Mr. K N Jeethendra Babu",
+      "role": "Deputy Chief Executive Officer",
+      "age": "N/A",
+      "year_born": "N/A",
       "total_pay": "N/A"
     }
   ]

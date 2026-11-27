@@ -1,14 +1,14 @@
 {
   "ticker": "PREMIERENE",
-  "collected_at": "2026-11-26 10:18:40",
+  "collected_at": "2026-11-27 10:23:32",
   "company_info": {
     "name": "Premier Energies Limited",
     "sector": "Technology",
     "industry": "Solar",
-    "market_cap": 362825646080,
-    "current_price": 803.5,
-    "pe_ratio": 20.310919,
-    "pb_ratio": 6.952316,
+    "market_cap": 366438121472,
+    "current_price": 811.5,
+    "pe_ratio": 20.513144,
+    "pb_ratio": 7.0215364,
     "roe": 0.40062,
     "debt_to_equity": 68.527,
     "revenue": 92612132864,
@@ -16,6 +16,6 @@
     "eps": 39.56,
     "52_week_high": 1134.0,
     "52_week_low": 660.0,
-    "dividend_yield": 0.15
+    "dividend_yield": 0.16
   }
 }

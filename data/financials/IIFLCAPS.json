@@ -1,14 +1,14 @@
 {
   "ticker": "IIFLCAPS",
-  "collected_at": "2026-11-26 10:06:56",
+  "collected_at": "2026-11-27 10:11:57",
   "company_info": {
     "name": "IIFL Capital Services Limited",
     "sector": "Financial Services",
     "industry": "Capital Markets",
-    "market_cap": 129001570304,
-    "current_price": 346.15,
-    "pe_ratio": 18.600214,
-    "pb_ratio": 3.116391,
+    "market_cap": 129243807744,
+    "current_price": 346.8,
+    "pe_ratio": 18.635141,
+    "pb_ratio": 3.1222427,
     "roe": 0.19534999,
     "debt_to_equity": 64.906,
     "revenue": 24874973184,
@@ -16,6 +16,6 @@
     "eps": 18.61,
     "52_week_high": 411.3,
     "52_week_low": 240.4,
-    "dividend_yield": 0.9
+    "dividend_yield": 0.87
   }
 }

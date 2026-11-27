@@ -1,14 +1,14 @@
 {
   "ticker": "BCPL",
-  "collected_at": "2026-11-26 09:56:01",
+  "collected_at": "2026-11-27 10:00:55",
   "company_info": {
     "name": "BCPL Railway Infrastructure Limited",
     "sector": "Industrials",
     "industry": "Infrastructure Operations",
-    "market_cap": 1081183232,
-    "current_price": 64.65,
-    "pe_ratio": 15.768293,
-    "pb_ratio": 1.0705061,
+    "market_cap": 1094394880,
+    "current_price": 65.44,
+    "pe_ratio": 15.960977,
+    "pb_ratio": 1.0835873,
     "roe": 0.08136,
     "debt_to_equity": 58.452,
     "revenue": 2450920960,
@@ -16,6 +16,6 @@
     "eps": 4.1,
     "52_week_high": 92.0,
     "52_week_low": 59.1,
-    "dividend_yield": 1.55
+    "dividend_yield": 1.54
   }
 }

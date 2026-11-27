@@ -1,14 +1,14 @@
 {
   "ticker": "3MINDIA",
-  "collected_at": "2026-11-26 09:51:12",
+  "collected_at": "2026-11-27 09:56:05",
   "company_info": {
     "name": "3M India Limited",
     "sector": "Industrials",
     "industry": "Conglomerates",
-    "market_cap": 317562322944,
-    "current_price": 28190.0,
-    "pe_ratio": 58.284744,
-    "pb_ratio": 19.968704,
+    "market_cap": 316661104640,
+    "current_price": 28110.0,
+    "pe_ratio": 58.11934,
+    "pb_ratio": 19.912035,
     "roe": 0.34045,
     "debt_to_equity": 11.594,
     "revenue": 55030001664,
@@ -16,6 +16,6 @@
     "eps": 483.66,
     "52_week_high": 38030.0,
     "52_week_low": 26410.0,
-    "dividend_yield": 0.58
+    "dividend_yield": 0.57
   }
 }

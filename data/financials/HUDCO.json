@@ -1,14 +1,14 @@
 {
   "ticker": "HUDCO",
-  "collected_at": "2026-11-26 10:06:25",
+  "collected_at": "2026-11-27 10:11:26",
   "company_info": {
     "name": "Housing and Urban Development Corporation Limited",
     "sector": "Financial Services",
     "industry": "Credit Services",
-    "market_cap": 309914140672,
-    "current_price": 154.81,
-    "pe_ratio": 6.8926983,
-    "pb_ratio": 1.3502128,
+    "market_cap": 311575707648,
+    "current_price": 155.64,
+    "pe_ratio": 6.929653,
+    "pb_ratio": 1.3574519,
     "roe": 0.21743,
     "debt_to_equity": 720.522,
     "revenue": 47879901184,
@@ -16,6 +16,6 @@
     "eps": 22.46,
     "52_week_high": 242.3,
     "52_week_low": 141.81,
-    "dividend_yield": 3.48
+    "dividend_yield": 3.49
   }
 }

@@ -1,14 +1,14 @@
 {
   "ticker": "WEIZMANIND",
-  "collected_at": "2026-11-26 10:29:39",
+  "collected_at": "2026-11-27 10:34:30",
   "company_info": {
     "name": "Weizmann Limited",
     "sector": "Consumer Cyclical",
     "industry": "Textile Manufacturing",
-    "market_cap": 1006325632,
-    "current_price": 64.95,
-    "pe_ratio": 20.684711,
-    "pb_ratio": 1.5007972,
+    "market_cap": 1000438016,
+    "current_price": 64.57,
+    "pe_ratio": 20.563694,
+    "pb_ratio": 1.4920166,
     "roe": 0.07434,
     "debt_to_equity": 10.45,
     "revenue": 1271555968,
@@ -16,6 +16,6 @@
     "eps": 3.14,
     "52_week_high": 111.0,
     "52_week_low": 60.11,
-    "dividend_yield": 0.76
+    "dividend_yield": 0.77
   }
 }

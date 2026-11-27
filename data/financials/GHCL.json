@@ -1,14 +1,14 @@
 {
   "ticker": "GHCL",
-  "collected_at": "2026-11-26 10:03:25",
+  "collected_at": "2026-11-27 10:08:23",
   "company_info": {
     "name": "GHCL Limited",
     "sector": "Basic Materials",
     "industry": "Chemicals",
-    "market_cap": 39243055104,
-    "current_price": 425.95,
-    "pe_ratio": 7.2280674,
-    "pb_ratio": 1.042383,
+    "market_cap": 39261478912,
+    "current_price": 426.15,
+    "pe_ratio": 7.231461,
+    "pb_ratio": 1.0428724,
     "roe": 0.14701,
     "debt_to_equity": 1.884,
     "revenue": 31293399040,
@@ -16,6 +16,6 @@
     "eps": 58.93,
     "52_week_high": 622.8,
     "52_week_low": 370.85,
-    "dividend_yield": 2.79
+    "dividend_yield": 2.82
   }
 }

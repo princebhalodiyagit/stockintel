@@ -1,14 +1,14 @@
 {
   "ticker": "JIOFIN",
-  "collected_at": "2026-11-26 10:09:00",
+  "collected_at": "2026-11-27 10:13:56",
   "company_info": {
     "name": "Jio Financial Services Limited",
     "sector": "Financial Services",
     "industry": "Asset Management",
-    "market_cap": 1555663159296,
-    "current_price": 227.0,
-    "pe_ratio": 86.31178,
-    "pb_ratio": 1.1692473,
+    "market_cap": 1525509390336,
+    "current_price": 222.6,
+    "pe_ratio": 84.63878,
+    "pb_ratio": 1.1465834,
     "roe": 0.012949999,
     "debt_to_equity": 31.949,
     "revenue": 39992799232,
@@ -16,6 +16,6 @@
     "eps": 2.63,
     "52_week_high": 309.8,
     "52_week_low": 202.51,
-    "dividend_yield": 0.27
+    "dividend_yield": 0.26
   }
 }

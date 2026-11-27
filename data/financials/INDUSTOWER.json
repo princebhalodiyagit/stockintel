@@ -1,14 +1,14 @@
 {
   "ticker": "INDUSTOWER",
-  "collected_at": "2026-11-26 10:07:40",
+  "collected_at": "2026-11-27 10:12:39",
   "company_info": {
     "name": "Indus Towers Limited",
     "sector": "Communication Services",
     "industry": "Telecom Services",
-    "market_cap": 999792902144,
-    "current_price": 379.0,
-    "pe_ratio": 14.06308,
-    "pb_ratio": 2.5327792,
+    "market_cap": 996231675904,
+    "current_price": 377.65,
+    "pe_ratio": 14.012986,
+    "pb_ratio": 2.5237572,
     "roe": 0.18832001,
     "debt_to_equity": 55.704,
     "revenue": 331934007296,
@@ -16,6 +16,6 @@
     "eps": 26.95,
     "52_week_high": 481.5,
     "52_week_low": 355.55,
-    "dividend_yield": 3.67
+    "dividend_yield": 3.69
   }
 }

@@ -1,7 +1,7 @@
 {
   "ticker": "ASHIANA",
   "company": "Ashiana Housing Limited",
-  "collected_at": "2026-11-26 09:54:13",
+  "collected_at": "2026-11-27 09:59:08",
   "directors": [
     {
       "name": "Mr. Ankur  Gupta",
@@ -46,31 +46,17 @@
       "total_pay": "N/A"
     },
     {
-      "name": "Mr. Deepak  Dhyani",
-      "role": "Senior VP of Sales & Marketing",
-      "age": 46,
-      "year_born": 1979,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Ms. Surbhi  Dewan",
-      "role": "Vice President of Human Resources",
-      "age": 44,
-      "year_born": 1981,
-      "total_pay": "N/A"
-    },
-    {
-      "name": "Colonel Shantanu  Haldule",
-      "role": "Senior Vice President of Bhiwadi & Neemrana",
-      "age": 57,
-      "year_born": 1968,
-      "total_pay": "N/A"
-    },
-    {
       "name": "Mr. Sushil  Joshi",
       "role": "Senior VP of Facility Management",
       "age": 46,
       "year_born": 1979,
+      "total_pay": "N/A"
+    },
+    {
+      "name": "Major General H.  Dharmarajan",
+      "role": "VP - Chennai",
+      "age": 59,
+      "year_born": 1966,
       "total_pay": "N/A"
     }
   ]

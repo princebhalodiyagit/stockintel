@@ -1,14 +1,14 @@
 {
   "ticker": "LLOYDSENGG",
-  "collected_at": "2026-11-26 10:11:49",
+  "collected_at": "2026-11-27 10:16:41",
   "company_info": {
     "name": "Lloyds Engineering Works Limited",
     "sector": "Industrials",
     "industry": "Specialty Industrial Machinery",
-    "market_cap": 123426971648,
-    "current_price": 79.32,
-    "pe_ratio": 46.385963,
-    "pb_ratio": 4.445939,
+    "market_cap": 123380293632,
+    "current_price": 79.29,
+    "pe_ratio": 46.36842,
+    "pb_ratio": 4.4442577,
     "roe": 0.113620006,
     "debt_to_equity": 14.81,
     "revenue": 18881699840,
@@ -16,6 +16,6 @@
     "eps": 1.71,
     "52_week_high": 104.2,
     "52_week_low": 37.4,
-    "dividend_yield": 0.31
+    "dividend_yield": 0.32
   }
 }
