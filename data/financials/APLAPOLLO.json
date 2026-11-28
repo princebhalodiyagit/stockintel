@@ -1,14 +1,14 @@
 {
   "ticker": "APLAPOLLO",
-  "collected_at": "2026-11-27 09:58:30",
+  "collected_at": "2026-11-28 09:12:16",
   "company_info": {
     "name": "APL Apollo Tubes Limited",
     "sector": "Basic Materials",
     "industry": "Steel",
-    "market_cap": 416487604224,
-    "current_price": 1500.0,
-    "pe_ratio": 31.806616,
-    "pb_ratio": 7.3370085,
+    "market_cap": 419125362688,
+    "current_price": 1509.5,
+    "pe_ratio": 32.008057,
+    "pb_ratio": 7.3834763,
     "roe": 0.25322,
     "debt_to_equity": 16.771,
     "revenue": 249973899264,
@@ -16,6 +16,6 @@
     "eps": 47.16,
     "52_week_high": 2312.3,
     "52_week_low": 1342.2,
-    "dividend_yield": 0.57
+    "dividend_yield": 0.56
   }
 }

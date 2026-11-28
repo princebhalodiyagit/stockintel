@@ -1,14 +1,14 @@
 {
   "ticker": "ATULAUTO",
-  "collected_at": "2026-11-27 09:59:38",
+  "collected_at": "2026-11-28 09:13:24",
   "company_info": {
     "name": "Atul Auto Limited",
     "sector": "Consumer Cyclical",
     "industry": "Auto Manufacturers",
-    "market_cap": 11128263680,
-    "current_price": 401.0,
-    "pe_ratio": 24.875929,
-    "pb_ratio": 2.2742355,
+    "market_cap": 11068598272,
+    "current_price": 398.85,
+    "pe_ratio": 24.742556,
+    "pb_ratio": 2.2620418,
     "roe": 0.10026,
     "debt_to_equity": 21.999,
     "revenue": 9539099648,
@@ -16,6 +16,6 @@
     "eps": 16.12,
     "52_week_high": 596.55,
     "52_week_low": 365.6,
-    "dividend_yield": 1.51
+    "dividend_yield": 1.5
   }
 }

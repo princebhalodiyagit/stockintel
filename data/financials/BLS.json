@@ -1,14 +1,14 @@
 {
   "ticker": "BLS",
-  "collected_at": "2026-11-27 10:01:46",
+  "collected_at": "2026-11-28 09:15:32",
   "company_info": {
     "name": "BLS International Services Limited",
     "sector": "Industrials",
     "industry": "Specialty Business Services",
-    "market_cap": 89227132928,
-    "current_price": 216.8,
-    "pe_ratio": 12.474109,
-    "pb_ratio": 3.1625626,
+    "market_cap": 89247711232,
+    "current_price": 216.85,
+    "pe_ratio": 12.476986,
+    "pb_ratio": 3.1632922,
     "roe": 0.27166998,
     "debt_to_equity": 13.675,
     "revenue": 34142263296,
@@ -16,6 +16,6 @@
     "eps": 17.38,
     "52_week_high": 340.4,
     "52_week_low": 203.15,
-    "dividend_yield": 1.16
+    "dividend_yield": 1.15
   }
 }

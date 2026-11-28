@@ -1,14 +1,14 @@
 {
   "ticker": "ANUHPHR",
-  "collected_at": "2026-11-27 09:58:22",
+  "collected_at": "2026-11-28 09:12:08",
   "company_info": {
     "name": "Anuh Pharma Limited",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - Specialty & Generic",
-    "market_cap": 7947763712,
-    "current_price": 79.3,
-    "pe_ratio": 16.624739,
-    "pb_ratio": 2.2058415,
+    "market_cap": 7923709440,
+    "current_price": 79.06,
+    "pe_ratio": 16.574423,
+    "pb_ratio": 2.1991653,
     "roe": 0.1391,
     "debt_to_equity": 5.411,
     "revenue": 7783471104,
@@ -16,6 +16,6 @@
     "eps": 4.77,
     "52_week_high": 99.5,
     "52_week_low": 67.0,
-    "dividend_yield": 1.89
+    "dividend_yield": 1.9
   }
 }
